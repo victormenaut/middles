@@ -1,0 +1,1971 @@
+
+
+So when they update it, I mean people don't, you'll probably find most people don't say yes.
+It's yeah or yeah or yeah or
+Mhm.
+So when they update it they put 
+Right.
+Is that alright?
+Aye.
+You can say no if you like .
+Right.
+What's a mapping?
+Mm.
+Erm a relationship between two objects.
+Erm have you heard of a many- one mapping?
+One-one mapping,
+Which 
+many-one, one-one, many-many?
+No.
+One-many?
+No.
+Oh tt, erm hmm.
+Mm.
+Shall we go into mappings?
+Yes.
+They're very straightforward.
+Some people 
+ 
+Right let's have a look.
+Some people tend to sort of think of functions and mapping as being the same thing.
+But they're not.
+Er let's have a look.
+Two sets okay?
+Mhm.
+A is a set of kids in a class.
+set of names.
+Now  Michael, Tracey, Sophie etcetera.
+So the elements of this set are kids.
+In that case.
+And some of them have the same name.
+Mhm.
+Now erm let's say they've all got names.
+Okay there's, no one is called Sophie.
+That's, that's a picture of the mapping.
+It's just a tie up, between elements of one set, and elements of another set.
+Mm.
+If you've got more than one element of one set, mapped to the same element of another set,
+Mm.
+yeah?
+You've got a many-one mapping.
+. A many-one mapping.
+Oh right.
+Okay.
+Yeah.
+If it's a one-to-one relationship, like there's only one person called Michael, there's only one called Tracey, there's one called Sophie, you've got a one-one .
+Okay.
+Right.
+Now those are the two important types of mapping.
+Mhm.
+There are two other types.
+There's the one-many mapping.
+Where one element of this maps to, that's the one-many.
+ 
+Okay.
+And you've got the other one which is just a mess, which is the many-many.
+Right.
+Many-many is the real life mapping, it's what tends to happen.
+And it's very difficult to deal with.
+Mm.
+So in maths and computing and everything else, we tend to split it up into many-ones and one-manys and try and sort them out separately.
+Mm.
+Right.
+Now when, so two sets.
+A relationship between members of the sets.
+And basically we can draw a line between an element in one set, and an element in the other, and say that represents some sort of relationship.
+It can be, his name is, or, she is called,
+Mm.
+depending on which way you did the mapping.
+Er is that okay?
+That's a very very 
+Mm.
+quick, what a mapping is.
+I can see the relationship.
+Mm.
+Where it can that apply?
+Right well a function
+is a special sort of mapping.
+A function can be a many-one mapping or a one-one.
+Mm.
+Okay.
+So if you get something like  Y equals two X. There's all your Xs in there.
+And one Y is equal to 
+And what happens there?
+Is this a one-many, many-one, or what?
+Well it's only one Y,
+Right.
+but it's got more than one X in it  
+Ah.
+No.
+This is a set of numbers.
+X and Y are numbers.
+Okay?
+Oh I see I see.
+So it's not, you're looking at it as two.
+You're looking at it as one-to-one.
+If that's a five, it maps to the number ten.
+Right well it's one, so it's one-to-one.
+So it's a one-one.
+That's a one-one mapping, and that's a function.
+Yeah.
+Right.
+Erm we might have another one, minus three, plus three.
+Nine.
+Okay this is
+That's a two-one, that's a many-one.
+Y equals X squared, and that's a many-one.
+Mm.
+Often in maths it'll be a, a two-one.
+But it's just, just called a many-one.
+Those two are functions.
+Right.
+Yeah.
+One-many, sorry many-one or one-one are functions.
+Mm.
+The other sorts are not functions.
+Mm.
+Erm now if someone says draw a graph of this, Y equals square root of X. Well let's say this way.
+Y squared equals X.
+Yeah.
+Right that's not a function.
+Yeah.
+Why not?
+Because there's Y squared Y and Y.
+Erm  what value, if these are  always look at it X to Y. Right?
+Yeah.
+Those are the Xs, erm X is nine.
+sixteen.
+Yeah.
+What would the Y be?
+Four.
+That's one answer.
+Mm.
+What's the other one ?
+Minus four.
+Right.
+So this is a one-many.
+That's a one-many mapping, and it's 
+Mhm.
+not a function.
+Now most of the stuff that we're, just about all the stuff that we're dealing with are functions.
+So before even we get to, is it continuous functions?
+Is it even a function?
+So that's not a function.
+If we chop one of these out.
+And we say
+we say something like, Y maps to the positive or you can say the negative square root.
+Okay?
+Y maps to the negative square root of X, that's a function.
+Y maps to the positive square root of X, that's a function.
+Mm.
+But just stated like that, it's not a function, because it's a one-many.
+Cos you never 
+Eh?
+know with a root
+Yeah.
+whether it's positive or negative.
+Yeah.
+Now this comes into
+when we start with, when we get onto inverse functions.
+Have you done inverse functions?
+I don't know.
+I don't think so.
+They don't ring a bell.
+Erm well they're part of the G C S E syllabus.
+Mm.
+I think I've probably done  some point or other.
+So, yeah.
+Erm a typical thing they, they give you is, so you're happy with
+That.
+mappings?
+And a function those are functions.
+Okay.
+Many-one and one- one.
+Put this on the back here  functions on.
+If you, let's say we have erm something like, Y equals X squared.
+Mhm.
+Right.
+That's a function.
+Mhm.
+It's a, what sort of function is it?
+Is it one-one or a, a many-one?
+It'll be  it won't be a one-one .
+That's got more than one value in it.
+That's got, that's got one value.
+You're okay, you're this function.
+Mm.
+You're that function.
+I give you the input and you tell me the answer.
+Mm.
+Erm six.
+Mm.
+What would you give me?
+Thirty six.
+Okay.
+Five.
+Twenty five.
+So it's one-one.
+Minus five.
+Still twenty five.
+So there's, it only needs any two numbers anywhere in it, to give one number.
+Right?
+Yeah?
+And that makes it a many-one, that's, in fact that's many-one for 
+right.
+every value you can give it.
+So that's a many-one function.
+Now when you try and get the inverse function.
+To come back, take the square root of X, to find out what Y is, that's not a function.
+And they, they will give you things like this and say, find the inverse function.
+Yeah.
+So as that stands, just take the square root of X, not a function, and you'll have to restrict it.
+And say, well we'll either  if we restrict this.
+See you don't restrict the
+When it is a function.
+the value of X here.
+You restrict the value of X when you start off.
+So let's have a look at this.
+We've got positive and negative numbers here.
+Mm.
+Right.
+And there's plus five, and there's minus five.
+Now what can you th th this is all the real numbers, right?
+Mm.
+What can you say about X squared?
+That's positive  
+Always positive.
+Right.
+So you'll only get the positive. 
+Yeah.
+So there's no way of getting back, with the inverse function, to any of these.
+Mm.
+If you're going to take the positive square root.
+Mm.
+When it comes back.
+If you take the negative square root, there's no way of getting back to these.
+Mm.
+So the only way that you can make, I mean this is a function.
+That's a function as it stands.
+Yeah.
+It's a many-one.
+And if they want the inverse function as well, then you've got to restrict the function, the first forward function
+Mm.
+yeah?
+And you've got to say, that, we'll restrict this, right, restrict it to all the negative numbers.
+Yeah.
+So the forward, function is Y equals X squared, which always gives you a positive and then the function comes back, it's coming back that way,
+Mm.
+will always give you the negative  square root of that.
+Yeah.
+Yeah.
+Minus the square root of Y, will give you the X back  that you started with.
+Or you could make it the positive, but you can't have both.
+Mm.
+Okay.
+So most important thing about functions, is what sort of functions is it  a one-one or a many-one?
+Mm.
+So the first thing, is it a function, the first thing, and then two, if it is, is it many-one  or one-one?
+Right.
+And if it's many-one,does the inverse exist?
+Right, now if it does, and it's many-one, yeah?
+Mhm.
+If the forward function   many-one, then you've got to change the forward, you've got to restrict  the input.
+Okay.
+Mhm.
+Erm so you restrict acceptable values of X. Say we're not going to accept any negative numbers in this.
+Mm.
+Right.
+And then it'll work both ways.
+You can square it, gives us plus twenty five, come back, take the square root, it'll give us plus five.
+Ignore the negative square root, because something that gives you two answers,
+Mm.
+is not a function.
+Okay.
+coming back would be one-many  not a function.
+Yeah.
+Okay.
+So this, restricting the input, is one of the things that we get on, inverse functions.
+You restrict the input, to the forward function,
+Yeah.
+so that when you come back, there's only one thing to come back to, there isn't a choice of two.
+It doesn't matter though because you, you put it down as  negatives.
+Doesn't matter which one.
+It doesn't matter which one.
+What, what you have to say here, for this one, right, we restrict X to say X is less than the  of zero.
+Mm.
+Right then that'll be the inverse.
+If we'd have had X greater than or equal to zero, right?
+Mm.
+Then the inverse would be  .
+square root of X
+Mhm.
+coming back.
+It doesn't matter which way you do it, but you can't have both.
+Because coming back won't give coming back 
+No  
+won't give functions.
+So  erm a many-one function, usually be a two-one, and will usually be symmetrical.
+Mm.
+So if you think of what Y equals X squared looks like,yeah?
+Yeah.
+It's symmetrical because for   minus and plus five, you get the same value of Y.
+Yeah.
+So one way of just looking from the graph and sort of  re reminding you, oh, hang on, we've got a many-one here, we haven't got a one-one.
+And it's symmetrical.
+And usually, the even powers of X, or anything, even powers of X plus something else, is going to have some sort of symmetry.
+Okay.
+So that's a little quick rundown of what a mapping is,
+Mm.
+and what a function is.
+Erm  so what are the important things about a function then?
+Erm I don't know.
+Have a guess.
+Erm
+What sort of functions can you have?
+You can only have those that you just said.
+Which are what?
+Many-one and one-one.
+Many-one and one-one.
+Okay.
+Erm now what about this continuous thing, what's that all about?
+How do you mean?
+Functions being continuous.
+Oh.
+What's that about?
+Do you know like, the relationship is
+Erm well anything you like about what continuous, what a continuous, properties of continuous functions.
+And what's the opposite of a continuous function?
+Okay if it's, if it's not continuous, it's discontinuous.
+Right.
+Right.
+What's the difference between a continuous function and a discontinuous function?
+Go on say what you 
+one goes on, and one stops.
+One stop.
+Okay.
+A dis a discontinuous function has got a at least one point of discontinuity.
+Mm.
+There's a point where something weird happens.
+It usually flips from one range to another, but, but mainly, there's a point where the function doesn't exist.
+Yeah.
+Erm, why doesn't it exist?
+Because it's not defined.
+Mm.
+It's not.
+There's no mathematical way of defining it at that point.
+Erm the maths breaks down, it's not valid.
+Mm.
+And that nearly always means .
+Mm.
+So how would you, if I just gave you an equation, of a function,
+Mm.
+what would you look for, if you were looking to see whether it was continuous or not?
+I'd probably look like on the, on the others,
+Yeah.
+Right you'd look at the bottom of the fraction,
+Mm.
+and what are you looking for there?
+What's gonna equal zero.
+Any values of X that would make the bottom line zero.
+Mm.
+Erm and if it's expressed as a number of factors,
+Mm.
+you'd look for a value of X that you could e make .
+Er what's the other thing that's likely to happen, around a discontinuity?
+Something that you mentioned earlier.
+He must have ran out with my copy before, cos this is different.
+I think he did, I think he said he'd go and get you another one.
+No I said it doesn't matter cos  
+Erm does it put you off with Mike there?
+Mm sometimes 
+ 
+cos i it does it doesn't put me off I get very self conscious 
+Yeah.
+Erm this, this happens a lot, if I've got sort of kids and the parents are sitting in, useless.
+And I'm thinking, this kid's alright normally, and they're sitting there  I should know this.
+Yeah
+So 
+That's how I feel,.
+Well he, he doesn't 
+ 
+I know he doesn't really  
+No I, no I don't think he  he's not gonna 
+No I know  
+It's up to you.
+It's if, if he criticizes me later on .
+And erm
+No I know it's
+We were just discussing whether your presence is, is putting the student off.
+Yeah erm I did wonder.
+It tends to be the case .
+Yeah it's just, somebody else there 
+Yeah.
+you're thinking, Oh I'll er er  I think I should know this and erm
+Yeah.
+he's just told me, just told me .
+Er
+get off now if you'd rather.
+It's just you have er a habit of  when Peter explained stuff, you pipe up.
+Mm.
+I piped up?
+No I think it's a good idea to 
+Yeah.
+Erm the work with two students, very often the one that I'm not working with can be learning more, because they're not sort of, ooh he's gonna ask me a question.
+You know.
+And it's ea it's very easy to watch two people talking and think, ooh that's what he just said.
+He's just asking her what he just said.
+Easy.
+But if you're the one who's being asked 
+Sat there.
+the question, you're thinking, ooh ooh no, which er is it important that I word this exactly ?
+And you get a bit off-put.
+Well I did have a thought  
+Mm.
+Mm.
+Why don't you do what John is doing, where he's
+Yeah.
+Yeah.
+It's a good idea actually.
+Yeah.
+Okay.
+Yes.
+Erm
+Oh okay.
+So  you won't object to me 
+No I don't object to you taping this no.
+I was just gonna say erm that provided, provided this is 
+ 
+working alright, you could just copy this if you've got a fast copier.
+No I, no I, well I have, but mine's mini tapes.
+Okay. 
+No it can be very off-putting.
+Even, even if you're just totally 
+No  I did think that myself.
+in the background.
+I didn't intend 
+Erm 
+sort of staying that long anyway.
+Yeah.
+Because especially when someone says, you know, this is what a continuous function is.
+Now what's a continuous function?
+And the person who isn't being asked  just trot it all out exactly what I've said.
+Yeah.
+Even if it doesn't mean anything 
+they don't have to understand it, they just have to remember the words, yeah.
+Er it's, could be very .
+So how are you?
+Oh very well.
+I've got too much work to do.
+Got er enormous assignments to do.
+Which should have been done a long time ago, and I've been given yet another extension.
+Right.
+Okay.
+So  what's the other thing that happens round a discontinuity?
+That you were saying your lecturer explained about one- one session in the first half an hour?
+You went, you went to his lecture?
+Mm.
+He gave one lecture on this topic.
+The asymptotes?
+No he, he, I didn't make that lecture.
+He summed that up in one lecture.
+No.
+Yes.
+Okay.
+Right.
+But I'd missed that one.
+Right.
+Okay.
+And it wasn't until I got back that they'd said he was doing asymptotes .
+Right.
+Right.
+Well that's h what 
+How do you get them?
+That's what often happens, round a discontinuity.
+Doesn't always happen.
+Mm.
+Erm if, if you have a function, erm right, a function is a mapping,
+Mm.
+a mapping is, you start off with one set, and you have another set.
+Mhm.
+They don't have to be numbers, they can be people, trees, names whatever you like.
+And there's some tie up, you could, you could draw a picture, and draw a line from one to the other.
+Say, that maps onto that.
+Yeah.
+map onto  people mapping to names.
+Mm.
+Erm now  a function  is what sort of mapping?
+Er many-one.
+Or?
+One-one.
+The one-one is easy to deal with, the many-one .
+You can, you can do lots of functions with numbers.
+Mm.
+And we tend to  maths  numbers.
+We concentrate on the ones that are numbers.
+But the properties of mappings and functions apply to other things.
+Erm we'll also tend to work with continuous functions.
+Nearly all the time.
+Most of the stuff you've met so far is continuous functions.
+So you tend to think, all functions are continuous aren't they?
+It's obvious, you know.
+No.
+They're not continuous.
+Erm so you're, you're a function generator, I'll give you a number,
+Mm.
+you do the function to it, and then you pass it back to me.
+And your function is designed as, when I give you a number, you give me the nearest integer, which is just above it.
+Which is equal to, that's equal to it or just above it.
+So one point two?
+One.
+Just above it.
+Oh you mean one point 
+Nearest, nearest inte nearest integer above it.
+two.
+Right two, okay.
+One point three?
+Two.
+One point nine?
+Two.
+Right one point nine recurring?
+Two.
+Okay.
+Two point two.
+two point fifteen zero one?
+three.
+Well it depends how you defined it.
+I mean I said, the erm it's the nearest integer which is equal to it or above it.
+Ah.
+Yes.
+Mm.
+We're not talking of rounding, we're just talking of a function that's made up.
+Yeah 
+Right.
+So if you draw a graph of that,
+Mm.
+Right.
+Yeah.
+There's X and Y and erm  one, two, three, there.
+Nought goes up to one, well  nought is actually nought  
+Yes.
+Just after nought goes to one.
+One.
+And then it suddenly jumps, two, then it jumps to three, then it jumps to four.
+And at these points here,infinitely small little region of the graph there, where the graph doesn't exist.
+Okay.
+Yeah.
+There isn't any asymptote.
+Yeah.
+It's just a ser a little staircase, a series of flat short straight lines.
+That's a function.
+Mm.
+It's got one input, and it's got one output.
+Right.
+It's a one it's a one-one function.
+Doesn't look like a function, but it is a function.
+So  maps to nearest integer equal to or above, nearest integer greater than or equal to X. 
+Erm
+Did I say it's a one-one?
+Yeah.
+You said this is like these are one-one functions.
+Did I?
+I'm sorry if I did.
+Tell me, is that a one-one function?
+Well I wouldn't have thought it was a one-one function.
+I'd have thought it was many-one .
+So many-one.
+many-one.
+well I've given many, many different answers here, I could have been here all day, giving you just between point five and point six, and you'd have been giving one as the answer every time.
+So no  
+So it's many inputs to one answer.
+That's it.
+And one input to one answer.
+Right, and that's a function.
+There are other things which are mappings, one input many answers.
+I've never recall doing anything like this before.
+Well
+Unless
+you possibly did it at G C S E in about three minutes.
+Well these are mappings, we don't bother with them, but here's functions, that's what we do really concentrate on.
+And even then, you probably wouldn't have bothered with discontinuous functions.
+He'd say, here's a function, Y equals X squared.
+And it, it is continuous and it looks continuous.
+Yeah.
+And you just assume, well they're continuous aren't they.
+So when you come to discontinuous 
+I mean there, there are  
+functions it sort of throws you a bit.
+Yeah.
+There are things that I have thought to myself about these.
+Where you have got a function because you can manipulate them so much, and turn them around, and I thought, there must be points along functions, where it is, it goes against the rules,
+Right.
+when it doesn't exist, or when it is invalid.
+Because I know that's a part of maths is picking those points out.
+And knowing and understanding the 
+Yeah.
+points .
+Yeah.
+The big erm you've probably seen proofs proving quotes, that three equals two, and things like that.
+And they're nearly all, all the ones that I can think of, are based on division by zero.
+Yeah.
+Now if you've got a function which has got a discontinuity in it, and you don't pick that out,
+Mm.
+and you try and put those values in, you, you can prove anything.
+So the answer that comes out, is just rubbish.
+Mm.
+Because somewhere, you've, you've done a division by zero.
+And this is sort of right at the beginning, by assuming that the function was continuous when it wasn't.
+Yeah.
+was just sort of setting all up for yourself to fail really.
+You know  set this trap for you.
+I think that's what's the part of it all is because with maths, there is so many rules, there's so many 
+Well 
+different parts.
+There's o it's, I mean if you think of languages, it's dead simple, maths.
+It's erm zero is not accepted as a number by a lot of mathematicians.
+Yeah.
+Cos it doesn't follow all the rules.
+Mm.
+You can do subtraction, addition, division, multiplication, with all the numbers apart from zero.
+Mm.
+You can't divide by zero.
+Now because of that, you can multiply by .
+Yeah, you can multiply  that's fine 
+ 
+no problem there.
+It's only the division by zero
+Mm.
+erm because it doesn't follow all the rules, they say, well it's not really a number.
+And it's  you know, some say yes, some say no.
+I tend to think it isn't.
+Well it's a neither entity.
+It's er it's an oddity.
+Yeah.
+It's a neither entity, cos it's 
+Yeah .
+neither that side nor that side.
+Mm.
+And considering  it's not just the band that it's on, it can stretch to the band 
+Yeah.
+either way.
+Because it's so near  
+And it's, it's, it's more of a number than minus one.
+Yeah.
+It's closer 
+I mean it's, it's real.
+How many elephants are there in the room?
+None.
+None.
+Okay.
+Mm.
+Have a look and see how many elephants you can see.
+Oh minus four.
+What?
+ 
+How many cars out, how many cars out there?
+Minus six.
+It's rubbish.
+Mm.
+But the rules work very nicely.
+But they don't work for zero.
+So you have to be careful of zero.
+Mm yeah.
+B I think what it is it's purely because, in electronics or when you're working out an equation, for a value for something else,
+Yeah.
+if you had a zero, on the bottom line at all,
+Yeah.
+then it is, it does, it's not that it's invalid, it's not that it's, it can't be, it's purely it's, infinite.
+And that's what you're taught in electrical in electronics.
+You say it's infinite  
+Erm right.
+Okay well a mathematician will s a mathematician will say, if it's nearly zero,
+No these are when the value is 
+if it's as close as you like to zero,
+Aha.
+then it's infinite.
+If it's actually zero, who knows.
+We d our rules don't cover it, we don't know.
+You're in the realm of sort of metaphysics then, it's not maths any more, it's division by zero.
+Mm.
+For all practical purposes, you'll normally get an asymptote.
+And you'll say, well it's getting closer, as it gets closer and closer to zero it's getting bigger and bigger and bigger, so when it gets to zero, it'll be infinite.
+I mean a simple thing is erm, if you, if you spin something like that for example.
+Yeah.
+As it goes r you've heard something sort of er say an ashtray going round on a hard surface.
+And at the point of contact, goes round faster and faster.
+Yeah.
+Right.
+Now what happens when it's going faster and faster, you can graph it, and you can see it going right up.
+Mm.
+What happens when it's absolutely stopped?
+Does that mean that the point of contact is now whizzing round infinitely quickly?
+No.
+yes  no.
+Who cares.
+It doesn't matter.
+Mm.
+It's just that what it means is, our model has broken down.
+Yeah.
+Our mathematical model of what's happening erm gives us a bit of a silly answer really.
+Mm.
+That point of contact is whizzing round infinitely quickly.
+Doesn't look as if it's moving at all to me.
+ 
+It's not moving it's just that the model, when it gets pushed to its limits, doesn't work any more.
+Mm.
+Erm so whether you think of it as the point is now whizzing round infinitely quickly, or it just stopped,
+Mm.
+it was really going faster and faster and faster and suddenly it stopped dead.
+. It's a discontinuity.
+Mm.
+Okay.
+So  there's the real world  and there's maths.
+It's like that with everything there's 
+Well 
+ideal, and there's what really happens.
+Maths explains things very well, up to a point.
+As long as you stick to the rules.
+And there's two, two main rules.
+One, does the maths faithfully follow the real world?
+Does it model it correctly?
+Mm.
+Yes, that's okay.
+And then there's the other rule,i is it valid within the rules of maths?
+And when you come up against it,division by zero, it's not.
+And whether it's electronics or physics or maths or anything else, erm when you get to the point where you're dividing by zero, you have to say well now we leave the, the mathematical model, and we just go back to the common sense model.
+Mm.
+Right.
+So I mean, what do you mean by infinite, in a circuit?
+To get zero resistance for example.
+In a 
+Well it 
+straight circuit.
+It's not ze zero 
+Have you got infinite current?
+Yeah basically.
+It's not bec the relationships 
+Well what have you got infinite current?
+Well no no.
+We wouldn't have infinite current.
+Okay.
+I mean you start off with a, a fixed quantity of electrons that you can push down this superconductor.
+Mm.
+What it basically is I think, is that potentially it can be infinite, because there is not
+Okay.
+a fine line  
+What's infini what's infinity cubed?
+That's still infinity.
+So it's a very, it's 
+I think that's  
+a very imprecise idea, this infinity.
+Well that's that's what it is.
+Yeah.
+It's because it's imprecise that they, they refer to it as being infinite.
+Yeah.
+Because it's unmeasurable.
+It, potentially it can go to infinity.
+Erm, right, not necessarily.
+Erm I mean if you were working with erm solid state circuits, and you're talking about microamps,
+Mm.
+someone puts a hundred amps through it.
+Mm.
+That's infinity.
+Well it is but  
+If you're talking about power transmission, right, and somebody puts  erm two hundred kilowatts
+Mm.
+down a wire, well that's a small value.
+Mm.
+Erm
+But I think that 
+So infinity just depends on what's big enough to swamp the little bit that you're looking at.
+And there's all different types of infinity.
+But usually I think ours have been it's more it goes down to, not actual being but a an actual reading, it goes down to potentially what it's capable.
+Right.
+Or p because you can't take a measurement for, there is a relationship between whatever's going on, but you're looking at so many different functions within one actual function.
+So it's coming back to functions again.
+That you've got to look at little bits at a time.
+Mm.
+If there's any discontinuity, you'd normally look either side of it,
+Yeah.
+and see what's happening.
+I mean, with the Y equals one over X that we were looking at on Friday.
+Like that on one side and like this on the other.
+How do they get from minus infinity,
+Mm.
+bigger than any number you can possibly think of, to plus infinity, with the tiniest change in X. That you could imagine.
+Mm.
+I mean tinier than that, tinier than that, and it just flips.
+Well round about that point, We've got to be very careful because, we've got to be very careful about interpreting the model as reality.
+Right and this 
+Mm.
+is where a lot of the problems come in.
+If you get into the maths, you get into the model, and you start thinking of it as reality erm even in a circuit, say simple things like Ohm's Law.
+It's a good approximation, but it's not true, cos the more current you put through, the resistance goes, the temperature goes up, so the resistance changes.
+Mm.
+So it's not true, but it, you know, it's good enough, it's a very good approximation.
+Erm but you get some circuits where the only thing you're interested in is the tiny deviations from Ohm's Law.
+Mm.
+So it's, it's looking at very small parts of the graph if you like.
+Very small 
+Mm.
+areas of the function, where things that are a little bit out of the ordinary start happening.
+Yeah.
+And when it's things like division by zero, that's the time to, to s back off and say, well, we've got a model that works, that side of zero and that side of zero.
+When it's actually zero, forget about the model,
+Mm.
+because the rules that we've made for ourselves in maths, er we will, we're about to break those.
+Yeah.
+So we just get away from the model now, and see what happens in reality.
+And it might be that infinity is a hundred amps, or 
+Mhm.
+two amps or erm  five years if you're talking about charging up a capacitor or something.
+It's you know, if you're talking in milliseconds and then you go to five years,
+Mm.
+that's infinity.
+But it's easy to get carried away with these, oh well infinity  infinity, is still infinity.
+Mm.
+It's just something which is so big, that for the problem we're working on at the moment,you'd be there forever, or you'd be there  from here to the moon or something.
+Mm.
+It's just something that's very big, compared to what we want.
+Right.
+Okay.
+I don't really think that  should erm I mean half of it is not true anyway.
+half of it's not true and the other half is lies.
+Half of it, no where there are so many and so much in electronics which conflicts with one another.
+And the same with electrics.
+Yeah but, so your electronics is a complicated subject and erm  I mean if you just go to quantum theory,
+Mm.
+something can exist in, at that energy level or that,
+Mm.
+and nowhere in between.
+Mm.
+Well how does it get from one to the other?
+Well it jumps.
+Well it jumps.
+Well don't you see it going past, if you stood in the middle and watched it, there it goes?
+No.
+Well why not?
+Because it's an energy that you cannot see.
+It's a potential energy 
+Or measure or 
+You can't measure it.
+Mhm.
+You know that  
+Well surely you could measure it as it went from one to the other?
+No.
+You would know about it 
+Okay, so we've got something that's a bit weird.
+Like this sort of this function of jumping .
+Right?
+Tiny
+erm you can't explain it with maths any more.
+You can't explain it with the funny little rules that we have for how your potential and different things vary in your circuit.
+That breaks down.
+Mm.
+And we've got a point where  back off from that, say, well let's have a bit of common sense, what's happening here?
+Mm.
+Mm.
+So it's, it's all about realizing the limitation of your model.
+So that people  absolutely spot on, always.
+It's not, it's a very good approximation most of the time, it's an awful lot better than erm you know,wh what sort of current do you think's flowing in that Joe?
+And he sort of puts his hand near it, oh it's a bit warm, oh I'd say about a couple of amps.
+What about that one,.
+It's not very scientific.
+Mm.
+So using the maths helps  to get it more and more accurate, but there comes a point where it .
+That's, that's, that's what happens.
+So that's a weird function.
+Mm.
+Right sort of you could, I mean you could do the rounding up function if you like, which is what we were  sort of point five or above it goes to the next int integer.
+You could draw a function for that.
+Mm.
+It's a many-one.
+If you try and do the inverse function,
+Mm.
+it won't work.
+I give you one point two,give me two and I say,
+ 
+Well okay, you gave me two, now what did I give you.
+It could have been anything.
+Mm.
+But if I restrict my input to integers
+Mm.
+one, one, three, three.
+Okay, you've got three.
+Well it would come from three.
+Now the only way to make that one-one, is for me to restrict my input to integers.
+And then you can get back, and use the inverse function  get back, from your answer you can tell where it came from.
+Yeah.
+But if it was many-one in the first place .
+Yeah?
+So that's the big difference in functions between many-one and one-one.
+Mm.
+Okay.
+It's recognizing the many-one.
+I mean  I know it's obviously, it, it's got to be summed up  and if you've got five inputs and you come out with one answer, you are not going to get the inverse of this one out.
+Because there are five inputs.
+So your on your only answer is, well it could have been any one of these five.
+That's a mapping,
+Mm.
+fine, but it's not a function.
+No.
+And there are special things we can do with functions, and we need to make sure they're functions before we do them.
+the other thing is, functions split into ranges, which each ra each bit of them, each range, is continuous, but the breaks between the ranges .
+Yeah.
+Now erm, you're making some notes on what to look at when you're drawing the graph 
+Right.
+Function.
+Is it continuous?whole range?
+If not, okay.
+So maybe erm   maybe up there.
+Put it in if you like, doesn't matter.
+And label it one, put that two.
+Is what sort of a, well is it a function, is the first thing.
+And then what sort of function?
+So is it a function?
+And is it a one-one or a many-one.
+And if it's a many-one, watch out.
+Alright?
+Yes.
+if it's a many-one, watch out, cos you're going to need, what you're going to have to do if you need the inverse function at any time,
+Is restrict  
+i is restrict that many-one, choose your input so that it will make the forward function, a one-one.
+Okay?
+So very simple function Y equals X.  Y equals X plus two.
+No problem with that.
+Beautifully well behaved, you can see what it's doing, nice and continuous.
+the inverse function very easily.
+Unless  let's, let's say  erm Y equals X plus two.
+Yeah.
+Okay.
+Erm  you're the you  sort of generate the answer so er if I say three,.
+Okay.
+Now if you got five, where did that come from.
+What must I have given you?
+Well if it's something plus  three, then you must have given me two.
+Right so to get back to what I gave you, you'll take three off.
+Mm.
+Erm let's say, you finished up with zero,
+Mm.
+where did that come from?
+Well if it's plus three, you must have  minus three.
+Okay.
+Now let's say, erm only positive numbers are acceptable.
+Mhm.
+Alright?
+Mm.
+Erm we have to restrict the input, I'd have to restrict the input to three.
+Greater than or equal to three.
+Mhm.
+Okay.
+Erm so this, this is what happens in addition and subtraction.
+Mm.
+Erm when you get you know, sort of,what's, what's ten take away eight?
+Well two.
+What's eight take away ten take away ten?
+Can't do it.
+Right.
+True, you can't do it, if you're restricting yourself to a positive answer.
+cos you don't get minus two biscuits.
+You know .
+How many biscuits do I get today?
+I've been very good.
+Oh, you get minus two.
+Okay?
+Or if you'd have been naughty, you'd have got minus six.
+I think  nuts.
+Yeah.
+It's very eas I mean, you're, you're very happy with negative numbers.
+No.
+No?
+. They do a very very useful job, we'd be lost without them.
+Yeah?
+Especially in circuits and things like that.
+But they're not real.
+No.
+I mean, they're even called reals  but they're not.
+No well I wouldn't have looked at them from that, from the point of view of
+Yeah.
+if you've got greater than, and you are taking away
+Yeah.
+then I would see, yes this is negative.
+Yeah.
+But I would not see it as when you're looking along the  because that's the first way you're taught it.
+Yeah.
+I always find  plus three or whatever.
+Yeah.
+And you're looking and what, what, what relevance is all this  got to it because it's not, nothing's given negative,
+Yeah.
+cos you don't give somebody nothing or less than nothing.
+Mm.
+It's nothing and that's where it ends.
+Yeah.
+So that as you say, you don't get minus two biscuits, you don't get minus three apples, you don't get minus, you know nobody gives you a minus amount of money.
+You can't, it's not, you can't touch it 
+Well the bank does.
+And it works.
+No no th the bank says that you, you owe them.
+So it's just switching it the other way round.
+So  what's minus one.
+Really, it's an operator that rotates a vector through a hundred and eighty.
+  
+Your vector is, your vector's which way the money's going.
+And minus one rotates it.
+Mm.
+Puts it the other way round.
+Mm.
+Yeah.
+Which brings you on to what's the square root of minus one?
+Mm.
+what's the square root of minus one?
+You can't have a square root of minus one.
+Well you use it all the time in electronics.
+You cannot have  J minus one is, well no we use 
+Okay.
+J as a minus one 
+Well yeah.
+Okay.
+because they realized that they needed it to invent something to fall in to what they've already got.
+.
+So they needed to invent negative numbers.
+So they invented them.
+I meant 
+I mean, we don't like saying, we can't do it, in maths.
+So we say, oh well, we can do it, but we'll have to invent another sort of number.
+Mm.
+And there aren't many
+Mm.
+extras that we have to bring in.
+It's like matrices.
+I mean, I know that's a method of of counting 
+Erm okay.
+Matrices.
+Matrices   
+well I mean it's
+And I've told you minus one is er an operator which rotates a vector.
+Mm.
+so what's the square root of minus one?
+There's a, there's a vector.
+Mhm.
+this is any, any old vector.
+Multiply that by minus one
+and it becomes that.
+Now I'm going to, what I'm going to, what I'm going to do is I'm going to operate on it.
+some operator, that keeps the same magnitude,
+Mhm.
+but rotates it anticlockwise through ninety degrees.
+Let's, let's call this operator .
+Let's call it omega.
+Omega.
+So omega operating on V  gives you the same  but rotated anticlockwise.
+What happens if you do when you've got the answer there, you operate it you operate on it again with omega?
+Goes to minus V. So this thing 
+Right.
+Okay?
+If you do it twice, do omega squared on it, and it's equivalent to multiplying it by minus one.
+Mm.
+as the square root of minus one.
+And that's the, that's the J that you use in your electronic circuits.
+Right?
+Now vectors are already a bit of a weird thing
+Mm.
+without bringing that in.
+But negative numbers are more weird than anything you'll ever meet in maths.
+Mm.
+Right?
+But everyone accepts it.
+Mm.
+Gets used to using them as if they're real.
+They almost, almost be over to the window, saying, look at those minus three cars
+and, and wondering why people didn't understand.
+Mm.
+Erm so anything to do with minus one, or negative numbers you expect weird 
+ 
+things to come up.
+But that's, that's, that's all the square root of minus one is.
+Mm.
+You, you get used to the idea that all squares must be positive, so a negative number can't have a square root.
+Okay, well  negative numbers are funny things anyway.
+Well this is where, I mean this is like this comes into omega squared will came in to  electronics.
+The J notation will come in  
+Yeah no normally in maths you have you use I.
+Mm.
+Right, in electronics you use J. So it's A plus I B. For a complex or an imaginary number.
+Wonderful names.
+Guaranteed to put you off.
+What are you doing today?
+Imaginary numbers.
+Ooh we were doing complex numbers.
+That sounds hard.
+They're, they're just, I mean, if you're doing things like A plus B times A minus B, or X plus Y all squared, no problem.
+Mm.
+Somebody else looks .
+What's that?
+Numbers.
+No they're not they're letters.
+So it's, it's developing the degree of abstraction.
+So that you move further and further away from these nice familiar counting numbers that you learnt.
+saying they are, one, two, three,
+algebra  
+Erm
+Because algebra is letters, and if you have got er something which is  you need a root of it or,you can do it with a number, you can't do it with a letter.
+Mm.
+You just have to put the indexes up with the letters to say what you're going to do to it.
+Er algebra is similar to, if you like erm if you think of English.
+You can, everybody who can talk knows what a noun or a verb, an adjective, an adverb and things like that are.
+And what the rules are to using them.
+But they don't know that they're called nouns and verbs.
+Yeah.
+And if you said, draw me a picture of a typical sentence, they couldn't do it sort of, noun, verb, and probably another noun.
+Mm.
+That's what most English sentences look like.
+Erm well what are all these funny things, there're no words in that.
+They would say, oh yes, he went to school, she picked a cat.
+Give you millions of examples, but they're just examples, they're not sort of showing you the shape of it.
+Yeah.
+And showing the essence of it, and what is true for all numbers.
+Mhm.
+So when you go into the algebra, you're extracting what is true for all numbers.
+A times B, is always equal to B times A.
+Right.
+integers.
+if you're talking about matrices,
+Mm.
+it's not true.
+But matrices aren't numbers.
+No.
+They're a number are a set of numbers in a weird shape .
+so having things like division by a matrix, when the matrix happens to be zero.
+what does that mean?division by zero sounds like a good way out here.
+We don't know.
+Invalid.
+Get out.
+You know.
+Good that's got out of that one.
+Erm 
+if I put that on my exam 
+Well I, I'd give you some marks for that.
+Well I mean we're doing matrices and I know matrices sort of, comes into I can't remember wh which part of it, because it's I know it's later on it's about .
+Mm.
+But it actually comes in with differentiation, to work out circuits.
+And I'm really not  looking forward to that one .
+No I, I wouldn't be looking forward to that 
+Because I, I can remember doing matrices on G C S E. Most of it, I can't remember.
+I can remember having a particular question, which is what's this matrix equal to, when it's the inverse of zeros?
+. What the hell?
+And it's something to do with getting the num the, the system so you've got zeros in  and I didn't understand what the heck it was on about.
+Well they're probably just asking you, asking for the answer that I just gave you.
+What happens when the inverse is
+Mm.
+erm when the determinant is zero.
+Mm.
+And there isn't an inverse.
+Why isn't there an inverse?
+Cos  dividing by zero.
+Mm.
+I mean there might be millions of them for all we know, but we can't find them using our system of maths, cos ours does not allow division by zero.
+Yeah.
+Because we try to relate it to the real world.
+Yeah.
+Yeah?
+Mm.
+And division is sharing out between sharing it out into so many sets.
+You can think of it as sharing it out between people, share that ten pound out between ten of you.
+No problem.
+Share it out between none of you, the process goes on forever.
+shared out.
+You can't do it.
+Mm.
+Mm..
+Okay.
+Back to, back to functions and drawing pretty pictures of them.
+If it's many-one, be very careful.
+You need to restrict input so that, so that they usually call them a forward function.
+So forward function, is one-one.
+Right?
+Yeah.
+Then .
+Okay?
+Because if the forward function is many-one,forward function is many-one, then the reverse mapping would be
+ 
+is going to be one-many, which is not a function.
+Mm.
+So we're going to have .
+You can't, you can't, you can't have one rule for the forward and one rule for the backward, it's got to be the same rules for all, so you restrict the input for the forward function.
+So that makes it a one-one.
+And then the reverse.
+Well if, if the reverse exists.
+Mm.
+might now, might not always.
+Erm  for example you could have a function, erm  saying Y Y equals zero times X. So all the answers are going to be zero.
+X.
+Okay?
+So you'd have to restrict that a lot.
+You'd probably just restrict it down to two numbers, zero maps to zero and zero maps back to zero.
+Mm.
+That would be the simplest.
+Yeah.
+Erm there are other ways of doing it.
+So  you're interested in what sort of function you've got.
+Is it a function for a start.
+If it is, is it many-one, one-many?
+Mm.
+If you're going to have to find the inverse, you're going to need to restrict it.
+. Number two then is, is it a continuous function?
+If it is , if it's not, then they will often ask you, for what range is the function for what or ranges is the function continuous?
+And if you exclude the points of discontinuity, then the bits in between often from minus infinity up to plus infinity
+Mm.
+Those  continuous well behaved functions.
+Okay?
+Mm.
+And on those points where they're not continuous, anything can happen.
+So you know 
+So it looks as if it's going off to infinity or something, but
+On this bit here.
+This was your question.
+Yeah.
+of X  where you just want  it is continuous.
+Right.
+So obviously, it's not continuous at that point and around 
+Right.
+that point, and it's not continuous around that point.
+Right.
+So would, what I was wondering is, is the continuous going to be, up to there and after there, or can it be up to there, in the middle  
+mm right.
+So there's three bits.
+I mean probably, I haven't looked at that function, but it's probably from minus infinity, up to as close as you like to minus three.
+Yeah.
+But you can't actually get there.
+No.
+And then flip just to the other side of minus three, again minus three, plus the tiniest bit,
+Yeah.
+And it's now, it's continuous again all the way up to but not including plus four.
+So when you give your limits,
+Mm.
+Be very careful with your less than or equal, greater than and equal.
+Whether you put the equal or not.
+Yeah.
+Usually with these, with the discontinuities, it's going to be, don't put the equal in.
+Right so it's
+Yeah, cos you haven't got a value, to equal it to.
+X less than minus three but not equal to it.
+Yes.
+Yeah?
+And then in this range, X will be greater than minus three but less than four.
+Mm.
+Not equal to, and again, the last bit, greater than four  up to infin greater than four you don't say greater than four, less than infinity.
+Greater than four.
+Erm that would be okay.
+It was just, I wondered if, so if I get something along this line, I mean I can cope with something like this.
+I think.
+Well I, I think this  two things about it.
+One it's  it's the basis of, of maths.
+Mm.
+It's also the, the way to understand it, drawing pictures.
+Yes.
+Right?
+It's much bet better than thousands of words and equations and everything else, get a picture, see how it's behaving.
+Tt but everything we do is based on this, based on functions.
+Mm.
+All your  electronic theory and everything else, they're all functions.
+Sine functions all sorts of 
+  
+Right?
+Exponential fun they're all functions.
+Mm.
+So it's a good idea to know what a function is
+Yeah.
+before you start doing it.
+And most people spend years playing with functions before they find out what one  is .
+tell you what most of them do.
+Yeah.
+And they think that they're all continuous,.
+And that's when you really start getting problems and they start treating something as a continuous function, and it's not.
+Or treating  one-one function and trying to find the inverse, and it's not.
+weird answers and erm I mean, it can have very serious consequences  and you find you're working on a little discontinuity.
+Yes.
+And .
+Mm.
+It does a does affect other relationships.
+So how would you sum up a function?
+A function?
+Mm.
+It's a mapping.
+And how would you sum up a mapping?
+A mapping is a very very vague concept that just says, there are two sets, okay?
+Mm.
+Erm you could s you could have two empty sets, but that's a bit weird.
+talking about nothings again.
+Nothing nothing mapping to nothing.
+Erm at least one element in each set.
+Mm.
+And the simplest way of summing it up, is that you  if you can join a line from one to the other.
+Which represents a relationship.
+So a relationship exists between an element of one set and an element of the other way of the other set.
+And there is a way of describing how to get there.
+Right.
+You could have erm a function erm everyone, let's assume everyone in the world has a name.
+Mhm.
+some don't but let's assume everyone has a name.
+And you map to the first letter of your last name, say.
+Mm.
+And you go to the, the dole office and they have  all the alphabet out there, and you, you go for the letter which is the first letter of your last name.
+Erm 
+Mhm.
+that's a function.
+So it's a mapping definitely.
+Cos it's you and  
+It's telling you how to get from your set, which is the first set we're talking about, which is your name, to the second set which is which box you go to, in the, in the dole.
+Right.
+Okay?
+So that's a mapping.
+It tells you precisely how to get there.
+It gives you enough information, for you to know where you finish.
+Yeah.
+Which, which element of the other set, you're tied up with.
+Mm.
+Okay?
+Mm.
+So
+It's a relationship between one set 
+A relationship.
+and another set.
+Right.
+So you could have a relationship between parents and children.
+Say erm everyone has two parents.
+more or less safe on that.
+Everyone,everyone has two parent and erm so a relationship exists, a mapping exists.
+Mm.
+You map to say your father.
+Okay?to his father.
+chains of mappings.
+Erm so a child, every child in the world sort of, maps to his father.
+That's a mapping.
+. What 
+Mm.
+sort of mapping is that?
+Well it'll be one-to-one, but I would have looked at that as many-to- one, because, one child has come from more than one parent.
+Well hang on let's erm, yeah.
+Here's a set, we'll make it a very small set so we can see what's happening.
+Yeah.
+And it's only got one father in it.
+Right.
+And we've got  children.
+. There's a few.
+Right.
+Each element in this set maps to its father.
+Okay?
+Mm.
+And what's the inverse mapping?
+Well you'd have to restrict it.
+It's okay as a mapping.
+Each father maps to many children.
+But if we want it as a function, right, I give you this person's name is Sophie say, and she maps to her father.
+And now all we've got, all you've got to start from is Sophie's father.
+Mm.
+Sophie.
+And I say, well whose, whose the child I started out with?
+Well it's Sophie hasn't it?
+No actually the one I started off with is Greg.
+. Yeah?
+That's not a function.
+Erm so not a function coming back.
+It is a function going .
+One answer .
+Coming back, lots of possible answers.
+Mm.
+Who is the child of this father?
+Could be one of the twenty three.
+Yeah.
+It's a mapping.
+It's fine.
+But it's not a function.
+Right.
+Now if I 
+Okay.
+just write in there
+So that's, that's, I mean you can give a very precise mathematical definitions of what we're talking about.
+Yeah.
+But er Russell and Whitehead, don't know if you've seen Principae Mathematica.
+About this thick, several 
+Mhm.
+volumes.
+And most of it is erm whether one and one makes two or not.
+Right
+But  it's a very, it's a very tight academic mathematical treatment of it.
+Erm but you don't need it.
+Cos most people will accept .
+Yeah okay, got that.
+ 
+And another one makes three.
+yeah got that, yeah.
+Got several books on it.
+Yes.
+With all sorts of weird theory of sets and mappings and functions and everything else.
+I know that  I, I mean I  is just at the moment going through the S A T S course.
+And that's been another thing that's been worrying me over the weekend.
+Mm.
+Because I've had
+Well the worry's not gonna help.
+No but I mean, it's something that had to be dealt with, aside  junior school and everything else that's  applications getting made elsewhere.
+But erm I've spent sort of twelve months trying to cope with snippets about S A T S. And his previous teacher who was in the second year, is a really good, very conscientious teacher.
+And is all  the children.
+Yeah.
+And what's to their benefit.
+Right.
+This one however, the union she's in is not the union which is pulling out.
+And  pushing
+It doesn't make a lot of difference.
+Erm for a long 
+I've pulled him out of it I pulled him out of it for the simple reason, he is the only one which is, I didn't want to segregate him on his own.
+Well
+My opinion from last year, is that they are far too young to actually be put into this 
+Labelled and screened and 
+But it's not just, it's not labelling and screening them it's 
+Most of the, most of the, most of the teachers feel that there is far too much admin work to do with this.
+There is.
+A lot of them are having nervous breakdowns or sort of ruining their family life because 
+Mm.
+of it.
+Others are saying, a lot of them for the last few years have been saying, this is ridiculous.
+I mean, if you think of say, the time we've spent talking about functions and mapping.
+Mm.
+It's a very important thing.
+Mm.
+Erm it would normally be glossed over in about three minutes.
+Mm.
+And then they'd go on to Y equals X squared, can you differentiate that?
+Good, right, well you've done differentiation.
+Yeah.
+Now have you integrated that?
+Good, well you've done integration.
+Right that's got that bit of the course covered.
+And when they come to the exam they're, how do you integrate this?
+Yeah.
+Erm there's too much in it.
+So most teachers are tending to ignore the national curriculum, and the tests and everything else, and teach what they've always taught.
+The basic stuff that they know they need, to go to the next stage.
+Because if they don't understand that, there's no point going on to the next stage.
+Cos you're piling more and more confusion.
+You see I don't think 
+So teachers I don't think are going to
+They, they think now that they've got a feeling that this might be taken out, all these testing schemes and stuff because I said to them, While their argument is that while she's doing these SAT schemes, and she's following this, she's all worked up,
+Yeah.
+she's not teaching ,
+Yeah.
+she's all worked up, she's all nervous because she's, she's trying to get through them and  Michael is going er further and further away from his maths.
+Because she's trying to push m multiplication in, that doesn't come in till the juniors.
+He's getting it rammed in him now.
+So if he's getting that rammed in in him now, what's he missing out on?
+What part of it is missing?
+I'm having, I'm saying simplistic things to him, what is, ten and seventeen?
+Erm fift and he's still going back to the fingers.
+And I think, well this is okay it's acceptable
+Yeah.
+but he's losing the concept of it and the understanding because 
+Well 
+it's getting shoved in.
+Yeah.
+Now 
+Just get him he needs to know, erm numbers that add up to ten.
+Mm.
+Right?
+Numbers that add up to twenty is a bonus.
+Which will help him.
+But numbers that add up to ten,.
+And a cut down multiplication table, where he just learns about half of them.
+Well I've tried to explain to him, I've actually sat down and said, You have got, and I've done it in a way of, of sets.
+T trying to simplify multiplication because that I remember starting multiplication,
+Yeah.
+and I remember going through parrot fashion with everybody else.
+Two times two is four, two times three is six.
+Now that didn't benefit me at all.
+Because come somebody saying, and just giving me them, I had to go through them all .
+And I think that's no good.
+five million people .
+Well yeah, because you're having I mean, it's like nines.
+Yeah.
+It's simple at nine,twenty you know, it goes down, it's got a particular pattern.
+Yeah.
+So they're easier.
+Yeah.
+So if you can relate to something that's over five, you know approximately where it's gonna be.
+Yeah.
+Without being actually accurate.
+But you can determine quicker, the things between them.
+And I think, the way they're doing it now I don't know how she's teaching them, I know she's distraught.
+Because she's got the two  and as she said to me, it doesn't matter in the junior school, he will take a teacher's assessment or a report with him anyway.
+So why put him under the pressure, she sa cos I said, I want to know what the long-term effect of me taking him out of this is, because, effectively I'm taking him out of something of the system, knowing, he's going to miss that.
+Mm.
+So I'm concerned, what effect am I gonna have on his future?
+And she's, well the effect that you're gonna put on him, is probably better than what the, the others that are sitting the S A T S course.
+At some time, you'll have to come back into some sort of a system like G C S Es if, if they're, I mean they might be changed, but there'll be something like 
+He's only aged eleven, he's only got four years before he has to have something assessed anyway.
+And to me, they cannot get an overall assessment of a child, sitting so many tests.
+Yeah.
+They get confused the minute you say to them, there's a test.
+ooh.
+Yeah.
+And they go into a panic.
+That's no good, because then the true worth of the child is not coming out, and at that age I mean, what had started it was last year I  I didn't want him to do it.
+Because I thought, you know, at seven they're too young, they're still babies, they're not
+you know, they c the they make decisions, yeah, but they're still learning so much that you, they can't trust a decision that they make there and then.
+Now 
+No but the big thing is that they only learn .
+Yeah.
+er anything that's work, they've got built in resistance.
+Erm 
+I, yeah.
+I mean, Michael is extremely lazy anyway.
+The best way to do it is to get some get some coins or pebbles or something, and play, yourself
+Mm.
+till he comes over and wants to know what you're doing.
+And it's a 
+Mm.
+game.
+Mm.
+Erm you have to put them into  use erm twelve to start with.
+Yeah.
+And see what patterns you then make.
+Mm.
+Yeah?
+Twelve ones, one twelve,
+Mm.
+two lots of six in.
+And you can look at it one way, and say, oh I've got, I've got two rows here with six in, and space them out a bit so, or give him that so he's got sort of, two rows with six in, and you say, oh from where you're looking at it, it's six rows with two in.
+Come round, have a look at it, come this way.
+Oh yeah.
+Well how many have we got?
+Well it's still the same, whichever way you look at it.
+And let him find out  three by four  same as four by three.
+Factors of twelve are useful anyway.
+Yeah.
+Erm there's a tendency not to bother with multiplication tables too much, because you do everything on your calculator.
+And that's fine, until it comes to .
+Yes.
+And you can say, what's a third plus a quarter?
+Now if you get a kid who knows that three fours are twelve, there's no problem, but if they don't 
+Well this is where Michael is a he would rather, I mean when I say to him  can I just do some work on you calc I say, no, cos you are not doing any work, the calculator's doing the work.
+Doing the work.
+Mm.
+I s a cos I bought him a calculator but it was primarily for 
+Well you can 
+checking
+you can give him his tables written out
+Mm.
+and or a calculator, and ask him, er not to recite  tables, but ask him, five ones.
+Mm.
+Erm and sort of keep asking things like three fours and four threes and five tens and .
+So he wor it's, it's very difficult to keep your mouth shut and let him realize
+Yeah well  
+what the answer is.
+I mean but 
+ 
+when he, when they do discover it, when he does discover it for himself, he thinks, hey, I can do this and I invented this myself.
+Hey I can do it.
+I mean I know through the summer holidays that I've really got to get to work with him on his maths, likewise I know I've got a lot of work to do myself for
+Well that's gonna 
+August.
+be your big problem I think.
+Concentrating on your own work.
+It's time.
+Erm
+Unfortunately, he's in the position whereby, although I have got my work yet the problem I face is not just now, it's come September, he is in a new school, he's going to have new people, there's new teachers, there's new rules, there's new policies.
+Yeah.
+And it's a lot further away than this one.
+Yeah, well the easy way for them to assess him is have a look at his tests, and if he hasn't done any, then they'll just assess him on what he can do.
+Mm.
+Can you do additions,
+He can do addition and he can do take-aways, and he's pretty, he's not so bad with them but I think what it is, is basically they're cramming them now.
+the ones who are, who have seen it all before, and done it from last year, because they had to split a smaller section of them up into the first year.
+So they've done it.
+Yeah.
+They did it last year.
+So they're pretty confident.
+Whereas these
+Yeah.
+These coming up now are not confident and I know by, okay the girl is particularly bright,
+Mm.
+but her and Michael are both being  pretty equal to one another, for some time.
+Yeah.
+I don't think that by any standard that Michael is  needs sort of, a lot of work, with his work.
+He is quick, he is intelligent
+The main thing is interested and motivated.
+That's with him, it's motivation.
+He is, if he can get you to do it for him, then it's done.
+Yeah.
+And he is  
+If you get him to do erm addition and multiplication, let him use the calculator, let him 
+Right.
+have an addition table, made out.
+And h let him realize that he's remembering these, and it's easier than looking it up every time.
+It's great fun using a calculator when it's a new toy but when you've got to use it every time you need to work something out,
+Yeah.
+you start to think, oh  three add one, next one up.
+Yeah.
+Erm  give him that on a calculator, some things add one,
+I mean  
+all the time, and eventually, I'm not using that, and he'll just start giving you the answers, and when he does start giving the answers, keep on, let him get a lot right.
+Mhm.
+Because he's got this new system, he wants to use it a bit.
+ 
+Erm so you probably think, oh he's got it now,you've done two or three of them, let him do about ten of them, what's six add one?
+. What's erm what's ten add one then?
+Right.
+We do have a terrible problem for some reason, when you get to the end of a number, any number block, whether twenty, thirty, forty, and you get  there was a big block there.
+Well yeah.
+Because there is a, there is a big block there, there's a big change,
+Yeah  
+weird numbers 
+to another number, and that he, he used to get really stuck on ninety plus ten or ninety nine plus one.
+Do it with money, get erm about a pounds worth of pennies,
+Mm.
+and ten Ps and pound coins.
+Mm.
+And erm let him, let him add five pence and seven pence.
+Mm.
+And say, well what's that?all these pennies.
+Mm.
+Right that's ten and two.
+What's twenty three and erm eighteen?
+Mm.
+Right I'm not, not having those pennies, change that for a ten.
+Mm.
+And I'm sure he'll be able to do that.
+And then he will just apply that to numbers.
+Yeah.
+He does actually I, I've tried doing it with him on paper,
+Mm.
+when he was, he brought work home.
+And he cut it in ten blocks.
+Mm.
+Now he didn't actually  to begin with, he didn't pick up the concept of  counting in tens.
+Well he will if you, if you, you, he, he will if he uses money.
+He, he does now.
+Yeah a he, he does now, he understands 
+Yeah.
+the ten, and two units are 
+Yeah.
+And show him subtraction by counting off, erm you buy something for thirty seven P, and he gives fifty pence.
+Mm.
+So that's thirty seven P, thirty eight, thirty nine,
+Mm.
+forty, and ten.
+Yeah.
+It's a lot easier than subtraction, and it gets the answer.
+Erm 
+Yeah.
+Well it's something they can actually relate 
+It gets them 
+to because they  
+It's got to be something real.
+You can't talk to him about erm division by zero being infinity.
+No.
+He won't buy that.
+Neither will I.
+So it's got to be something you can relate to, and once the model gets too far removed from reality, he'll switch off.
+Yeah.
+So it's got to be you know they 
+Because they can't see , it doesn't apply to them  
+But better get back to this.
+Right.
+Erm so you're okay on mappings and functions.
+Yes.
+And your drawing 
+That's what I was in .
+Okay?
+So you've got a function, you've got some expression that you want, and they will usually say, sketch in a function.
+Mm.
+So you can probably assume it is a function, but you should check what sort of function it is.
+Erm  watch out for the  ones.
+Then dis discontinuity, does the function exist for a whole range?
+Yeah.
+If not, where does it stop .
+Mm.
+Okay?
+Now the next thing is,is where which values of X would make Y Well first of all, the easy thing is, what happens to Y when X is zero?
+Okay?
+Yeah.
+What's F of zero?
+Er do you want me to?
+Yeah.
+What is F of zero?
+What happens to Y
+When X equals zero?
+And then the next bit which is sort of solving the equation, is what values of X would make Y equal to zero?when  when is F of X equal to zero?
+Mm.
+And the next thing that comes in is what you asked about, where are these points in inflection and these turning points?
+Have a look at .
+Erm what's differentiation all about?
+What's differentiation all about?
+Why, why is everyone rushing off doing it all the time?
+Mm.
+What is it?
+It's a function of a function.
+Mm.
+I could draw you a picture of that.
+I could draw you a picture of that .
+Yeah.
+Here's, here's a set  one, two, here's a set of  function here.
+And 
+Two of these map to one of those.
+So that looks like a function of a function.
+This mapping is a function.
+Is that what you mean?
+No.
+So t try to think of it as something a bit more real.
+Erm  there's a curve.
+We want to find the gradient of the curve 
+Mm.
+at that point.
+Happy with what gradient is?
+gradient is a slope.
+Yeah.
+That distance and that distance, use those as a ratio, tan of that angle.
+Yeah.
+Right.
+And it tells us whether the curves .
+So an interesting point is where the gradient does this.
+Right or the other shapes we've been talking about.
+Right?
+Yeah.
+Now there's an easy way to find that out without plotting every point.
+Mhm.
+Erm cos if we differentiate it gives us the gradient at any point.
+Mm.
+Right you can only differentiate a continuous function.
+Yeah.
+Well the  another of function, a differentiable function.
+Mm.
+Now if it's not, sometimes there are some continuous ones that 
+Isn't it the velocity?
+Differentiation the velocity of
+Yeah.
+That's a practical
+Yeah.
+a practical example of it.
+In the sort of pure maths, you can differentiate a function, your functions are split into two types, differentiable and non-differentiable, we'll just concentrate on the differentiable one.
+Er generally if you try and differentiate a function which isn't continuous,
+Mm.
+the only way to do it is to split it into two continuous bits.
+And do 
+Mm.
+each bit at a time.
+Mm.
+Okay?
+So if we've got something like Y equals X plus one times X minus two times X plus three.
+Mhm.
+Right.
+And someone said, draw a sketch of that.
+Mm.
+Okay?
+What's it gonna look like roughly?
+Well it's going to be something like that cos it's 
+Yeah so it's
+Cubic.
+it's cubic.
+What happens when X is minus infinity, this weird number that disobeys all the rules?
+When X is extremely negative?
+Y i is negative.
+Yes but what's this come to?.
+Are they  talking about such a large number.
+Right, we're talking about such a, all we got to look T I T the sine of X, and it's plus times plus times plus, so it's .
+Mm.
+Okay?
+And so we're, it looks like X cubed.
+Right.
+Yeah.
+Minus infinity, minus X cubed, and at plus infinity,
+Er  cubed
+Plus X cubed.
+Zero?
+X is zero, do you think we'd get
+No.
+You think some number here.
+So there's some points right away?
+Yeah.
+Erm then what are the values of, so we've done  what is Y when X is nought?
+minus six.
+Right so the next thing we'll do is
+Is  these.
+Yes.
+Which values of X would make Y equal nought?
+Minus one.
+Okay so minus one.
+So we've got quite a, we know from this, that it's roughly er cubic.
+We know now where it cuts the axes.
+We know roughly what its shape is.
+The only other thing we want to find out, so we know it looks something like this.
+Yeah.
+the axes are somewhere depending on these.
+Now the other t the important points of this are, don't forget these bits are very important.
+Mm.
+Tend to get left out.
+People tend to do, well we'll do it from minus  well we'll do it from minus ten to plus ten there.
+That's a picture of it.
+It isn't, it's just a very tiny part of that function.
+Yeah.
+Don't forget the outside limits.
+Where does this happen, because now that's very important.
+Mm.
+Very interesting bit.
+Where it's going up and then it levels out and it comes down.
+It's going down, it levels out and starts going up again.
+ 
+Right.
+Right.
+Local minimum and local maximum.
+Local maximum.
+That's not the highest value it ever takes, cos all these are much higher.
+Yeah but that's 
+Yeah.
+just going  
+And that's, all of these are much lower.
+So it's a local maximum and a local minimum.
+In, in this range .
+Yeah.
+So how do you find those points?
+I don't know.
+I can't remember.
+Is it differentiation?
+It is differentiation.
+So could you differentiate that?
+So if someone said, sketch that?
+You'd need to differentiate this to find
+isn't that one?
+Well now what are you going to do?
+How are you trying to differentiate it?
+I don't know .
+So you're just doing one  
+Er you've got to work these out.
+Right so you have to expand it.
+Okay.
+So what's this gonna come to, the first two brackets?
+Well it's X squared, and it's
+And don't be afraid to put those on when you're doing this.
+I usually do actually.
+Right.
+Yeah.
+I usually do because I'm not, he does a, a quick method which is sort of and I, I don't go to that because it's too mu 
+Hopeless.
+It's no, it's no, it's no, it is much too easy to make a mistake.
+With a little bit of extra time you can 
+Yeah.
+get it right.
+So that's 
+Yeah.
+gonna be a minus two .
+So.
+Okay.
+Yeah.
+Minus two X and then?
+Er that's just gonna be minus two because  I do it
+Oh I see.
+Right.
+like that, like that, and like that and like that.
+Okay.
+So your next one is?
+Well i there is a minus two X, then there's a plus one X.  Right and er  now it's minus two.
+Okay.
+Right.
+So X squared
+X squared minus one X minus two.
+X plus three.
+Yeah.
+switch it about, like we can with three times four and four times three, cos these are only numbers.
+Yeah.
+That might be seven, this might be three.
+Mm.
+whatever it is, it's a number.
+Okay?
+So you can do the same on that.
+So if you do the same on that one, and then differentiate it.
+Now I'm getting confused now.
+Okay.
+So a sys a system.
+minus X squared  minus two X. Then we do this way, three X squared 
+Mm.
+minus three X. 
+And add them up.
+Yeah.
+And that's Y equals 
+Right and now I can differentiate that.
+Right.
+Good 
+No that has a .
+And that .
+Right okay?
+So where does these maximum,maximum and minimum come in?
+Well this i wh what does D Y by D X mean?
+Well that's, it's the velocity of something  
+Okay.
+If we were if we were doing velocity  time graphs and things.
+But this is just a some
+That's the gradient.
+That's the gradient.
+Ah.
+Right.
+And what are we looking for there and there?
+We're looking for the local minimum and the local maximum.
+Right and what happens to the gradient at that point and at that point?
+They stop.
+They stop.
+It takes a special 
+ 
+value.
+Yeah it changes
+Yeah.
+from here, it's getting closer and closer to a certain value, it reaches that value, and then it changes 
+ 
+and then it gets to the same value again 
+ 
+here.
+Right, what is the value of a, of a gradient that's absolutely flat, absolutely level?
+Not going uphill or down, it's just level?
+Zero.
+Right.
+So you put this to zero.
+Right.
+So you're looking for, values of X, that will make the gradient zero.
+And that's what the gradient is for any X along here.
+So what would you do now?
+Right, so we've got three X min plus four X  zero.
+Yeah, erm don't just suddenly come out with it like that.
+No.
+When the gradient equals zero.
+Right.
+Then that equals zero.
+Right.
+So what values of X would make that zero?
+Erm    Well plus five would it?
+Are you looking for each particular turn, or are you looking for everything .
+Well which wh what gives you the value of the gradient?
+Erm , This  D D Y by D X equals that.
+So if I said, X is three, how would you work out what the gradient was?
+What's the gradient, at the point where X is equal to three?
+Erm
+How do you work it out?
+This
+three times three squared, plus four times three, minus five, that would give you the gradient,three.
+Mm.
+Yeah.
+So this whole expression, gives you the gradient.
+You just put X into it
+Mm.
+and it tells you what the gradient is.
+Now we want the gradient to be nought.
+So you've got to find some value of X that you put into there, and there, to make the whole expression equal to zero.
+Nought.
+But look, that'll make it minus five.
+Yes.
+Is there any quick way of doing this or is it just  just trial by error?
+Well how would you no forget all about differentiation now, if I gave you something like that, three X squared plus four X minus five equals zero.
+which you've got there,
+Yeah.
+and I said, solve that equation.
+What would you do?
+It's a quadratic.
+Right so what would you do?
+Erm
+It doesn't look as if it'll factorize easily.
+No it doesn't.
+And even, even if it does, it's often quicker not to bother trying to factorize it, because, especially in an exam, if you could 
