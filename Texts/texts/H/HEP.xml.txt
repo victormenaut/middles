@@ -1,0 +1,752 @@
+
+
+in Europe er  product.
+So we have an established base.
+Now obviously in Bracknell, Maidenhead and in the City, erm and as I said to you, we've recently opened er er an office in in Leeds er  to base our expansion in the North and up into Scotland.
+Erm well over a hundred staff and growing.
+Erm a comprehensive er training centre  in all locations and a team of professional consultants .
+Where are we?
+I mean  any anybody  services, which is probably the the background we came from,success on Wall Street.
+Er we now have applications in production areas in all those er in all those .
+. We own the street I think was the er one of the advertising campaigns that ran in America.
+Eighteen of the top twenty two market  in the in the U S A  use .
+Not just use  but have have built their their whole company I T strategy around .
+Er nearer to home we've recently  have adopted a similar strategy of making  their .
+In the commercial  names such as and  are implementing  solutions throughout their their whole store network.
+, their manufacturing plant and process control depends entirely on  products.
+we've inherited from the states and er replicating throughout throughout throughout the U K and into Europe.
+Government er  for us in the U K and  representations  within er within the audience.
+Erm   Customs and Excise and Charity Commission, they're not just users, again they've chosen  as a strategic partner for database development.
+Er and yes there's even a juggling busker from .
+Solutions applications  from Huw erm you'll hear more from one of er systems integration and and product developers later on in the day.
+we have our erm  developing products.
+We don't , we don't sell applications, but  we develop the products on  technology er in all those areas.
+What I'd like to do now is hand over to Phill  er  Europe, talking to you the client server strategy and where we are today with our products.
+Garry.
+What I'd like to do for the next twenty minutes  of the er of the seminar is talk about client server today.
+As Garry's already mentioned  started back in nineteen eighty five and delivered its first products in eighty seven.
+It was fairly erm  revolutionary at the time in  in the fact it was really adopting a client server approach in network computing, and it was the first  way to do that.
+So what I'd like to do is just discuss with you what we believe client server is as a combination of hardware and software and the  architecture for delivering a client server solution.
+At the end of this part of the presentation we'll also see a short videotape which erm discusses the experiences of one of  customers using this architecture.
+When we talk about the Online Enterprise what  really mean is the business needs of organizations in the nineteen nineties.
+And we believe there are several of them.
+One is the need for  applications.
+Traditionally  database management systems have been excellent at decision support.
+However they have had to prove their worth for online transaction processing.
+They were good at at at flexibly reporting on data through a relational model but  has really delivered online transaction processing when it came to the market back in ninety eighty seven with its multi-threaded server architecture.
+What the customer's always looking for is distributed heterogeneous systems which means that the software that they are investing in is an architecture which is portable.
+So  is an architecture which runs across multiple different types of hardware on server machines plus multiple  such as desktop devices and across lots of heterogeneous networks.
+So we can really protect your investment in your present hardware infrastructure.
+Something that a lot of other open systems vendors propose is a big bang approach to evolving to that type of architecture away from proprietary systems.
+is very different in that it it proposes a migrationary and evolutionary approach towards open systems.
+We can coexist with your present hardware and software environments.
+Now that's something which is unique to .
+So we're not proposing that you turn off the mainframe on Friday and turn on your Unix or open systems machines with your database on it on Monday.
+We're proposing that you integrate your presently existing investments in hardware and software and move over over time.
+And  enables you to move your skillbase over a time as well.
+All of these things are really integrated through  definition of a client server relational database management system, and that's what I'd really like to describe now.
+Just to underline what I what I was saying .
+When we talk about online we're talking about the ability for the software infrastructure to support decision support and transaction processing.
+And just because the software you're using can do transaction processing it doesn't mean it can do decision support.
+They're very different requirements.
+Traditionally with relational database management systems companies would batch load data from the mainframe on maybe a a once a day or once a week basis and load that information onto the database  systems and use it for decision support.
+We're talking about integrating both of those distinct and different requirements.
+This this slide really sums up the mission or the goal of , which is the integration of yo all your information resource.
+If you look at the blue line in the middle of the slide then look to your right, each of those erm icons represents a source or service provider  a server on the network.
+So for instance you may have already have a relational database management system, it may or may not be , but that information exists as a service or service provided on the network.
+There will also be non-relational data.
+Over ninety percent of the world's data is indeed not held in a relational database, and it may not be appropriate for all forms of information.
+So for instance you may have real-time .
+If you're a financial institution that might be  or  data, and if you're a manufacturing plant it might be process control information on P L Cs on the shop floor.
+You'll also have application services so in the office it might be email or you may have E D I talking to your suppliers.
+certainly  applications.
+These are applications which you wrote ten years ago and they may have been written in a an old  like COBOL, but they meet a business need and if they're meeting the business need day in day out then why should you replace them?
+So all of these things are service providers and provide information on the network.
+And  goal or mission is to enable you to integrate that information seamlessly and deliver it to the desktop in a form which is appropriate to all of the users in the enterprise.
+So we for instance will enable you to use decision support tools against any of that information in a seamless manner.
+And that's not jus just decision support tools from , that's decision support from any of over two hundred front-end vendors which link into the  architecture.
+You can really choose the best of the tools and technology for the best  users.
+We'll also talk about the ability to integrate the information to application development through online transaction processing applications and the icon at the bottom representing  software  which I've just mentioned.
+Tools like Lotus One Two Three, like Microsoft Excel,, Datareive, Paradox, Dbase, the list goes on.
+If we go back to the nineteen seventies or the early eighties and look at how we developed applications  we take an old language like maybe COBOL as an example.
+We might define the way we  that application as four logical components.
+And that's on a host-based system on one machine.
+Those components would be presentation services which is  the man-machine interface or the way the application looks on the screen.
+That might be a thirty two seventy screen on a on a mainframe, it might be a G U I P C on a desktop.
+Behind that there'll be presentation logic which defines the way that the screen behaves based on user input.
+So if I press erm a function key on the keyboard what happens next on the screen, if I click the mouse on a certain icon on the screen what happens next.
+But the fundamental part of any application is what we call the transaction integrity logic or the business rules which actually model the way you want to do business.
+Which model your enterprise.
+So you look you look  analysis of design er come up with er sort of elementary functions which you need to model inside the applications.
+And that's what we're talking about by transaction integrity logic.
+That's fundamental.
+And that becomes the arbitrator for requests for information for the data access mechanism, whatever that happens to me be.
+It might be a , it might be a relational database management system, it might even be a hierarchical system.
+It could be any source of information within that application.
+So the challenge in the eighties was to say how you best split that processing of the application across the network to take advantage of the processing power and the mips of the server machines, the processing power and the strengths of the desktop device as well as minimizing the network traffic between those two types of er hardware.
+Traditionally other open systems vendors have taken this approach, which is to say we'll have the entire application on the desktop and we'll centralize the server resource on a server hardware machine.
+So we'll have a single S twelve query server, a relational database management system, which can be accessed from the applications on the database.
+Now there's a number of disadvantages to this traditional approach.
+One is the performance aspect because every time we need to access the relational database across the network we have to send a large piece of transactional logic, a piece of S Q L code, across the network, and that could be significant in size.
+We may have many hundreds of clients accessing that database all passing over large pieces of code, and obviously this Four G L code is not a message-based protocol, it is in fact a language which we're using in the wrong manner.
+So we can have a network bottleneck with many many users.
+But also the database is passive, it never knows which client is going to communicate with it next.
+It takes requests as and when they turn up and the server deals with them and res returns the results back to the client that requested that information.
+But the S Q L code which is sent to it has to be interpreted when it gets to the server machine, and we all know the difference between compiled and interpreted code.
+But the real disadvantage to this approach is in terms of the control of maintenance because as we've already said you'll have done analysis and design on these elementary but fundamental business functions which reside inside the application.
+If we decide to change the way we do business or change the way the application works on how it models our environment, then we have to revisit using this architecture every single client machine on the network and upgrade that particular business function.
+Now if you've got many hundreds of clients on the network that's a significant effort in terms of maintaining the code.
+And if that piece of code is fundamental to the application it may reside in several different routines within that code.
+So maintenance is a burden of this approach.
+But also control.
+If for instance erm Fred Bloggs at the end of the office is sick on Friday he turns off his P C at lunchtime and goes home and we do the software upgrade during the afternoon on Friday, then his P C won't get the upgrade to the software because we're sending it down the network.
+
+
+On Monday morning everybody starts posting data into the database through the application interface and Fred's posting in data at fifteen percent V A T, everybody else is posting in the data at seventeen and a half percent V A T. So we're looking at a two and a half percent margin.
+Now there's no way of telling inside the database where that incorrect data has come from.
+In fact we've lost the integrity of the database without knowing how we can resolve that.
+So we have a an application control and maintenance burden and problem with this architecture.
+So  back in nineteen eighty seven looked at the application models of client server and network computing and said, How can we better address the needs of client server?
+And this is the architecture which all the  products are based on.
+The client server software architecture from  was revolutionary.
+And it has been proved to be the way to do client server software with all of the other major vendors now moving towards this type of implementation.
+So  relational database is intelligent and programmable.
+It's not only a repository for relational data, it's also a repository for each of your business rules and business functions.
+So every er each elementary business function is stored in a central repository which can be accessed by each application on the desktop.
+So first of all performance is greatly improved cos we now have the S Q L or Four G L code stored inside the server and we send a message-based protocol across the network, a small request to invoke that rou routine or function from the repository and return the results.
+So we've greatly improved network performance and removed the bottleneck of the of the network.
+But also the the code which resides on the server, or or the server actually knows in advance now what all of those transactions and pieces of code are, therefore it can precompile that code.
+So again you have the difference between compiled S Q L and interpreted S Q L. But again the major advantage of this approach is in application maintenance and control.
+A major  customer did er a bench mark recognizing that sixty percent of any project cost was taken up by maintenance of the code after it went live.
+So they actually bench marked the maintenance phase of the project and found this approach to be three hundred percent more productive than the approach we showed on the previous slide.
+Because if I want to change a business rule, rather than me visiting every single client on the network and upgrading that code I will re revisit it once on the server.
+That  the code is centralized and is shareable and is refu reusable.
+If I change it once in one place only then automatically every program on the network is using the new version of the business rule.
+So we have an an extra control mechanism and maintenance and no version control issue.
+So that's the er the architecture that  is proposing to deliver client server.
+a a step back in time over the last five years of what  has been delivering and there are many thousands of customers using  in that manner.
+Each of the icons on this slide represents the four key components of that architecture in terms of the software  er products.
+The top right hand corner icon, the circle with a cone in it, represents  multi-threaded SQL server.
+That is the the database with the repository for business rules.
+Top left represents  SQL life cycle tools, which are tools which have  has been delivering for the last three years which address each of the needs of the entire project life cycle.
+It includes case tools, it includes Four G Ls, report writers, end user tools, debuggers, operation control.
+So we can really address all of the project life cycle with  own front end client development tools.
+But that is a choice which you make.
+is noted for its openness.
+Erm I've already talked about there are over two hundred front end tools which access or have integration with the  database.
+So the icon in the bottom left hand corner represents  open client A P I, open client application programming interface.
+Now for instance using that A P I, I could write a piece of C code, a piece of Three G L, which could access the  database as if it was local to my machine on the client.
+The open client A P I would make the network seamless.
+It wouldn't exist as far as the programmer was concerned.
+Now that in itself is not unique, what is unique is because of our relationships with people like Microsoft who actually O E M and resell  and O S Two, then many many of the P C and desktop Four G M and tools vendors vendors have aligned themselves behind that A P I.
+So we have a wealth of choice for you as  customers in terms of for instance using tools which you're familiar with which you've already invested in.
+I'm not expecting you to invest in new technology to take advantage of this architecture.
+The bottom right hand corner represents another product which is unique to , which is the open server  P I.
+The open server programming interface is almost a
+
+
+tool kit for writing gateways to other data sources.
+So it enables me to integrate other alien data sources into the  architecture.
+Take for example E D I or email.
+Using the open server I can integrate email into the  architecture represented by this diagram.
+And because it has open server in front of it from the client's side it looks like a  server, so any of those two hundred clients or any of  front end tools can have access to the email system as if it was a  resource or  server.
+So I can for instance use erm Paradox or use Dbase as a front end to access and send email or E D I messages.
+So those are two third party tools that are integrated using  client server architecture.
+But on top of being able to access any information resource inside your organization using open server, also deliver a set of off-the-shelf gateway products to integrate with other relational database systems.
+So we can provide you with off-the-shelf gateways which integrate these sources into the architecture from Oracle,, Infomix, R D B, R M S, D B Two, Unisys, Kix etcetera.
+So we can actually integrate most of the erm dominant relational databases that are out there or in your organization into this architecture to protect your investment in those technologies.
+One of thems one of the er the gateways I just mentioned was the Open Server for Kix and the mainframe integration.
+approach is is to work with people like I B M. In fact you may have seen in the press er this week the announcement of a strategic relationship between  and I B M, and we will talk about that briefly a bit later.
+But that is an endorsement of  client server architecture.
+So we're not proposing that you turn off the mainframe on Friday and turn on open systems on Monday.
+We're saying let's integrate the mainframe, let's take advantage of the processing that it can do and its er strengths, and ye let's use it as a server which is available on a network in a client server architecture.
+So Open Server for Kix is an A P I, an application programming interface, which allows us to get at S Q L data on D B Two  S Q L, but also allows us to get at any another database or application system which resides in .
+So you can really integrate any information which resides on the mainframe.
+That's just one example of the gain with solutions I've just mentioned.
+At the beginning of the presentation I said that  has really erm grown through recognition of its leading edge technology and its leading edge relational database management systems.
+We consider  database to be online because it has a number of distinct features  functionality.
+Enterprise capacity performance is the ability to do transaction processing in a relational database.
+But not just for one or ten users, but in a scalable manner for a hundred or many thousands of users.
+So we have a scalable solution.
+Server enforced integrity, we've already talked about the need for holding the business rules in a central repository with the data to protect that information but also to allow you to control the overall client server architecture  much more tightly.
+Application availability's obviously very important.
+If we're talking about using this sy er type of system for running mission critical systems where if the database goes down the business stops running and starts losing money, then we need to be able to run twenty four hours a day seven days a week.
+is designed to enable you to do that and in fact  who are a key partner of  actually O E M and retail  on the  hardware as S Q L two thousand.
+And if you're not familiar with  they are a fairly extensive and fault tolerant hardware for ultimate twenty four hour a day seven day a week operation.
+That's a very good endorsement of  erm online capabilities.
+And finally what we're also going to be talking about today is online distributed database management systems as we move towards enterprise-wide client server which we'll talk about in a lot more depth in the following presentations.
+Then we'll talk about how  is delivering distri distributed functionality to enable you to use client server at the enterprise-wide level.
+These have been the building blocks of client server.
+What I'd like to do now is erm show you a short video snap from a  customer.
+There's many thousands of customers using  worldwide.
+One of those is  which is er er a financial institution in the City.
+And they're a strategic   partner.
+So what I'd like to do without further ado is is move onto the video and show you a recommendation for  products .
+I know it looks as though he was being filmed in a prison cell.
+
+
+Erm I'd like to assure you that that wasn't in fact the case.
+Erm  the project erm that he referred to there has in fact now gone live and erm partly as a result of that  are now investing further in  products, by implementing a range of new projects on that same architecture.
+As it says I'm John  I'm marketing director for Northern Europe with .
+What Garry and Phill have done so far is really tell you where  stands today.
+But the main objective of the seminar is to show what we see as the route forward.
+Particularly to show how we're addressing the growing need for integrated information systems right across the enterprise.
+And we propose to do that by extending the traditional model of client server computing, the essentially departmental solution, across the enterprise to integrate multiple computer systems across multiple  multiple .
+So my aim here is to talk about how we will address these needs which we see emerging er at an increasing pace through the nineties.
+I think probably many of you are familiar with the concepts that Phill described and what those concepts what the client server approach has done is to really bring about quite a revolutionary new breed of systems since the term was first coined in fact by  in ninety eighty seven.
+In fact although sometimes the rate of progress or the pace of technology seems sort of frustratingly slow if you look at what has actually changed, what has been achieved over the last five years, it's quite incredible.
+The  systems,, graphical user interfaces,the concept of database management systems, repositories of information which are accessible and shareable are really taken for granted in many organizations.
+But of course this technology software or hardware and indeed our requirements are not standing still.
+We're ready we believe to move forward from delivering primarily the  solutions through to the next stage which is what we've termed enterprise-wide client server.
+And this next stage really offers some potentially huge benefits because what it can allow is the integration of the corporate information systems and the requirements of the corporation as a whole to manage and exploit its information resource.
+With the requirements needs and preferences of individual departments and individual users.
+So it promises to bridge the gap that still in fact exists in many if not most organizations between what happens at the local and individual level and what's happening at the corporate level.
+If we look at this client server model today one of the most significant advantages it delivers is that it allows us to run different kinds of applications on different computers.
+It means we've been able to choose the most appropriate hardware for the job.
+To take advantage of new technology as it comes along while still protecting and preserving our existing hardware investments.
+But in fact of course it's also there to  fragmentation because either perhaps individual departments have exercised that freedom of choice to build systems
+
+
+that they want to use and operate and to reap any benefits that they require.
+But it hasn't really bitten into the issue of how we can control and operate and exploit the total environment.
+Benefits I think have been within the architecture  is that M I S can now be more responsive to the users needs.
+For the users they can be more productive by exploiting the  of choice.
+And hopefully the business as a whole in a competitive environment they can be more responsive more flexible to new requirements as they come along.
+Now as Garry has already shown, the client server software market is now seen as a backward growing sector of the software industry because client server has effectively become the standard way of architecting new systems.
+And in fact nineteen ninety three is really something of a pivotal year because according to at the beginning of ninety three probably something like forty percent of new applications  built using the client server model.
+And this is going to rise to fifty percent by year end and as high as sixty five percent nineteen ninety five.
+And some research by foreign  suggested that whilst this sector is worth a mere seven hundred million dollars a day, by nineteen ninety six the client server software market will reach seven point five billion dollars in size.
+Which is a growth of erm ten fold over three or four years.
+But the more important question is why? and to what benefit er this change might occur.
+Well increasingly we see that organizations are recognizing that  effective use of information as a corporate resource manipulated and manageable as a whole can be of a tremendous competitive advantage and the client server has become the most effective way of exploiting and leveraging that resource.
+And of course has established itself as a leading player in this industry.
+We defined the model and we solved a generation ago many of the technology issues surrounding client server such as and so on that erm other software suppliers are now pushing to catch up on.
+But to fully achieve this potential for client server into the future across the enterprise  raises for us some really quite difficult new challenges and demands for the software environment.
+As I've already hinted at even with our products and  products most of our customers today in fact are implementing departmental systems.
+The departmental systems maybe mission critical in other words they may be important to them you know they may be necessary to doing business to getting out orders or what have you.
+They may be quite large an volume in terms of transaction rates or users.
+But typically they're dedicated to achieving a single business  goal.
+or settlements or what have you.
+And so we still see separate departmental systems growing up and central I S groups not necessarily well integrated and well in control of this new generation of client server systems.
+In other words we've effectively rebuilt the island of information that we used to talk about five years ago and the key motivation behind enterprise client server is really to integrate the efforts of these two groups.
+Because recentralization of business my be a correct and and fashionable philosophy or perhaps one that is no longer fashionable I don't know it still needs we believe a global approach a coherent approach to tie these things together so the organization can not only get the benefit of responsiveness and flexibility at a departmental but the leverage to exploit that information on behalf of the organization as a whole.
+So the key  requirement here is accurate and timely information available across the enterprise to the desktop of the users or the management which can potentially reflect the whole business requirements.
+And that's really the ultimate objective of enterprise client server.
+Now as we move from the departmental model to the enterprise model of client server computing, quite a few things  to change.
+At the departmental level we might have ten a hundred possibly a thousand users but when we go enterprise-wide there may be thousands or many tens of thousands of users.
+Our users will no longer be tidily erm situated in building one country one department.
+They're likely to be geographically dispersed, nationally or internationally.
+And whereas with departmental approach we may have been satisfied with the ability to do extracts down from our corporate mainframe systems in the enterprise approach we'll look for proper and full  integration of the mainframe as an integral part of the environment.
+In the departmental model as I've already said and often we will typically be looking at a single sweep of requirements a single business function.
+Essentially a stand alone area of the business.
+But ultimately those sectors of the business need to be integrated so our enterprise systems will be integrated corporate wide across mo multiple departmental functions.
+We may have been able to buy our departmental systems from a single vendor.
+A  a server here and a few clients there  networking in between and the systems may have been relatively small in terms of their total hardware capacity.
+But in the
+
+
+enterprise model it is inevitable that our information will be coming from multiple vendors and our data will be in heterogeneous data sources.
+There will be multiple databases erm  databases, relational databases, mainframe databases and external .
+And also we will encounter new types of users, new  erm and users will be different in terms of their erm literacy if you like.
+They will be different in terms of the sort of interaction they expect to have with  computer depending on whether they're  data entry people or management users and maybe some of our users are people in the street, our customers er who who will increasingly become users of systems themselves.
+So whereas in the past we may have been able to think of single user types and single solutions to meet those users.
+Using single devices be they  terminals or erm perhaps Microsoft Windows in the future we'll need to categor deal with the different categories of users and the different devices they have to deal with.
+And don't forget that our users may not even speak the same language as we take our systems enterprise wide.
+So in migrating to  architecture we're very much focused on what are the real world problems and the real challenges that we need to face to deliver effective and workable solutions.
+And we need we need to make sure that we don't embark upon this new plan based on a whole pile of suppositions which in fact er lie in a world of fantasy.
+Er this erm world of fantasy is a very wonderful place because in this world it's very easy to meet peoples' I T requirements.
+It's certainly inhabited by some  and it's certainly inhabited by some .
+Of course in fantasy land it's very easy to build computer systems.
+Once you've built your computer system it will run all the time certainly all the time .
+All the data will live in a nice tidy fashion in a single relational database but what happens.
+In fantasy land there are no politics so everyone can quite happily agree on how to  things and agree on common .
+And we can impose solutions on our on our users, you know, You users can all have P Cs, you can all have erm dumb terminals.
+we can decide what you want to use.
+In fantasy land if we ever have to replace our systems we can of course simple switch off the old one and switch on the new one.
+. And er in fantasy land erm if you're responsible for I T you're of course very secure in your job you're a very happy employee because vendors will always come along and solve all your problems and ensure your personal security and success.
+Well  we hope that erm by coming here you've demonstrated that you don't live in fantasy land so I'd like to welcome you to the real world and in the real world we know that open systems despite the progress they've made still struggle to replace the mainframe.
+And even where they have the technology capabilities to start doing this there is clearly little point in replacing an existing system with a new one which simply does the same thing.
+Even though open systems may be able to meet requirements at a lower cost than perhaps the traditional proprietary systems, if you've already paid for the traditional proprietary system, clearly there is no saving to be made by throwing it away and replacing it with the equivalent functionality on new technology.
+In the real world there is undoubtedly no such thing as an organization of any size or substance that can say, All my data  lives in one source.
+We actually erm sometimes conduct a little informal surveys in our seminars and meetings as to how many information sources exist in organizations.
+And these sources will be things like spreadsheets,, relational databases our own and our competitors, and filing systems like R M S, er I M S er databases whatever.
+The answer is never one the minimum we've come across in an organization is two the typical is five to ten and in some organizations it's going on  fifteen.
+And the number is not likely to reduce as the scope of  spreads and as we're offered new technologies, software technologies by vendors.
+In the real world our users have different requirements and are not going to be slow to tell us what they are.
+In the real world systems and networks fail so there are times when our systems are not available.
+And that may be okay in a departmental level but when I had an integrated global enterprise operating in integrated fashion around an integrated I T system then clearly I cannot afford to allow a failure to actually paralyze the system.
+Of course I have to say that er software fails as well sometimes  and indeed one of the problems we all have is that with today's hardware technologies some of the er computers are so fast that it really reaches the bugs rather quicker.
+
+
+Erm there still is no way of designing and managing distributed systems.
+I've actually taken something of an interest in this over the years and there's no substantive  which tells you how to optimize and plan  a distributed system in terms of what you do when.
+And the final point is that vendors will not be able to solve your problem.
+The decision you make today about which vendor you go with and which technology you go with may be the right decision today and yet may may be the wrong decision tomorrow.
+You only have to look back over what's er happened over the last few years in terms of for example O S Two, Microsoft Windows, a variety of Unix,and you'll see that technologies will come along and however sound a decision you make at one point in time the market  circumstances and potentially mean that what was right for you then  not the right .
+This is the world we have to live with and find a way .
+So we can view the requirements for enterprise client server really in terms of some paradoxes, and the paradoxes arise because of the conflict between what we actually want to achieve and the constraints of the real world.
+We would like to have well proven technology, because our systems need to be reliable.
+And yet we want to be able to exploit new opportunities and new technologies as they come along to get the best out of our systems for our businesses.
+We will want to be able to build high capacity systems so  going to take on the class of applications that have traditionally been associated with a mainframe.
+And one interesting thing is that as we integrate that system as we double the number of users our requirements the loading on our system may go up by a factor of four.
+It's kind of an exponential relationship about systems  bigger.
+In fact I've often said that if you show me a system which doesn't have a performance problem then you've shown me a system which is a failure.
+Because successful systems attract more use and more workload.
+So we need to build our systems to meet the requirements we have today because we couldn't justify more and yet we have to build in the scale scaleability so that systems can grow to meet the growing requirements which are almost inevitable.
+The systems need to be capable of integrating and inter-operating with these different technologies.
+So they need to provide transparent access across technologies and deal with the multi-vendor requirements.
+In fact er Dan  who is the president of the  corporation which is one of the sort of user pressure groups in the open systems world has said that, Integration is the highest cost component of nay I T system.
+For every dollar you spend on software, he alleges that you'll spend between one and a half and two dollars simply on getting that software to work  the other software you have.
+In other words perhaps fifty percent of the spending on I T is wasted in inverted commas because it's simply concerned with tying together what you already have with the new stuff that you want to integrate in.
+The systems have got to deliver data reliably otherwise they're not of any value at all and yet they're going to have to deal with unpredictable events such as network failure, software failures, hardware failures, user failures or whatever.
+And we want to be able to provide the controllability that we achieve traditionally through centralization in the mainframe environment in what will inevitably be a distributed world.
+And our systems need to be consistent because in that way we can manage and control them and yet they need to deal with the variable requirements of our different categories of users.
+So we'd like our systems to be low risk, to be scalable, to be inter-operable, to be reliable, controllable and  and yet still be able to face all the challenges of the of the enterprise client server environment.
+So that's really the challenges which way the client interacts  and what today's er event is about.
+In the second half we'll be describing how our er new generation of products really seek to address each of those challenges.
+summary the system  architecture which is the focus of today's seminar is really an er a complete environment within which we can deal with the challenges of this new generation of enterprise client server applications.
+And the underlying  here is to provide the control and reliab 
+we've achieved our er our aim in the first half of the seminar.
+Leading on to the second half I'd er very quickly like to introduce you to Huw  er from  er one of the U K's if in fact er worldwide now leading er leading developers of of financial software, and he will be er talking to th talking through to you his experiences er in developing with .
+Thank you.
+Thank you Garry.
+Er good morning ladies and gentlemen.
+I'd like to spend erm a few minutes, hopefully not too long because I'm er known for talking for hours and hours when it comes to our company and our product, but hopefully just a few minutes telling you about our approach to developing an open accounting system.
+If we go back about  two years, a little bit more than two years now, we sat down and considered those areas which were most important to us in developing a new accounting package.
+First of all we wanted that product to be totally open, and I'll qualify in a minute or two a little bit more what I mean by totally open.
+I think at the moment suffice to say we wanted a product that would give ourselves and our users total choice and total flexibility.
+It was important to us in developing a new system now that we are very much of a worldwide supplier of accounting solutions, that we make it truly useable in all countries of the world.
+Now I struggled to come up with a good word or phrase to describe that, but the one we use for now is multicultural.
+And I'll go into that area in a little bit more detail in a few minutes.
+It should be a totally integrated solution, both from the point of view of the accounting application itself, and also the way that we inter-operate with the other applications in a user organization.
+We were conscious as well that in venturing into this brave new Unix world that  accountants being fairly boring individuals, I mean how many accountants do I have in the audience today?
+I can say that reasonable safely and I can apologize to those people who put their hands up, by saying that I too am c am an accountant by background, and it's fairly brave of me to admit that in front of so many I T people.
+But we were conscious that an accounting system maintains the corporate financial information and we must protect the integrity of that information.
+So we must transcend those erm opportunities for security within Unix and ensure that our application will maintain the integrity of data within the system.
+And finally, and I can't emphasize this strongly enough, in developing our open accounting product we developed a totally new application.
+We started with a clean sheet of paper, we didn't start with one of our earlier proprietary products and try and convert that to Unix, try to move that into the open systems world.
+Our approach to accounting has always been one of a a truly integrated nature, and that approach fits like a hand in a glove with relational database technology.
+So the arrival and use of relational databases has been absolutely perfect for our approach to development of accounting systems.
+I mentioned a moment ago that we seek er total choice and total flexibility in the utopian open systems world.
+And the only true way that we can achieve that and that we can deliver that is by adhering to the emerging industry standards.
+Now on this slide we have a hexagon, there are six probably important facets in terms of standards which we should follow or adopt in the development of the product.
+If I start at the top with the user interface, then clearly we should use or employ a graphical user interface.
+In developing a product these days everybody's been very used to using P Cs, using graphical user interfaces, the idea of a mouse, drop- down menus, so on and so forth, and we should employ that technology.
+And the standard we chose ooh some two years ago was O S F Motif.
+Now that has clearly been the right choice given that I think Motif has clearly achieved the ascendant over open look.
+Moving round the picture, networking.
+Well we should use X-networking standards, and at the moment if a network complies to T C P I P as the communications protocol then we can work with that.
+And we'll actually look in a minute or two at the different aspects of the application, the different layers of the product, and how those communicate.
+On documents we must bear in mind with the development of any system that we should support true electronic data interchange.
+We should have a good and straightforward mechanism for importing documents into our system and exporting documents from our system.
+And the standard we've chosen to adopt there is Edifact.
+Now that's probably er one of the least well-defined areas for standards, and I mean if you say Edifact to er a North American user they'll look a bit puzzled, if you say it to somebody who knows something about Edifact they'll say, Which Edifact standard is that?
+But er those are gradually converging and we believe that's the correct choice.
+On operating systems we wanted to be as truly hardware independent as we can, so we have chosen to operate potentially under any Posix-compliant operating system, so that gives us all the flavours or brands of Unix and a number of proprietary mid-range operating systems which are achieving Posix compliance as time goes by.
+Even I B M have stated that O S Four Hundred on the A S Four Hundred will be Posix compliant erm oh certainly within the next twelve months if not somewhat earlier now.
+Far more relevantly to today's conversations and our host , is the question of databases.
+As I identified a minute or two ago, our approach to computerizing accounting applications fits hand in glove with the concept of relational database.
+We need a relational database to store our accounting data in, and whilst our overall approach is that we will work with potentially Ansi S Q L compliant relational database, I would like to emphasize that  has been our primary development environment over the last two years.
+And as a brief but final point on there, what language did we develop our product in?
+Because we are er developers of a core accounting package which we hope will have many many hundreds of users before the end of this decade, we didn't want to rely on the vendor of a particular Four G L, so we've written our product in C to retain that independence within there.
+So we've identified a number of standards which we work within, standards for operating system, for database and for user
+
+
+interface.
+And those lead very clearly into another technology, client server architecture, which we've already touched on a number times during our presentation so far this morning.
+And I'd like to explain since we  find ourselves in the real world, rather than fantasy land, how we've approached the subject of client server.
+If we start off by considering the  accounting application as an object developed in C sitting there in the middle of the screen, we need the ability to talk to the users through a graphical user interface.
+We need the ability to address the relational database in which we hold our data.
+And delivered as an integral part of the  application are two  utilities to give us as much flexibility in achieving that goal as possible.
+In terms of the user interface, we have an X emulator and controller, XEC as we fondly know it by, erm in order to talk to the user through the users desktop device.
+Now we're conscious that there are a number of desktop devices available to us today and I'll go into these a little bit more in a moment, and that we want to support concurrent users of many different type of device.
+And in using Motif and using potentially X terminals as as the most elegant method of delivering that functionality, we can control X and we can emulate X on certain other types of device.
+Looking at the database our programmers in writing the central application and in developing and enhancing that application, are at one level totally independent at the functional level are totally independent of the underlying database technology.
+And our database controller understand and knows and talks to the database layer at the bottom.
+So if that database for example is  there is no constraint within the way we use our system or the way we develop our system or indeed the way our system will develop in the future and the way  capabilities will develop in the future.
+Because we're using our database controller to read and to write that database, as more function becomes available, more features become available within the server, the ideas of replication servers and so on an so forth as time goes by, we will be able to exploit that technology or more importantly you as users will be able to exploit that that that technology.
+I think the the concept I want to get across is that the design of the  application does not constrain the way that you implement, firstly a client server technology and secondly the use of your chosen relational database management system.
+So by separating these individual items of the application, the presentation layer, the application layer and the database layer, we I suppose to say we don't care is the wrong word, we don't mind how much client server or how little client server you want your particular application to be.
+And indeed if if we broaden the picture out a little bit, and we've talked about the user interface and the relational database, clearly an accounting system can't stand alone.
+At the left hand side of my diagram we have a number of other applications existing in your environment which need to either provide information to the accounting system, a simple example might be a payroll application passing payroll costs across on a batch basis, it may be a sales order processing system passing invoice information across in real time interactively and indeed requesting information from the  accounting application.
+So we have a powerful set er of open access tools to truly integrate the N application with the other systems running in your environment.
+And finally to to complete this particular picture, picking up again on a theme that was introduced earlier on, we are using proprietary relational database technology, so there are many other tools which are available to you, for example the ability of Lotus One Two Three to go directly into the database, pull information out, present it in a spreadsheet, present it graphically.
+Many other tools many other applications for example Forest and Trees, which are all capable of directly accessing the database.
+So the  application is concerned with maintaining the accounting data and maintaining the integrity of that data but you have absolute flexibility in the tools that you use to access it and manipulate it and present it in your organization.
+And the way that you do that is going to depend on the sort of device which you have on your desk.
+Now again because of our approach we don't mind what kind of device you use.
+Arguably the most er elegant delivery of an O S F Motif type graphical user interface is through an X-windows terminal, but I wouldn't imagine very many of many of you have X-windows terminals.
+They tend to be fairly large and fairly expensive devices.
+We see an awful lot of people have got a tremendous investment in traditional character cell terminals and by a character cell terminal I mean a dumb terminal of twenty four lines of eighty characters.
+Erm I  if I was talking to an audience in the United States, you'd probably have a somewhat different approach cos over there they seem to throw their desktop devices away every two or three years and replace them with brand new technology.
+In the U K we seem to keep the equipment for twenty years and then complain if it goes wrong before we have to throw it away.
+So on a character cell terminal, through our X emulator and controller, we can deliver a
+
+
+Motif style user interface, even on a character terminal.
+Clearly the degree of definition we can go to is only one character, but we have drop down menus we have the ability to move pop up windows and dialog boxes, the ability to scroll horizontally and vertically within those windows, and the ability to emulate the use of a mouse by the use of arrow keys and the numeric keypad on an ordinary character terminal.
+So we can deliver a consistent graphical user interface across a number of different devices in your organization, used concurrently with the accounting application.
+And in between the P C which we find on many peoples desks may be emulating a character terminal, may be emulating erm an X-terminal to provide that user interface to an individual.
+Now I think in our experience so far we find that erm the accounts clerks in the back office are those who are most likely to be bashing away at the character terminals, those are the people who are bashing data into the system.
+And they understand those devices and work with them very well, they're not particularly interested in a mouse and all sorts of graphical facilities because their job in life is to get information quickly into and quickly out of the system.
+Many people in a management position maybe using P Cs on their desk, I mean those move more and more into the organization as people work with spreadsheet people work with electronic mail and so on and so forth, and the ability to use the P C as their terminal, their window into the accounting application, but secondly they have these tools such as spreadsheets which again are able to directly access the database and the accounting data maintained within it.
+So in performing a particular query there are many ways of skinning a cat.
+Somebody may use standard enquiry facilities within the accounting system, they may use the report writing tools that are provided with the accounting system or they may use other things, Forest and Trees, Lotus, Excel, so on and so forth which run on their P C which they know and which they love.
+And it may be entirely appropriate to use any one of those for one style of enquiry depending on the preferences of the individual, that's what we mean by flexibility and freedom of choice, we don't want to constrain a particular individual to working in a certain way.
+I can't resist the temptation while I'm here just to tell you one or two things about the accounting application.
+Er because I don't have a group of accountants in front of me I'm not going to go on about debits and credits and so on and so forth.
+But just to consider one or two aspects which we mentioned earlier on as being important to us.
+In working in years gone by with proprietary applications we've been able to rely to a large extent on security facilities provided by the operating system.
+We can no longer realistically do that in the open systems world.
+So we need to ensure that we provide security at a number of levels, accounting type security which may be er the the limit to the amount I can write off in a cash in a cash matching process for example.
+Functional security, which is going to give me effectively er access restriction to the system by the menu options the drop down menu choices.
+Taking that level of security down to individual data items, what what areas of my chartered account can I update what areas can I look at?
+And that's important to us because we can give erm people who are responsible for a particular department full and immediate access to the data which relates only to their department and not the wider organization.
+But we do need to consider a couple of other areas.
+One which I've defined there with the word views.
+We are aware that we can control the method of access by users though our application, but there are other tools they are using in in the company to access the corporate relational database and your database controller must be aware of those tools and implement the same controls on those views of that information within the database.
+And very importantly to the accountant, the way that we can ensure that we maintain the integrity of the accounting data, is by exploiting checksum techniques in the database to ensure that the only valid way of u of updating the accounting data is through the accounting application and that's it's therefore properly secure and properly audit trailed.
+I mentioned culture briefly earlier on er I'd like to define that a little bit better by saying we want a user sitting down in any part of the world to be able to use the product which we develop and feel that it is an accounting application developed for their world and their market place.
+Not an American product which is being bent to their requirements, not an English product which is being bent to their requirements.
+And there are immediately two areas which are very obvious and straightforward, those of currency and language.
+We must for example be able to use concurrent users of the same accounting information in many different languages.
+But we need to take our consideration beyond that a little way in thinking about the accounting customs and legal requirements of the different countries.
+The taxation needs, it's not just V A T it varies in the European Community, it where it varies in a wider Europe and the world at a whole.
+So we need to be able to address those different requirements.
+And one which we o often overlooked was dealing
+properly with the different banking requirements of other parts of the world.
+I mean back in the early nineteen eighties when we sold our first er system abroad we were quite surprised to find out that the French didn't have a road called Edgeware Road and an organization called B A C S on it.
+We need to ensure that we can comply with the banking mechanisms of the different parts of the world.
+Another strength of using proprietary relational database technology is that we can use many report writers which are available to access that database, not only the accounting data but potentially all of the corporate data to pull out not only accounting reports but reports which combine information as necessary, partly from the accounting system, partly from the sales order processing system, partly from the inventory system, whatever they may be.
+And so within our accounting database we'll have various types of master file information, transactions, balances, some of that information may have been archived but still be available to us.
+With a single relational report writer we can gain ready and easy access to all of that information.
+A very brief commercial, just a little bit about .
+Erm I mean  is a a British private limited company.
+Erm I'm actually based in our Harrogate office which is our corporate worldwide headquarters, we consider that to be the centre of the universe.
+But over the years as an organization we've grown organically and geographically quite significantly, such that while in the U K we're in Harrogate and Basingstoke, we have an ever increasing presence in North America, Europe, the Far East and Australasia.
+And our philosophy as a truly worldwide supplier of accounting software is that we should increase our presence in different parts of the world as our sales and marketing activity there merits it.
+We've seen a very controlled and steady growth over the thirteen years that we've been in business and I think as you can see there year on year we have consistently increased turnover and increased profitability.
+So to give you an idea of our size although we may be a little bit smaller than  last year we turned over some eighteen million pounds and declared a profit before tax of just over three point one million pounds.
+One of my slides that didn't appear there, erm we're just going to mention one or two other points on erm our customer base.
+Now the open systems world is a very new world to us, we have three earlier proprietary products, the first of which we started selling in nineteen eighty.
+And we actually have more than eight hundred and fifty users of our accounting software installed in more than forty countries worldwide.
+And to tie in to a couple of things mentioned earlier on.
+I noticed that amongst our user list we count, an organization called  and we also count an organization called .
+So clearly many of the things  do are very right and very appropriate and probably one of the rightest was to choose  accounting software on which to er prepare their corporate accounts.
+Thank you very much for listening to me patiently, I said I would try to keep that down to erm a fairly brief session.
+What I would like to do now is to reintroduce Phill  who addressed us a little bit earlier this morning who's going to tell us a little bit more about enterprise client server solutions.
+Phill, over to you.
+Thank you.
+We've heard a lot this morning er about the merits of client server and where it's come from in the last five years.
+Before the break John  talked about erm some of the requirements for moving that architecture towards erm  the enterprise-wide solution.
+So what I'd like to do right now is explain how  System Ten will be the way to deliver enterprise client server solutions.
+And I'll do this by describing each of the System Ten products that resolve the paradoxes of the I T department.
+We mentioned earlier the paradoxes which were that for instance erm we're looking for a low risk investment or our customers are looking for a low risk investment, they tell us they need well proven technology but that needs to be advanced technology.
+SQL Server is  flagship product.
+It's the foundation for client server and other products in the family.
+It's well proven having been shipped since nineteen eighty seven but provides new advanced technology with the new System Ten release.
+We talk about for instance reliable data delivery and transaction delivery.
+We need to be able to do business whether or not the network is unavailable or whether or not the system fails, we still need to make business decisions.
+Based on best available information.
+Replication server is a way to guarantee data delivery where it's needed and when it's needed.
+And we'll come on to talk about that in a lot more depth during the presentation.
+We talk about scaleability if we are indeed to entice mainframe style applications towards the open systems platforms then we need to behilosophy as a truly worldwide supplier of accounting software is th software components with a low entry cost.
+Navigation server is designed to handle massive amounts of data and users, but is still totally scalable from very small machines.
+We talked about each department erm being able to invest in their own technology and make their own er decisions on what sort of database or interface they would use to deploy their applications.
+But if we grow a client server towards the enterprise solution, we've already talked about the straw pole that we often do where it indicates to us that the average number of er data repositories or data sources in an organization is more than ten.
+So our customers are looking for multi-vendor transparency.
+Omni SQL Gateway provides transparent access to homogeneous and heterogeneous data sources.
+We also talked about the need to be able to control this vastly more complex new environment as if we were controlling a mainframe.
+with System Ten has announced a family of control servers which will enable us to control this network of servers and clients as if it was a single machine.
+And finally in terms of prod productivity each of our users have varied requirements, but we need to provide them with a consistent solution.
+Enterprise client sar server tools erm is a very important part of  strategy.
+With  acquisition of Gain multimedia tools and the unveiling of a leading edge tool strategy in June of this year, should now be considered as a major player in the tools arena.
+Providing tools that empower the user with all of the data which is available through the System Ten architecture in a form which is appropriate to all of the users.
+During the rest of the presentation what I will endeavour to do is describe each of the components of the System Ten architecture which is represented by this slide.
+Before I do that I'd like to describe SQL Server Ten which is the cornerstone of  client server solution.
+SQL Server as we said is well proven technology, it's been around about five years.
+Five thousand customers have written many thousands of mission critical business applications using the  SQL Server.
+It's designed from day one to address client server.
+It incorporates technology which our competitors are only now putting in their solutions.
+Still procedures, triggers, and R P Cs.
+The new release of  SQL Server SQL Server Ten is a hundred percent Ansi compliant.
+So we have such facilities as cursors, and Ansi declarative referential integrity.
+And that's not to say that they replace triggers, because they are actually have a very important role to play in terms of being able to er maintain arbitrary business rules and model the way your organization works, inside the database repository.
+I'm going to be talking a bit more later in the presentation about back up and back up performance which is one of the key areas which erm organizations trying to support very large databases have come across as a as a as a major stumbling block or hurdle to get across.
+And  have er implemented something called the backup server to get over that hurdle in the System Ten release.
+Also the SQL Server Ten incorporates C two level security we also have a B one compliant database for government applications.
+So we're have in such things as password encryption and auditing.
+And these are sorts of facilities which we'll will need if we're going to erm enable central I S or I T departments to use  and therefore charge back that facility to each of the departments using that resource.
+
+
+But SQL Server alone will not address all the needs of enterprise- wide client server.
+It needs to evolve in several ways to meet these needs.
+As I go through the rest of the presentation you'll see erm the agenda slides highlighting the area of the architecture we're talking about in the section.
+So right now I'm going into a section talking about distributed servers.
+During the nineteen seventies a lot of research work was done on distributed database technology by such people as I B M, Digital, and other database pioneers such as.
+Their intention was focused on some of the huge benefits that distributed database might deliver.
+And these expected benefits were things such as performance, data could reside closer to its point of most frequent use.
+And multiple databases could act in parallel.
+It included such things as reliability.
+With centralized systems, if the computer goes down, the entire system goes down, but we still need to make business decisions.
+With distributed database systems we could continue with a couple of things mentioned earlier on.
+I noticed that amongst our us includes capacity and scaleability since a database could span multiple machines, the capacity of any one machine would no longer limit the database size.
+These needs lead to a number of different database technologies which are represented on this slide, and the first one I'd like to focus on is replication.
+Replication meets the need for reliability in a distributed environment.
+Whereas businesses are moving to more and more decentralized operations, business units still need to have instantaneous access to information.
+Access to data wherever they are no matter what location.
+Distributed transactions guarantee that data at each node is synchronized as it changes.
+A global model of the business delivered to who needs it when they need it where they need it.
+But as I've already mentioned distributed database theory has been around a long time.
+The model suggested has not met with widespread acceptance.
+It doesn't necessarily address all of the needs of the real world.
+At  we believe there are two types of distributed database application.
+There are those where mission critical business decisions can only be made based on absolute up to date information.
+These applications require absolute synchronization of related data at every site in the distributed database.
+And for this we would use Two Face Commit technology.
+Two Face Commit for those who're not pu er familiar with it is an all or nothing approach.
+If any one node in the distributed database is unavailable, the transaction will not complete on any other.
+If we took an example of a of a launching of the space shuttle.
+In those types of applications those types of systems, we cannot afford inavailability of information we need to invest significant sums of money if fault tolerant hardware in mirrored disks in duplex networks.
+This investment can only be justified for systems where transactions have a huge value to that business.
+Two Face Commit is the software technology that supports these types of systems.
+has had Two Face Commit technology for five years in support of that style of application.
+However we believe there's a second type of distributed database application more appropriate for general commercial use.
+Very few organizations the first model due to its prohibitive cost.
+Replication Server takes a revolutionary approach to distributed database for those organizations who don't need absolute data synchronization but the nee need the advantages of up to date data at ll of its points of most frequent use.
+The need reliable data delivery in the event of system failures without the prohibitive cost of fault tolerant hardware.
+Replication server is based on our primary subscriber model.
+Each subscriber on the network, we might represent the primary as the server on the left and the other two server as subscribers.
+Each subscriber registers its interest in a data item on the primary replication server.
+The primary replicates data changes or transactions to subscribers as updates or inserts occur on that primary server.
+So this model uses a loose synchronization.
+There's a latency between the primary changing and the secondary data changing since the primary will change and then we replicate across the network to each secondary location.
+But that's measured in fractions of seconds.
+And this is e such facilities as
+
+
+I'd now like to talk about high capacity and  solution for that requirement in enterprise-wide client server.
+Often in the open systems arena applications will grow beyond the capacity of any single machine.
+Traditionally when systems have grown this large companies have employed proprietary solutions, hardware software combinations.
+And these systems lose the advantages of  open architecture for instance we talked about having over two hundred front end tools accessing  database.
+And are typically good at either online transaction processing or decision support but not a combination of both.
+And without this capacity how can we expect large scale mainframe users to down-size or right-size into open systems.
+response to these requirements is rep is navigation server.
+Navigation server is a software extension to the S Q L Server.
+It optimises it for distributed massively parallel processing.
+It creates the appearance of a single virtual machine on a network.
+However in fact behind a navigator or a navigation server there will be any number of SQL Servers working on parallelized S Q L. Now this solution provides us with total linear scaleability, as we run out of processing power we will add another node to the environment and take advantage of all of the processing power of that node using parallel S Q L.  This is a hundred percent software solution it's not a hardware software combination.
+Developed on S V R four with N C R. And it's a key point that this is a combination of work which  have done with N C R and the first release of Navigation Server will be available on the N C R thirty six hundred architecture.
+Which enables us to have many hundred erm Intel processors in a single hardware cabinet.
+So we would run many SQL Servers with a Navigation at the front.
+But other platforms will come in the future so we can see us using sta very low cost standard hardware components, we might stack up erm half a dozen or a dozen erm workstations with a high speed interconnect between them each running a SQL Server.
+We've now created this virtual machine which is no longer constrained by the absolute size of any one component within that machine.
+And we can add workstations to that virtual machine as we need more processing power.
+So we have high capacity with low entry cost using standard components.
+So we're now able to support mainframe class applications with thousands of users in this data centred type database running thousands of applications with a mixture of decision support and online transaction processing.
+As we've already suggested this is a cost effective solution it is a software only solution and enables us to use lots of erm low cost hardware components.
+I we come back again to those distributed database issues and tackle transparency.
+As I as we've said this is a requirement which is consistent with enterprise-wide client server.
+As we expand the client server architecture to become a universal solution we will need to integrate more diverse sources of information.
+We will need to leverage our customers existing investments in other technology.
+We will need to provide an evolutionary approach to migrating from one technology to another so we're not forcing our customers down the fantasy land alternative.
+John's already stolen my thunder on the straw poll erm that I was going to do but suffice to say that we normally do that at these types of seminars and there's always a few people in the room who put their hands up and say they've got more than ten data sources in their organization.
+And if truth be known there are many more in that audience.
+In the real world we have to recognize that we cannot convert customers to only use the  database.
+We must be able to provide a level of transparency that shields users and the programmers from not only where the data is stored but in which relational database management system.
+solution is Omni SQL Gateway no other product delivers the level of transparency that Omni provides.
+Omni SQL Gateway provides complete location and vendor transparency.
+All the clients on the network are programmed using a single dialect of S Q L so our programmers no longer have to know the nuances and differences between each of the proprietary extensions of the SQL of each database they're programming against.
+They s use a single a dialect which is Transact S Q L  S Q L implementation.
+All of the sources on the on the network look like  so for instance I can do joins across two heterogeneous R D B M Ss. you can have a table with departments in , employee's in Oracle, and salaries in D B two and I could use a single select statement and join all that information together in a single request to the Omni SQL Gateway.
+But what I can also do is leverage the power of  client server extensions to S Q L. We talked about  pioneering efforts in stored procedures and triggers.
+I can actually use Omni SQL Gateway and write stored procedures  stored procedures against all of the data sources it supports including for instance D B two.
+So I'm not limited because I'm by the lowest common denominator of other gateway approaches.
+And because the Omni SQL Gateway looks identical to a SQL Server on the network we still have the ability to integrate and front end tool.
+So I still have over two hundred front end tools which can 
+
+
+access data from the Omni SQL Gateway which actually has physical data stored in many different types of vendor's repositories.
+A wonderful example for today since we're in Leeds is er United Leeds it also e such facilities as
+typically they're very used to the mainframe environment and what the mainframe environment offers.
+The mainframe is a single machine sitting in a darkened room.
+It's easy to control.
+It's a single physical piece of hardware.
+It's technology which is mature, it's been around about thirty years, and there's lots of good sophisticated control tools for managing that environment.
+As we move to the brave new world of client server we're talking about a technology which is indeed fairly immature, is more difficult to control, and is essentially quite complex.
+As we move towards wide area networks of servers then we have something which is a very sophisticated system for delivering information.
+One of  partners is  Stores who are implementing a strategic store-based application which involves having an R S six thousand in every single shop with a SQL Server on every single box.
+With three hundred and sixty SQL Servers, there's no way they're going to have a D B A in every store.
+What they need is centralized control as if they had a single mainframe.
+So  aim with our control servers is to deliver mainframe controllability in an open distributed environment.
+One of the components of the control server family is the backup server which is part of the SQL Server Ten release.
+Traditionally open system database backups have been constrained by the speed of any one backup device.
+The backup server that  is providing at release ten has or employs device striping to provide linear scaleability of the backup to multiple da tape and disk devices.
+So I could have for instance thirty two tape devices running in parallel to back up my database.
+So for instance if my backup window is an hour and that's how long it take me to backup my database today, if had the backup server and I was using one device it took an hour, if I used two it would learn one dialect of S Q L.  as
+
+
+incorporating in partnership with Tivoli such standards as D M E and D C E which Tivoli indeed helped to define.
+So this incorporates controllability of the network, the hardware as well as the database architecture.
+Earlier we described a paradox which was that each user or group of users has a different need for information and the way that is presented to him.
+Furthermore this is compounded by the wealth of different types of desktop devices for presentation of information.
+What I'd like now like to do is to describe some of the components of  tools strategy to enable and empower us to deliver enterprise-wide client server solutions.
+However  no matter what the user or device requirement there is a requirement for one thing and that remains critical and constant.
+And that requirement is productivity.
+Back in the nineteen seventies computer hardware was very expensive and difficult to use.
+Only highly trained professionals dared to interact with a computer.
+In the nineteen nineties with the tumbling costs of hardware we can adv afford to provide more and more people in our enterprise-with access to a computer or the information within in.
+And this simply shifts the cost of providing that solution to an investment in the people and not the computer hardware.
+So we need to train them to use our systems and we need to be concentrating on the productivity not just of the programmer which is traditional what we've done with Four G Ls but the productivity of the end user.
+The user community will run into thousands and thousands and therefore this is our biggest investment in our I T infrastructure.
+Today in many large organizations we'll see three generations of desktop delivery mechanism, the old dumb terminal, the thirty se tw thirty two seventy dumb terminal for instance.
+Delivering character based data to the desktop.
+People have then migrated towards using G U I typically at departmental level.
+They'll have standardized on one particular G U I delivery mechanism.
+Which is traditionally you know Windows Three, Open Look or Motif, maybe O S Two.
+And then into the future where will that G U I capability lead us?
+Well we've already talked briefly and we've seen a video about Gain Multimedia and how that might enable us to address application requirements in a different way.
+With applications that actually look like the way you do business.
+And traditionally these three types of delivery mechanism mean we have to rewrite or recode applications in their entirety for each type of device.
+That's further compounding the maintenance burden on the I T department or the information systems provider.
+has three components to its client architecture to address the needs of the different users and the different devices.
+Each component has been announced as part of the System Ten announcement and in fact A P T and Gain Multimedia are available in production today.
+In June  will be announcing a complete architecture which welds these technologies together, providing an object based integrated environment for all user requirements and device types.
+So indeed we do not need to rewrite applications for each different type of device or user.
+Well what we'd like to do now is just try and address each of those different Four G Ls in the architecture.
+First is A P T which is essentially a heads down data entry facility.
+So that me we may have for instance erm order entry clerks entering many many orders per day.
+They actually don't spend too much time looking at the screen, they're actually using dumb terminals to enter data very quickly.
+And therefore we have a low cost er per seat of entering that information into the system.
+That's a procedural thing, we do one thing, we do another then we do the other, then we come back and do it again.
+And that type of application is very well erm very well used by dumb terminal applications.
+Enterprise G U I will enable us to take advantage of erm G U I desktop devices such as Windows Three.
+This is a type of environment used by decision makers where they may be working on one piece of information in the application and they need to make a decision based on an information which is elsewhere in the application.
+So they'll move from one window to another make a decision on that information in the other window and come back to what they were doing before.
+This is a non procedural approach to making decisions based on the information inside the system which has been entered by the dumb terminal users the heads down data entry.
+And for this we would use object based technology, object oriented technology to enable us to have this business processes modelled inside the desktop.
+And for the future of applications we talked about Gain and Multimedia and what that might deliver in applications that look like your business.
+Where we can deliver applications where the users actually don't need training.
+This is a self training interface.
+Enterprise G U I  is a tool which is presently in development er which is subject to an announcement in the June timeframe and in fact actually at the next customer update which  is providing erm in June.
+It's a repository based G U I development environment which is using object based technology.
+It enables us to develop application on for instance Windows Three and exploit all of the functionality and features of Windows and deploy on Open Look, Motif and Macintosh.
+It will 
+
+
+enable us to develop applications on Macintosh, taking advantage of all the features of Macintosh and deploy on Windows, Motif and Open Look.
+And that is a G U I environment which is robust and native.
+We don't emulate Windows Three in Open Look, we don't emulate the Macintosh on Windows Three.
+We use all of the native widget sets so we're not using the lowest common denominator approach.
+But one thing which makes this product stand out from the crowd is its ability to to address the needs of work group computing.
+Based on its object based repository.
+So I can develop application code and share that across my work group or the department of developers.
+So this is where we believe the market place is today with application development in the G U I desktop.
+We've already seen a brief glimpse of of of of Gain Multimedia.
+This is the type of technology which may indeed eventually replace the traditionally data entry heads down data entry facility and user.
+We have a an order entry clerk who's now ordering hundreds of orders a day and that is from a printout from our customers and that printout has come form the computer system of our customers.
+And they have a data entry clerk who's entered that order onto their system and then printed it out.
+So we have several levels of interaction with a computer in terms of entering information.
+Multimedia will enable us to place a console or our system or an extension of our information infrastructure in our customer's environment and enable them to interact with our systems though an interactive self teaching sentry rich environment.
+So we can get rid of all of those different costly interactions with a computer with er interactions of com of of paper output erm dumb terminal input paper output dumb terminal input.
+So all this can be do done and integrated through Multimedia.
+One er one of Gain's first customers in the U S was er E D S. E D S have er will be using Gain technology to deliver erm what they're calling console applications for the World Cup in nineteen ninety four in U S A. So that in the in the er the World Cup environment there will be kiosks around thes the er the the training camps for instance where players or er fans can go up and touch using a touch screen can see the er the the highlights of the last Cameroon versus England game, they can find out where the nearest Indonesian restaurant and they can find out the team news for the next game.
+And all of this using Gain's multimedia capabilities.
+So we're extending the way that information systems can be used by users who traditionally have not been en empowered or enabled to get at that information.
+One of the other key partners of Gain Multimedia is Sun.
+If you buy a certain level support from Sun Microsystems, they will ship you an application which is built using Gain Multimedia.
+And that application is a self teaching way to use a S Sun Unix workstation.
+Traditionally if you buy a w unix workstation and you turn it on out of the box, look at the screen and you'll see a percent sign.
+What do you do next?
+You turn to the manual and try and work out how it's going to how you're going to interact with it.
+Well Gain Multimedia will enable you to turn on the workstation and it will talk to you, it will show you videos, it will show you animation as to how that workstation should be used to best advantage.
+So System Ten is the culmination of several years of work that we've been doing with other hardware and software vendors but most importantly with our customers.
+We've worked together to make sure our products address the needs of the real world.
+approach is one which is essentially pragmatic.
+I've talked during my presentation about each of the paradoxes which we laid out at the beginning of the morning which talked about the diverse needs of different parts of an enterprise from their information systems if we are to deliver the adv er the advantages of enterprise-wide client server.
+I hope that we have proved today that SQL Server is well proven advanced technology, Replication Server enables us to deliver data to who needs it, where they need it, when they need it even if there are system failures, that Navigation Server provides us with a high capacity with a low entry cost, that Omni SQL Gateway enables us to have complete vendor transparency and integrate all information for decision support.
+I hope that we've been able to convey the way that Control Servers will enable you to control the  client server environment as if you're controlling a mainframe, and I sincerely hope that we've been able to talk erm knowledgeably knowledgeably about our tool strategy and how we can address the needs of each different group of users with different desktop devices in a consistent manner.
+is committed to deliver solutions for real world problems.
+has set the client server agenda for other vendors for four years, and with System Ten we hope to continue to do so.
+Before we finish, what I'd like to do is erm show you a video, another testimonial from er one of  strategic partners which is  the courier company.
+Er once we've showed you that video, Garry's gonna come back and just sum up very briefly and then we'll open the floor for questions and answers.
+Thank you.
+time.
+Er one thing that does intrigue me following Phill's presentation is how the average British football fan will cope with a a Gain Multimedia workstation in Atlanta in the World Cup.
+Er  could be quite interesting.
+Erm I get the easy bit after Phill's difficult presentation, er talking around nice slides like this and yes that's the yellow brick road around what we've talked about this morning.
+Er a quick summary because we have overrun.
+Er just as we owned that famous street in New York I'd like to think with the technology and the architecture that  can deliver today we we'll own the road to enterprise client server.
+Er and you can all read what we've talked about there.
+That's where we've come from, we've talked about what's what's a available today, and we've talked about where we'd like to take our users in the future.
+Er and I can think of erm nothing better than to leave you with this slide er which I think sums up where we're coming from today and what we'd like you to take away from today.
+Er I'd like to i ask our presenters this morning to join me on the stage to take any questions from the floor and ask if you could er fill in your er  y y your sur your sheets on the on today's events before you leave please.
+Er there is an information pack er to take away with you and er in reverse order you've seen the film you can read the book.
+Within that pack there is erm er if you like the book that takes you through the slides that have been put up there today.
+Er so please if there are any questions er  let's have them.
+Someone's someone's got to be first.
+Yes sir?
+Is it possible to store er CAD information  or is it basically er ASCII?
+Yeah the question was, Is it possible to store CAD information on the database?
+Er Phill  answer that one?
+Yeah I can answer that.
+Erm absolutely.
+Erm one of the things that  is very good at is in in technical applications such as CADCAM.
+Erm we're very strong in the manufacturing arena and there's several applications based on on er  which are u delivering CAD solutions in fact.
+Erm so yes we can And in fact the Gain video that you saw incorporates some CAD drawing as well.
+So yes it is absolutely appropriate for that sort of application.
+Anyone else?
+Yes?
+How much stock if any  stock does N C R hold?
+Repeat the question.
+Repeat the question for anybody who didn't hear that  How much stock if any does N C R hold in ?
+Well I will answer that er  holds no stock of the product because the product is er the the current products are sold by us exclusively.
+Er some of the new products er you talk we talked about like Navigation Server we will be working with N C R on precisely we'll be shipping those products.
+Yes 
+open systems in the Unix context erm what plans do you have to integrate with N T as and when it becomes available?
+Yeah the question was er what are our plans to integrate with N T as and when it becomes available?
+Er perhaps one of the things that wasn't mentioned this morning is our relationship with with Microsoft in that the the Microsoft SQL Server for a the O S Two environment is actually a  developed product er and we have a joint marketing agreement on that.
+Again John if you want to pick on the on the on the 
+Well you can be assured that we have a very close relationship with Microsoft and Microsoft will er tell you the same story.
+In fact erm when for example Microsoft Access was reduced it included in the box the O D B C driver to access the  SQL Server database.
+We'll be available on N T erm I don't think I can say concurrently with the availability of N T cos A no one knows the availability of N T and secondly there will inevitabl be some lag, but it will be very soon as quick as we can make it after that.
+Erm also of course erm N T is not just a platform for the Intel machines.
+So erm N T is significant to Sequent and to Digital and they're target platforms for us as well.
+Yes?
+How does er O D B C fit in with erm sort of Microsoft and er  future?
+Again the question there, How does the O D B C fit in with the Microsoft and er  future?
+Phill?
+Okay.
+Erm we mentioned already today about  A P A P I on the desktop called erm Open Client.
+And that is a er an A P I which is very similar in approach to O D B C in that it enables you using a consistent interface to get at any data source within the organization.
+This that was erm ahead of the standards if you like, and we also need to follow standards and be standards conformant and O D B C is the first implementation of S Q L Access Group is standard for the desktop.
+As John has already said, when s er Microsoft first introduced Access and therefore the O D B C software, the only database which had the driver bundled in with the the box was  SQL Server.
+So we're very committed to O D B C. It is one standard which we're following, it is an alternative A P I for the desktop which is obviously strong because of the Microsoft relationship, erm but we will also foth follow other standards in terms of A P Is for the desktop as well.
+Is there any erm is there sort of clash in using the er the Omni S Q L Gateway and O D B C?
+No none at all.
+In fact when we ship the O Omni SQL Gateway we also ship erm the catalogue tables for O D B C with the Gateway, so they work in combination.
+Right.
+With the Omni SQL Gateway that er you'll be be able to access D B two data is that still going through the Open SQL Server  or is that actually going D R D A or are there plans to go D R D A compliant?
+I don't think I need to repeat that I think everyone can hear the questions er
+Okay erm in terms of the technical erm way it works erm the O Omni SQL Gateway does go through the Open Server for Kix at the moment and I think John could probably comment on the I B M relationship.
+Yeah as part of the activity at Uniforum last week erm I B M made certain announcements.
+There was certainly the announcement of a relationship with us because I B M share this vision of the enterprise client server model in integration of the mainframe into the open systems environments.
+They also announced a thing called D R D A two.
+I think that announcement was actually made I told it was going to be and  has committed to support D R D A two and that effectively provides an alternative A P I perhaps as O D B C with Microsoft's backing will become the norm in the P C environment, D R D A will be in the I B M environment.
+Part of D R D A two is er Two Face Commit coordination which we're also committed to support.
+So that will actually mean that a single transaction can span say D B two or indeed other I B M data sources in a  database.
+Well I'm conscious we kept you a long time this time this morning and I certainly do appreciate your attendance and presence.
+Er Sorry.
+Helen?
+Can I just ask one thing?
+Some of you have managed to escape already without filling in your seminar .
+
+
+Erm could I ask you all to do that before you leave please?
+I think what that means is you can't get past Helen unless you do fill that in  critiques.
+Er agai once again thank you for your time and attendance this morning.
+There's been an awful lot of information imparted.
+We sincerely hope that's been of use to you.
+Er  and obviously there are certain er a number of  people er surrounding you.
+Feel free to to hang around and ask some more specific questions if you wish.
+Er but thank you for your attendance and safe journey.

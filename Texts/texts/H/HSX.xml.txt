@@ -1,0 +1,31 @@
+
+
+1 Alex OCR
+ALEX is an advanced Optical Character Recognition (OCR) workstation.
+An OCT system automatically copy-types existing printed or  typewritten documents into the computer, thus saving enormous amounts of tedious work.
+ALEX is a sophisticated system that can:
+Achieve exceptionally high accuracies — better than 99.98% in some tests;
+Read reasonably clean documents at about 20 characters per second (exclusive of training);
+Recognise a large number of different Fonts on the same page;
+Learn unlimited numbers of new letters;
+Unlearn letters taught in error;
+Read and mark Italic;
+Recognise weight of fonts: Bold, Light etc;
+Insert user defined W/P codes into the text;
+Mark font and size changes in output text file for conversion from paper databases etc.
+Read accented European letters;
+Learn exotic alphabets like Greek, Russian, Hebrew, etc.;
+The equipment supplied consists of a scanner, screen, keyboard and processor unit.
+It will normally product output to floppy disk (either 5¼″ or 3½″), but it can also be connected to a DOS LAN or to a host computer via a serial interface at extra cost.
+ALEX can be used for:
+Typesetting and Desk Top Publishing from typewritten MS or existing books;
+Data entry from documents;
+CD-ROM publication of existing books, reports, documents;
+Automatic indexing in Document Image Processing (DIP) systems.
+Southdata also has a very fast text database package COLOSSUS which can be used for retrieval.
+Pricem of ALEX: £11,500 + VAT and delivery charge.
+For those who do not wish to buy a machine, but have documents to be read into ASCII files, Southdata also offer an OCR Bureau service.
+Price: from 75p + VAT per thousand characters depending on quality and quantity of documents.
+Send a few pages for a free quotation.
+Where possible, these pages should be the originals since photocopying often makes OCR more difficult.
+OCR BUREAU

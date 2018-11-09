@@ -1,0 +1,429 @@
+
+
+5 The eurobond market
+by Phil Davis
+The eurobond market is a key component both of the international capital markets per se and of the financial activity of the City of London.
+The market has grown rapidly since its inception, to a size comparable to or in excess of domestic currency markets.
+(Total outstanding eurobonds at end-1990 were valued at $1142 bn).
+This chapter seeks to offer a broad description of the eurobond market; an economic analysis of its behaviour, microstructure and reasons for location in London; and an assessment of certain key issues relating to prospects for the eurobond market and its location in London.
+5.1 An overview of the eurobond market
+5.1.1 Origins
+The origins of the euromarkets lie in the late 1950s and early 1960s.
+Although geopolitical factors (desire of East Europeans to hold dollars outside the US) and the US current account deficit (which led to an accumulation of dollar holdings in Europe) played a role, the development of the euromarkets is largely explicable in terms of various fiscal and prudential regulations applied to domestic financial markets.
+Thus, in combination with the above factors, the imposition of maximum rates of interest on US based deposits (Regulation Q), as well as the US withholding taxes, led to the development of the offshore eurocurrency deposit market in London in the late 1950s and early 1960s.
+Depositors in the eurocurrency markets sought to diversify into dollar bonds, the main source of which was the New York based "yankee" foreign bond market.
+But this was expensive for borrowers in terms of commissions (partly because bonds had to be lead managed by US firms, who formed a cartel), and suffered from listing, rating, registration and disclosure requirements.
+In addition, since US banks had limited placing power in Europe, European banks played a major part in distribution.
+Such a situation offered an opportunity for European firms — often based in London — to profit by lead managing offshore dollar issues themselves.
+Their comparative advantage was compounded by further US regulation.
+First, the 1963 US interest equalisation tax, designed to stop the capital outflow from the US, effectively raised the cost of foreign borrowing in the US.
+Second, the 1965 US "voluntary restraint programme" (made mandatory in 1968) imposed limits on outward direct investment (unless US multinationals could show offsetting balance of payments earnings), and discouraged loans by US banks of over one year to international borrowers including subsidiaries of US multinationals.
+While the IET mainly encouraged supranationals and European multinationals to issue eurobonds (partly at the  expense of yankee issues), the mandatory VRP led to a sharp increase in use of the eurobond market by US firms.
+More generally, the development of eurobond markets in a variety of currencies (see section 5.1.4 below) can largely be attributed to the imposition of withholding taxes, listing, disclosure and other regulatory requirements in domestic markets, all of which made development of an offshore market attractive (although another factor was the increased importance of currency considerations in balance-sheet management, with the end of fixed exchange rates).
+For example, the German authorities in the 1960s sought to offset upward pressure on the deutschmark; as a result they took a relaxed view of the development of a foreign deutschmark bond market and German residents' purchases (which entailed a capital outflow).
+And more decisively, they imposed a withholding tax to deter foreign residents from buying domestic deutschmark bonds.
+Although some of these factors proved temporary (for example IET was abolished in 1974), the initial stimulus was enough to provide the eurobond market with sufficient critical mass (size and diversity of issuers and investors, reputation, relationships and expertise of intermediaries) to survive their abolition.
+And some of the identified regulations — notably regulations on domestic bond markets such as listing and registration requirements — remain widespread.
+Meanwhile, as discussed in section 5.2.1, the eurobond market's development in London can be attributed to prior development of the eurocurrency market, London's overall infrastructure as a financial centre, the innovative merchant banks with a long tradition of intermediating financial flows, and the comparatively relaxed regulatory and fiscal regime.
+5.1.2 The straight eurobond
+A eurobond may be defined as an international bond issue underwritten by an international syndicate of banks, and sold principally in countries other than that of the currency of denomination.
+Eurobonds are generally bearer bonds (i.e. there is no register of holders), pay interest free of tax, and are usually unsecured but offer a negative pledge.
+Besides entailing bearer form (hence attractive to some types of investor) lack of registration, disclosure and prospectus requirements also makes eurobond finance more flexible, and so allows borrowers both to take advantage of temporary shifts in relative yields, and to respond quickly to market demand.
+The basic form of eurobond is the straight fixed rate bond, having bullet repayment.
+As discussed in detail below, eurobonds are issued by a variety of entities (companies; banks; sovereigns; international organisations), the common feature being high reputation (credit quality and name recognition).
+The main unknown feature is the nature of the investor base.
+Anecdotal evidence, however, suggests a relative shift from retail investors attracted by tax advantages to institutional investors such as life insurers and pension funds.
+Eurobonds may either be public issues or private placements — issues sold direct to investors and not traded.
+The latter are typically transactions specially structured to meet specific requirements of issuer and investor.
+5.1.3 Innovations
+Besides the straight eurobond, the market has been the location of a number of key product innovations, many of which have since been adopted in domestic markets.
+For example, the Floating Rate Note (FRN) differs from the straight eurobond described above in having a variable coupon set in relation to a reference rate such as the London interbank offered rate.
+Such issues have been particularly popular with banks (partly for reasons of asset matching) and sovereign issuers.
+Equity warrant bonds, developed from the traditional convertible bond, offer warrants giving the right, but not the obligation, to buy the issuer's equity at a prespecified price and future date.
+After syndication, these warrants can be split off from the bond and traded separately.
+Such warrants offer the potential for sizeable capital gains if equity prices rise.
+The development of interest rate and currency swaps has offered a further fillip to the eurobond market, by increasing borrowers' flexibility in issuance, as well as enabling them to profit from comparative advantage in borrowing in different markets (see Hammond, 1987).
+Asset backed bonds, usually secured against pools of illiquid loans, offer financial institutions a means of removing assets from their balance sheets and thus reducing capital requirements; but such securitisation can also be seen as a tool which facilitates the separation of the loan origination and funding function of banks.
+Besides these major product innovations, the eurobond market has seen a plethora of subsidiary innovations, many of which have been one off or flourished only for a time.
+For example, in the FRN market there have been perpetual (i.e. non-redeemable) FRNs, and variable rate notes — stimulated in part by banks' capital needs following the Basle agreement on capital adequacy.
+(Mason, 1986, offers details of a variety of such innovations.)
+Market innovations have also been common.
+Among the most important have been the development of the grey market and the bought deal (see section 5.1.7), together with the ECU (European Currency Unit) market.
+This developed from a first issue in 1982 to being the fifth largest sector in the euromarket by issuance in 1990.
+The ECU proved attractive as a hedge against currency movements, as realignments became less common in the late 1980s, while yields remained above those on the deutschmark.
+Issues by the Italian, French and UK governments have become among the most widely traded issues, and created a basis for ECU based futures contracts.
+5.1.4 Patterns of issuance in the eurobond market
+The growth of the international bond market is evident from Table 5.1, which shows that issuance has increased over ten times in nominal terms since 1975.
+Most of the growth has been in issuance of eurobonds, but there has also been significant growth in issuance of foreign bonds, largely in Swiss francs.
+Table 5.1 Volume of international bond issues ($ billion) As outlined above, the traditional international bond issue has been a straight fixed rate bond with bullet repayment.
+However, for a period from 1982-6, and again more recently, the floating rate note has become a popular form of fund raising.
+The hiatus after 1986 relates to a crisis arising from a large volume of issuance in relation to demand at excessively tight spreads, although it was triggered by concerns regarding regulation of banks' issues (see Davis, 1989).
+Meanwhile, largely due to the rise in the Japanese stock market over 1986-9, bonds with equity warrants attached became an attractive means of finance for Japanese industrial companies.
+However, the decline in the Tokyo stock market, which has rendered many warrants worthless, may seriously damage the market.
+Table 5.2 Volume of international bond issues by type ($ billion) The pattern of issuance in the bond markets has varied considerably over time, although there has generally been a predominance of banks, industrial companies and supranational organisations (such as the World Bank).
+As noted, eurobond issuers need to be of good reputation, whether in terms of credit quality or name recognition.
+Besides its inherent flexibility — avoiding the need to file prospectuses and accounts for example — the attraction of borrowing in eurobond markets can be related, first, to desire on the part of borrowers to diversify sources of funding and, second, to desire to minimise uncertainty in international contracts by issuing claims denominated in the currency specified by the contract (e.g. a UK firm issuing eurodollar bonds to finance trade or direct investment in the US).
+Table 5.3 Borrowers in the international bond markets ($ billion) As for the nationality of issuers, abstracting from supranational institutions, the market has tended to be dominated by borrowers from OECD countries.
+Table 5.4 shows that US borrowers, dominant until recently, have partly withdrawn leaving  Japanese and to a lesser extent UK institutions as the main issuers.
+Ldc (less developed country) borrowers have never been active in the international bond markets, as they lack the required credit quality and/or reputation.
+Table 5.4 International bond issuance by nationality ($ billion) The currency of issuance in the international markets has traditionally been the dollar, but its dominance has been eroded recently, particularly by increases in deutschmark, sterling and yen issuance and the rise of the ECU market.
+Table 5.5 International bond issuance by currency ($ billion)
+5.1.5 Investors
+Because eurobonds are bearer instruments, data are not available on the investor base.
+However, two main types of investor can be identified, namely private individuals (often seeking to avoid tax), and institutional investors holding eurobonds as part of a normal diversified portfolio.
+Note that eurobonds are unlikely to attract tax exempt investors such as pension funds, given the lower yield associated with bearer status.
+In addition, many institutions are restricted from holding foreign securities (e.g. German life insurers) and many have restrictions on acceptable credit ratings.
+Besides these general points, market professionals suggest that holders of dollar eurobonds fall into five categories, namely:(i) UK money managers managing funds for US captive insurance companies, whose tax liabilities are not known in advance and who therefore have a preference for euro-issues.
+These form a stable investor base;(ii) Swiss investors, generally buying eurodollar bonds on a US$ currency view;(iii) domestic US investors, especially of US corporate name issuers;(iv) Japanese domestic investors, especially of equity-warrant bonds of Japanese issuers;(v) central banks and supranationals.
+Although it is still true that most dollar  eurobonds are held by non-US residents, US residents now form an important group.
+In particular, they enjoy:(i) a different variety of instruments in the eurobond market;(ii) arbitrage opportunities between domestic and euro-issues — e.g. GMAC euro/domestic spreads might widen out to 30 basis points, generating arbitrage opportunities; and (iii) a tax advantage.
+Also, investors in countries without a double taxation agreement prefer euros.
+This preference might endure after the establishment of a double tax treaty (e.g. the Central Bank of Taiwan still has a preference for euros).
+Euroyen issues have been very attractive to Japanese investors because of the tax break/investment structure.
+US holdings of FRNs increased after the market collapse as US investors were generally happier with the credit quality of the names involved.
+5.1.6 Intermediaries
+The behaviour of eurobond intermediaries is the principal focus of section 5.2.3, which seeks to provide an economic analysis of market behaviour and microstructure.
+Suffice to say that the main intermediaries active in the eurobond market are commercial banks, investment banks and securities houses.
+Their activities can be distinguished between primary markets (launching of new issues) and secondary markets (trading of existing issues).
+Salient features of these activities are discussed below.
+5.1.7 Primary market issuance procedures
+Prior to the early 1980s the issuance procedure (traditional syndication) was as follows.
+A prospective borrower would approach a number of investment banks, one of which would be invited to act as the lead manager of an issue.
+The lead manager would in turn invite a small additional group of banks to aid it in organising the issue (the managing group).
+Two other categories, the underwriters and the selling group, would be invited to participate in later stages of the issuance.
+Once the syndicate was formed and terms agreed, the borrower would sell the bonds to the managing group, which in turn would sell them direct to the underwriters or the selling group, who in turn would distribute the bonds to the public.
+The price would only be fixed at the end of the selling period, generating some uncertainty for the issuer.
+The function of underwriters was to commit themselves before the issue to buy the bonds at a set minimum price, if they could not be sold by the managing group at a price above this minimum.
+The roles were not necessarily distinct; the lead manager may also be an underwriter and a seller.
+Since the early 1980s, the principal issuance method has been the bought deal, wherein the lead manager buys the entire issue at set terms from the borrower prior to announcement.
+Syndication of the deal is arranged after purchase (transferring risk from the issuer to the intermediary).
+The role of underwriters and selling groups in this process is considerably reduced.
+An important feature of both the bought deal and traditional syndication is the lack of discipline over the price at which members of the syndicate sell bonds.
+As a result of intense competition, bonds are often sold at a discount to attract investors (the "reallowance" ) or else banks would sell their bonds in the grey market (a market for bonds on which the issue price or syndicate allocations has not yet been determined, where quotes are set in relation to the unknown final price), which may oblige the lead manager to buy the bonds back in order to support the price.
+In the late 1980s it was felt that low profitability, partly arising from discounting of bonds by syndicate members in the grey market, necessitated a reform of primary market procedures.
+This led to the introduction of the fixed price reoffer technique (the main technique in the US domestic market).
+Under this method, banks in the syndicate have a contractual obligation not to discount fees by selling bonds cheaply to investors until issuance is complete.
+Control numbers on bonds have often been used to reinforce the discipline (as they allow any violations to be detected).
+This innovation has been widely adopted, and has helped intermediaries to rebuild profitability.
+It is particularly attractive to firms with strong institutional placing power; retail firms prefer to sell at issue price, retaining full fees as profit, rather than selling at the lower fixed reoffer price set by the lead manager.
+However, some have suggested that coordination of fees by the major players amounts to an anti-competitive practice.
+Note that the description above assumes the issue is a straight fixed rate bond.
+In many cases complex financial engineering (structuring) is needed during primary issuance to provide a package which satisfies the borrowers' funding needs.
+A discussion is provided in section 5.2.3.
+5.1.8 The secondary market
+Most secondary market transactions in eurobonds occur in over the counter (OTC) trading, i.e. not on a recognised exchange (partly for historical reasons but also due to the non-standardised nature of the instruments).
+Although they are often listed in London or Luxembourg, this is largely in order to comply with regulations which bar some institutional investors from holding unlisted securities.
+Settlement occurs through one of the two international clearing systems known as Euroclear and Cedel, who maintain a system of book entry transfers.
+The volumes involved are large; turnover of straight bonds in recent years, for example, has typically amounted to $500 bn per quarter.
+Eurobond trading is centred on intermediaries acting as reporting dealers, who make markets in securities for customers.
+Reporting dealers have the privilege of access to screens operated by inter-dealer brokers (IDBs) which facilitate the unwinding of unbalanced positions by market makers.
+IDB screens display price quotations by reporting dealers anonymously; when another market maker is located and securities sold, the IDB receives commission.
+In addition, reporting dealers display their price quotes for customers on screens (prices are usually "indicative" rather than  "firm" — i.e. final prices must be agreed by telephone).
+Reporting dealers are also obliged to submit daily to the International Securities Market Association (formerly the Association of International Bond Dealers) details of the securities in which they deal and prices and quantities in which they are ready to buy and sell them.
+The ISMA offers the lists of quotations publicly.
+The secondary market tends to suffer from a lack of liquidity relative to domestic markets; often even the lead manager of an issue is unwilling to quote two way prices.
+This is partly a result of the small sizes of international bond issues, but also a consequence of the long holding periods typical of such bonds.
+Most turnover is concentrated in large issues by sovereigns and supranationals.
+Low liquidity for publicly issued eurobonds is one feature underlying development of international private placements.
+One aid to liquidity is provided by stock lending facilities organised and  guaranteed by the main clearing systems (Euroclear and Cedel).
+Typically the lender is a passive investor seeking to make a turn on his portfolio, while the borrower is an active investor or trader seeking to finance temporary shortages of securities and avoid the risk of settlement failure.
+However, the market is not very active, with typically only 0.2% of outstanding bonds being lent at any one time.
+This may relate to transactions costs and limits on proportions of issues that can be lent.
+A recent development has been the introduction of trade matching and reporting systems (which replaced a highly fallible system of telexes to reconcile details regarding agreed trades).
+The TRAX system was developed by the ISMA in an attempt to provide up to date information on transactions (which are supposed to be reported in 30 minutes) to allow matching inconsistencies to be resolved quickly.
+The system was required under the UK Financial Services Act (FSA) to enable an audit trail to be made for trades transacted in London — and hence its use is compulsory for London based secondary market traders who are members of ISMA.
+The ACE system was set up by the ISMA, Euroclear and Cedel to satisfy pre-settlement matching requirements of the two clearing systems, and is offered to all participants in them.
+5.1.9 The role of London
+For those currencies in respect of which the home authorities allow bonds to be issued out of foreign centres, most structuring of issues and about 65% of primary issuance have taken place in London in recent years.
+For example, most eurodollar, euroyen, Canadian dollar and Australian dollar eurobonds are issued out of London.
+ECU bond issues are now also mostly made in London.
+(In contrast most European authorities — including the UK — insist on lead management occurring in their own market.)
+As noted, structuring does not merely involve routine tasks but also often requires complex financial engineering, in which houses based in London have developed considerable expertise over the years.
+The development of the market for eurodollar bonds with equity warrants attached has proved a particular spur to activity in London recently, while the rapidly growing swaps market, the outstanding value of which was $1,500 billion at end-1989, is located principally in London and New York.
+Most secondary market trading of eurobonds also takes place in London.
+As a rough indicator of the location of market making, it may be noted that 73 out of 97 dealers reporting prices daily or weekly to ISMA in September 1990 were located in London.
+Market estimates suggest that approximately three quarters of secondary market turnover in dollar eurobonds (which amounted to $358 billion in the first half of 1989) occurs in London.
+One influence is the fact that eurobonds cannot be sold into the United States before the end of a 90-day seasoning period and must be registered.
+Trading in other centres tends mainly to be driven by local customer needs.
+Market estimates suggest that about 30% of the turnover of German government bonds (bunds), 50% of the turnover in international deutschmark straight issues, and 80%-90% of the turnover of deutschmark FRNs occur in London.
+Several German banks have in recent years set up capital market units in London to trade deutschmark bonds.
+Until its abolition in 1990, trading took place in London partly to avoid Germany's turnover tax on corporate bonds.
+Trading of euroyen bonds (which totalled $70 billion in the first half of 1989) is concentrated  in London.
+In contrast, trading in London of straight Swiss franc issues is minimal, partly due to the limited investor base outside Switzerland.
+5.2 The economics of eurobond issuance
+This section seeks to probe more deeply the nature of London's eurobond markets by addressing three issues; first, linking to the previous section, a discussion of the economic factors underlying London's role; second, an econometric assessment of determinants of eurobond issues at a macro level; and third, an analysis of the structure and performance of the market for primary issuance.
+5.2.1 Economic factors underlying the development of London
+The eurobond market fits well into the more general paradigm describing the development of financial centres developed in Chapter 1 (see also Davis, 1990).
+Thus, for eurobond firms London has offered a pool of suitably trained labour; in recent years, low levels of personal and corporate taxation; a reasonable tax regime for financial instruments (e.g. ability to issue bearer eurobonds that effectively pay interest gross and absence of turnover taxes — a particular handicap for the Swiss); a supply of suitable premises; the absence, since 1979, of exchange controls (although initially exchange controls were seen as an advantage, since eurobonds did not interfere with onshore sterling markets); prudential and monetary regulations that have not historically tended significantly to raise the cost of funds, distort or prevent competition among domestic or international intermediaries; English law (widely accepted as a basis for international financial business); the English language; and political stability.
+There has also been a degree of confidence among eurobond firms that regulations will not be altered without good reason and appropriate consultation.
+Finally, London's time zone position offers a natural complementarity with New York and Tokyo for trading of securities such as eurobonds as well as forex.
+As noted in Chapter 1, among the most important factors supporting London's position have been external economies of scale — the mutual benefits arising from the concentration of financial firms in one location.
+Eurobond firms participate in markets whose liquidity (enabling rapid execution of large orders with minimum disturbance to prices or margins) and efficiency (in establishing prices which reflect all available information) increase with the number of participants.
+Groups of different markets (as well as different firms in the same market) are sufficiently interrelated also to benefit from location in London (for example futures markets to cover eurobond exposure, or the different currency sectors of the eurobond market).
+Firms can diversify their activities by operating in several markets (e.g. eurobonds and UK equities (after Big Bang)).
+Firms, whether in the same or related activities, need and benefit from close business contacts with each other: for example , the lead manager and other participants in a eurobond issue require close links.
+A group of trades and professions has grown around the core financial institutions to provide other services, such as lawyers (of particular importance to primary eurobond issuance), accountants, actuaries, security printers, computer programmers and consultants.
+Customers of eurobond houses such as industrial and commercial companies and fund managers often find it convenient to be represented in the financial centre too.
+A supply of skilled labour with established expertise in bond  markets is readily available to newcomers.
+Bodies such as the International Primary Markets Association (IPMA) and the largest regional ISMA groupings are located in London.
+In such an environment London's share of eurobond business has grown in a self-sustaining manner, as by the mid-1980s the origination activities of all the leading firms had become centralised in London.
+The benefits arising from contacts and participation in markets increased progressively with the number of firms in the locality, and firms continued to be attracted to the centre because of the numbers already there.
+Business became concentrated and competing centres find it hard to become established.
+And London developed reputation and prestige to keep firms there.
+The continuing shift e.g. of ECU bond activities to London, shows the continuing potency of these mechanisms.
+But the process could also go into reverse if key aspects of the environment such as relative regulatory burdens deteriorate (see section 5.3).
+5.2.2 Determinants of issuance
+Estimates were made in Davis (1988) of the nature of the determinants of gross eurobond issuance.
+It was assumed that the following variables would influence issuance (bearing in mind that the level of issuance observed results both from demand and supply influences).
+the yield on eurodollar bonds the yield differential with US domestic bonds (net of withholding tax) the yield curve relationship in the euromarkets (eurobond yield less 3-month eurodollar rate) the yield differential with Swiss franc eurobonds the US$ effective exchange rate industrial production (as a proxy for economic activity).
+Seasonal dummies also proved to be necessary — eurodollar issuance follows a seasonal pattern, with a marked trough in December.
+The data period was August 1983—February 1988 (monthly) and was mainly determined by the availability of data on eurobond yields.
+Equations were estimated for eurodollar straights, all eurodollar bonds and all eurobonds.
+The specification used was in error correction format (Hendry et al, 1983) which by specifying variables in both differences and lagged levels enables one to separate out long and short run influences on the dependent variable.
+Due to the simultaneity between the dependent variable and the current eurobond yield, the equation was estimated by instrumental variables.
+Table 5.6 shows estimates of the equations, after a specification search from a more general equation.
+As noted, there are few long run effects given the negligible size of the lagged dependent variables — a point which shows in itself the instability of demand for issuance — the market tends to be subject to "feasts and famines" .
+Very high elasticities with respect to changes in yields and differentials are apparent.
+In general, an increase in eurobond yields decreases eurobond issuance, while a steepening of the yield curve leads to an increase in issuance, as does a decline in the dollar/Swiss franc bond differential in the case of US dollar bonds.
+A widening of the euro/domestic differential leads to increased issuance — an effect likely to be feeding from the lender side of the market rather than the borrower.
+Meanwhile, a depreciation of the dollar tends to reduce eurobond issuance, especially for dollar issues, suggesting that depreciation leads to expectations of further falls and hence losses for non-dollar based investors.
+This effect also obtains for total eurobonds, in which case it is likely to proxy the uncertainty and adverse interest rate expectations caused by a falling dollar.
+Less attention should probably be paid to levels than difference effects, as it seems likely that the levels are partly illustrating the long run trends (largely upward) in eurobond issuance.
+On the other hand, it is economically reasonable for  borrowers that issuance should be higher, the lower the eurobond yield demanded by investors.
+A high level of industrial output, too, is likely to entail higher real levels of bond issuance.
+The positive levels effect of the exchange rate, on the other hand, probably illustrates more a coincidence with the trend of eurodollar issuance, as does the level of the euro/domestic differential.
+Seasonal variables were significant in each of the equations, generally showing a sharp decline in issuance every December.
+The statistics indicate a reasonable level of explanation for a difference equation.
+The DW does indicate a degree of autocorrelation, however.
+5.2.3 Structure of the primary eurobond market: an industrial analysis
+The analysis of the microstructure of the eurobond market is in four sections.
+In the first, the main features of the market are introduced; the second and third focus on market structure and profitability more closely; and the final section interprets behaviour in an industrial economics framework.
+a) The nature of competition
+In characterising the primary eurobond market as an "industry" it is useful first briefly to define the price and the product in question.
+The product is taken to be intermediation of eurobonds on behalf of borrowers.
+This always includes management, underwriting and selling of a bond issue, but may additionally entail arrangement of a swap, initial support for the price of the issue and an implicit commitment to make markets at a later stage.
+It is thus evident that secondary market trading cannot be entirely divorced from primary issuance.
+(Firms may also feel the need to set up secondary market operations to build up relationships with investors, and to have an investor base for distribution of new issues.)
+The price of eurobond intermediation is composed largely of commission or fees, which are divided between lead managers, underwriters and sellers.
+However, since managers can also offer a coupon for the bonds — and hence a yield — which is more or less competitive by taking a higher risk, the overall price must also contain elements of the deviation of the yield from that which would be obtained from other competing intermediaries.
+A third cost element is the cost of ancillary services such as the swap fee.
+Finally, features such as initial market support will be reflected in fees and yields.
+In this context, eurobond houses typically compete for mandates in various ways.
+For straight bonds, they may try to offer the most attractive swaps, low spreads over domestic bonds, low commissions (including underwriting fees) and primary and secondary market support.
+The locus of competition may change over time; however, in general the interest cost, gross of fees, may be defined as the price of a eurobond issue to the borrower, and is the continuing obligation in relation to the bond issue.
+The level of general interest rates is clearly beyond the control of intermediaries, but commissions can be trimmed and, as noted, yields at issue can be varied by an increase in the risk taken by underwriters.
+The cost of a swap may also be varied.
+Out of pocket issue fees, including legal, printing and fiscal agents' fees, tend to be small; in extreme cases differences in them can sway deals, but in general the yield, commission cost and cost of the swap (if included) remain primary factors.
+Of course, cost is not the only factor; ability of the investment bank to maintain a secondary market is important to the extent that repeat borrowing will  tend to be priced on the basis of the yield on outstanding issues; ability to structure and innovate may be important where there are specialised funding requirements; the investor base and banking relationships can also be important, as discussed below.
+Offered prices will not necessarily always cover fixed costs — firms may often sacrifice short run profit maximisation to lead manage or to be included in a deal.
+Or intermediaries may be prepared to offer deals at times when other firms are unable to do so, taking the risk of putting a deal on their own books.
+Alternatively, they may cross subsidise deals with their profits in other markets such as swaps.
+Such behaviour results from the importance of "league tables" in attracting further primary eurobond business and "relationships" with issuers, the existence of "joint demand" for different products from the same firm — and possibly also joint costs in the production of different services.
+Cross subsidisation will be particularly common when firms are trying to penetrate new markets or attract new clients.
+Indeed, primary eurobond operations are often categorised as "loss-leaders" , making low or negative profits to attract clients to other operations (equity issuance, financial advice, bank lending, etc.) or to penetrate new markets.
+To some extent, the nature of competition described above is similar to other financial markets.
+But there are also important features for industrial structure which differentiate the eurobond market from most other financial markets.
+First, the market is globalised, i.e. issuers and investors may be from any country (subject to regulation), while intermediaries may be from third countries.
+It thus differs from most domestic banking markets and many domestic securities markets where savers, borrowers and intermediaries are typically also domestic.
+Second, the market is relatively unregulated.
+For example, there are no barriers preventing activity by commercial or investment banks; indeed the eurobond market is characterised by a wide variety of types of firm and ownership structures (divisions of a firm, wholly-owned subsidiaries).
+In addition, there are no regulatory restraints against entry to the market, and until recently there were no regulations for dedicated specific capital or prudential controls on players' activities, except (in the case of universal banks) to the extent that banking supervision of a company impinged on a eurobond operation.
+(Some tightening of regulation has resulted from the recent introduction of the Financial Services Act in the UK: see section 5.3).
+The absence of regulatory constraints has resulted in many financial firms in the eurobond market being multiproduct (financial conglomerates).
+The firms involved are often multinational in a way that is atypical of most other financial markets.
+Such a structure is much more typical of industrial markets such as those for cars and pharmaceuticals.
+The globalisation of the market and the absence of regulatory restraints are among the factors behind this tendency.
+Like many industrial markets, the eurobond market has featured a variety of innovations as firms have sought actively to increase market share or create new markets by the introduction of attractive new financial products.
+Lack of regulations is clearly an important permissive factor.
+Profitability of successful innovations has, however, typically been competed away as the product becomes a simple standardised product or "commodity" .
+The eurobond market has featured rapid growth and new entry of intermediaries, though also periods of consolidation.
+Certain other general features of the eurobond market are important for understanding its behaviour.
+As noted above, regulatory barriers do not constrain new entry to the market, and rapid entry suggests that any other constraints to establishment in the market are weak.
+The distribution of successful firms, which  includes various "niche players" , suggests that entry at a low level of activity need not entail losses.
+As a result of these tendencies, the market structure of the eurobond market has generally been categorised as competitive — although such aspects as product differentiation, growth maximising strategies and the inability of a firm to gain infinite demand for its services if it sells at below market prices suggest imperfect rather than perfect competition (firms do not compete on price alone).
+However, despite rapid entry, there has been relative stability in the market share of the large established firms (see section (b) below).
+This suggests that there may be barriers, which, while not restricting entry per se, do restrict the ability of firms to become sizeable participants in the market.
+What are the barriers to growth?
+First, capital needs are sizeable if firms wish to become major players, to invest in technology, to be able to handle underwriting and distribution, notably of "bought deals" , to hire expertise and to be able to trade and make markets.
+An institution which is already well capitalised or faces a low cost of capital will thus have an advantage.
+Among the other barriers to growth beyond a low level of activity appear to be the investor base and hence placing power of established firms, which influence the ability to win mandates.
+This partly depends on factors such as the strength of demand in the firm's country of origin for securities as opposed to deposits, together with restrictions on entry of foreign firms.
+Strength of local demand for international securities will also often be correlated with the balance-of-payments surplus/deficit position of the country in which the firm or its parent is based, as well as the strength and internationalisation of the currency.
+Given that these change over time, the dominance of the industry by a certain nationality of institutions may be transitory.
+The expertise and capitalisation of the dealing desk, and the ability to innovate are also important factors though these may stem from the knowledge of the investor base.
+A more intangible barrier, partly a function of the other factors, is "franchise" or reputation of existing firms, the perceived ability in the mind of the client to deliver top quality services.
+Many commentators have suggested that eurobond market intermediaries have at least historically been characterised by a managerial objective of growth maximisation, rather than short run profit maximisation.
+As a result of strong growth, firms hope to become sufficiently large to make a "name" and thus attract new issuers and build placing power, an objective that may be felt to be consistent with long term profit maximisation.
+The relative lack of entry barriers and large number of firms appear to lead firms to believe that growth maximisation is a feasible objective, although the barriers to growth outlined above mean that, in practice, the objective is difficult to attain.
+These tendencies have entailed certain structural problems — the market suffers from excess capacity (see section 5.3), with many eurobond operations unable to make profits on turnover averaged over the interest rate cycle.
+Firms are often poorly capitalised, relative to their needs, as shown elsewhere by the difficulties of some securities firms resulting from their equity operations after the stock market crash and the need for injection of capital from parent banks.
+Undercapitalisation entails risks when such firms carry out eurobond "bought deals" or take on large positions in secondary market trading.
+Finally, it is emphasised that conditions in the eurobond market are subject to change over time, secularly as well as cyclically.
+Important long term developments include the change of the customer base from individuals to institutions, and the increasing receptiveness of the latter to new currencies and instruments, the increase in volatility of exchange and interest rates, the advent of  bought deals, deregulation of national securities markets, the declining segmentation of the different currency and instrument sectors of the euromarkets, the growing sophistication of corporate customers, financial innovation and unbundling of financial services.
+These changes — in particular the increasing size and sophistication of counterparties — have tended to increase competition between firms and hence the need for adaptability on the part of players, as well as reducing profitability.
+To summarise; among the most important "stylised facts" of eurobond market competition are the following: apparently highly, albeit imperfectly competitive market conditions; low profitability; periods of rapid entry with little effect on concentration (barriers to growth); growth maximising strategies by firms (long run profit maximisation); a high level of innovation; and periodic changes in the nationality of the dominant firms.
+The following sections focus more closely on market structure and trends in profitability, before an attempt is made to interpret behaviour in the light of the theory of industrial economics.
+b) Concentration and market structures
+The market has undergone the evolution shown in Table 5.7 (as recorded by "league tables" of lead managers in the primary market for all international issues, ranked by the value of issues lead managed in dollar terms).
+The five firm concentration ratio has varied around an average of 41% over this period, rising to a peak of 53% in 1978 before falling to 34% in 1980, rising to 47% in 1983 before declining to 30% in 1990.
+Broadly, the declines in the concentration ratio have tended to occur   during periods of market growth, while the rises have corresponded to recessions, suggesting that high levels of bond issues lead to a more even spread of issues between firms as well as new entry, while in slack periods the dominant houses tend to take a larger proportion of issues, smaller houses being squeezed out.
+The nationality of the top five lead managers in the eurobond market has changed significantly over this period — in itself an indicator of the intense competition prevalent in the market.
+German and Swiss lead managers were dominant between 1975–79, but US houses became increasingly important during the 1980s, and by 1984–85 three US houses and the US/Swiss CSFB were included in the first five.
+The dominance of the US houses was, however, broken by the entry of the Japanese, with one in the top five in 1986 and three in 1987.
+More recently the Japanese hegemony has weakened.
+Comparison with Table 5.4 shows a strong relationship with patterns of issuance by nationality.
+New entry to the industry has been frequent (Table 5.8); the total number of bookrunners has risen sharply since 1980 and 54 firms have entered the top 50 issuers since 1975, while 15 firms have gained positions in the top 10 lead managers for the first time (see Table 5.8).
+However, very few have been able to maintain these positions: only 5 in the top 50 and 3 in the top 10.
+This suggests that while entry to the eurobond market is easy, it is more difficult for a firm to establish itself as a dominant player.
+Table 5.8 Industrial dynamics of the eurobond market  There have been 125 firms in the top 50 since 1975, but of these only 14 (11%) have been consistently in the top 50 (see Table 5.9).
+To these one can add the five new entrants who have established themselves, to give a set of "core players" amounting to 19 (15%).
+Obviously, there are others on the fringes of this group who  have dropped out for 1-2 years (an extra 13 firms) but this leaves a large number who are at most transient players.
+Of these two sets of firms, 12 have never been in the top 10, and can be classified either as niche operations or unsuccessful major players.
+In addition, 25% have managed only one issue in the relevant period, and no less than 38% have been in the top 50 for less than four years, excluding those who have established themselves in the last four years.
+These data suggest that there is a durable core of banks and securities houses whose position is hard for other banks to challenge.
+Table 5.9 Summary of market structure 1975–90  
+c) Indicators of pricing and profitability
+An assessment of commissions in international bond markets in the early 1980s shown in Davis (1988) suggests that in general, commissions in the eurobond market (2%) were higher than in the US domestic market (1%), but rather lower than in the various European domestic markets (2.5%).
+Levich (1985) suggested that large selling commissions were required to induce European banks to participate in deals.
+On the face of it, such high commissions suggest a lack of price competitiveness, but as noted above, large institutional buyers are able to force distributors to share all or part of the selling concession, and prices may thus be lower than they appear.
+For example, Hanna and Staley (1983) quoted "reallowances" of 1-1.5% against average commissions of 1.95%, making a net commission of 0.45–0.95%.
+This is shown by prices in the "grey market" which are often reported to be so low as to negate all of the gross fees, thus absorbing all of the underwriters' risk premium.
+Firms are then only able to make money by stockpiling inventories and reselling when (if) prices rise.
+The shift to fixed price reoffer primary issuance attempts to offset these patterns (see section 5.1.7), although Jeanneau (1989) suggests it will not be effective as long as excess capacity remains.
+Average commissions on eurobonds have declined, albeit irregularly, since 1980 (see Table 5.10).
+Although a parallel shift in average maturities means that part of the fall is not accounted for by increased competition, comparison of years with similar average maturities does show a decline in gross fees.
+Over 1980–83 the average level of gross fees for supranational issuers (i.e. controlling for credit quality) was 1.84 while over 1984–87 they were 1.8 and over 1988–90, 1.57.
+Commissions in the eurodollar market as a whole (not illustrated) obviously depend on maturities and the quality of the issuer, but similar trends in fees are observable.
+Table 5.10 Commissions on eurodollar fixed rate bonds by supranationals (percent) Margins or spreads, for example over domestic government bonds, are typically influenced by a wide variety of factors, including default risk of the issuer, call risk that bonds may be liquidated early, tax exemption, maturity, and expected market liquidity.
+Given these factors, in particular the fact that default premia tend to vary over the trade cycle, it is not a trivial task to isolate factors related to competition in the new issue market.
+Clearly, spreads can only be compared in one currency sector.
+However, it may be indicative of increased competition that in the case of dollar issues for supranationals the average margin over US T-bonds in 1980–83 was 17 basis points while in 1984–87 it was –11 basis points.
+To summarise, results drawn from grey market activity and from spreads and commissions indicate an increasingly competitive market, relatively independent of changes in concentration.
+However, the end result of the degree of competition in a market can only be observed in profitability.
+Various complications arise, notably the fact that eurobond activities are typically only one business entered into by a conglomerate, the results of which may be hidden in its balance sheet (though, given the importance of joint demand for fixed income business in general, total profits on the balance sheet may reflect the underlying profitability of eurobonds).
+Losses on eurobond activities may be cross-subsidised by profits from other markets.
+Given these caveats, the state of the euromarket, with declarations from all sides of low profitability and a rapid shakeout in the market, does suggest that current profitability is low.
+For example, The Economist (1987) noted that"banks lose money in the eurobond market because it is the most competitive capital market…compete to underwrite bonds at rates so cheap they can only be sold at a loss, often exceeding fees (1 ⅞%); ng …some institutions subsidise borrowers by providing money at below market rates…
+In 1985 UBS, in 1986 the Japanese."
+These tendencies are at most tangentially in line with changes in concentration, suggesting a need to look elsewhere for causal factors.
+Turning to company data, the fact that five leading US investment banks had post tax returns on average equity of 26% in 1982 does suggest high profitability (Table 5.11).
+However, the decline in profitability since then, when concentration has changed little and output has grown strongly, contradicts any suggestions of low competitiveness.
+The decline partly reflects factors relating to US domestic activity, although similar forces are at work in the eurobond market.
+As regards the US domestic market, these changes in profitability are opposite to those of concentration, which rose over the period.
+Similarly, the decline in profits in the eurobond market has not been accompanied by a particularly marked decline in concentration since 1982.
+Table 5.11 Profitability of US investment banks active in eurobond market (return on average equity)
+d) An interpretation
+These stylised facts and structural factors can be interpreted in the light of the theories of modern industrial economics.
+On the face of it, the market appears to have many of the features of a contestable market, that is, one where competitive conditions are maintained regardless of the market structure, due to the threat of new entry.
+This requires the absence of sunk (irrecoverable) costs to entry.
+Capital costs, in terms of dealing rooms, finance for underwriting, expertise, etc., may be high, but those specific to eurobonds are rather low, because they can be adapted from other sectors such as domestic corporate bonds.
+There are a wide variety of well-capitalised firms and investment banks ready to contemplate entry.
+Entry can be rapid, as can withdrawal.
+It is thus clear that contestable market features help to explain some of the behaviour of firms in the eurobond market, i.e. that it is highly competitive, especially within the individual currency sectors, despite the market structure.
+It should be added that contestability may have changed over time, especially within individual currency sectors.
+In the 1970s eurobonds were typically placed in managed accounts, international investors had few alternatives to eurobonds, and there was high demand for bonds, all these factors suggesting ease of entry.
+On the other hand, except for eurodollars, most currency sectors were the preserve of a few domestic institutions owing to regulatory barriers and cartels.
+In the 1980s, the increasing dominance of capital markets by institutional investors and the lower excess demand for eurobonds has made placing of bonds more difficult, adding to entry barriers for firms lacking an institutional investor base.
+Capital costs have risen as a result of increasing use of bought deals, and the need to set up research and secondary market trading operations (to satisfy institutional investors' liquidity requirements and to gain an investor base to complement primary activities), although capital requirements as such do not prevent a market being contestable.
+On the other hand, entry by intermediaries to currency sectors has been facilitated by the advent of swaps and improvements in technology.
+Bought deals are costly in terms of capital, but do not require development of a wide range of relationships with other banks.
+On balance contestability has increased, partly explaining the  decline in profitability.
+It is, however, harder to explain purely in the context of the theory of contestable markets why some firms' eurobond operations have continued to be successful while others have been unable to establish themselves, why there has been no significant decline in market concentration over time despite continual new entry, and why profitability has declined so steeply.
+Certain features of eurobond market structure, interpreted in the light of other aspects of the new industrial economics, may help to explain these tendencies.
+There may be significant entry barriers to the upper echelons of the industry, resulting from intertemporal dependencies on the demand and cost side, and from strategic competition, both of which create sunk costs.
+Dealing first with intertemporal dependencies, the advantages of established firms may include accumulated expertise, reputation and relationships, summarised above as "franchise" .
+Offered the same price for an issue, borrowers will choose an existing firm, given their reputation for successful launches, to avoid all the disadvantages in terms of future borrowing costs should an issue fail.
+Similarly, investors tend not to deal with a new house if they are doubtful about its tenacity — and skilled market staff will not join a firm even for high salaries if they are unsure that it will remain in the market.
+Recent experience suggests that these advantages of existing firms can only be offset if there is a large savings surplus in the home country, where entrants have strong relationships with investors and issuers, where there is a desire and ability to invest in euromarket instruments and/or a lower cost of capital, as is the case for Japanese firms.
+These enable such entrants to charge a lower price than incumbents, cross-subsidising competitive deals (e.g. in straight bonds) from markets (such as equity warrants) where they have market power.
+Implicitly, there are two types of new entry, one with a secure customer base, and one assuming "speculatively" that business can be taken from other houses or that a suitable share of any incremental business can be obtained.
+This would explain the pre-eminence of various investment banks over the years and the inability of many new entrants to gain profitability.
+Implicitly, exit costs exceeded costs of entry, largely due to the sunk costs of contacts, reputation and privileged access to information on market movements (on the demand side) and expertise (on the cost side) built up over time.
+In addition, incumbent firms have actively carried out strategic moves.
+They have, in effect, invested in excess capacity, though whether this was deliberate or accidental is harder to judge.
+Predatory pricing has been widely used by both incumbents and entrants to the eurobond markets.
+Development of specialised expertise, for example in swaps, is a further form of strategic investment.
+Established firms are tending to scoop up the talent in the market which is still in second-tier houses — without which they will not survive.
+It may be suggested that competition in provision of market analysis and in research and development has also been aimed at increasing market share and discouraging entry.
+Strong and timely market analysis may enable a firm to retain its investor base.
+Such analysis by some firms obliges others to gather similar information to protect themselves, or attempt to enter the market.
+Meanwhile, the invention of new financial instruments may enable an institution both to make initial gains by charging high fees and, by virtue of its developing expertise, to make longer term excess profits.
+Even if high prices are not charged, an innovation may give an investment bank an advantage in gaining mandates, which may enable losses to be converted into "normal" profits.
+From an economic point of view, the  private benefits to the successful innovator are likely to exceed social benefits even if the latter are positive because many innovations, particularly on the product development as opposed to the process/new technology side, do not offer strong benefits to investors aside from existing instruments.
+In some cases they may worsen the situation for market participants by reducing liquidity in an unanticipated way which offsets any benefits arising from a closer "fit" to investment needs.
+The large potential private benefits to innovation lead to a high and perhaps excessive level of such innovation — including duplication of effort to the same end, at considerable resource cost.
+The decline in profitability can also be explained by factors relating to the nature of trade in the eurobond market between borrowers and intermediaries.
+Which side bears the larger sunk costs?
+Borrowers may find it in their interests not to break a relationship with an investment bank, as the latter may stabilise the bond price and maintain an orderly aftermarket, ensuring a good reception of future issues.
+If it seeks too low a spread, its issue may fail, thus damaging its chances of making further issues.
+On the other hand, rules of the ISMA require firms to make markets to some extent and other firms may be ready to make markets in the relevant issue.
+Borrowers are increasingly sophisticated and thus have less need of information that the intermediary can offer, particularly as lead manager performance can be monitored in the grey market, i.e. information asymmetries are becoming less important.
+Borrowers are increasingly ready to deal with several firms rather than merely a "house" bank.
+The investment bank wishes to maintain relationships in order to ensure future business, to preserve its reputation, and to maintain the value of any information it has gathered about the firm in question — which is obviously unsaleable.
+Once these factors are taken into account, together with the tendencies to rapid new entry, intense competition and the high elasticity of demand for eurobonds, it is evident that the balance of advantage is increasingly to the borrower.
+The investment bank is unlikely to be able to squeeze monopoly rent from a relationship.
+Similarly, the investor base of the market has tended to change from private account holders to institutional investors.
+They have considerable countervailing power against intermediaries, as placing power is an essential part of dealers' strength to win mandates and again institutional investors' sophistication entails symmetric information.
+It is more in the investment banks' interest to maintain relationships.
+e) Summary
+To summarise this section, the structure of the primary eurobond market features rather high concentration despite a rapid increase in the number of bookrunners; a degree of fluidity among a limited number of leading firms, often related to the nationality of borrowers or investors; and a large number of peripheral firms.
+As regards conduct, firms appear frequently to use strategies such as innovation, predatory pricing and cross subsidisation of deals in pursuit of relationships with borrowers and investors.
+Last, in terms of performance, the outturn for most intermediaries has been rather poor in terms of profitability, while borrowers of funds have gained from lower commissions and margins.
+It is suggested that these observations can be reconciled by appeal to contestable markets theory — where potential competition restrains the profitability of intermediaries, together with shifts in bargaining power towards end users of funds.
+However, there also appears to be a degree of strategic competition in the market, which in combination with advantages for incumbents that develop over time (relationships, reputation and expertise) form a barrier to growth for second line firms.
+5.3 Prospects for the eurobond market
+This final section identifies some key issues relating to the future of the eurobond market — patterns of borrowing and the issue of convergence — and its location in London — regulation and excess capacity.
+5.3.1 Borrowers
+Benzie (1991) outlined a number of doubts over the general prospects for international bond issuance.
+For example, for US borrowers the balance of advantage appears now to favour the domestic market.
+One reason is the low credit quality of US corporations following the wave of takeovers and leveraged buyouts and associated issues of "junk bonds" .
+Issues hence no longer meet the high standards of credit quality required by the eurobond market.
+And the advent of "event risk" (i.e. the threat to credit quality, arising from the risk of leveraged takeover which would reduce the value of outstanding bonds) has also harmed the standing of US borrowers in general.
+Longer-term factors favouring the US domestic market are the abolition of withholding tax and introduction of shelf registration (which allow bonds to be registered prior to issuance, thus enabling flexibility in taking advantage of market opportunities).
+Moreover, in Japan the fall in the stock market has cast a shadow over the equity warrants market, the mainstay of Japanese issuance in recent years.
+However, Benzie felt that issuance by important European issuers such as banks, industrial companies, mortgage institutions and to a lesser extent governments could make up for these.
+Easing of issuance queues and limitations on use of proceeds from euroissues could have a particularly favourable influence.
+5.3.2 Convergence
+A more general factor influencing the future prospects of the eurobond market is convergence between domestic and eurobond markets, which has been a strong feature of recent years.
+For example, abolition of exchange controls has reduced the usefulness of direct restrictions on bond issuance such as issue queues and other limits.
+Even where restrictions are still important, as in the yen market, the swap market has facilitated circumvention.
+A second trend has been abolition of withholding taxes in countries such as the US, Germany and (for non-residents) France and Spain.
+Third, issuance of "global bonds" simultaneously in domestic and international markets is increasing integration.
+Such reforms increase substitutability of euro and domestic bonds and raise the issue of the future viability of the eurobond market, if there are no distinctions with domestic markets.
+At least, it will need to maintain a high level of competition and innovativeness in order to survive.
+Not that convergence should be exaggerated.
+A number of countries retain withholding taxes, such as the UK and Belgium; issuance queues remain in a number of markets, as do limits on the extent to which certain types of borrowers can make euroissues, constraints on use of such funds and restrictions on institutional investors' freedom to acquire foreign securities.
+5.3.3 Regulation
+Despite the volume of complaints about the Financial Services Act, the regulation of the eurobond market in London is relatively light.
+The ISMA, the main trade body of eurobond dealers was made a recognised overseas exchange under the Act and is overseen by the Securities and Futures Authority.
+Use of the TRAX system is now compulsory as noted above, but this has been seen as a benefit as much as a burden.
+The greater difficulty is that eurobond houses are active in other markets where the regulatory requirements are more severe.
+Complaints focus particularly on the setup costs of reporting systems and more general costs of management time in meeting regulatory requirements.
+Moreover, accounting fees that even the smallest bank has to face amount to a considerable additional cost.
+As well as regulation per se there is the problem of legal risk (e.g. the House of Lords decision that swaps entered into by UK local authorities were unlawful).
+In the context of international bond markets, such difficulties are of particular importance given the efforts at deregulation made by other centres in recent years, which could attract euromarket intermediaries to the relevant financial centres.
+For example, the French have been steadily deregulating the international French franc bond market, relaxing listing and authorisation requirements, reducing minimum maturities and allowing French subsidiaries of foreign banks to lead issues.
+The Dutch have abolished turnover tax and fixed minimum commissions on securities transactions.
+In Germany turnover taxes have been abolished and the Bundesbank has dismantled the remaining restrictions on issuance and underwriting of foreign currency bonds by borrowers domiciled in Germany (until then issuance in foreign currency required a non-resident financial subsidiary).
+In the US the SEC rule 144a and Regulation S effectively liberalised the US private placement market, by waiving registration requirements and allowing immediate resale to qualified investors.
+Such measures could lead to more sales of euroissues in the US as well as enabling issuance to take place there.
+A longer term issue could be the abolition of US and Japanese laws separating commercial and investment banking, which could entail repatriation of eurobond business to New York and Tokyo.
+5.3.4 Excess capacity
+As noted in section 5.2, the emergence of excess capacity in bond (and equity) markets located in London has been a notable feature of recent years.
+With hindsight, it is apparent that new entrants experienced difficulty in predicting customer demand, and may in the event have overestimated the sustainable level.
+A number of firms may also have had problems in achieving the synergies expected of newly formed structures.
+Those that sought to grow organically may have faced fewer problems of this type.
+Firms also had to face the challenge of creating and managing new systems of risk control and of exploiting new developments in information technology.
+For a while after the emergence of excess capacity, a number of firms, particularly some large domestic and international conglomerates with diversified operations, appeared willing to continue loss-making securities operations.
+It has become increasingly evident, however, that few institutions are content continuously to cross subsidise loss-making operations for the sake of customer relationships.
+They have responded to excess capacity in a variety of ways, but generally by seeking to concentrate on their perceived areas of expertise.
+Some are  focussing on areas such as swaps and derivatives, which can give them an edge in the primary bond market.
+Another response has been to withdraw from "commodity" type financial markets (such as commercial paper, foreign exchange and government bonds), where profitability is low, in favour of more specialised activities which generate fee income, and require less capital then does trading or issuance.
+Examples are fund management and corporate finance.
+Firms that remain in commodity type business are under particular pressure to contain their costs, given that success in such markets typically flows to the lowest cost producer.
+As noted, eurobond firms are seeking to reform issuance procedures in a bid to reduce the current pressures on profitability, one underlying cause of which has been excess capacity.
+A further motive for rethinking organisational structures has been the growing awareness of potential conflict of interest.
+Conglomerates can find themselves faced with contentious negotiations involving clients of different parts of the same institution.
+A return to specialisation reduces this risk.
+Withdrawal from some types of business and geographical retrenchment may reduce representation in London markets.
+However, Davis and Latter (1989) concluded that such developments are not necessarily to the benefit of any other centre, and orderly removal of excess capacity should be seen as a normal component of London's evolution.
