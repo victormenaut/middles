@@ -1,0 +1,311 @@
+
+
+INTRODUCTION
+Alterations to the design specifications of the New OED computer system may be needed during development in order to solve design or implementation problems.
+Also when the system is undergoing user trials, or is in production, users may want to request changes to simplify the use of the system or to provide additional functions.
+It is essential that changes are managed in a disciplined way.
+This document describes the Change Management Procedures to be adopted for the New OED Computer Project.
+These procedures will be used for all proposed changes to ensure that deviations from the agreed development path are controlled and monitored.
+It should be noted that an agreed change will not necessarily result in an alteration to computer programs.
+Instead, additional user procedures may be introduced, existing user procedures may be amended, or data may be altered.
+Section 2 of this document summarises the change procedures.
+Section 3 describes the change procedures in detail.
+Section 3 is divided into the specific procedures to be followed by each person involved, making reference to the actions taken by other people.
+Sections 4, 5, 6 and 7 describe the forms to be used within the procedures.
+Section 8 describes the Change Report.
+SUMMARY OF CHANGE MANAGEMENT PROCEDURES
+This section gives an overview of the Change Management Procedures for the New OED Computer Project.
+A design change proposed by a member of the computer group during system development will be referred to the Development Manager.
+The change procedure is bypassed if he considers that the change is beneficial and that no significant change in the functionality of the relevant sub-system, or impact on the development schedule, will be incurred.
+Changes proposed by a user will be referred to the New OED Computer Group Manager for initial approval.
+In some cases the Development Manager and the New OED Computer Group Manager will be the same person.
+A Change Request Form will be completed for each proposed change.
+This form, together with any supporting documentation, will be sent by the person who requested the change to the Change Coordinator.
+The Change Coordinator will record the request in a Changes Log and will subsequently monitor the progress of the change.
+Each change request will be reviewed by the Development Manager who will assess the implications and scope of the change, and recommend an appropriate course of action.
+A Change Review Meeting will be held periodically between the New OED Computer Group Manager and the New OED Project Director.
+Each new change will be discussed at this meeting.
+Agreement will be reached on whether to accept the change, or defer a decision on the change until a later date.
+Accepted changes, together with changes whose rejection could be contentious, will be sent to the Director, Information Systems for formal approval.
+The person who requested the change will be informed of the decision via his manager.
+Approved changes will be scheduled and controlled using a Change Control Form.
+The Change Coordinator will prepare a fortnightly Change Report for the New OED Computer Group Manager.
+This will list outstanding changes and their current status.
+CHANGE MANAGEMENT PROCEDURES
+DETAILED CHANGE MANAGEMENT PROCEDURES
+This section describes the Change Management Procedures in detail.
+The procedures cover each stage from initial identification of a possible change, through the approval procedure, to eventual rejection or implementation.
+The specific procedures to be followed by each person involved are described.
+Reference is made in each procedure to the actions taken by other people.
+Changes Originating from a User
+For changes proposed by a user the following procedure should be followed.
+The user should:
+discuss the proposed change with the New OED Project Director and obtain his approval for the change
+complete a Change Request Form for each proposal.
+Section 4 describes this form and how to complete it
+provide any documentation which will clarify the requirements, and, if appropriate, add explanatory notes
+send the completed form(s), together with the supporting documentation, to the Change Coordinator in the New OED Computer Group.
+The Change Coordinator will process the request.
+This procedure is detailed below.
+When the request has been processed, the Change Coordinator will notify the New OED Project Director whether the request for change has been accepted or rejected, and he in turn will inform the user.
+Changes Originating from a Member of the Computer Group
+In the case of changes proposed by a member of the Computer Group, the procedures to be followed vary according to the stage of development at which the change is identified.
+These procedures are described below.
+For changes proposed during the development of a sub-system, each change should be referred to the Development Manager.
+He will assess the effect of the proposed change on that sub-system, the interfaces with other sub-systems, and the information held in files on the computer.
+If he considers that the proposed change has little or no impact on functionality, cost, or timescale, the Change Management Procedures can be bypassed and there is no need for any further action.
+In this case the proposed change may be incorporated in the design at the discretion of the Development Manager.
+However, if the Development Manager considers that the proposed change will have a significant impact on functionality, cost, or timescale, then the Change Management Procedures should be followed.
+A Change Request Form should be completed by the person requesting the change.
+Section 4 describes this form and how to complete it.
+For all changes proposed after development, a Change Request Form should be completed by the person requesting the change.
+This procedure is described at Section 4.
+The completed Change Request Form should be sent, together with any supporting documentation, to the Change Coordinator in the New OED Computer Group.
+The Change Coordinator will process the request.
+This procedure is described below.
+The Change Coordinator will tell the Development Manager whether the request for change has been accepted or rejected.
+The Development Manager will then inform the person who requested the change.
+Change Coordinator
+This sub-section describes the procedures to be followed by the Change Coordinator when he receives a Change Request Form.
+Further actions required of the Change Coordinator are described below.
+On receipt of a Change Request Form the Change Coordinator will:
+record the Change Request in the Changes Log.
+The Changes Log is described at Section 6
+assign a change reference number to the change request.
+The change reference number will subsequently by used to identify the change
+copy the Change Request Form and retain the copy for future reference
+attach a Change Review Form, with the change reference number marked on it, to the original Change Request Form.
+The Change Review Form is described at Section 5
+send the Change Request Form and the Change Review Form, together with any supporting documentation, to the Development Manager.
+The Development Manager will review each change request.
+This procedure is described below.
+After this review, the Development Manager will return the Change Request Form, the Change Review Form, and any supporting documentation, to the Change Coordinator.
+The Change Coordinator should enter the date of the Development Manager's review on the Changes Log.
+A Change Review Meeting will be held periodically between the New OED Computer Group Manager and the New OED Project Director.
+The purpose of this meeting is described below.
+The day before the meeting the Change Coordinator will:
+draw up an agenda for the meeting, listing the changes to be reviewed in order of priority
+send the agenda, together with copies of the relevant Change Request Forms and Change Review Forms to the New OED Project Director and the New OED Computer Group Manager
+enter the Review Meeting Date on the Changes Log for those changes included on the agenda.
+During the Change Review Meeting the agenda will be used to indicate the agreement reached for each change.
+The options are approval, rejection or deferral until a future date.
+Changes will be deferred if there is insufficient information available to make a decision.
+After the meeting the agenda and the Change Review and Change Request Forms will be returned to the Change Coordinator.
+By consulting the returned agenda the Change Coordinator will:
+retain changes for which a decision has been deferred for inclusion on the agenda of a future Review Meeting
+send the Change Request and Change Review Forms to the Director, Information Systems for those changes which require his approval
+for changes which are rejected, but do not require resolution by the Director, Information Systems, inform the Development Manager and the Manager of the person who requested the change of the decision by sending them copies of the Change Review Forms
+enter the appropriate tracking dates on the Changes Log, and mark as ‘rejected’ those changes which have  been rejected.
+On receipt of Change Review and Change Request Forms from the Director, Information Systems the Change Coordinator will:
+record the decision taken on each change, ie. approved or rejected, on the Changes Log
+inform the Development Manager and the Manager of the person who requested the change of the decision taken by sending them a copy of the Change Review Form
+retain a copy of the Change Review Form for future reference
+for approval changes, retain the original Change Request and Change Review Forms, and file them in the binder containing the appropriate documentation.
+Each approved change will be scheduled for action by the Development Manager.
+This is described below.
+When the change has been scheduled, a copy of the Change Control Form will be sent to the Change Coordinator who records the following information in the Changes Log:
+date allocated
+scheduled implementation date
+person to whom it has been allocated.
+The Change Control Form is described in Section 7.
+On implementation of each change the Change Coordinator will be sent the Change Control Form.
+The Change Coordinator should:
+inform the person who requested the change that it is complete
+enter the implementation date, and the date closed, on the Changes Log
+file the Change Control Form in the binder containing the relevant documentation.
+The Change Coordinator should prepare a Change Report for the New OED Computer Group Manager every two weeks.
+This report should show, for each outstanding Change Request, a brief description of the change and its status.
+Section 8 describes this report.
+Development Manager
+This sub-section describes the procedures to be followed by the Development Manager during the processing of a change request.
+There are three procedures which involve him:
+referral of changes proposed during the development of a sub-system by a member of the Computer Group.
+This procedure is described below
+review of formal change requests.
+This procedure is described below
+allocating the change to a member of the Computer Group, scheduling the work, and monitoring the progress of approved changes.
+This is described below.
+Changes proposed by a member of the Computer Group during the development of a sub-system will be referred to the Development Manager.
+He will assess the effect of the proposed change on that sub-system, the interfaces with other sub-systems and information held in files on the computer, and the amount of work involved in undertaking the change.
+If the Development Manager considers the change proposed has little or no impact on functionality, cost, or timescale when he should allow the incorporation of the change into the design and ensure that it is described in the design documentation.
+If the Development Manager considers that the proposed change is necessary but will have an impact on functionality, cost or timescale, then he should ensure that the person requesting the proposed change follows the formal Change Procedures.
+All formal Change Request will be sent by the Change Coordinator to the Development Manager for consideration.
+On receipt of the Change Request Form the Development Manager reviews the Change Request or arranges for a member of the Development Team to review the Change Request.
+This review should:
+determine which sub-systems, programs etc. are likely to be involved in any change
+examine the implications of the proposed change and consider any alternatives, such as changes to the information held on the computer or changes to manual procedures
+recommend a course of action to be taken and describe any alternatives that could be considered
+estimate the resource required to implement the change, and any recommended alternative.
+Following the review the Development Manager should:
+enter his conclusions on the Change Review Form
+determine the priority to be given to the proposed change at the next Change Review Meeting and enter this on the Change Review Form
+return the Change Review Form and any supporting documentation to the Change Coordinator.
+For approved changes, the Development Manager should:
+schedule the change and revise the relevant development and implementation plan accordingly
+complete a Change Control Form.
+This form is described at Section 7
+pass the Change Control Form to the person responsible for implementing the change
+send a copy of the Change Control Form to the Change Coordinator
+monitor the progress of the work using standard project control procedures.
+When the change is implemented the Development Manager should:
+ensure that the checklist on the Change Control Form is complete
+enter the actual date of implementation on the Change Control Form
+return the Change Control Form to the Change Coordinator.
+The Change Coordinator will inform the person who requested the change that it has been implemented.
+New OED Computer Group Manager
+A Change Review meeting should be held periodically between the New OED Computer Group Manager and the New OED Project Director.
+The purpose of the meeting is to discuss new change requests and reach agreement on the action to be taken for each.
+The Change Coordinator will circulate the agenda for this meeting.
+The New OED Computer Group Manager should:
+discuss the change requests with the New OED Project Director in the order given on the agenda
+reach agreement with the New OED Project Manager on the outcome of the change request, ie. accept the proposed change, reject the proposed change, or defer a decision until a specified date
+update the Change Review Forms to reflect these decisions
+enter the decision on the agenda
+note on the agenda and the appropriate Change Review Forms, the proposed changes whose rejection would be contentious
+at the end of the meeting, return the Change Request Forms, Change Review Forms and update agenda to the the Change Coordinator.
+Director, Information Systems
+Formal approval of accepted changes is the responsibility of the Director, Information Systems.
+He also has the responsibility of deciding the appropriate action for changes where rejection would be contentious.
+Following a Change Review Meeting, the Change Coordinator will submit Change Request and Change Review Forms to the Director, Information Systems for proposed changes which were accepted or whose rejection would be contentious.
+The Director, Information Systems should:
+give final approval (or otherwise) to accept changes
+take appropriate action on changes whose rejection would be contentious
+update the Change Review Forms accordingly
+return the Change Review Forms to the Change Coordinator.
+New OED Project Director
+A Change Review meeting should be held periodically between the New OED Computer Group Manager and the New OED Project Director.
+The purpose of the meeting is to discuss outstanding change requests and reach agreement on the action to be taken for each change request.
+The Change Coordinator will circulate the agenda for this meeting.
+The New OED Project Director should:
+discuss the change requests with the New OED Computer Group Manager in the order given on the agenda
+reach agreement with the New OED Computer Group Manager on the  outcome of the change request, ie. accept the proposed change, reject the proposed change, or defer a decision until a specified date.
+CHANGE REQUEST FORM
+A Change Request Form will be completed for each change request.
+The following information should be included on the form:
+Requested by: the name of the person requesting the change
+Date: the date of the request
+Manager's Signature: the signature of the New OED Project Director to indicate that he is aware of the change and has agreed that it is needed.
+This is not applicable to the Computer Group
+Description of Change: a description of the required change.
+Where possible an indication should be given of the sub-system(s) and program(s) that are likely to be affected by the change.
+If there is not enough space on the form to describe the change, attach a continuation sheet
+Reason for Change: a description of why the change is needed and a justification of the requirements
+Supporting Documentation: ‘YES’ or ‘NO’should be deleted as appropriate.
+Any attached documentation should be described.
+This should be annotated with explanatory notes for clarification.
+The completed form should be sent by the person requesting the change to the Change Coordinator in the New OED Computer Group, who will add a reference number to it.
+CHANGE REQUEST FORM
+Change Reference:
+THIS SHEET TO BE COMPLETED BY PERSON REQUESTING CHANGE
+Requested by: Date:
+Manager's signature:
+(not applicable for Computer Group)
+Description of change:
+Reason for change:
+Supporting documentation attached?
+YES/NO
+(If YES please describe)
+SEND TO CHANGE COORDINATOR, NEW OED COMPUTER GROUP
+CHANGE REVIEW FORM
+This form will be used for each change request in order to document the results for the change review.
+The Change Reference Number should be entered by the Change Coordinator.
+The Development Manager should complete the following:
+Programs Affected: the sub-system and programs likely to be amended in order to expedite the change
+Implications: the implications of the change and any alternatives or compromises which are possible, particularly if the affected programs will be used only once or if the change will require a considerable amount of development effort
+Development Estimates: estimates of effort and timescale needed to implement the change or any recommended alternative, together with the impact on the development schedules
+Recommendations: the action recommended as a result of the review
+Signed: development Manager's signature
+Date: self-explanatory
+Review Meeting Priority: the priority for discussing this change request at the next Change Review Meeting
+After discussing the change at a Change Review Meeting, the New OED Project Director and the New OED Group Manager should complete the following:
+Accept/Reject/Defer until (date): delete as necessary.
+A date should be entered if the decision is deferred, to indicate when this Change Request will next be reviewed
+Signed: New OED Computer Group Manager
+Date: date of Review Meeting
+Comments: any pertinent comments about the change or why the particular decision was reached.
+The Director, Information Systems should complete the following:
+Approve/Reject: delete as necessary
+Signed: self-explanatory
+Date: self-explanatory
+Comments: any pertinent comments
+CHANGE REVIEW FORM
+Change Reference:
+REVIEW BY DEVELOPMENT MANAGER
+Programs affected:
+Implications:
+Development estimates:
+Recommendations: Signed:
+Date:
+REVIEW MEETING Priority: Signed:
+ACCEPT/REJECT/DEFER UNTIL…
+Date:
+Comments:
+IS DIRECTOR Signed:
+APPROVE/REJECT Date:
+Comments
+RETURN TO CHANGE COORDINATOR
+CHANGES LOG
+The Changes Log will be maintained by the Change Coordinator to record and track each Change Request.
+The Change Coordinator should complete the following for each Change Request:
+Change References: a sequential number, used to identify each change, allocated on receipt of the Change Request Form
+Requested by: the name of the person requesting the change, entered on receipt of the Change Request Form
+Description: a brief description of the requested change, entered on receipt of the Change Request Form
+Tracking Dates: a series of dates to monitor the progress of the Change Request as follows:
+DATE REQUESTED: obtained from Change Request Form
+DEVELOPMENT MANAGER: date reviewed by Development Manager (from Change Review Form)
+CHANGE REVIEW MEETING: date discussed at Change Review Meeting (from Change Review Form)
+DIRECTOR, INFORMATION SYSTEMS: date approved/rejected by the Director of Information Systems (from Change Review Form)
+DATE ALLOCATED: date allocated to the person designated to undertake the change (from Change Control Form)
+SCHEDULED IMPLEMENTATION DATE: obtained initially from the Change Control Form, amended if the scheduled implementation date is revised
+ACTUAL IMPLEMENTATION DATE: date that the change is implemented (from Change Control Form).
+Allocated to: the name of the person designated to make the change (from Change Control Form).
+Approved/Rejected: entered when the final decision to undertake or reject the change is made.
+Rejection may occur following a Change Review Meeting or after a final decision by the Director, Information Systems.
+Final approval should always be given by the Director of Information Systems
+Date Closed: entered when the Change Request is rejected or when the approved change is finally implemented.
+CHANGE CONTROL FORM
+A Change Control Form will be completed for each approved change to identify who is responsible for the change and to act as a checklist to ensure that the change is correctly implemented.
+The Development Manager will allocate the work to an appropriate member of the development team.
+This applies even if the change only affects a user manual.
+In such a case, the developer will mark up a draft and pass it to whoever is responsible for the manual.
+The following should be completed:
+To: the name of the person to whom the change is allocated, or the responsible Manager
+From: the Development Manager
+Date: self-explanatory
+Change Reference: change reference number
+Please Change the following DATA/PROCEDURE(S)/PROGRAM(S): DATA/PROCEDURE(S)/PROGRAM(S) should be deleted as necessary.
+The data, procedure(s), or program(s) which need to be changed should be specified
+Description: the changes should be described
+Implement in Release: if relevant, the software release in which the change will be implemented
+Scheduled Implementation Date: the date by which the change is scheduled to be implemented.
+The tasks on the checklist which do not apply should be crossed out
+The person undertaking the change should update the checklist as each relevant task is completed and obtain their Manager's signature.
+When the change is implemented the actual implementation date should be entered.
+The Change Control Form should be returned to the Change Coordinator.
+CHANGE CONTROL FORM
+To: Date:
+From: Change Reference:
+Please change the following DATA/PROCEDURE(S)/PROGRAM(S):
+Description:
+Implement in release:
+Scheduled implementation date:
+Actual  implementation date:
+CHECKLIST
+(delete if not applicable) Date Manager's signature
+Data altered
+Procedure(s) amended
+Program(s)/sub-system tested
+Documentation updated
+Change completed
+CHANGE REPORT
+The Change Report will be prepared every two weeks by the Change Coordinator and submitted to the New OED Computer Group Manager.
+All outstanding changes should be listed on the report.
+The following should be shown for each change listed:
+change reference number
+the name of the person who requested the change
+brief description of proposed change
+current status.
+This information is obtained from the Changes log.
+An example of this report is attached.
+(Note: This report will not be used initially.
+The Changes Log will be used instead).
