@@ -1,0 +1,306 @@
+
+
+CYPRESS/ROSS HYPERSPARC TO CHALLENGE TEXAS VIKING…
+If Cypress Semiconductor Corp has its way, Sparcs will really begin to fly over the next couple of weeks.
+Whilst Texas Instruments Inc gears up to launch its long overdue and much-detailed superscalar Viking, or SuperSparc RISC part this Thursday May 7th, Cypress, San Jose, California, in conjunction with Rosss Technology Inc, its Austin, Texas-based subsidiary, is determined not to give Texas an easy ride.
+It will unveil its own high-end Sparc challenger, HyperSparc, five days later, on May 12th.
+Although Cypress/Ross is keeping price and performance of its own superscalar effort pretty much under wraps, the HyperSparc — known until now only by its code-name, Pinnacle — will start life as a 55MHz offering in its first iteration, set to rise to 80MHz later in the year.
+HyperSparc is implemented in CMOS, against Viking's BiCMOS, and weighs in with 1.2m transistors, compared with Viking's reported 3.1m-strong component set.
+Setting up the prospect of some lively debate over the next couple of weeks, Cypress said last week that ‘HyperSparc is a better product: we can make HyperSparc,’ casting Viking as ‘a big complex chip which is unmakeable.’
+Both Sun Microsystems Inc, due to announce systems based upon Viking on May 19th, and UK Sparc-builder ICL, which has already announced its Viking intentions (UX No 371), are expected to make statements about Viking availability on the 7th.
+Both, however, along with UK Sparc notebook builder, Tadpole Technology plc, Cambridge, will also be present at the Cypress/Ross roll-out.
+Sun and ICL say they are there to ‘endorse’ HyperSparc, though neither rules out use of the part in future system plans.
+ICL reminds us that it is ‘not unusual for the company to dual-source components,’ whilst Sun says that its software will run on any Sparc International SCD-compliant chip.
+…
+AS NIMBUS READIES CHIPSET FOR SUPERSCALAR SPARC BUILDERS
+Getting its timing just right — and hoping to be the Chips and Technologies Inc of its breed — Santa Clara, California start-up Nimbus Technologies Inc will next week come out with with the first chipset, targeted at the compatible builders, which is tailored for use with the superscalar Sparcs — Viking and HyperSparc — both due in the second half of the year, see above.
+Using the current 40MHz Cypress Sparc to begin with, Nimbus says its board will offer a simple swap-out capability for the superscalars when they arrive.
+Nimbus believes HyperSparc may even leapfrog Viking to be the first of the superscalars to become available to all-comers.
+Details below.
+NOW SCO SUSPENDS MIPS/ACE DEVELOPMENT: GAME SET AND MATCH AGAINST THE INITIATIVE?
+Seizing the opportunity offered by Compaq Computer Corp's formal resignation from the Advanced Computing Environment initiative (UX No 382), the Santa Cruz Operation Inc, finally steeled itself to announce the suspension of all of its MIPS Computer Systems Inc development work last week — effectively tendering its resignation from the ACE crowd.
+SCO said it felt no need to formally resign because of the loose construction of the initiative.
+‘Who are we going to resign to?,’ wondered business development vice president, Jim Wilt.
+SCO's plug-pulling ends months months of press and industry speculation (UX No 364), about the sincerity of its ACE commitment.
+SCO says it decision was based primarily on Intel Corp's reported success in catching up with the performance promised by the ACE environment, and that it will re-focus its Open Desktop Unix efforts on the forthcoming P5 80586 part.
+Intel has been quietly improving the performance of its next-generation iAPX-86 variant — which now, said by the company to be at over 100 MIPS, is more than equivalent to MIPS' R4000 RISC — and has brought forward its delivery dates.
+The news means ACE has now effectively lost two of its main founder members — if MIPS' submission to Silicon Graphics Inc isn't counted — and at best can count only on the flirtatious attention of Digital Equipment Corp and Microsoft Corp, who are conducting their own extra-marital affair.
+The fallout was precipitated by an ACE members meet last Friday 24th, at which it was decided to de-emphasise the whole Intel side of the equation — at Intel's own instigation it now appears (see feature).
+Compaq, it seems, had no stomach for a MIPS-only menu, and SCO found that prospect just as unappealing.
+So after a brief twelve months in existence, ACE has paddled itself up the Swanee, its dream of emulating the success of the personal computer revolution now just a pipe-dream.
+Details and background below.
+X/OPEN ‘TO RE-VAMP USER EFFORTS’
+Following news that it was working on an open systems ‘business specification’ for commercial users and organisations (UX No 373), the X/Open Group Co Ltd is at last preparing make good some of the promises it made last year about giving users a bigger say in its affairs.
+To start the ball rolling, X/Open is to announce a re-vamped version of its Xtra user requirement process later this month, which will define a new set of relationships between the Xtra, the User Council, and X/Open's various technical working groups.
+The idea is to ensure that users, via Xtra, and the work groups, focus their efforts on real, achievable goals, rather than flights of fancy (remember the calls for graphical user interface standards in 1990).
+According to X/Open's chief marketing officer, Alan Davies, as ‘the user community is the audience of X/Open…
+Xtra will be owned by the User Council.’
+Additionally, X/Open expects to incorporate ideas from other user organisations and standards groups, many of which — including NIST, the US national institute of standards — are now taking increasingly pro-active roles in the open systems arena.
+X/Open is likely, for example, to embrace some of the work being done by SPAG, the European Standards Promotion & Application Group — see page five — in its next XPG5 release.
+Indeed, faced with the encroachment of other bodies into its traditional territory, X/Open says it intends to position itself as an ‘integrator’ between the various standards and user group efforts.
+X/Open's apparent inability to address some of users' most pressing concerns has lead recently — at least in the opinion of its own consultants at the Gartner Group — to some ‘concern about the future of X/Open:’ it's now being addressed.
+SAMSUNG DEBUTS OFFICE PRODUCTS
+Samsung Software America is bringing out the first of its anticipated shrinkwrapped Unix office automation products: Replix, a full-featured networked client/server Fax management application targeted at mission-critical environments in medium to large organisations.
+It is distinguished by an X-Windows/Motif interface, and its ability to integrate with optical character readers and document processors.
+It also supports Postscript and Monotype fonts for  improved fax quality.
+It runs on Sun Sparcstations, IBM RS/6000s, HP 700s, SCO Unix, Interactive Unix and Intel i860s, all of which are  available in the same package.
+Ships begin in May, through a two-tiered international channel of distributors and VARs.
+Samsung is looking for OEMs.
+Replix will be sold on a network, floating license basis.
+The base package, with two concurrent interface clients, unlimited servers, support for one modem and unlimited command-line clients, starts at $2,400.
+SEQUOIA LAUNCHES SUPPORT NETWORK
+Sequoia Systems Inc, Marlborough, Massachusetts, has come up with Sequoia Support Network, claiming an industry-first in being able to instantaneously detect and automatically respond to system errors anywhere in the world.
+The network is expected to help the company penetrate geographically dispersed markets more quickly.
+The network's centre is a dedicated Sequoia 400 running Sequoia Automatic Fault Evaluation (SAFE) software at the company's headquarters in Massachusetts.
+The network uses X.25 and UUCP to link Sequoia systems worldwide including sites in Eastern Europe and Russia.
+Fault conditions are reported to SAFE which initiates a series of diagnostic and corrective steps using rule-based artificial intelligence.
+Replacement parts, if needed, are automatically sent and the site is guided through installation via Sequoia's Enhanced remote Maintenance Access (ERMA) software.
+TRANSTECH STARS WITH 16 PARALLEL SYSTEMS SOLD AHEAD OF FORMAL TIE-UP
+Hot news on the exhibition floor of the recent Supercomputing ‘92 show in Tokyo was the conclusion of an agreement between UK parallel system maker Transtech Parallel Systems and Nichimen Data Systems Corp, subsidiary of trading house Nichimen Inc.
+The deal provides for Nichimen to distribute in Japan Transtech's 80860-based TRAM-TTM 110 parallel processor board, as well as associated Transputer software such as compilers.
+The products will be incorporated as a daughter board into the ParallelWare series of parallel processing systems sold jointly by Nichimen Data and Nippon Steel Corp, and sold as a new model the ParallelWare/80860 model.
+According to Yoichiro Yoda, of the AI Sales Section of Nichimen Data, the systems will be targeted initially at research and development environments, and the company hopes to sell 50 to 60 of the machines in the first year.
+As a result of a test marketing exercise conducted since February, when discussions began with Transtech, 16 systems have already been sold in Japan.
+PARALLEL CENTRE APPLIES VIRTUAL REALITY TO DESIGN OF ADVANCED LIGHTING SYSTEMS
+The UK Department of Trade & Industry-Science & Engineering Research Council-funded London Parallel Applications Centre, LPAC, is to host what it hopes will become the ‘largest Virtual Reality facility in Europe’.
+The result of a collaboration between the London Centre, Thorn EMI Central Research Laboratories and Bristol-based Division Ltd, the ‘major new project’ will focus on real-time lighting simulation.
+LPAC director, Dr Peter Dzwig, describes the two-year effort as a ‘collaborative project between academia and industry, aimed at developing commercially useful products and services’.
+The participants will provide advanced adaptive lighting of complex interiors with support for dynamic lighting and environmental modelling, so that designers and customers can enter a realistic virtual building where they can change the placement and intensity of light fittings and even modify the environment.
+Work at the new Virtual Reality facility will be based on research and development already performed by the partners — LPAC member Queen Mary & Westfield College, for example, has been working on imaging, human computer interfaces and visualisation.
+Thorn is involved in lighting simulation and parallel computing (via its GP MIMD Esprit interest); and Division is contributing its ProVision parallel Virtual Reality computing engine.
+Orders for the new equipment are already flooding in, and the facility should be ‘at full strength’ by summer 1993.
+The full system will comprise a standard ProVision integrated Virtual Reality system, plus a next-generation scalable visualisation engine based on 16 Intel 80860 processors capable of 1.3 GFLOPS.
+MT XINU ADDS A NEW MACH 3.0 OPTION TO ITS MAC386 PRODUCT
+Back-to-front Unix house Mt Xinu Inc, Berkeley, California has come out with a version of the Mach 3.0 microkernel developed at Carnegie Mellon University as an add-on to its Mach386 product: it runs on Intel 80386 and 80486-based AT-bus computer systems and provides complete Mach 3.0 microkernel source code, a complete build environment which enables users that do not have a detailed knowledge of Carnegie Mellon University system development tools to modify and rebuild the Mach 3.0 kernel, a binary version of a BSD server which makes it possible to run the Mach 3.0 kernel and the BSD server in place of the standard integrated 2.5 Mach kernel provided with Mach386, source code for many system-specific utilities, which have been modified to operate with Mach 3.0, and a source-code example of a simple Unix-like server.
+The Mach 3.0 add-on is targeted at researchers and early-adopters of microkernel technology, and does not require an Unix System Laboratories Inc source licence.
+The Mach386 package costs $1,000 including the Mach 2.5 kernel, the 4.3 BSD interface and utilities, GNU utilities from the Free Software Foundation (GCC, GDB, GAS, Emacs, and Bison) on-line reference manuals, a networking module, an X Window System 11.4 module and a supplemental on-line documentation module.
+The Mach 3.0 add-on sells for another $200.
+RUSSIAN ROUNDUP
+JV Dialogue, the sprawling banking software company, is to open an office in London: the aim of the office — which will be staffed with just one person — is to promote, distribute and support software developed in Russia by its constituent organisations; the only success story for Soviet software in the West so far is that of Paragraph which has agreements with Apple Computer Inc and Go Corp on its cursive handwriting recognition software.
+Comtek ‘92 can, it seems, still justifiably be billed as Russia's main trade event: this year the show attracted over 70 hard currency-paying exhibitors, most of which were Western companies; that so many companies are willing to pay $350 per square metre is testimony to the fact that the Russian market retains the interest of a significant portion of Western companies; show organiser Crocus International says it invited 200,000 ‘specialists’ to the show, but in reality, Comtek has become a popular event in all senses of the word with most companies using the show as an opportunity for general exposure to the Russian market rather than as a means of generating many hard sales leads.
+Aleks (Russia), a Moscow-based security company, is marketing a computer database of business partners to avoid: rather suspiciously launched on April 1, the service — Conduit — has information on what it calls ‘untrustworthy commercial partners’ and the database is apparently updated by aggrieved entrepreneurs and firms that have been victims of fraud or deceit and are seeking redress (or revenge)— canny Aleks says it cannot be responsible for the data contained on the database; users must pay 5,000 roubles as an initial fee, plus another 100 roubles a month and 20 roubles for each reference.
+The Soviet-US joint venture Telekos is now providing a voice-mail service in Moscow: according to Alexander Gromov, Telekos deputy director, the system runs off a computer installed at the Moscow city telephone exchange; the mail box has two minutes' memory for input messages and half a minute for output messages; the subscription is 1000 roubles hook-up fee plus 2,300 roubles per month.
+Two organisations have now managed to set up clearing facilities enabling them to dispense hard currency in Moscow: Credobank, a Moscow-based commercial bank, began offering cash advances to Visa card holders from early March and American Express has been offering a limited service to its card holders from its Moscow representative office; Credobank has an on-line connection to a London clearing centre to check all cards — the connection was organised by Sprint Networks; the bank also plans to offer cash service in some Moscow hotels.
+NIMBUS TO DEBUT CHIPSET SOLUTION FOR SUPERSCALAR SPARC BUILDERS
+Santa Clara, California start-up Nimbus Technologies Inc will next week come out with the first chipset targeted at the compatible builders which is tailored for use with the superscalar Sparcs — Viking and HyperSparc — both expected to hit the market in the second half of the year, see front page.
+LSI Logic Corp and Fujitsu Ltd have both promised Sun-independent chipsets for some time, but none have materialised, fouling clone efforts to produce boxes as powerful as Sun's.
+The Texas Instruments/Sun Viking and the Cypress/Ross HyperSparc chips are both still commercially unavailable.
+In fact they are even unannounced — see front page — and the dicier issues of their volume delivery and general availability lay beyond the next couple of weeks.
+Even Nimbus has yet to see either silicon, and is working purely from specifications.
+However, Nimbus president, Sanjeev Ranjen, believes HyperSparc, thought to lag Viking (UX No 381), could still leapfrog it in being available to all comers sooner than it rival.
+In the meantime, Nimbus is taking advantage of the ‘mix ‘n match’ features of Mbus to create a demonstration card bearing the 40MHz Cypress Sparc chip Sun uses to power its Galaxy machines as its single CPU, though it is aimed at multi-processors eventually.
+Nimbus says that when the superscalars become available, cloners will simply have to swap them for the Cypress part.
+The rest of the Nimbus-designed processor-independent seven-chip chipset, which will support any Mbus-based silicon, will stay in place including Ethernet networking, SCSI controller, floppy disk interface, serial ports and audio.
+The NIM6000, as it is called, includes high-resolution Mbus colour graphics on the system motherboard, freeing cloners from reliance on a GX accelerator.
+The firm indicated its graphics performance would scale to the CPU used and provide accelerated performance at the cost of an ordinary colour frame buffer.
+NIM6000M is compatible with Sbus expansion cards.
+Nimbus estimates the board's performance with the Cypress module is 15% above Sun's Sparcstation 2.
+Twinhead is the only other Sparc house out with an Mbus board, albeit a motherboard.
+Nimbus has engineering samples available now with production volumes set for early in June.
+The chipset plus base board will go for $350 to $400 in volumes of 1,000.
+Nimbus claims manufacturers can assemble a complete workstation on a single circuit board using the NIM6000M at a fraction of the cost of a Sparcstation 2.
+Nimbus customers will go to SunSoft for an operating system and could go direct to the semiconductor houses for CPU chips.
+OSF READIES DISTRIBUTED MANAGEMENT ENVIRONMENT SNAPSHOT
+The Open Software Foundation is to reveal the first snapshot of its Distributed Management Environment architecture after its members meeting in Munich on the 13th.
+OSF says the snapshot features sample code of all the various DME component technologies so far announced, but adds that there will be other parts to be tacked-on at a later date.
+What precisely those technologies are, and where they come from, is still under discussion, it says.
+UNIX SYSTEM LABS WORKS ON ANDF-LIKE SOLUTION FOR DESKTOP
+The Architecture Neutral Distribution Format-like technology that Unix System Laboratories Inc has up its sleeve so that one port of an application to its Destiny desktop implementation will run on the disparate architectures of the Intel Corp iAPX-86, Sun Microsystems Inc Sparc, MIPS Computer Systems Inc RISC, Hewlett-Packard PA RISC and IBM RS/6000 architectures (UX No 380) is exactly that: ANDF-like.
+It is not the ANDF selected by the Open Software Foundation.
+Instead it is home-grown and by USL's lights, superior to the technology OSF decided to run with.
+Wanting to play this card particularly close to its vest, USL declines to describe it further.
+It is very concerned about presenting the world with a fait accompli and meeting the fourth-quarter timeframe it has set.
+Worse case, however, would reportedly be first quarter 1993.
+Latest speculation has Destiny coming to market as UnixWare.
+SUN LAUNCHES CHEAPEST EVER COLOUR SPARCSTATION AT $6,000…
+Sun Microsystems Inc's Computer Corp unit duly came out with a new, cheaper Sparcstation IPC last week, offering a colour system for under $6,000 — £5,000 in the UK — for the first time.
+The Mountain View company also cut prices on its desktop products by up to 26% and added a lower-cost, more flexible version of its Sparcengine IPX board-level product.
+The company reckons that the new IPC lines up against an IBM Corp RS/6000 Model 220 at $10,000 and an HP 9000/710 at $14,065 — and is nearly $2,000 under a similarly equipped 486/33M PC from Compaq Computer Corp.
+It has a new 16″ 1,152 x 900 monitor from Sony Corp, 8Mb memory and a 207Mb disk and Solaris 1.0 is bundled.
+The Sparcstation ELC entry-level monochrome workstation is down 20% at $4,000 — £3,000 — and the 16″ IPX is off 26% at $10,000, the 19″ is off 18.5% at $11,000.
+The 16″ and 19″ colour models of the Sparcstation 2 are off 17% at $15,300 — £12,300 — and 11.9% at $16,300 — £13,000 — respectively.
+The new Sparcengine IPX has no memory and replaces the old IPX that included 16Mb, at $6,500, £5,200.
+It is out in June; all others are out now.
+…
+RE-JIGS STATESIDE VAR STRATEGY
+Sun Microsystems has spent the last year revamping its American resellers program and has de-authorised some 900 low value add locations for not making the kind of long-term commitment and investment it believes is necessary to a sound business model.
+It has some 2,100 commercial system integrators, OEMs, master resellers and value-added resellers restructured into those four categories.
+It is also encouraging resellers, particularly VARS, to buy from master resellers such as Arrow Electronics, Access Graphics and Intelligent Electronics.
+VARS have been further re-classified according to their value-added strengths as resellers and high-end network integrators.
+Sun is also trying to tailor its reseller support to individual needs.
+It has implemented a value-based pricing model so resellers can augment their base discount by making certain commitments.
+It has also set up a market development fund in support of the reseller's sales and marketing activities.
+Sun estimates 67% of its products will be sold through indirect channels worldwide in 1994, up from 43% in 1990 with the commercial area growing to 28% from 13% at the expense of technical bastion.
+Sun's no-clone policy still remains in force.
+ACE: FIRST BIRTHDAY IS NO CAUSE FOR CELEBRATION
+The ACE Initiative, hailed by its founders as the ‘most significant computer industry announcement of the 1990s’ just twelve short months ago (UX No 329), lies in tatters.
+Now effectively shy of two of those founders, it has essentially retracted back to a die-hard core of some two dozen companies from a highly publicised swell of some 250 industry lights.
+William Fellows, Maureen O'Gara and Tim Palmer
+‘Intel's own doing’
+ACE's decision to de-emphasise the Intel Corp architecture — see front page — was apparently Intel's own doing.
+MIPS Computer Systems Inc vice president of software technology, and now its ACE liaison, Larry Weber, said that since last summer Intel was repeatedly approached by ACE members including Olivetti, Acer, Compaq and MIPS asking it to somehow endorse and participate in the Initiative.
+What the Initiative wanted was a generic ACE/Intel machine comparable to the MIPS ARC.
+Compaq went so far as to draft the specification which included an ARC-like HAL, or Hardware Abstraction Layer, to separate the value added from the hardware implementation.
+Any number of concessions were apparently made to Intel's sensibilities including Intel ownership through completely parallel structures, offering Intel ownership of the specification and completely equal access.
+Intel reportedly never showed any interest.
+Initiative members argue an ACE/Intel machine would have helped Intel distinguish itself from the cloners nipping most furiously at its heels.
+Weber believes the reason Intel wouldn't participate is because the 80586 chip, P5, isn't all the Intel hype claims it is, and couldn't stand the comparison.
+Instead of the MIPS R4000-killer it's cracked up to be, he thinks it may be only a 30% performance improvement over the 80486.
+Dicey MIPS chip volumes, however, were reportedly never mentioned in the internal letter dated April 27 that Santa Cruz Operation Inc circulated to its executives.
+There it gave Compaq's resignation and the pending Silicon Graphics  acquisition of MIPS, as its reasons for withdrawing.
+The latter it concluded brought new risks into the MIPS equation.
+Other ACE players, however, say the reason behind SCO's behaviour is the simple fact that it was never able to garner a market inside the Initiative for its product.
+MIPS says it made a strong effort at the beginning to get the SCO on very favourable terms but the sponsorship just wasn't there.
+Larry Weber says SCO didn't have the development energy to do the products.
+It attempted to get money from the ACE members upfront to fund the project, he said.
+The membership showed no  interest in doing business that way, but would have talked if SCO had had a product.
+At the April 24 ACE Executive Advisory Board meeting that Compaq didn't attend because it knew it was going to resign, ACE decided to invite the Open Software Foundation, a non-member, to participate in some fashion.
+The Initiative wants OSF to contribute to the Unix specification for ACE, and sees itself as a possible vehicle for knitting the discordant elements of the establishment together.
+Technical groups have reportedly advanced the shared SVR4-OSF/1 application programming interface to the draft stage — that effort will continue over ACE's dead body — creating a workable application binary interface would be the next step.
+Risks
+Officially, the Santa Cruz Operation Inc is shelving its MIPS Computer Systems Inc work to ‘wait and see’ how the MIPS market develops numerically.
+However, it is deemed unlikely to reactivate the effort despite contentions that the Intel work taking priority — largely the stuff of Open Desktop 2.0 coming out this summer — could be easily ported to the MIPS platform should it suddenly become a volume player.
+As of last week, all SCO engineers still assigned to the MIPS project — a paltry few by SCO's own count — were redeployed to Intel development, now at least 150 strong, though SCO says it will attend the periodic meetings of ACE's recently established executive board.
+SCO's development partner DEC will have to soldier on alone, if it has not been doing just that for some time (UX No 364), if it intends to put OSF/1-for-ACE on its MIPS R4000 machines.
+SCO business development vice president, Jim Wilt, said that under the terms of their technology exchange pacts still in force, DEC could license pieces of ODT from SCO.
+SCO leaves the Initiative with only an OSF/1-based ODT development system for the R3000; the R4000 port is unfinished.
+Wilt offered a grab bag of reasons for the SCO pull-out, all involving fears that MIPS will fail to command a market of any size.
+Included were the need for leadership from a company like Compaq to galvanize the market, the distractions of Alpha, the paltry number of OEMs ARC has attracted, the MIPS-killer promise of the upcoming Intel 80586 and the restructuring of ACE to de-emphasise Intel, the natural volume frontrunner.
+SCO claims it was misunderstood all those long months we thought it was decommitting from ACE, shuffling the MIPS work back to DEC and favouring Intel.
+‘No, no,’ it says, ‘we were simply reprioritising.
+The original schedule called for MIPS first, then Intel — that was changed to Intel first, then MIPS.’
+We could kick ourselves for not realising the obvious distinction.
+SCO is now saying that only some 7% of Open Desktop code touches the hardware in any case — all the high level stuff like communications, the desktop, graphics and utilities is common to Intel and MIPS.
+The company, it seems, has no stomach to fight  religious wars any longer and has meetings scheduled with Unix System Labs this week, and the Open Software Foundation next, at which some kind of rapprochment is  likely — though not an SVR4 kernel development — with product announcements set for the end of the month.
+Taking a  philosophical view of ACE's decline it asks ‘is there ever going to be an opportunity to make an open, commercial platform out of RISC?’
+Market research
+For its part, Compaq Computer Corp says its decision to abandon the MIPS platform is based on considerable market research and interrogation of its major Fortune 1000 and FT 500 customer base.
+The feedback was consistent, it claims.
+Customers don't want to be straddled with non-Intel platforms.
+If the performance of the 80586 and the MIPS R4000 is only off plus or minus 20%, it's not enough to make the hassle worth it.
+The findings also reportedly indicate that even Europeans, who are judged to be two to three times more interested in Unix than Americans, reject the notion of Unix on the desktop, reckoning MS-DOS and Windows are sufficient, allowing for a move to NT where necessary down the road.
+Compaq figures NT will have a tough time on the server, so its server policy will either be in NetWare or SCO, sticking with the latter at least in the short term.
+Few hats hanging on OSF/1 peg
+Meanwhile, with SCO's Open Desktop dead in the water as an operating system for ACE — the prospects for another operating system designed by committee, the Open Software Foundation's OSF/1, are now looking decidedly lacklustre.
+Electronic News has been doing the rounds of the Foundation sponsors and finds that only Digital Equipment Corp of the US and European sponsors is hanging its hat on OSF/1 for its flag ship Unix machines.
+IBM Corp has launched a version of OSF/1, but only in the ultra low-volume mainframe version of AIX, but Groupe Bull SA is quite happy to add bits of Foundation technology to its Berkeley Unix brought up to Unix System V.3.2 level, and Hewlett-Packard Co is taking the same tack with HP-UX.
+IBM's AIX/6000 for the RS/6000 is still firmly System V.3-based, and while the company says it does plan to use the OSF/1 kernel over time, that clearly now means ‘this year, next year, some time, maybe never’.
+Hewlett-Packard and IBM are both very interested in the microkernel planned by the Software Foundation, but that is two years away, which suggests that if applications developers do not start converting their applications to run under OSF/1 soon, for commercial reasons, all the sponsors currently at the V.3.2 level look likely to decide to wait for the microkernel and then implement their existing environments over it.
+Even DEC may find that it may need to hang on to its V.3.2-level Ultrix rather longer than it intended: it says that so far about 500 of the 3,000 Ultrix applications are being converted for OSF/1, which doesn't sound like unbounded enthusiasm on the part of the industry.
+Hitachi Ltd has OSF/1 out in Japan, but its role in computers is now starting to appear strained.
+DEC, which will soon announce R4000 upgrades to all of its R3000-based platforms — existing users will be offered board swaps — is still trying to put a brave face on the ACE debacle, saying the ACE Hardware Abstraction Layer in Microsoft Corp NT will allow ACE applications to run on its Alpha RISC platforms.
+The HAL in NT is around 60 pages of code —‘not a lot,’ says DEC.
+However, the future of its messy OSF/1-Ultrix-Open Desktop strategy is so unstable that even its own spokespeople were at a loss to  explain it last week —‘it's too early to say,’ they conceded.
+IBM ENHANCES, CUTS TAGS ON POWER VISUALISATION BOX
+IBM Corp last week boosted the versatility of its Power Visualisation System, a parallel server for generating and manipulating complex images at high speed in applications such as medicine and geophysics, and cut prices on the thing by 25% to 40%, lowering the entry point to $320,000 from $528,000.
+The Power Visualisation System server is an eight- to 32-way parallel processor using Intel Corp 80860 RISCs, available with 256Mb to 1.5Gb and an estimated peak rate of 2.5 GFLOPS.
+It also said it will market versions of Visualisation Data Explorer software for Hewlett-Packard Co, Sun Microsystems Inc and Silicon Graphics Inc workstations as well as for the RS/6000, and will run stand-alone on the alien workstations as well as over a network accessing the server.
+IBM also introduced a software development kit, including C and Fortran compilers and associated development tools.
+The software development toolkit is available from The Portland Group Inc at a site licence price of $37,000.
+Visualisation Data Explorer for the RS/6000 is $5,900; IBM also offers a 60-day free evaluation copy.
+Pricing and availability for the Hewlett-Packard, Sun Microsystems and Silicon Graphics workstations will be set later on this year, the company said.
+SPARC INTERNATIONAL AIMS FOR SHRINK-WRAPPED SOFTWARE
+Sparc International is taking a leaf out of 88open's book by trying to create a class of shrinkwrapped software that will run on all Sparc machines everywhere regardless of architectural distinctions.
+The long-overdue effort will seek to propagate the newly cast SCD 2.0 as the specification software houses and end users write to.
+SI has packaged SCD 2.0 along with a mass of documentation, tools and white papers on a CD-ROM labelled Developer's ToolChest.
+It is based on Sun's own Solaris 1.0-to-Solaris 2.0 migration kit Pipeline which SI has licensed and broadened.
+ToolChest will be widely distributed initially to some 25,000 ISVs and end-user software developers, the bulk of them from Sun and SunSoft rosters, the rest from Unix International.
+Repeated distribution efforts will be made based on other members' list and companies like Hyundai will be bundling it with every system.
+The population approached will include DOC, IBM and DEC bases.
+Software written to ToolChest will be able to bypass pricey compliance testing on all the various Sparc boxes.
+None of the software created under ToolChest can be optimised for any particular Sparc configuration without forfeiting compliance.
+That will have to be undertaken separately.
+Compliant software will be branded.
+ToolChest will be available in mid May with quarterly releases following.
+Products are individually priced ranging from $28 to $50 and $395 for the Migration Tool.
+SI members can claim a 10% discount.
+Floating network licensee keys access the products.
+Meanwhile, Philip Huelson, Sparc International vice president and technology director, has been named president and chief operating officer of the organisation responsible for operations and development of new business activities.
+SPAG MOVES TO PROMOTE THE WONDERS OF OPEN SYSTEMS INTERCONNECTION TO USERS
+The Brussels-based Standards Promotion & Application Group — SPAG — has come out with a set of documentation written specifically to give clear descriptions of what Open Systems Interconnection products actually do, and which of their features actually lie within the OSI standard of interoperability.
+The Process to Support Interoperability, PSI, service is described as a ‘multi-vendor code of conduct’, and was developed by SPAG with its share holding companies — Alcatel NV, Groupe Bull SA, Digital Equipment Corp, Hewlett-Packard Co, IBM Corp, ICL Plc, Ing C Olivetti & Co SpA and Siemens-Nixdorf Informationssysteme AG.
+PSI, which is supported by the EPHOS guide to public procurement, is a reaction to end-users' belief that too much time has been spent focusing on the protocol aspect of interoperability — in which users aren't at all interested.
+According to SPAG's Michel Hordies, ‘the actual functionality of OSI products hasn't been described clearly enough’.
+The PSI code will enable users to determine what features of a product described as X400-compliant will be supported by other, equally OSI, products on the same system.
+‘The idea is to determine a common set of functionality for any two products’, he says.
+Using PSI, buyers will be able to reduce the risk of ‘non-internetworking’.
+SPAG currently has a PSI code set for X400 products, and says it will have one for the FTAM file transfer by year-end.
+COMPAQ TAKING LONG HARD LOOK AT NEXTSTEP
+Even though Compaq Computer Corp is infatuated with the NeXT Computer Inc's NextStep environment, claiming it delivers today what the Taligent IBM Corp/Apple Computer Inc joint venture can only promise, and what Sun Microsystems Inc and Hewlett-Packard Co have yet to materialise, it seems in no particular hurry to cut that OEM deal Steve Jobs is after.
+It's been working with NeXT since January, tuning the software and getting the right hardware configuration — stuff like modifying its QVision board.
+It also has to figure out how to take it to market, yet officials still claim no decision's been reached on whether they'll OEM it at all.
+WYSE ADDS TO MULTI-USER RANGE…
+Wyse Technology Inc will this week extend its line of Unix multi-user systems with two new low-end products, a single-processor system and a kit enabling the company's Decision 386/40 PCs to run the Wyse version of System V 3.2.
+The new series 6000i Model 640 supports up to 32 users and is suitable for small businesses, workgroups and development environments.
+The Decision 386/40 kit, based on MD's 40Mhz 386DXL and available with either a 5.25 or 3.5 floppy, is designed for application developers and small business workgroup environments of up to 16 users.
+Subsystem components include a SCSI controller, 15Mb cartridge tape and either a 200Mb or 420Mb hard drive, expandable to over 600Mb.
+The 27 MIPS deskside Model 640 is built around the 33Mhz 486, 387 math co-processor and 8Kb internal cache with 128Kb external and 8Mb memory, expandable to 16Mb.
+It comes standard with a 320–525Mb cartridge tape drive, 3.5″ 1.44Mb floppy and a 420Mb hard drive.
+Expanded it can hold over 2GB internal.
+A base model is priced at $9,625.
+The Unix and SCSI kit with a 200Mb drive is $4,175.
+Both are immediately available.
+…
+AS LINK AND VISUAL TEAM ON X-TERMS
+X-terminal firm Visual — the Gipsi SA, Paris, France, and Visual Technology Inc, Westborough, Massachusetts, combine — is teaming up with Link Technologies, Fremont , California, the big general-purpose US terminal house and a subsidiary of Wyse Technology Inc, to develop a new, competitively priced X-terminal line targeted at OEMs, distributors and value added resellers that will sell in significant volume.
+The tie-up is Link's first exposure to X-terminals.
+It is expected to contribute its manufacturing expertise and worldwide distribution channels as well as its design know-how in areas such as screens.
+The pair are planning to introduce and ship a line of four models this summer including a low-end colour unit priced under the $2,000 barrier and a monochrome unit that will equal or better the $1,000 price tag on Visual's current entry level.
+They are also slated to produce affordable mono and colour large-screen X-terminals.
+MODCOMP ADDS THREE MODELS TO REAL/STAR 88000 LINE
+Fort Lauderdale, Florida-based Modular Computer Systems Inc has added three new members to its Real/Star Family 1000 Series of 88000-based real-time computer systems that run the AEG AG company's Real/IX real-time Unix.
+The machines come in three-slot desk enclosure, six-slot deskside tower enclosure, and 12-slot rack-mount chassis.
+The new packaged single-board systems feature 25MHz MC88100 and up to 64Mb memory.
+All the major system features are implemented in a single VME slot, increasing the system's functionality in minimum space.
+Prices for complete systems, including Real/IX are priced from $14,900, immediately.
+ARTISOFT TO BUY PERFORMANCE TECHNOLOGY TO GET INTO UNIX WORLD
+Artisoft Inc, the Tucson Arizona-based developer of the Lantastic low-end network operating system, has signed a letter of intent agreement to acquire San Antonio, Texas-based Performance Technology Inc for 300,000 new shares, valuing Performance at about $7.725m at the current Artisoft share price.
+Privately-held Performance Technology, develops the Powerfusion package that links MS-DOS micros to Unix systems, the Powersave archival system for networks, and the PowerLan personal computer networking system, which is compliant with X/Open Co Ltd and Open Software Foundation Distributed Computing Environment recommendations.
+Its Powerbridge is a wide area networking product for NetBIOS-compliant machines.
+X-WORLD ROUND UP
+San Mateo, California-based Demax Software Inc has released SecureMax/UX 2.0, its security software allowing users to assess and monitor security of a multi-vendor Unix network: it runs under the graphical user interface Open Windows and intends to add OSF's Motif later in the year.
+Prices start from $500 for single-CPU copies to $350 for a workstation license.
+UK-based VisionWare Ltd has struck an OEM deal with Data General Corp Westborough, Massachusetts, for XVision — Visionware's Microsoft Windows-based X server.
+XVision will be offered as part of DG's systems integration package for its Aviion office information systems and Server systems.
+San Diego, California, AGE Logic Inc has released the latest version of its X Server Xoftware for Microsoft Windows 1.5: compatible with Microsoft Windows 3.1, X applications can be accessed using Microsoft's local window manager, OSF's Motif, Sun's Open Look or DECWindows.
+Prices start at $500.
+AGE Logic Inc's Xoftware, is to support DEC Pathworks TCP/IP version 1.1: running on Microsft Windows and MS-DOS it is implemented on Santa Cruz Operation's Open Desktop and SunSoft's Interactive Unix.
+White Pine Software Inc, Nashua, New Hampshire, has launched a new version of eXodus, its X-Window display server, for the NeXT Computer.
+Features include client launch facility, enabling users to create, edit and remove user-defined connection strips, X Extensions, Copy Graphics and Motif.
+Exodus is compatible with the NeXTstep 2.0 environment and X-Windows.
+Priced at $350, Exodus for Apple Computers Inc's Macintosh ships in June.
+Edison, New Jersey-based UniPress Software Inc and Hewlett-Packard Co's Swedish operation have announced that  Ericsson Telecom's Sun XView-based CASE tools will support HP9000 Series 700 platforms running under Motif.
+Using UniPress's XView Toolkit to recompile Sun's SunView application source code, it provides a migration path from SunView to X-Windows.
+The UniPress XView Toolkit for HP9000 series and DECstation costs $2,500.
+KL Group Inc, Toronto, Ontario, has released the latest version of XRT/graph 2.2, a graph widget and development tool enabling users to embed dynamic graphs and charts in X Window applications.
+Included with XRT/graph is Builder, its prototyping development tool which saves graph  description and automatically generate application code.
+Applications built on XRT/graph will run under X11 Window Servers, X-Terminals and workstations and supports SunSparc, HP9000 series 700/800 and IBM RS/6000.
+Cost starts at $2,000.
+MINIGRAMS
+Byfleet, Surrey-based Specialix Ltd, UK manufacturer of intelligent input/output controllers has pulled out of ACE: marketing director, Ian Cummins says ‘ACE was initially a good idea if everyone had worked together.
+We jumped on board in the early days because of MIPS and the business we did with them.’
+Specialix got out, he says, when it found out that all an associate member got for its money was access to pre-published specifications.
+VenturCom's real-time E-Venix/386 Unix operating system will now support embedded X-Windows, reportedly a first for an embedded operating system: the company has made it possible to embed NFS on a diskless single-board computer via E-NFS.
+Applix Inc has poached DJ Long from the Unix side of Lotus Development Corp as its new vice-president of marketing.
+Uniforum New Zealand ‘92 will be held May 14–16 in exotic Taranaka.
+David Tory, the president of the Open Software Foundation, has added another directorship to his CV, joining the board of directors at Service Systems International Ltd where he sits alongside an old colleague, chairman of the board Sam Goodner.
+Last week at DEC World in Boston they had a bevy of Alpha-based boxes on the floor including Sandpiper, Flamingo, Cobra and Laser Box.
+Silicon Graphics Inc took one look at the ghastly quarterly figures from MIPS Computer Systems Inc — a $12.7m loss (UX No 382)— and decided it had paid too much for MIPS: it will now pay 0.52 of a share for each MIPS, down from 0.61 of a share, the eventual price depending on what MIPS’ share price is when the deal closes.
+Sun Microsystems Inc reports that Banco Bamerindus do Brazil with 1,400 branches, has bought more than 45 workstations and servers for use in investment trading options: terms were not disclosed.
+Emeryville, California-based Sybase Inc, has ported its Sybase System to Digital Equipment Corp's Alpha 64-bit RISC architecture: a relational database management system it features SQL lifecycle tools.
+It will run under DEC's OpenVMS and OSF/1 operating systems.
+NCR is the latest bastion to fall to Novell: it has become a part of Novell's Alliance Program to collaborate on early development of Novell products.
+Piling on yet more misery for MIPS Computer Systems Inc, the US Navy has decided to drop the R4000 RISC from the list of two mandatory CPUs for the upcoming AX attack aircraft and will ask the Joint Integrated Avionics Working Group joint service panel to follow its lead and eliminate the R4000 from the list, leaving the field clear for the other part, Intel Corp's 80960 RISC alone, Electronic News reports.
+Motorola Inc says it'll have 40MHz 68040 parts shipping by the third  quarter , 50MHz versions in the fourth, going to 0.5 micron technology: its next-generation part, Q, or the 68060 (UX No 380), will deliver 100 MIPS performance by the end of next year, it says — that must put it around a year behind Intel Corp, who's 100 MIPS P5, or 80586 iteration is due at the end of this year.
+One small software company that looks to be doing well is Bracknell, Berkshire-based Mantix Systems Ltd, purveyor of the Cascade project management system, which runs on all the top five Unix work station  facsimiles .
+It says sales last year rose 65% to £1.6m, with the US, Japan and the continent all chipping in, and that profits were significantly up.
+It is now expanding in McLean, Virginia.
+Data General Corp is finding the transition to open systems at a time of recession extremely painful with a second quarter loss of $55m after a $48m charge for another 1,000 lay-offs: turnover was down 14% at $274m, in part because the sale of the Japanese subsidiary cut volume by $19m; the company blamed the disappointing results on competitive pricing pressures, which have cut profits, as well as the weak worldwide economy; the company says it continues to be very cautious about the remainder of 1992; AViiON sales continue to grow, but ‘we are not satisfied with overall revenues,’ the company declared Electronic Data Systems Corp says its graphical design system now supports Hewlett-Packard's series 700 workstations: first deliveries are scheduled for May.
+Our sister publication, Computergram International, the daily hi-tech newsletter, is now available as Computergram Newsline in the UK only.
+Updated daily, the service is split into four sections — front page, finance, IBM and Unix.
+Call 0839 300 300 for the latest news on the industry.
+Calls charged at 36p a minute cheap rate, 48p at all other times.
+Snakes!
+Hewlett-Packard Co recently sent out pairs of natty sunglasses to the UK computer press bearing the message ‘you'll be needing these on May 5th,’(well some of the poor loves must have thought things rather fetching as they were wearing them on Olivetti's jaunt to Paris a couple of days later).
+So, expecting to be whisked off to some faraway hot spot for a mild spell of brainwashing, we duly prepared to bring you next week's Unigram from under the shade of a palm tree on a secluded sandy beach — or at least  somewhere nicer than four storeys above the Charing Cross Road in rainy central London.
+When we phoned HP last week to confirm the destination, our dreams were shattered with the news that the specs are only intended to protect against the dazzling blues, reds and greens of a new colour printer it is launching — not a single sunbeam.

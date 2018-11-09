@@ -1,0 +1,334 @@
+
+
+CONTROL DATA SYSTEMS WANTS EVERNET
+Now that it has flown the nest and decamped to Arden Hills, Minnesota, Control Data Systems Inc feels confident enough to start making acquisitions, and for its first, it has gone for Evernet Systems Inc, a Los Angeles network systems integrator that inter alia sells NetFrame Systems Inc servers.
+It has signed a letter of intent to acquire the $40m-a-year company for an undisclosed sum in cash and shares.
+Evernet claims to have installed over 175,000 nodes in more than 5,000 networks across 48 US states and in Europe, Asia, Canada and Mexico as well.
+WANG OFFERS OPEN/IMAGE FOR AS/400
+Wang Laboratories Inc is now shipping its version of the Open/image document imaging software for IBM Corp's AS/400.
+Prices for the AS/400 versions range from $14,000 for a Base Development Kit; $17,000 for a Professional Development Kit; and $200 for an Evaluation Kit.
+A run-time package for the base Application Programming Interface is from $5,000 for one to eight users, and one for the facsimile programming interface is $750.
+The WorkStation Package will cost from $1,150 for one to 24 users, Wang said.
+TEKTRONIX OFFERS 3270-EMULATING, TOKEN RING X-TERMINALS
+Having addressed Digital Equipment Corp and Sun Microsystems Inc compatibility, X-terminal manufacturer Tektronix Inc of Wilsonville, Oregon is now providing IBM Corp terminal emulation software and a family of X terminals for Token Ring networks.
+Tektronix expects its X terminals emulating the 3270 to be hugely successful with users wanting to replace terminals with a windowed environment without the pain of retraining staff on a new system.
+Tektronix reckons there are over 2m 3270-type terminals installed in the US alone and claims that its 3270 emulation allows users to access 3270 applications running on IBM mainframes, workstations, or servers, or on the wide area network.
+Under X Window, the user can also retrieve data from several sources simultaneously and switch between applications.
+A 3179G emulation will enable users to display 3179G graphics applications from an IBM host as well as using windows for current applications.
+Tektronix sees a ready market among banking, financial services, insurance and utilities industries that have adopted an IBM-compatible Token Ring network: although these markets have not yet embraced X technology, Tek reckons they would benefit from the technology immensely.
+Prior to the Tektronix announcement, such users were confined to an IBM system using the PS/2 board or waiting for the Network Computing Devices Inc plug-in board option that is announced but not yet available.
+Tektronix says it designed the XP10T series of five terminals for high bandwidth and very high reliability — this has been achieved by placing everything on one board including the graphics, X, the local network logic and the local network cable connectors: there are no edge connectors.
+The models are compatible with the existing Tektronix XP10 and XP330 series and are built around the Texas Instruments Inc 340X processor and the Super Eagle/Falcon Token Ring local network chip set.
+The terminals will be delivered with two serial ports and from 4Mb to 16Mb memory, a Flash memory socket on the logic board as standard, X11.5 and Tektronix's version 6.0 X terminal software.
+The technology was developed in conjunction with OpenConnect Systems Inc, Olicom A/S of Denmark and Texas Instruments.
+The 3270 and 3179G emulation packages are £270 and £455 respectively.
+Prices for the XP10T series start at £1,295 for XP11T, £2,745 for the XP12T, £2,145 for the XP17T, £3,845 for the XP18T and £4,455 for the XP19T; available May.
+PARALLEL PROCESSING: TWO PACTS GET KENDALL GOING
+The mission of Waltham, Massachusetts-based Kendall Square Research Corp is to bring what it sees as the benefits of highly parallel computing to the commercial market, and the company is on its way with the signing of its first two customers, airline operator AMR Corp and direct marketing services company Neodata Inc.
+AMR Corp, parent of American Airlines Inc, has agreed to take delivery of a KSR1 later this year and signed a letter of intent to collaborate for five years on a project to simplify the task of analysing and manipulating massive amounts of data.
+With Neodata, and its partner on the project, Electronic Data Systems Corp, Kendall Square is working on a project to create the largest production of relational database in the commercial sector, consisting of more than 1Tb of data when it is complete this autumn.
+Oracle Corp will supply the software development environment to Electronic Data Systems for the NCORE Neodata Customer-Oriented Relational Environment with the aim of combining the power of an extensive marketing environment with a highly optimized and efficient operational engine to deliver an array of flexible services to the direct marketing industry.
+The services will be integrated through a single customer database that will provide a comprehensive view of psychographic, syncographic, demographic and order history data, all to be held on a KSR1 running Oracle7 at Neodata's Boulder, Colorado database marketing arm.
+A second KSR1 is going to a General Notors Corp lab in Detroit for development and conversion of systems management tools.
+APPLE, SIEMENS CO-OPERATE ON NEWTON TECHNOLOGY
+Apple Computer Inc's first telephony partner on its Newton Personal Digital Assistant is Siemens Private Communication Systems Group, and Siemens and its Rolm unit will work to equip business and consumer telephones with Newton technology, and also develop wireless technology, integrated speech and data systems for call centres, and personal productivity offerings.
+First out of the stalls should be NotePhone, which will combine Siemens and Rolm telephony and Newton technology for access to phone and fax features.
+CIMFLEX TEKNOWLEDGE TO SELL CIMFLEX END OF ITS BUSINESS
+Cimflex Teknowledge Corp of Pittsburgh is selling the unit that represents the first part of its name, its Automated Factories Division, to Flexpack Corp, a wholly owned unit of Julius Capital Partners LP.The price includes assumption of some liabilities, about $160,000 in cash and potential royalty payments dependent on future Flexpack sales.
+DABS: SAGEM ACQUIRES MORPHO
+Sagem SA of Paris has acquired Morpho Systemes SA and its North American Morpho Systems Inc arm on undisclosed terms.
+Morpho supplies fingerprint identification systems worldwide and says it has converted more than 12m fingerprint records.
+PACHE LEAVES THOSE THAT HOPE FOR A HAPPY OUTCOME TO BULL's TRAVAILS WITH LITTLE TO CHEER
+With four straight years of net losses, a maturing informatics industry, a 54% of its business still coming from hardware sales that are drying up, and, moreover, an image as an ever more ailing company, Compagnie des Machines Bull SA's chances of emerging from its crisis in its current form are less than good.
+And following Bull's press conference last week to announce its 1992 results, it was not altogether clear that its new chief executive Bernard Pache will be the man to lead the company out of the crisis.
+Why not?
+The first and more important reason is that he is likely to be transferred out of Bull within the next few months, along with other chief executives at state-owned companies, when the rightist coalition almost inevitably takes over the government from the Socialist Party after the legislative elections this month.
+A particular outcome of democratic elections is often widely forecast, but never in any modern democracy has a win for the opposition been treated as such a foregone conclusion as is now the case in France.
+Mire
+Secondly, Pache's style does not lend any air of the dynamism needed to steer Bull out of its current mire.
+Indeed, Pache's first press conference since his appointment last summer was a study in contrasts with the style of his predecessor, Francis Lorentz.
+The mustachioed, slightly jowly Pache, who one Bull employee characterises as ‘a great poker player,’ was spare in his responses to questions.
+At one point he answered simply ‘no,’ with no further explanation where, in fact, one might have been warranted.
+It was a study in contrasts with Lorentz, who often became impassioned in defending his company and strategy, repeatedly marshalling data to fashion a credible response.
+The only change Pache indicated in Lorentz's strategy was an allusion to studying an ‘expanded’ alliance with existing shareholder NEC Corp. to share the costs of either personal computer development or manufacture.
+Ironically, Lorentz's disagreement with then-Prime Minister Edith Cresson over having NEC as a shareholder was said to be a prime reason for his departure.
+As for the rest, he said, Bull will continue to support its proprietary GCOS 7 and GCOS 8 machines; to develop its systems around standard Unix and micro systems; and to accelerate its software and services (system integration and facilities management) activities.
+‘We will continue to defend the place of our proprietary mainframes, even though we are well aware of the irreversible erosion of this part of the market.
+Our objective is to maintain the quality of the offering,’ he said.
+As for the Unix business, Pache was asked what Bull plans to do to counter IBM's development of a symmetric multiprocessor line of PowerRISC workstations that is separate from the line it is developing with Bull.
+Pache had no response, other than to say, ‘we're talking to IBM.’
+In a separate interview with Reuters, Axel LeBlois, president and chief executive of Bull North America and Pacific, said Bull will ‘notably expand’ its own version of Power RISC — the DPX20 range.
+He added, however, that hardware sales revenue this year would be fairly static as lower prices offset higher volume.
+Bull's micro business, namely Zenith Data Systems, came under heavy fire from French journalists at the conference for being a loss leader in a market where making money has become more and more difficult.
+An insider at Zenith noted that the company ‘is really a sitting duck target, with highly visible personal computer products in a relentless price war, which is also an acquired division with a different brand name that is not French.’
+In 1991, Zenith recorded a net loss equivalent to $290m at the current rate of exchange, or over half of Bull's total net loss of $589m.
+Despite Zenith continuing to represent an unspecified percentage of Bull's losses for 1992, Pache would not commit to any drastic changes in that area.
+A Zenith spokesman said that, in Europe, the company is ‘signficantly’ ahead of last year's numbers, in units and value, for first two months of 1993.
+Bull's 1993 sales in services and system integration in the US, Canada and Mexico should rise 25%, Leblois told Reuters.
+In 1992, they rose 22%, he added.
+Furthermore, service and system integration in North America made an operating profit in 1992, he said, declining to give a figure.
+Basket case
+North America accounted for 20% of Bull's $5,440m 1992 turnover, according to data released with group accounts last week, which showed a net loss of $847m and an operating loss of $409m.
+Leblois said his division would continue to benefit from the recovery of the US economy and its performance was a leading indicator for the group as a whole.
+Optimistic assessments aside, the fact is that Bull's role as a hardware manufacturer continues to weigh financially on its potentially more profitable ventures.
+In systems integration, for example, Gartner Group rates Bull fourth in Europe and sixth in the world, which is a fact that continually gets lost amid all of Bull's other bad news — and the French authorities seem to be oblivious to how badly the regular injections of state cash to prop Bull up play in the outside world, causing the company to be regarded as a corporate basket case that would no longer exist if it were subjected to the normal commercial disciplines faced by all its foreign competitors.
+DATA CONNECTION OFFERS ITS OWN FULL IMPLEMENTATION OF ADVANCED PEER-TO-PEER NETWORKING
+Router manufacturers debating whether they should license IBM Corp's Advanced Peer to Peer Networking code or go with the Cisco Systems Inc-inspired Advanced Peer-to-Peer Internetworking, have a third choice.
+Enfield, Middlesex-based Data Connection Ltd announces that it has independently developed an implementation of IBM's APPN network node software, thus becoming an alternate source for the software.
+The full release of Data Connection's SNAP-APPN is set for the second quarter of the year.
+The product shows what can be done without formal specifications, however just how much of a lead the company has given itself is debatable: IBM said that its network node specifications will be published at the end of the month for public scrutiny.
+Even when published, aspects of APPN networking remain covered by IBM patents, and Data Connection says it is negotiating with the mainframe manufacturer and hopes to have this sorted out in time for the InterOp show later this month.
+The company declares that it has replicated the functions of APPN, without any inside information from IBM, and this, together with the required patent permissions, should be enough to to avoid it being fingered by IBM's corporate lawyers.
+Data Connection says that there is sufficient published about the protocol in terms of research papers, tutorials, patents and standard algorithms to understand around 98% of what is required to put a network node together.
+The remaining 2% was inferred from the results of interoperability tests with a variety of true-Blue implementations, says the company.
+The results will be shown off at InterOp.
+APPN an open standard
+By the end of the month, however even the remaining 2% will be public knowledge, so has Data Connection wasted its time?
+Director Tony Downes says that IBM has published details in the past, for example for Physical Unit 2.1, and while these prove a useful guide, he says, there is a good deal of interpretation needed to turn them into usable products.
+Which leaves the question of price.
+Companies looking to IBM for APPN network node code have been stung in the past by the licensing fees.
+While there is no official price, $400,000 is a ball-park figure that has been bandied about.
+Sources suggest, however, that IBM is re-thinking its pricing strategy, following the publishing of the specs.
+Data Connection, too, is playing its price-list close to its chest.
+Cost will be flexible, says the company, enabling a choice between a large up-front fee with moderate royalties, or the converse.
+Nonetheless it said that a relatively small licence (for the code to be implemented for a single architecture, for example) will still come to a six-figure dollar sum.
+Data Connection's feat raises some questions about the APPI consortium: the company is a member of APPI and believes that the two approaches can live happily side by side.
+One thing that is certain is that the members of APPI will be watching the fate of SNAP-APPN closely.
+Given its plans to publish, there is only a tiny chance that IBM will chose to stomp on it, and indeed if a suddenly humble IBM should decide to welcome the new product, the claim that APPN is an open standard will gain credibility.
+ROSS SYSTEMS DEVELOPS CLIENT-SERVER VERSION OF ITS APPLICATIONS
+Redwood City, California-based Ross Systems Inc, specialising in applications for the VMS world, has introduced Renaissance CS, its Digital Equipment Corp VAX/VMS-based suite of financial applications and accompanying development environment adapted for use with client-server architectures.
+Renaissance CS is based on Gembase, the company's own proprietary development language.
+It provides support for multiple databases, which enables applications to be processed at the client or the server, depending on the user's requirements.
+It provides communications links to a variety of relational databases including Ingres, DEC's own Rdb, and Oracle — and support for Sybase will be added by the end of the year, the company promises.
+The client component is scheduled to ship in June with support for Microsoft Corp Windows, Apple Computer Inc Macintosh and the Open Software Foundation's OSF/Motif.
+No prices have been set for client implementations.
+A free server upgrade is available for existing DEC VAX/VMS, OpenVMS, Ultrix and Hewlett-Packard Co HP-UX customers.
+Support for the Software Foundation's OSF/1 variant of Unix, and Microsoft Corp's Windows NT operating system is slated for year-end.
+In its initial release, Renaissance CS financial applications will include a general ledger, accounts payable and receivable, purchase ordering and encumbrance and currency management.
+Ross says that it will also provide client-server implementations of Renaissance CS for its manufacturing and distribution software by year-end.
+NOVELL TURNS TO GRADIENT TECHNOLOGIES FOR BASIS OF ELECTRONIC SOFTWARE LICENSING LOADABLE MODULE
+Having tackled software distribution, Novell Inc, Provo, Utah has turned its attention to software licensing.
+The networking company has signed an agreement with Hudson, Massachusetts-based Gradient Technologies Inc, which has already picked up support from the likes of IBM Corp, Hewlett-Packard Co, Sun Microsystems Inc and Unix System Laboratories Inc.
+The result of the partnership will be an Electronic Software Licensing NetWare Loadable Module, but in addition the companies say they are working on developer tools that will give software authors access to the services needed to build licence-enabled NetWare applications.
+The companies say that the finished product will manage every aspect of software, and all activities relating to software licences, including the all important tracking of the number of copies of an application relative to the number of licences held.
+Where demand outstrips the number of licences, the NetWare Loadable Module will be able to create a waiting list that enables users to launch the software when a slot becomes free.
+Other facilities include limiting software to particular users, stations or particular times of day.
+Some applications companies may also be enamoured by the possibility of using the NetWare Loadable Module to support demo licensing, which replaces ‘cripple-ware’ by a full copy of the application that will only run a limited number of times or for a limited length of time.
+IBM RISC ANNOUNCEMENTS
+The collaborative PowerParallel box…
+Buried within IBM announcement of its PowerParallel multi-processing RISC system last month (CI No 2,113) was the news that its parallel processing capabilities will opened up to other vendors' machines.
+Processing work will be able to be farmed out to networked Unix-based machines from the likes of Sun Microsystems Inc, Silicon Graphics Inc and Hewlett-Packard Co, even IBM mainframes running AIX/ESA will be able to join the melting-pot.
+The plan relies on a clever piece of software called LoadLeveler, which was announced alongside the PowerParallel machines.
+As its name implies, LoadLeveler enables users to establish which processors should work on which job and whether they are working co-operatively, or concentrating on their own discrete tasks.
+Though the software was announced with the PowerParallel machine, it already has the ability to run processes on remote IBM AIX workstations.
+A quick look at the architecture of the first PowerParallel machine (called SP1 by IBM) show why this is relatively easy.
+The basic building block is a single frame containing eight or 16 RISC processors and up to four frames can be joined together.
+Surprisingly though, in the normal configuration all of these parallel processors are linked by a standard Ethernet local area network.
+There is little logical difference, then between 16 workstations on a local network and a chassis with 16 processors.
+Under a heavy parallel processing load, the whole thing will tend to slow down as the 10Mbps links clog, so at the SP1's launch, the company concentrated on its new, high speed packet switch which can replace the Ethernet.
+Using this — it is optional — the machine's processing capacity grows linearly as new processors are added, from a claimed one 1 GFLOPS to 8 GLOPS with the maximum of 64 processors on board.
+The company says that it intends to support the FDDI, Fibre Channel Standard and Parallel Channel Attachment standards but this will be for connecting the SP1 to file servers and hosts rather than speeding up the local network within the chassis.
+…and LoadLeveler to pull it together
+LoadLeveler, then, can work in a number of ways: it can schedule batch jobs on groups of standard RS/6000 workstations, while on the SP1 it can schedule batch and parallel batch jobs.
+It can even schedule parallel jobs across groups of workstations although the company is not hyping this facility, presumably because of the communications bottleneck caused by Ethernet.
+Each workstation on the network can be set up to decide whether it will accept work being thrown at it, and tells the central manager what resources (memory size, architecture and so forth) that it has available for running jobs.
+Users with a horror of suddenly finding their workstations grinding to a snail's pace need not worry since they can stop LoadLeveler from using their machines when they are logged on.
+Similarly, dedicated compute servers can be configured so that they will run only certain types of jobs, or have a preference for certain types.
+In order to make best use of the available resources, LoadLeveler needs to be given information about the code that it is trying to run.
+By way of pay-off, each of the workstations need to set aside 10Mb to 15Mb of disk for log and work files, while the master machine needs to reserve 200Mb.
+How much memory it takes up depends on the applications being run, comments IBM.
+Parallel Environment: Making it work
+The SP1 runs AIX/6000 Version 3.2.3 on top of which sits the Parallel Operating Environment.
+One big attraction is the claim that it standard AIX applications will ‘generally run’ with out modification.
+However programs that try to access facilities not available in the box such as graphics adaptors will need tweaking.
+The programs run within the Parallel Operating Environment, which retains most of the features of the standard AIX/6000 Motif-based interface.
+The Parallel Operating Environment is just one piece of the bundle of utilities and development tools that IBM has dubbed the AIX Parallel Environment.
+This contains a collection of tools for the design and development of parallel applications both in Fortran (a nod towards the scientific community) and C. The environment has to be running on at least one processor while the rest of the processors in the cluster need parallel client software installed.
+The Environment as a whole embraces parallel application programming interfaces that implement message-passing facilities common in distributed memory machines; the PDX Parallel debugger and a performance visualisation and monitoring tool that enables users actually to see how their application is running, and spot bottlenecks.
+Applications can be developed on a single machine and then run in parallel later.
+In addition to its own application programming interfaces, IBM is also supporting the Express, Linda and Parallel Virtual Machine interfaces, which should help users bring over existing parallel programs to the new machine.
+It may even be possible to convert old non-parallel Fortran programs with the help of the Forge 90 tool from Placerville, California-based Applied Parallel Research Inc, which IBM says it is also supporting.
+New PowerStations and PowerServers
+There were significant extensions to the workstation range, alongside the parallel machine: right at the bottom is the PowerStation M20 a diskless system with a single 33MHz processor.
+It includes integrated Ethernet adaptor and a SCSI interface, so using the latter, it is possible to add a disk.
+Higher up in the range comes the 355 the 365 and the 375.
+These three differ from their predecessors by incorporating a 32Kb instruction cache, four times bigger than previous models.
+Other than that, the main differences between the models is processor speed: the 355 is a 41MHz machine, the 365 and 375 run at 50MHz and 62MHz respectively.
+High Performance Network Server with a little help from Auspex
+The IBM 7051 Power Network Dataserver is IBM's response to the need for a high speed file server to work with these new machines, and was developed with Auspex Systems Inc.
+It has taken its PowerServer 340R and has bolted on extra communications and data storage options.
+IBM says the base PowerServer's scalable asymmetric multiprocessing system, coupled with a maximum of 144Gb of disk and 384Mb of cache can serve workgroups of over 100 users.
+Some of the added capabilities include Escon optical channel support, data striping across multiple disks and disk mirroring.
+The former improves performance by decreasing access time, the latter gives the ability to perform on-line back-ups without bringing the system down.
+The machine acts as a general Network File System-compatible server and should manage around 2,000 Network File System operations per second, though this is dependent on the nature of the application, IBM notes.
+SUN DEVELOPMENTS
+Sun discloses plans for a software development centre in Dublin to put computer-literate graduates to work
+Sun Microsystems Inc duly unveiled plans for a European software centre located on the outskirts of Dublin in the Republic of Ireland last week (CI No 2,1180.
+A site has yet to be secured — although the Mountain View, California-based company said it had been working on the plans for some 18 months — and a choice will be announced within 60 days, according to Sun's chief financial officer, Kevin Melia.
+The company's SunSoft Inc satellite will be the centre's first tenant, with other Sun planets such as SunTech Enterprises likely to follow soon.
+Dick McQuillen, formerly vice-president for Sun's intercontinental operations in Tokyo, becomes managing director of the centre.
+McQuillen was responsible for establishing Sun's Scottish manufacturing plant in Linlithglow — ironically both McQuillen and Irishman Melia have done time at Digital Equipment Corp's Galway plant in Ireland, the closure of which was formally announced last week, at the same time as news of the planned Sun centre emerged.
+The centre will be responsible for localisation of SunSoft's Solaris 2.
+X operating system environment, initially handling development of device drivers and doing certification for European OEM partners — especially for customers of its forthcoming Intel Corp iAPX-86 implementation — such as ICL Plc, Ing C Olivetti & Co SpA and local Dell Computer Corp operations.
+European partners that currently have to send their systems all the way to Los Angeles for testing will now be able to use facilities in Dublin.
+The centre will expand to take on software duplicating and packaging over time.
+There are just three employees on the payroll now, but McQuillen expects the centre to employ 50 by the end of this year — and 200 jobs are expected to be created within three years.
+SunSoft will begin recruiting software specialists from Irish university campuses immediately.
+Sun, which claims an installed base of some 2,000 machines in Ireland, has had an operation up and running for three years.
+Its 20 staff support two distributors and 11 resellers across Ireland and in the six counties north of the border which make up Northern Ireland.
+Details of Industrial Development Authority incentives granted to Sun for the establishment of the centre in Dublin were not revealed —‘it is not our practice to reveal payments,’ a spokesman said.
+They will, however, be made available in the Authority's annual report.
+Sun's new FirstPerson company is dedicated to bringing the fruits of the Spring project to the mass market
+Sun Microsystems Inc, as reported (CI No 2,118) has formed a new software subsidiary that is noticeably more distant from itself than its orbiting planets, so much so that it does not even rate a Sun tag.
+Instead, it's called FirstPerson Inc, and is intended to move the object-oriented technologies of the Spring project to the mega-volume consumer market.
+Wayne Rosing, the Sun executive who has overseen the Spring project for some time, has been named the unit's president.
+Rosing, known for playing his cards close to his vest, declined to discuss specific products or the company's intended customers.
+It will be licensing its software, which he said includes ‘some hardware support,’ to third parties, hence the subsidiary status.
+Naturally Sun may be a customer.
+Rosing however indicated that FirstPerson, said to be very focused, will not be in the personal digital assistant business, although the technology could be used in the handheld devices.
+He also seemed to indicate that, despite press reports, it would not be treading on General Magic's toes either.
+Painting his charter with a very broad brush, he talked vaguely about software in aid of media convergence, interoperability and data exchange in all forms of digital devices including facsimiles, ISDN, CD-ROMs, digital television, radios, satellites and computers.
+Initial product is due in two years.
+The unit is based in Palo Alto, California, away from the corporation's headquarters in Mountain View, and has about 12 to 15 people to start with, including James Gosling, author of NeWS, the Network-extensible Windowing System.
+It will build to 40 or 50 staff.
+Apparently FirstPerson will have a tough task to water down the industrial-strength principals of Spring and make them lightweight enough for the mass consumer market.
+SUN AND THE IMPROBABLE ELVIS
+Sun Microsystems has a deal going with another Russian concern, this one operating under the improbable name Elvis+: seems they've cut some kind of technology licence and co-development pact for wireless network communications technology to be used in Sun's nomadic computing strategy; Elvis is apparently a privately held company run by one Alexander Galitsky, who by repute was involved in the Soviet space programme, but all should be clear when the pair go public March 16.
+NEW ACTING HEAD OF SUN MICROSYSTEMS LABORATORIES
+With Wayne Rosing off to run FirstPerson, Dave Ditzel has been named acting head of Sun Microsystems Laboratories, an appointment it'd be crazy not to make permanent: Ditzel, among his other credits, has been responsible for RISC and we're expecting to see some interesting aspects of his handiwork soon; Sun Labs, from whence Sun's ideas flow, figures it's handling the transfer of research to development better than practically anyone in the industry — the secret is moving the people with the project.
+SUN LOOKING FOR HOME FOR HYPERSPARC
+Sun is still tinkering around with the Cypress Semiconductor Corp Ross Systems HyperSparc chip, having apparently not found a home for it yet: in benchmarks, the part outpaced the SuperSparc but by how much remains a mystery; of course third parties people could buy the chip from Cypress direct and do their own MBus upgrades for Suns.
+SEVEN IS ACTUALLY NINE
+As reported, in a revelatory mood the other day, Sun chief executive Scott McNealy confided to Wall Street analysts that Sun has seven Sparc chip projects in development: only trouble with that insight is that there are actually nine.
+DEVELOPMENT KITS FOR SUNSOFT DISTRIBUTED OBJECT  MANAGEMENT FRAMEWORK
+SunSoft Inc says that it will have development kits for its implementation of the Distributed Object Management Framework in June, and the kit will include the Interface Definition Language, which is born out of its Spring research effort.
+DISTRIBUTED OBJECTS EVERYWHERE PROJECT ON THE WAIN
+Both SunSoft and Hewlett-Packard Co have Distributed Object Management Facility implementations as a result of  their collaboration in the Distributed Objects Everywhere project, but the collaboration appears to be winding down — SunSoft says that there is only ‘some work’ going on with Hewlett-Packard now.
+HARD TIMES REQUIRE TOUCH MEASURES AS LOGICA GETS A GRIP ON PROBLEMATIC US
+As anticipated, London W1-based software systems and consultancy Logica Plc avoided heavy losses but failed to ‘bounce back’ in a big way during the first half mainly because of its patchy performance.
+In the six months to December 31 its pre-tax profits rose 91.9% to £4.1m on turnover that rose 5.7% to £104.2m.
+The company, which returned to profit last year following a rigorous re-structuring programme (CI No 2,010), saw a sharp improvement in its  continental European operations where revenues grew 17%, taking into account the fall in sterling.
+Business in the UK improved slightly and Asia Pacific was static.
+But the company's faltering US subsidiary, which was hauled back to profit last year, saw revenues slump 17%, resulting in £1.4m operating losses.
+Here, setbacks in the development of the telecommunications side of the business, along with declining demand among computer vendors, added to the costs already incurred by efforts to improve marketing and sales.
+Further cost-cutting, including the closure of two offices, has resulted.
+Restructuring in Europe
+The business, which deals with 9% of the company's clients, is now to concentrate on retail and wholesale banking, where it is strongest.
+The restructuring in Europe over 1991-92 has paid off, facilitating a better balance of resources and revenues, and producing a £1.2m operating profit, against the first half losses incurred in 1991 and 1992.
+Europe now accounts for 30% of clients as opposed to 26% last year.
+Recovery was due mainly to improvements by Netherlands subsidiary Logica BV, both as a result of its reduced headcount and improved sales performance.
+Logica's joint venture with Finsiel SA in Italy has also shown an improvement.
+As in the US, the computer sector shrunk, but the government and finance sectors grew.
+UK operations, which deal with just over half of the company's clients, saw a steady 6% growth in revenues said to be underpinned by a healthy 12% improvement in exports.
+Operating margins rose to 6.8% from 3.2% last time which, even after adjustments for the  withdraawl of one of its broadcasting products from the market last year, indicated an ‘encouragingly positive’ underlying trend according to chairman David Mann.
+The UK did particularly well in the area of transport, owing to joint venture with British Airways Plc; and also in finance, where exports increased; and in manufacturing.
+This was counterbalanced by decline in government and defence revenues, and in computing and electronics, blamed on cutbacks by hardware manufacturers.
+Trading in the Asia Pacific region, where 10% of customers are based, was relatively static.
+Operations revenues fell 10% due to‘adverse movements ‘in exchange rates.
+Consultancy now accounts for 22% of Logica's activities; custom built systems account for 65%, with software contributing 58%, hardware 7%; software products and kernels 13%.
+The majority of clients remain in the finance sector, which now generates 29% of the company's revenues — up from 27% last year.
+The rest are spread 15% in government; 11% in energy and utilities; 10% in manufacturing; 9% in defence; 8% in telecommunications; 7% in transport; 6% in computing and electronics; and 5% in the space industry.
+The biggest growth areas were transport, with revenues up 80%, and space, up 43%.
+Conditions are expected to remain ‘difficult’ this half with some areas offering better prospects than others.
+Given this, the weaker parts will be closely monitored and further cost reductions implemented where necessary.
+KODE INTERNATIONAL BEGINS TO MOTOR AS DCM SERVICES BUY TRANSFORMS OUTLOOK
+Profits at Kode International Plc more than doubled for the year to December 31 as a result of acquisition of DCM Services (CI No 1,988) and substantial increase in both turnover and profits at Kam Circuits.
+Pre-tax profits rose 112.1% to £1m, while turnover increased 33.3% to £20.9m.
+The board is recommending a final dividend of 4 pence per share, to make 5.5 pence for the year, up 37.5%.
+The integration of Kode's computer maintenance arm, Kode Computers and DCM Services was completed ahead of schedule, and activities have now been expanded to cover project management, systems support and planning (CI No 2,107).
+An increasing amount of DCM's turnover now comes from services other than maintenance, such as open systems and networking consultancy, software support and virus protection.
+The  acquisition more than doubled turnover at the subsidiary, helped by cost savings resulting from the closure of Kode Computers administrative office in Swindon and the subsequent absorption of operations into DCM's offices in Hitchin.
+This has enabled DCM to eradicate duplicated overheads — 38 staff were made redundant at the time, although DCM has since taken on another 15.
+Chairman Alan Brooker believes the company's increased size has put it in a better position to win larger, long-term contracts, in line with DCM's stated policy, and should lead to improved margins and faster growth.
+Kam Circuits, the group's complex printed circuit board manufacturer, achieved substantial growth in both sales and profits despite ‘a dismal trading climate’.
+And Brooker expects 1993 to be another good year as Kode has continued to invest in improving the quality of its products — during the year, the board agreed to buy new state-of-the-art plating lines.
+Sales at Kam Printronics, a joint venture company that produces high-volume printed circuit boards, were hampered by lack of capacity at the Chinese Allied Group's plant — Kode's partner.
+But Brooker said that customers were unaffected by this shortfall because Kam has negotiated trading relationships with other suppliers in Korea, Malaysia, and Taiwan.
+Revenues generated by this channel did not go through the joint venture, rather through Kam Circuits, which contributed to its good performance.
+And Kode has just set up a new marketing company, Kamtronics, to sell all high-volume printed circuit boards made in the Far East to the UK and Europe.
+The firm is intended to act as a focal point for Kam's operations in the Far East and to further expand Kode's activities in the region.
+COMPANY RESULTS
+National Semiconductor Corp has reported third quarter net profits up 85.5% at $26.9m on turnover up 22.3% at $491.5m; net profit for the nine months was $84.1m against a loss last time of $147.6m after a $149.3m restructuring charge, on turnover up 18.7% at $1,445.8m.
+Net earnings per share, up 73% in the quarter, were $0.63 in the nine months.
+Kode International Plc saw net profits for the year to December 31 up 163.9% at £636,000m, on sales up 33.3% to £20.9m.
+Pre-tax profits were up 112.1% at £1m.
+Earnings per share rose 120.5% to 8.6 pence.
+Logica Plc reported net profits for the six months to 31 December up 74.3% at £2.3m on turnover up 5.7% to £104.2m.
+Pre-tax profits were up 91.9% at £4.1m.
+Earnings per share rose 76.2% to 3.7 pence.
+JOHN SCULLEY CROSSES HIMSELF OFF THE LIST
+Another name can be crossed firmly off the IBM Corp list: John Sculley, chairman of Apple Computer Inc has now gone on the record saying ‘I would like to respond to the persistent rumours that I might leave Apple and go to IBM — I have told Apple's board of directors and our executive management team that I am not available or interested in being chief executive of IBM; I believe Apple has a tremendous opportunity to be extremely successful in the years ahead, and Apple will be the most important innovator and leader in the industry; 10 years ago this April I signed up to do a job, and there is still a lot that I would like to accomplish with all of us; ‘I hope this statement will put to rest the speculation that I might go to IBM, and also serve as a clear message of the confidence that I have in Apple,’ he declared.
+RESULTS EXPECTATIONS PUSH SUN SHARES DOWN
+Sun Microsystems Inc shares were off $2.50 at $32.375 yesterday after the company's chief financial officer suggested that the quarter's results may fall below expectations, prompting analysts at Dean Witter and Goldman Sachs to express concern about the workstation maker's order levels this quarter.
+MIXED BLESSINGS AT SIEMENS ANNUAL MEETING
+Siemens AG held its annual meeting in Munich yesterday, and according to Reuter said it expects to cut the losses at its computer and semiconductor divisions this year, although it was still not satisfied with the results of the two divisions: chairman Heinrich von Pierer told the meeting that the combined losses of Siemens Nixdorf and the semiconductor division last fiscal was over $625m, casting doubt on whether cost-cutting programmes already announced would suffice; at Siemens Nixdorf, there is now a stronger focus on products with a bright future and a reduction in the amount of work done in-house.
+SIEMENS UNABLE TO OFFER SHAREHOLDERS LITTLE CHEER
+Overall, Siemens AG was able to give little cheer to shareholders, and the shares were off 2.30 marks at 663.10 early yesterday after the company warned that it would be counted a success if 1992-93 profits were stable with last year — incoming orders in the first five months of this fiscal fell 2%, although it looks for a 4.7% rise for the full year; group sales in the first five months rose 3% to the equivalent of about $18,500m.
+BT RELATE 2000 ON SALE NEXT WEEK
+British Telecommunications Plc's Relate 2000 videophone goes on sale next week at £400, £750 the pair.
+AMSTRAD SHARES AT LAST RESPOND
+The news that Amstrad Plc had a hot new personal communicator product on the way should have been in the market for a couple of weeks now — we reported it on March 1 (CI No 2,117) but these things take time to filter through and it was only on Tuesday that the shares really began to respond, putting on 3.75 pence; they added another 3.5 pence to 34.75 pence yesterday morning.
+VODAFONE BID TO RESCUE HAWTHORN LESLIE
+Vodafone Group Plc is making a rescue one-for-277 share exchange offer for cellular air time reseller Hawthorn Leslie Plc, valuing the struggling company at £2.9m, 1.54p a share against 2.5p in the market; Vodafone has also conditionally agreed to procure redemption of the £16m convertible loan stock 2007 of Hawthorn Leslie held by Svenska Handelsbanken and repay outstanding loan facilities from Svenska, which brings the total cost of the transaction up to about £31.5m.
+PEEK MAY HAVE REACHED THE PINNACLE
+Peek Plc's Talahassee-based Peek Traffic Inc has acquired two traffic control companies and reckons it is now the largest, most diversified and capable US traffic management systems company: it bought Signal Control Co in Salem, Oregon and Signal Maintenance Inc in Anaheim, California, both from IASCO of Foster City, California, for $4.2m, equivalent to net asset value of the two companies, which have combined annual turnover of $24m; payment will be $2.08m cash on completion and installments of $1m in October, $470,000 and $650,000 in April and July 1994 respectively.
+NATIONAL SEMICONDUCTOR EXPECTS MARGINS TO IMPROVE
+Commenting on its figures (page seven), National Semiconductor Corp says it expects fourth quarter gross margins to improve over third quarter margins and that third quarter worldwide orders set a new record, up 40% over last year, and that it entered the fourth quarter with an improved backlog — record OEM orders more than offset seasonal weaknesses in distribution to give record orders for the Americas; European orders were up while Japanese markets weakened slightly.
+US SUPPLIERS FAVOUR US CUSTOMERS
+The US is hardly lily white in the battle over chip imports into Japan, and Japanese chip users say that their US suppliers have been cancelling deliveries in favour of US customers even as they complain about the difficulty of penetrating the market, according to Electronic Industries Association of Japan.
+TAURUS FINALLY SLAIN
+The London International Stock Exchange yesterday voted to bring the costly Taurus paperless trading fiasco to an end and kill the project, and the Bank of England established a task force on securities settlement following an approach by the Stock Exchange, to consider best way forward for development of securities settlement, share registration and share transfer in the UK and to identify possible alternatives to Taurus, having regard to speed of implementation, cost, ownership, governance and financing, as well as system structure, to recommend a preferred option and to make recommendations for managing its implementation and to report to the governor of the Bank of England by the end of June 1993 at the latest; the abandonment of project, which cost the Exchange £75m and City firms preparing for it a lot more, cost 220 direct employees and another 130 contractors their jobs.
+PACTEL SET FOR INITIAL OFFERING
+Pacific Telesis Group Inc, which wants to separate its regulated and unregulated businesses, has set an initial stock offering for the wireless operations of its PacTel Corp subsidiary, which is to become a separate company by year-end; the amount to be raised in the offering has yet to be determined, but it has already said it plans to up the capitalisation of the wireless operations by raising at least $750m through public or private sources.
+US PRESS GIVE MEIKO SCIENTIFIC HARD TIME
+Meiko Scientific Plc, Bristol has been getting a bit of stick in the US press following its sale of one of its massively parallel systems to the Lawrence Livermore National Laboratory under a $15m agreement: complainants say the order should have gone to a US firm and not to a UK one; Meiko repudiates ‘the damaging impressions’ created in a New York Times story on the order, saying that it was consistent with US national security policies and procedures with support provided by cleared US citizens; it bridles at the suggestion that the machine is unproven, pointing to over 400 installations, and says the Israeli transaction was in compliance with both US and British export regulations and that this was confirmed by the British Embassy in Washington.
+SCO AND IXI TO RE-NEGOTIATE EARLY AGREEMENTS
+The Santa Cruz Operation Inc-IXI Ltd combine will be looking at ways of re-negotiating, where possible, some of IXI's earliest agreements, which saw the UK company license X.desktop away for very small sums in some cases: ironically, Santa Cruz was one of the earliest beneficiaries of that licensing policy.
+SYSTEMS & PROCESS ENGINEERING TO PRODUCE GALLIUM ARSENIDE SPARC MODULE FOR SPACE APPLICATIONS
+Systems & Processes Engineering Corp down in Texas has got first silicon in its NASA-backed effort to make a 200MHz Gallium Arsenide Sparc module for use in space applications, Electronic Engineering Times reports: Vitesse Semiconductor Corp is acting as foundry.
+LAN MANAGER NAME CHANGE
+Question: When is LAN Manager for Windows/NT not LAN Manager for Windows/NT?
+Answer: when it is called Microsoft Windows/NT Advanced Server — Microsoft Corp says that it has invoked the name change so as not to confuse customers since a lot of the functions of the OS/2-based LAN Manager which we know and love are already incorporated into the base operating system and Advanced Server will provide only the extras such as multi-domain management; coincidentally of course, Microsoft will avoid discouraging any users that weren't particularly enamoured of LAN Manager's original incarnation.
+IBM CORP TO UTILISE 88110s AS TEMPORARY ALTERNATIVE
+IBM Corp is using the 88110 in its new X terminals but says it will probably migrate to PowerPC 601s when it's got them in volume: a 40MHz 88110 offers roughly the performance of a 33MHz SuperSparc.
+OSF TO LAUNCH DCE 1.2 AT UNIFORUM
+The Open Software Foundation will launch the next version of its Distributed Computing Environment, DCE 1.2, at UniForum: it also confirmed version 1.2 of OSF/1, released last month, is X/Open Co Ltd Portability Guide 4-compliant and says it plans to launch a full-featured Mach microkernel version of OSF/1 in first quarter 1994.
+OVERDRIVE PENTIUMS WILL NOT BE READY UNTIL 1994
+Users of the ‘Pentium-ready’ personal computer systems that have been on sale since the middle of last year — Intel Corp 80486-based boxes with a Pentium upgrade socket — won't get their OverDrive Pentiums, code-named the P24T, which plugs into the socket, until 1994.
+DATA GENERAL WILL MAINTAIN RELATIONSHIP WITH NeXT
+Although NeXT Computer Inc has stumbled, Data General Corp, which last year signed to resell NeXT boxes, will maintain a relationship with Steve Jobs' company — it says it was always more interested in the NeXTstep software anyway, and it will market the environment on the 80486 personal computers it buys OEM once it becomes available.
+MICROSOFT URGED TO USE OBJECT GROUP STANDARDS
+Did anyone notice that the president of the Object Management Group wrote an open letter urging people out there to ask Microsoft Corp to have Object Linking & Embedding adhere to Object Group standards?
+DEC COST-OPTIMISES 100 MIPS ALPHA CHIP
+Digital Equipment Corp has packaged a cost-optimised 100 MIPS 10 Watt Alpha chip, some DECelx and OSF/1 real-time software and services to attract OEM customers in the embedded market, and hardware samples are promised for the summer; the chips will also be used in single-board computers, the company says.
+10 GERMAN TOWNS TO GET DATEX-M SERVICE
+The Deutsche Bundespost Telekom will supply 10 towns with a Switched Multi-megabit Data Service by the end of the year, Computerwoche reports: users in Munich and Stuttgart will have immediate access to the new Hannover, Berlin, Dusseldorf, Frankfurt and  Nuremburg  will follow; as such the project represents the first large-scale commercial implementation of the IEEE 802.6 standard in Europe; but Telekom has gone further than most by letting its users use the protocol's speech and video capabilities, and the state firm is touting the network's 53-byte cell structure as an easy way for customers to migrate to Asynchronous Transfer Mode capability in the future.
+MICROPORT UNIX V.4 SUPPORTS COROLLARY DESIGNS
+Scotts Valley, California-based Microport Inc's implementation of Unix System V.4 now supports Corollary Inc's multiprocessor and XM multiprocessor hardware designs, saying it makes it the first independent software vendor to provide a shrink-wrapped multiprocessing version of the operating system.
+ORBITEL TO LAUNCH PRODUCTS AT CEBIT ‘93
+Orbitel Mobile Communications Ltd says it is to launch its latest series of Groupe Speciale Mobile phones at CeBit ‘93, in Hannover: improvements to come in with the new 901 series include improved battery life, speedier battery charging, and ‘added functionality’, although Orbitel is not saying yet exactly what it means by this; the series is to include a combined mobile and transportable phone, providing both in-car and portable functionality, the company says.
+USL PRESIDENT AND NEW BOSS EXPLAIN ISSUES
+Unix Systems Laboratories Inc president Roel Pieper and his boss-in-waiting, Novell Inc chief Ray Noorda were in Japan last week explaining to Unix Labs's Japanese shareholders the ins and outs of the deal that's been cut: it is said that some companies, perhaps ICL Plc and Ing C Olivetti & Co SpA, were interested in somehow retaining their shares in the Unix firm.
+SAMSUNG TO INSTALL TELEPHONE SYSTEM IN OPOLE
+Samsung Co, Seoul, South Korea is to install a telephone system for 150,000 subscribers in the province of Opole over the next two years: the South Korean Government is to grant loans totalling $50m for the purpose, to be repaid over the next 15 years, starting in five years.
+USL TO RELEASE BETA ARCHITECTURE NEURAL DISTRIBUTION FORMAT FOR THE SUMMER
+Unix Systems Laboratories Inc says that it will release a beta version of the promised Architecture Neutral Distribution Format for independent software vendors by summer.
+FUJITSU BUSINESS SYSTEMS REORGANISES
+Because of falling hardware margins, Fujitsu Business Systems Ltd in Japan has reorganised to pursue software development and sales, bringing together its 700-person K Series office software development group with its 50-employee Unix software development group to create a System Headquarters Group.
+RIOS 2 RISC PERFORMANCE EXPECTATIONS
+IBM Corp's forthcoming Rios 2 RISC should do around 100 SPECint92 and floating point performance of 250 SPECfp92, exceeding even Silicon Graphics Inc's forthcoming TFP part: first system ships are seen in the third quarter this year.
+PLAN TO LINK JAPANESE GOVERNMENT LANs
+Japan's Ministry of Posts & Telecommunications says it is planning to build an administrative network that will link the local area networks used in government offices across the country, but the plan is still in its embryonic stages; at the same time the ministry is studying a proposal for a fibre to the home project that plans to get Japanese households connected up by 2015; total infrastructure costs are estimated at about $256,000m.
+85,000 BINARY VERSIONS OF OSF/1 SHIPPED LAST YEAR
+The non-profit Open Software Foundation in Cambridge, Massachusetts has been quoted in the US press as saying that it shipped a total of 85,000 binary versions of OSF/1 to developers and users last year.
+LEASED LINE PLANNED BETWEEN JAPAN AND MOSCOW
+International Telecom Japan Inc says that it intends to start a leased line service between Japan and Moscow this summer, becoming the only alternative on the route to Nippon Telegraph & Telephone Corp: it has teamed up with Russian satellite services company RSCC.
+SANTA CRUZ MAGAZINE GETS THE CHOP
+It was supposed to be a big secret when we heard it but Open Systems Today must have announced it internally by now— it's killing off its stepchild, the Santa Cruz Magazine.
+OPTUS PARTIAL FLOTATION POSTPONED
+The planned partial flotation of Optus Pty Ltd, Sydney, Australia — expected to raise about $100m and release at least 5% of equity in the company — has been deferred until at least late 1994: the reason for the delay is said to be to gain more detailed information about market share splits between Optus and the Australian and Overseas Telecommunications Corp, says the Australian Financial Review.
+SYNCORDIA GETS FLAVOURINGS
+British Telecommunications Plc's Syncordia Corp facilities management venture has a contract from food flavourings company Firmenich to link six of its sites in Geneva, Amsterdam, Cologne, London and Princeton, New Jersey: the five-year deal, for an undisclosed amount, covers only data traffic.
+OS/2 2.0 GETS PRODUCT EXCELLENCE AWARD
+There are one or two awards that not everyone would bust a gut to win, but IBM Corp's Personal Software Products unit is proud to  announce that the OS/2 2.0 operating system has been awarded the Computer Language Jolt Cola Award for Product Excellence: we're  advised that Jolt is the cola that has five times the sugar and twice the caffeine of regular cola — and the connection with computers?
+Well it's just the thing to keep the operators going on the night shift.

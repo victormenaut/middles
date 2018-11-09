@@ -1,0 +1,275 @@
+
+
+IBM FRANCE BIDS $450m CONVERTIBLES FOR CGI INFORMATIQUE…
+In an uncharacteristic move, IBM France SA yesterday launched a full bid for France's tenth largest software and computer services house CGI Informatique SA.
+The bid — agreed by CGI — is one IBM France convertible bond with a nominal value of 355 francs for each CGI share.
+The bid is conditional on IBM receiving acceptances from holders of shares representing 66.67% of CGI voting rights — under French law, a 24% stake is a blocking minority.
+CGI's top three officials, including chairman Robert Mallet, who together hold 25.4%, have committed their own shares to the bid.
+The bid values CGI at the equivalent of $450m, about 1.2 times last year's turnover of $367m, and 17.5 times net profit of $26.4m (CI No 2,119).
+The convertible bond will be listed in Paris.
+It will have a maturity of four and a half years and pay an annual coupon of 5.75%.
+The bond can be exchanged after 45 days and until November 30 1993, into 1.175 IBM Corp shares — the first time in recent history that IBM has made an acquisition for shares.
+From December 1993 until December 31 1997, it can be swapped for 1.075 IBM Corp shares.
+It is reimbursable at 365 francs or in IBM shares worth 101% of that.
+The partners said the acquisition was aimed at giving CGI Informatique access to the large commercial network of IBM plus IBM's skill in systems integration, and it would help CGI's expansion, especially its international expansion.
+The company has a US subsidiary, CGI Corp, which is an unwelcome investor in Computer Horizons Corp.
+The takeover is subject to the approval of the French Treasury as well as US anti-trust authorities.
+Claude Andreuzza, chairman of IBM France, and CGI chairman Mallet stressed that CGI will retain its operating independence and identity as part of IBM if the bid succeeds.
+The firm was formed in 1967.
+…
+AS IT ANNOUNCES 40 HIGH-END VALUEPOINT MODELS IN THE US
+Demonstrating that it is beginning to get the hang of the personal computer mass market, IBM Corp's Personal Computer Co yesterday announced three new 80486-based lines in its PS/ValuePoint family, in 40 different configurations — and the difference between the three models is not the processor — anything from a 25MHz 80486SX to a 66MHz 80486DX2, but the size of the box.
+The 6382 has three slots and three bays and comes in diskless, floppy and hard disk configurations, the 6384 has five slots and five bays, and the 6387 has eight slots and six bays.
+All apart from the basic 6382 have a 3.5″ floppy and 4Mb or 8Mb memory standard, 1Mb video RAM, VESA Local Bus connector, choice of 120Mb, 245Mb, 340Mb and 527Mb drives, and MS-DOS 5.02 and Windows on the 4Mb, OS.2 2.0 on the 8Mb.
+The 6382 with 25MHz chip and 120Mb is advertised in yesterday's US Wall Street Journal at $1,580, the mid-range model with 33MHz full 80486 and 245Mb disk is $2,490 and the top-end 6387 with the 66MHz processor and 527Mb disk is $3,790.
+A new 6317 17″ PS/ValuePoint Colour Display is a daunting $1,165; and the 6318 14″ colour display costs $400.
+ORACLE PUTS ORACLE7 UP ON APPLE SERVERS UNDER A/UX
+Oracle Corp says that its Oracle7 Co-operative Server database is now up on Apple Computer Inc's Workgroup Server 95 running A/UX, Apple's implementation of Unix, adding that the product is the result of over one year of joint development work between Oracle and Apple.
+Several more products are planned to follow over the next 18 months, including software engineering tools,(CI No 1,846).
+The production release of Oracle7 for A/UX is out next month and is from $4,000.
+HITACHI MAINFRAME OSF/1 AT LAST; SPARC FRONT END
+Hitachi Data Systems Ltd took its first step into the Unix world yesterday and launched the OSF/1 operating system for its GX and EX series IBMulators.
+To be an efficient Unix server, the mainframe needs a network co-processor front-end, and despite its agreements with Hewlett-Packard Co on the Precision Architecture RISC, Hitachi has chosen to use a Sun Microsystems Inc Sparc-based machine in this role, fitted with suitable direct channel-attach and Ethernet boards.
+This, when combined with the OSF/1 operating system implementation dubbed HI-OSF/1-M, will be sold as the Osiris Superserver.
+HI-OSF/1-M will run stand-alone, under VM or in a partition alongside MVS on the Hitachi machines.
+The company says that it will not initially be aiming at the unfamiliar Unix community, instead it has set its sights on its existing customers, and IBM mainframe sites, which are increasingly feeling the push towards Unix.
+The company will add Network Data Management Server software in around six months — this will provide network back-up, management and recovery, and will be followed, during the first half of next year, by a database server based on Oracle Corp technology.
+Finally the company is promising transaction processing software at a future, unspecified date.
+The Sparc-based Network Co-Processor costs between $160,000 and $180,000; HI-OSF/1-M pricing is based on IBM's licence group methodology and costs between $2,800 and $25,000.
+SGS-THOMSON TRANSFERS BiCMOS TECHNOLOGY TO SEAGATE
+Seagate Technology Inc has gone to SGS-Thomson Microelectronics NV for mixed signal integrated circuit technology for use in its hard disk controllers.
+With the support of the UK government, SGS-Thomson will transfer its 1.2 micron BiCMOS technology to Seagate's Seagate Microelectronics wafer fab facility in Scotland.
+The technology will be used to produce part of Seagate's requirement for dedicated disk drive chips.
+SGS-Thomson will also continue to produce BiCMOS circuits for Seagate in its own wafer fabs.
+The two also plan to establish joint design teams to develop future read-write and power chips for Seagate disks.
+BOLT, BERANEK SELLS ITS SIMULATION UNIT TO LORAL
+Bolt Beranek and Newman Inc, Cambridge, Massachusetts is to sell substantially all the assets of its Advanced Simulation business to Loral Corp for $6m in cash and assumption of some lease obligations, and expects to report a small gain on the transaction in its fourth quarter ending June 30.
+The staff will transfer.
+DILEMMA NO MORE AS IBM HANDS THE PRISONERS THE KEY TO THE JAILHOUSE
+There is a puzzle that has for many years intrigued mathematicians and philosophers.
+It is called the prisoner's dilemma.
+Imagine two suspects caught by the police.
+The cops believe they have both participated in an alleged crime and wish to get one or both to give evidence.
+As there are no witnesses, this is the only way the authorities will make the charges stick.
+The cops separate the pair and make each the same offer.
+If you turn in your accomplice (each prisoner is told) you will go free and your partner will get 10 years in the clink.
+The basis for this offer is the fact known by the cops and the criminals that the judge in the case has a history of giving reduced sentences and often clemency to guilty criminals who truly show remorse; the judge also believes that co-operation with the police is proof that a criminal regrets his behaviour.
+Complicating matters is the knowledge on the part of both prisoners that they might each turn the other in.
+In this case they would not both get off, but would most probably get less than 10 years each, possibly as little as five.
+And if both prisoners keep their mouths shut, neither will be incarcerated.
+Suppose you are one of the prisoners in this puzzling situation.
+What would you do?
+In a variation on this theme, the problem is compounded by another factor.
+If both prisoners stay mum, the police have a witness who saw them co-operate on a lesser crime, one that would put them both behind bars for two years.
+Again, if only one prisoner turns in the other for the greater crime, the cops will drop the lesser charge against the stool pigeon, who will go free.
+If both turn state's evidence, the five-year rule applies.
+Autobahns
+Now what would you do?
+This kind of puzzle is not merely of interest to intellectuals who study what is called game theory, an area of mathematics advanced by John von Neumann, who also happens to be the father of the stored program computer.
+There are plenty of examples of this type of puzzle to be found in everyday life.
+You may think you are a good enough driver to go over the speed limit, but you may also realise that a world in which everyone drove very fast might be a little on the dangerous side.
+But there are plenty of people who don't agree; you can find them on the autobahns of Germany, where very fast driving is the norm.
+You also might find situations in which you can get on public transport without paying.
+But what would happen if everyone acted that way?
+And there is a very good example of this puzzle to be found in the computer business.
+If you get a big discount and nobody else does, you have a real advantage.
+But if everybody wants (and gets) a discount, you lose your advantage.
+And if everybody starts getting very large discounts and the vendor loses control of the market, not only do the buyers lose all their advantage, but the vendor loses its corporate shirt.
+Like the prisoner's dilemma and its variants, the computer buying problem can have a few complications.
+For instance, if you are docile and pay full price when a lot of people are getting a break, you suffer inordinately.
+You are like the prisoner who is honourably circumspect but who gets turned in by an accomplice.
+When IBM began discounting in earnest, it apparently achieved the immediate goals it had sought.
+Deals that might have been deferred or even lost got closed.
+In situations where a competitor was likely to win business that IBM felt it should get, discounts saved the day.
+At first, customers kept their mouths shut not just because they signed nondisclosure agreements, but because they figured it was in their interest to do so.
+But this phase didn't last very long.
+As discounting become not merely prevalent but universal, the game began to turn in favour of the customer and against IBM.
+The Wall Street Journal once reported a mainframe customer's remark that the Amdahl coffee cup on his desk might look ordinary but it was in fact worth a million dollars, the size of IBM's concession on a hotly contested deal.
+After that story was published, the discounting game, which had long since ceased to be a secret in the computer room, was a factor in the boardroom.
+Information processing executives could expect to be asked how their deals compared to the deals others were getting.
+This development forced information processing managers to socialise with their counterparts at other organisations.
+Gartner Group, among others, provided many such opportunities for its clients and, as getting the right price became a hot strategic matter, it prospered.
+IBM caught onto this but we don't think it really understood what was going on.
+A company that had always been paranoiac about labour unions, it should have noticed that it was suddenly at the mercy of customers' unions.
+Consultants are only one source of pricing information the customers have learned to use.
+There are also leasing companies happy to share information.
+And there is also the press.
+And just as IBM has failed accurately to perceive the power of the customers' unions, it has underestimated the importance of lessors and publishers.
+If you doubt this admittedly bold assertion, consider the impact of the company's decision to cease publishing mainframe prices.
+Fateful
+In the wake of IBM's fateful decision, the relative handful of customers that had not actively sought all the pricing data available were driven to plug themselves into new information sources.
+The autodidactic customer, formerly a common problem for IBM's sales reps, became an absolute fact at every account.
+Even worse for IBM is the nature of customers' new affiliations: they are international, not local, subjecting IBM to price comparisons on a global basis.
+We cannot imagine that this inevitable development is what IBM sought when it hid its mainframe price list.
+And that is why we are so confident IBM — at least at the high levels where policy is made — hasn't a clue about the nature of the large systems customers on which it depends for a considerable portion of its revenue and, we believe, more than half its gross profit.
+For the past few years, IBM has played the game (in a mathematical sense) poorly.
+It has not examined all the options of its customers and the consequences (rewards or penalties) to customers of each option.
+Neither has IBM examined the impact on its own business of customers' various choices.
+It is as if the company in some very deep way has been unable to acknowledge that customers even have choices.
+It seems IBM believes all it has to do to get its way is to come up with the right marketing plan.
+Customers have been far sharper than IBM when it comes to game theory or its real world equivalent, common sense.
+But customers, too, have only recently begun to see the big picture: IBM is not just going through a bad patch, it is in serious, perhaps critical, trouble.
+A few more years like 1992 and IBM will be plain out of business.
+Everyone has jumped on the bus without paying and now the whole transport system is going under.
+It's too bad John von Neumann isn't alive any more.
+IBM used to listen to him.
+MUSINGS ON THE COMMON OPEN SOFTWARE ENVIRONMENT: IT ISN'T UNIFIED UNIX, IN MORE WAYS THAN ONE
+We couldn't help but notice that some of the coverage following whatever it was we were witness to at UniForum referred to it as ‘Unified Unix.’
+Well, it may be a catchy phrase, but what was announced as COSE — Common Open Software Environment — wasn't ‘Unified Unix’— not philosophically, spiritually or literally.
+‘Unified Unix,’ as it turns out, was an entirely different kettle of fish.
+A month or more before the March 17 announcement, IBM Corp and Hewlett-Packard Co were partner-less and trudging around this huge all-encompassing mother of all application programming interfaces that they called ‘Unified Unix’— despite Digital Equipment Corp's recent appropriation of the name — to independent software vendors, trying without success to get their support.
+It was said to be a soup-to-nuts A-to-Z kind of thing and the software vendors rejected it out of hand as offering them nothing.
+There was no agreement on the kernel (but then COSE doesn't specify one either); it wasn't as desktop-centric as COSE nor as graphical interface-oriented nor as networked.
+It didn't pick up specific vendors' implementations of technologies the way COSE purports to do either.
+But it was what they meant when they said ‘Unified Unix.’
+Meanwhile, the companies that rushed to endorse COSE after the announcement, such as the database companies, are now trying to figure out what exactly they backed.
+With COSE being such a ‘last orders’ affair, they weren't given much time to consider it when they were asked for support, apparently by Sun Microsystems Inc.
+Public relations kits
+It all happened just the day before the announcement, and there were all those supporting press releases to write, print and stuff into public relations kits.
+By the way, if anyone has a complete collection of all the iterations of main press release, we'd love to see how it changed.
+Unix System Laboratories Inc president Roel Pieper said in a talk with a bunch of software developers that he might license the tag ‘Desktop Unix’ to his COSE partners but never the unadorned word Unix.
+Industry watcher Nina Lytton publicly sized up the COSE alliance as the ‘triumph of the obvious.’
+In its March 17 press release, COSE gave as the reason for its existence as ‘increased customer demand for consistent technologies across multiple systems, greater technology choice, increased cost savings and quicker time to market.’
+Goldman Sachs vice-president John Levinson says this statement should actually be read ‘no vendor operating system value-add, commoditisation of hardware and software, faster price reductions and shorter product life cycles.’
+COSE may make a pass at enriching the Motif specification with stuff from Open Look but the effort, if there is one, probably won't get very far.
+SunSoft president Ed Zander was probably ill-advised suggesting at the announcement that serious changes would be made.
+Meanwhile, Unix System Laboratories Inc is probably going to have to make a business decision about whether to buy in Motif from the outside.
+The COSE people are working on multiple areas beyond the five or six initially outlined at the announcement.
+They intend to give us some notion of what they are when they roll out the application programming interface in 90 days.
+COSE prides itself on its un-organisation: no dues, no structure, no consortium, no budget, and it's hard to reckon how such a motley crew, left to its own devices, can even begin to expect to defeat Bill Gates, master of the media, without a common war chest and a seriously orchestrated propaganda campaign.
+The game afoot has gone way beyond technology into the realm of perception, where Microsoft Corp holds almost total sway.
+And what do you suppose the Dutch word for COSE is?
+We suspect our Dutch-speaking friends Roel Pieper and Wim Roelandts cooked it up.
+Then Wim went off and tagged IBM and when IBM and Hewlett agreed to support a common position Sun decided it couldn't resist, especially with Novell Inc nudging it on.
+Santa Cruz Operation Inc and Univel Inc are only supporters; not key players.
+WIND RIVER UNVEILS NEW RELEASE OF ITS VXWORKS ENVIRONMENT
+Alameda, California-based Wind River Systems Inc has introduced version 5.1 of VxWorks, its real-time embedded development environment.
+The new release includes enhancements to the VxWorks operating system, a new set of  software tools and improved communication links between the two environments.
+The VxWorks operating system now complies with ANSI C specifications and supports Posix.4 real-time extensions, the company says.
+It includes improved memory management functions that provide memory partitions for a variety of Unix-compatible routines.
+The partitions are used to combat memory fragmentation and to enable users to configure the size of target systems' memory pools.
+New software modules include VXVMI, a virtual memory tool, which is designed to set up virtual memory  capabilities on target systems for run-time and debugging purposes.
+It also comes with a programmer's interface that enables users to customise virtual memory features.
+VxMP, Wind River's multiprocessing module, extends VxWorks support for system-wide control of up to 20 processors.
+VXMP is based on a shared memory architecture, which reduces run-time memory requirements and extends the message queuing facilities across a network.
+Wind River has also enhanced its WindX X Window System client package to support Motif.
+The product now enables users to develop applications on target machines and then graphically display them on Unix workstations or X-terminals.
+Enhanced communication support includes new remote procedure calls, which enable VxWorks tasks to be carried out on other systems; and extensions to semaphore signals — a semaphore is a special-purpose data type.
+The new VxWorks version 5.1 is available for a wide range of Unix implementations including Hewlett-Packard Co HP-UX, Digital Equipment Corp Ultrix, IBM Corp AIX and Sun Microsystems Inc SunOS — support for SunSoft Inc's Solaris will follow later on this year.
+The product, out now, is priced at $20,000 — £15,000.
+RETIX EXCHANGES ISDN TECHNOLOGIES WITH JTEC PTY
+Santa Monica, California-based Retix Inc has announced a global technology transfer agreement with Jtec Pty Ltd from somewhere Down Under, through which it will incorporate the latter's ISDN terminal adaptor technology into the hot new Retix RISC-based RouterXchange 7000 multiprotocol router.
+In return, Jtec will also incorporate the Retix routing technology into its J1000 series of ISDN Access Controllers.
+PROTEON MAKES HIGH END ADDITION TO ITS CNX FAMILY OF BRIDGE-ROUTERS
+The Leatherhead, Surrey-based UK arm of Westborough, Massachusetts-based Proteon International Inc has a high-end addition to its CNX family of bridge-router products for mixed local network and IBM Corp SNA environments.
+The CNX 600 is based on a second-generation RISC-based multiprocessor architecture, and is claimed to offer 100,000 packets per second performance.
+The product uses the company's Transportable Software Architecture to support protocols including TCP/IP, Frame Relay, X25, SMDS and T1/E1.
+Open Shortest Path First and Multicast OSPF routing protocols are also supported.
+The CNX 600 incorporates Proteon's Internetworking Traffic Management technology, which is claimed to guarantee secured bandwidth availability for critical SNA traffic in a mixed IBM and non-IBM network; the software is also claimed to enable users to control wide area network bandwidth allocation from a central site through protocol prioritisation and bandwidth reservation systems.
+Quad wide area network and local network boards support up to 20 Ethernet and Token Ring networks, as well as five FDDI networks.
+The product is also claimed to have enhanced diagnostic capabilities to manage enterprise-wide networks as well as an Integrated Boot Device, which uses Flash memory, a floppy drive for loading software upgrades and for data collection, and SNMP time-stamped event logging with a real time clock.
+Finally, an internal modem is included for remote diagnosis.
+Available now, the CNX 600 has a base price of £12,900, with an average configuration priced at £17,200.
+UNIX LABS BEATS ON JUDGE TO REVERSE HIS BERKELEY SOFTWARE DECISION
+In the matter of its lawsuit against Berkeley Software Design Inc for copyright infringement and misappropriation of trade secrets, Unix System Laboratories Inc has decided to file a petition for reconsideration with Judge Dickinson Debevoise before it goes over his head to the Circuit Court of Appeals.
+Unix Labs is asking the judge to reconsider his recent denial of a Unix Labs bid for a preliminary injunction halting distribution of any Berkeley Software code.
+Unix Labs' lawyers claim that the judge came to an incorrect conclusion of law based on an incorrect understanding of the facts over whether 32V Unix should have carried a copyright notice or not.
+Unix Labs says it shouldn't — and didn't — have one because it was a limited publication, subject to a different set of rules than software that is generally circulated.
+Unix Labs will take it to a higher court if the judge doesn't overturn the ruling he made himself.
+The hope on the part of the Berkeley Software contingent that Novell Inc will quash the suit once it finally takes Unix Labs over may turn out to be a forlorn one.
+Unix Labs says that Novell has been kept abreast of its strategy and efforts in the case, and has indicated its support.
+ITINERIS SUBSCRIBERS CAN USE PHONES WHEN THEY STRAY ACROSS SWISS BORDER
+Although France Telecom's Itineris Groupe Speciale Mobile phone service is still in its first six-month pilot phase, the operator has concluded a roaming agreement with Swiss PTT Telecom and a sales distribution agreement with Medes Communication SA, a joint venture between Daimler-Benz AG's subsidiary Debis GmbH and the Swiss computer distributor Metro AG.
+The roaming agreement, which the operator says is the first of several to be signed this year, already enables Swiss users to call into the region of France that extends from south of Auxerre in northern Burgundy to Marseille and Nice.
+French Itineris users will not be able to call into Switzerland until July, when the operator makes its Option Europe available with GSM subscriptions.
+At that time, according to a France Telecom spokeswoman, Itineris users will have access to the entirety of the Swiss GSM network that will be operational.
+France Telecom says its Itineris network, which now counts some 3,500 subscribers, presently covers the axis between Lille Paris Lyon Marseille Nice.
+By the end of the year, it should cover other major cities, including Nantes, Bordeaux and Strasbourg.
+Victoria Hernandez, telecommunications analyst for InfoCorp Europe, Paris, said the French and Swiss operators had been discussing the agreement for some time, trying to iron out the administrative problems involved.
+For instance, she noted, a GSM subscription in Switzerland costs approximately half that of one in France.
+She added that France Telecom wanted the Swiss PTT to pay a fee for the use of the French GSM network.
+By mid-1993, France Telecom says it expects to have signed other roaming agreements with Germany, Italy, the Scandinavian nations, and the UK.
+France Telecom says the Europe Option will give French users access to all of the other countries with which it has signed roaming agreements.
+A spokeswoman said she had no information on the price for the Europe option.
+At the end of this month, the operator plans to launch a major sales campaign and to open several Itineris sales locations.
+The agreement with Medes is part of that sales effort.
+Medes, which is held 56% by Debis and 44% by the German-Swiss Metro, has 125 French sales outlets and did $182m of business in France in 1992.
+France Telecom says Metro is the world's second largest distributor of information systems, with revenues of over $4,500m.
+Medes claims to be the fourth-largest seller of GSM equipment in Germany.
+LOU ABEL TAKES HELM AT X CONSORTIUM
+A replacement for X Window pioneer Bob Scheifler as head of the X Consortium has been found in Lou Abel who must now raise funds as the Massachusetts Institute of Technology withdraws support and figure out the consortium's true charter especially now that the industry has established a trade association, the X Industry Association.
+Abel, who has a CAD/CAM background, worked for himself as Procon Systems Inc.
+He's been with Data General Corp, Via Systems Inc and Digital Equipment Corp.
+COMPUTERVISION CHIEF SHIELDS HAS TO CARRY THE CAN FOR POOR PERFORMANCE
+John Shields, chief executive of Bedford, Massachusetts-based Computervision Corp since 1990, has been made to carry the can for the company's disappointing reflotation last summer, and has been fired after losing the confidence of its board of directors.
+He is succeeded by Russell Planitzer, the company's chairman and the leader of the buyout group that has struggled since acquiring the former parent, Prime Computer Inc in 1989.
+The board said its actions were based on ‘a wide range of factors including financial results that are below the board's expectations.’
+Computervision is expected to report a loss for the quarter that ended last week, after earning $4.8m in the prior quarter.
+The shares, floated at $12, are now down at $4.875.
+NEWLY-INDEPENDENT McDONNELL DOUGLAS INFORMATION SYSTEMS SETS OUT ITS STALL
+The new free-standing McDonnell Douglas Information Systems Ltd, created as a buyout from St Louis-based McDonnell Douglas Corp, has now translated its 1992 figures, presented briefly last month, into US dollars, showing operating profits of $30.1m, up 22.8% on the 1991  figure .
+Turnover was $247.5m, down 8.8%.
+The Hemel  Hempstead , Hertfordshire company is now owned by a group of international investors led by Baring Capital Investors Ltd, London.
+Operational control of the company will remain with the existing management team under Jerry Causley as chief executive.
+The company retains its global ambitions, and has worldwide rights to all software and hardware products, and says there will be no change to the operational structure in any of the countries in which it operates.
+The company, which made its name with the Microdata Reality version of Pick, running on machines built in-house, has been moving over to software and services, which now account for 58% of total business, and on the hardware side, the company now buys in its machines.
+It plans to continue to increase its investment in the development of application software and associated software tools.
+The company employs 1,750 people worldwide, with 800 technical personnel doing design and development of application software for health services, central and local governments, municipal police departments, libraries, international banking, discrete manufacturing, and the payroll, personnel and pension markets.
+The firm has US headquarters in Irvine, California.
+SHARE & BOND ISSUES
+Santa Cruz Operation Inc, Santa Cruz, California has now filed for its initial public offering, saying that it plans to sell 4.3m shares, and will use the proceeds for working capital.
+No target price was available.
+Underwriters are Goldman, Sachs & Co and Donaldson, Lufkin & Jenrette Corp.
+OTHER FINANCINGS
+Symantec Corp, Cupertino has raised $25m in a private placing of 7.75% convertible subordinated notes due February 28 2001.
+The notes convert to common stock at $12 per share.
+The investors are Morgan Guaranty Trust Co of New York, as trustee for a commingled pension trust fund, and the Northwestern Mutual Life Insurance Co.
+Proceeds from the offering, which was managed by Donaldson Lufkin & Jenrette Securities Corp are for working capital.
+COMPANY RESULTS
+Advanced Micro Devices Inc has reported first quarter net profit down 27.6% at $61.4m, on turnover static at $407.4m; net per share fell 30% to $0.63.
+Electronic Associates Inc has reported fourth quarter net losses of $1.9m down from losses of $3.6m last time, after $285,000 pre-tax non-recurring charges this time and $4.6m last time, on turnover down 10.5% at $10.6m; net losses for the year to December 31 stood at $2.5m down from losses of $3.7m last time, after $4.7m non-recurring charges last time, on turnover that fell 11.6% to $37.3m.
+General Computer Corp has turned in third quarter net up 78.5% at $391,000, on turnover that rose 17.2% to $4m; net profit for the nine months was up 147.7% at $587,000, after $150,000 charge related to the settlement of litigation last time, on turnover that rose 11.3% to $10.7m.
+Net earnings per share rose 61.5% to $0.21 in the quarter, 113.3% to $0.32 in the nine months.
+The 1993 figures include the results of Mavis Industries Inc, since it was acquired on August 1, 1992.
+Comparisons are made with restated 1992 figures.
+Interdigital Communications Inc has reported fourth quarter net losses of $17.4m up from losses of $6.9m last time, after $15.1m non-recurring charges this time and $7.2m last time, on turnover down 10.8% at $15.7m; net losses for the year to December 31 stood at $22.6m up from losses of $6.2m last time, after $925,000 gains last time, on turnover that rose 25.9% to $42.6m.
+The 1992 figures include the results of SCS Mobilecom Inc and SCS Telecom Inc, which were acquired in October 1992.
+LDDS Communications Inc saw fourth quarter net losses of $47.8m against profits of $11.7m last time, after $87.1m pre-tax non-recurring charges and $5.8m extraordinary charges this time, on turnover up 20.3% at $213.4m; net losses for the year to December 31 stood at $8.1m against profits of $36.8m last time, on sales up 29.6% to $800.8m.
+Comparisons are with restated figures to reflect the acquisition of Advanced Telecommunications Corp on a pooling-of-interests basis on December 1992.
+Sierra On-line Inc saw third quarter net losses of $1.3m against profits of $2.6m last time, on turnover up 12.1% at $18.3m; net losses for the nine months stood at $2.2m against profits of $3.4m last time, on turnover that rose 13.3% to $37.8m.
+Comparisons are made with restated turnover figures.
+AEG AG has reported net profit for the year to December 31 equivalent to $6.2m against a loss last time of $390m, on turnover that rose 7.6% at $7,247m.
+No per share figures were given.
+The figures are converted at $0.625 to the German mark.
+‘AFFORDABLE’ GROWTH PATH
+As well as announcing the new ValuePoints (see front), IBM Corp's Personal Computer Co cut prices on the multiprocessing version of its PS/2 Server 295 by 30% and added a PS/2 Server 195 fault-tolerant system that offers an ‘affordable’ growth path to the PS/2 Server 295 with starting price under $20,000.
+DEC LOSS
+Digital Equipment Corp has lost another top staffer: Martin Hoffmann, its general counsel and a vice-president, resigned to pursue other interests, the company said.
+AMD HOPEFUL
+Despite fall in first quarter profits (see page five), Advanced Micro Devices Inc says it is hopeful that it will have record earnings for the third consecutive year: sales of Flash memories increased by more than 50% over the December quarter, while unit shipments of Am386 microprocessors was another record.
+SOUTH AFRICAN INVITATION
+The South African government is inviting tenders for two cellular telephone licences it plans to award, with a mid-June deadline for applications: the successful bidders will have to pay the government about $33m upfront for the licence and 5% of turnover in annual licence fees, the Financial Times reports; Cable & Wireless is expected to bid for one of the licences in partnership with the local M-Net pay television station.
+INTERNATIONAL MICROELECTRONIC PRODUCTS EXPANDS
+International Microelectronic Products Inc, San Jose has expanded its silicon foundry services, adding a ‘unique’ low-voltage process technology, known as 3MOS, that meets 3V power supply requirements for analogue, digital and mixed-signal designs: the company says it is now offering 3MOS, EECMOS, a family of 0.8 micron CMOS processes and specialised BiCMOS technologies.
+NEC FORECAST
+NEC Corp is forecasting unconsolidated net profit of $430m in the fiscal year just started, up from an estimated $344m for the fiscal 1993 just ended; the company sees strong demand for semiconductors in the US and Southeast Asia, and looks to launch of new personal computers, and domestic economic recovery around this summer following the government's economic package, including the expected supplementary budget, NEC said.
+AT&T TAKES ROLM MEXICAN INTERESTS
+AT&T Co has bought all the Rolm Co telephone switches in Mexico, and will now maintain and do all expansion work on the Rolm equipment installed there, Reuter reports.
+MICROSOFT NEGOTIATIONS FAIL TO PREVENT MICRO FOCUS PLUNGE
+That statement on Monday about ongoing negotiations with Microsoft Corp, intended to arrest a long slide in the share price of Micro Focus Plc (CI No 2,143) failed to prevent the shares shedding another 78 pence in Monday trading, leaving them at 2,110 pence, a far cry from the £30 they touched on February 15: acceleration of the trend towards downsizing should if anything bring increased business to the company for its Cobol products over the next two or three years, and the signs are that as usual, the market has been overdoing things both ways — the shares were probably too high at £30 but are probably close to a bargain at £20.
+AGREEMENT NOT TO SUE
+Brooktree Corp, San Diego and Advanced Micro Devices Inc have settled all pending litigation and agreed not to sue each other on patents related to colour palette chips: the settlement provides for payment to Brooktree of $26.8m from an earlier award of cash damages for patent and mask work infringement and dismissal of all other litigation pending between them.
+SOFTLAB NAMED
+IBM Corp's Programming Systems division has named the Softlab GmbH subsidiary of Bayerische Motoren Werke AG to the International Alliance for AD/Cycle: Softlab says that its Maestro II products for developing client-server applications will be made compatible with the AD/Cycle local network-based workgroup development environment.
+ULTIMATE ALLIANCE WITH BELL ATLANTIC
+East Hanover, New Jersey-based Ultimate Corp has formed a strategic alliance with Bell Atlantic Corp's Bell Atlantic Network Integration, the aim being to combine the Bell Atlantic unit's expertise in enterprisewide network integration with Ultimate's experience in mainframe down-sizing, network monitoring and management, the companies declared.
+TI SUGGEST PRICE CUT
+Texas Instruments Inc cut suggested retail prices on its personal computers by $100 to $700: the TravelMate WinSLC is cut 5% to $1,900 and the TM4000 Win models are up to $700 cheaper; it also introduced a new Travelmate 4000 model, with an 80486 microprocessor, at $3,100.
+DUTCH TELEPHONE PROFIT
+The Dutch telephone service operator Koninklijke PTT Telecom Nederland NV, due to be privatised next year, reports net profit for 1992 up 1.5% to the equivalent of $741m on turnover up 8.2% at $6,128m.
+RETURN TO VENDOR
+Not too often that a company goes back to a previous vendor after switching, but Hydro Mississauga Ltd of the eponymous Ontario town, is returning to the Hewlett-Packard Co HP 3000 with Mitchell Humphrey & Co financials, after three years of using an IBM Corp 4381: the change is being made in an effort to save $2m in operating costs and gain performance improvements, dumping the 4381 for an HP 3000 Series 957 running HP MPE/iX; it says the power of the new machine has enabled it to reduce its operations shifts from three to two and to cut overnight batch processing from 11 to four hours, and one table-loading job was shortened from 14 hours to 20 minutes — and on-line response time is ‘significantly improved’; it switched from an HP 3000 Series 70 that lacked the capacity needed in 1989, moving to the 4381 with Dun & Bradstreet Corp software.
+AST ENTERS PEN COMPUTING MARKET
+Irvine, California-based AST Research Inc has entered the pen computing market with launch of the PenExec PenTop notebook, a direct result of its strategic alliance with the TE Electronics Grid Systems arm of Tandy Corp: the $3,000 machine comes in a 11.6″ by 9.4″ by 1.6″ 5.5 lbs black magnesium box, and runs for up to three hours of continuous computing, supports PCMCIA; offers up to 200Mb disk and up to 20Mb main memory; pre-installed software includes MS-DOS 6.0, Windows 3.1 and Windows for Pen Computing, and Slate Corp is offering an AST pen essentials package of pen software applications and accessories — LooseLeaf Notetaker, Delrina WinFax Pen, Day-Timer Pen Scheduler and PenBook Business Reference Pages; the PenExec also comes with a demo version of PenWare Inc's PenCell spreadsheet; the machine uses a 25MHz 80386SL and 2Mb RAM and 120Mb disk standard, one Type II PCMCIA slot and one external 3.5″ 1.44Mb floppy drive; and it includes keyboard with 79 keys as well as the cordless pen.
+THE LIVING AND THE DEAD
+Yes but why did Hitachi Data Systems Ltd choose the name Osiris for its new mainframe Unix combination (see front): in the clearest indication possible that it regards the MVS mainframe as doomed, it has produced a colourful flyer that explains that Osiris was an ancient Egyptian king who after painful adventures became a god, and chose to act as an intermediary between the living and the dead, looking after the souls of the departed and giving the living the hope of eternal happiness in the other world; ‘In providing a quality solution which integrates open systems with existing System 370 and 390 environments,’ the company says, ‘HDS provides the best of both worlds’(the living and the dead, that is).

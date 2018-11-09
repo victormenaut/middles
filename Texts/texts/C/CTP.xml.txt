@@ -1,0 +1,287 @@
+
+
+IBM AD/CYCLE STRATEGY IN DISARRAY AS IT TURNS TO AIX CASE
+IBM Corp issued a statement last week confirming that it is ‘expanding the role of AD/Cycle to support application development at the workgroup level’— moving to the local area network-based software engineering environment it is already offering for its AIX Unix users — but managed to avoid mentioning what was intended to be the core of AD/Cycle, Repository Manager/MVS at all.
+The company is understood to have abandoned development of the Repository altogether, and the switch of strategy leaves the whole AD/Cycle concept in complete disarray, though the company says that it is reaffirming support for the AD/Cycle tools available: to do anything else would leave the company open to all manner of retaliation from AD/Cycle International Alliance Members.
+The company claims that customers say that they want to do their development at the workgroup level in an open systems environment, on a range of hardware and under different operating systems, and to share data in a decentralised development environment, rather than have it all tied to the Repository on the mainframe server.
+IBM indicates that it will salvage what it can from the collapse of its strategy, saying it will bring together ‘the best platform functionality from our AD/Cycle and AIX CASE work.’
+IBM says that it will bring into AD/Cycle ‘many of the features existing in the recently delivered AIX Software Development Environment Workbench/6000’— which sounds like a signal victory for and endorsement of Hewlett-Packard Co's approach since Workbench/6000 is based on the Softbench Broadcast Message Server licensed from Hewlett-Packard.
+IBM, which had insisted that there would be parallel and separate development strategies for MVS and OS/2 on the one hand, and for Unix on the other, now says that the switch will lead to a consistent development environment for OS/2 and AIX.
+A single object-oriented class library for user interface code will make it easier for tool builders to move between the CUA91 Common User Access standard of another collapsed IBM initiative, Systems Application Architecture, and Motif in AIX CASE.
+IBM also says that AD/Cycle and AIX CASE tool builders will be able to support both OS/2 and AIX development systems ‘with a minimum of incremental effort’ which seems to suggest that the same will apply to applications developed with either, making it easier for users to hedge their bets by making their new mainframe applications migratable to the generality of Unix environments.
+IBM will indeed also incorporate the Portable Common Tools Environment from the European Computer Manufacturers Association.
+An AD Information Model for sharing development data will use an object-oriented database, IBM commented.
+ACE IS OVER AND OUT — MIPS RiscOS REACHES END OF LINE
+In case you hadn't figured it out already, or have been vacationing in the Amazon rain forest, ACE is well and truly dead.
+Insiders say any semblance of an organisation has been abandoned.
+There are no more meetings, no more phone conferences and the remaining participants are getting their money back (UX No 392).
+In the meantime, public relations impresario, Regis McKenna Inc, has been hired to distract attention away from ACE's bevy of erstwhile operating systems and on to the Advanced RISC Computing hardware.
+The reason being that some weeks ago MIPS Technologies Inc kidnapped the ACE application binary interface and substituted MIPS RiscOS for all the other previously official ACE operating systems.
+In return, MIPS promised to pay for everything the ACE loyalists, largely the die-hards in the old Unix SVR4-loving Apache Group, needed for an independent software vendor recruitment drive: all the machines, all the binaries, all the technical support.
+The offer probably saved Sony Corp, which was reportedly ready to rustle up some 50 machines and software, costing in the neighbourhood of $250,000.
+The ISV programme supposedly kicked off last week despite a quiet little ruling handed down a few days before by MIPS' new parent, Silicon Graphics Inc, that says RiscOS 5.1, due in the fall, is the end of the line.
+After that, the system, regarded pretty much as Unix SVR4 with proprietary extensions for real-time and multi-processing, goes on a maintenance-only basis.
+This new twist, hardly an enticement to any self-respecting software developer, would seem to open the door for Unix SVR4.2 to make a move at the next Apache pow-wow in August.
+That is, if it can overcome the notion of some Apaches, who reportedly think some provision ought still to remain for Microsoft Corp Windows NT.
+When will they learn?
+NOBLE CLAIMS TRANSPORT INDEPENDENCE FOR EZ-RPC
+Two-year old Natick, Massachusetts-based networking outfit, NobleNet Inc, last week launched a transport-independent, remote procedure call (RPC) compiler — EZ-RPC — at Sun Microsystems Inc's Open Software Expo in Anaheim, California.
+NobleNet describes the EZ-RPC as an ‘open’ C-based source code generator, which enables developers to distribute specific subroutines of an application — accessing the same RPC libraries that run under the Network File System — across multi-vendor networks to which ever host CPU is best suited to process the call.
+It is claimed to support Sun's RPC, as enshrined in the company's Open Network Computing environment, as well as the Hewlett-Packard Co/Apollo version of RPC found in its Network Computing Systems (and of course in the Open Software Foundation's Distributed Computing Environment).
+Code generated by EZ-RPC will run on different protocols without modification, NobleNet says, although a tailored version for DCE will be available when OSF's DCE technology finally arrives as a bundled, commercial package.
+While wrinkles may be beginning to appear on Sun's ONC — and the market waits on a fully-configured commercial DCE package — NobleNet is positioning itself to mop up the interim business, targeting developers with mixed proprietary and open architectures and non-communicating RPC's.
+The privately held company's main concern for the time being is, it says, to get the toolkit on to as many platforms as it can, and is eagerly offering itself up to OEMs — Sun being the prime target of its attention, with three million ONC licencees under its belt.
+Muscling its way into the Unix market, with a $10,000 price tag and no run-time fees, NobleNet is looking to take fish out of the net of its main rival, Boulder, Colorado-based Netwise.
+Netwise's RPC-Toolkit costs a hefty $40,000 plus run-time fees for its network RPC library.
+Netwise is eager to bolster the Unix side of its business, but admits ‘NobleNet has obviously seen the light with RPC technology that the rest of us didn't…they're going to be tough to beat’.
+The toolkit runs on Sun DEC, IBM, Hewlett-Packard Co Unix workstations and under Santa Cruz Operation Inc Unix and SunSoft Interactive Unix.
+INDUSTRY HOGS WORK ON OBJECT STANDARDS
+William Fellows
+Unix International, the Open Software Foundation, X/Open Group Co Ltd, ISO, the Network Management Forum and the Object Management Group are co-operating in a joint effort to define some generic specifications for managing resources (as objects) in distributed, object-based systems.
+The loose grouping, which has only met on two occasions, is known unofficially as HOG, the Hilton Object Group, after its  inaugural meeting at the Boston Hilton last year.
+HOG's first aim, explains X/Open's Martin Kirk, was to ensure that the various participants were not all working separately on the same things — but at the same time, that all the appropriate ground was being covered.
+Members of HOG are seeking to define and describe specifications for objects that will be common, interoperable features of future, productised distributed object (and object management) infrastructures.
+All are agreed that laying down some ground rules now will improve the prospects for interoperable products in the future.
+Kirk says only one set of definitions is required to describe objects that are managed in a system, whether they be a system accounting mechanism, a device driver, a processor, a file system or a user.
+Once basic definitions have been established, individual groups or companies can take the work forward and do specific implementations — for a Motorola Inc processor, a DEC user or an SVR4 file system, for example.
+HOG will define an object's attributes — what parameters can be set and what information can be retrieved; the ‘methods’ associated with that object — what can be done to it and what it can do; and its notification — what the object emits (such as warning to tell the system that a file is nearly full, for example) and what it can be read to.
+HOG members stress the group is concerned only with generic definitions, and whilst OSF is said to be taking a lead role in new work, HOG members have already agreed to endorse those previously established by the Network Management Forum.
+Under the auspices of a previous coming together of the same organisations found in HOG (plus one or two others), the Forum has already put together a set of Open Management Interoperability Points — OMNIpoints — which define interoperable network management products.
+In the library are 35 generic classes which have already been accepted by the industry and are being customised by vendors to suit their applications.
+When more of the outstanding work is complete, HOG will meet again to decide what can be used.
+‘Much more will happen next year,’ says Kirk.
+WizDom
+The commercial marketplace, however, does not wait on the outcome of standards efforts, which are traditionally interminably slow processes.
+Austin, Texas-based Tivoli Systems Inc's distributed systems management software, WizDom, already incorporates proprietary object definitions in its schema, although Kirk believes Tivoli, and other players in this market are sure to map their conventions on to HOG's specification: he says there should be no problem achieving this.
+Indeed Tivoli — who's software already lies at the heart of the Open Software Foundation's Distributed Management Environment and Unix International's distributed vision of the future, Atlas — has already agreed to make WizDom compliant with the Object Management Group Request Broker specifications under its agreement with SunSoft Inc.
+Sun Microsystems Inc's software arm is using the framework as a component of its Project DOE, Distributed Objects Everywhere, which is a joint development effort with Hewlett-Packard Co (UX No 378).
+Atlas
+Meanwhile, Unix System Laboratories Inc is claiming that it will be first out of the gate with a commercial version of WizDom by mid-1993.
+WizDom forms part of USL and Unix International's distributed vision of the future, Atlas, where it lines up alongside OSF's DCE, to which USL will add ‘at least’ half a dozen ready-to-run system management applications by the time it comes to market.
+Already penned in are the Siemens Nixdorf Informationssysteme AG's print manager and NetLabs Inc's NetLabs/Manager.
+Add backup and restore, startup and shutdown and software installation to that for starters.
+Whilst DCE gets UI's blessing, it describes OSF's own Distributed Management Environment as ‘too large and  unwieldy ,’ although it supports its general aims.
+OSF's DME includes WizDom for systems management and Hewlett-Packard Co's OpenView for networking, which UI says means separate management databases and collection of licences from Tivoli, HP and OSF for DCE.
+The cost, it believes, will be huge.
+UI wants a simplified structure, and expects USL to expand WizDom to do what HP's OpenView accomplishes.
+TCP/IP
+To maintain the advances that it has made in the last few years, Unix needs not only a ‘viable’ desktop environment, argues UI, but an attractively sized market for developers to aim at.
+A common set of robust application programming interfaces for graphical user interfaces and networking would do to start with says UI, which it believes it could get most of the community to commit to, even if each has a different implementation (UX No 391).
+To start the ball rolling it says it'll have a new API for TCP/IP defined by year-end — there isn't one at present— with interface and desktop extensions to follow early in 1993.
+LSI PRE-EMPTS TSUNAMI WITH 40MHz SPARCKIT: SPARC 2 CLONES ‘FOR UNDER $6,000’
+LSI Logic Corp is trying to help Sparc cloners compete against a Sun machine that hasn't been announced yet, the low-end colour box based on the now-fabled Tsunami chip.
+This week LSI will announce a 40MHz Mbus SparKit it says will let a cloner bring a colour Sparcstation 2 compatible to market for under $5,000.
+LSI is guessing the Tsunami box, due this fall, will offer the same performance as a Sparcstation 2 with colour for between $5,000 and $6,000, according to product marketing manager Hiral Gheewala.
+LSI says a SparKit box would offer 8MB internal and a 224MB hard drive at under $5,000, a price point cloner Tatung Science & Technology figures can be pulled off.
+The SparKit LSI is announcing is the self-same kit it was supposed to come up with almost two years ago — one that would have produced a Sparcstation 2 clone for $18,000.
+The only change made to the design in the intervening time was making the device surface mount rather than CPGA, LSI said, a factor that contributes to its cost-effectiveness.
+Since it is LSI's own proprietary design rather than Sun's this time around no royalties will have to be paid to Sun, another factor in its economy.
+Lastly, LSI has put Super VGA graphics capabilities on board, providing cloners with other savings.
+The SparKit-40/Mbus manufacturing kit reportedly includes manufacturing diagnostics and everything a cloner needs to knock off a Sparcstation 2 compatible for $10,000.
+Being Mbus-based, the unit could house a uniprocessor Viking chip and produce a low-end Sparc 10 clone priced between $12,000 and $13,000.
+The SparKit-40 chipset itself includes a new L64831 integrated integer/floating point unit, reportedly offering the highest floating point performance in its class, MMU, DRAM control, Mbus interface, Mbus-to-Sbus interface, Sbus DMA and Sbus graphics controller.
+SparKit-40/Mbus supports Solaris 1.
+x from SunSoft and will sell for $630 in quantities of 100 kits a month.
+Production shipments started this month with volume expected in August.
+LSI is making the single-chip L 64831, designed specifically for uniprocessors, available as a separate product either surface mounted for $168 or CPGA for $206 in 100 quantities.
+LSI estimates its floating point at 15% over the existing LSI part and 25% better than competitors'.
+…
+PERFORMANCE TECHNOLOGIES THE FIRST CUSTOMER
+Rochester, New York-based Sbus and VMEbus product maker Performance Technologies Inc is apparently LSI Logic Corp's first capture for its new SparKit-40/Mbus.
+Performance Technologies was showing off a new system last week targeted at OEMs and integrators active in the real-time and embedded markets.
+The PT-SYS5000 Sbus/System features up to eight Sbus slots.
+The 29 MIPS system includes memory expandable from 2Mb to 64Mb, two asynchronous serial ports, an Ethernet port and a SCSI-2 subsystem.
+It can be configured with or without disks.
+Delivery begins in late September priced at $5,500 for four Sbus slots or $6,000 with eight.
+LynxOS is an option.
+NOW HYUNDAI READIES SPARC 10 CLONES
+Determined not to be left behind as things begin to hot up in the Sparcstation 10 clone market, South Korean giant Hyundai Electronic has announced plans to release its first Sparc 10 effort in October, along with other Sparc-compatible products.
+The company, whose workstation and systems business is now housed in a wholly-owned subsidiary called Axil Workstations in San Jose, California, reckons Sun Microsystems Inc will only have a month's headstart on it in the SuperSparc market.
+Hyundai's Sparcstation 10-compatible, the HWS-S310–30, uses Texas Instruments Inc's 33MHz ‘Viking’ SuperSparc and will come with a base configuration of 32Mb memory, 434Mb disk and 19″ colour display, priced at $14,000 against Sun's Model 30 which is $20,500.
+The Hyundai HWS-SS10–41, with the same configuration is expected to debut at $19,000 — Sun's Model 41 costs $27,000.
+Without memory, disk or display the SS10–30 is $9,000, $13,400 — SS10–41.
+Add-on memory modules are $700 for 16Mb and $2,800 for 32Mb, it says, in contrast to Sun's $13,000 and $64,000 respectively.
+Rumours of a laptop version are also doing the rounds.
+Axil says it is also working with third parties on Sun-compatible applications.
+Hyundai, meanwhile, is already partnering Metaflow Technology on the high-performance Thunder Sparc, formerly the abandoned LSI Logic development, Lightning, and has poached staff from Sun, IBM, MIPS, Pyramid Technology and Opus Systems to aid that effort.
+Hyundai has also been helping Empress Software do a Korean version of its RDBMS and 4GL under X11 and Open Look.
+It'll become an Empress VAR when the implementation is finished and bundled with its Sparc and Pyramid machines.
+Hyundai plans to port the system to other platforms as well.
+UNIX SOLUTIONS DUAL-CPU SPARC 2 CLONE FOR $11,000…
+Sparc-builder, Unix Solutions Ltd, Dunstable, Bedfordshire, says it expects to receive an initial Sun Microsystems Inc IPX-type workstation from its US partner, the Colombus, Ohio-based Pinnacle Data Systems, by the second week in August.
+As a prelude to its promised Sun 10 SuperSparc clone (UX No 392), the thing will initially come with one or two 40MHz Cypress Semiconductor Corp Sparcs of the sort used by Sun in its Sparcserver 600MP series.
+A two processor configuration should deliver 57 MIPS.
+With two Sbus slots, one Mbus slot and 1Gb disk, Unix Solutions quotes a price of $11,000 for delivery in September.
+…
+FEELS THE HEAT FROM UNIX SYSTEM LABS OVER NAME
+With its current penchant for clamping down on perceived violations of its copyright, AT&T's Unix System Laboratories Inc is now coming down on Unix Solutions for its use of the Unix logo in its company name.
+There is ‘a conflict’ with USL, says Unix Solutions Ltd, which is seeking legal advice on the matter.
+Although the UK company is presently just a European outlet for Pinnacle's products, there are on-going talks between the two about formalising a closer relationship.
+USL's action looks likely to speed up the pace of this convergence, which may see it become Pinnacle UK before the end of the year, though that depends on how well the two companies work together in the interim, says Unix Solutions' Quing Tsang.
+BRISTOL READIES HYPERHELP
+Microsoft Corp Windows-on Unix start-up Bristol Technology Inc (UX No 385), is gearing up to announce HyperHelp 2.0 next month, its unbundled, on-line Unix/X-Windows help facility which it hopes will become an industry standard.
+A hypertext-based facility for Motif and Open Look, new features include FrameMaker file support, a new Open Look viewer, Postscript support, multimedia capability and Windows 3.1 help compatibility.
+The upgrade also includes a single-function application programming interface to help developers add HyperHelp to their applications.
+Pricing is $4,000 for a binary license, $25,000 for source code.
+HyperHelp is used by Lotus, Autodesk, Bell Labs, BBN Software, Intel, Merrill and internally at Boeing and EDS.
+NEW SPARCS TO FLY AT HOT CHIPS
+Folks at the Hot Chips Conference next month will be regaled with papers on a Sun Labs project called Sparc90 and a Massachusetts Institute of Technology research project called Sparcle.
+The futuristic Sparc90 is a design for a low-cost single-chip Sparc chipset intended for embedded applications.
+Sparcle is a professor's notion of how to create a multiprocessor CPU based on Sparc.
+Being academic in origin the likelihood of Sparcle coming to pass is probably pretty dim.
+Sparc90 on the other hand is a Sun-sanctioned exercise but probably depends on someone wanting to make it happen.
+NOW HEWLETT-PACKARD LICENSES WINBOND FOR PRECISION ARCHITECTURE
+Hewlett-Packard Co has a second licensee after Oki Electric Industry Co for fabrication of the Precision Architecture RISC for low-end and embedded applications, in the shape of Winbond Electronics Corp, Taiwan.
+Winbond will design, manufacture and sell the chips for use in low-priced, high-volume products such as X terminals, printers and multimedia applications.
+It is the second largest Taiwanese semiconductor designer and manufacturer and a major supplier of the Taiwan personal computer industry and was chosen because of its ability to offer an entree to the Chinese-speaking markets in Hong Kong, China, Malaysia, Singapore and Taiwan.
+It has also joined the Precision RISC Organisation as a senior member.
+Winbond Electronics Corp, based in Hsinchu, is a five-year-old $100m-a-year subsidiary of Walsin-Lihwa Electric Wire & Cable Corp.
+SEQUOIA's LOW-END SERIES 40 WAS PART-FUNDED BY SAMSUNG
+Sequoia Systems Inc's fault-tolerant Unix systems business needs a bit of tweaking in the unhelpful climate, and the Marlborough, Massachusetts company has added a new low-end model, the Series 40, which comes with up to four Motorola Inc 68040 microprocessors and has a starting price of under $160,000.
+The development of the Series 40 was jointly funded by Samsung Electronics Co Ltd, Seoul, South Korea.
+Users can upgrade from an entry-level Series 40 supporting 40 users to a top-of-the-line Sequoia Series 400 that can support thousands of users.
+The company has also enhanced the performance of the Series 400 by 30% to 40%.
+Hewlett-Packard Co, a Sequoia investor, distribution and technology development partner, is reselling the Series 40 as the HP 9000 Model 1210 into the telecommunications and health care markets.
+The machine incorporates new, more integrated and lower cost technology into the same symmetric multiprocessing architecture as the Series 400 and is designed to be cost-effective for between 40 and 400 active users.
+The processors are clocked at 25MHz with 256Kb of non-write-through cache, and they come with 16Mb to 192Mb memory, with support for up to 88Gb disk.
+Sequoia is also now supporting Unidata Inc eponymous implementation of the Pick database for Unix on its Series 400 fault-tolerant Unix machine.
+UniData tightly integrates Unix and converts Pick and Prime Information environments to take advantage of Unix, SQL and other open systems facilities.
+UniData is based on the next-generation nested relational data model, which is claimed to solve many of the problems of conventional relational databases and create a bridge to object-oriented databases.
+UniData for Sequoia Series 400 will be available in September with pricing based on size and class of individual systems and number of users.
+AUSTRALIAN ROUNDUP
+Compiled with the assistance of our associate newsletter Asia/Pacific Unix Update.
+SCO AND UNIVEL JOCKEY FOR POSITION DOWN UNDER
+Working out of the Novell Inc office in Chatswood, Australia, Brad Jelfs hasn't taken long to find the most important distributors for the UnixWare offering from Univel Inc, but his fast work has no doubt brought forth well-hidden explosions at his old office at Epping.
+The solo Univel rep and ex-SCO employee has lined up Sydney-based Com Tech Communications as prime distributor and MUA Pty Ltd as associate distributor for UnixWare, matching existing arrangements under which the Santa Cruz Operation Inc has distributed its desktop Unix in Australia.
+MUA says it accounted for at least 25% of SCO's revenues in this area.
+So what are Com Tech and MUA doing, jeopardising their relations with SCO in order to market a competitive type of Unix for the Intel-based personal computer?
+SCO says SCO Unix and UnixWare are not direct competitors, but both Com Tech and MUA plan to take UnixWare to their current SCO users and show them what it can do — and how it can run SCO applications.
+Some suggest that Com Tech, as Australia's largest Novell distributor, has chosen to side with its most important partner and tough out the inevitable coolness from SCO.
+It may consider it will get better marketing support from Novell and the Univel partnership than it has previously had from the relatively small SCO operation here.
+Then there's Brad Jelf's claim that more than half the installed NetWare base is interested in integrating with hardware running Unix.
+‘It speaks volumes for the market scope of UnixWare,’ he said.
+Now he's marketing the desktop Unix as something of a downsizing platform, as existing Unix mini and mainframe users will be able to take advantage of well integrated Unix on cheap Intel PCs.
+‘Users who have been successfully running applications on systems which are now nearing the end of their life cycle, such as the NCR Tower, will now be able to right-size to UnixWare platforms.
+‘So far comments from Com Tech and MUA suggest that SCO will still be sold by both companies, but neither tried to shy away from the fact that their decisions will hurt SCO.
+Jelfs originally helped SCO to set up in Australia and has been poached by Univel to be its number one employee in the Asia/Pacific region, responsible for everywhere except Japan.
+MITSUI OFFERS SUN UPGRADES
+Mitsui Computer has launched a major campaign to attract Sun 3, Sun-386i and older Sparcstation users to upgrade to the Sparcstation 10 machines due soon, backed by what Mitsui terms an ‘aggressive’ pricing policy which has a ‘no penalty’upgrade path to the latest Sun Microsystems machines.
+Under the program, Sun users will get an upgrade immediately to Sparcstations, with the prospect of getting Sparcstation 10 power when these machines are finally released.
+To attract those users who might otherwise be waylaid by clone vendors with their own Sparc 10 equivalents out soon, Mitsui's sales director David Wallis promises an upgrade which could save the user up to $10,000 — but with no details of what it will actually cost them.
+‘The offer allows Sun-3 and Sun 386i users to move up to a Sparcstation IPX or a Sparcstation 2,’ he said, offering either a full system swap or a CPU exchange.
+‘Sun-3 and Sun-386i users will be able to keep their old systems for 90 days to allow for porting of software and data.
+We are also offering upgrades to the Sparcstation 10 which will be shipped in September.
+SUN SIGNS FOR APSCORE's PICK APPS
+Sun Microsystems Australia has signed an agreement with Apscore International to develop the latter's Pick-based Cue-Bic Financials suite of software for the Sun platform, becoming yet another part of the increasingly complex web of agreements made by Sun under its Partnership for Development Program with the Federal Government (UX No 391).
+Under the terms of the agreement, Sun will provide Apscore with resources to develop its Pick-based software to run on SunSoft Inc's Unix, and will help Apscore to market the resulting Pick products overseas.
+Apscore's General Manager, Steve Salmon, said the agreement makes good business sense, given the strong Unix trend in the Pick market.
+He said Apscore was one of the first companies to port its products to the Pick look-alike databases UniVerse and UniData, and now the Sun agreement will let them better support these products on Sun hardware.
+Apscore is concentrating on re-developing its products so that they are more GUI and database independent, with an emphasis on object orientation — thus linking with Apscore's other interests, including its representation of the ObjectStore object oriented database in Australia on the Sun platform.
+The products presently undergoing re-development for Sun are Apscore's 4GL and expert system-based solutions — financial, loans and insurance.
+‘We will also develop conversion methods for our clients, and the Pick and Pick look-alike market, providing them with an open alternative,’ Salmon said, believing that with Apscore's help, customers will be able to port code and data from Pick to Unix in a matter of days.
+OPENTEC SETS SPARC PLAN
+A new player in the Sparc clone market is Sydney-based Opentec, formed to market the new machines coming from Hyundai Electronics new workstation division in California, the first machine being a 100% compatible clone of the Sparcstation2, the company says — see page three.
+But more importantly in the competitive Sparc clone marketplace, Opentec is claiming to have beaten other workstation developers to the punch by preparing a machine based around the Texas Instruments Viking/SuperSparc chip.
+John Ashton, managing director of Opentec, is promising a SuperSparc machine within a month of the availability of Sun's Sparc 10, with volume shipments from both companies expected around September/October.
+‘Dare I say it, but they are truly leadership products — with their 96 MIPS desktop system being offered locally at just $35,000,’ said Ashton.
+However, he noted that cloning Sun's machines will be only a part of Hyundai's operations.
+SOFTWARE AG BACKS UNIXWARE
+Users of Software AG's Natural, Adabas and Network products will be offered the chance to take on UnixWare clients or possibly servers following the promise of support for Univel's operating system as early as the end of this year.
+It's all part of responding to ‘one of the major issues facing businesses today’, said Ken Burrows, the MD of Software AG's local distributor, SPL Australia —‘how to integrate powerful LAN-based environments with current production systems.’
+According to Burrows, Software AG is building the next generation of distributed programs with graphical front-ends.
+It's a significant endorsement for Univel from one of the large system world's software heavyweights, with over 4500 installations worldwide for its Natural 4GL.
+DEC LOSS FOR YEAR COMES OUT AT $2,795m
+The restructuring charges that Digital Equipment Corp is taking with its year-end figures are so enormous that they swamp everything else, but even before them, business was lousy with a fourth-quarter operating loss of $188.1m before the restructuring charge of $1,500m.
+The charge of $1,500m was primarily for getting rid of surplus employees, plant consolidations and related administrative costs.
+Giving his swansong, president Ken Olsen said that the company faced an economic slowdown in virtually every major geography, particularly in Europe and Asia.
+Product revenues declined because of continuing weak economic conditions, highly competitive pricing and the negative impact of foreign exchange rate movements, although the company continued to ship more computer systems than a year ago — but at a lower average price per system.
+The shortfall was filled by growth in services revenues.
+John Smith, senior vice-president, operations said that while the company's goal was to return to profitability as soon as possible, ‘for the remainder of 1992 we remain cautious about both revenues and profits due to the uncertainties in both the industry and worldwide economies.’
+He said that where total headcount was 126,000 at the end of fiscal year 1989, over the last two years, the company has added 11,000 employees, primarily through acquisitions while reducing overall headcount so that at June 30, headcount was 113,800, for a total reduction of more than 23,000 since 1989.
+Over the past few years, total occupied floor space has declined by 9.2m as a result of facilities being closed or consolidated.
+Total cash was reduced to $1,300m, from $1,900m at the beginning of the year, primarily because of restructuring costs, acquisitions, investments and the operating loss.
+Gross margins were just 41%.
+The company reported a fourth quarter net loss of $1,855m, up from a loss last time of $871.3m, after restructuring charges of $1,500m this time, $1,100m last, on turnover down 1.0% at $3,905.8m.
+Net loss for the year to June 30 was $2,795.5m, struck after a $489.5m charge for a change in benefits accounting, up from a loss last time of $617.4m, on turnover up 0.1% at $13,931m.
+…
+READIES TRIUMPH WITH ALPHA LITE
+Meanwhile, DEC watcher Terry Shannon of Gander Resources claims DEC taped out an Alpha Lite LC (for low cost) chip last month and believes it is for the so-called Triumph Alpha PC which he says is scheduled to move next March.
+However, he wouldn't be surprised if it was announced at DECUS in Cannes in September and first shipments came right after the first of the year.
+He also claims DEC, leery of its margins, has reworked its low-end Alpha price structure to pitch the machines against Hewlett-Packard Co rather than get into a price struggle with Sun Microsystems Inc.
+He says we're looking at a $20,000 Sandpiper and a $25,000 Flamingo at the entry-level now.
+DEC had a prototype Alpha PC at Microsoft Corp's Developers Conference earlier this month running an EV-4 chip which he finds hard to believe will be commercialized because of its heat dissipation.
+SUN RETAINS ITS LEAD IN JAPAN
+Sun Microsystems Inc retains its market-leading position in the Japanese workstation market, according to figures released by the Nikkei Industrial News last week.
+Excluding its OEM partners, which include Fujitsu Ltd, Toshiba Corp, Fuji Xerox Co, Nippon Steel Co, Matsushita Electric Industrial Co and other powerful players, Sun had an 11.4% share of the market last fiscal, putting it in fourth place, but if the OEM sales are included it shoots to the top with a 22.7% share.
+Yokogawa Hewlett-Packard Co was second with a 15.5% share, but that is down five percentage points, with the beneficiary NEC Corp, just behind with 14.5% and up 7.2 percentage points, achieved mainly as a result of installation of an army of 6,000 workstations at Daiwa Securities, as well as sales to systems houses.
+Sony Corp was next with a share of 11.8%, down 5.5 points, although in units, its sales increased — Sony attributes its decline to lower sales of systems based around its News workstation as the central computer.
+Total shipments were 40% up from the year earlier at around 110,000 units.
+INTEL P5 MICROPROCESSOR PUT BACK TO FIRST QUARTER 1993
+Intel Corp has put off first deliveries of the P5 microprocessor to the first quarter of next year from the fourth quarter this year, but says that the move has not affected progress on the follow-on P6, which it had said would start sampling as soon as the fourth quarter of next year, suggesting it will come very hot on the heels of the P5.
+Intel stresses that there are no problems with the P5 and that it is taking the opportunity of strong demand for the 80486 family to spend longer testing the highly complex new chip in the hope of avoiding the bugs that plagued the 80486 in its early days.
+The P5 will share the same production lines as the 80486.
+By using the time to improve the production process, Intel will be able to make more of the chips available initially than it usually can when it launches a new part, Paul Otellini, vice-president of the company's microprocessor group noted — a shortage of 80386s in the early days caused disenchantment with the company at many customers for the chip, who  encouraged other companies to clone the chip in the hope of ensuring steady supplies.
+Apricot Computers Ltd had been planning to announce ‘the world's first’ P5 machine in September.
+Spurred by the competitive market, Intel is thought to be pitching the first P5 boxes at $6,000: the company has reportedly priced the P5 at around $700 in 1,000 quantities versus the 80486DX which goes for $536, according to Computer Reseller News.
+CROSSROAD WILL INTEGRATE IBM, HP, SUN UNIX APPLICATIONS ON THE NETWORK
+Crossroad Systems Inc, an 18-month-old Boston, Massachusetts-based start-up, has come out with a new development framework for integrating heterogeneous applications into a single environment on Unix networks.
+The software currently runs on AIX, HP/UX and Solaris 1.0.
+The Crossroad architecture enables developers to configure connections between existing applications and directly supports the dynamic reconfiguration of connections and flow of data in the network, according to chief executive officer, Alek Mesarovich.
+The product, targeted at Fortune 500 developers, consists of three components: the Motif-compliant CrossFrame interface builder; the CrossScript scripting language; and the CrossLink network services builder, a programming environment for dynamically establishing peer relationships between applications on a network through a mechanism called agents.
+The agents transform isolated software applications into modular building blocks for creating a coherent networked system.
+CrossFrame and CrossScript are tightly integrated supporting a single high-level programming procedure to develop both the interface and underlying application.
+CrossScript, which offers lower level programming support and combines features of C, C++ and C-shell, also manages the CrossLink network agents and directly connects them to the user interfaces.
+The software is immediately available priced at $7,500 for a development license, $500 for a run-time license, and $500 to $5,000 for Crossroad-built turnkey agents.
+The company, which has garnered about ten customers so far, has turnkey agents available from Sybase, Lotus and Unix E-mail.
+Sun Microsystems Inc distributor ERI is reportedly using Crossroad to create a canned database publishing system using Frame and Sybase.
+TEKTRONIX AND ADDAMAX TEAM ON SECURE X-TERMINALS
+Tektronix Inc, Wilsonvilee, Oregon, and trusted Unix house, Addamax Inc, have inked a co-development pact to produce a line of secure X-terminals.
+Addamax is porting ATX, its secure X-Windows subsystem, to the TekXpress family of X-terminals to create a line for B1 and networked compartmented mode workstation (CMW) environments.
+Addamax said it will integrate a trusted TCP/IP networking product, ATN, to the terminals assuring CMW compliance, compatibility and interoperability with other trusted systems including DEC and Sun CMWs.
+ATX, the foundation of the secure X-terminals, is based on the Addamax CMW, currently under evaluation by the National Computer Security Center and the Defense Intelligence Agency for B1 and CMW ratings.
+It is based on SVR4 and supports both Open Look and Motif.
+The two companies intend co-marketing their work through their respective distribution channels, with Addamax providing the software support and maintenance.
+The only other secure X terminals come from Network Computing Devices Inc which is using Addamax software and Human Designed Systems, whose security comes from Addamax competitor SecureWare Inc.
+The HDS/SecureWare offering is only accredited as a single-user CMW.
+MINIGRAMS
+It's (more or less) official: Ken Olsen was pushed into resigning by the board: the Wall Street Journal hears of a meeting with employees at which Olsen discussed how he was unable to make the necessary organisational changes at DEC, in particular failing to get engineering groups to report to marketing, and then said ‘that's why I was fired’.
+Pier Carlo Falotti, head of DEC Europe and touted last year by The Wall Street Journal as Ken Olsen's possible successor, tendered his resignation June 30, an action The Journal said last week precipitated Olsen's resignation ten days ago (UX No 394).
+Falotti, long frustrated with Olsen, has decided to go to ASK as CEO.
+Fearing a wholesale decimation of its executive ranks, The Journal said, DEC tried to persuade him to stay but failed.
+His resignation was announced within hours of Olsen's.
+ASK has attracted other ex-DECies like Jake Jacobs but failed to keep him.
+ASK founder Sandy Kurtzig stays on as chairman.
+The gossip pegs Monday July 27 as the day DEC could announce additional layoffs with some people saying this round could force out as many as 15,000 people worldwide along with the closure of maybe ten manufacturing plants.
+A point missed in last week's story on DEC's effort to design a single 1GHz chip is that the cooling agent is a mixture of water and alcohol (UX No 394).
+Fremont, California-based Link Technologies Inc and Westborough, Massachusetts-based Visual (the  merged Visual Edge Technology Inc and Gipsi SA) will next month release two of four new X-terminals they have co-developed.
+The LX400 is a 14″ Motorola Inc 68020-based 1,024 x 1,068, monochrome display with from 2Mb to 10Mb RAM which costs $1,000.
+A colour version, the 68030-based LX1200, has from 6Mb to 37Mb RAM, 1,080 x 1,024 resolution and costs $3,000.
+Two other 68040-based mono and colour models are planned by the end of the year.
+Sic transit gloria mundi.
+The once-great Computer Systems News, which had to suffer the indignity in its declining months of being called Systems and Network Integration, gives up the ghost this week but not before it reports that IBM will turn up at AutoFacts in November with a new-fangled massively parallel machine that runs both AIX/ES and MVS and is based on a new (possibly hybrid) chip developed at the Thomas Watson Lab.
+Industry gadfly Judith Hurwitz in her new vehicle ToolWatch predicts ‘NT will stumble.’
+Good concept, bad timing, she says, not expecting Microsoft to deliver the scalable, rich operating system developers are looking for from them for ‘at least three years, and more likely five.’
+She also thinks Taligent will prove a great boon to both its parents.
+NetWorld ‘92 is set for the Dallas Convention Center in Texas October 13–15.
+PC Week quotes Microsoft's vice president, systems strategy John Lazarus as saying that IBM has rights under a previously secret  codicil in their settlement last month to port NT to the RS/6000: Microsoft is encouraging them to do it.
+IBM basically told the weekly, ‘No way.’
+Sparc chip set house Nimbus Technologies Inc last week was getting set to acknowledge what is already street gossip: that Cypress Semiconductor Corp, or rather its Ross Technology Inc subsidiary, got Nimbus off the ground with an initial ‘joint development’ investment round about $1.5m.
+It took no equity but got marketing rights, hence its new SparcSet chip set (UX No 394).
+Old Hewlett-Packard Co hands say that back in their day Lew Platt never looked to be a contender for the presidency: they are gratified to see him elevated since he came up on the Unix side and wonder how much should be read into that.
+What started as an innocent Uzi water gun raid on a SunSoft staff meeting by Sun Labs principals will reportedly culminate today in a soggy mother of all water fights between ‘Fast Eddie’ Zander's Commandos and Wayne Rosing's Vapourwearers with Scott McNealy in the umpire suit.
+Is it any wonder Solaris 2.0-on-Intel is late or is the summer heat just making us  cranky ?
+Unix System Laboratories Inc is taking the initiative with the mass market/commercial issue and is trying to persuade the industry to stage a concentrated show of force at Comdex this fall.
+What it and The Interface Group have in mind is a Unix Distributed Computing showcase in the South Hall annex, a mini-conference with its own programme similar to the way they handled networking and multimedia last year.
+With Comdex's gargantuan draw and the current state of the personal computer business, it's the only sensible thing to do.
+They need to know who's game by August 3.
+Call (908) 522–5186 in the US if you're interested.
+They could accommodate 200 booths, 50 at the minimum.
+Referring to our recent SPECmark comparisons (UX No 387), IBM points out that its RS/6000 models 340 and 560 run at 32MHz and 50MHz respectively, whilst its top-end 970, which also runs at 50MHz, has a higher SPECmark rating due to its increased instruction cache — from 8K to 32K.
+This year's UniForum Asia show is hosted by UniForum Singapore, and is being held at the Marina Mandarin Hotel from August 25–28.
+Silicon Graphics Inc says it's giving a lot more headroom to software these days and is looking hard at NT in the wake of the recent NT developers' conference; it also wants to get into the high-end Apple Computer Inc Macintosh market and migrate those users over to ‘real machines’ that let them realise some of their hopes and dreams but it can't see itself going below the $5,000 mark.
+Like Sun Microsystems Inc before it, NCR has gone to Oracle Corp for its manufacturing and financial management software for its own manufacturing groups: the software will be installed in up to 14 NCR manufacturing sites in the US and abroad.
+Datapro's 1991 workstation user-ratings study ranks Hewlett-Packard Co's 700 as the industry's best overall workstation family, surpassing Sun Microsystems Inc.
+HP came in number one in overall satisfaction based on usage and selection/purchase criteria and placed second, but ahead of Sun, in service and technical support.
+Sequent Computer Systems Inc, reporting second quarter net profits of $3.0m against a loss last time of $19.8m, on sales up 44.1% at $72.2m, says that in the UK, sales were up 90% on the year-ago period, and rose 89% in the quarter, 87% in the half, across Europe as a whole.
+A new Ukranian Unix Users Group has been formed — most members are from the Soviet Unix Users Group: Alexander Shekhovtsov, TechnoSoft, 7 (044) 266 7028 — als@vl.ts.kiev.ua.
+Well Digital Equipment Corp always said it would catch up with IBM Corp, come what may, and the company has just about done it: IBM's loss for 1991 was $2,827m and DEC's loss for the year $2,780m.

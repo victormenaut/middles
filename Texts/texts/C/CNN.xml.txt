@@ -1,0 +1,232 @@
+
+
+IBM LAUNCHES ITS DB2/6000 DATABASE FOR AIX UNIX IN FRANCE
+Ahead of its database announcement in the US tomorrow, IBM France SA on Friday announced the company's first relational database effort for its RS/6000 Unix, DB2/6000 version 1.
+It had been expected that the AIX Unix database would be a derivation of DB/2, the latest version of Database Manager for OS/2, but IBM said on Friday that the two products would only ‘merge over time’.
+DB2/6000 is accompanied by Distributed Database Connection Services, which provides support for IBM's Distributed Relational Database Architecture, and the two enable the RS/6000 to participate in a distributed schema with DB2 on IBM mainframes, the OS/400 database, and DB/2.
+DB2/6000 is claimed to offer all the functions of an autonomous relational server, supporting AIX, OS/2, MS-DOS and Windows machines as clients.
+And it integrates ‘completely’ with the architecture of IBM's Information Warehouse.
+It supports AIX mirroring and integrates with transaction processing monitors such as CICS/6000 via the XA interface of X/Open Co Ltd's Distributed Transaction Processing specification; it also supports the X/Open Call Level Interface; it is compatible with ISO SQL2 Entry Level and SAA Level 2.
+It needs AIX 3.2 and languages supported are IBM XL C and Fortran, and Micro Focus Plc Cobol.
+It goes on controlled release in July and general availability is set for October, but there was no indication of price.
+Across the water, none of the intrepid previewers appears to have got wind of DB2/6000, but tomorrow, IBM is also tipped to unveil a new release of the DB2 mainframe database, version 3.1 with support for Distributed Relational Data Base Architecture for updating databases at multiple sites simultaneously.
+And some housekeeping tasks under DB2 3.1 such as reorganisation of the database are expected to take less time.
+First ships of DB2 3.1 are seen for July.
+SUN OUTLINES ITS LONG-TERM 64-BIT SPARC RISC PLANS
+Sun Microsystems Inc will be building its next-generation workstations and servers out of a family of 64-bit multiprocessor chips that it is designing called UltraSparc, and the chips should take Sun machines close to the end of the decade.
+Internal chip design, which began at the same time that HaL Computer Systems Inc started developing its own proprietary 64-bit Sparc chips, aims at producing a 500MHz microprocessor by the fourth quarter of 1996.
+This high-end UltraSparc-III will be preceded by the UltraSparc-I and UltraSparc-II.
+Sun plans several iterations of each of the three family members.
+It expects to have early silicon of UltraSparc-I in the fourth quarter of next year.
+UltraSparc boxes could begin appearing later in 1995.
+If HaL meets its promised dates, it could beat Sun to market with a 64-bit system — but it is Sun that expects to create a high-volume 64-bit market supplying both its own needs and those of its cloners.
+HaL is unlikely to sell its chips on the open market.
+DATA GENERAL HAS  FOUNDATION's DCE FOR ITS AViiONs
+Data General Corp will ship the Open Software Foundation's Distributed Computing Environment on its AViiON Unix systems and servers in the third quarter.
+Seven products will be available to enable AViiONs to share system resources, applications and processing power across networks of heterogeneous computers and they will be based on Version 1.0.2.
+Data General is offering a DCE Starter Kit and individual core components to its customers.
+The starter kit includes all services needed to develop or implement DCE applications.
+It consists of DCE Executive, a prerequisite for each server product; security services; cell directory services and documentation for developers, at from $2,950.
+Services such as security, cell directory, global directory, remote administration, and an encryption utility can be bought separately and cost from $1,000.
+It ships in the third quarter.
+GEC PLESSEY SEMICONDUCTORS WINS $100m PACT WITH CONNER
+GEC Plessey Semiconductors Ltd has won a volume supply contract with Conner Peripherals Inc projected to be worth about $100m over the next 30 months.
+Under the agreement, GEC Plessey, Swindon, Wiltshire, will supply chips for the read channel portion of hard disk drives manufactured and marketed by Conner.
+The read channel retrieves data stored on the disk and writes to the disk.
+NEW PHILIPS CD-I PLAYER SET
+Philips Electronics NV's Interactive Media Systems group says it expects to launch a whole range of new products based on Compact Disk-Interactive technology, starting with a CD-I player in September to run full-motion video so that users could alter the plot of a movie.
+BUNDESPOST TELEKOM ‘TO PRIVATISE ITS CELLULAR SUBSIDIARY’
+The Deutsche Bundespost Telekom has realised that it does not need a change in the German constitution to privatise its cellular telephone business, and has decided that as it is in keen need of cash for investment, it will go ahead and do it ahead of its own privatisation.
+The first step is to be establishment of the business as a subsidiary company, Deutsche Telekom Mobilfunk GmbH, on July 1, but there was no mention of offering shares in it to the public.
+The new company will take over Telekom's D-1 digital cellular business and its B and C analogue networks and other cellular interests, and will have turnover of some $2,100m in its first year, Reuter reports from Bonn.
+D-1 competes with Mannesmann Mobilfunk's GmbH's D-2 system, and Telekom conceded that the Mannesmann network had outpaced its own D-1 system in winning subscribers, and that its own share was well below 50%.
+The new company should show a profit by 1997 when the digital and analogue systems are to be combined.
+Mannesmann Mobilfunk expects to break even in 1994 and make a profit in 1995.
+The new company's nominal capital will be raised by $420m to $600m effective January 1 1994.
+In July it will take over 1,200 civil servants employed by Telekom and the workforce will rise to 3,700 in 1994.
+The state phone company is confident that privatisation of the cellular unit will be approved by the Postal Minister, Wolfgang Boetsch.
+AGREEMENT STILL SOME WAY OFF ON FEATURES FOR PROPOSED UNIX COMMON DESKTOP ENVIRONMENT…
+The formal agreement of a number of vendors is still being sought for the planned Unix Common Desktop Environment, CDE.
+A fanfare introduction for CDE's Distributed Format Desktop Architecture specification at next week's UniForum trade show in San Francisco is now in doubt.
+The initiative, driven by Unix System Laboratories Inc and the Santa Cruz Operation Inc originally counted Digital Equipment Corp, Hewlett-Packard Co, IBM Corp, Novell Inc and Sun Microsystems Inc as potential supporters.
+Some are said to be getting cold feet.
+The sensitivity of the initiative is underlined by the fact that it took at least five months for Unix Labs and Santa Cruz to agree on a basic specification drawn up by UK firm IXI Ltd and edited by Unix Labs.
+IBM and Hewlett-Packard appear to have other fish to fry.
+Others are said to be re-examining their positions in light of the latest industry consolidations and have baulked at a large scale media event to mark the signing of a common Unix document.
+Unix Labs favours a meeting of the parties, planned for Thursday March 18.
+Santa Cruz and IXI remain confident that some form of agreement on the Common Desktop Environment can be reached by then.
+The specification causing all the fuss will enable independent software vendors to write applications that can be installed and run from Unix desktops rather than the shell.
+There is no interface dependency and Distributed Format Desktop Architecture will work with Motif, Open Look and Moolit tool kits.
+The Common Desktop Environment means that users would not have to worry about different install methods and should be able to move around different Unix environments without much retraining.
+Some drag and drop issues, such as how an application will be launched when a file associated with that application is opened, are still to be resolved.
+If the Common Desktop Environment clears the first hurdle, other ideas for it include moving desktop icons between distributed systems using an object request broker.
+…
+AS SUPPORT FALLS AWAY FROM COMMON OPERATING SYSTEM INTERFACE
+Another initiative that seems to be suffering from a bout of collective cold foot is the Common Operating System Interface effort sponsored by IBM Corp and Hewlett-Packard Co.
+The proliferation of industry alliances and more recent consolidations is said to have induced a state of panic at the two firms about the logic of what they are trying to achieve with the common interface — bandied about in some quarters as Systems Application Architecture II — and whether there are sound business reasons behind it.
+Although the two firms are still expected to cement an agreement covering Hewlett-Packard taking a 20% stake in Taligent Inc, the Common Operating System Interface announcement is now likely to be toned down, with the participation of other firms that had been in the same swim, such as Santa Cruz Operation Inc and SunSoft Inc, looking increasingly unlikely by the day.
+RETIX EXPANDS ROUTERXCHANGE LINE, CUTS PRICES ON BRIDGE-ROUTERS
+Retix Inc, Santa Clara has expanded its RouterXchange family of RISC-based multiprotocol routers with two new models and a 12-port 10Base-T hub card.
+The RX 7000 Model 7550 is essentially the same as the previously-launched Model 7500 with the added option of dual high-performance power supplies.
+Out in April, it costs from $11,200.
+The second new router, the Model 7250, is designed as a low-cost high-performance feeder node for the other RX 7000 models, and is basically a three-port version of the Model 7500: it holds one forwarding processor and up to three interface cards which — as with the rest of the family — can be any mix of Ethernet, Token Ring or wide area interfaces.
+The 7250 is out now at from $6,200.
+Finally, a new 10Base-T hub card can be added to any of the RX 7000 models for integrated routing and hub facilities, also from April, at $2,000.
+Retix also cut US prices on its 4900 Series remote bridge-routers: the 4941 is off 10% at $4,450; the 4942 16.8% to $4,950, the 4982 by 14.3% to $5,950; and the 2265M/S local bridge is reduced by 18.6% to $1,750.
+ARIES DRESSES UP FIRST HYPERSPARC-BASED WORKSTATION FOR ITS PUBLIC DEBUT AT UNIFORUM
+Sparcsystems builder Aries Technology Inc, Fremont, California, is promising what is to our knowledge, the first system implementation of Cypress Semiconductor Corp's HyperSparc for delivery in April.
+At UniForum next week, the firm will show an Mbus-based Marixx DS workstation using a 66.7MHz HyperSparc RISC — which is plug-compatible with the Texas Instruments Inc-Sun Microsystems Inc SuperSparc — alongside Marixx DT, a Sparcstation 10 Model 30 clone which uses a 36MHz SuperSparc.
+Aries is pitching Marixx DS against Sun's overdue 45MHz and 50MHz Sparcstation 10s, which are now expected around the end of the second quarter.
+According to Aries, its HyperSparc workstation performs at 133 MIPS, 42 MFLOPS and 70 SPECmarks (66 SPECint92 and 88 SPECfp92).
+Sun's 40MHz Sparcstation 10 Model 41 is rated at 50 SPECmarks, 50MHz Models 52 and 54 are expected to go to 80 SPECmarks in single processor configurations.
+Aries will wait on market response before planning any more HyperSparc configurations.
+The Marixx DS — deskside — comes with from 64Mb RAM, up to 1Gb disk, 15″ or 19″ colour screens, SCSI-2, two serial ports, Ethernet, one Mbus slot and three Sbus slots plus two GX graphics cards.
+It runs SunSoft Inc's Solaris 1.0.1 — support for Solaris 2.1 will follow.
+The Marixx DS is priced at $18,000; $1,000 less than the comparable Sun box, the firm claims.
+Aries' Sparcstation 10 model 30 clone, the Marixx DT comes with two Mbus and four Sbus slots, takes up to 512Mb RAM, SCSI-2, Ethernet, two serial ports, ISDN and Solaris 1.1.
+Options include CD-ROM, choice of graphics boards and 16″, 17″ or 19″ colour monitors.
+Marixx DT will get 40MHz upgrades by mid-year, and 50MHz parts when they arrive.
+It is $15,000.
+NORWEGIAN SUPERCOMPUTER CENTRE GETS RS/6000 CLUSTER
+IBM Corp is to supply the Norwegian government's Supercomputing Committee with two RS/6000 PowerServer 980s and 12 Model 580 workstations linked as a cluster: hosted by the University of Oslo, the installation kicks off a three-year joint venture project between IBM and Norway's supercomputing centre.
+VERIFONE AND SAUNDERS JEFFRIES SEEK TO CASH IN ON NATION OF SHOPKEEPERS
+Electronic point of sale specialist Verifone UK has teamed up retail systems specialist Saunders Jeffries Ltd to try and get its technology into corner shops.
+The companies reckon that there are about 400,000 small retail outlets in the UK, the vast majority of which are still using straight-forward tills.
+‘Until now we have been unsuccessfully trying to break into the lower end of the market’ says Len Saunders, managing director of the eponymous Emsworth, Sussex-based company.
+The problem has been the cost and complexity of point-of-sale systems that can run to around £3,000 or £4,000 he says.
+In an attempt to tap a potentially huge, but difficult to get at market, the two companies will rent out the necessary kit in packages starting from £90 a month.
+Saunders is having to adapt its sales policy in order to reach its new customers: the company intends to run roadshow events all over the country to try to attract local buyers.
+The package also includes initial training and 24 hour telephone support.
+The integrated tills have two main advantages for the small retailer.
+First, they aid stock control, by extending sophisticated sales reporting abilities and bar code reading — no more walking around the shelves trying to work out how many cans of cat-food have been sold.
+Second, the package includes support for card verification.
+To keep it simple, a data handling service is bundled in, so that Saunders Jeffries acts as the bridge between the retailer and the bank for credit card transactions as well as electronically updating the till's list of stolen cards.
+CABLE & WIRELESS LINKS ITS DATA NETWORKS TO FORM GLOBAL MANAGED DATA SERVICE
+Cable & Wireless Plc has, as reported briefly (CI No 2,118), finally linked its European, US and Hong Kong-based data networks.
+The company is using its global broadband network to link the services and is using them to launch a Global Managed Data Service which will compete with the likes of British Telecommunications Plc's Global Network Service and Infonet.
+Five new switching centres, equipped with Northern Telecom Ltd DNPS-100 switches, have been set up in Washington, San Francisco, London, Hong Kong and another another Far East location that the company doesn't want to talk about.
+Support centres have been put in place in Washington, London, and Hong Kong.
+Together Global Managed Data Service links Mercury's UK Managed Data Network Service, Managed Data Service in the US, Hong Kong's Datapak and the European IDNS 900, which services nine European countries.
+The integration effort has been aided by the the fact that the majority of C&W's large data networks are already based on Northern Telecom switches anyway.
+As a result, the Global Service will be running Northern's proprietary Universal Transport Protocol internally, while end users are presented with standard services, normally looking like an X25 packet switched network, although with a bit of tinkering the company can give its customers SNA or frame relay connections instead.
+Initially, those networks which are not based on Northern Telecom switches will be left out in the cold.
+Cable & Wireless's manager for managed data networks, Richard Henables, says that they will either be integrated at a later date, or they may simply receive a send level of service.
+Either way he claims, the networks left out are not all that important; ‘we have, for example, some Telematics kit in the Turks and Caicos’, he says.
+IBM UK MOVES INTO MAIL ORDER WITH LAUNCH OF OPEN OPTIONS CATALOGUE
+At the UK's IBM ‘93 Show in Birmingham last week, IBM UK Ltd became the first IBM company in Europe to publish an Open Options Catalogue of IBM and third party products available through mail order.
+The 64-page catalogue, with price list, offers products from 19 manufacturers, and promises 72 hours delivery for most product lines.
+Unfortunately for IBM, the catalogue does show up some of the problems it has pricing and delivering its own product lines — of the X-terminals in the catalogue for instance, IBM's Xstation 130, priced at £3,574, is both more expensive than any of the Network Computing Devices Inc and Tandberg Data A/S models listed, and the only one to take 15 days for delivery rather than 96 hours for the rest.
+Other European subsidiaries are expected to follow the UK's example if the catalogue is a success.
+NORTHERN TELECOM GETS TOGETHER WITH TANDEM ON INTELLIGENT NETWORK SYSTEMS
+Following the Hewlett-Packard Co and L M Ericsson Telefon AB joint venture, Northern Telecom Ltd and Tandem Computers Inc have announced a global alliance to develop and market telecommunications systems with Intelligent Network capabilities (CI No 2,116).
+Aimed at network operators and telecommunications providers, the resulting products are intended to enable them introduce new value-added services and products.
+In addition to the two partners, the project is to draw on an earlier agreement between Northern Telecom and Cincinnati Bell Information Systems Inc for developing Service Management Systems.
+The resulting intelligent network offering is to include Northern's DMS SuperNode switching system, Tandem's TSCP-2000 service control point and TSCE-2000 service creation environment, as well as the Cincinnati Bell service management system.
+In addition to supporting CCITT standards, the companies say that they are also aiming for compatibility with the US Advanced Intelligent Network specifications.
+The first product to come from the alliance is expected in the second quarter of 1994, and is intended to form a base on which network operators can develop specific software applications.
+Indeed, the system has already been developed, but up until now it has been deployed on a carrier-by-carrier basis at Deutsche Bundespost Telekom and at Koninklijke PTT Telecom Nederland NV, which has had a pilot Intelligent Network centre that uses the Northern and Tandem products in operation for the last year.
+By formalising their relationship, the companies hope to provide an established platform which implements the core technology behind the Intelligent Network.
+To this end, Northern, Tandem and Cincinnati Bell will jointly establish integration and test facilities for equipment from the three companies, which will also be used to support smooth deployment of new network services.
+The companies are not, however, placing all of their eggs in one basket, and Northern Telecom said that although Tandem will be a first choice partner, this will by no means preclude it working with other firms in the future.
+MOODY's ISSUES AN UPBEAT REPORT ON OUTLOOK FOR AMERICA's PHONE COMPANIES
+Their world is being turned upside down by the cable revolution and the string of multimedia technologies coming down the pike, but US telephone companies — both local and long-distance — will maintain strong credit quality throughout the 1990s despite major competitive, regulatory and technological challenges, Moody's Investors Service Inc concludes in its annual report on the industry.
+‘Near-term competitive challenges will be greater for some local telephone companies than for others, and some credit ratings may fall,’ the New York ratings says, ‘but balanced regulation, strong demand for telephone services and continuing progress in cost reduction should enable most companies to maintain strong financial performance and stable credit quality over the next few years.’
+Significantly challenged
+By the late 1990s, however, it sees the industry being significantly challenged by competition as the technological and regulatory barriers to entry into the telephone business start to erode more rapidly, it says, warning that as that happens, telephone companies that have not become market-driven organisations will risk falling behind.
+However it is optimistic that most companies will be able to make the transition and that the industry's financial resources, technical expertise and established market will keep it one of the highest rated in the world — at Moody's, the industry's average credit rating is double-A-2, just below its double-A-1 average rating for phone companies outside the US, the highest rated group of all, and a rating matched only by global electrical equipment manufacturers, pharmaceutical companies and non-US electric utilities.
+Moody's has felt able to continue to give the companies such a blue chip bill of health because of the vigorous efforts they have made to prepare for growing competition — since the late 1980s, US telephone companies have restructured, sharply cut their costs, improved productivity, made more market-responsive investment decisions and invested heavily in their telecommunications networks — since 1988, it reckons, productivity of the companies has risen 6% a year.
+‘Although it is likely that future gains will be more modest, profitability will be robust,’ it said, adding that the industry can also expect to benefit from growing demand, especially from canny corporate customers, and from balanced regulation — public service commissions are increasingly approving alternative regulatory plans which permit the companies to boost earnings above a targeted level, provided they improve efficiency and share earnings gains with their subscribers.
+Moody's expects that the telephone companies will be able to improve their financial flexibility over the next few years, largely offsetting increasing competitive risks.
+Companies likely to perform best in this period are those that are aggressively cutting costs, and that have a supportive regulatory environment, a diversified revenue stream, a strategic vision, and the technological capabilities to meet evolving market demands, Moody's said.
+The credit strength of some — especially those that face less balanced regulation or are slower to realise operating efficiencies than the industry as a whole — could come under pressure short-term.
+A lowered credit rating makes it more expensive for a company to issue new debt.
+SHARE & BOND ISSUES
+Bell Atlantic Corp's Bell Telephone Co of Pennsylvania is restructuring its debt to reduce its interest charges: it is calling for redemption all its outstanding 8.75% debentures due July 15 2015 and will pay 104.24% of principal plus accrued interest, and has offered $150m of 6.875% debentures due March 15 2003 at $98.90% to yield 6.275%.
+Salomon Brothers Inc was the sole manager for the issue.
+Digital Biometrics Inc, Minnetonka, Minnesota maker of electronic fingerprint systems says it has filed an amended registration statement with the US Securities & Exchange Commission to increase its shares of common stock to 2m — the public currently holds 1.0m and another 1.0m shares are held by the its principal shareholder; proceeds from the latest offering will be used to buy back and cancel the principal shareholder's shares.
+The co-managers are Dain Bosworth Inc and John G Kinnard & Co Inc.
+Equinox Systems Inc, making input-output controller boards for multi-user computers in Fort Lauderdale, Florida has filed to go public with an initial offer of up to 1.5m shares, 1m of them new, at a target price of $11.50 to $13.50 a share to raise some $12m for working capital.
+The offering will be made  through Robinson-Humphrey Co Inc, Raymond James & Associates Inc and Punk, Ziegel & Knoell.
+3DO Co Inc, San Mateo, California has filled in the details on its planned initial public offering and has filed to offer 2.2m shares, all new, at a target price of $11 a share to raise working capital to fund anticipated operating losses.
+Some $4m will also be used for capital expenditures and the rest for possible acquisitions.
+Morgan Stanley & Co and Alex Brown & Sons Inc are the underwriters.
+COMPANY RESULTS
+BMC Software Inc has turned in third quarter net profits up 39.8% at $17.3m, on turnover up 34.7% at $65m; net profit for the nine months was up 42.1% at $45.6m, on turnover that rose 32.4% to $173m.
+Net earnings per share rose by 37.5% to $0.66 in the quarter, and by 40% to $1.75 in the nine months.
+Comparisons are with restated figures.
+Dallas Semiconductor Corp has reported fourth quarter net profits up 75.4% at $5.3m, on turnover up 46.2% at $33.3m; net profit for the year to January 3 was up 25.9% at $18.6m, on turnover that rose 15.8% to $120.2m.
+Net per share rose 66.7% to $0.20 in the quarter, 22.4% to $0.71 in the year.
+The 1993 figures were reported at 14 and 53 weeks.
+Intelogic Trace Inc has turned in second quarter net losses of $225,000 down from losses of $5.2m last time, after $691,000 extraordinary gains this time and $234,000 losses from discontinued operations last time, on turnover that fell 11.8% at $22.5m; mid-term net amounted to $86,000 against losses of $6.6m last time, after $2.7m extraordinary gains this time and $233,000 last time as well as $40,000 losses from discontinued operations, on turnover that fell 11.1% at $46.2m.
+Net earnings per share amounted to $0.01 in the half.
+Elbit Ltd has reported that net profit for the year to December 31 declined by 14.8% at $30.3m, on turnover that rose 18.1% to $483.3m.
+Net earnings per share fell by 18.1% to $1.76 in the year.
+The Israeli company reports its figures in US dollars.
+L M Ericsson Telefon AB has reported net profit for the year to December 31 down 18.5% at the equivalent of $185.0m on turnover up 1.7% at $5,390m; net earnings per share fell 13% to $0.45.
+The company says it converted the figures at $0.142 to the Swedish krona, the rate that obtained on December 31.
+MORE NON-CANDIDACY DECLARATIONS
+One way and another, it appears that the search for a new chief executive for IBM Corp is not going too well as one after another, the most fancied candidates declare that they are non-runners — so long after their names were first widely canvassed in the press that they leave the strong impression that they have considered or been considered for the job, but after having looked into it, decided that they wouldn't touch it with a bargepole: latest to declare his belated non-candidacy is former Hewlett-Packard Co chief executive John Young, who says he is ‘definitely not a candidate’—‘He's enjoying retirement,’ said a Hewlett spokeswoman; all attention is now focussed on the thought-to-be front runners that haven't ruled themselves out — Paul Stern, recently retired chairman and tough manager of Northern Telecom Ltd, who could be planning to repeat his double act at that company with another former IBMer, Edward Lucente, who has also just resigned from Northern Telecom; the other two whose odds have shortened are George Fisher, chairman and chief executive of Motorola Inc, Morton Myerson, chairman of Perot Systems Corp, and Louis Gerstner, head of RJR Nabisco Co; industry sources told Reuter that the name of Michael Armstrong keeps coming up within IBM — but he quit only a year ago, and has just taken the top job at Hughes Aircraft Co.
+ED LUCENTE COULD BE USEFUL TO IBM
+Ed Lucente would be an appropriate sidekick in a Stern administration — he won the nickname Neutron Eddie at IBM Corp, because his moving to a new department was regularly followed by job cuts at the unit.
+FUJITSU FORECAST FIRST LOSS
+Hit by relentless price competition and slumping business conditions, Fujitsu Ltd on Friday forecast that for fiscal 1993 to March 31, it would report its first loss since it was first listed in Tokyo in 1949: it sees a group net loss of $322m and a current loss of $169m for the year, against net profit of $103m and current profit of $437m last fiscal — current profit includes gains and losses made on investments in stocks and bonds and sundry profits and losses from other non-operating activities; ‘Customers expect lower prices,’ said Mike Beirne, a Fujitsu spokesman —‘the price competition goes from the price war in personal computers right up to mainframes;’the company acknowledges that losses are likely to continue into the first six months of its new year.
+SIEMENS NIXDORF PLUNGES INTO THE DOLDRUMS
+Siemens Nixdorf Informationssysteme AG now looks as if it is right down there in the corporate basket case category: after some three years of substantial losses, Siemens AG chairman Heinrich von Pierer now says that an effort is being made to ensure that its return to profit ‘doesn't take much longer than three years;’ its biggest problem is that the pain of customers starting to go stone cold on mainframes has scarcely begun yet in Germany.
+PENTIUM FLOATING POINT UNIT 3 TO 10 TIMES BETTER THAN 80486
+Intel Corp is saying its revamped Pentium floating point unit operates three to 10 times better than the one in the 80486's, apparently positioning it against RISCs like the MIPS Technologies Inc R4000.
+OSF CHIEF HESITANT ABOUT USL  ACQUISITION 
+Open Software Foundation chief David Tory has begun expressing  hesitancy about the Novell Inc acquisition of Unix System Laboratories Inc in the US press, noting Novell's tendency to go its own way and expressing curiosity about how it will handle the Unix Labs infrastructure: Tory said that Novell has become a lot more interested in the Foundation since the acquisition agreement, the implication being that Novell was interested in Unix Labs's version of Distributed Computing Environment software.
+NEW OPTICAL DISKS FORM CANON COULD RIVAL MAGNETIC MEDIA
+Canon Inc says it has new optical disk technology that could rival magnetic disks: its forthcoming 350Mb erasable magneto-optical drives will have an access time close to that of magnetic drives: it plans to launch them late next year at $1,000 for the drives and $30 to $40 for the optical disks.
+COMPAQ TO SELL DIRECT FROM MARCH 22
+Compaq Computer Corp will begin direct sales — mail order — of its personal computers on March 22: the ProLinea, Deskpro and Contura lines and various applications will be sold by phone: it will sell via a toll-free telephone number and through a direct mail campaign aimed at US small business — it is mailing over 2m of its catalogues.
+ELECTRICITE DE FRANCE SIGN JOINT VENTURES WITH US COMPANIES
+The French power monopoly Electricite de France has signed a joint venture agreement for US cable television operators Tele-Communications Inc, Englewood, Colorado and Lenfest Communications Inc, Pottstown, Pennsylvania to buy a 29% stake in Videopole, in which the electricity company has 51% and Credit Agricole 20%, to install and operate cable systems France-wide.
+ARTISOFT EXPECTS RESULTS AT ABOUT BREAK-EVEN POINT
+Tucson, Arizona-based Artisoft Inc warns that it expects its results for the third quarter to March 31 to be at break-even or slightly below — it expects to increase reserves and allowances, take one-time charges, and accelerate accruals by a pre-tax total of $1.5m to $2m, and it expects third quarter revenues to be below year-ago revenues of $20.3m; it blames a shift in the sales mix for the revenue shortfall —‘Given the current trend toward the LANtastic software only option, the company is cautious in its expectations over the next several quarters for recovery in revenues and earnings to the levels achieved in the first and second quarter of the fiscal year,’ the company said — it also offers it with adaptors.
+ADVANCED LOGIC RESEARCH RESPONDS TO COMPAQ PRICING
+Irvine, California-based Advanced Logic Research Inc has cut prices across its entire line of desktop products in response to Compaq Computer Corp's price cuts last week: the reductions are intended to position key models with a higher feature set at prices 10% to 20% less than Compaq's comparable models.
+DEUTSCHE BUNDESPOST APPROVES RECYCLING
+Deutsche Bundespost Telekom has approved a joint venture to recycle old telephones and electronic equipment: Electrocycling-Eignetmer GmbH will be equally owned by Telekom, Preussag AG and Alcatel SEL AG, Telekom said.
+CONNER PERIPHERALS SUES FOR ALLEGED PATENT INFRINGEMENT
+Conner Peripherals Inc duly sued Western Digital Corp over alleged infringement of five disk patents.
+PHILIPS EXPECTS CD-I SALES TO MUSHROOM
+Philips Electronics NV says it sold 100,000 CD-I players in 1992, but expects the market to mushroom in the next two years, with a doubling this year, and a trebling of that in 1994 — 600,000 in other words.
+CORRECTION
+Correction: the Cypress Semiconductor Corp subsidiary doing the HyperSparc chip down in Austin, Texas was incorrectly identified in CI No 2,126 — it is Ross Technology Inc.
+INTEL CONSCIOUS OF FUTURE POTENTIAL
+An Intel Corp observer says the company is really competing against system makers IBM Corp, Hewlett-Packard Co, Digital Equipment Corp and Sun Microsystems Inc, and maybe MIPS Technologies Inc: his point is that Intel is bound to a policy of moving more and more of the system onto its chips until all the hardware vendor will be adding is a couple of leads; he also says Intel is very conscious of the potentials of the computer and communications tie-up and is dreaming of a worldwide network data repository under its thumb; strategic alliances came up and so did the name AT&T Co, and the words ‘information utility’.
+HP INVESTS IN PRECISION DEVELOPMENT
+Hewlett-Packard is reckoned to be spending $1,000m annually on the on-going development of its Precision Architecture RISC chip set.
+VIEWLOGIC TO ACQUIRE QUAD DESIGN
+Marlborough, Massachusetts-based Viewlogic Systems Inc is to acquire privately-held Quad Design Technology Inc, developing software for analysing timing and interference problems in circuit designs in Camarillo, California for 872,700 new shares, giving the transaction an indicated value of $16.7m; Viewlogic develops electronic design automation tools and did $65.8m last year; Quad had $5.3m sales.
+ROCHESTER TELEPHONE ENLIST BELL COMMUNICATIONS HELP
+Rochester Telephone Co, Rochester, New York has called in Bell Communications Research Inc to help with a study into whether or not to deploy a broadband fibre optic network in its local service area.
+STATE HOLDING COMPANY TO CONTRIBUTE TO SGS THOMSON
+Italian state industrial holding company Istituto per la Ricostruzione Industriale said its board had approved plans to contribute its share of the capital increase for SGS Thomson Microelectronics NV.
+JOINT VENTURE ADDS CUSTOMER NETWORK MANAGEMENT SYSTEM
+The Siemens Stromberg-Carlson joint venture of Siemens AG and GEC Plessey Telecommunications Ltd has added a Customer Network Management system designed for users of Switched Multimegabit Data services on the company's EWSM cell switching system, which is now in service with Bell Atlantic Corp, Ameritech Corp and MCI Communications Inc.
+KYOCERA PLANS TO SHED 1,000 JOBS
+Ceramic chip packaging specialist and OEM printer and personal computer manufacturer Kyocera Corp says it plans to cut its total workforce to 13,000 by shedding 1,000 jobs over the next three years to cope with a possible rise in the yen to 100 to the dollar; the cuts will be achieved by reducing annual recruitment of graduates and normal retirement of some 700 a year, the company explained.
+BIG FIVE WORK ON DIGITAL EUROPEAN CORDLESS STANDARD
+The Big Five Europeans in cordless phones, Alcatel NV, L M Ericsson Telefon AB, Nokia Oy, Philips Electronics NV and Siemens AG say they are working on plans and applications with the Digital European Cordless Telecommunications standard.
+SYSTEMS UNION TURN IN RECORD RESULTS
+Accountancy software supplier Systems Union Ltd, has turned in a record result for its 1992 fiscal year, with pre-tax profits up 280% to £1.5m, on turnover that increased 47.6% to £12.1m: the privately-owned London-based company has operations in Europe, the US and the Asia-Pacific region, and opened a new office in Hong Kong in November, with the aim of addressing the expanding South East Asian market and supporting the existing network of local distributors and agents; it now boasts more than 100 agents, value-added resellers and distributors worldwide; chairman John Pemberton aims to expand this network further during 1993; the group also launched version 4.0 of its SunSystems product line at the end of last year; SunSystems comprises two main elements — SunAccount, a fully-integrated ledger accounting package, and SunBusiness, or sales purchase order entry, invoicing and inventory and control software.
+NEWBRIDGE NETWORKS INTRODUCES VIVID PRODUCTS
+Newbridge Networks Corp, Ottawa, Ontario last week introduced a new Vivid — for Video Voice Image Data — line of Asynchronous Transfer Mode local area network products — the Vivid ATM Hub, Ridges, LAN Service Units, ATM Network Interface Cards for workstations and personal computers and Route Server connection management and routing software; the Canadian also signed a sales and marketing pact with Xerox Corp's Xerox Network & Professional Services division covering the Newbridge MainStreet wide area networking equipment and the new Vivid ATM local net line.
+SPRINT CORP EXPANDS FRAME RELAY NETWORK
+Sprint Corp expanded its global public Frame Relay network to include Canada, France and Germany: it already links the US and the UK.
+OS/2 2.1 NOW IN BETA TEST
+IBM Corp is readying OS/2 2.1 — now in beta test — for introduction at Comdex Spring in Atlanta, Georgia.
+TYNE & WEAR DEVELOPMENT CORP USE SUPERSCAPE TO ASSIST IN REDEVELOPMENT SCHEME
+Tyne & Wear Development Corp in the UK is using a specially adapted version of the Superscape virtual reality software from Aldermaston, Berkshire-based Dimension International Ltd to enable planners and the public to ‘walk through’ its £180m redevelopment scheme for the City of Newcastle Upon Tyne's East Quayside: Newcastle-based Real Time Design Ltd, which is implementing the system, has already created the base landscape and a few of the proposed buildings in the virtual world, and will continue to add new ones based on architects drawings and computer aided design-generated images; using the system, it will be possible to simulate, in real time, the experience of driving on the roads between the new buildings, ensuring that the Tyne Bridge is visible at some locations.
+GUARDIAN NEWSPAPER FOR THE BLIND AND PARTIALLY SIGHTED
+The Guardian newspaper, in partnership with the Royal Institute for the Blind and associates has launched a system that enables the entire editorial text of the newspaper to be transmitted nightly via Teletext on Channel 4 television's frequencies to a personal computer, which can read the text in a synthesised voice to blind and partially sighted people: those that can afford an £8,000 Braille terminal can also read the text that way, and it can also be displayed in large print on the screen for those with poor sight; the text is structured so that readers can scan the headlines and choose the items that interest them; the paper will be marketed, serviced and supported by Electronic Text Networks Associates Ltd of Newcastle-upon-Tyne, a commercial venture one third owned by the Guardian and the charity; the other shareholders, each with a third share, are Aptech Ltd, which specialises in computer aids for disabled people, and Intelligent Research Ltd, which made the hardware for the system; the decoder board for the personal computer is £400, plus about £500 for a speech synthesizer; the annual subscription to the electronic paper is £160 and the partners hope that other papers will decide to go onto the system.
+COMPUTERVISION TO ASSIST MCLAREN INTERNATIONAL
+Ayrton Senna and Michael Andretti will be bidding for the Formula One World Motor Racing championship with the help of design and manufacturing software from Computervision Corp: the Bedford, Massachusetts company has a two-year technology-sharing partnership with McLaren International to improve the design of the Marlboro McLaren Ford car; McLaren has used Computervision's CADDS technology since 1987, and the newest release, CADDS 5, will be used in the design and manufacture of next year's car; it will enable the Woking, Surrey team to re-design, test and manufacture parts of the car at racing speed.
+LEGATO AND NOVELL EXCHANGE PRODUCTS
+Palo Alto, California-based Legato Systems Inc has agreed to provide its Transport Independent Remote Procedure Call tool kit to Novell Inc in exchange for Novell's local network Workplace TCP/IP stack — the Novell product will be bundled with Legato's Networker in its ClientPak II configuration and users with MS-DOS clients on a NetWare local network will be able to do on-demand back-up of MS-DOS and Unix applications by backing them up on a Unix or NetWare server configured with TCP/IP; IBM has already licensed NetWorker for marketing to its RS/6000 customers.
+DEUTSCHE BUNDESPOST TELEKOM ORDERS NETCOMM PRODUCTS
+The Deutsche Bundespost Telekom is to use 2Mbps X25 switches from Netcomm Ltd, Basildon, Essex to upgrade its service to German universities; it has ordered Netcomm Switch3500 units in a variety of configurations, and an NMS3000 Unix-based network management system.
+LEASING COMPANIES HAPPY TO SEE IBM PRICE CONFUSION
+There is one community that is chortling to itself over IBM Corp's worldwide shredding of its mainframe price list, and that is the big leasing companies: while any prudent data processing manager has to call in Amdahl Corp, Hitachi Data Systems Ltd and Comparex Informationssysteme GmbH to be sure that the bid isn't a rip-off, there is still the nagging doubt that other people may be getting much better deals from IBM, and the only community that sees a wide variety of deals going down is the leasing fraternity, and the big ones say their people haven't been so busy in ages; the effect of all this is to stretch out the buying process by weeks, to the likely detriment of the IBM first quarter figures.

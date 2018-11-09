@@ -1,0 +1,285 @@
+
+
+MICRO FOCUS HITS CICS WITH TRANSACTION SYSTEM…
+Micro Focus Plc yesterday stepped up its presence in the Unix market with launch of Micro Focus Transaction System, a distributed, client-server transaction processing system that runs under Unix, AIX OS/2 and Windows NT, which can act as servers for other copies of Transaction System and for CICS OS/2, CICS/6000 and Transaction System thin clients.
+It supports Function Shipping, enabling access to data from a remote server, Transaction Routing, enabling a transaction to be initiated on a client and redirected for execution on another system; Distributed Program Link provides for Remote Procedure Calls.
+First announced pact is with Sun Microsystems Inc for Sparcsystems under Solaris, the pitch being that IBM Corp CICS users can move applications from their mainframes and run them on Sun distributed client-server systems with little or no modification.
+The multi-user, multi-tasking transaction system supports client-server, co-operative and distributed applications on workstations and networks.
+It supports the CICS command-level program interface and interfaces to Micro Focus Dialog System and non-CICS applications.
+It also offers communications between transaction systems and with mainframe and network-based CICS systems.
+The Transaction System for Sparc will be out in July from Micro Focus and Sun is now selling and supporting the entire Micro Focus Cobol environment for commercial software developers under Solaris 1.1 and Solaris 2; including Cobol Compiler, Toolbox, Dialog System and Operating System Extensions.
+They will integrate with the Transaction System and immediately replace all Sun Cobol products.
+Current support customers automatically get Micro Focus Cobol upgrades.
+Prices for Cobol products go from $250 for the Operating System Extensions to $1,250 for compiler, depending on configuration.
+…
+BUT STILL WINS DEAL WITH IBM TO TAKE ON PL/I
+Despite appearing to be dumping on IBM Corp from a great height with its agreement with Sun Microsystems Inc — it points out users can move CICS off the mainframe and that mainframe upgrades can cost up to five times the price of an entire Sparccenter 2000, Micro Focus Plc was yesterday also able to announce that it has won agreement with IBM for an expansion of their long-term relationship in MVS emulation products.
+In a major departure from its core Cobol competence, Micro Focus has licensed IBM's PL/I compiler and debugging technology from IBM Programming Systems and will sell the products with a PL/I version of the Micro Focus ADMVS product.
+No prices.
+STRATUS OPENS DUBLIN UNIX PORTING CENTRE FOR NON-US DEVELOPERS
+Stratus Computer Inc said it opened a Unix Porting and Technical Center in Dublin, Ireland, for customers and applications software developers outside North America.
+The centre will offer customers and software developers the facilities and personnel to convert their applications to run under the Stratus FTX fault-tolerant Unix operating system.
+The new centre will also enable users and resellers to fine-tune the performance of FTX-based software applications and to consult with Stratus engineers on applications before they are written.
+ORACLE AND US WEST REVEAL PLANS FOR MULTIMEDIA DATABASE SERVICES
+Oracle Corp and US West Inc duly announced details of their alliance yesterday, saying that they were jointly developing a multimedia information server to enable access to information at any time from any place in any form — via personal computer, facsimile machine or a cellular or conventional telephone — and eventually via a screenphone, an interactive television set or a personal digital assistant.
+The message could come in forms such as speech, electronic mail, facsimile or a video clip.
+In addition, customers will be able to conduct electronic information searches, complete financial transactions or choose interactive video services.
+The system will be ready for the marketing of interactive information services to business, education and consumer markets within the next year.
+The first service, multimedia messaging, is targeted for delivery in late 1993 or early 1994 by US West, using Oracle's existing database, messaging and distributed system technology.
+Oracle will make multimedia information server technology openly available, pitching it as a standard for information providers, such as universities and entertainment firms to deliver information.
+NEC TO MAKES MIPS CHIPS IN US
+NEC Corp plans to begin fabricating MIPS Technologies Inc R-series RISC chips at its Roseville, California plant next year, at a claimed rate of tens of thousands a month.
+IBM SAMPLES POWERPC, ENTERS MERCHANT ASIC MARKET
+IBM Corp significantly stepped up its efforts in the merchant semiconductor market late Monday when it announced that it is now sampling the PowerPC 601 RISC microprocessor, with production volumes shipping in the third quarter, and announced its entry into the application specific market with CMOS and BiCMOS process technologies and access to industry-standard ASIC design tools and new applications support services, aiming to deliver ASICs based on gate-array and standard-cell technologies for computer and other systems manufacturers.
+It released the 0.5-micron CMOS 5L process, which uses five metal wiring layers to achieve ASICs of up to 1.3m usable gates, and ASIC design kits supporting the tools from Cadence Design Systems Inc, Mentor Graphics Corp and Synopsys Inc.
+The PowerPC part is designed for use in low-end to mid-range desktop systems and costs $275 for the 50MHz version and $380 for the 66MHz version in quantities of 25,000 to 50,000.
+Other PowerPC products will include the PowerPC 603, targeted at laptop, portable and hand-held systems; the PowerPC 604, a high-performance processor aimed at servers and high-end desktop systems; and the PowerPC 620, a high-performance 64-bit microprocessor for workstations and servers.
+IBM Technology Products' customers will also gain access to CMOS 4S and CMOS 4LP, two of IBM's 0.8-micron processes.
+SHOPPING FOR CLOTHES — OR THE ONE-SIZE-FITS-ALL WAY TO RUIN TWO GREAT INSTITUTIONS
+On a recent visit to Brooks Brothers, we tried to buy two identical shirts in a style that the store has stocked as far back as we can remember.
+The clerk apologetically informed us that there was only one.
+Then we tried to get a pair of shoes, also a standard model.
+The first clerk went into the stockroom and never came back.
+We went to another department and then returned to the shoe section where a different clerk was able, after 10 minutes, to find the shoes.
+To reduce inventory, Brooks Brothers no longer sells many items in exact sizes but instead designates these items small, medium and large.
+One new size has replaced two old ones, making it impossible for half the customers to get a correct fit.
+The store cleverly used some space it saved to install a display of blue jeans, highlighting the high cost of the store's wool trousers.
+Buttonholes
+Recently, we ordered two jackets and a suit.
+We were told that there would be a substantial charge for what used to be a free option: buttonholes on the sleeves.
+We reluctantly agreed to pay the fee (three times).
+But when we went for a fitting, the garments had been made with buttons just sewn onto tacky fake buttonholes.
+The jackets had to go back to the sweatshop, making for an unnecessary and annoying delay.
+Meanwhile, the bill for that big purchase zipped right along, reaching us weeks before the garments were ready.
+The store used to bill the honest way: when the customer accepted the goods.
+Also, the date on the statement showed that Brooks Brothers' computers were programmed to shorten the billing cycle.
+Early one morning, we tried to find a clerk in a department that sprawls across a full floor.
+No luck.
+Finally we asked very loudly if the store was going broke and somebody within earshot scooted out of a doorway to see what the ruckus was about.
+While these matters may seem perfectly normal to those who do their shopping in Albania or Louisville, Colorado, they are not what we are used to.
+Something had changed and we have tentatively come to the opinion that the problems at Brooks Brothers stem from misapprehensions on the part of its owner, a firm that ought to know better.
+Since 1988, Brooks Brothers has been owned by the respected British operator of clothing and food outlets, Marks & Spencer.
+At home, Marks & Spencer is considered the most sensible place for the middle class to shop.
+So taken with this image was former Prime Minister Margaret Thatcher that she let it be known throughout the realm that Marks & Spencer was the place she bought her underwear.
+We once bought underwear at Marks & Spencer, too, but it shrunk quite a bit, which might explain certain aspects of Mrs Thatcher's personality.
+Marks & Spencer has, we are sure, nothing but the best of intentions for Brooks Brothers, which is why it has given the American clothier the benefit of its most successful ideas.
+Unfortunately, these ideas make a lot more sense in spreadsheets contemplated by bean counters — a special type, as the British enjoy a breakfast consisting of beans and toast — than they do at display counters contemplated by customers.
+Whereas the consequences of tight inventory control seem to be accepted by the British consumer — the Marks & Spencer supermarket nearest our London office always seems to be out of chicken by mid-afternoon — it runs contrary to the habits of a typical American shopper, particularly one visiting a store that charges top dollar.
+And the cultural difference is even more pronounced when it comes to personnel.
+British shoppers tend to be ruggedly self-sufficient; Brooks Brothers customers usually want a great deal of help while selecting the exact same suit they have worn since their fathers first took them to the emporium.
+But even if American consumers were exactly like their British counterparts, Brooks Brothers would be heading for a fall.
+The clothier doesn't serve consumers in general, it caters to its own customer base.
+If the clothier's new policies are part of a scheme to build a new (and presumably larger) clientele, we respectfully suggest that the company would be wiser to find these new customers before chasing away the old ones.
+Although there are cultural explanations for the way Marks & Spencer is trying to run Brooks Brothers, most of the new practices transcend national boundaries.
+They are the ideas favoured the world over by generalists holding advanced business degrees and they seem to work well in certain business situations.
+MBA-think is particularly effective when the relationship between buyer and vendor is minimal and the communication between the parties is distant and symbolic.
+For example, a maker of consumer goods like cookies or cigarettes rarely has direct contact with a consumer.
+The consumer picks the items off a shelf in a retail outlet and pays a cashier.
+As there are huge volumes of these transactions, the maker of the goods can reckon its course by studying statistics.
+The very opposite considerations lead to the success of businesses where intense customer contact is the basis of commerce.
+Expensive service organisations such as law firms or medical practices may benefit from the use of common business disciplines, but they cannot succeed if they treat clients as statistics.
+Marks & Spencer's British clothing business, despite its dependence on company-owned outlets and notwithstanding its sterling reputation, is based on a minimal but broadly appealing customer relationship.
+Brooks Brothers' past success was based on the personal touch and more than a  soupcon of snobbery.
+There could be only one consequence as the clothier distanced itself from its customers.
+IBM's personal computer business, particularly its latest manifestation, is a typical mass market operation.
+But the company's mainframe business is quite the opposite.
+As the formerly strong relationship between IBM sales reps and their customers weakened in recent years, both the quantity and quality of IBM's large systems business has fallen.
+In both cases, management appears to have wrongly identified the primary cause of downward pressure on revenue and profit.
+Executives have attributed their companies' problems to the recession and not their own policies.
+This has given both IBM and Brooks Brothers an excuse for inaction and a means to avoid the critical self-examination that is vital to every business.
+While it is clear that both institutions have been concerned about their disappointing financial results, neither has been able correctly to identify the causes of their distress, let alone face the facts.
+Incompetence
+This is not the result of incompetence, but rather the consequences of an understandable ignorance.
+Brooks Brothers and IBM are both unique businesses, and unfortunately this makes them less susceptible to any advice based on more general cases.
+But within the coincidence of their malaise may lie a solution.
+IBM's managers, undoubtedly familiar with Brooks Brothers, should study the clothier's unsuitable behaviour.
+And Brooks Brothers bosses should learn how IBM became unbuttoned.
+In the meantime, customers of both firms may want to reconsider whether their attachments are rewarding relationships or merely empty habits.
+In our case, we're considering a survey of alternative clothiers at a neighbour of Brooks Brothers.
+It has a name most appropriate to our profession: J Press.
+ECHO LOGIC UNVEILS ITS TOOLS FOR CONVERTING MAC APPLICATIONS TO RUN ON POWERPC
+Echo Logic Inc, Holmdel, New Jersey AT&T Co Bell Laboratories spin-out, has unveiled its FlashPort for Macintosh tool set, a binary software translation environment for converting Motorola Inc 68000-based Apple Computer Inc Macintosh programs to run on PowerPC systems under Macintosh System or the IBM Corp AIX Unix-based PowerOpen.
+Echo claims a complete commercial application written in a high-level language can be translated in less than two weeks and that in most cases the code size and performance of an application translated with FlashPort will compare favourably with applications compiled directly on PowerPC.
+Currently Echo engineers do PowerPC translations for customers, but from July the company will offer FlashPort to independent software vendors and developers.
+Apple is using AT&T-backed Echo's technology internally to move some Mac software to PowerPC, but it won't offer FlashPort directly.
+Although Apple is using emulation techniques to get other parts of its Mac system over to PowerPC, its ultimate goal must be to have everything running native on the IBM-Motorola CPU to extract maximum performance benefits, which was the whole point of moving to the architecture in the first place.
+Emulation techniques look like transition strategies.
+Taken in conjunction with the deal with Novell Inc to put the Macintosh System up on Intel Corp systems and its plans for Mac on RISC architectures, Apple has clearly recognised that it needs hearts and minds in the independent software vendor community, says Echo president Brad Burnham.
+On last week's events — Wabi and the Microsoft Corp-Insignia Solutions Ltd roll-out, Burnham says he's glad that vendors finally seem to be acknowledging the importance of the application community with real initiatives.
+He foresees a small number of popular application programming interfaces becoming available on a large number of systems so that developers can target a variety of vendors with one version of an application.
+Translation technologies are important, however, because other options still lack a common development environment and should be able to get to multiple systems from a single code base.
+Echo currently has no iAPX-86 front-end for FlashPort, but is thought to be heading down that road.
+UNGERMANN-BASS MOVES TO FACILITATE MANAGEMENT OF 10BASE-T NETWORKS USING ITS ACCESS/ONE CONCENTRATORS
+Tandem Computers Inc's San Jose-based Ungermann-Bass Inc is trying to make the management of growing 10BaseT networks easier.
+The company has announced comprehensive port-level reporting of statistics, network monitoring and control and the implementation of port-level security across its whole family of Access/One 10BaseT concentrators, including the recently announced 24-port ASM324T module.
+The most basic functions can be enabled by a one-time password activation using Access/One Manager, or any SNMP-based management station.
+Higher level upgrades require a hardware change accomplished via a module swap programme.
+The family's architecture is designed on a tiered principle to enable scalability.
+This protects users' investments in equipment by enabling them to buy the enhanced management and security of higher Tiers as their requirements dictate.
+The new management features are being introduced initially in the form of Tier 2 and Tier 3 support for the ASM324T.
+They include IEEE 802.3K standard repeater management features, adding Simple Network Management Protocol-based management and control.
+The addition of a user-definable Thresholds and Gauges feature — as specified in the IEEE 802.1F standard — enables network management to be customised.
+Network statistics and error levels can be reported or can be configured to disable a port automatically, isolating problems before they affect the rest of the network.
+Concentrator prices vary from $1,295 to $3,450.
+DEC EXPECTED TO LAUNCH FIRST ALPHA PERSONAL COMPUTER ON MAY 25
+Digital Equipment Corp is tipped to unveil its 150MHz Alpha AXP-based personal computer for Windows NT at the Windows World expo alongside Comdex Spring in Atlanta, Georgia on on May 25.
+Priced at $7,000, the minitower will come with 32Mb RAM, 426Mb disk, 512Kb cache, a 600Mb CD-ROM and SCSI controller.
+Other features include Ethernet adaptor, six EISA slots, five drive bays and SuperVGA monitor.
+DEC claims 250 Alpha PCs are already with independent software vendors and hopes to get more than 1,000 of the machines to developers by June 30.
+It also plans to roll out a sub-$5,000 range of Alpha personal computers later this year.
+These low-cost systems will support Intel Corp's Pentium Peripheral Connect Interface bus specification, which will enable NT applications running on its Alpha or Pentium systems to interoperate.
+HEWLETT-PACKARD SHIPS MPOWER FOR REAL-TIME MULTIMEDIA
+Hewlett-Packard Co is shipping MPower, its client-server software for real-time communication and collaboration, at $100 for the client-side, 80% off its $500 list price, until September 30.
+MPower is the newest component in the company's collaborative multimedia programme and integrates multimedia capabilities into HP VUE 3.0.
+MPower gives users point-and-click access to multimedia types — audio, image, graphics, video and text — as well as multimedia mail, faxing, printing, image scanning and the ability to share applications and edit images across the network.
+The software is currently out on the 700 series workstations and X stations.
+It should be up on the 800 server series in the third quarter.
+Real-time sharing of text, graphics, image, audio, video frames and third-party applications is possible via HP SharedX, the MPower component that enables users to pick a destination, press a key and share any X window with anyone on the network.
+MPower's SharedWhiteBoard enables shared images to be annotated in real time, Audio Editor enables users to create, playback and mail audio files and annotate text files with audio playback; DeskScan/UX is for scanning, viewing, manipulating for scale, brightness and contrast, storing and printing high-resolution colour and monochrome images; Multimedia Mailer electronically mails audio, image and video frames and FAX-UX sends and receives facsimile messages; ImageView views graphics images, including facsimile, saves video frames and full-colour PostScript files while PostScript Viewer views PostScript-based objects.
+And SharePrint/UX is a drag-and-drop printing service.
+PHONELINK DATACARE HEADS FOR UNLISTED SECURITIES MARKET VIA A PLACING
+Data retrieval service provider Phonelink Datacare Plc intends to float on the Unlisted Securities Market to fund growth.
+The prospectus will be released in the last week of May by brokers, Allied Provincial Securities Ltd, and the share placing should take place about a week to 10 days later.
+Liverpool-based Phonelink was set up in August 1989, and grew out of two different firms, Profile UK and Technique International.
+Profile was set up by Heather Burke, Phonelink's current client service director, and sold planning information to 3,500 UK companies in the building industry.
+It was sold about seven and a half years ago to its US distributors.
+Technique was formed by Phonelink's chief executive Trevor Burke, and specialised in computer-aided graphic packages for kitchens, bedrooms and bathrooms.
+It was sold in December 1990 to McGraw-Hill.
+Ms Burke said that under her care, Profile provided about 3,000 telephone numbers a day to customers undertaking planning applications.
+This was done using British Telecommunications Plc's Phonebase system to access the directory enquiries database.
+But, because Phonebase is notoriously difficult to access and the charging procedure is complex, Ms Burke and her husband decided there must be a better way of doing it.
+So, they set up Phonelink to provide the ‘Datacare’ bureau service.
+Companies send in a tape or disk holding their records, and the bureau verifies each record against the telephone lists held in BT's database.
+Downloaded
+The information is then downloaded and sent back to the customer.
+This process can also be undertaken via a modem link.
+Datacare, Ms Burke said, is an easy way of retrieving large amounts of information quickly.
+A second option is the Databank Gold service, which is aimed at customers that want regular access to telephone number information.
+On-going maintenance is provided and files are updated regularly.
+But the most recent development is Tel-me.
+Tel-me is a software package that runs on 80386 or 80486 personal computers under Microsoft Corp Windows 3.1.
+It acts as an interface to BT's Phonebase and is  targeted at users that want instantaneous access to the directory enquiries database.
+This is achieved via BT's Global Network Service link and ISDN, and is as quick as making a local call.
+Each customer's database is updated daily.
+Tel-me will initially be aimed at large blue-chip companies, although Ms Burke said it is suitable for use across all types of business no matter what their size.
+Phonelink will charge a licence fee for its software, while each unit used will be paid for at a pre-determined rate.
+Although the technology is available now, it will not be launched commercially until the first quarter of 1994, because Ms Burke said, she wanted to be sure the company was geared up sufficiently to cope with any demands made on it.
+Phonelink is also developing Tel-me further to handle data from a whole range of information providers.
+Future possibilities include providing access to databases holding company profiles, news, hotel information and mapping.
+To do this, the group will need to ally itself strategically to these information providers.
+And this is one of the reasons it has decided to go public — as a way of preserving its own identity and of winning itself recognition.
+Furthermore, Ms Burke said, it needs the resouces to fund growth.
+And with a market capitalisation of about £40m, it hopes to raise approximately £10m by the share placing.
+Allied Provincial's David Shaw said Phonelink estimated that over the coming year, it would need at least £5m to set up a second production site, to buy more data engines and to fund research and development work.
+And up until now, it has pumped a high level of turnover back into just such research and development — out of £820,000 sales for the fiscal year ending March 1992, some £213,000 went on this activity, while for the year ending March 1993, the figure was more like £414,000, out of total revenues of only £922,000.
+INCHCAPE TAKES 15.3% STAKE IN GESTETNER, WITH OPTION TO GO TO 24.6%
+Far Eastern trader Inchcape Plc yesterday announced that it had taken a 15.3% stake in Gestetner Holdings Plc, the world's largest independent photocopier dealer, with the support of 29.5% shareholder Ricoh Co Ltd.
+Inchcape is paying £40.4m for the holding, with an option to take its stake to 24.6% by paying another £41m by July next year.
+‘This is an attractive industry, which we know well, where Gestetner is the world's largest independent distributor, marketing office equipment mainly under its own brand names,’ Inchcape chief executive Charles Mackay said.
+‘For a relatively modest investment at a very acceptable price we have obtained an important strategic stake in a core business which has considerable growth potential.’
+Gestetner made pre-tax profits of £27.2m last year on sales of £900.3m, but the company has since said that trading in Europe has deteriorated and that it sees only a small profit for the half to end-April.Inchcape is buying the shares from Bermudan-registered Chiltern Capital Ltd, quoted in Australia.
+WORDPERFECT PLAYS HARD TO GET ON ISSUE OF ITS INITIAL PUBLIC OFFERING
+WordPerfect Corp, Orem, Utah says that things are now in place for an initial public offering sometime in the future, but it is not prepared to give any indication of when the long-awaited event might happen.
+‘We are just at a point if we have anything to say, we really could not,’ the company told Reuter, but it did say that it had hired Morgan Stanley & Co as its ‘financial consultant,’along with Donaldson Lufkin & Jenrette, but declined to say whether the investment banks are underwriters for a stock offering.
+It also declined to comment when asked if WordPerfect plans to file any registration documents with the US Securities and Exchange Commission anytime soon.
+The co-founders are expected to offer 15% to 20% of the word processor company, which had 1992 sales of some $500m.
+BOOK TO BILL RATIO SLIPS TO 1.13 IN APRIL FROM 1.17 IN MARCH
+The US Semiconductor Industry Association's book-to-bill ratio, slipped to 1.13 in April from 1.17 in March, and new orders for semiconductors in the US market were down by 0.6% on the figure for March.
+April orders on the usual three-month moving average, were $2,166m, and although they were off 0.6%, they were up 35.1% on the year ago figure.
+Average shipments for the three months to April were up 3.5% on the March figure at $1,919m, and up 34.3% on the year ago figure.
+Actual shipments in April were $1,771m, up 19.5% on the March figure.
+The March ratio was confirmed at 1.17.
+SCULLEY BULLISH ON APPLE's 1993 PERFORMANCE ON BACK OF NEW PRODUCTS
+Speaking at the company's developers conference, Apple Computer Inc chairman John Sculley said he expects the company's strong momentum to continue into the second half of the fiscal year, adding that among new products on the stocks are the speech recognition computer system code-named Caspar and the pen-based portable notebook.
+Apple expects to sell its one millionth PowerBook portable computer sometime this year and a PowerBook model with an electronic stylus is set for later this year.
+The company expects to sell 1m PowerPC-based Macintoshes in 1994.
+Sculley repeated that the Newton hand-held computer will be shipping this summer and will soon be equipped with paging and messaging features as the product becomes a family.
+‘Somewhere in the late 1990s, these kinds of personal devices are going to a terrific impact on the world,’ Sculley said.
+He also saw booming business in multimedia, and forecast that Apple will sell over 1m CD-ROM drives this year and more than 2m next — it sold only 50,000 of the things last year.
+BULL CHIEF ORDERED TO COME UP WITH A PLAN TO SURVIVE WITHOUT STATE SUBSIDY…
+Underlining the endless uncertainty that surrounds any industrial or commercial company that has the misfortune to be controlled by the state, France's chronic loss-maker Compagnie des Machines Bull SA has been given two months to come up with a viable strategy, French Industry Minister Gerard Longuet said after a news conference where he outlined his policies after six weeks in office.
+According to Reuter, Longuet said he did not exclude the possibility that foreign shareholders could increase their share of Bull's capital or dominate it — at present, IBM Corp and NEC Corp each has about 5%.
+Longuet says he has asked Bull chairman Bernard Pache to come up with proposals so that the company can live without huge cash injections from the state.
+‘I know how much we have already put in up to the end of 1992 and I know what we could be asked for for 1993,’ Longuet said, but the size of the sums is to embarrassing for him to reveal them — but he did say they were incompatible with what the European Commission would allow and what French taxpayers wanted.
+By voicing his pragmatic policy, Longuet is breaking with decades of French industrial policy by saying it was not his role to build strategic industrial sectors for France.
+He does not however see Bull following ICL Plc and becoming an 80%-owned subsidiary of a Japanese company, but he wouldn't say how much of the equity he would allow to pass into foreign hands.
+Some parts of Bull's activities are viewed as more important strategically for France than others, an industry ministry official told Reuter, declining to give details, but noted that even in a nationally strategic sector like electronic components, France contents itself with owning 45% of SGS-Thomson Microelectronics NV, with Italy as an equal partner and a small private holding held by Thorn EMI Plc.
+Longuet did say that SGS-Thomson would need a link with an industrial partner to satisfy its long-term technical needs.
+He said SGS-Thomson's current link with CEA Industrie was ‘only a financial solution,’ while a more durable relationship would have to be created with an industrial company that uses chips in quantity, a telecommunications firm for example.
+…
+BUT FRANCE TELECOM, HAPPY AS IT IS, WILL ONLY TAKE CROSS-SHAREHOLDINGS
+As for France Telecom, Industry Minister Gerard Longuet said he had asked it consider partners for its international expansion.
+‘The two precise problems I am looking at today are what financial means should be explored, and what partnership, with other European operators or if necessary an industrial company?’
+He said the issue would not be posed until 1998, when Europe's telecommunications markets are due to be completely opened.
+It was up to France Telecom chairman Marcel Roulet to come up with proposals, Longuet said.
+Later, Longuet's aides said that any outside shareholdings in France Telecom should be reciprocal cross-shareholdings and come in the context of specific international projects.
+There was no preconceived idea of what percentage any such opening might involve.
+The company has also been asked to consider spinning cellular operations into a separate company.
+France Telecom has not joined the queue of enterprises seeking privatisation, and its chairman has said that the current statute is quite adequate.
+ERSKINE HOUSE TO GO TO ALCO STANDARD FOR £67.4m IN CASH
+Erskine House Plc is to lose its independence after agreeing a £67.4m cash offer from US photocopier dealer Alco Standard Ltd.
+The shares, which closed at 35 pence on Monday night, leaped 54 pence to 89 pence, just shy of the 90 pence at which the bid values the ordinaries.
+The preference shares are valued at £1, and rose 39 pence to 98 pence.
+‘The UK is a logical next step for Alco Office Products and Erskine House is an ideal fit considering that it also has a significant presence in the US market and complementary interests in Germany,’ Alco chairman and chief executive Ray Mundt commented.
+SHARE & BOND ISSUES
+Division Group Plc, the Bristol virtual reality systems developer, had its offering of 15.4m shares placed at 40 pence a share, valuing the company at £13.5m; trading is expected to start on Monday.
+The placing raised about £5m in new money for the company; in the year to March 1992, it lost £107,000 on sales of £746,000.
+The share placing was handled by Henry Cook Lumsden of Manchester.
+CREDIT RATINGS
+Unisys Corp has taken another step in its return to fiscal probity with an upgrading of its debt from Moody's Investors Service Inc, which moved the senior unsecured debt rating up to Ba3 from B1, the subordinated debt to B2 from B3 and the preferred stock to b3 from ca.
+In addition, Moody's raised issues backed or assumed by Unisys Corp including those of Unisys Finance Corp, Sperry Corp and Burroughs Corp.
+About $2,800m of debt was affected.
+Moody's cited the expectation that Unisys will continue to strengthen its financial profile and improve its operating performance through ongoing debt reduction and rigorous expense management.
+COMPANY RESULTS
+Caere Corp saw first quarter net profit down 85.8% at $215,000, on turnover that fell 13.7% to $8.1m.
+Net per share, adjusted for a two-for-one stock split paid in December 1992, fell 85.7% to $0.02.
+C-Cor Electronics Inc saw third quarter net down 20.6% at $819,000, on turnover down 4.3% at $14.5m; net profit for the nine months was up 81.1% at $2.6m, on turnover that rose 16.1% to $41.3m.
+Net earnings per share fell 21.7% to $0.18 in the quarter, rose 80.6% to $0.56 in the nine months.
+Centex Telemanagement Inc saw fourth quarter net profits down 67.9% at $862,000, on turnover up 21.8% at $47.7m; net profit for the year to December 31 was down 22.6% at $8.8m, on turnover up 27.5% to $187,012.
+Net per share fell 64.3% to $0.05 in the quarter, 20.7% to $0.46 in the year.
+Group 1 Software Inc saw third quarter net down 7.1% at $893,000, on turnover up 12.3% at $8.3m; net profit for the nine months was down 9.1% at $2.6m, on turnover that rose 7.2% to $22.8m.
+Net earnings per share fell 4.5% to $0.21 in the quarter, 10.4% to $0.60 in the nine months.
+Comparisons are made with restated 1991 figures.
+Systems & Computer Technology Inc has reported second quarter net profits up 62.2% at $1.8m, after $538,000 tax credits this time and $284,000 credits last time, on turnover up 41.8% at $28.9m; mid-term net rose 16% to $3m, after $886,000 tax credits this time and $683,000 credits last time, on turnover up 39% at $55.8m.
+Net per share rose 75% to $0.14 in the quarter, 20% to $0.24 in the half.
+IBM MIPS PRICE
+News on the Rialto is that the marker price at which IBM Corp is doing deals is $45,000 per MIPS — and our New York associate Technology News of America hears German users are sitting tight and waiting for the price to hit $40,000 per MIPS.
+3390-9 DELAY
+Latest word from the grapevine is that IBM Corp's 3390-9 disk drive may be put back to June 1 or June 8 (CI No 2,165), and there is a certain lack of confidence that the thing will be an easy sell given that it is significantly slower than the lower capacity drives, making it unsuitable for most leading edge mainframe applications (CI No 2,165): the conspiracy theorists conjecture that it is not a product that the sales force and the market actually want, one that could have been developed simply to respond to something a competitor was planning but in the end never launched, but that it has cost sufficient to develop that to write off the effort now would leave a nasty hole in AdStar Inc's balance sheet — much better to put the thing out in the confidence that some users will bite, and write the work off over perhaps a five-year product life.
+END OF DESKTOP IV PROTESTS?
+Is it really all over now?
+Zenith Data Systems reports that an administrative law judge denied the latest round of protests in the long-running Desktop IV personal computer procurement battle, leaving Zenith and Government Technology Services Inc of Chantilly, Virginia to share the estimated $724m contract.
+MICROGEN MOVES TO NORWAY
+Microgen Holdings Plc is moving into Norway: its Capella AB Swedish subsidiary is paying the equivalent of £1.14m, £950,000 of it upfront, the rest after 12 months, for the computer output microfilm business of EDB A/S: the business has annual turnover running at about £2.85m, and assets are valued at £76,000.
+NETWORK EQUIPMENT TECHNOLOGIES CUT PRICE OF ATM PRODUCTS
+Redwood City, California-based Network Equipment Technologies Inc cut the price of its line of Asynchronous Transfer Mode products by 40%: a 90-port ATMX system now costs $2,700 per port while an ATMX Adaptor Card for Sun Microsystems Inc Sparcstations now goes for $2,500.
+MICROVITEC AHEAD OF BUDGET
+Microvitec Plc, Bradford told the annual meeting that trading in the first three months of 1993 ran ahead of budget: the firm's chairman, James Bailey, said ‘we remain profitable throughout the group, and we look forward to a successful outcome to the current year.’
+FOCUS OF T5 PROCESSOR DEVELOPMENT
+The collaborative MIPS Technologies Inc T5 processor development (CI No 2,165) will be aimed at applications requiring high-performance audio, video and networked workgroup computing, and will be a speculative execution superscalar processor — that presumably means that it will execute the next set of instructions that come up before it knows whether the program requires them or does a branch; it will also include features for multiprocessing, multi-level caches and high-speed uniprocessor systems designs.
+NCR TO ESTABLISH RETAIL COMPUTER SERVICE CENTRES
+NCR Corp says it plans to establish retail computer service centres in more than 50 US metropolitan areas as an alternative to on-site maintenance: the service centres will offer carry-in and mail-in hardware maintenance on a wide variety of desktop personal computers and peripherals, from NCR and third parties; the centres will also market products including power line conditioners, upgrades and consumables, and NCR personal computers.
+AT&T TO PROVIDE PAYPHONES AT McDONALD'S RESTAURANTS
+AT&T Co signed a three-year contract to provide pay telephones at US McDonald's Corp restaurants.
+OSLO COURT BEGINS PUBLIC DEBT  NEGOTIATIONS FOR NORSK DATA
+An Oslo court has decided to begin public debt negotiations for Norsk Data A/S at the request of the company's board: Norsk Data has found it difficult to reach an out-of-court refinancing settlement with creditors that would enable it to secure funds to provide a 25% cash payout to unsecured creditors.
+BORLAND SHIPS OFFICE FOR WINDOWS
+Borland International Inc is now shipping its collaborative Borland Office for Windows combining WordPerfect 5.2 for Windows, Quattro Pro for Windows 1.0 and Paradox for Windows 1.0, at a suggested retail price of $600, $400 for 90 days.
+ULSI SYSTEMS SETTLES WITH INTEL
+San Jose, California-based ULSI Systems Inc has settled its patent and trade secret lawsuits with Intel Corp, and ULSI says that the agreement ends all attempts by Intel Corp to restrain ULSI from selling its maths co-processors.
+BGS SYSTEMS TO SUPPLY IBM WITH BEST 1
+Waltham, Massachusetts-based BGS Systems Inc allied with IBM Corp to provide global worldwide workload management and planning services for the Unix market: BGS will supply BEST 1, a software product for performance and capacity management, to IBM for use in providing management and capacity planning.
+IBM AND BLOCKBUSTER ENTERTAINMENT LAUNCH JOINT VENTURE
+IBM Corp and Blockbuster Entertainment Corp were yesterday due to launch their joint venture to market systems for duplicating audio compact disk recordings in retail stores: the idea is that record companies could eliminate the need to press hundreds of thousands of copies of major recordings — instead the store would tap into central databases at each record company to collect the tracks requested and record them onto a blank disk; although no pilot systems have yet been launched, IBM said the system also could be used to make and sell computer software and video games on demand; the IBM-Blockbuster system is expected to be designed to distribute albums in original form, rather than enabling customers to mix and match their choice of tracks, and negotiations are reportedly already under way with several record companies; a typical CD would take about six minutes to make, complete with the glossy packaging buyers expect.
+GATES VIEW OF IBM
+IBM Corp will be split into independent companies, Bill Gates, chairman of Microsoft Corp, told La Tribune in an interview: he said workstations and large systems would need to keep the IBM name, but consulting, disks and personal computers could go by other names.
+DIGITAL WAY FORWARD FOR MICROSOFT
+Bill Gates, chairman of Microsoft Corp, told La Tribune that he was interested in developing software for digital high definition television, adding that he thought that the Japanese Muse system would fail since digital was the way forward.
+QUICKDRAW GX BETA TEST VERSION NOW SHIPPING
+Apple Computer Inc is now shipping the beta test version of QuickDraw GX software to some 15,000 Developer Programme members worldwide.
+DEUTSCHE BUNDESPOST TELEKOM PULLS OUT OF EUROPESAT PROJECT
+Deutsche Bundespost Telekom is pulling out of the $480m Europesat project to launch two television satellites: it said the returns on the investment were uncertain due to limited interest from television companies; the project, with the Swiss and French PTTs, is to replace the TV Sat 2 satellite and facilitate introduction of high definition television in Europe.
+FORMER ASHTON-TATE MAN GOES TO CREATIVE LABS
+Ed Esber, former chairman and chief executive of Ashton-Tate Corp, has been named the president and chief operating officer of the Milpitas-based Creative Labs Inc subsidiary of the Singapore Soundblaster firm.
+GAME OVER
+One to look out for — Game Over is a new book by David Sheff, which is just published in the US by Random House at $25 and reviewed in the Wall Street Journal: it is subtitled How Nintendo Zapped an American Industry, Captured Your Dollars, and Enslaved Your Children.

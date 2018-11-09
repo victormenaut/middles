@@ -1,0 +1,243 @@
+
+
+IBM ADDS FAST SINGLE-CHIP RS/6000 230 AT $4,800…
+The process is painfully laborious, but with every announcement, IBM Corp is getting closer to acquiring the competitive edge that is the difference between survival and oblivion in the Unix business, and yesterday the company filled in a few gaps in its RS/6000 line, the most challenging development being a wind up of the clock on the single-chip Rios processor to create a 45MHz Model 230, which starts at just $4,800.
+The 230 is designed to be an entry desktop workstation or server and has 8Kb of mixed instruction and data cache, and an additional 128Kb of level 2 cache.
+It has integrated SCSI and Ethernet controllers, takes up to 64Mb memory and up to 1Gb of internal disk and can take up to seven SCSI devices.
+The new Powerstation 23T is a workstation model with a Gt1x graphics adaptor with appropriate cable, 400Mb disk, keyboard, mouse and a new Powerdisplay 16S standard at $8,500; without the display it's a 23W at $6,700.
+The 23S has 1Gb disk and eight-port RS-232 adaptor at $8,900.
+The Model 23E is an upgrade from the 220 series.
+The Gt1x 8-bit two-dimensional graphics adaptor offers two to three times the performance of the Gt1; most products ship May 28, but the 23T follows June 4, and the 23E upgrade and GT1x on the 220 are July 16.
+The new Powerdisplay 16 is a 1,280 by 1,024 pixel flicker-free display with auxiliary power, video signal redrive and Premium OCLI screen coating at $2,675.
+There is also a Powerdisplay 19 version at $3,950.
+There are also new 50MHz Powerstation 36T and 62MHz 37T systems, packaged desktop three-dimensional graphics workstations for applications such as CADAM and Catia.
+They come with Powerdisplay 16, Gt4e colour graphics adapter, keyboard, mouse, 32Mb memory and 400Mb disk; prices go from $12,950 to $25,070.
+The new line-up is completed by the 550L entry-level deskside server with 41.6MHz processor, 32Mb, 2Gb disk and SCSI and Ethernet at $25,500, and the base configuration for the 580 is enhanced to include the SCSI-2 High-Performance Internal input-output controller as a standard feature.
+The new Powerdisplay 16 and 19 are now also available on the deskside models.
+…
+ADDS WINDOWS 3.1 SUPPORT, ENHANCEMENTS IN OS/2 2.1…
+IBM Corp also duly announced the 2.1 release of OS/2 yesterday, describing it as an enhanced OS/2 32-bit operating system with support for Windows 3.1 applications, a new 32-bit graphics engine, 256-colour XGA and Super Video Graphics Adaptor device drivers, support for high-speed printers and some CD-ROM drives.
+Multimedia Presentation Manager/2 is included and adds enhanced audio, basic image and software motion video playback capabilities.
+The Developer's Toolkit for OS/2 2.1 contains bindings, tools, sample programs and documentation, and there is also a Multimedia Presentation Manager Toolkit/2.
+All are out on June 14.
+IBM claims that it runs Windows 3.1 standard-mode applications, including multimedia ones, and ‘major’ enhanced-mode applications; not requiring a VxD device driver, with performance comparable to that of native Windows 3.1.
+Users can start OS/2 and MS-DOS applications from within a Windows application.
+Performance of Dynamic Data Exchange is improved, and Level 2.5 Adobe Type Manager fonts and TrueType fonts are included.
+OS/2 2.1 provides support for Wind ows applications with Object Linking and Embedding capabilities if they run in the same WIN-OS/2 session.
+It costs $250, $200 as an upgrade, and the toolkit is $140.
+…
+AND SHOWS FLASH CARD
+IBM Corp says it will be showing a prototype of its Flash memory-based solid state file at the Business Show Tokyo ‘93 this week.
+It uses Toshiba Corp's 16M-bit NAND Flash memory and an IBM-designed single chip Solid State File Controller.
+It is PCMCIA-compatible and stores up to 20Mb in a PCMCIA Type 1 card.
+CONTROL DATA WORKS WITH GRAU TO ADAPT ROBOTIC LIBRARY FOR UNIX
+Control Data Systems Inc is working with Grau Automation GmbH to develop a Unix version of its Automatic Tape Library, Abba — Abba is also marketed by Hitachi Data Systems Ltd.
+Although Abba is not restricted to any one medium, covering magnetic tape, VHS cassettes, optical disks and streamers, up till now, it has only been used in IBM Corp MVS mainframe and Siemens Nixdorf Informationssysteme AG BS2000 environments.
+However, German and US software developers are currently working together to enable both Abba/E and newly-released Abba/2 to operate in Unix environments.
+Control Data is using Openvision's — formerly Discos — Unitree distributed hierarchical storage management software and its own Aria Volume Manager, which controls the media and drives separately from Unitree.
+According to Control Data, this should give customers the chance to use the most suitable medium for their requirements.
+The first Abba/E systems running under Unitree are expected by the fourth quarter of 1993.
+NOW FUJITSU LICENSES HEWLETT- PACKARD's SOFTBENCH FRAMEWORK
+All roads seem to lead to Hewlett-Packard Co these days, and the company has now won Fujitsu Ltd as a licensee for its SoftBench framework for creating open integrated software development environments — the first licence on the thing in Japan.
+Fujitsu will create software engineering products based on the SoftBench Framework for use on its own systems.
+Other SoftBench licensees are IBM Corp, Informix Software Inc, Control Data Systems Inc and Objectivity Inc, Siemens Nixdorf Informationssysteme AG and the Institute of Information Industry in Taiwan.
+INTELLIGENT MODEM BUYS ITS MODEMS BACK FROM FORVAL
+Sandy, Utah-based Intelligent Modem Corp has acquired the assets of the Modem Division of Forval America Inc and bought back Forval's stake in itself.
+Forval America quits the modem market to concentrate on core telecommunications products from Tokyo-based Forval Corp.
+Most of the modems were originally developed by Intelligent Model for Forval, and the company now has a full line of high-speed modems and communications products.
+Terms of the acquisition of the product line and equity stake were not revealed.
+BRITISH TELECOM's CUSTOMER SYSTEMS —‘LARGEST UK SYSTEMS HOUSE’— COMES OUT OF CLOSET
+By Catherine Everett
+British Telecommunications Plc's Customer Systems division —‘the largest UK systems house that no-one's ever heard of’— has spent the past three years restructuring and now reckons it is set to take the world by storm.
+The systems integration company was formed by merging about 40 small independent firms, based in about 50 different locations round the UK.
+Following heavy rationalisation, it generated £200m turnover last year, and has turned around from being loss-making to earning ‘profits that are less than the industry average’.
+According to manager of finance sector marketing Bernard Uzzell, this is because it is ‘not squeezing the business for maximum profits’, preferring instead to re-invest cash in developing the organisation and in expanding overseas.
+He now claims that BT Customer Systems is the third largest systems integrator in the UK behind Electronic Data Corp's EDS-Scicon Ltd and ICL Plc, specialising in nine vertical markets: manufacturing; retail; transportation; PTTs; civil government; defence; utilities; retail finance and wholesale finance.
+Dealer Board
+The wholesale finance wing is the only one to have had notable success outside of the UK so far, mainly as a result of its dealing room business, BT (CBP) Ltd.
+CBP offers two major products: its Integrated Trading System or dealer board, which provides traders with a telephone system enabling them to access multiple lines and conduct simultaneous conversations; and its Open Trading System, a software package that enables financial institutions to take in live data feeds from a number of information vendors and exchanges.
+The data feeds can also be integrated with in-house applications.
+Uzzell claims that CBP has a 32% share of the UK dealerboard market, a 27% share of the world market, and more than 300 customers in over 30 countries.
+This amounts to approximately 26,000 installed positions.
+And he is optimistic that Customer Systems, and the wholesale finance arm in particular, will benefit from this penetration overseas — it should be able to generate business on the back of existing contracts, he reckons.
+Furthermore, he adds, the division is in a good position to drum up work in co-operation with or via its connection to BT's facilities management firm, Syncordia, and its international network services organisation, Global Network Service.
+The aim is to make Customer Systems a top five world player by 1997.
+But Uzzell says this is unlikely to be achieved purely organically, and some form of overseas acquisition will probably be necessary.
+Other likely scenarios are non-exclusive partnerships, marketing agreements and joint ventures, vendors that could be worked with ‘deal by deal’.
+The wholesale finance department, for example, would be most interested in companies selling back-office systems, as it specialises in front-end business consultancy.
+Uzzell is targeting a 25% growth in turnover for wholesale finance, from approximately £45m last year to about $56m in 1993.
+But in his opinion, cause the telephony market is now saturated, the only way forward is via its systems integration business.
+And luckily for him, research from International Data Corp and Input indicates that systems integration is one of the fastest growing information technology sectors — Input predicts that the Western European market, valued at $3,300m in 1991, will be worth $7,900m by 1996.
+Conversely, IDC forecasts that the world market is set to grow at about 20% per year between now and 1996, by which time it will be worth $58,600m.
+Furthermore, Customer Systems strengths, obviously enough, lie in telecommunications — and according to Uzzell, it will continue to focus on what it does best.
+Research shows that, while across the majority of industry sectors the average telecommunications content of any given systems integration project is approximately 57%, the proportion in financial sector deals is more likely to be about 71%.
+But, Uzzell reckons that the nature of the systems integration market is changing.
+First, customers are becoming more demanding.
+According to Price Waterhouse, integrating business objectives with information technology is seen as the number one business problem, and organisations increasingly want to see tangible benefits from their investment in technology.
+As a result, customers are demanding not just expertise on information systems, but also effective project management and implementation skills, industry sector knowledge and suitable support services.
+Second, the information technology market is becoming increasingly complex.
+As more and more often barely distinguishable products and services come on the market, customers become increasingly confused about what to choose, and what will be best for their own particular organisation.
+So, they look to experts that can integrate different technology from different vendors, while creating a coherent strategy that will meet their business needs.
+Third, the market — and especially the financial sector — is becoming increasingly global in nature.
+As good communications are of the essence to remain competitive, companies are keen to have technology, especially software, that is integrated seamlessly from site to site, across national boundaries.
+Finally, the systems integration market is becoming increasingly competitive as everyone from hardware manufacturers to software houses jump on the bandwaggon to try and offer value-added ‘solutions’ as opposed to simply raw product.
+Although Uzell reckons there are no real dominant players, he divides the competition into four main areas: computer vendors, such as IBM Corp and ICL, which he reckons have the geographical scope and financial muscle to deal with the global demands of systems integration projects, but are unlikely to be independent, are often too hardware-oriented and lack the relevant software expertise; management consultancies, such as Arthur Andersen and Price Waterhouse, which he believes do have the necessary business knowledge, but generally lack implementation skills and have little experience of large-scale project management; telecommunications suppliers, such as AT&T Co and France Telecom, which again he reckons are too hardware-oriented and short of software skills; and software houses, such as Electronic Data Systems Corp and Cap Gemini Sogeti SA, which he recommends for their independence and expertise, but feels that few are international enough or have the  necessary financial clout to handle large deals.
+As a result, Uzzell reckons that the market is likely to polarise over the next few years.
+This will take the form of a small number of very large global players and a large number of very small niche operators — niche in terms of both market and geographical coverage.
+But he places Customer Systems firmly among the global operators due to its relationship with BT and that company's business partnerships.
+First, the division, as part of a telecommunications empire, has operations spanning a wide geographical area.
+Second, he claims, it has access to supplementary business, management and technical skills — for example, consultants can be brought in from a centralised pool for any particularly specialised work.
+Third, BT's financial strength means that customers don't have to worry about it still being around in five years time.
+Risk-reward sharing
+This also gives Customer Services the credibility to form strategic partnerships if necessary, and means that it doesn't need to spend a fortune on research and development — it simply taps into the work done at BT's Martlesham, Suffolk-based research centre.
+Fourth, although the division will obviously favour BT's networking products in its deals, it is also keen to acquire licences or marketing rights to a broad range of other vendor's products.
+Uzzell claims that BT is currently the biggest single customer of IBM, Digital Equipment Corp, and Tandem Computers Inc.
+Finally, following Customer Systems recent survey on industry trends (CI No 2,160), it has decided to implement a ‘risk-reward sharing option’.
+This is a new sales approach, designed to support the industry's desire to link information technology and business objectives to gain the competitive edge: if a customer wants to increase market share by say 5% over a year, Customer Systems might, for example, agree to take a certain fee up front , and then link subsequent earnings to the achievement of the customer's business aim.
+This, Uzzell reckons, has several benefits — it motivates his company to do the best job possible; it instills confidence in the customer; and, best of all, if targets are exceeded, both parties reap the benefits.
+DEC PREPARES ITS FINAL MIPS R-SERIES-BASED MACHINES FOR SHIPMENT…
+Digital Equipment Corp's final R-series RISC-based Ultrix machines are due to ship next month.
+The three DECsystem servers and two DECstation workstations use the MIPS Technologies Inc R4000 RISC.
+The Personal DECstation 5000 Model 50 uses a 40MHz CPU and replaces the Model 33.
+It comes with up to 40Mb RAM, 1Gb disk, two Turbochannel slots and is rated at 43.8 SPECint92 and 40.9 SPECfp92.
+It costs £6,800.
+The 60MHz DECstation Model 260, rated at 58 SPECint92 and 54.7 SPECfp92 comes with up to 480Mb memory and three slots and it starts at £12,800.
+The DECsystem 5000 Model 50 runs at 50MHz, the Model 260 and DECsystem 5900 Model 260 run at 60MHz.
+…
+ADDS FIRST DISTRIBUTED COMPUTING ENVIRONMENT
+Digital Equipment Corp last week announced its first full Open Software Foundation Distributed Computing Environment product, DCE for DEC OSF/1 software, available in July.
+It is claimed to incorporate all the Foundation technologies specified by the Open Software Foundation's architecture and consists of four components: Digital DCE Runtime Service, Digital DCE Cell Directory Server, Digital DCE Security Server and the Digital DCE Applications Developers' Kit.
+DEC is also providing custom DCE consulting and integration service for implementing DCE including technical training and design analysis.
+DEC plans to add DCE products for MS-DOS machines, OpenVMS on VAX and Alpha AXP systems and the company's implementation of DCE Distributed File System over the next 12 months and pricing will vary with package components, it says.
+OCTEL MERGES VOICEMAIL AND FAXMAIL WITH ITS NEW FAXAGENT
+Octel Communications Corp, Milpitas, California has enhanced its voicemail offering with the announcement that users can now send and receive facsimile messages through their voicemail box, making the multimedia mailbox a repository for speech and facsimile messages and database information.
+The addition of FaxAgent to an Octel voice information processing system enables users to access the mailbox via any touchtone phone to be told how many messages — whether speech or facsimile — are waiting.
+Users can listen to the spoken messages and direct facsimiles to any machine using the phone keypad.
+Faxes can be saved in order to be printed later or can be sent to other system subscribers — again using the keypad on a touch tone phone.
+The sender of the message can record a spoken message to leave with the faxed document; the recipient will hear the annotation before deciding whether to print the message.
+Faxes can be labelled as private, preventing them being forwarded to anyone else.
+Octel has also announced two other products: FaxBroadcast, enabling a document to be sent to many locations using a single transaction and FaxStation, an overflow mailbox designed to eliminate problems caused by busy signals or fax machines out of paper.
+FaxStation is a store and forward device: faxes are delivered as soon as the station becomes available.
+APPLE CHOOSES INSIGNIA FOR MS-DOS, WINDOWS ON POWERPC MACs
+Insignia Solutions Ltd, High Wycombe, Buckinghamshire, is poised to become a key player in the evolving new power structure in the industry.
+In addition to being Microsoft Corp's front-line defence against the forces of Sun Microsystems Inc WABI binary interface for Windows applications under Unix, and providing the MS-DOS and Windows emulator on most other vendors' Unix machines, Insignia last week became one of only 12 companies to get on Apple Computer Inc's ‘Inside Track’ programme.
+It will be writing a native implementation of SoftPC for the PowerPC Mac, which is due to be available when Apple first ships the machines in January or February.
+The SoftPC version that gets up on the Mac will be the full Windows product that Insignia has just licensed from Microsoft, so that Windows and MS-DOS programs will be able to run legitimately on an IBM Corp chip-powered Mac.
+Insignia has labelled the product features of souped-up anti-WABI SoftPC ‘SoftWindows’, which is based on Bristol Technology's Red Baron technology.
+Insignia reckons that emulation will become de rigeur on all machines by and by and that it will become a utility house.
+HOLLYWOOD BOUND: PACIFIC BELL ANNOUNCES FIRST CUSTOMERS FOR ITS ADVANCED BROADCAST VIDEO SERVICE
+Pacific Telesis Group Inc's San Francisco-based Pacific Bell Inc has announced the first customers for its new Advanced Broadcast Video Service.
+The service, introduced only two weeks ago, uses the latest digital fibre-optic telecommunications technology to improve on current analogue transmission methods for transporting all grades of video from high-definition television to high-quality videoconferencing, so providing better motion, colour and sound.
+It provides one-way transmission of monochrome or National Television Systems Committee standard colour video compressed to 45Mbps  alongside up to four audio channels.
+The first customers for the new service will be using it for a variety of applications.
+Fibre-optic broadcaster WilTel Corp will be using it for transmitting television programmes as will Vyvx Inc, which also provides videoconferencing, production and editing facilities to over 65 US cities.
+Industrial Light & Magic, a subsidiary Lucas Digital Ltd, will use it as an alternative to transporting videotape from production facilities in Los Angeles to its post-production facility in San Rafael near San Francisco.
+Varitel Video Inc is to use the system to provide a film and video post-production and network service across California while Entertainment Digital Network Inc is to provide a similar service nationwide.
+The US KRCA-TV Channel 62 is to use it to enhance its programme distribution, video post-production and satellite links, including connections to local sport and entertainment venues and the San Francisco Satellite Centre, a divisions of Watson Communication Systems Inc is to use it for local connections to its satellite teleports for US and overseas transmissions.
+Finally, AT&T Co is to use it connect local film and broadcast companies to its Telstar satellites and Accunet Digital Television Service.
+Pacific Bell says that where applications cross its service area boundaries, transmissions will be handed off to long distance carriers of the customers' choice.
+IBM PUMPS $27m INTO OBJECT DESIGN TO SEAL DEAL ON OBJECT DATABASE
+Having tried out just about all the object-oriented databases out there, and signed agreements with the developers of quite a few, IBM Corp's Programming Systems Division is phasing out all other agreements and signed a strategic partnership agreement with Object Design Inc (CI No 2,156).
+It says it will use the Burlington, Massachusetts-based firm's ObjectStore object database for all of its future object-based application development.
+To cement the deal, IBM has invested $27m for an equity stake in the firm — Philips Electronics NV and Eastman Kodak Co also have holdings.
+IBM plans to use ObjectStore in more than 50 object projects that it has under way.
+Products will begin shipping by the end of the year, according to IBM's vice-president of software engineering Irve Trager.
+First up will be a central object-oriented repository for AD/Cycle, now renamed the Application Development Platform.
+This is IBM's troubled attempt to develop a complete local network-based application development environment for client-server systems — IBM failed outright with AD/Cycle for MVS, and abandoned it last year.
+An ObjectStore repository for Information Warehouse, IBM's corporate software architecture for accessing data across System Application Architecture systems, is also planned.
+Future workflow management, document management and compiler tools will implement Object Design technology.
+ObjectStore will also feature in IBM's Distributed System Object Model — an object-oriented schema that provides a common mechanism for communicating between objects.
+ Persistent 
+IBM intends to integrate parts of ObjectStore with DSOM to help in the identification and storage of  persistent and  non-persistent data.
+It will also use ObjectStore to recognise code, data and objects written in different  programming languages.
+Sun Microsystems Inc's Distributed Objects Everywhere project also uses aspects of ObjectStore.
+Object-oriented versions of AIX and OS/2 will also use ObjectStore subsets, and Object Design is currently negotiating to get its stuff into the IBM-Apple Computer Inc Taligent Inc object operating system effort.
+IBM and Object Design plan to develop a series of products linking ObjectStore to IBM's range of databases.
+First is an object-oriented interface between ObjectStore and DB/2 to enable users to view relational data without using SQL commands directly.
+To do this, an interface will be built to IBM's database access technology, the Distributed Relational Database Architecture — support for third party DRDA-compliant databases will follow later next year.
+An SQL gateway will follow.
+Now that it is getting married, IBM is tearing up its object date book and says that existing object projects and software using technology from companies such as Versant Object Technology Inc and Objectivity Inc will be moved over to ObjectStore in their next releases.
+BOLT BERANEK's SOFTWARE ARM SHOWS NEW CORNERSTONE DATA ANALYSIS PACKAGE
+Bolt Beranek & Newman Inc's Cambridge, Massachusetts-based BBN Software Products division has announced BBN/Cornerstone, a data analysis software package designed for client-server based server computing.
+The system is targeted at scientists and engineers needing to access, manipulate, analyse and present large volumes of information, quickly and easily, being intended as a kind of happy medium between traditional user-hostile statistical software and spreadsheets, which are inadequate for complex technical data analysis.
+It comprises core data access and graphical analysis tools, together with Workmap, a kind of monitoring feature that plots the various stages of analysis completed by the user as a series of icons.
+The system can also be extended using BBN's existing RS/Series of data analysis products and the Cornerstone Extensions Language.
+Its Data Navigator enables users to access data, across a network, from Ingres, Oracle, Sybase and ASCII tables.
+This information is then presented, in familiar spreadsheet format, in the data set editor, ready for the user to analyse.
+By pointing and clicking on various analysis tools, which are backed up by an on-line help system, users can generate a number of graphs, box plots, and contour plots to help isolate particular factors, test theories and build models.
+Optional modules are also being offered for more complex multiple regression, multivariate analysis of variance and principal components analysis with the initial system release.
+Under these, users can create ‘what if?’ models to visualise and validate their assumptions.
+Finally the optional Cornerstone Extension Language, based on C++, is being offered to those wishing to develop customised applications and/or integrate existing applications.
+Since Cornerstone works with a memory copy of the information it retrieves, there is no danger of it corrupting its source data.
+It can be used to export material to the originating database however.
+It also enables multiple users to share data, collaborate and automate tasks without writing any extra code, via Workmap.
+The system runs under HP-UX and SunOS Unix.
+A single user, fixed licence costs £1,440 and a floating licence is £1,920.
+The Extension Language module is a further £800.
+Future releases will include a Digital Equipment Corp VAX version — DEC server software already exists, and an NT-based personal computer version.
+BBN's existing technical data analysis software is currently used by some 78 Fortune 100 companies.
+Customers include Glaxo, BP, Ford Motor, Caledonian Paper, DEC, the Ministry of Defence, British Gas and Cancer Research.
+BT HAS ENHANCED VIDEOCONFERENCING CODEC
+British Telecommunications Plc has a new videoconferencing coder-decoder, which it says builds on the CCITT's H.261 videoconferencing codec standard that gives improved picture quality, particularly for motion compensation.
+The VC2300 codec is to be marketed both for use in the VC5000 Series 2 rollabout videoconferencing system, and as a stand-alone unit for use by systems integrators and PTTs.
+The picture enhancement feature is called H.261 Plus, and is said to be particularly effective at lower data rates in the 128Kbps to 384Kbps range, although it operates at speeds from 64Kbps to 2.048Mbps.
+No pricing information for it as yet.
+ON TO $20,000m AS HEWLETT-PACKARD CHEERS WALL STREET WITH SECOND QUARTER
+Despite storming figures that saw the company report its first $5,000m quarter, and just miss its first $10,000m half, putting it on track for close to $20,000m this year (see Company Results), chief executive Lewis Platt is not cheering his head off.
+He says he believes ‘upward pressure on the cost of sales is likely to continue’ for the rest of the year and that the company faces a ‘very mixed and uncertain economic environment,’intense competition and rapid market changes.
+Total orders for the second quarter, to April 30, were 28.5% up at $5,370m; orders for computer products rose 32.9% to $4,120m, making it clear that the company, where computers accounted for less than half of the business only a few years back, is continuing progressively to become more and more a pure computer company.
+The rapid pace of growth remains  crucially important, because cost of goods sold, as a percentage of net revenue, was 58.8% in the second quarter, compared with 53.6% a year ago, and put this down to to competitive pricing pressures, manufacturing ramp-ups for new products, and an ‘ongoing shift in revenue mix’ to products with higher cost of sales as a percentage of revenue.
+Total employment during the quarter rose 700, but operating expenses went in the opposite direction from cost of sales, 30.3% of revenues compared with 32.5% in the year-ago quarter, as the company continued the remorseless cost-cutting drive.
+Still, the $1.38 a share for the quarter was a pleasant surprise for most analysts, whose estimates ranged from $1.10 a share to $1.35.
+Several analysts were confounded by the strong performance: only on Monday they had been muttering about how sustainable recent performance had been, and querying whether the share price had not run ahead of itself.
+In the event, the shares were expected to open two or three dollars up on the $79.615 close to Monday trading.
+DIPLOMA SEES STRONG EVIDENCE THAT UK RECESSION REALLY IS OVER AT LAST Diploma Plc, holding company for a portfolio of electronic and construction products businesses, reporting pre-tax profits up 225% at £8.1m, says that industry may be broadly much weaker following a long and debilitating recession, but Diploma has maintained a good level of investment in people as well as plant, and has generally considered the recent years as an opportunity.
+It says it comes out of the recession with important increases in market share and looks to the future with great confidence.
+Going round the major electronic subsidiaries, the company says that Macro, selling National Semiconductor Corp, Hewlett-Packard Co and Philips Electronics NV parts, saw sales up 35% and profits up 75% as real demand starts to be overtaken by excessive ordering and manufacturers seeing shortages and extended lead times.
+It hopes its own order book is solid but knows that double ordering is going on in the sector.
+Anzac, selling Japanese memory chips, is a part of Macro and also turned in a ‘great performance’.
+Profits were 50% up at passive components distributor Nortronic but Wakefield, the US networking equipment company that has moved into network systems integration, turned in a slightly lower contribution than last year because return of growth in the UK market has not enhanced the computer communications sector yet.
+KALAMAZOO GOES TO NETHERLANDS FOR FIRST ACQUISITION ON THE CONTINENT
+Kalamazoo Computer Group Plc has acquired its first motor trade computer systems and services house on the continent, CBA/Nederland BV, for £937,000.
+Eindhoven-based CBA operates solely in Holland and supplies personal computer hardware, software and services to 250 dealers, wholesalers and importers.
+It also undertakes installation and training as well as providing software enhancements and a helpdesk.
+CBA has about 40 staff, all of which will keep their jobs, and generated revenues of approximately £4.8m last year.
+European business development director Peter Field claims Kalamazoo is the UK's market leader for motor dealer systems, with about 2,000 customers and a market share of more than 50%.
+And he is keen to pursue a policy of strategic acquisition, or possibly partnership agreements, in Europe to expand the group's presence in this market.
+He considers France and Germany the most exciting propositions for Kalamazoo.
+SHARE & BOND ISSUES
+Qualcomm Inc, San Diego code division multiple access cellular telecommunications technology developer, filed with the US Securities & Exchange Commission for a public offering of 2.5m common shares to raise cash to increase manufacturing capacity, expand international operations, and form strategic alliances.
+The underwriters for the offering will be Lehman Brothers, Bear Stearns and Co Inc, Alex Brown and Sons Inc and Goldman, Sachs and Co Inc.
+CREDIT RATINGS
+US West Inc's plans to get into the fun-and-games end of the telecommunications business with Time Warner Inc has received a mixed review from the junior among the credit rating agencies, Duff & Phelps Credit Rating Co of Chicago, which placed the securities of US West Inc, US West Capital Funding and US West Financial Services on rating watch.
+It likes the deal in the medium term, since US West plans to finance the investment in large part with equity and to pursue other objectives that will enhance its credit quality to offset the increased business risk inherent in the investment, so that it is likely that ratings will be reaffirmed at their current levels, but in the short term, the business and financial risk will be increased.
+COMPANY RESULTS
+Babbage's Inc has reported first quarter net profit up 107.7% at $538,000, on turnover up 24.4% to $46.3m.
+Net earnings per share rose 100% to $0.10.
+Hewlett-Packard Co has reported second quarter net profits up 7.4% at $347.0m on turnover that rose 21.8% at $5,096m; mid-term net profit rose 107% to $608.0m on turnover that rose 20.2% at $9,669m.
+Microsemi Corp saw first quarter net profit down 15.9% at $248,000, on sales up 56% to $30.5m.
+Net per share fell 25% to $0.03.
+The 1992 figures were reported at 13 weeks and the 1993 ones at 14 weeks.
+Magic Software Enterprises Ltd saw first quarter net profit up 57.8% at $284,000, on turnover up 47.4% to $2.8m.
+Net per share rose 60% to $0.08.
+The Israeli company reports figures in US dollars.
+Diploma Plc has reported net profits for the six months to March 31 of £5.2m, up from just £300,000 last time, on turnover that rose 19.5% at $74.0m; at the pre-tax level, profits were 225% ahead at £8.1m; earnings per share rose 46% to 10.7 pence.
+MINIGRAMS
+IBM Corp is expected to announce today that it is switching to what it calls value-based pricing for mainframe software, charging on either a per-user or elapsed time used basis; the company issued a cryptic statement in response to the Financial Times story alleging that Louis Gerstner had put the break-up of IBM on hold, saying that Gerstner had not said such a thing for public consumption and that he had no plans to do so.
+Hewlett-Packard Co says that in the UK, growth in orders was a storming 39%, and that orders for Unix systems are more than double this time last year: exports from the UK are up 16%, 80% of everything sold is now new business, and all new business is on the Unix side — as price-performance improves two-fold every year, it is selling four times as many Unix boxes each year.
+Adrift in a sea of virtual reality?
+Little more than a year ago you couldn't give away shares in the small computer company sector — so friendless were they that Star Computer Group Plc found it necessary to get into bed with a purveyor of pizzas to improve its visibility and rating: after Tadpole Technology Plc and now Division Group Plc — which soared to 107 pence on its first day of trading from the 40 pence placing price before settling at 96 pence — the rest of the sector looks set for a re-rating as investors seek to discern hidden charms that others have overlooked.
+Minneapolis-based Tricord Systems Inc says that the new Intel Corp Pentium processor can be used in all its PowerFrame servers -now.
+Misys Plc, which said in January that it was in talks that could lead to it acquiring Burns Anderson Independent Network Plc (CI No 2,081), said yesterday that it had not been able to agree terms for the acquisition and that negotiations had therefore been terminated.
+Advanced Micro Devices Inc says it expects to announce an agreement on a foundry for production of Am486s by the end of next month, but it does not see any revenues from the agreement before January next year: it expects to produce about 600,000 to 700,000 Am486 chips this year, and to increase that production to about 1m per quarter by the second quarter of next year; it is still ‘negotiating in earnest’ with several possible foundry candidates.
+Xerox Corp has introduced LiveBoard, a five-foot wide electronic blackboard — Americans call it a chalkboard: the LiveBoard, which sells for $49,500, uses a wireless pen that writes directly on the surface, creating an electronic document that can be shared through ordinary telephone lines for simultaneous viewing and editing from remote locations; it includes a 67’ interactive surface, 80486 processor and software that enables users to edit, colour, annotate, erase, save, retrieve and print whatever they have drawn on the LiveBoard.
+More excitement surrounding Proteus International Plc, the computer-aided molecular modelling and drug design specialist: it is setting up a 50-50 joint venture with University College Dublin for animal health care products: Bioprobe Ltd will be capable of rapid production of diagnostics, vaccines and therapeutic drugs for use by vets — the university and Proteus have been working together on tuberculosis and spongiform encephalopathies — mad cow disease and scrapie, for 12 months, and the aim is for Bioprobe to produce commercially exploitable products within 18 to 24 months.
+Cable & Wireless Plc said its results for the year to March 31 will show an exceptional charge of £84m and exceptional gains totalling £178m to comply with new accounting standards — there will be exceptional profits of £60m from exercise of warrants in Hong Kong and of some £118m from the sale of 20% of Mercury Communications Ltd to BCE Inc; the charge will cover its interest in undersea cable systems — it has also decided to reduce the book life of its digital submarine cable assets to 15 years from 25, which will lead to an additional £12m depreciation charge each year.
+Cable & Wireless Plc also faces a $368m damages suit from its local partners after it withdrew from the project to provide telephone services in the Philippines, Digitel Telecommunications Philippines Inc president Eduardo Villanueva said: Cables refused to put up its share of a deposit on the $1,480m telephone project on Luzon island; the local partners also want the government to blacklist the company.
+Temic Telefunken Microelectronic GmbH is to second source Intel Corp's 80C51ZX microcontroller.
+A decade or three back, when most of us could visit most countries without a visa, there was little expectation that this would prove a high water mark and that restrictions would steadily increase, but we may not be able to assume that the freedom to dial direct to distant countries will continue to increase: Egypt has cut direct-dial telephone links with Pakistan, Afghanistan, Iraq, Sudan and Iran to make it harder for Moslem militant leaders in exile to communicate with groups at home and organise terrorist attacks, the Al-Akhbar newspaper reports; it is still possible to call via an operator.
+In an interview with La Stampa yesterday, Ing C Olivetti & Co SpA chief Carlo De Benedetti condemned the pervasive system of political corruption, which he says obligated Olivetti to pay bribes or lose contracts, as ‘having reduced Italy to a state worse than the Third World’: he says that at the last shareholders meeting earlier this year, he had to deny any bribery because he couldn't preview information to the shareholders that was intended for the legal authorities; he says that facing the judges, he felt liberated from a weight —‘then I felt a sense of justice — it pleased me to be there,’ noting that when the company decided that the demands of the postal service for slush funds became too extreme and Olivetti stopped paying, ‘we didn't sell another machine to the Post — we had arrived at the absurd point where, if we didn't pay, we didn't work and the moment we quit paying, we didn't work any more’.
+It was awfully sporting of IBM Corp to set up consultancy, systems integration and facilities management ventures in an attempt to put to profitable use the surplus skills of so many of its employees, and only curmudgeons asked if IBMers were actually the right people for the job: sad to say, the curmudgeons were right, and according to Computerworld, the head of the new IBM Consulting Group in White Plains, New York, Robert Howe, says that it is having to hire people from the likes of Andersen Consulting and Coopers & Lybrand, because as he told the paper, ‘we've tried IBMers, but frankly we've had to send some home — some IBM people didn't get the notion of the service business — they didn't understand that we didn't want administrators and middle managers’.
+FIVE YEARS AGO
+Five Years Ago…
+On May 18 1988, Computergram Number 931 reported that IBM was seeking retroactive royalties from any company that had cloned the Personal Computer * * * the Open Software Foundation was revealed with seven sponsors * * *

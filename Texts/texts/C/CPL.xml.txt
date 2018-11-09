@@ -1,0 +1,260 @@
+
+
+CONVEX TAPS HP-UX APPLICATIONS BASE FOR PARALLEL BOX…
+Convex Computer Corp and Hewlett-Packard Co yesterday said that they are hotting up the alliance that saw Hewlett take a 5% stake in Convex last year with a potentially substantial technology exchange to plug the massively parallel applications gap.
+Convex is building a massively parallel system out of Hewlett's Precision Architecture RISCs, and under yesterday's agreement, will swap its parallelising compilers for Hewlett's HP-UX implementation of Unix so that it should be a relatively straightforward task to adapt the 4,000 HP-UX RISC applications to run on the planned Convex machines.
+In the context of the agreement, analysts were quoted as suggesting that acquiring a software base for a new supercomputer has traditionally been the biggest drag on sales, and doubting that Convex and Hewlett had cracked it — but up to now there has been no massively parallel machine that is both hardware- and software-compatible with a big existing applications base.
+Convex's plans call for a massively parallel machine that will be scalable to TFLOPS performance, in an air-cooled, stand-alone, general purpose system.
+The company is aiming for three generations of products over the next few years.
+The first generation will be scalable to 128 processors with up to 25 GFLOPS performance, expected to be available in first half 1994, and the firm aims to improve performance by at least an order of magnitude per generation.
+The operating system will consist of three components: HP-UX; the ConvexOS environment; and an implementation of the Open Software Foundation's I/AD Mach microkernel developed specifically for massively parallel systems.
+The machine will ironically be more compatible with Hewlett-Packard applications than Convex C Series ones, but it will be source code-compatible with the latter — an applications base of 1,300.
+The Convex Application Compiler will have automatic interprocedural analysis capabilities to provide a high degree of optimisation from existing applications.
+Critical applications will be able to be further optimised with the advanced parallel environment to be provided with the planned scalable parallel processing systems.
+The multiple instruction-multiple data scalable parallel processing system will support a shared memory programming model called global shared distributed virtual memory to provide a Fortran and C programming model very similar to current production supercomputers.
+The system will also support message passing models such as parallel virtual machine and the high performance Fortran extensions of Fortran 90.
+In September 1992, Convex founded and sponsored the Scalable Computing Working Group of scientists and engineers from industry, academia, and research: it meets quarterly to advance scalable algorithm and application development, and currently has some 40 members.
+In addition to HP-UX, Hewlett will provide a suite of standards-based libraries, commands, and utilities including Motif, X Window System, software distribution and system administration utilities.
+Convex says it is also enhancing the Mach 3.0  microkernel with faster input-output capabilities and parallel processing extensions in a scalable architecture.
+…
+AS HEWLETT ADDS SOFTBENCH 3.2, VERSION FOR SOLARIS 2.1…
+Hewlett-Packard Co has taken its SoftBench software development environment up to release 3.2, which adds the SoftBench Message Connector mouse-driven task-automation tool — and announced that SoftBench 3.2 will be available under the Solaris 2.1 operating system from SunSoft Inc.
+SoftBench Message Connector will be bundled with SoftBench 3.2 for Solaris 2.1, HP-UX and SunOS 4.1.
+X operating systems and is available with the SoftBench Framework.
+Other new capabilities for Solaris 2.1 include the Distributed Debugger Environment and embedded SQL support to access databases in C or C++.
+SoftBench 3.2 for C is $2,300, for C++, $4,500.
+…
+AND TEAMS WITH BANYAN
+Hewlett-Packard Co has also teamed with Banyan Systems Inc on development of products to put Banyan's Vines and enterprise network services up under HP-UX Unix on Precision Architecture machines, and provide Vines users with easier means of using Hewlett printers with a network adaptor to work with the new MIO interface.
+CACI, COMARCO TO MERGE TO FORM COMPARCO INTERNATIONAL
+Two diversified US software distribution, computer services and systems integration companies, Caci International Inc, Arlington, Virginia and Comarco Inc, Anaheim, California are joining forces.
+They announced yesterday that they have signed a letter of intent to merge under the name Comarco International Inc.
+Under terms of the letter of intent, shareholders of Comarco will receive 1.075 shares of Comarco International for each of their shares.
+Shareholders of Caci will receive one share of Comarco International for each of their shares.
+The companies look to reach a definitive merger agreement by May 17 and see closing by July 31.
+Separately Caci said it has arrived at agreements to settle shareholder lawsuits pending in Delaware Chancery Court and in the District of Columbia.
+Terms include establishment of a $600,000 fund to pay some shareholder claims, and Caci has agreed to reimburse the plaintiffs for reasonable legal fees and expenses up to a total of $573,000.
+The fund will be available on a claims-made basis to cover any loss suffered by a former shareholder who held shares during the period April 16 to December 1 1990, and sold that stock at a loss as defined in the settlement agreement.
+This is contingent on completion of the merger and on court approval.
+HITACHI HAS NEURAL COMPUTER
+Hitachi Ltd has a new neural computer which it claims has the world's fastest learning ability.
+The computer, which it developed with Hitachi Microcomputer System Ltd, is $135,000.
+It has 512 neurones and it is claimed to execute of 1.26 Giga-connection updates per second.
+CONNER MAKES EURO-MOVES
+Conner Peripherals Inc has fired its European master distributor, Peripherals Europe GmbH and is taking over direct distribution of its products to European distributors.
+Escom GmbH, Peripherals Europe's parent, signed an OEM agreement with Conner to buy disk drives for use in Escom products over five years; separately, Conner said that it will open a new European logistics centre alongside its manufacturing facility in Irvine, Scotland.
+INFORMIX TO STRIKE LESS FANCIED UNIXES OFF ITS SUPPORT LIST, PUT ITS DATABASE UP UNDER NT, NEWTWARE
+Informix Corp has decided to hedge its bets, and broaden its definition of open systems — as a result, its relational database will, in future, no longer run purely under Unix, but also under Microsoft Corp's Windows NT and Novell Inc's NetWare.
+Such a move would appear sensible because, if the Unix versus NT struggle ends in a bloodbath, it at least the company will not have all its eggs in one basket.
+Nonetheless, while director of product marketing for engines, A J Brown, realises that, when compared with other database vendors, the Menlo Park, California-based company is late in announcing its move to NT, he said it wanted to be sure there was enough customer demand.
+He also added that there was an element of fear involved — vendors must respond to Microsoft, he said, because the firm may well become ‘the IBM of the 1990s and beyond’.
+So, as soon as Microsoft launches the operating system in mid-June, Informix will be straight there with its standard engine — it is ‘in our customers interests to get it out as soon as possible’, he said.
+NT ‘more popular on client machines’
+The group's high-end Informix On-line database, however, will not be available under NT until the first quarter of 1994 because of the added complexity of the product.
+NT tools will appear at the same time, although drivers for Microsoft's Open DataBase Connectivity tools, ODBC, should be released during the third or fourth quarter of 1993.
+Still, Brown reckons that NT will initially be more popular on client machines rather than servers, despite the fact that Microsoft is keen to position it as a server offering.
+In his view, ‘Microsoft is not a server company’.
+Again, the decision to convert for NetWare is customer-driven, he said — with NetWare's 60% to 70% market share in both Europe and the US, Informix can be sure that Novell's operating system will be running in at least one department in the majority of companies.
+Moreover, the group intends to release version 6.0 of its database under Unix by the end of this year.
+While there will be a delay of between four to six months before the NT and NetWare releases become available, Brown reckons that by 1995, or three versions of the database on, Informix should be able to launch the three versions simultaneously.
+He also expects the three versions to be interoperable by 1995.
+Brown believes that Novell and Microsoft's interest in his company stems from its large value-added reseller network — in fact, he said, the company has the largest reseller community of all the database vendors.
+Informix develops no applications itself, it simply ‘supplies the building blocks’, and relies on value-added resellers to produce packages for a wide range of vertical markets.
+As a result, Brown reckons that the two companies are eager to cash in on such a base to generate interest in their own products.
+In the past, Informix's resellers sold only its standard engine to small and middle-sized companies as a low-end offering, while a direct sales team focussed on selling the more advanced Informix On-line database to larger accounts.
+But as Unix moves more into the mainstream and the power of the machines increases, value-added resellers are now selling the Informix On-line product as well.
+The latest one to join the gang is Walldorf, Germany-based SAP AG.
+It will integrate Informix's On-line database with its client-server-based R/3 applications software for financial, manufacturing and human resource management.
+The offerings will be available from July 1993.
+While the group's standard engine generates about 40% of revenues in the US and the On-line product the remaining 60%, the reverse is true in the UK.
+But Brown said, while both databases run in approximately 30 separate computing environments, only about eight or nine of these generate between 85% to 90% of worldwide turnover.
+So, over the coming year, the company plans to reduce its number of supported environments to 10.
+This includes IBM Corp, Digital Equipment Corp, Hewlett-Packard Co, and ICL Plc's Unix machines.
+Informix has strategic agreements with all of the above.
+But the deal with Hewlett-Packard Co may well have far-reaching results.
+In the first quarter of 1994, the company intends to release a new version of its fourth generation language, 4GL++, which will have object-oriented extensions.
+If there is any demand, it may well add Hewlett-Packard's object database management system, OpenODB, alongside of its own On-line product (CI No 1,974).
+— Catherine Everett
+CLIPPER SECURITY CHIP: QUIS CUSTODIAT CUSTODIES?
+President Clinton's plan to promote the US National Institute of Standards & Technology-developed Clipper Chip as a way to protect cellular telephone conversations from eavesdropping (CI No 2,151) is causing concern among some users, who are worried about who will keep the key.
+The nasty thing about strong encryption from the administration's point of view is that it prevents the Federal Bureau of Investigation, the National Security Agency and other government agencies going about their legal phone-tapping business.
+To overcome this, the White House is proposing a database that would store the encryption keys for each Clipper-equipped device.
+The security envisaged for protecting this information is substantial.
+Each Clipper Chip will have two separate keys, both of which are needed to crack the transmissions, and will be held in separate ‘escrow databases’, by different agencies — but the question is, who exactly will these agencies be?
+The administration hasn't made up its mind yet, saying only that they will be two independent entities; those that have been briefed say that they will not be the National Security Agency or the law enforcement agencies.
+Names that are flying around at the moment are the US General Accounting Office, the Stanford Research Institute or one of the US National Laboratories such as the Los Alamos Lab.
+The Clipper Chips will be fabricated by Mykotronx Inc, in Torrance, and VLSI Technology Inc, in San Jose, California.
+Skipjack
+The encryption algorithm, nicknamed Skipjack, is intended to remain confidential, but is said to work on 64-bit blocks, like the DES algorithm, but with 32 rounds of scrambling as compared to DES's 16.
+How long it will remain confidential is a matter for debate, but the US government intends to control the technology's export strictly, issuing licences only on a case-by-case basis and then only to ‘US companies seeking to use these devices to secure their own communications abroad’.
+So much for global roaming…
+THE MACINTOSH-NOVELL ALLIANCE FOR iAPX-86 MACHINES: THE AUTHORISED VERSION ACCORDING TO MACWEEK
+The shadowy collaboration between Apple Computer Inc and Novell Inc to put the Macintosh Finder user interface and Toolbox applications development aids atop Novell's DR DOS clone of Microsoft Corp's MS-DOS and network client software to give the poor relations in the graphical user interface stakes, the iAPX-86 personal computer users, some of the joys of the Macintosh, has now been pinned down pretty firmly by MacWeek, and it appears that the resulting product will be marketed by Novell.
+Formal announcement is not expected before the autumn, and the product is planned for the first half of next year, with the prime target market seen as MS-DOS users that have not yet succumbed to the blandishments of Windows and might otherwise jump straight to NT.
+The answer to the key question — what applications will it run — appears to be that it will run unmodified character-based MS-DOS applications, and converted Mac applications, to the extent that any developers are prepared to convert them, and will run on iAPX-86 processors from the 80386 up.
+The companies are believed to be looking at ways to have it support Windows applications as well, but the paper was told that that problem has not yet been solved.
+The partners have already explained the rationale of the effort to developers that already offer versions of their applications for multiple environments, and more developers will be briefed at the Apple Worldwide Developers Conference, set for San Jose next month.
+Companion
+According to MacWeek, the development will be the first fruits of a planned family of multi-environment technologies that the company is calling Companion, which also involves plans for a thorough overhaul of the Macintosh interface over the next few years.
+The Apple-Novell effort is said to have the blessing of Intel Corp, which is providing technical assistance and compatibility testing.
+The first version of the new software will provide the System 7 interface, a QuickDraw emulator and support for QuickDraw GX, a translator that maps Apple's hierarchical file system to the MS-DOS directory structure, and integrated AppleTalk and NetWare network services, the paper hears.
+It will lack support for Apple events; QuickTime; the Data Access Manager; the Edition Manager; the Macintosh Communications Toolbox; and any hardware not found in standard Intel systems, such as SCSI, NuBus and the Apple Desktop Bus.
+It will include an extension mechanism, and QuickTime, AppleScript and Apple Open Collaboration Environment are being converted for the environment, but are not expected to be ready until the second half of next year.
+The core of the product will be a translation layer between the converted Macintosh Toolbox and DR DOS.
+When converted Mac applications call routines in the Toolbox, it will translate the calls and pass them to DR DOS if necessary.
+All the tools needed to convert Mac applications written in C and C++ to the planned environment are available now on standard MS-DOS machines, and the pair will designate a preferred suite of MS-DOS development tools, including Metaware Inc's High C/C++ 386 compiler and mdb debugger and Phar Lap Software Inc's 386Link object linker, sources told the paper.
+There is a sort of hidden agenda, because according to MacWeek, Apple believes that implementing as much of Macintosh System as possible for iAPX-86 will increase the number of programs that will run in native mode on the planned PowerPC-based Macs because the potential of the huge MS-DOS base will give Mac developers an incentive to make their code portable.
+Software converted for the Apple-Novell environment will also be portable to the PowerPC — and to any other RISC processors Apple may support in the future.
+In the medium term, the Apple-IBM Corp Taligent Inc joint venture will offer kernels that will provide an almost universally portable user environment.
+The kernels will act as the hardware-specific interface in place of current operating systems, and application programming interfaces such as the Mac user interface and IBM's Workplace Shell will become modules that run on top of these kernels.
+GERMAN ALLIANCE: SAP BUYS A 10% STAKE IN iXOS
+German mainframe software house SAP AG has taken a 10% stake in specialist Unix software house iXOS Software GmbH of Munich.
+SAP has paid around $2m for the stake in iXOS, which produces graphical user interface software and already provides SAP with document imaging technology.
+SAP is moving from its traditional base towards client-server Unix with its R/3 product line.
+iXOS, founded in 1988 by Hans Strach Zimmerman, formerly with Siemens AG, and Eberhard Faerber, founder of Peripherie Computer Systeme GmbH, is a privately-held company that has been growing at a rate of 50% per year, and employs 110 staff.
+Its main products include the iXBuild graphical interface builder and iXView/SQL database query tool.
+Unipress and Qualix are the US distributors.
+The money from SAP will fund further product development and cements a technology transfer agreement.
+INTEGRIX HAS EXPANSION CHASSIS FOR SPARCSTATIONS
+Newbury Park, California-based Integrix Inc has introduced the $1,900 double-decker SEC160, the first Sparcstation 10 form factor expansion chassis.
+It can add six externally accessible master-slave SBus slots to any Sparc machine, especially the Sun Microsystems Inc Sparcstation 10, LX and Classic, via a single-slot adaptor.
+Four SEC160s can be added to a workstation for a maximum of 24 SBus slots.
+Each SBus card has a full claim to the 32Mb address space available.
+All six slots can be filled regardless of their address requirements.
+Integrix says the SEC160 makes the Sparcstation 10 useful as a large department server.
+It requires no device drivers.
+MEDIA VISION CLAIMS CUT-PRICE STANDARD VIDEO COMPRESSION
+Fremont-based Media Vision has developed a video compression system which it claims is comparable to the MPEG or DVI standards, but at a tenth the price.
+The claim is based on the hardware complexity: Media Vision says that both the Motion Picture Expert Group and Digital Video Interactive standard require around 400,000 gates to implement on a chip, whereas its ‘Captain Crunch’ technology can be built using 20,000 gates, while offering video in a 320 by 240 window at 30 frames a second with 24-bit colour.
+The technology is also scalable, according to the company, so that it is possible to get software-only playback on an 80386 box or Macintosh IICI or above — users may choose to play smaller pictures or slower frame-rates based on their own system performance.
+Captain Crunch software should be available to multimedia developers soon, and Media Vision expects to have a video chip set out later in the year costing around $50, with a full add-in board costing under $300.
+FACILITIES MANAGEMENT ‘NOT THE POT OF GOLD AT THE END OF THE RAINBOW THAT MANY BELIEVE’— IDC
+Although the UK market for facilities management is definitely healthy, it is not about to experience the boom everyone once thought it would.
+After questioning 600 non-information technology directors and 1,200 information technology ones, Graham Browne of market research group International Data Corp, concluded that, unless the Government goes down the facilities management path — which he believes is questionable — the UK market is unlikely to experience the 30% per annum growth rate generally forecast.
+It will more probably be about 13% to 14%.
+Such growth, he reckons, will centre around local government, although the private sector is also showing some interest.
+Browne's definition of facilities management is the management, by a third party, of an organisation's information technology infrastructure.
+He differentiates this from outsourcing, which he says covers a much broader spectrum — it does not just involve looking after computer hardware and software, but includes other non-computer-related services too.
+Although Browne says that the bulk of suppliers follow market leaders, Hoskyns Plc, AT&T Istel, and Electronic Data Systems Corp, he believes that unless they concentrate on niche markets or certain technology sectors, such as personal computers and distributed systems, they face high risks and low margins.
+The element of risk results from several factors.
+First, it can take between one and two years to negotiate a contract.
+Not only is competition fierce, but the amount of money involved means that all parties are keen to get the terms of the deal right — the average contract is worth between £5m and £12m.
+These negotiations, of course, cost a supplier a considerable amount of cash for which there may ultimately be no pay-back.
+Conversely, it may take a great deal of time before the vendor actually makes money on the deal.
+According to Graham, many suppliers are even prepared to take an initial loss in the hope that they can win other more profitable contracts on the back of the first.
+Second, as a lot of contracts last for up to five years, the risk factor increases year-on-year, especially as many companies are now restructuring.
+As a result, Browne said, suppliers need to understand clearly the areas in which they excel to minimise problems later.
+Third, when facilities management first took off in the US, suppliers were dealing solely with mainframes, and could earn higher margins from significant economies of scale — several mainframes were centralised on one site, and could deal with the information technology requirements of many customers — and so the old bureau service was recreated under another name.
+Furthermore, a limited number of staff could service all of the machines.
+Now, with the advent of client-server and departmental computing, it is much harder to generate such economies of scale.
+Customers use a wide range of boxes, with a wide range of software, all needing a different set of skills to manage.
+Profit margins suffer
+Furthermore, many customers' computing needs are currently looked after in-house.
+So because a client's main aim behind using facilities management services is to cut costs, the supplier's profit margins suffer.
+And the problem is exacerbated with the level of competition on the market increasing all the time — many hardware vendors, for example, are trying to boost dwindling profits by moving into this arena — many observers question whether IBM Corp can actually make money from facilities management.
+The upshot of this pressure on margins and the fight for market share, Graham said, could well be a reduction in the level of service offered by vendors as they reduce staff levels on contracts to cut costs.
+So, all in all, although he reckons the outlook for facilities management is not quite as optimistic as people once thought, he does feel that ‘there is a logic in making use of the experts’.
+Facilities management does offer suppliers ‘significant long-term opportunities within an overall IT services portfolio’, he believes.
+But they need to specialise, be creative and target their marketing activities effectively, as well as offer other higher margins services too.
+KAPITI RECKONS IT's NUMBER TWO IN BANKING — BUT COMING UP FAST
+Banking and dealing room software house Kapiti Ltd reckons that it is reaping the rewards of investment in new product development, and the fact that it has spread itself over a wide geographical area.
+The Slough, Berkshire company has offices in about 20 countries, looking after sales and local support; has over 700 customer sites in 72 countries; and supplies software to over 500 banks.
+This means, according to public relations chief Jane Keegan, that the risk is spread —‘we haven't got all our eggs in one basket’, she says.
+And the group intends to continue expanding — it is now in the process of opening two new offices, one in the Far East, the other in South America.
+It also intends to open a third operation in Europe later in the year.
+Although Kapiti will not release its figures for about a month because they have yet to be audited, Ms Keegan estimated that turnover has increased by about 20% on last year.
+And to give a rough idea of where the group makes its money, she cited breakdown of turnover by geographic area.
+Although the figures relate to 1991, she did add that things are unlikely to have changed much this year.
+Europe, including the UK, generated 60% of total revenues; the Americas brought in 22%; the Far East, 13%; and the Middle East, Africa and Australia, 5%.
+While Ms Keegan could also provide no figures with regard to market share, she reckons Kapiti is now the second largest software supplier to the banking and financial systems market.
+Although the firm still ranks behind Nynex Corp's Norwell, Massachusetts-based BIS Strategic Decisions, it is nonetheless catching up fast, she said.
+Kapiti will spend about 18% of 1993 turnover on research and development.
+Flagship product
+Last year's new offerings included version 4.0 of the group's Fist dealing room system, which runs on Digital Equipment Corp's VAX machines, VMS, and the ‘Unix variants’ of Hewlett-Packard Co, Sun Microsystems Inc, IBM Corp, and NeXT Inc; Grace, a graphical application environment for Fist, which is now X Window-compliant; Equinox, a personal computer-based banking package, for 80386 and 80486-based machines, and was launched in the US at the end of October 1992; Archive II, a optical disk storage device, also released at the end of last year; personal computer-based Freeform GRS for  regulatory reporting; Co-Sign, a signature verification package; and Retail Advantage, a cashier package of banks, for the AS/400 and not yet on general release.
+Kapiti's flagship product is Equation, an AS/400-based back-office banking system, launched in 1988.
+This generates some 50% of total revenues, and Ms Keegan says Kapiti is working towards Posix-compliance.
+Enhancements will be made to Equation and other products this year, with development of an object-oriented version on the cards.
+DESPITE AMERICA LETTING THE SIDE DOWN A BIT, SAGE GROUP PROSPERS ON BACK OF NEW PRODUCTS, ACQUISITIONS
+While profits from Sage Group Plc's restructured US operations may have halved, the business still turned in ‘record’ interim figures as a result of new acquisitions, a 20% rise in Sovereign software sales, and 35.7% increase in recurring revenues — sales of forms, stationery and services to existing customers increased to £9.5m this year from £7m last.
+A supplier of accounting software and related products for personal computers, Sage saw pre-tax profits up 24% to £5.4m, while turnover rose 44.8% to £21m.
+The board has recommended a 10% increase in interim dividend to 3.32 pence, compared with 1992's 3.02 pence.
+Chairman and chief executive David Goldman reckons the company's success comes from investing its strong cash flow in expanding the business, both geographically and in product terms.
+This, he said, has translated into a 22% improvement in earnings per share to 17.7 pence.
+New products for the UK market include the integrated accounting software package, Sterling +2, which runs under MS-DOS and Windows and was launched in September 1992 (CI No 2,015)— according to Goldman, it is ‘selling like hot cakes’; a new version of the high-end, high margin Sovereign offering for the mid-range market — although prices did not increase, total sales of the product rose 20% in real terms, which was important, Goldman said, as this market is much more valuable than Sterling's; and MoneyWise, which is targeted at the home and small business market and costs less than £50.
+This package was developed in response to competition from such vendors as Intuit Inc and its ‘bottom-end’ product, Quicken (CI No 2,016).
+All of these products are sold by Sage's principal subsidiary, Sagesoft.
+New products, sold by DacEasy in the US, comprise: Instant Accounting, which is a Sterling-type package, but cheaper; and the high-end Flagship offering, based on Sovereign.
+These offerings are intended to address changes in the US market, which, according to Goldman, is polarising — low-end products are becoming simpler and cheaper, while high-end products are becoming increasingly complex and more expensive.
+As DacEasy's software has, in the past, occupied the middle ground, the company has invested heavily in new product development to try and reposition itself.
+While this has not affected sales, it has had a negative impact on profits, Sage noted.
+AS/400 and Unix market
+Total US turnover rose 21.5% to 7.8m, but profits dropped 51.8% to £619,000.
+This figure, however, does include losses of £370,000 from Remote Control International, acquired in October 1992.
+RCI supplies sales automation software for the AS/400 and Unix markets, but has undergone restructuring in the form of management changes and product rationalisation.
+Its offerings are now also sold via Sage's existing international distribution channels.
+In total, the group has spent £5.1m on  acquisitions over the past six months, although it has retained £3m net cash.
+This may well go on further purchases — Goldman said he considers Spain to be a good potential market, although his former interest in Germany is waning due to the impending recession in the region.
+Nonetheless, with the  acquisition of accounting software house Ciel SA, also in October last year, Sage has broken new ground in Europe.
+Goldman said that Ciel, with turnover of £2.8m and operating profit of £553,000, has ‘exceeded expectations’.
+The introduction of a more formal management structure has helped increase software sales, and improve the level of recurring revenues from forms and support contracts, he added.
+The group's final purchase, Yorkshire Business Forms, bought in December 1992 (CI No 2,068), also performed well.
+It has now been completely integrated with Sage's existing £2.5m stationery and supplies division to generate about £6.5m turnover in total, a 12% increase on last year.
+Although Goldman said that the operation had showed ‘steady improvement’ and ‘adequate growth’, he is, nonetheless, keen to broaden YBF's customer base.
+Whereas the Sage arm sells its products to Sovereign customers and there are few opportunities for expansion, he stated, YBF is a computer forms management business that services blue-chip customers, such as Midland Bank and Nissan.
+And there is definitely room to move into comparable organisations.
+Overall, UK turnover increased 29.2% to £10.4m, while operating profit grew 43.1% to £4.2m.
+So, all in all, Goldman is pleased with Sage's performance so far.
+He is confident that the new acquisitions will play an important role in future growth, and believes that ‘the momentum of the first half will be maintained to give a satisfactory outcome for the full year.’
+COMPANY RESULTS
+Convex Computer Corp saw first quarter net profits crash 88.6% to $46,000 on sales up 8.5% to $59.1m.
+Earnings per share for the quarter were negligible.
+Comdisco Inc has reported second quarter net profit of $19m against a loss last time of $35m after a $45m litigation charge and a $35m restructuring charge, on turnover down 0.7% to $530.0m.
+Mid-term net profit was $58m against a loss last time of $15.0m, on turnover up 1.3% at $1,101m.
+Net per share was $0.48 in the quarter, $0.94 in the half.
+Parallan Computer Inc saw first quarter net profit up 212% at $2.8m after a gain of $1.8m from an accounting change, on turnover that soared 1,284% at $6.4m; net earnings per share fell 16% at $0.20.
+Pyramid Technology Corp has reported second quarter net profit of $1.4m against a loss last time of $7.2m, on turnover up 34.5% to $58.0m.
+Mid-term net was $1.9m against a loss last time of $25.7m, on turnover that rose 22.2% at $113.1m.
+Net per share were $0.12 in the quarter, $0.16 in the half.
+Systems Center Inc has turned in first quarter net profit up 24.2% at $713,000 on turnover that rose 2.8% to $31.9m.
+Net per share rose 33% to $0.04.
+Xerox Corp has reported first quarter net profit of $189m after a gain of $63m on sale of Van Kampen Merritt, against a loss last time of $529m after a charge of $764m from accounting change, on turnover that fell 0.2% to $3,298m; Net per share was $1.77.
+Northern Telecom Ltd has reported first quarter net profit down 27.1% at $75.9m on turnover up 2.3% to $1,942m.
+Net earnings per share fell 27% to $0.30.
+The Canadian reports figures in US dollars.
+Sage Group Plc has reported net profits for the six months to March 31 up 23.3% at £3.6m, after £102,000 losses from discontinued operations last time, on turnover that rose 44.8% to £21m.
+At the pre-tax level, profits were up by 24% at £5.4m.
+Earnings per share rose by 21.7% to 17.7 pence.
+SIEMENS NIXDORF ECONOMIC WOES
+We looked in vain in Siemens AG's first half report on Monday for any mention of its Siemens Nixdorf Informationssysteme AG computer subsidiary, and with all the dreadful economic news coming out of Germany, it began to assume the air of the dog that didn't bark: Siemens said of its overall business that it did not show any revival in the first half, and that continued economic decline affected domestic business and led to a decline in incoming orders, and there was no recovery in its foreign business; laying it on with a trowel, Chancellor Helmut Kohl's leading economic advisor was quoted on Tuesday as saying that German workers failed to recognise the danger of high wages in a time of recession, and that German products were too expensive for world markets as wage increases outpaced growth in productivity, and earlier, Siemens Nixdorf had had to rebut a magazine report that its losses would be even worse this year, saying that it was certain that its results would improve this fiscal year; the article, in Manager Magazin, also said that Siemens was looking for a replacement for Siemens Nixdorf management board chairman Hans-Dieter Wiedig, and added that plans to reduce the workforce to 41,000 by 1995 from 47,200 at the end of February could well be accelerated.
+JAPANESE PC SHIPMENTS FALL AGAIN
+Shipments by the Japanese personal computer industry fell again in the year to March 31, extending the then unprecedented decline of the previous year: total personal computer and peripheral shipments fell 10% in value to $9,540m, the Japan Electronic Industries Development Association said; the previous fiscal, sales fell 7%; domestic ships fell 13% to $7,065m, but exports were less hit, falling 1% to $2,448m; exports of notebook computers grew particularly well.
+1,400 APPLICATIONS FOR ALPHA RISC BY JUNE
+Digital Equipment Corp says more than 1,400 technical and commercial applications and software products for the Alpha RISC will be ready to ship by the end of June: the total includes products from 500 software developers worldwide, as well as DEC itself, for the AXP and OpenVMS AXP operating systems on Alpha AXP and is more than triple the 400 available at the end of last month.
+IBM PERSONAL SOFTWARE PRODUCTS ON THE MOVE
+IBM Corp's IBM Personal Software Products division is on the move: it is decamping its headquarters from Somers, New York to Austin, Texas by the end of next quarter.
+PARALLAN COMPUTER EXPECTS FALL IN SHIPMENTS
+Mountain View, California-based Parallan Computer Inc says it expects its shipments of manufactured products to IBM Corp to fall, because it expects IBM to assume manufacturing responsibilities for the PS/2 Server 295 this year — the jump in its first quarter sales (see page five) was primarily down to increased ships to IBM, it said.
+PYRAMID TECHNOLOGY SCHEDULE
+Pyramid Technology Corp notes that it is scheduled to begin shipments within the next six month of its next-generation high-end symmetric multiprocessing product line, based on the R4400 RISC multiprocessor.
+NORTHERN TELECOM COMMENT
+Commenting on its storm-damaged figures (in page five) Northern Telecom Ltd said first quarter order input fell 4.0% year-over-year, to $1,840m although orders in hand rose 18% to $3,530m; it said that profit performance did not meet its expectations as a result of lower margins and an accelerated rate of investment in research and development and planned international market expenditures which were not offset by anticipated sales growth.
+COMPAQ CONTURAS BREAK PORTABLE RECORDS
+Compaq Computer Corp says it shipped more 80486SL-based Compaq Conturas in the first month of the product's availability than any other portable in Compaq's history.
+NTT TO BUY 12 AT&T SWITCHES
+Nippon Telegraph & Telephone Corp, a regular customer of AT&T Co these days, is to buy 12 AT&T switches for directory assistance and collect-call services, starting 1995.
+3COM CUT LINKBUILDER PRICES
+Santa Clara-based 3Com Corp said it cut the prices on the LinkBuilder FMS TP twisted-pair stackable hub and accompanying network management software products: the hub is cut 10% to $1,000, and a new six-port fibre hub, the third member of the LinkBuilder family, will would begin shipping in May at $2,300; core IsoView Network Management software is slashed to $645 from $3,000.
+SYSTEMS CENTER TO ACQUIRE STERLING SOFTWARE
+Systems Center Inc has now signed a definitive agreement for its acquisition by Sterling Software Inc.
+XEROX FORECASTS ‘SOME ENCOURAGING SIGNS’
+Xerox Corp, figures, page five, says it expects the European economy to remain weak for the rest of the year, but Xerox forecasts ‘some encouraging signs of recovery’ in Japan for the remainder of 1993; the plan to leave the financial services business remains on track but it might take several years.
+NO  DECISION ON DEUTSCHE BUNDESPOST TELEKOM RATES
+Our eyes lit up on reading in the Wall Street Journal that the Deutsche Bundespost Telekom has said that it plans to respond to foreign competition by rebalancing its telephone call charges to make long distance calls cheaper and local calls more expensive, but it was a false alarm and you can all go back to sleep again: the piece goes on to quote an official saying that no decision about a rate structure had been made and that any change won't occur before 1995 at the earliest.
+GERMAN POSTAL MINISTER WILL NOT ACCEPT COST INCREASES
+That's what the Deutsche Bundespost Telekom said, but the reality is even worse: Postal Minister Wolfgang Boetsch said on the radio that he would not accept the plans to raise the cost of local calls from 1995 — and he gets the final say.
+IBM MEETING HOTS UP
+Later reports from the IBM Corp annual meeting in Tampa, Florida on Monday stress the anger of shareholders that we forecast when we mentioned that the meeting was to be held in America's retirement capital: ‘IBM stock no longer provides for your old age, but it certainly hastens its arrival,’ one irate shareholder told Louis Gerstner during the annual meeting; some 2,300 shareholders, mostly elderly investors and current or former IBM employees, crowded into the Tampa Convention Center for the meeting.
+SHERWOOD COMPUTER SERVICES TAKES ON PREMIER SYSTEMS STAFF
+Sherwood Computer Services Plc has taken on 34 key staff previously employed by Premier Systems (London) Plc, which has ceased trading; finance director Charles Taylor said Sherwood had known the Oracle house quite well before trouble hit, and would gaining expertise in open systems development, support and consultancy; Premier specialised in systems for large City investment and financial customers; the staff will be completely integrated into Sherwood's London headquarters, forming a separate unit within it, and their skills will complement the September 1992 acquisition of Consort Data Ltd (CI No 2,017); Leicester-based Consort does back office systems for smaller than average regional brokers, so Sherwood can now look after both ends of the market; it is keen to win over Premier's former customer base, and expects to sign a number of new contracts shortly; the group is looking at buying Premier's assets when a liquidator is appointed.
+BILL GATES EFFICIENCY DRIVE
+Bill Gates, in London yesterday addressing sundry gatherings, notably the Institute of Directors annual convention, said he dispatched 50 messages back to base on the flight over; asked if his impending nuptials would adversely affect Microsoft Corp, he said ‘it takes a lot of time being single: I think being married will be very efficient.’

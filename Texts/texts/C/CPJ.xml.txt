@@ -1,0 +1,225 @@
+
+
+LOW YIELDS ‘PUSH PENTIUM VOLUME SHIPS BACK TO OCTOBER’…
+The rumblings that Intel Corp has been having more problems successfully fabricating the Pentium chip than it has been prepared to discuss have erupted again, and our sister paper Unigram.X today reports that Pentium has been hit by another round of serious availability problems because of poor yields.
+The company has been out telling run-of-the-mill customers not to expect any serious deliveries at least until October.
+Until then, the limited supplies of Pentium the company can muster will be going to Intel's best customers worldwide, a short list that is believed to include AST Research Inc, Compaq Computer Corp, Dell Computer Corp and NCR Corp.
+IBM Corp and Sequent Computer Systems Inc are possibly on it too — Siemens AG is is helping with the chip so Siemens Nixdorf Informationssysteme AG so may also be in the line-up.
+But deliveries even to these companies are expected to be severely attenuated.
+Sources say that Intel reckons it won't be able to ship them more than 2,000 or 3,000 to each apiece before October, a third of what had been projected before.
+Most of these will likely be 60MHz Pentiums, not the 66MHz parts Intel has been shooting for.
+In order to forestall Pentium systems development from screeching to a halt, Intel is prepared to supply a relative handful of parts to support on-going projects.
+These parts may not even operate at 60MHz.
+Intel is believed to have altered the process it uses to fabricate the hard-to-build chips and won't know until the autumn whether the process actually works.
+Intel carefully skirted the issues of Pentium's price and delivery at its ostensible introduction last month.
+While the further delay is irksome, the company is still selling all the 80486 parts it can make, and that part and the 80386 each suffered comparable difficulties on their way to the market.
+…
+AS DEC, INTEL PART COMPANY ON PARALLEL KIT…
+Intel Corp's agreement to have Digital Equipment Corp resell its 80860 RISC-based massively parallel processors is dead because DEC found little interest from the market, Electronic News reports.
+But Intel insists that DEC was still showing interest in marketing the follow-on Paragon machine and that it pulled the plug on the deal because it was not satisfied with DEC's level of commitment.
+DEC's massively parallel activities have been moved from corporate research to its mainstream computer operations and clustering, as in its recent agreement with Encore Computer Corp, is the current DEC watchword.
+…
+AND MOTOROLA PRICES THE POWERPC TO UNDERCUT PENTIUM
+Intent on delivering the message that the PowerPC chip is a mass market contender, Motorola Inc today plans to hang price tags of $280 each for the 50MHz 601 and $374 each for the 66MHz 601 in 20,000-up quantities.
+Its pricing severely undercuts the last known price points Intel Corp was considering for the Pentium chips: $995 for the 60MHz and $1,200 for the 66MHz, though $795 and $995 are now forecast.
+The 601s that Motorola intends shipping in high volume in the third quarter will be fabricated by IBM Corp under the tie-up with Motorola and Apple Computer Inc.
+ADVANCED MICRO SEEKS SECOND SOURCE FOR ITS Am486 PARTS
+Advanced Micro Devices Inc is seeking a manufacturing partner to help it raise output of its Am486 chips next year.
+The company expects to ship hundreds of thousands of Am486 parts this year and according to vice-president Robert McConnell, the company can expect about a 5% market share this year within its capacity limits, and that to boost market share it will have to find a partner.
+He would not say what companies were being considered as potential partners, but National Semiconductor Corp has hankered after a hit microprocessor for years, and the Japanese, led by existing Advanced Micro partner Fujitsu Ltd, would no doubt be interested.
+The company is looking for a 20% share of the 80486-compatible market by the end of 1994 if it is successful in lining up a partner.
+HEWLETT-PACKARD ADDS BOARD-LEVEL HP9000 742i
+These things always come along as a bit of an afterthought because they are never going to make as much money as the workstation version, but Hewlett-Packard Co has now introduced its most powerful VMEbus board-level computer yet, and calls it the HP 9000 Model 742i.
+The new computer is based on the 50MHz PA-7100 version of the Precision Architecture RISC, rated at 61 MIPS, and joins the company's family of industrial computers.
+It is bundled with HP-UX Unix and is designed for system integrators and the OEM market in manufacturing, aerospace and defence.
+It fits into two 6U VMEbus slots, enabling the Model 742i to outperform multiboard computers, which typically have more intensive development and support requirements, the company claims.
+It offers standard VMEbus interface option, eliminating the need for a separate controller board.
+With 16Mb of memory — going to 32Mb or 64Mb — it is $8,800 and has on-board local network connector, a Centronics parallel port, two RS-232-C ports and an SCSI-2 SE port; the bundled HP-UX 9.01 operating system carries a two-user licence.
+EMC TO OPEN RESEARCH AND DEVELOPMENT BASE IN ISRAEL
+EMC Corp, the Hopkinton, Massachusetts firm making such a noise with its disk arrays for IBM Corp mainframe users, will is taking advantage of the large pool of trained talent — boosted by large numbers of immigrants from the former Soviet Union, and will open a Research and Development Center in Tel Aviv, Israel on June 1.
+According to Israel's Ministry of Industry & Trade the country has about twice the number of scientists and engineers per capita involved in research and development work than the US and Japan and five times the number in South Korea: 135 per 10,000 in the workforce against 70 per 10,000 in the US, 65 in Japan and 25 in South Korea.
+Firms with Israeli research arms include Intel Corp, Microsoft Corp, IBM Corp and Motorola Inc.
+OPTIMISM AT IBM's ORPHANED EUROPEAN PLANTS FAILS TO DISPEL CLOUD OF UNCERTAINTY
+Three weeks after IBM Corp decreed that its European manufacturing plants will become, at least in part, autonomous business units, exactly what it hopes to achieve is still foggy.
+One spokesman initially described the plants as ‘surplus to requirements’, only to be contradicted by another — IBM Europe has made noises about a 12-month period in which the plants have to prove profitability, while others deny that there is any particular timescale.
+Some of the confusion can be laid at the door of the word ‘profitability’.
+It was assumed by some that profitability entailed selling products to new customers, but this is not necessarily so according to Ken Wilkie, the newly appointed chief executive at IBM's UK Havant plant.
+The whole of Havant's operation has been spun off as a separate business, so Wilkie has to find outside customers for the plant's mix of personal computer and mid-range disk drives; integrated disk subsystems and ‘flexible circuitry’ expertise (those plastic straps bearing solder tracks found when opening up a personal computer or disk drive).
+Adamant
+Wilkie claims some existing success in the OEM markets: for the past two years, he says, a ‘not insignificant’ proportion of disk drive output has been going to nameless OEM customers.
+Wilkie is adamant that there is ‘little substance in the 12 months to live’ perception and there are no set percentages of outside sales that he has to meet to ensure survival.
+Instead he says, success will be measured in the same way as any normal business — in terms of profits and revenue that can come from anywhere, including sales to IBM.
+He even goes so far, as to claim that ‘notionally, in the short term you could achieve the necessary revenue only with the IBM customers…
+I don't think success would absolutely depend on it [selling to third parties]’.
+But as for the long-term, he acknowledges that non-IBM sales will be key to Havant's success, and says that he hopes to see half of the plant's output going to new customers.
+This makes sense when taken together with IBM Europe's statement that it has excess manufacturing capacity: rather than close the plants straight away, it has thrown them to the market — they will get business from IBM but only as long as they can provide products at the going market rate.
+How will the plants achieve this?
+Either by cutting staff and hence costs, or by finding outside customers.
+As well as providing cash, these customers will perform one other key service for the company — they will provide a litmus test by which IBM can gauge the plants' true competitiveness.
+Jean Richet, director in charge of restructuring at the Montpellier plant sums it up when he says: ‘if we are able to sell outside then we are competitive and if we are competitive we can demonstrate this to IBM’.
+Back at Havant most of Wilkie's plans remain under wraps, though he says that the plant will be setting up its own sales and marketing operation, rather than relying on IBM Europe and will initially be  targeting the UK market, though in the process he hopes to pick up orders from international vendors.
+He says he has confidence in all aspects of the Havant business and, despite IBM Europe assertions of over-capacity adds that he has full order books.
+Richet's plans for Montpellier are more advanced.
+A series of studies, due to be completed in June will decide which operations will be spun off as Independent Business Centres — to be up and running by January 1 1994.
+But the plant's best known activity as a manufacturer of water-cooled mainframes will stay firmly in the IBM fold and notionally expanded as the construction of air-cooled ES/9000s moves from Valencia in Spain, although the rate at which mainframe sales are falling suggests that this will be only a short-term boost.
+Around half the 2,000-strong workforce are employed building Enterprise Systems, with another 500 handling the manufacture of multi-layer ceramic-mounted multi-chip modules.
+This is the business that Richet sees as particularly promising (CI No 2,150).
+Currently it manufactures solely for IBM, handling  everything from small single chip and multi-chip modules to highly integrated packages spouting 2,000 or 3,000 pins from the base, which form the basis of Enterprise Systems, RS/6000s and AS/400s.
+Already, says Richet, the Montepellier engineers have made informal contact with potential customers, but large scale exploitation of the plants  capabilities will rely on a pan-European technology products sales team, which is being set up in Paris.
+This operation is not primarily concerned with the hived-off European factories, but is designed to handle OEM chip sales from other plants within IBM's technology products division.
+However Montpellier's module portfolio fits neatly into its product range.
+Like Wilkie, 50% is the magic proportion that Richet hopes see going to non-IBM sources in the medium term, but he frankly acknowledges that ‘we have a credibility gap as a supplier to other companies,’ that will only close once potential customers realise that IBM is serious about the business and is not entering the market as a temporary expedient to use over-capacity.
+Lion's share
+Again, like his UK counterpart, Richet says that Montpellier has already found some OEM business and that outsiders account for 10% of his revenue.
+Encouragingly, none of this existing business comes from the module side, so Richet can be relatively secure that that proportion will grow.
+The lion's share of outside business today springs from an application development operation, which started off developing administrative and manufacturing software for the plant, but now sells some of the results through the IBM France catalogue.
+However Richet admits that the future of this business is made uncertain by the proposed purchase of French software house CGI Informatique SA.
+The other current moneymaker involves selling IBM's manufacturing know-how in a package that the marketeers have dubbed the Montpellier Solution.
+This builds on the company's avowed expertise in the installation of production lines, the design of manufacturing processes and the like: Richet talks enthusiastically of expanding this business by turning Montpellier into a science park and leasing out spare buildings — there is, he says, a shortage of decent manufacturing space for lease in the region.
+Nonetheless Montpellier's future seems to hinge largely on the module manufacture, and Richet says that he will be going head to head against the likes of Japan's Kyocera Corp.
+He also hopes to woo companies like GEC Plc and Alcatel SA, which currently carry out similar work in-house.
+It remains to be seen whether the IBM name will prove to be boon or bane.
+COMMON OPEN SOFTWARE ENVIRONMENT FIRMS EXPECTED TO PICK UP SUNSELECT's WINDOWS-ON-UNIX ABI
+WABI, SunSelect's ace-in-the-hole Windows Applications Binary Interface for Unix software, moved closer to being adopted by the Common Open Software Environment crew last week as licensing agreements circulated for signature.
+A pawn in the chess match between Unix and Microsoft Corp, WABI is starting to be described in some circles as more important than COSE itself.
+It is believed that Unix System Laboratories Inc, Univel Inc, IBM Corp, Hewlett-Packard Co, SunSoft Inc and Sun Microsystems Inc will all pick it up.
+As we went to press there were also unconfirmed rumours of Digital Equipment Corp, currently a non-COSE participant and a firm Microsoft ally, being interested.
+SunSelect is offering WABI licensees lower royalties on Intel Corp machines than on RISC and less on bundled products than unbundled.
+Contract terms are volume-based and ask for $18 per-user bundled and $36 unbundled (or in cases of unbundling, 30% of net revenues, whichever is more) for single-user Intel boxes in volumes of 100,000.
+Comparative figures for RISC machines are $27 and $54.
+As volumes increase, royalties decrease, so that for single-user Intel machines, bundled and unbundled, the respective payments are: $12 and $24 for 100,000 to 250,000 units; $9 and $20 for 250,000 to 500,000 units; $6 and $12 for 500,000 to 1m units and $5 and $10 over 1m units.
+For RISC single-user machines bundled and unbundled, the respective royalties are: $18 and $16 for 100,000 to 250,000 units; $12 and $24 for 250,000 to 500,000 units; $9 and $20 for 500,000 to 1m units and $5 and $20 for over 1m units.
+This pricing apparently holds for multi-user sites of up to four users.
+At five or more users, a discount, said to be 25%, kicks in.
+In the past, this kind of pricing scheme has been notoriously difficult to manage.
+Meanwhile SunSelect continues to be skittish on any questions about WABI's list price, packaging, availability or anything else substantive, ostensibly because of the gala rollout it has planned for May 5 at the 500-seat Great American Music Hall in San Francisco, having ditched plans to hold it at the giant Paramount  Theater in Oakland, California.
+Apparently, however, WABI has been turned into a product and packaged, and there is said to be some kind of cross-productisation afoot with parent company Sun Microsystems Inc.
+SunSelect says it will integrate WABI and the Insignia Solutions Ltd-derived SunPC so users can run both Windows and MS-DOS programs.
+SunSelect doesn't want to define exactly what integrate (its word) means or how tightly bound over time the products will become, but it seems that they will still be two separate things.
+WABI is said to run any well-behaved Windows application like Excel, Word, Ami, Harvard Graphics and the Microsoft packages.
+Will actually sue
+The betting pool on whether Microsoft will actually sue Sun over the Windows-on-Unix WABI application binary interface waxes and wanes.
+Close observers of Microsoft say that what really interest it is the licensing fees it says Sun should be paying.
+If Microsoft decides not to sue — and we wonder if it can decide before WABI is introduced — observers say that it will hassle Sun to death.
+They note that Microsoft is already talking about bringing out a similar product of its own, a typical Microsoft tactic, and will probably create a good deal of fear, uncertainty and doubt over WABI's technical prowess and whether it will be able to keep up with Microsoft's innovations.
+As a matter of fact, some people think Microsoft will purposely create features that are difficult to clone.
+However, there is the school of thought that argues that Microsoft doesn't want to restrict Windows unduly because the more ubiquitous it is the better Microsoft's own position.
+IBM JAPAN ‘HAS PROTOTYPE POWERPC PEN COMPUTER’
+Word is that IBM Corp showed off a PowerPC-based personal digital assistant at the Downsizing Japan Expo earlier this month.
+Reports say that the machine includes a pen-input LCD and a protruding antenna.
+Supposedly it should hit the market by the end of the year.
+PROTEON EXPRESSES PESSIMISM ABOUT THE FUTURE OF APPI
+Faced with the possibility that IBM Corp is to reduce the royalties for using its Advanced Peer-to-Peer Networking code, and despite its membership of the APPI Forum backing the proposed open Advanced Peer-to-Peer Internetworking standard, Westborough, Massachusetts-based Proteon International Inc believes that APPN is set to become the industry standard.
+It feels that the majority of customers will want to route SNA natively, rather than via TCP/IP, and believes that a reduction in royalties would take away the main impetus behind the Cisco Systems Inc-inspired APPI movement.
+According to Franck Leclerq, the company's European internetworking product manager, if IBM does drop its price for APPN, ‘It will definitely put pressure on APPI’.
+Indeed, he went further to say that ‘APPN is the commercial solution without any doubt,’ and that ‘We think that APPN will be the standard; for routing SNA you will need APPN’.
+The company is, however, remaining a member of the APPI Forum, in case it is proved wrong.
+Other members of the APPI Forum are more optimistic, although most concede that at best APPI will co-exist alongside APPN.
+Paul Trowbridge, UK marketing manager with SynOptics Communications Inc, said that he can understand Proteon's viewpoint, and believes that APPI development has been driven by the financing questions surrounding APPN.
+However, he also feels that there will be a large enough number of users wanting to migrate towards a mixed vendor environment to ensure the future of APPI.
+Meanwhile, British Telecommunications Plc says that ‘the jury is still out’ in terms of assessing the relative merits of the two rival technologies.
+Indeed, even Cisco Systems is hedging its bets, and is working on APPN alongside its development program for APPI.
+Wayne Clark, SNA architect with Cisco Systems commented that ‘there will always be customers who go with APPN just because they're IBM users’— but that may turn out to be a dated view: even IBM these days concedes that it is no longer in a position to dictate standards in the brave new world of open systems.
+SHARE & BOND ISSUES
+Bell Atlantic Corp's Chesapeake & Potomac Telephone Co of Maryland will redeem all $125m of its draining 40-year 9.0% debentures due October 1 2018, at 105.63 pct of principal plus accrued interest.
+It is also redeeming all of its $100m 35-year, 8.75% debentures due June 1 2009 at 103.23% of principal amount, plus the interest accrued from December.
+Best Programs Inc, Reston, Virginia software developer, has filed with the Securities & Exchange Commission to go public with an initial offer of up to 2.17m shares at a target price of $9 to 11 a share.
+Net proceeds will be used to repay debt and for working capital and possible acquisitions.
+Underwriters are Furman Selz Inc and Volpe, Welty & Co.
+Centennial Cellular Corp, New Canaan, Connecticut has filed with the Securities & Exchange Commission for a $200m offering of senior notes and plans to use proceeds to repay outstanding debt under its bank credit facility, for financing of capital expenditures and acquisitions and working capital.
+Nynex Corp's New England Telephone & Telegraph Co issued $100m seven-year 5.75% notes at $99.546% to yield 5.83% through J P Morgan Securities Inc.
+CREDIT RATINGS
+Nynex Corp's New England Telephone & Telegraph Co has had a clean bill of health from Standard & Poor's Corp, which affirmed the double-A-minus senior unsecured debt rating, and said long-term outlook is positive.
+It assigned a doubleA-minus rating to the company's $100m 5.75% senior unsecured notes due May 1 2000 and said that the ratings reflect the company's improving cost structure and regulatory flexibility authorised in most of its jurisdictions.
+Financial measures, such as pre-tax interest and cash interest coverage have increased.
+COMPANY RESULTS
+AllTel Corp has turned in first quarter net profit up 27.3% at $63.2m, on turnover up 8.1% to $546.7m.
+Net earnings per share rose by 26.4% to $0.67.
+Comparisons are made with restated 1992 figures.
+Autotrol Corp has reported fourth quarter net losses of $4.6m up from losses of $1.3m last time, after $3.2m losses from discontinued operations, including $2.6m from their disposal this time and $1.9m losses from discontinued operations last time, including $2m from their disposal, on turnover up 8.2% at $7.8m; net loss for the year to December 31 was $3.9m, up from $448,273 last time, after $3.4m losses from discontinued operations this time and $2.5m losses last time, including $2.2m from their disposal, on turnover up 9.7% to $33.5m.
+Comparisons are with restated figures.
+Brandon Systems Corp saw first quarter net profit up 5.1% at $737,000, on sales up 31.5% to $13.2m.
+Net per share, adjusted for a five-for-four stock split paid in June 1992, and rose 6.3% to $0.17.
+Brooktrout Technology Inc has reported fourth quarter net profits up 5.3% at $601,000, after $140,000 tax credits this time and $272,000 last time, on turnover up 43.6% at $3.7m; net profit for the year to December 31 was up 84.7% at $1.7m, after $456,000 tax credits this time and $402,000 last time, on turnover that rose 53.8% to $12.4m.
+Net earnings per share fell 15.8% to $0.16 in the quarter, and rose 93.3% to $0.58 in the year.
+Cadence Design Systems Inc has reported first quarter net losses of $16.3m, after $13.5m restructuring charges, against profits of $9.7m last time, on turnover that fell by 21.7% to $79.3m.
+Ceridian Corp has reported a first quarter net profit of $12.9m, compared with a loss last time of $34.1m, which included a loss from discontinued operations of $13.2m and a $41.8m charge from an accounting change, on turnover that increased 8.8% at $224.4m; net earnings per share were $30.
+Codenoll Technology Inc has reported net losses of $1.8m for the year to December 31 up from losses of $1m last time, on turnover down by 26.6% to $7.1m.
+EMC Corp has reported that first quarter net profits soared 187% at $14.9m on turnover that rose 98.8% at $130.6m; net per share rose 146% at $0.32.
+Exabyte Corp has turned in first quarter net profit down 48.9% at $6m, on turnover up 0.1% to $76.2m.
+Net earnings per share fell by 48.1% to $0.28.
+FileNet Corp has reported first quarter net profits down 90% at $200,000 on turnover flat at $34.7m; net earnings per share declined by 89% to $0.2.
+Inacom Corp saw first quarter net profit up 74% at $3m, after $229,000 gains from the cumulative effect of an accounting change, on turnover that rose 35.5% to $331.3m.
+Net per share rose 75% to $0.35.
+Informix Corp has reported first quarter net profit flat at $11.5m on turnover that rose 24.5% at $62.1m.
+Net earnings per share, adjusted for a two-for-one split in September, fell 8% to $0.34.
+LSI Logic Corp has reported first quarter net profits soared 3,335% to $10.6m on sales up 12.2% to $168.9m; net per share rose 2,100% to $0.22.
+Maxtor Corp has reported a fourth quarter net loss of $19.7m, against a profit last time of $23.2m, on turnover that rose 15.2% at $345.6m; net profit for the year to March 31 soared 545% at $46.1m on turnover that increased by 39.0% to $1,442.5m; net earnings per share rose 508% to $1.46 in the year.
+MCI Communications Corp has reported that first quarter net profits rose 7.1% at $151.0m after a $17m charge for the cost of early repayment of debt, on turnover that rose 11.8% to $2,810m; net earnings per share were 10% ahead at $0.56.
+Millicom Inc has reported net losses of $73.5m for the year to December 31 against profits of $49m last time, after $8.9m charges related to restructuring, $1.1m charges related to the settlement of litigation, and $39.6m losses from discontinued operations, including $27m losses from their disposal this time, and $30.5m gains on the exchange of debt, $5.4m gains on the sale of securities, $850,000 extraordinary credits and $10.8m gains from discontinued operations, including $27.5m gains from their disposal last time, on turnover up 20.2% at $29.5m.
+Comparisons are made with restated figures to reflect discontinued operations.
+Rockwell International Inc has reported second quarter net profits up 38.3% at $136.9m, on turnover down 2.3% at $2,694m; mid-term net amounted to $264.7m against losses of $1,296.7m last time, after $1,519m charges due to the cumulative effect of an accounting change last time, on turnover down 2.5% at $5,183m.
+Net per share rose 44.2% to $0.62 in the quarter, and amounted to $1.19 in the half.
+Sequent Computer Systems Inc has reported first quarter net profits 253% at $3.4m on turnover up 15.2% at $61.6m; net per share rose 300% to $0.12.
+Sybase Inc has reported first quarter net profits up 144.4% at $6.2m on turnover that rose 55.4% at $80.0m.
+Net earnings per share rose 127% to $0.25.
+ADSTAR ANNOUNCEMENT
+IBM Corp was scheduled to make an ‘operational announcement’ on its Adstar storage business in San Jose just after we closed on Friday, but we have to assume that it was not anything sufficiently dramatic that it would move the share price, otherwise the company would have had to announce it on the New York Stock Exchange before the market opened to prevent a false market operating in the shares; the announcement was to be made by vice-chairman Jack Kuehler, and was also to include some personnel news; IBM has been studying ways to separate Adstar from the rest of the company, Dow Jones & Co notes, and earlier this year, it hired Morgan Stanley & Co and the Boston Consulting Group to recommend ways to speed up the process, which could involve outside investors or a new class of IBM share — and those advisors were scheduled to be done with the preliminary work by now; a first step would likely be the creation of Adstar as a wholly-owned subsidiary — it has kept separate books since last year; but the IBM spokesman said some observers might be surprised by the announcement, which was to be concerned with Adstar's ‘operations as an IBM business unit and its future direction.’
+WESTINGHOUSE HOPE TO SPUR WIRELESS CARRIERS
+Westinghouse Electric Corp, Pittsburgh has asked 15 cellular and wireless companies for proposals to build a nationwide wireless data network, the Wall Street Journal reported: the company's idea is to spur the wireless carriers, individually or as part of a consortium, to develop a network that would make it easier and cheaper for users of laptop and palm-top computers and other devices to send and receive information over the air — and in return, Westinghouse promised to buy a substantial amount of transmission capacity for turn-key communications services that it wants to offer over such a network for various types of companies, such as those that manage large fleets of vehicles and security concerns doing remote monitoring —‘We're trying to get a national packet data network that covers, at a minimum, the 30 largest metropolitan areas,’ the company declared.
+MICROSOFT EXECUTIVE DIES
+Microsoft Corp announced that its chief financial officer and executive vice-president of worldwide operations Frank Gaudette, 57, died early on Friday after an eight-month fight with lymphatic cancer; the Redmond company says that it has not thought about a successor.
+FIVE SHORTLISTED FOR OTE BID
+Five companies have been shortlisted in the bidding for 35% of the Greek Telecommunications Organisation, OTE, this summer, Reuter reports: their indicative bids are expected in June and the sale will be completed in August and the five are Nippon Telegraph & Telephone Corp, France Telecom, GTE Corp, Telefonica de Espana SA and STET SpA; STET already has a $160m 20-year licence to develop a cellular mobile phone system in Greece; AT&T Co, which had been seen as the favourite, withdrew from the bidding.
+IBM STAFFING PLANS
+Bits and pieces are still filtering out from IBM Corp's conference call with analysts after its third quarter figures last week, and its director of investor relations Jim Clippard finally acknowledged that IBM could cut its workforce even more than the 25,000 announced in December, late in second quarter or in the third quarter: ‘It's clear to me that they have to go well beyond the 25,000,’ said PaineWebber analyst Stephen Smith, ‘Maybe even 50,000;’analysts told Reuter that IBM said the majority of its targeted 25,000 plus staffers will leave the company during the second quarter, leaving it open to another plan in the second half of 1993.
+EMC PROFITS DOUBLE
+Hopkinton, Massachusetts-based EMC Corp reported first quarter net profit more than twice what they were in the year-ago period — figures, page five — and says that demand for the Symmetrix 5500 series disk arrays has been greater than the company expected, so that it has had to increase the build plan for the remainder of the year.
+MAXTOR SHARES SLIDE
+Shares in Maxtor Corp slid after the disk drive company shocked the market with news of a fourth quarter loss (see page five), and the price dipped $1.25 to $6.375 on Friday; the company blamed ‘severe price competition,’ which hit gross margins; it says the negative pressures of the fourth quarter will continue into the first quarter of fiscal 1994, but predicted that plans to put new products on the market ahead of the competition ‘is the key to winning new OEM customers and minimising the effects of industry price-cutting.’
+CRAY GETS FIRST SOUTH AFRICAN ORDER
+Eagan, Minnesota-based Cray Research Inc has received its first order from South Africa: the South African Weather Bureau in Pretoria wants a Cray Y-MP2E supercomputer.
+HISTORIC LSI LOGIC QUARTER FIGURES
+Commenting on its figures, LSI Logic Corp reports that net profit in the first quarter exceeded net in any single quarter in the company's 12-year history; it also surpassed total net profit in all of 1991; it said the improved financial results reflect a significant turnaround since it restructured its operations in the third quarter of 1992.
+US ITC GIVES FINAL DUMPING RULING
+The US International Trade Commission last week gave its final ruling that South Korean companies were dumping dynamic random access memory chips on the US market to the detriment of US chip manufacturers — although to the benefit of the much larger population of chip users and their customers: the Customs Service will therefore levy duties on the South Korean imports, which totalled $446 million in 1991 — duties of up to 11.45% will be levied on parts made by Hyundai Electronics Co, Goldstar Electron Co and Samsung Electronics Co.
+EC TO REVIEW IBM ACQUISITION PLAN
+The European Commission will have to review and approve or otherwise IBM Corp's proposed acquisition of Compagnie Generale d'Informatique SA: it has four weeks to decide whether the alliance could harm competition in Community markets; if it has ‘serious doubts’ about the transaction, it will then launch a deeper, four-month probe.
+TELEKURS TAKE OVER TOPICLINE PROFESSIONAL CUSTOMERS
+Telekurs AG of Zurich, Switzerland is taking over from the London Stock Exchange the professional customers of the Topic and Topicline real-time share information system: Telekurs (UK) Ltd will migrate customers to Topic-Plus — based on existing Telekurs services — from the middle of the year with the co-operation of the exchange.
+CMS ENHANCEMENTS FORMS TWO NEW SUBSIDIARIES
+Irvine, California-based CMS Enhancements Inc has formed two new subsidiary companies, AnyBus Technology Corp, which will offer a local bus-ready and upgradable motherboard with a universal adaptor, and CDS Distribution Inc, which will function as a value-added distributor to vertical markets.
+ENCORE TO SUPPLY INFINITY 90 TO US AIR FORCE
+Fort Lauderdale, Florida-based Encore Computer Corp says that it will supply its Infinity 90 machine as part of the $362m five-year contract awarded to BDM Federal Inc by the US Air Force as part of the cost-cutting Defense Management Report Decision 924 programme, which mandates the consolidation of the Air Force Material Command unit's mainframe systems and sites.
+BELL  ATLANTIC AND FUJITSU FORM AUSTRALASIA ALLIANCE
+Bell Atlantic Corp's Bell Atlantic Business Systems International has formed a  partnership with Fujitsu Australia Ltd to provide independent computer service and support for companies' enterprises in Australia, New Zealand, Papua New Guinea and Fiji: each company will own a half interest in a partnership that owns ACL Computer Services and will conduct business under the name of FBA Computer Technology Services, providing hardware, software, network and usage support on mainframe to desktop systems from multiple vendors; Fujitsu Australia is now 80% owned by Fujitsu Ltd and 20% by ICL Plc.
+IMPROVED COMMUNICATIONS IN DEALING ROOMS
+Since the start of the month, the ACT Financial Systems Ltd arm of ACT Group Plc, and IPC Information Systems Ltd, both London-based, have been working together to improve communications in the dealing room: first fruit of this non-exclusive agreement is a link between ACT's Citydesk database and IPC's Tradenet MX digital dealerboard; when a dealer dials a direct line telephone number using his Tradenet dealerboard, the RS 232 output port on the board simultaneously sends a signal to the Citydesk database; a special program searches the database for information on the client being contacted, and immediately posts it up on the Citydesk screen; so, the dealer does not have to waste time doing a manual search; this service is available now, but will be sold mainly as an added extra to existing customers, or via the direct sales teams of both parties; pricing depends on the size of installation, and the complexity of database search levels required; future developments include bi-directional communications — the Citymax database could send a message to a dealer if something significant happened on the market.
+NCR GROUPS WORK ON WORLDWIDE TELECOMMUNICATIONS SERVICES
+NCR Corp has formed two new groups that will work jointly to develop telecommunications specific business systems for providers of telecommunications services worldwide: Telecom Solutions & Integration is a development and production organisation in NCR's Midrange Computer Products Division and will be based in Naperville, Illinois, integrating NCR's Open, Co-operative Computing Architecture with specific telecommunications attributes; and Worldwide Communications Industry Marketing will focus on enhancing NCR's understanding of customers and the communications industry.
+AMERICAN MOBILE REPORT LIN BROADCASTING OFFER
+Woodland Hills, California-based American Mobile Systems Inc reports that it has had an offer from LIN Broadcasting Corp's Transit Communications unit to buy not less than 8.75m newly issued American Mobile shares for $8.50 each; Fleet Call Inc has currently bought 714,286 shares of its common for $5m as part of a previously announced agreement for Fleet call to buy no less than a majority of American Mobile's shares at $7 each; the new offer assumes that the Fleet Call deal will be completed as planned.
+BUSINESSTALK SYSTEM 2000 UPGRADED
+General Electric Co Inc's GE Information Services has upgraded its electronic mail system, BusinessTalk System 2000 for Windows: data compression has been improved, and a gateway application has been added to enable links to external services; bulletin boards can now enable drag-and-drop two-way posting of notices and files, and textual databases and on-line discussion boards have been added; version 1.1 of the package is available now in the UK and it sells for £205.
+BOB MILLER TO BE REPLACED AT MIPS
+The Microprocessor Report expects Bob Miller to be replaced at MIPS Technologies Inc: he apparently retains his seat on Silicon Graphics Inc's board and his post as head of MIPS' architecture committee but it seems he's off with a new venture-backed workstation company called NetPower Systems Inc; he wouldn't discuss product plans but the newsletter thinks that it will market low-cost MIPS R-series workstations made by OEM suppliers.
+TOP LEVEL COMPUTING OFFERS COMPLETE WORKS UPGRADE
+Stroud, Gloucestershire-based Top Level Computing Ltd is offering MS-DOS and Windows users upgrades to its Complete Works or Fine Words packages, for £130 and £90 respectively: Complete Works combines a word processor, spreadsheet, database and charting with new form design and filling facilities; the company reckons that the deal will be popular with users of its previous Microsoft Works package and with MS-DOS, Wordstar Express, Locoscript and Supercalc users wanting an upgrade path to Windows.
+NCR WIN $2m TOUR OPERATOR CONTRACT
+NCR Corp has won a $2m contract to provide Dutch tour operator Arke Reizen NV with one of its massively parallel System 3600 systems: the machine will serve 800 terminals at Arke Reizen's head office and 9,000 additional remote terminals in offices across the Netherlands, it will also handle some 500,000 bookings a year and calculate and maintain Arke Reizens's financial accounts; it is believed to be the first time massively parallel technology has been used to handle day-to-day travel transactions — although a number of travel agents use it to analyse marketing data.
+AT&T ACQUIRE SHAYE COMMUNICATIONS
+No financial details were revealed on AT&T Co's acquisition of Shaye Communications Ltd (CI No 2,148), and no indication of the company's size was given apart from the fact that it employs 60 people, many of whom are involved in the design and engineering of the firm's products.
+RACAL AND POINT FOUR PLANET EPoS TEAM ON POS  SYSTEMS 
+Racal Electronics Plc's Racal-Transcom Ltd and Point Four Planet EPoS have teamed up to offer point-of-sale transaction and credit card authorisation systems targeted at convenience stores: the Racal-Transcom TCL400 terminal will be used with Planet back-office systems to provide credit card verification, debit card electronic payment processing and stock tracking.
+PLANNED KOREA, RUSSIA AND JAPAN FIBRE OPTIC LINK
+Government officials from Korea, Russia and Japan are soon to meet to discuss details of a planned fibre optic cable to link the three countries: construction of the 1,060 mile cable is scheduled to begin in May, with completion planned for early 1995; the main contractors will be Korea Telecom Corp, Japan's Kokusai Denshin Denwa Co, and Intertelecom of Russia.
+SOFT-SWITCH ENHANCES MAIL EXCHANGE SYSTEM
+Soft-Switch Inc, Wayne, Pennsylvania has enhanced its EMX Enterprise Mail Exchange, adding support for X400 over TCP/IP and for X400 messages containing international character sets such as ISO6937 and T.61 — Teletex: the Reading-based UK arm also added TCP/IP support to the server component of its client-server Applications Programming Interface, the Soft-Switch Network API.
+INTERNATIONAL TELECOM JAPAN EXPANDS SERVICE NET
+International Telecom Japan Ltd has expanded its Service Net international private network to cover Italy, and the San Marino and Vatican enclaves: the service will be offered in conjunction with Italcable SpA, and the Japanese company plans to expand the service area to cover France and South Korea next.
+BIRMINGHAM UNIVERSITY STARTS PHASE THREE OF EXPANSION
+Birmingham University in the UK West Midlands has started Phase Three of its computer network expansion: it has ordered 20 ECS Hubs, 300 adaptor boards and a Network Integration Centre from 3Com Corp, together worth £115,000; by the end of Phase Three, it will have around 2,500 connection points to the FDDI network installed for staff and post-graduate students.
+RAM MOBILE DATA AND MOBILE DATA TURNKEY SOLUTIONS OFFER FLEET DESPATCH APPLICATION
+New York-based RAM Mobile Data Inc and Mobile Data Turnkey Solutions have teamed up to offer Dispatcher, a Windows-based fleet despatch application for use on RAM's mobile data network: the system consists of personal computer software and Millidyne STX 4000 mobile data terminals which are mounted in each driver's vehicle; drivers can use the system to report position and status, while controllers can see status reports; all message transactions are recorded, and there is also a message store capability.
+LANGUAGE DIFFICULTIES
+Sorry to burden you with another Europroblem, but with the growth in cross-border activity, we are getting more and more bright-eyed young journalists that know a foreign  language and report back from continental press conferences the English equivalent of exactly what was said in the local language — except that it doesn't actually mean anything in English: an august journal — no names to spare any blushes — reports that the boss of IBM Deutschland GmbH said with regard to the company's figures ‘we made a decision to place a burden on our financial balance in order to ensure a healthier future’…

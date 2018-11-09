@@ -1,0 +1,253 @@
+
+
+DEC DULY LAUNCHES ITS ALPHA PC FOR WINDOWS NT
+As expected (CI No 2,140), Digital Equipment Corp yesterday unveiled its 150MHz Alpha personal computer, the DECpc AXP/150, designed to run Microsoft Corp Windows NT, plus two ‘Pentium ready’ Intel Corp 80486-based machines, models DECpc DT and DECpc MTE.
+In an attempt to streamline its personal computer range, DEC plans to market the new Alpha and Pentium systems in parallel, with both offered at similar price points and configurations.
+The rest of DEC's Intel iAPX-86 lines will marketed separately.
+The DECpc AXP/150 is priced at £5,350, which sounds expensive compared with DEC's two new Pentium ready models, DECpc DT and DECpc MTE, priced at £1,395 and £2,095 respectively, especially as almost all the software for it has to run in emulation mode using Insignia Solutions Ltd's SoftPC, which provides support for MS-DOS and 16-bit Windows applications.
+The DECpc AXP/150 is a minitower configuration and comes with from 16Mb to 128Mb RAM, 245Mb disk, 512Kb cache, six EISA slots and 14″ colour SuperVGA monitor.
+Other features include two serial ports, Ethernet adapter, five drive bays and a SCSI controller.
+DEC says 250 developer DECpc AXP/150 systems are already with independent software vendors and hopes to increase the number to 1,000 by June 30.
+The company expects 300 Alpha applications to be available by September, with more rolling out over the course of the year.
+The DECpc AXP/150 and DECpc 560 ST personal computers will also support Intel Corp's Pentium Peripheral Connect Interface bus specification, which enables NT applications running in either environment to interoperate.
+DEC RETURNS TO SOUTH AFRICA WITH WHOLLY-OWNED SUBSIDIARY
+Separately, Digital Equipment Corp announced that it was moving back into South Africa with a wholly-owned subsidiary, Digital Sales and Services South Africa (Pty) Ltd, which begins operation on July 1.
+It is also associating with two local companies, Bhekisizwe Computer Systems Pty Ltd and Olivetti Information Technology Pty Ltd.
+Bheki is a new South African firm set up to operate as an authorised value-added reseller of DEC products and systems, and is backed by majority black organisations.
+AS YOU WERE: HEWLETT WILL PUT NEXTSTEP ON PRECISION RISC
+Following the decision to license Steve Job's NeXTStep 486 object oriented operating system on its line of Intel Corp 80486 systems (CI No 2,148), Hewlett-Packard Co yesterday bit the bullet and said NeXTStep version 3.1 will be available on its Precision Architecture RISC-based HP Apollo 9000 series 700 of Unix workstations from the middle of next year.
+Talks between Job's NeXT Computer Inc and Hewlett-Packard date back to the beginning of the year (CI No 2,080), and the two are now teaming to offer a bundled range of NeXT software on Hewlett-Packard systems, targeted at the financial services industry, under the name Object Enterprise.
+In addition, NeXT's Portable Distributed Objects system for distributing applications across a network will enable NeXTStep objects to be deployed on HP-UX servers from the end of the year; the company's NetInfo network management software will interoperate with Hewlett-Packard's OpenView system management tools and will also be available on HP-UX servers from the fourth quarter of this year.
+The two say Open Software Foundation Distributed Computing and Distributed Management Environments and the Object Management Group's Common Object Request Broker Architecture will feature in Object Enterprise.
+CIMFLEX DROPS DIVESTMENT
+Pittsburgh, Pennsylvania-based Cimflex Teknowledge Corp has terminated its agreement to sell the assets of its Automated Factories Division to Flexpack Corp because prospects for the unit deteriorated significantly since the deal was signed.
+HITACHI LAUNCHES ITS 7600 DISK ARRAYS AND NEW CONTROLLER
+Hitachi Data Systems Inc duly announced its new 7600 Disk Storage Subsystem yesterday — with precious little detail.
+The complex of 6.5″ disk drives comes in 7693 and 7699 configurations and there is a new 7690 controller alternative to IBM Corp's new 3990-6.
+The 7693 Disk Array offers up to 90Gb in a single frame and ships at the end of next month.
+The 7699, with up to 270Gb. follows a year later, in the third quarter of 1994.
+The 7960 takes up a third less space than its predecessor and features a new intelligent learning cache algorithm.
+It can address up to 256 logical paths, twice the number on IBM's new controller.
+As with the IBM controller, cache goes to 1Gb.
+The IBM concurrent copy, sequential data striping, enhanced dynamic cache management and search assist will be available for the 7980-3 as well as the 7690 in the first quarter 1994.
+Subsystem prices go from $425,000 to $2m.
+Hitachi claims to have RAID 1 already implemented with the dual copy feature, and the firm is promising higher levels of RAID in the future.
+AT&T TEAMS WITH KOKUSAI, SINGAPORE ON WORLDSOURCE
+AT&T Co is stepping up its battle with British Telecommunications Plc with launch of its WorldSource customised communication services for multinationals, and has announced its plans for Europe and the Far East.
+In Europe it plans to invest $350m over the next five years and create 650 jobs to launch the speech and data services, which will offer common features and performance standards globally, and will be offered to European multinationals in 1994.
+It already has data management centres in the UK and the Netherlands, and will add more.
+It is also looking for partnerships with telecommunications operators through a new WorldPartners Association.
+In the Far East it already has two partners in the shape of Kokusai Denshin Denwa Co Ltd and presently state-owned Singapore Telecom, and the trio say they will spend over $100m over the next few years on WorldPartners.
+Six multinational companies, among them Goodyear Tire & Rubber Co, Motorola Inc and Honeywell Inc, already agreed to use the services.
+IBM WORKPLACE OS KERNEL FROM TALIGENT IS THE KEY TO THE COMPANY's FUTURE PLANS
+The eyes of the world may be on Microsoft Corp Windows NT, but over at the IBM booth they are pulling out all the stops to show that OS/2 is far from dead.
+Conscious of NT's symmetric multiprocessing abilities IBM was previewing a beta symmetric multiprocessing version of OS/2  version 2.1 running on a four-way AST Research Inc box.
+But it is clear that the future lies with a microkernel, which IBM dubs the Workplace OS and will be using to host future versions of OS/2, AIX and MS-DOS with Windows.
+If this microkernel sounds familiar, it should — Workplace OS is none other than the extended and neatened Mach-based microkernel that the Taligent Apple-IBM joint venture is using to host its eponymous object-oriented operating system.
+But while Taligent is promising action in 1995, IBM will begin shipping beta microkernels to hardware vendors and people that build ‘personality neutral services’; which means those capabilities common to all operating systems.
+Then in the third quarter the company will ship a beta AIX personality to sit on top of Workplace OS, with an OS/2 Personality following in the last quarter.
+This is not just technological tinkering, according to Lois Dimpfel, PS Director with the Personal Systems Programming Centre at Boca Raton.
+She envisages perhaps two or three beta versions, and then after that we will see a new OS/2 running as a personality on top of Workplace OS.
+At the same time both the old and new versions of OS/2 will get a top-dressing of Taligent technology later this year, in the form of a new object-oriented user interface and programming interface — which sounds rather like Microsoft's Cairo plan.
+The idea is that OS/2 developers who write to the Tali-OS/2 combination will be able to convert them with the minimum of fuss.
+But wait a moment, aren't the people at Taligent talking about OS/2 and AIX personalities (that they call ‘adaptors’) to sit on Taligent?— on the one hand there is a microkernel with Taligent on top and an OS/2 adaptor.
+On the one hand there is the same microkernel, with OS/2 on top running a skinny Taligent layer.
+Yes, that is exactly what is happening.
+IBM senior vice-president and general manager of its personal systems division James Cannavino is totally wrapped up with object technology and believes that it is likely to sweep everything before it.
+It the meantime, getting OS/2 on top of the Workplace OS microkernel should make it processor-independent.
+Ms Dimpfel says almost all the major hardware manufacturers are getting copies of the beta Workplace OS and that IBM is garnering a lot of interest from those that have built their businesses on proprietary, vertical-market operating systems and are interested in putting them up as personalities on a microkernel — such as Workplace OS — that could gain wide industry support.
+OS/2 TO RUN NT APPLICATIONS ‘WHEN THERE ARE ANY’
+Lee Reiswig, head of IBM Personal Software Products says IBM can get NT applications running under OS/2 by implementing a ‘thin layer’ of code — but will do it only when there are sufficient applications.
+SOFTPC WILL HAVE TO SUFFICE FOR NT
+Insignia Solutions Ltd, High Wycombe, Buckinghamshire, is reminding the world that in the early days of Microsoft Corp's Windows NT, all anyone will be able to use in it is Insignia's SoftPC — integrated within NT to provide the MS-DOS and 16-bit Windows emulation environment that must suffice for almost all users until 32-bit applications come along — in the version of NT that supports the R-series and Alpha chips, Insignia emulates the iAPX-86 CPU and other hardware including graphics boards, disk controllers and floppy disk drives.
+OS/2 2.1 IN DEMAND
+James Cannavino, IBM Corp senior vice-president and Personal Systems supremo says the company is getting 6,000 to 7,000 calls a day on its OS/2 number requesting details of OS/2 2.1, which is due to ship on June 14: he claims that current sales of OS/2 are running at around 200,000 copies a month.
+ACCOUNTANTS MADE TO WORK
+IBM Corp's James Cannavino took some time out to explain exactly what Louis Gerstner is doing with regard to the company's restructuring — Gerstner, he says, ‘has stopped any organisation in IBM that was creating a subsidiary just for accounting reasons’— instead, he decided it was better to change the accounting practices —‘which is great’ declares Cannavino, ‘because it means that the accountants are staying up as late as we do now’.
+IBM DEMONSTRATE MULTIPROCESSING OS/2
+The multiprocessing version of IBM Corp's OS/2 demonstrated at Comdex will be going into beta test sites this summer: theoretically it is capable of supporting up to 16 processors, but the company humms and hahs about how many are practicable; the  kernel itself is locked so that it runs on a single processor, but this will change in the forthcoming versions using Workplace OS, says IBM's Ms Dimfel.
+POET OBJECT DATABASE FOR NT
+Poet Software Corp, Santa Clara claims to be showing the first object-oriented database system running under Microsoft Corp's NT in the shape of Version 2.0 of the company's Poet object database.
+IBM SETS PC-DOS 6 FOR DIGITAL ASSISTANTS, HAS PAPER DEAL
+IBM Personal Software products is grooming future versions of PC-DOS as an operating system for personal digital assistants.
+A beta version of PC-DOS version 6 is being shown off at Comdex with support for PCMCIA cards and power management facilities, and in addition the company has struck a deal with Paper Software Inc of New Paltz, New York for its Sidebar technology.
+The latest version of Sidebar is a shareware utility for Windows that replaces the Windows Program and File Managers with rather splendid object-oriented alternatives.
+But Mike McCue, Paper's chief executive, says candidly that the company is abandoning the Windows utilities market.
+The environment for Windows add-on vendors is becoming  distinctly unhealthy he says, as Microsoft adds functions into the base operating system.
+So he is bailing out in favour using his company's graphical user interface expertise in the burgeoning Personal Digital Assistant market and its non-exclusive licensing deal with IBM.
+Lois Dimfel of IBM Personal Systems says that the Sidebar technology will not appear in the initial PC-DOS 6 release, but in a subsequent ‘point revision’.
+Sidebar will be used to give the thing an OS/2 look-alike and feel — at least until a full screen PC-DOS application is run.
+The main advantage of Sidebar though, she says, is its ability to present information efficiently on small screens.
+In the longer term, IBM is even thinking about making PC-DOS 6 processor-independent so that any forthcoming lines of handhelds aren't limited to Intel Corp chips, Ms Dimfel says the same people producing the Taligent/Workplace OS micro-kernel are looking at a ‘pico-kernel’ optimised to run just PC-DOS.
+NINE CONTENDERS FOR UNIX INTERNATIONAL's REQUEST FOR APPLICATION LINKING TECHNOLOGY
+Unix International Inc has so far logged nine responses to its Application Linking request for technology, including Lotus Development Corp, which is submitting its Link, Embed and Launch to Edit technology and Symbotics Inc.
+The others are all shy about being named.
+Unix International says most other submissions come from companies involved with the Common Open Software Environment and the Object Management Group.
+The technology, which is intended to enable users tp link, transfer and share objects between documents created by different Unix desktop applications and between Unix and Microsoft Corp Windows applications, is intended to become a standard feature of Unix desktop applications by the first half of 1994.
+According to Mark Doran, Unix International's technical project manager, Application Linking won't be a full object-oriented specification and is intended only as a stop-gap definition until the Object Group delivers object linking and embedding guidelines in two years' time.
+Unix International's approach is compliant with Object Management Group's Object Request Broker and Unix International anticipates that Application Linking's reference implementation will provide a migration path to Object Management Group-compliant implementations as they become available.
+However, the initial Application Linking specification will possess object-like characteristics to allow for further developments and support for Object Group's Object Request Broker Architecture.
+Application Linking Technology is similar in function to Microsoft Corp's Object Linking & Embedding specification, which enables users to cut and paste objects, text, spreadsheets, sound, video and graphics between different Windows applications.
+This linking should be possible on a stand-alone desktop or across a network.
+Unix International says Application Linking capabilities will significantly enhance the attractiveness of Unix-based applications in general-use environments.
+Unix International anticipates the technology will be standardised on every Unix desktop vendor's system and available to software developers, and it promises to work with all segments of the marketplace to move the technology forward quickly.
+Unix International issued the Request for Proposals under its Expanded Reference Technology Selection Process announced in February.
+Unix International members have determined the requirements and will pick the reference technology.
+Cut and paste
+Unix International will then release the interface specifications and conformance tests to the industry to encourage development of other compliant implementations.
+The choice of a reference implementation for Application Linking is expected this autumn.
+Application Linking Technology will enable desktop Unix users cut and paste via a graphical user interface like Motif objects such as text, spreadsheet data, bitmap pictures, vector drawings, sound or video clips from one software application to another.
+Objects will be automatically updated in the documents they're copied to or host documents as they are updated in the software package they were created in.
+Objects will also be scaled from within host documents.
+The biggest problem facing Unix International is Windows and Unix interoperability.
+It is concerned about the lack of Windows technical expertise and the effect this will have on specification schedules.
+Doran says ‘We haven't much technical expertise in the area of Windows and we're wary of being too invasive of its code.
+If we don't get it right then developers will be very reluctant to integrate the technology’.
+Other Application Linking concerns include developing real-time object linking and embedding techniques and improving the level of data exchange.
+Full Application Linking Technology proposals will be announced on June 6.
+COMPUTER ASSOCIATES SHIPS CA-UNICENTER FOR HP-UX
+Islandia, New York-based Computer Associates Inc will begin delivering CA-Unicenter, its systems management product for client-server environments, on Hewlett-Packard Co HP 9000 Series 800 and 700 machines this week.
+It has also set up a worldwide value-added reseller and distribution channel to market CA-Unicenter and a new line of Unix products.
+CA-Unicenter will come in two parts: CA-Unicenter/325 configured for the server; and CA-Unicenter/125 for the client.
+The server software provides the core management functions including security, scheduling, print spooling, performance management, resource accounting, chargeback and report distribution.
+CA-Unicenter/125, which operates on Hewlett-Packard's series 700 workstations, includes file management automation, back-up, restore and archiving and networked security functions.
+CA-Unicenter will be made available for Sun Microsystems Inc Sparcstations, IBM Corp RS/6000s and AS/400s, and Novell Inc NetWare by the end of the year.
+Support for Microsoft Corp's Windows NT is to be added by the second quarter of next year.
+Early CA-Unicenter kits have already been delivered to more than 200 Unix resellers worldwide, its says.
+Prices for CA-Unicenter start from $25,000 up depending on the number of modules required.
+Computer Associates is also converting a string of proprietary software for Unix including: Masterpiece Financials, its decision support and accounting software; SuperProject, project management tool; DataCom relational database and Telon, its own application development environment.
+These products will be available on Hewlett-Packard machines by the fourth quarter and marketed through its new third party sales channels.
+AUSTRIA PICKS ALCATEL FOR NATIONAL DIGITAL NETWORK
+The Austrian PTT has chosen Alcatel NV's Austrian subsidiary to supply a national Metropolitan Area Network for data and voice.
+The value of the order was not released.
+The network will be put into place over the next two years, and will have around 150 34Mbps subscriber access ports and 500 2Mbps access ports.
+It will extend a pilot network in Vienna to cover Austria's regional capitals.
+In 1994, the number of subscribers will be increased and the network bandwidth will be extended to 140Mbps.
+The network will support SMDS/CBDS subscriber interfaces at 2Mbps or 34Mbps, as well as fractional Frame Relay interfaces, and combined interfaces including voice connections for large customers.
+MICROSOFT DECLARES WAR ON UNIX WITH THE LAUNCH OF WINDOWS NT
+Microsoft Corp's new Windows NT is not only a challenge to OS/2 — which Microsoft originally developed jointly with IBM Corp but has since abandoned — but also Unix, which is now installed on some 24m workstations.
+Indeed Microsoft is pricing Windows NT competitively with the recent desktop Unix entries such as SunSoft Inc's Solaris x86 for iAPX-86 which is £600 — $800 — Santa Cruz Operation Inc's Open Desktop 3.0 Lite which retails at £500 — $700 — and Univel Inc's UnixWare, the cheapest Unix on the block at $250 for the Personal Edition and $1,300 in server versions.
+Meantime according to the new ClieNT Server News, Microsoft's 24 OEM hardware suppliers have been told to expect client and server Windows NT products from June 15, though other insiders say the server software may not be around until later in July.
+The products will be available from all usual retail outfits, but Microsoft is separating supply from service.
+Support will be available from leading vendors backed by a contractual support service from Microsoft.
+Microsoft channel partners will supply other services to the reseller community and fee-based support will also be available directly from Microsoft Connect.
+And ClieNT Server News also reports that Windows isn't the only trademark Microsoft is having trouble in getting.
+NT is also a no-go.
+Northern Telecom Ltd — itself a large Microsoft user — says it has a prior claim to the initials and has told Microsoft it can't use the term.
+‘Windows NT is our trademark and product name.
+Please do not abbreviate it to NT,’ the company is pleading in its literature.
+CRESCENDO AND SYNOPTICS AIM FOR FDDI OVER UNSHIELDED TWISTED PAIR
+Both SynOptics Communications Inc of Santa Clara, and Crescendo Communications Corp, Sunnyvale, have announced plans to deliver products conforming to the Fibre Distributed Data Interface over unshielded twisted pair draft standard under development by the American National Standards Institution.
+While Crescendo has not firmed up its plans enough to announce what specific products are to follow, SynOptics says that in the third quarter of the year it will launch two FDDI unshielded twisted pair hub products: the Model 3905 FDDI UTP Host Module is claimed to be compatible with all existing SynOptics System 3000 modules, and will list for £3,630.
+The Model 2915 FDDI/UTP workgroup intelligent hub will list for £9,680 for 14 FDDI ports — 12 unshielded twisted pair and two fibre.
+Both products are claimed to support single attachment and dual homing of critical FDDI stations using Category 5 unshielded twisted pair cabling.
+The new products are manageable through SynOptics' Optivity network management system, including support for Expanded View, an application claimed to deliver port level monitoring and control capabilities.
+The ANSI Twisted-Pair Physical Medium Dependent Working Group is expected to finalise the draft standard for FDDI over unshielded twisted pair around October time.
+UK AWARDS ONE METROPOLITAN AREA, THREE NEW SATELLITE OPERATORS' LICENCES
+The UK Department of Trade & Industry awarded four new UK telecommunications licences, three to cover the provision of international satellite services, while the fourth allows the creation of a Metropolitan Area Network in London.
+City of London Telecommunications Ltd, which is 90% owned by the US Fidelity Management & Research Corp, is only the second company to win a new public telephone operators licence since the creation of the British Telecommunications Plc-Mercury Communications Ltd duopoly.
+The company intends to provide business services in London via point-to-point fibre optic lines at all levels from simple ring down circuits to high capacity links of 2Mbps, 8Mbps, 34Mbps and 155Mbps.
+The network will give access to both national and international carriers.
+The company says it will also customise configurations for businesses needing higher bandwidths or other specialised arrangements.
+The network architecture will be based around the Synchronous Digital Hierarchy standard.
+City of London Telecommunications — or COLT — has already started construction of the network, which is expected to go on-line towards the end of the year.
+The three new satellite providers are Satellite Information Services Ltd, ESAT Telecommunications Ltd and PanAmSat LP.
+ESAT's licence allows it to offer a full range of satellite services, with the exception of speech telephony.
+The company currently operates in Ireland.
+According to Mark Roden, ESAT's director of corporate services, the company's first service will be a UK-based transit facility for routing traffic from the Commonwealth of Independent States countries on to the US and Europe.
+PanAmSat, which covers the Americas and Europe, is the first privately-owned international satellite system.
+It plans new satellite launches in the next two years which will provide full global coverage.
+According to Mark Kingston, Satellite Information Services' general manager of broadcast sales, the firm's new licence merely replaces an existing Branch Systems General Licence covering uplink operations and connection to the public switched telephone network.
+GSI LANDS A FIVE-YEAR FACILITIES MANAGEMENT CONTRACT WITH PICARD
+Generale de Service en Informatique SA, France's sixth-largest software and systems engineering firm, announced yesterday a five-year facilities management contract with Picard Surgeles SA, a retailer of frozen foodstuffs, which aims to automate its distribution system.
+Under the contract, GSI is taking charge of the management and evolution of its Digital Equipment Corp environment, its network, system connections with suppliers and subcontractors and point-of-sale terminals.
+‘It was not as much a question of whether we would take a new step in our computerisation, but if we would subcontract it out,’ said Olivier and Xavier Decelle, Picard's president and managing director, respectively, in an article in Les Echos.
+Picard has 216 sales locations in France, and commands 24% by value of the frozen food market, according to Les Echos.
+It reported 1992 revenues of $29m.
+PHONELINK HAS THE PROSPECT OF AN IBM AGREEMENT TO SPICE UP ITS SHARE PLACING
+Phonelink Plc has applied to the London Stock Exchange for trading of its shares on the Unlisted Securities Market (CI No 2,166) and will use the £9.9m raised to fund research and development, increase its visibility on the market, and ensure it has the financial clout to sit alongside its partners on a equal footing.
+Allied Provincial Securities Ltd will place 8.87m shares at 155 pence per share — while this represents 25% of equity, March 1993 also saw three of the group's shareholders pay £3m for shares representing approximately 2.9% of the group's total enlarged share capital.
+The £750,000 raised will be used to develop the Tel-Me range of database access applications.
+The placing values the Birkenhead, Merseyside company at £55m.
+Dealing will start on June 1, although Phonelink is keen go for a full listing once it has hit the three-year trading minimum.
+Phonelink rose out of the ashes of two companies, Profile UK and Technique International, in August 1989.
+Both were sold to provide the ‘seed-core growth’ for the new firm and its innovative information retrieval system.
+The first product offered by Phonelink was DataCare, a bureau service for the automated bulk retrieval of telephone numbers.
+DataCare has generated most of Phonelink's turnover to date — in 1992, this amounted to £923,000, while pre-tax profits, after £414,000 research and development spend, were £31,000.
+The service is used principally by banks, utilities, credit referencing agencies, and companies needing to maintain regular contact with customers.
+The second offering is the BT Teledirectory.
+While this is due to be launched by Phonelink in January 1994, British Telecommunications Plc may well make it available before then.
+BT Teledirectory is a software package, based on fuzzy logic, that provides a fast, user-friendly alternative to accessing numbers from BT's Phonebase database.
+Said to offer 99.87% accuracy, it runs under Microsoft Corp Windows 3.1 on any IBM-compatible personal computer.
+IBM UK agreed in principle
+This computer is linked to Phonelink's own computers via the group's own ‘fast connect’ modem on the public telephone network; via BT's ISDN network; or via BT's Global Service Network.
+A licence fee will cost about £10 and users will be charged for each unit of information rather than by the minute, although there will be no charge for customers linking into GSN.
+BT will remain responsible for billing, but Phonelink will receive payment per enquiry on a monthly basis.
+The product is now in the last stages of beta testing with 19 customers chosen by BT, and Phonelink chief executive Trevor Burke claims there has been a 95% take-up rate.
+His company has signed a non-exclusive distribution agreement with the telecommunications giant for a minimum of six years.
+While BT has the right to terminate the deal between years three and six, it also has the option of extending it for a further three years.
+Phonelink also intends to broaden the possible applications of the product with the launch of Tel-Me in the first quarter of 1994.
+Its goal is to offer easy access to a range of databases, which will be of use to the individual business user.
+Although pricing has not yet been decided, it will be kept low to appeal to the mass market.
+Organisations that have agreed in principle to let Phonelink hold and use their databases are Infocheck for company profiling; the Automobile Association for identification of appropriate hotel accommodation, restaurants and guest houses; Thomson Directories for finding business leads; the Press Association for news; Ordnance Survey for destination mapping; British Rail for railway timetables; British Weather Services; and GB Mailing Systems for postcode information.
+These organisations will also help market the relevant Tel-Me product.
+And Phonelink has established a strategic relationship with IBM Corp.
+IBM UK Ltd has agreed in principle to pre-load Tel-Me on all its personal computers ‘of an agreed specification’ and will design and build a specific machine to incorporate the necessary communications devices, and to distribute Tel-Me in the UK.
+THORN EMI STILL TRYING TO SELL ITS SECURITY AND ELECTRONICS BUSINESS
+Thorn EMI Plc is almost out of our sector now — and doing very well at it too, with pre-tax profits almost doubled at £290m.
+Some of the benefit came from a pick-up in the US music industry but chief executive Colin Southgate said he was cautious about sales prospects this year and wanted to continue tightening belts and getting out of fringe businesses.
+The company still plans to sell off Thorn Security and Electronics, which makes security and surveillance equipment for the defence industry.
+He indicates that he is looking for £150m.The defence division had appeared as a ‘blot on our copy books’, he said — pre-tax profits at the business plunged to £1.5m from £13.2m, and turnover slipped to £425m from the £436.5m of a year ago.
+SHARE & BOND ISSUES
+General Instrument Corp says it is pursuing a two-part programme designed to reduce its interest expenses substantially.
+It filed for a $300m offering of convertible debt and says that proceeds from the sale of the convertible junior subordinated notes will be used to repay part of its existing 9.5% subordinated debentures.
+Goldman Sachs & Co and Merrill Lynch & Co will co-manage the offer.
+COMPANY RESULTS
+Analog Devices Inc has reported second quarter net profits up 160.6% at $10.2m, on turnover up 14% at $162.9m; mid-term net rose 525.4% to $18.3m, on sales up 14.6% at $314.2m.
+Net per share rose 150% to $0.20 in the quarter, 500% to $0.36 in the half.
+Comdata Holdings Corp has reported fourth quarter net losses of $19.6m up from losses of $9.3m last time, after $20.5m charges due to payment of debt, on turnover up 5.3% at $47.9m; net profit for the year to December 31 stood at $18.1m against losses of $10.5m last time, on sales up 4.7% to $193.1m.
+Communications Systems Inc has reported fourth quarter net profits up 44.7% at $1.5m, on turnover up 35.1% at $12.6m; net profit for the year to December 31 was up 39.7% at $6m, after $481,000 gains from the cumulative effect of an accounting change, on turnover that rose by 44.4% to $54.8m.
+Net per share rose 43.5% to $0.33 in the quarter, and 38.1% to $1.34 in the year.
+The 1992 figures include the results of Austin Taylor Communications Ltd since its acquisition in February 1 1992.
+Dell Computer Corp has reported first quarter net profits down 48.5% at $10.2m, on turnover that rose 83.6% at $672.4m; net per share fell 52% at $0.25.
+Electronic Associates Inc has reported first quarter net losses of $827,000, after $183,000 non-recurring charges, against profits of $20,000 last time, on turnover that rose by 20.8% to $11.1m.
+Integral Systems Inc saw second quarter net profits up 12.9% at $101,190, on turnover up 4.3% at $2.2m; mid-term net fell 33.5% to $176,816, on turnover down 6.7% at $4.3m.
+Net per share rose 10% to $0.11 in the quarter, fell 5% to $0.19 in the half.
+Mitel Corp saw fourth quarter net profits up 138% at $9.5m, on turnover down 3% at $94.3m; net profit for the year to March 28 stood at $2.1m against losses of $4.6m, on turnover up 4.3% to $338.2m.
+Net per share rose 133.3% to $0.11 in the quarter.
+Amounts converted at $0.80 to the Canadian dollar.
+Thorn EMI Plc has reported net profit for the year to March 31 up 96.0% at £178.5m on turnover up 12.6% at £4,452.3m; pre-tax profits rose 96.0% at £289.9m and earnings per share rose 101% at 45.3p.
+DELL PROFITS DOWN DUE TO NEGATIVE EFFECT OF NOTEBOOKS
+Dell Computer Corp is blaming problems with its notebook computers for a shock halving of first quarter profits (figures, page five), and warns that the second quarter will be no better, and that its target of $3.30 a share for the year is now out of reach: the shares plunged $10 to $22.125 before the market opened yesterday: ‘Basically, the notebooks are going to have a negative effect on earnings per share in the next two quarters,’ chairman Michael Dell told Reuter — adding that Dell is taking steps to improve its notebook business by setting up joint development opportunities with new partners and that a partnership with an ‘electronics and communications provider’was already in place, although he did not name it.
+SGS-THOMSON REPORTS FIGURES FOR FIRST TIME
+Reporting first quarter figures for the first time — nothing like good news to encourage such a move — SGS-Thomson Microelectronics NV said net profit for the first quarter of 1993 was $24.4m on sales up 28.1% at $439m; in the year to December 31 it had net profit of $3m compared with a loss of $102.6m the year before; first quarter orders soared by 91.2% to $726.8m.
+EC APPROVES IBM FRANCE PROPOSED ACQUISITION
+The European Commission has now nodded through IBM France SA's proposed acquisition of Compagnie Generale d'Informatique SA for about $450m in IBM France bonds convertible into IBM Corp shares.
+DTI GRANTS TWO MORE TELECOM LICENSES
+The UK Department of Trade & Industry has granted two more national telecommunications licences, both to electricity companies: the two beneficiaries are the Energis subsidiary of the National Grid Co, and Scottish Hydro-Electric Plc.
+SONY CORP TO REDUCE GRADUATE RECRUITMENT
+Sony Corp says it will reduce recruitment of new graduates next fiscal year to 500 from the 990 that it has offered jobs for the current year: it will be the second consecutive year-on-year decrease in recruitment after a peak of 1,750 in the 1992-93 fiscal year.
+NTT CUTS EXECUTIVE BONUSES IN WAKE OF PLUNGING PROFITS
+Equally straitened is Nippon Telegraph & Telephone Corp, which reported plunging profits that were still better than forecast: it is cutting its bonus for executives by 20% in the year to March 31 1994, Reuter reports from Tokyo, adding that it is also considering reducing bonuses for senior managers as well as stopping increases of wages of those above section manager; the company sees intense competition.
+IBM APPOINT CORPORATE MARKETING VICE-PRESIDENT
+New IBM Corp chief Louis Gerstner has gone out-of-house for another top executive appointment, this time tapping one of his alma maters, American Express Co, for Abby Kohnstamm, named to the new post of vice-president, corporate marketing — her new responsibilities will include providing corporate oversight and leadership for all IBM advertising, promotion and sponsorships, overseeing use of IBM brand name worldwide, and the contributions programme also reports to her.
+WINDOWS NT INTEGRATED INTO BANYAN VINES
+Banyan Systems Inc says Microsoft Corp's Windows NT has been integrated into its Vines enterprise networks: Banyan's Windows NT client support will offer users complete integration into the Vines network with access to Banyan's enterprise network services, all linked together with the StreetTalk III global directory service, enabling NT to be implemented as a Vines client or application server within the Banyan Vines enterprise.
+MCI INTENTION TO SPLIT SHARES
+MCI Communications Corp, Washington says that it intends to split its shares — now standing at $52.50 — two-for-one, the first since 1983, the third in its 25-year history.
+AT&T TO PROVIDE VSAT SERVICES TO CITRA SARI MAKMUR
+AT&T Co's Tridom unit will provide very small aperture terminal satellite communications equipment to Citra Sari Makmur of Jakarta, Indonesia: Citra has an unrestricted licence to build and operate VSAT-based services in Indonesia and Tridom will install an AT&T Clearlink hub station and 150 VSATs.
+BITWISE DESIGNS ON ELECTROGRAPH SYSTEMS
+Bitwise Designs Inc, New York signed a letter of intent to acquire Electrograph Systems Inc for 333,333 shares of Bitwise common: the combined annual revenues of the two are expected to be about $12m.
+PACIFIC BELL NAMES NORTHERN TELECOM AS PRIMARY VENDOR
+Pacific Telesis Group Inc's Pacific Bell unit named Northern Telecom Ltd as its primary vendor for its five-year $650m project to deploy Synchronous Optical Network equipment: the Canadian will supply S/DMS TransportNode OC-3, OC-12 and OC-48 network equipment to handle local loop and inter-office communications requirements and the equipment will also be incorporated into Pacific Bell's Asynchronous Transfer Mode broadband network; the Baby Bell said that the investment in fibre optics and associated electronics advances its plans for a statewide all-digital network.
+TELECOM EIREANN ISSUE COULD AFFECT COALITION GOVERNMENT
+Underlining the absurdity of Ireland's proportional representation system — and make no mistake about it, if we had a proportional system in Britain, it wouldn't be that nice Paddy Ashdown holding the balance of power, it would more likely be the Reverend Ian Paisley and a couple of Welsh Nationalists — the issue of whether or not Cable & Wireless Plc can buy a stake in Telecom Eireann could bring the coalition government down: Fianna Fail realises that in order to bring in outside investment into the debt-strapped state phone company and increase the lamentable penetration of just 31 phone lines per 100 people, there is little alternative to privatising the company outright or at least bringing an outside investor, but Dick Spring, deputy prime minister and leader of the Labour Party, minority partner in the coalition, issued a statement saying that any privatisation ‘would represent a breach of the programme of government.’
+GERMAN RESEARCH TO SOOTHE PUBLIC CELLULAR FEARS
+The scare that cellular phones might cause brain tumours has died away — everywhere except in Germany: according to Reuter, German cellular phone firms and experts called for more research to soothe public fears of possible dangers from electromagnetic radiation from portable telephones — despite the fact that most experts, including the head of the government telecommunications agency, told a hearing in parliament that research suggests no health danger from phones.
+3L LTD TO PRODUCE PARALLEL C/AXP
+Edinburgh, Scotland-based 3L Ltd intends to convert its parallel C compiler technology for Digital Equipment Corp's Alpha AXP processor architecture: Parallel C/AXP will enable developers to create parallel processing software for board and system level Alpha hardware from both DEC and OEM manufacturers; it will be targeted both at systems integrators building top-end embedded systems, and the personal supercomputer market; existing 3L parallel C users will also be able to migrate to Alpha systems by simply recompiling applications.
+AMERICA ON-LINE ADDS SUBSCRIBERS TO BBS
+Vienna, Virginia-based America Online Inc said that it added over 25,000 subscribers to its bulletin board service in the last month: Microsoft Corp co-founder Paul Allen has plans for the company.
+POOR PUBLIC RELATIONS FOR UNIX
+The jury will remain out for a year or two yet on whether the operating system can see off the threat from Microsoft Corp and its Windows NT, but Unix is definitely not winning big in the public relations stakes: the Wall Street Journal dismisses Unix as ‘a catch-all term for many operating systems that share some features and a common parentage’.

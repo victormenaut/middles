@@ -1,0 +1,403 @@
+
+
+IBM READIES FIRST OF ITS RS/6000 MULTI-PROCESSORS
+Multi-processors seem to be the flavour of the day at the moment and IBM Corp has been promising a multi-processing addition to its RS/6000 line for some time, so it's not too surprising that we hear it'll announce one in around six weeks for delivery later in the year.
+We're told it comes with four Rios RISC processors, 2Gb RAM, 6Gb or more disk, 2Gb per-second fibre optic channel input/output and will perform at 400 MFLOPS.
+Its price tag is said to be in the low $200,000 range.
+Although Groupe Bull SA Bull is supposed to be handling the RS/6000's multi-processing under its recently struck accord with IBM — see page four — it seems doubtful the French are making much of an impact on this particular machine.
+The system will likely be the first in a series of RS/6000 multi-processors that could eventually incorporate up to 16 CPUs.
+Late last year (UX No 362), Phil Hestor, vice president of systems and technology at IBM's Advanced Workstation Division in Austin, Texas, described how multi-processing for the RS/6000 range would start with a four-way offering rising to a maximum of 16 CPUs, with clustering required thereafter: it looks like IBM is sticking to that tack.
+SECOND ROUND OF TALKS ‘WILL BRING PEACE’, THOUGH UNITY UNLIKELY
+The second round of ‘Unity’ talks between the two opposing Unix factions are faring much better than the ill-fated first bout, though actual unity is unlikely to result at least in the short term.
+Unix System Laboratories and the Open Software Foundation look to be headed towards their first puff on the proverbial peace pipe at the Destiny launch on June 16.
+OSF, presumably in the person of its chief David Tory, is scheduled to be there.
+It is believed he and USL president Roel Pieper, the two heroes of the day, will unveil a joint working relationship, presumably focused on ANDF, signalling the end of the Unix wars.
+The occasion, now set for the Trustees' Auditorium at the de Young Museum in Golden Gate Park, San Francisco, will be one of sound bites and photo opportunities.
+The industry will be standing by gauging the heartiness of their handshakes and the sincerity of their smiles trying to decide whether the hatchet really is being buried or whether it's merely a Christmas truce.
+In this climate, a down-home bear hug and attendant back slapping probably wouldn't go amiss.
+The Santa Cruz Operation, which seems to want to move to Unix SVR4 now if the price is right, is reportedly anxious to attend the Destiny launch.
+Computer Associates and Lotus are likely add their endorsements.
+Whether IBM, DEC, Hewlett-Packard Co and Apple Computer Inc will be sending envoys in a show of solidarity remained to be seen as we went to press last week.
+Observers such as IDC's David Smith believe that of the big three HP is the most likely to make a move because unity plays to HP's hand, something he says is not the case with either IBM or Digital.
+The Destiny launch is shaping up to be a pretty big pow-wow.
+Anyone interested in mending fences or burning Bill Gates in effigy should call (415) 354–4454 and come on along.
+CDS PLANS IMPROVED R6000, PLOTS ROUTE TO R4000, SETS MULTI-PROCESSING R5000, R10000 DESIGNS
+The newly formed Control Data Systems Inc (UX No 387), is currently designing a higher performance, higher clock-speed implementation of MIPS Computer Systems Inc's R6000 ECL RISC — possibly utilising multiple CPU modules — which it will announce later this year for the 4860MP quad-processor that MIPS builds for it, according to chief executive officer, James Ousley.
+The chip is being manufactured for it by NEC.
+CDS won't take the 4860MP beyond four processors because, it says, there are no subsequent linear performance gains after that mark: it knows, because it has tried eight- and 16-CPU boards.
+However, CDS is also working on a project that will lead its customers out of the R6000 dead-end, given that MIPS has now ruled out further iterations of its ill-fated ECL part.
+Ousley says his firm is working on technology that will allow R4000s to reside on the backplane used by the R6000 in its 4680MP systems.
+Control Data Corp, as was, had planned to do a Gallium  Arsenide implementation of the latest R4000 RISC for MIPS.
+That's been dropped too, because the GaAs semiconductor house CDC used could only get a yield of 2% good parts.
+However, CDS says it will pick up its GaAs threads again, once the technology has evolved sufficiently.
+Meanwhile, Toshiba Corp and NEC are thought to have invested some $200m in preparation for development and fabrication of MIPS' next-generation R5000 and R10000 RISCs (UX No 377).
+CDS says it is currently designing multi-processing versions of both.
+More CDS details, see page six.
+DESTINY PLUS NETWARE EQUALS UNIXWARE: 70 SOFTWARE FIRMS GIVE THEIR SUPPORT
+Univel Inc, the Novell Inc/Unix System Labs joint venture for Destiny, is picking up the charter for recruiting the all-important software for the soon-to-debut desktop operating system from USL and this week will announce an early access programme that will get binary code into independent software developers' hands immediately.
+Reportedly Univel has already lined up at least 70-plus companies to port to Destiny including WordPerfect, Oracle, Borland, Gupta, Lotus, 3Com, Ingres, Hyperdesk, Sybase, Informix, Frame, Applix and Island Graphics.
+At press time, it was said to be still finalising international agreements.
+The software will be available in a month or six weeks to all ISVs.
+Pricing will then be determined.
+Univel's version of Destiny, with its hooks to Novell's NetWare, will be officially christened UnixWare this week.
+It should ship in September or October.
+ISVs will get complete NetWare, SVR4.2 and Motif application programming interfaces with access to Open Look via the Moolit toolkit along with Posix, XPG/3 and FIPS 151 compliance needed for federal contracts.
+Intel Corp is expected to bless the project with its endorsement, fittingly since it re-enforces its position in the marketplace.
+USL and Univel have apparently been working under non-disclosure with Intel to ensure the kernel wrings specific new performance possibilities from Intel's anticipated 80586 chip, the P5.
+Similarly, the trio combined to ensure the software worked suitably on existing Intel platforms.
+Univel believes a port to Destiny will be trivial for Unix companies who will be merely testing shipping product.
+Univel will ensure their programmes are integrated into Destiny's Mac-like desktop metaphor and that appropriate icons are provided.
+Univel is also expected to bring a bevvy of endorsements from peripheral manufacturers.
+NCUBE PREVIEWS 6.5 TFLOPS MONSTER THAT RUNS ORACLE
+Foster City, California-based nCube Corp will this week preview its latest monster, the 6.5 TFLOPS nCube 3, its third-generation general-purpose hypercube supercomputer.
+The whopper is scalable to 65,536 proprietary 64-bit processors, boasting a daunting 3GIPS peak performance — 200 times faster than its predecessor, the nCube 2.
+Also announced is the interim nCube 2S and the entry-level nCube 2E.
+Due to ship in 1994, the nCube 3 will run a parallelised OSF/1 Unix, and hook up to machines supporting Ethernet TCP/IP, HIPPI, Fiberchannel and FDDI.
+The interim product, the nCube 2S, meanwhile, will ship this August, offering a 50% performance increase on the existing nCube 2 (which is rated at 27 GFLOPS peak), although scalable to the same maximum complement of 8,192 processors, and up to 512Gb main memory.
+Details of both machines are on page six.
+SEACHANGE LAUNCHES SEACHANGE 4 FOR RAPID UNIX, MS-DOS DEVELOPMENT
+A second generation of rapid development software products has been launched by UK, York-based Seachange Ltd.
+The new family of products, SeaChange 4, is targeted at software applications developers for Unix and MS-DOS systems.
+An integrated fourth generation language tool set, it produces interoperable software for a variety of database systems, such as Ingres, Oracle, Informix and C-ISAM.
+The £1.2m a year open systems software developer believes that Seachange 4 builds on past developments and provides the optimum balance between procedural and non-procedural languages.
+The product range comprises SeaGen; Sea4GL; SeaGate; SeaGate Plus; SeaQL, and SeaAccounts.
+SeaGen is an applications generator with its own virtual machine architecture.
+This architecture enables applications to be developed on one system and implemented on a different one.
+SeaGen generates transaction processing applications around a database system.
+It has an active data dictionary and gives a relational view of the database.
+The generator has forms, menus and report handling systems as well as its own database processing language.
+SeaGen can be used by developers of varying ability levels.
+Sea4GL is a general purpose fourth generation, modular language that extends the functionality of SeaGen.
+It is aimed at experienced software developers, working in teams to produce complex applications.
+Re-usable code is written in blocks, so that tasks can be divided between individuals or groups dealing with a development project.
+After three years and approximately £2m of research and development, SeaChange 4 began shipping on March 31.
+Price is dependent on processor size and the number of users, but a start-up price for two to three users on a box running Santa Cruz Operations Inc Unix was quoted at £4,500.
+OLIVETTI RESEARCH LABS WORK ON MULTI-MEDIA UNIX TECHNOLOGY
+The UK, Cambridge-based Olivetti Research Laboratory, ORL, funded jointly by Ing C Olivetti & Co SpA and DEC, has been doing a lot of work on the so-called ‘active badge’ technology — infra-red location devices linked to computer and telephone systems.
+But more interesting is a parallel project to develop a multi-media desktop environment using Unix workstations equipped with their own charge-coupled device camera, microphone and loudspeaker linked to an ORL Pandora system.
+Pandora, a digital system, allows real-time, interactive video, audio, text and graphics to be accessed simultaneously from different terminals.
+Two or more users can conduct video phone conversations and access live television pictures or send video mail, for instance.
+The workstations communicate via high-speed Asynchronous Mode Transfer local area networks with 500Mb per-second backbone capacity — 50Mbps distribution to individual workstations.
+NOW SIEMENS NIXDORF TURNS TO HP FOR LICENCE TO SOFTBENCH
+Siemens Nixdorf Informationssysteme AG has become the first non-US company to adopt Hewlett-Packard Co's SoftBench computer-aided software engineering environment.
+SoftBench is already licensed by Control Data Systems Inc, IBM Corp and Informix Inc.
+Siemens has licensed SoftBench as it is incorporated in the Toolbus environment from Informix; Encapsulator, a tool for adding software products to the SoftBench and Toolbus environment for integration of tools supplied by independent software vendors or users; and the C++ Developer software construction and browsing tool used for object-oriented programming in C++.
+Siemens is to incorporate SoftBench in its Domino software engineering environment which brings together process techniques, methods and design, development, testing and maintenance tools.
+HEWLETT-PACKARD HANDS ITS ADA OFFERINGS TO THOMSON's ALSYS…
+In an effort to check both Digital Equipment Corp and Sun Microsystems Inc's lead in the Ada defence software market, Hewlett-Packard Co is giving Henley-on-Thames, Oxfordshire-based Alsys Ltd its Ada offerings.
+To wit, Alsys, very strong in the defence market, now has responsibility for the development, marketing and support of all Hewlett-Packard Ada compilation systems and related tool sets operating on HP 9000 workstations and business systems.
+The HP 700 products were originally based on Alsys technology and Alsys will continue developing, marketing and maintaining these products as well as shipping new versions of the product supporting HP-UX 8.0 on the Series 800, and will follow up with a new version supporting the Series 400 and 300 workstations.
+Alsys will also take over the Ada/SoftBench offering along with a suite of Ada bindings to HP-UX, X Library, X Toolkit and Motif.
+Intriguingly, Alsys, part of Thomson-CSF since October last year, is charged with providing the Ada development environment as part of Thomson's drive into the global software engineering market.
+Why intriguing?
+Because one of Alsys' siblings in the Thomson-CSF Information Technology Group is Atherton Technology Inc, whose backplane technology is seen as a rival to Hewlett's SoftBench.
+Doesn't this put Alsys in an invidious position?
+Alsys UK general manager John Walker doesn't think so.
+He says Alsys has not decided whether to make Soft Bench or Atherton the backplane of the Thomson Ada software engineering thrust.
+In choosing, Alsys has to weigh up two objectives: which technology has greater market share and is more attractive to third parties and which technology will be the standard internally at Thomson for engineering.
+Stating these two objectives, the choice doesn't seem easy to me — SoftBench is streets ahead in the market and Thomson would be acting very peculiarly if it didn't use Atherton internally.
+Another factor will be how easy the chosen technology is to convert for environments other than Hewlett's.
+For example, the Alsys tools use the Ada World menu system to invoke tools whereas Hewlett developed the HP 700 products to run with SoftBench instead which offers a Motif interface.
+Alsys is in two minds whether to revert to Ada World.
+This decision depends on how easy it is to convert the SoftBench environment with Alsys tools to other operating systems, although Walker recognises Alsys will have to provide standard interfaces like Motif and Open Look if it sticks with Ada World.
+…
+DEBUTS UNIX SUPPORT TOOL
+HP has introduced a new support tool for its Unix systems.
+HP Support Watch monitors clusters of systems and is claimed to provide early warning of potential problems with system memory, disk drives and tape backups.
+Some components are already available on the firm's proprietary MPE systems — the idea is to reduce the number of service calls required.
+Support Watch is being offered free to all HP customers with the company's SuccessLine hardware, BasicLine software and Software Materials services.
+HP 9000 series 800 users will also get a modem thrown in — SupportWatch automatically dials HP's response centre to notify engineers of problems.
+Less comprehensive versions of the software are available for HP's workstations.
+RUSSIANS FINALLY PASS SOFTWARE COPYRIGHT PROTECTION MEASURE INTO LAW
+On 14 May 1992 the Russian Parliament finally passed the second and final hearing of the Computer Program and Database Protection Law.
+The law makes the copying of software illegal and lays down how damages should be awarded.
+Software is treated as a distinct form of intellectual property.
+There is a mechanism for the voluntary registration of computer programs and databases.
+This law conforms to a European Commission Directive on Legal Protection Of Computer Programs, adopted by the European Community last year.
+The law includes a clause which allows a delay of one and a half years for its application for some users.
+It permits anyone to use any software for home-use for 18 months.
+Educational and scientific organisations may also use software for this period without any problems.
+After 18 months the law provides very rigid conditions for software registration and it will mean that every copy should be authorised.
+PRIME ‘TO FLOAT COMPUTERVISION AFTER BUYOUT OF THE MINI BUSINESS’
+Prime Computer Inc said it is continuing to weigh various capitalisation schemes, ‘including capital market transactions’ but would not confirm a report in the Wall Street Journal that it is in the midst of talks that would lead it to going public again, Reuter reports from Boston.
+Prime would neither confirm nor deny the report but noted that it had long indicated in Securities & Exchange Commission filings that it was ‘exploring financial activities, including capital market transactions.’
+The company is labouring under an intolerable burden of $1,290m in long-term debt and the strategy outlined in the Wall Street Journal could cut this to between $400m and $500m.
+Prime would repay most if not all of the $570m it owes to Shearson Lehman Brothers following the buyout, by swapping equity for debt and with proceeds from a new senior debt offering.
+Shearson was left holding the baby when the music stopped after the buyout: J H Whitney Co, leading the buyout, had persuaded Shearson to put up a bridging loan, and that it would easily be able to sell much of it on; in the event, the junk bond market collapsed and no-one wanted it.
+Under the plan outlined in the Journal, Prime would refloat under the name ComputerVision Corp, which would include the PrimeService third party maintenance business, and the vanishing minicomputer side would go in a management buyout.
+Prime also owes about $235m to Bank of Boston, Chemical Bank and others, $92m to Prudential Life Insurance Co and more than $400m to its bondholders.
+IXI SIGNS HAL, RISKS WRATH OF SUN AS IT COURTS SPARC USERS
+UK, Cambridge-based IXI Ltd has reportedly cut a deal for that ever mysterious Sparc follower, HaL Computer Systems — whose range of OLTP machines are still waiting in the wings to be introduced — to standardize on its X.desktop interface.
+IXI managing director, Ray Anderson, says his company is girding its loins for the ‘mother of all battles’ as it seeks to drive into Sun Microsystems Inc turf armed with X.desktop over OSF/Motif.
+IXI figures to pick up where the Open Software Foundation, a non-profit organization, leaves off, selling Motif as a user-ready environment integrated with its desktop manager and new Deskworks tool set (UX No 387).
+The lure of volumes, in the wake of the Advanced Computing Environment fiasco, is pushing him first into Sun's domain where the majority of users who care are said to prefer Motif over Open Look (36% versus 29%).
+Sun's German users in particular are said to favour the Motif option, and IXI has been out testing the waters on both sides of the Atlantic over the last couple of weeks.
+Courting the corporate wrath of Sun is hazardous duty for IXI's tiny 55-person army.
+Prodding them into this potential suicide mission, Anderson says, are his mighty ‘friends,’ IBM and DEC, both of whom are anxious to blunt the tip of Sun's arrow.
+With Motif at large in the Sun community, IBM and DEC are confident they could make inroads into the Sun installed base swapping out Sun machines for their own.
+Although parts of Sun, such as Sun Federal, have reportedly been flirting with IXI, Sun headquarters has clearly  labelled the firm a competitor going so far as to put a last-minute kibosh on a real estate deal that would have moved IXI headquarters in Cambridge, England into Sun UK's offices as a tenant.
+Meanwhile, IXI says it has some deals in its back pocket to put X.desktop on Destiny for some of the USL OEMs — ICL being a likely candidate — see page five.
+To do the job it will use the Motif toolkit — not Destiny's Moolit.
+SUNSOFT DETAILS ENHANCED NETWORKING FEATURES FOR SOLARIS
+As expected (UX No 385), Sun Microsystems Inc, through its SunSoft Inc software subsidiary, has bowed to the inevitable and accepted the Open Software Foundation's Distributed Computing Environment, DCE, which it will support under Solaris 2.0, its forthcoming Unix SVR4 implementation, via Solaris Federated Services.
+The services are a collection of interface technologies which allow third party networking products to plug into Solaris 2.0 running on Sparc RISC and the Intel Corp iAPX-86 platforms it will also support.
+As well as DCE, Novell Inc NetWare and Open Systems Interconnection products will also be able to run under Solaris 2.0 using the services.
+In addition, SunSoft has revamped its own networking environment, Open Network Computing, ONC, which is based upon a set of remote procedure call protocols that are very different to those found in DCE.
+ONC+ has new naming, filing, distributed application and security services, and is claimed to be backward-compatible with existing ONC implementations.
+It includes a multi-threaded NFS file system, NIS+ naming service, a transport-independent remote procedure call for network-independent distributed applications and Kerebos and DEC support for enhanced network security.
+Local disk caching, connection-oriented protocol support for access to NFS servers over low-speed links and RSA for increased security and authentication will be added to Solaris in 1993.
+The Federated Services interfaces won't be around until early next year, but SunSoft is offering some demonstration technology which will be available for Solaris 2.0 next month.
+SunSoft will license ONC+ to allcomers — the first component of which, NIS+, will ship to third parties by the end of the year with the others to follow.
+Prices will be announced by the end of the third quarter.
+…
+AS TRANSARC COMMITS TO SPARC AS REFERENCE PLATFORM
+At the same time, Pittsburgh, Pennsylvania-based Transarc Corp has confirmed that it is adopting Solaris as a reference platform for its Encina on-line transaction processing monitor.
+As Encina is based upon OSF's distributed environment, Transarc will also supply an implementation of DCE for Solaris: both will be integrated using SunSoft's Federated Services.
+Transarc will ship early versions of Encina and DCE on Solaris 1.0 (which isn't Unix SVR4-compatible) this year, and will start deliveries for Solaris 2.0 early ‘93.
+Transarc is also porting release 3 of its Andrew File System, to Solaris 2.0, which will ship when the operating system arrives.
+The next version of AFS will be incorporated wholesale into DCE — its distributed service component is already a central feature of the OSF technology.
+TALIGENT CASTS ITS OBJECT TECHNOLOGY AS ANSWER TO PC WOES
+IBM/Apple joint venture Taligent Inc chairman and chief executive officer, Joe Guglielmi, made his first public appearance last week as keynote speaker at Object Expo in New York.
+Nothing in his IBM Corp background could have prepared him for the kind of speech he gave — in fact had to give, if Taligent is to be seen as the answer to the world's ills.
+And the speech was indeed a frank catalogue of the state of the personal computer business today: revenues down 14%, Apple Computer Inc, IBM and DEC contemplating low margins and sinking market share, the astronomical cost of developing a new package, the failure of PCs to penetrate much beyond word processing and spreadsheets, the monopoly lock of a few software houses on the marketplace and engineering's inability to develop an intuitive box, all conspiring to dissuade any sensible PC guy from putting any more money into research and development.
+Result: no innovation.
+Enter Taligent with its promised solution for rapid applications prototyping and customization in a hardware-independent environment just in the nick of time.
+Guglielmi of course declined to describe his object-oriented operating system beyond a few carefully chosen buzzwords.
+However, once he gets his base plan on paper, probably by September, he's going to start making the rounds of vendors seeking their cooperation in getting all the plugs from device drives to protocols filled beginning at the desktop level.
+IBM AND BULL DOT THE Is, CROSS THE Ts
+Compagnie des Machines Bull SA and IBM Corp came together in Paris last week to put the finishing touches to their collaborations, announcing successful conclusion of specific contracts that comprise the far-reaching open-systems technology and associated manufacturing alliance announced on January 28.
+Bull's decision to adopt IBM's Power and PowerPC RISC architectures is reckoned to provide a clear direction for future technology development and will lead to the increased availability of application software from independent suppliers, the partners hope.
+The specific accords, which range from five to 10 years in duration, encompass high-end, open-systems products based on the IBM RISC; networking and interoperability; specific operational and purchasing agreements; technology co-operation and licensing; manufacturing; and portable personal computers from Zenith Data Systems.
+The first research and development projects under the agreement have already begun and are operating on target and on time, the partners say — as reported at the time, in April, Bull announced its DPX/20 series of scalable Unix workstations and servers using the IBM RISC, and products are being shipped.
+On the financial side, IBM gets a 5.68% stake in Compagnie des Machines Bull for its $100m investment, valuing the whole company at $1,760m.
+Bull is licensed to develop and build products based on IBM technologies such as the RISC architectures and the AIX Unix operating system, as well as the right to develop products based on research generated at the Somerset Design Centre in Austin, Texas, where Apple Computer Inc and Motorola Inc are also partners.
+The design centre is the focal point of design and development efforts for the PowerPC family of single-chip RISC microprocessors.
+Bull will lead co-operative development projects for a range of symmetrical multiprocessing systems based on its multi-processing expertise.
+Bull is licensed to manufacture at its facilities systems based on IBM RISC System/6000 architectures, and related circuit boards and sub-assemblies, which can be used for licensed Bull products.
+Bull is allowed to market current and future IBM RISC-based products under its own brand and will independently add its own content and value.
+And Zenith will provide IBM with customised portable personal computers for inclusion in the IBM product line.
+The parties are also defining potential new relationships in the area of portable personal computer development based on the Zenith technology.
+Another agreement covers initial projects in the area of networking and interoperability, principally software in the areas of Open Systems Interconnection and SNA, as well as the Distributed Computing Environment of the Open Software Foundation, of which Bull and IBM are both sponsors.
+Bull will also manufacture and sell to IBM circuit boards that meet IBM's specifications.
+The agreements anticipate deliveries starting in volume later this year, and IBM will also make available low-end disks for Bull mid-range systems and Zenith microcomputers.
+AUTODESK LAUNCHES AUTOCAD v11 FOR THE IBM RS/6000
+Sausalito, California-based Autodesk Inc has come out with the first major product from its European Software Centre in Neuchatel, Switzerland: AutoCAD Release 11 for the IBM RS/6000 line of workstations.
+The product began shipping to customers in Europe (apart from the UK) on May 18, and North American and Far Eastern ships apart from Japan started on Thursday.
+The new implementation runs under AIX 3.2 Unix and runs under Motif and X-Windows, retaining the look of AutoCAD Release 11 in its menus and dialogue boxes.
+It has been tested on the 220, 320, 320H, 530H, and 550 models and is designed to run on all models.
+The IBM Xstation 130 is supported as a display device; the 930 and 950 servers are also supported when used with a remote X terminal.
+It offers the usual multiple-view plotting, dialogue-based text editing, dimensioning enhancements, file-locking, external references, extended entity data, null display, eight-bit font support, multiple-session digitiser support, and scrolling text in text screen.
+All files created with AutoCAD Release 11 can be used on all operating systems and machine types running AutoCAD Release 11.
+AutoCAD for the RS/6000 costs $3,500 in the US.
+DISPLAY INDUSTRY ASSOCIATION UNVEILS ITS SOFTWARE ROADMAP
+The Display Industry Association, DIA, which is promoting the development and use of AlphaWindow terminals, has released its software roadmap, a set of specifications enabling hardware, toolkit and application developers to build compatible and interoperable products.
+AlphaWindow (alphanumeric) terminals give users access to windowing functions which are traditionally associated with graphical environments, without the need for graphics technology.
+DIA claims AlphaWindows will allow any character-based application to run in a conventional, mouse-based windowing environment without the need to modify code, and, it believes, at a fraction of the cost of many graphical-based systems.
+A window manager on the host system creates the definition of a window for an application, whilst the terminal itself performs the windowing operations.
+Some implementations — where a window manager and  multiplexor are present — will allow different applications to be accessed in different windows on the same screen: cut and paste between applications is supported.
+DIA envisages different terminal emulators being able to run in different windows on the same screen.
+In the past, some terminal manufacturers have developed proprietary solutions to the problem of adding windowing functionality to character-based applications, but these have tended to fall by the wayside.
+AlphaWindow terminals
+The DIA roadmap includes a description of the protocols supported by AlphaWindow terminals, an application specification describing the protocols emitted by a compliant application and an application programming interface, API, which describes the C language interface to the application specification.
+The documentation costs $95.
+The specifications will support toolkits that include, for instance, the ability to create different look and feels, such as OSF/Motif, Windows or Open Look.
+DIA is currently talking to firms such as Boulder, Colorado-based XVT Inc, whose interface-independent technology produce a range of different front-ends for applications, including Apple Mac, Windows and Motif.
+In addition, it says manufacturers of multi-port board solutions are considering incorporating the window manager as a whole into their firmware products.
+Although AlphaWindows terminals are primarily suited for Unix — Santa Cruz Operation Inc is supporting the specifications under its SCO Unix — they will run on any operating system which can do  multiplexing .
+NCR Corp's ADDS division, which is readying its own AlphaWindows terminals, will be doing an implementation for Pick, according to Vinny Luciano.
+DIA vice president Steve Jones — also managing director of UK Unix connectivity software specialist, JSB Computer Systems Ltd, Macclesfield — says his company is talking to DEC about support under VMS.
+Main users of AlphaWindows terminals are expected to be the mid-ranking clerical and administration staff of organisations who have several tasks they need to perform using different applications.
+Microvitec is currently readying a colour AlphaWindows terminal for an August release, priced at £750, which supports standard personal computer keyboards and Microsoft Corp mice.
+Wyse Technology's Link subsidiary has black and white and colour offerings waiting in the wings, Cumulus will have its terminal out within three months and NCR/ADDS will begin volume shipments of its product later this year.
+Of the top terminal manufacturers, only IBM (the biggest) does not yet support the AlphaWindows effort, though it does market JSB's AlphaWindows MultiView Mascot product and DIA is continuing talks with it on the subject.
+FRANK & ASSOCIATES OFFERS MVS/NFS, JOINTLY DEVELOPED WITH SUN
+Palo Alto, California-based J Frank & Associates last week announced MVS/NFS, a software product co-developed with Sun Microsystems Inc and designed to increase data sharing between mainframes and workstations through on-line access to MVS files from Network File System networks.
+It is a full implementation of Network File System under MVS bridging mainframes and Unix networks and from there to other Network File System machines such as MS-DOS personal computers, Macs and VAXs.
+Workstation users can access and create files on the mainframe without knowing MVS or compromising MVS security, effectively making the mainframe a huge file server.
+MVS/NFS ships this month at from $18,000 to $62,000.
+TOSHIBA CLAIMS ITS CONCURRENT OBJECT-ORIENTED C IS 90% SKINNIER
+Toshiba Corp claims that it has developed a much more compact version of the C programming language.
+According to Pacific Rim News Network, Toshiba's Concurrent Object-Oriented C language ‘requires 90% less code to write programs derived from C.’ The new version of the language runs on Toshiba's Sparc-based Unix workstations.
+The company is already using Concurrent Object-Oriented C in-house, and plans to offer it to public and private research centres and universities across Japan by September.
+The institutions will be licensed to use the language only for research and development purposes, not for developing business applications.
+NEXT LOSES CO-FOUNDER AND APPLE INTERFACE ARCHITECT TO SUNSOFT
+A few weeks ago amidst the barrage of pot-shots that Next Computer Inc chief executive officer, Steve Jobs, was taking at Sun Microsystems Inc, Sun president, Scott McNealy, privately swore Jobs was ‘fried.’
+Last week McNealy got to turn the heat up under the skillet when Next co-founder and key NextStep architect Bud Tribble moved over to SunSoft Inc as vice president of end user software.
+The move, reportedly initiated by Tribble, will undoubtedly prove to Jobs that there are at least two kinds of sizzle.
+Tribble was unavailable for comment but left a statement voicing an interest in serving a volume market.
+However sources at Next claim Tribble lacked management skills and suffered a vote of no confidence prior to his departure.
+Tribble, one of the original Mac architects at Apple Computer Inc responsible for its now famous user interface design and less famous operating system, is one of the few real experts around on object-oriented programming.
+At SunSoft he will be working on the DOE, or Distributed Objects Everywhere, side of the house developing an object desktop and enhancing Solaris' desktop productivity tools and information management software.
+In addition to managing all aspects of Solaris' end-user environment, he will also be responsible for expanding SunSoft's multimedia application programming interfaces.
+He reports to vice president of the user environment, Steve MacKay.
+One of Next's six founders, he had management and technical responsibility for all aspects of NextStep including the object-oriented design and user interface.
+Meanwhile, Next has plucked up one of Sun's men, hiring Bob Lawton, an Interactive Systems Corp legacy, away from Solaris-on-Intel product marketing to be its NextStep 80486 program manager, a newly created position.
+It has also picked up Jeff Spirer, formerly in charge of the Intel/IBM relationship at Intel, to be NextStep 486 marketing manager.
+KAPRE START-UP READIES ‘CORPORATE GLUE’
+Boulder, Colorado is home to another new start-up, Kapre Software Inc, set up by a bunch of refugees from AS/400 applications house JD Edwards in company with one of the founders of Pyramid Technology Corp, Robert Kelley.
+Heading up the venture is chief executive officer, Dan Ellis, under whose five-year tutelage JD Edwards grew from $17m to $125m in revenues.
+The team, including Kelley as vice president of development and Paul Rajski as vice president of marketing, intends to develop a ‘glueware’ suite of integrated application development tools focused on getting all the pieces of a corporate system working together that will be marketed as the Software Factory.
+Release is expected next year, marketed directly and through distributors worldwide.
+Key platforms will be IBM, DEC, HP and Sun.
+The firm raised an unspecified first round of venture capital from Hill, Carman, Kirby and Washing and from Exabyte Corp founder and Juan Rodriguez.
+ICL OFFERS UNIX SVR4 ON PCs: DESTINY AND OTHER UNIX PLANS TO FOLLOW
+ICL is to offer a shrink-wrapped version of Unix SVR4 on its so-called ‘Spring Collection’ of deskside and desktop Intel Corp 80486-based personal computers and servers launched recently, and says it may offer that implementation on other manufacturers' PCs too.
+Hardware requirements to run the shrink-wrapped Unix are 8Mb RAM, 200Mb disk and a tape streamer — prices for the system software start at £1,000.
+Santa Cruz Operation Inc Unix products are also available for the platforms where required by customers, it says.
+ICL now has quite an array of Unixes running on its systems, from a Unix System Labs-derived, Sun Microsystems Inc SunOS-compatible Unix SVR4 on its Sparc-based DRS6000 series, to USL Unix SVR4 on the Intel DRS3000 servers, down to this latest shrink-wrapped offering and SCO stuff at the low-end.
+All should become much clearer in the next week or so when the company details its plan for USL's Destiny desktop — see front page — and a strategic focus on SVR4.
+Although Destiny is designed for use on most desktops, ICL says it'll position the thing down at the low-end of its range, and won't offer it, for instance, on the desktop versions of its Sparc-based DRS6000 series.
+ICL will run IXI Ltd's X.desktop manager on top of Destiny.
+XCELERATED OFFERS IMPROVED LIKEN TO RUN MAC APPLICATIONS ON SPARC
+Xcelerated Systems Inc, San Diego has rushed out Version 1.2 of its Liken software, the program that enables applications written for the Apple Computer Inc Macintosh Classic to run unchanged on Sun Microsystems Inc Sparcstations.
+The company says that the new version improves the sharing between Sun and Mac environments, enhances cut and paste functionality, and includes more user-customisable set-up features.
+Liken enables Macintosh Classic applications to be run without modification in an X-Window on Sun and compatible Sparc-based workstations.
+The file sharing capability is provided by support for file exchange utilities using the uShare, Columbia AppleTalk, AppleSingle and AppleDouble file transfer protocols.
+The new release also supports Sun's line of Sparc-based laser printers.
+The firm now also offers floating licences, permitting access to Liken by any user on a Sun-based network; a single licence is $700, a floating one is $900.
+UNIVEL VP QUITS FOR SCO
+Despite its success in signing up the software  community for Destiny, everything isn't roses at Univel Inc at the moment.
+Not good news, is the loss of vice president, Grover Righter, who has jumped ship to rival Unix-on-the-desktop house, Santa Cruz Operation Inc.
+As head of Univel's development in its product group, Righter was reportedly dissatisfied with Univel's strategic direction and has taken refuge within Scott McGregor's product business unit at SCO.
+Righter is Unix System Labs/Novell Inc joint-venture Univel's second top-level loss — vice president Greg Fallon was recalled back to his original post at Novell just a couple of months ago.
+Univel is still looking for a replacement for Righter.
+In the meantime however, it has managed to recruit itself a vice president of marketing: Arum Taneja, who had been Vicom president, worldwide marketing for Convergent Technology Corp and a career that included Sun Microsystems Inc, Data General Corp and IBM Canada.
+It's also taken on Tom Best as vice president of service and support and Gerry Boomer, one of Novell's regional managers, as sales director.
+ORACLE PRESIDENT OUSTED BEFORE VERSION 7 LAUNCH
+On the eve of the debut of the ballyhoo'd Oracle version 7 this week, the company tossed out the president of Oracle Corp USA, Michael Fields, and brought in Ray Lane, a senior vice president with Booz Allen & Hamilton, to succeed him.
+US sales under Fields were not what people wanted and Oracle chief executive officer, Larry Ellison, reportedly has high hopes for Lane's high-margin consulting and integration experience.
+Oracle USA's sphere of influence has now been enlarged to include marketing as well as all domestic commercial and federal sales and consulting activities.
+Lane led Booz Allen's Information Systems Group, served on the board and sat on the firm's Executive Committee.
+NCUBE TAKES ON THE TERAFLOPPERS WITH ORACLE-RUNNING 65,384-PROCESSOR NCUBE 3 FOR 1994
+Foster City, California-based nCube Corp, majority-owned by the co-founders of Oracle Corp, surely wins the TeraFLOPS-boasting prize, with the launch next week of the 6.5 TFLOPS nCube 3, its third-generation general-purpose hypercube supercomputer — see front page.
+The whopper is scalable to 65,384 proprietary 64-bit processors, boasting an unimaginable peak performance of 6.5 TFLOPS, or 3m MIPS peak performance — 200 times faster than its predecessor, the nCube 2.
+Also announced is the interim nCube 2S and the entry-level nCube 2E.
+Due to ship in 1994, with an estimated product turnaround time of 90 days, the monster nCube 3 follows the same architecture as the previous nCube 2 models, enabling software compatibility across the range — the nCube president insists the new machine ‘uses no magic’, and claims a full 65,000-processor configuration will be completely feasible — according to Meirer the whole thing would measure just 20 square feet, compared with Thinking Machines Inc's Sparc-based TeraFLOPS-performance CM-5 which is estimated by Thinking's Danny Hillis to measure the size of a tennis court in full 16,000-processor configuration.
+A fully-configured nCube 3 would feature 65Tb main memory — 1Gb per processor — with a local memory bandwidth of 500Mbps and an aggregate bandwidth of 32Tbps.
+The core of the machine will be nCube's self-contained chip (equipped with DRAM and 40 communications channels), made by Hewlett-Packard Co in Oregon, based on a 3m-transistor processor which has been implemented under 0.6 micron, three-layer metal CMOS technology from VLSI Technology.
+This will churn some 50 times faster than the version currently used in the nCube 2, with a clock rate that tops 50MHz and a floating point performance of 100 MFLOPS.
+Machines with 2,000 processors or less will be air-cooled, larger configurations liquid-cooled.
+Superior
+The nCube 3 will run a parallelised OSF/1 Unix, and hook up to machines supporting Ethernet TCP/IP, HIPPI, Fiberchannel and FDDI.
+The interim product, the nCube 2S, meanwhile, will ship this August, offering a 50% performance increase on the existing nCube 2 (which rates a peak 27 GFLOPS), though scalable to the same maximum complement of 8,192 processors, and up to 512Gb main memory.
+The nCube 2S will be priced as the current 2 series, while the existing range — which runs up to $2m for a maximum 8,000 processors — will be reduced by 35%.
+No price mark has been suggested for the nCube 3. nCube claims its multi-purpose machines offer a price-performance ratio that is 20 times superior to present-day mainframe computers, making them highly suitable for the commercial data processing market, particularly as Oracle Parallel Server is now shipping with current models.
+The new entry-level nCube 2E — for parallel software development, entry-level scientific computing or use as a networked database server — is due to ship in October starting at $30,000 in the US, and $40,000 to $50,000 in Europe.
+It measures 26″ high by 18″ wide by 30″ deep and weighs a mere 150 lb to 300 lb. nCube is currently seeking weighty distribution partners in Japan, the US and Europe; any such marketing agreements will likely be on an OEM basis, the company says.
+MICROSOFT TURNS TO CITRIX SYSTEMS FOR MULTI-USER EXTENSIONS TO WINDOWS NT
+Coral Springs, Florida-based Citrix Systems Inc has so far not made much of an impact in the market with its multi-user versions of personal computer operating systems, notably the Multiuser version of OS/2, which uses code licensed from Microsoft Corp — but Microsoft reckons that the company may have something anyway, and has now signed a ‘strategic alliance’ agreement with Citrix.
+The agreement calls for the two companies to co-operate on continued development of Citrix products that provide multi-user and network extensions for future Microsoft operating systems, notably Windows NT.
+The new Multiuser 2.0 gives users simultaneous access to MS-DOS, Windows and OS/2 applications in a multi-user environment.
+Citrix now plans to do multi-user and network extensions for Windows NT.
+CONTROL DATA SYSTEMS EXPLAINS ITS BRIEF
+James Ousley, chief executive officer of the Control Data Systems Inc spin-out, says its former parent, Control Data Corp — now divided into two separate companies (UX No 387)— had been looking for additional capital for a number of years, but was not able to tempt any investors to bankroll an organisation with interests as diverse as proprietary mainframes, Unix, military and government software and services and a lottery business.
+In the heady days of 1988, when CDC had revenues of some $3,600m, the company had three main revenue streams: a financial wing which dealt with leasing of its Cyber mainframe series, the MPI peripherals business and the computer systems, services and software arm.
+None was big enough to become the core business of the company, Ousley says.
+With declining sales of Cyber systems and changing industry fashions the leasing business shrank and CDC sold its peripherals operation to Seagate Technology some three years ago.
+The remaining third has now effectively been chopped into two pieces with the formation of a computer systems arm, Control Data Systems Inc, CDS, and Ceridian Corp, the rump of its software and computer services business.
+Once the firm had voiced an intent, within the industry, to perform an amoeba-like separation, there was no shortage of interested parties, Ousley claims.
+CDC's talks with its OEM RISC Unix system supplier, Silicon Graphics Inc — which has now taken a 10% stake in CDS — started (unbeknown to CDC at the time, Ousley claims) in parallel with SGI's negotiations for its chip supplier, MIPS Computer Systems Inc.
+Ousley's quite happy with the way it has all panned out ‘because MIPS didn't have the  wherewithal to do all it said it could.
+The R6000 ECL RISC was late, and that affected the R4000, which was a year late.’
+Indeed, it was SGI's proposed acquisition of MIPS that finally lead CDC to the altar.
+‘We probably wouldn't have signed if it had been just SGI,’ Ousley says.
+When CDC's intention became clear, it was approached by a variety of potential partners, Ousley says, and ‘came very close to changing’ its decision (Hewlett-Packard Co being seen as the unlucky suitor (UX Nos 381, 384)).
+As for MIPS, ‘well they're just another proprietary RISC vendor now,’ says Ousley, who is nevertheless full of praise for the way it, via the Advanced Consortium Environment, initiative publicised its RISC architecture.
+‘ACE got Bill Gates to commit to MIPS — I give Bob Miller (MIPS president) accolades for it.’
+CDS' MIPS plans — see front page.
+NEC's massively parallel project
+When it comes to cutting the apron strings, CDS must still consider the 1,800-odd users of CDC's Cyber mainframe series.
+CDS is committed to  supporting that hardware until at least the year 2000 — it still builds and sells them — though there will be no further additions to the series.
+However, the Cyber operating system will continue to be enhanced with new networking and  input/output features, Ousley says.
+Moreover, revenues from the Cyber line are crucial to CDS.
+Only this year will revenues from its open system products begin to outstrip sales of Cyber kit, even though mainframe revenues are decreasing by around 25% a year and sales of open systems rising by some 100% a year.
+The agreement by which NEC, the second investor, will take around 5% of CDS (UX No 387), is expected to be finalised by the third quarter.
+NEC is also expected to OEM CDS and SGI/MIPS products for the Japanese market.
+Ousley says CDS is very interested in some massively parallel project that NEC is currently working on, though that won't see the light of day until the mid-1990s.
+CDS is also evaluating its software options and Ousley says it is looking to acquire — or do joint ventures with — two companies, one in the CAD arena, the other in data management.
+CDS starts life with 3,500 employees, and around $125m cash once all the sums are complete.
+MEASURE FOR MEASURE: LATEST WORKSTATION SPECmark COMPARISONS
+The Microprocessor Report has put Sun Microsystems Inc's new Sparcstation 10 up against its rivals and measured integer and floating point performance of various Unix workstations against the SPEC92 benchmark suite.
+The results are measured, not simulated, as reported by the vendors.
+INPUT SAYS SERVICES ARE THE KEY TO EUROPEAN DESKTOP BUSINESS
+A new report from London-based market research firm Input, suggests that the European market for desktop services — everything from device and network installation to support and maintenance, but excluding equipment itself — will reach $400m in 1992, rising to $1,400m in 1997.
+The trend towards downsizing — which it  describes as moving power down to the desktop level — is already more advanced in Europe than it is in the US, it claims, where the power of large corporations tends to prolong the supremacy of mainframes.
+To defend their installed bases, equipment manufacturers, Input says, are responding to the trend by offering a growing portfolio of productised services which can be picked and mixed from a catalogue of traditional and new services.
+The delivery of quality support services is seen as one of the main purchasing criteria for new systems, according to the report.
+Independent maintenance organisations, faced with a shrinking market for their services, must therefore diversify into desktop services by offering customised solutions or tendering for complete contracts, it suggests.
+If, as it believes, desktop services become a predominant method of providing information technology infrastructure for the second half of the decade, then vendors must regard the sector as a long-term strategic venture.
+‘The Impact of Downsizing on Customer Services Organisations’ is priced at £1,500.
+XVT's VERSION 3 SEES GENERIC WINDOWING SYSTEMS COME OF AGE
+Boulder, Colorado-based XVT Software Inc has now introduced Release 3.0 of XVT, its Extensible Virtual Toolkit, which is now also available in the UK through Personal Workstations Ltd of Rotherhithe, South London.
+XVT Release 3 offers a number of detailed improvements and new features, including support for international character sets, separate menus for each window, and cascading menus.
+The real value, however, is in a general tidying up of the interface to ensure portability.
+XVT, which first surfaced back in 1989, is probably the most mature of what is now a growing bunch of tools offering a single developers toolkit for multiple graphical user interfaces — competitors include Neuron Data's Open Interface and Open Inc's Aspect.
+XVT is a set of C libraries for GUI-building that can be linked to your applications at compilation.
+One set of code —‘a lot easier to use than the native toolkits’ says Personal Workstations — can be used for MS-Windows, Presentation Manager, Open Look, OSF/Motif and Macintosh GUI software, and can also produce a windowing interface for character-based screens.
+XVT is not an emulation, it maps directly onto the native toolkit, producing native applications.
+XVT also rejects the claim that such ‘generic’ windowing systems have to opt for the lowest common denominator approach in choosing a subset of common functionality between all the windowing systems.
+XVT includes all the functionality of each system, simply missing out the features not available on a particular system.
+For instance, it supports the pin-down menu sheets exclusive to the Open Look interface.
+In the UK, Personal Workstations is now the exclusive distributor of the product, and is interested in adding its own third-party developments to the system, exploiting existing third-party extensions, such as the XI database interface, XVT++ C++ version and the Decos Windows-alike interface for 80286 and below PCs.
+Unlike some of its competitors, XVT does not charge a royalty to developers converting their software and then selling it on to their own customers.
+MOTOROLA INTRODUCES LOW-END MODULAR SERVER LINE
+Motorola Inc's commercial systems division has introduced a new low-end network server, the Series 8000 Model 8120, to its product line.
+With a basic design consisting of two self-contained, self-powered and self-cooled modules, the server module and peripheral module, Motorola claims the new machine is ‘virtually user-installable, upgradable and serviceable’.
+In the server module is a 25MHz Motorola 88100 RISC processor with 16Mb memory, six serial ports, Ethernet and SCSI interfaces — integrated on a single board and housed in a 3.3-inch high enclosure weighing less than five pounds.
+The peripherals modules, for disk and tape expansion, can be integrated together by interconnecting external SCSI and power cables.
+This allows customers to start off with a diskless system and expand gradually up to 5Gb.
+Peripherals supported include SCSI disks, tape drives, CD-ROMS and other devices.
+The modules can have up to 64Mb memory.
+AIM ratings for the new machines are 18.1, with a MIPS rating of 38.
+Motorola is stacking the machine up against DG, HP, NCR Dell and IBM systems, saying that the cost of a fully configured system works out at from 10–55% cheaper than competitors.
+Price for a server module, including 16Mb memory, is $4,430.
+OPEN-FORUM CONFERENCE WORKING CLOSELY WITH CEC
+Open Forum, the pan-European event scheduled for the week beginning November 23rd in Utrecht, is building momentum, according to UniForum chairman Ed Borkovsky and Europen executive director Pierre Scheuer, currently engaged on a European tour to promote the event.
+Open Forum is to be a conference-led event with both technical and business streams, designed to lead up to 1993 and the establishment of the single European market — and the Commission of the European Communities has been closely involved in its organisation, says Borkovsky, promising more details in the future.
+The keynote speeches will include ‘a high-level official from the Commission’, currently being finalised, along with Nobel prize winner Dr Arno Penzais, vice president of research at AT&T Bell Labs, Doug Michels of the Santa Cruz Operation, Roel Pieper of Unix System Laboratories and Charles Reilly, vice president for operations at the Open Software Foundation.
+Unlike the many country-specific shows such as those held in France, Germany, Italy and the UK, Open Forum really is after a Europe-wide audience, and hopes the quality of the conference, from both a business and a technical point of view, will attract a wide geographical spread of attendees.
+The organisers are also working to attract attendees from other related events, such as the Esprit conference in nearby Brussels, to spend a day at the conference.
+Europen — which is making a gradual transition from the academic roots of its EUUG days to a more commercially led organisation, has a long-established record of technical conferences through Europe, while UniForum's last US show and conference attracted 35,000 attendees.
+Europen has 6,000 or so members, and UniForum 7,000.
+Tutorials make up the first two days, followed by the main conference and associated exhibition.
+MINIGRAMS
+Oracle Corp has introduced the Developer's Release of its forthcoming Trusted Oracle Version 1.0, high security database: it is initially available under Digital Equipment Corp's Secure VMS and Hewlett-Packard Co's HP-UX BLS.
+A version for compartmented mode workstations such as DEC Ultrix MLS+ will be available in 90 days and versions for emerging systems such as SunOS CMW and ICL Plc DRS/NX V4.0 Security Option is expected within 90 days of full production availability of those systems.
+Fremont, California-based Independence Technologies Inc has announced iView Fast Track, its Unix-based software for tracking hardware/software and administration problems.
+The software supports Open Look and OSF's Motif graphical user interfaces and runs Oracle, Informix or Sybase relational databases.
+Available on Sun Microsystems Inc's Sparcstations it costs $5,500.
+AT&T's NCR Federal Systems Division is upgrading some of the products it is supplying as part of US government contracts: it has added the AT&T StarStation 386 DX PC to its $800 million, eight-year Office Automation Technology and Services (OATS) contract with the the Federal Aviation Administration (FAA) which it won back in in 1989 — 12,500 Intel 80386-based personal computers and 2,500 laptops have been shipped so far — and has upgraded computers supplied under the 1988, $1bn Standard Multi-user Small Computer Requirements Contract to run Unix SVR4.
+Meanwhile, NCR has formed a $3 million alliance with Software Clearing House Inc to sell Frame Technology Corp's FrameMaker desktop publishing software into the NCR customer base.
+Part of the reason the Open Software Foundation missed the boat with its Architecture Neutral Distribution Format technology, according to observers, is that it wrongly targeted independent software vendors as the home for its solution.
+ISVs, observers note, are only interested in direct ports to gain leverage market windows — it is end users that really want the stuff.
+Santa Cruz Operation Inc has had a good look at Unix System Lab's Destiny desktop — it is a beta site — but isn't worried by the competition, ‘after looking at it closely, we've no problem with Open Desktop,’ it says.
+SCO says it doesn't have to make a decision about the kernel technology route — OSF/1 or Unix SVR4 — for Open Desktop until later this year, as it won't be making any significant kernel changes to the operating system bundle until late 1993 or early 1994.
+And in the run up to a public offering — which, it insists, is still part of the SCO roadmap —‘we'll continue to play the product game, not the technology game.’
+A nicely placed observer speculates that if Univel Inc, the Novell Inc/Unix System Labs joint venture, does well with the Destiny desktop operating system, that that will convince Novell chief Ray Noorda to go for a bigger piece of USL: he already owns the largest outside share.
+DEC has firmed up plans for its new chip plant to fabricate the Alpha RISC, and now says it will definitely build a $425m 526,000-square-foot research and manufacturing facility in Hudson, Massachusetts.
+Future versions of the Alpha will be made at the plant as well as at the one in South Queensferry, Scotland.
+The company's sixth semiconductor wafer fabrication operation, it is code-named Fab-6, and is scheduled for completion in 1994, and manufacturing of Alpha in sub-0.5 micron geometries will start in 1996.
+Everyone remarks on how aggressive it now is, and it seems Down Under, Hewlett-Packard Co made its point about its new mainframe-killing Emerald servers by launching them in the Fossil Gallery of the Australian Museum, carefully labelling the dinosaur skeletons with jibes at IBM Corp, Hitachi Ltd, Fujitsu Ltd, Amdahl Corp and Digital Equipment Corp: legends such as‘ES/9000 — a large body and a small brain led this animal to become extinct’.
+Sun Labs reportedly has an objected-oriented operating system built and working.
+The Newton Personal Digital Assistants from Apple Computer Inc will be built around the Advanced RISC Computing Ltd ARM610 RISC: Apple says that the first version of Newton will be out early next year, and will be an electronic notepad, able to record and recognise handwriting and to straighten out rough sketches; Cambridge-based Advanced RISC Machines, which is owned by Acorn Computers Plc, Apple and VLSI Technology Inc says that Newton has an object-oriented executive and that the memory manager in the ARM610 provides specific support for object-oriented data handling.
+Software house Chantal Systems in San Diego, California has gone from Chapter 11 to Chapter 7.
+For what it's worth, Silicon Graphics Inc and MIPS Computer Systems Inc are understood to be drawing together a new executive-level technical committee of the Advanced Computing Environment.
+Now focused on a single-chip (MIPS) strategy, the group reportedly includes representatives of SGI, MIPS, Control Data Systems Inc, Tandem Computers Inc plus the MIPS RISC fabrication companies.
+Even the ACE name may be thrown out with the dishwater in this latest development — too many bad memories?—‘but you can be sure that there will be a deuce!’ one insider told Unigram last week.
+Microsoft Corp's NT business manager, Carl Stork, say Microsoft is preparing to hand out ‘many thousands’ of NT developer kits beginning July 6 when the Windows 32 Developers Conference kicks off in San Francisco.
+The CD-ROM circulated will hold both Intel Corp and MIPS Computer Systems Inc code plus compilers and debuggers.
+The company will also start a Microsoft-controlled field beta test.
+Stork claims NT is ‘dead-on’ schedule and will have first product in user hands by the end of year.
+He categorically refused to discuss NT-on-Alpha.
+UK, Macclesfield firm, JSB Computer Systems Ltd's US operation, out in Scotts Valley, California (UX No 347), has had a few teething troubles — it is some $200,000 short of its initial target and has undergone a few staff changes — however JSB managing director, Steve Jones says the unit turned in $150,000 last month and is now holding its own.
+We can all get a chuckle over that the fact that Microsoft is going to refuse to renew the cross-licence it has with IBM for Windows and NT after it expires next year.
+At least that's what it's telling the PC press, with IBM retorting that it's trying to spook customers.
+IBM is maintaining a disdain for using NT.
+If it doesn't ship before the contract expires, apparently IBM won't have full rights to it.
+SunSoft's first attempt at courting major SCO distributors on behalf of Interactive Unix and Solaris-on-Intel apparently hit the right notes: After a session last month with the SCO Distributor Council (UX No 385), another meeting is being set up to look seriously into establishing a relationship.
+SunSoft, who only reckons Taligent and Microsoft as competitors, thinks its wherewithal to develop the operating system long-term is persuasive.
+ICL is this week expected to reveal details of plans to offer its OfficePower office automation package on a range of Unix platforms, including Santa Cruz Operation Inc Open Desktop, Sun Sparcstations and IBM RS/6000s (UX No 384).
+Last week at the Sybase User Conference, Microsoft showed off a prototype 32-bit version of SQL Server designed to exploit NT's multiprocessing architecture for the first time on a NCR 486 MP machine.
+Debt-laden Tustin, California-based business systems supplier MAI Systems Corp appears to have hit a credit crunch according to the German weekly Computerwoche.
+The paper hears that $130m in loans has to be repaid by the former MAI Basic Four Inc by mid-month and that the company is trying to raise the money by selling the profitable German subsidiary MAI Deutschland GmbH in Frankfurt.
+Negotiations with CitiCorp to sell the unit for $108.8m have foundered.

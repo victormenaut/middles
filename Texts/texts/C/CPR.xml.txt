@@ -1,0 +1,357 @@
+
+
+IBM ADDS DB2 FOR OS/2, C SET ++, THINKPAD 720s
+In a string of unconnected announcements, IBM Corp yesterday said that the version of DB2 for OS/2 is generally available after a successful beta test, that it has a set of software development tools for the object-oriented C++ language, and it duly launched the Thinkpad 720.
+The 32-bit OS/2 2.0-based relational DB2 database is designed for client-server applications, and comes in stand-alone, client and server versions.
+IBM Programming systems says that C Set ++ for OS/2 is a suite of integrated software development tools for C++, which will be available on May 31 at an introductory price of $175.
+The company also launched SystemView Information Warehouse DataHub, a series of software products for simplifying database management tasks by assisting in the integration of database management tools and managing remote databases tasks.
+It will be available in June.
+The new ThinkPad 720C is claimed to feature the largest active matrix colour display in a notebook computer, and is accompanied by the ThinkPad 720, with a high-contrast monochrome supertwist nematic backlit screen.
+A port replicator, which facilitates quick transition between mobile and desktop use for both ThinkPad 700 and new ThinkPad 720 users, was also introduced.
+The machines use the IBM 486LC2 processor with a 50MHz/25MHz clock doubler.
+The 720s come with a 160Mb removable hard disk drive as part of the standard configuration, and the disk will be available as an upgrade option for 700 owners, as will a 240Mb drive due later this year.
+The new models have better intelligent power management capabilities, more extensive use of 3.3V components and a reduction in the power consumption of the 10.4″ colour display for a 20% improvement in 720C battery life.
+Up to 2.4 hours of continuous use and up to 4.8 hours of operation in a typical workday environment is possible with the 720C, with 3.8 and 7.5 hours, respectively, for the 720.
+The new machines also feature the new Level 2.01 PCMCIA card slot for backwards compatibility with Type I cards.
+Cards from IBM and third parties offer Ethernet, Token Ring and facsimile modems can be used on the new notebooks, as well as memory cards.
+The ThinkPad 720C with 4Mb and 160Mb removable disk is expected to go for $4,700.
+The mono in the same configuration will be $3,355.
+SAPIENS INTERNATIONAL TO ACQUIRE SMARTSTAR CORP
+Sapiens International Corp NV has definitive agreement to acquire SmartStar Corp, the privately-held Goleta, California that came up with the first applications generation language for Digital Equipment Corp's VAX/VMS, and is now working on object-oriented user interfaces for databases.
+Under terms of the acquisition, SmartStar will become a wholly-owned subsidiary of Sapiens International, which will pay up to 1.27m new shares; closing is seen in the next several months.
+NOW GEAC BUYS SERVICE FIRMS MAI UK AND TEKSERV
+Markham, Ontario-based Geac Computer Corp — which has been promising an acquisition a month over the next 12 months, got two under its belt for the same month in May: it has bought the UK end of struggling MAI Systems Corp, MAI (UK) Ltd, and has also picked up Tekserv Computer Services Ltd.
+Both companies are based in Hemel Hempstead, Hertfordshire.
+The two companies sell and service MAI Basic Four and other types of computer hardware throughout the UK and have annual sales of some $2m.
+The total purchase price is less than $800,000, Geac added.
+INFORMIX 15% OF INTELLICORP
+Informix Corp has bought a stake of about 15% in struggling IntelliCorp Inc, developer of the Knowledge Engineering Environment, ProKappa and Kappa-PC.
+Informix invested $2m in IntelliCorp at $1.40 a share.
+MICROSOFT CO-FOUNDER ALLEN MAY BUY VIEWDATA OPERATOR AMERICA ONLINE
+Paul Allen, co-founder with Bill Gates of Microsoft Corp and chairman of Asymetrix Corp, says he may seek to acquire America Online Inc, currently the hottest competitor for the IBM Corp-Sears, Roebuck & Co Prodigy Services Co viewdata offering.
+The company's shares jumped $3.875 to $30.125 on Monday on the news.
+Allen already holds a 24.9% stake in the company, and said he might seek representation on the board and also might buy additional shares, adding that America Online's adoption of a shareholder rights plan to fend off hostile takeovers, has caused him to reconsider his position as a passive investor in the firm.
+MOTOROLA NOW SHIPPING 40MHz 68040
+Motorola Inc announced yesterday that it is now shipping the 40MHz version of the 68040 in volume, claiming that at 41.8 VAX MIPS, Motorola, it runs faster than the 50MHz version of the full 80486 from Intel Corp.The 40MHz 68040 is $393 for 1,000 or more.
+CREATIVE TECHNOLOGIES IS TO BUY SHAREVISION FOR $11m IN CASH
+Singapore-based Soundblaster board specialist Creative Technology Ltd has signed a letter of intent for acquisition of ShareVision Technology Inc for about $11m cash.
+Privately-held ShareVision, San Jose, California, developed and has just launched a videoconferencing product that enables Macintosh users to communicate using video, speech, graphics and data anywhere in the world over a single standard phone line.
+NOW MICROSOFT AND INTEL TEAM ON COMPUTER-INTEGRATED TELEPHONY
+Intel Corp and Microsoft Corp are joining forces to seek to set yet another standard for personal computers, this time in the field of computer-integrated telephony, the Wall Street Journal reports.
+Late yesterday, the two companies were due to announce Windows Telephony, which aims to make it easier for software applications that can link to a wide range of telephone equipment, from PABXes to cellular telephone exchanges.
+Some 40 other computer and telecommunications companies were poised to announce support for the new standard, including Lotus Development Corp, Compaq Computer Corp, Digital Equipment Corp, Northern Telecom Ltd and Siemens AG, the last two in their telephone systems.
+SYBASE SYSTEM 10 BOLDLY GOES ‘AN ORDER OF MAGNITUDE’ AHEAD OF ITS PREDECESSOR
+Last November, Emeryville, California-based Sybase Inc began outlining its next generation relational database management system database server and tools suite, System 10.
+At the time the name seemed just too obviously a snipe at relational database rival Oracle Corp, which began rolling out its delayed Release 7 over the course of 1992: Sybase's current release name is 4.9, and there seemed no logical reason to start calling anything out of the fast-growing system software supplier's warehouses ‘System 10’.
+Now things begin to make a little more sense.
+‘We decided to call it System 10 because we wanted an order of magnitude improvement,’ claims Stu Schuster, vice-president of marketing, speaking at last week's announcement of the availability of seven components of the 11 System 10 database server family products (more details of the tools components will come later in the year).
+Sybase claims to have launched the client-server market itself with the release of its Open SQL Server and Client products in 1987: now it sees itself launching a further market, enterprise client-server, mainly for mainframe customers downsizing to new systems, as opposed to the departmental (and usually Unix or VAX/VMS) first generation of SQL-based database system.
+The foundations for this new form of client-server computing are claimed to be found in the following System 10 vision.
+At the bottom level sits the SQL Server engine itself.
+Above it are three products fulfilling the role of distributed system management; the OmniSQL Gateway, detailed last month, is designed to provide interoperability between a number of non-Sybase and non-relational systems, and the Replication and Navigation Servers.
+Orthogonal
+Above this layer sits a set of open client-server Application Programming Interfaces, Open Client, Open Server and Embedded SQL.
+Orthogonal to the database server layers are a set of control servers, for back-up, monitoring, and administration.
+What all these elements are supposed to do is answer what Sybase claims are the five big reasons that users are unwilling finally to go all the way with open systems as opposed to host or legacy solutions.
+First, they need a well-proven advanced technology to minimise the risk of moving from a departmental system supporting up to maybe 100 users to hundreds if not thousands of users.
+Secondly, they want scalable systems for immediate high capacity of data storage with low entry cost.
+They also want to move from single-function, standalone and relatively simple-to-administer departmental or small systems, to corporate-wide, integrated and larger versions which will be harder to administer.
+They want (or need) interoperable systems to take advantage of heterogeneous, multi-vendor architectures, with reliable data and transaction delivery, controllable from a single location, supporting up to hundreds of Gigabytes of data.
+Some wish list.
+Sybase says this is what Unix and distributed systems need, however, if they are really to challenge the mainframe.
+And, you guessed it — Sybase can give it to you!
+Or at least some of it, in beta test, right now, and the rest later in the year (in beta again).
+Of the 11 System 10 elements, some are new, some have been developed with technology partners such as NCR Corp and are revamped older products.
+Seven were announced at the company's well-attended (1,800 turned up instead of the expected 1,000) fifth annual international user group show in San Jose, California, last week.
+Announced were a new, and supposedly  high-performant and transaction processing-friendly version of its database engine, SQL Server; enhanced versions of the Open Client and Open Server offerings, plus the Embedded SQL for SQL C, Cobol and Ada precompilers; and new and enhanced control servers, the technology Sybase argues customers need to control distributed applications, Sybase Backup Server (with back-up, loading and recovery facilities, database consistency checking three times faster than in the previous release, and bulk loading of data — now capable of loading up to 1Gb an hour, and claimed to be seven times faster.
+For vendors and users committed to standards, often said to be a weak spot in Sybase's message, System 10 is supposed to be so standards-friendly you'll fair quiver with joy.
+The promise is to provide standards transparency instead of picking one (or any of the 5m we've come up with so far).
+In terms of programming an interface to System 10, existing Sybase DB-Lib Application Programming Interface library codes or embedded SQL recompilers will talk easily to the new and simplified CT (for client) Lib — with only 50 instead of 350 calls, this should be simpler.
+The client application, can, however, talk through the Open XA, ESQL, Microsoft Open Data Base Connectivity or other Application Programming Interfaces as desired.
+To talk to the network software layer in the Open Client, the application will then work either through Sybase's proprietary tabular data stream protocol or other protocols Sybase says it will support, in particular, IBM Corp's DRDA Distributed Relational Database Architecture, the Open Software Foundation's RDA and Borland International Inc's emerging IDAPI.
+It also notes the Open Software Foundations's Distributed Computing Environment remote procedure calls are becoming more popular, and may be supported.
+Open transaction processing monitors, including IBM's CICS/6000, NCR's TopEnd, Unix System Laboratories Inc's Tuxedo and Transarc Inc's Encina, will be supported as part of the X/A Distributed Transaction Support — no matter that few customers seem to have built many applications in anger with such products, Sybase says it just loves standards to death these days!
+In fact, with it supporting the very latest ANSI/ISO SQL-92 standard, it's so standard it's more standard than anyone else.
+With OmniSQL Gateway already in beta test, three more important products, and in some ways the most interesting, are yet to be unveiled: the Replication, Navigator and Configurator servers.
+Reliable
+These will handle reliable distributed data and transaction delivery, scalable parallel processing and capacity planning and design for database environments.
+The seven announced products are to be shipped on Hewlett-Packard Co HP 9000, IBM RS/6000, NCR System 3000, Sun SunOS, Sun Microsystems Inc Solaris, and Digital Equipment Corp VAX/VMS and Alpha VMS in 1993.
+After 90 days 12 other systems will be supported: Data General Corp AViiON, DEC Alpha OSF/1, Motorola Inc, NEC Corp, Novell Inc NetWare, Pyramid Technology Corp S Series, Sequent Computer Systems Inc, Silicon Graphics Inc, Stratus Computer Inc FTS and VOS and Unisys Corp U6000.
+The twelfth is notable: for the first time, Sybase will be available on the ICL Plc DRS 6000, ending a long and tense stand-offish relationship between it and an ICL formerly wedded to the Ingres tool set, and Sybase, and joining rivals Oracle and Informix on the ICL Unix system.
+And in 1994, expect an IBM OS/2 and Microsoft Corp Windows NT version ‘when NT has settled down a little bit,’ says Schuster.
+Prices of the product set range from $290 to $256,000 with Backup Server bundled with SQL Server 10 at no extra cost.
+THREE VERSIONS OF NT NOW EXPECTED, AS SEQUENT EXPANDS ITS PACTS WITH MICROSOFT, PREVIEWS SYSTEMS
+Microsoft Corp has told Sequent Computer Systems Inc, one of its allies in the upcoming Windows NT  blitzkrieg , that the server version of Windows NT will start shipping by the third week of June.
+Sequent was also told the NT client could ship at the end of this month, simultaneously with system's launch at Comdex Spring/Windows World.
+Sequent says there are to be three versions of NT: the client, an inexpensive four-processor retail iteration of the Advanced Server and a 16-processor OEM-only version of the Advanced Server.
+Whether or not the software is production-ready, Sequent intends taking revenue orders for its planned new Intel Corp-based, NT-exclusive WinServer symmetric multiprocessors starting June 1 and shipping almost immediately.
+It will deliver the second beta version of NT if necessary.
+Sequent claims its Fortune 200-targeted customers are unconcerned.
+Sequent will pre-integrate NT, network and application software, particularly SQL Server and Oracle 7 databases, in its new boxes under an expanded joint development pact with Microsoft to be announced this week.
+The pair are hoping the custom-configured WinServers will prove as easy to deploy as personal computers.
+The line includes only one home-grown box, the high-end 16-way WinServer 5000, priced at $247,000 with 384 disks, 32 SCSI channels, 2Gb memory and parallel-processing communications facilities, which will not be available until the fourth quarter.
+Mainframe-class
+Sequent expects the mainframe-class 5000 to go to 30 processors.
+The other three members in the family are all being bought in OEM from Tricord Systems Inc and will be available soon from Sequent as the entry-level two-way WinServer 1000 priced at $29,900, the two-way WinServer 1500 priced at $39,300 and the six-way WinServer 3000 priced at $75,300.
+Like everybody else, Sequent is waiting on Pentium deliveries from Intel, now not expected much before the end of the year.
+Until then it will use 66MHz 80486 parts instead.
+It describes the 1000 with 512Mb RAM, nine 3.5″ disks and two SCSI channels as fit for business-critical client-server workgroups and small departments.
+The 1500 is also designed for local network consolidation, decision support and workgroup computing with 512Mb RAM, 21 disks, four SCSI channels and optional redundant power supplies.
+The 3000 supports large-scale local network consolidation, transaction processing and decision support with 16 SCSI channels, 1Gb RAM, 192 disks, optional fault-tolerant protection and redundant power supplies.
+Sequent is targeting Oracle NetWare Loadable Module users and OS/2 users estimated to be running out of power.
+It is working from a list of 20,000 OS/2 sites supplied by Microsoft.
+Resellers will include Novell Inc Platinum types and Tricord value-added resellers.
+It is also experimenting with a hybrid telemarketing scheme called WinCentralDirect that fits in with the company's plug-and-play attempt and puts customers in contact with NT-certified technical and business consultants.
+ARRAY TECHNOLOGY OFFERS SUMO AT HALF SPARCSTATION 2 PRICE
+UK systems integration specialist turned Sparcsystems builder, Array Technology Ltd, Camberley, Surrey, has introduced its first Sparcstation 2-compatible system.
+Sumo is less than half the price of an equivalent Sun Microsystems Inc box, runs Solaris 2.1 and comes with support for up to 64Mb memory, three SBus slots and a Sun-equivalent GX graphics accelerator board.
+Other features include an Ethernet interface, support for two internal and one external SCSI II drives, two serial and an audio port.
+Sumo is priced at £2,400, the Sparcstation 2 costs £5,200.
+Sumo will be sold to value-added resellers only.
+Array uses a UK sub-contractor to manufacture the things.
+The firm, which originally used Sparcstations to integrate turnkey systems, expects clone sales to boost its revenues by 100% to £6m this year from £3m last year.
+Array's sales and marketing manager Paul Barwick claims that it has sold 50 systems since March and expects to sell 600 by the end of the year — it plans SparcClassic- and Sparcstation 10-compatibles by the end of the year.
+FERROELECTRIC MEMORY INVENTOR RAMTRON TEAMS WITH RACOM TO DO BATTERY-FREE RADIO SMART CARD…
+Racom Systems Inc, Boulder, Colorado and Australian-born Ramtron International Corp of Colorado Springs have teamed up to produce a read-write Smart Card that communicates by radio.
+Ramcom's existing cards can already be read by radio thanks to a built-in transceiver, but the new In-Charge cards can also be written to in the same way.
+Central to this is the use of Ramtron's innovative Ferroelectric RAM (CI No 1,603) which stores information without needing power.
+Previously, building RAM into a Smart Card required an on-card battery.
+The product is the result of an agreement signed in October 1991 for joint development of an FRAM-compatible radio frequency transponder chip.
+Potential uses include smart identity badges and all of the usual retail card applications — so it will be possible to spend money without even taking it out of your wallet.
+In addition the company is pushing applications in manufacturing where the card will be able to store information about the product as it trundles along the assembly line.
+The concept can be naturally extended to let it store  maintainence information once the product has left the plant.
+Companies wanting to try out the cards can buy an application test kit for $1,800.
+…
+AND SIGNS ROHM TO MANUFACTURING PACT FOR JAPAN
+Separately, Ramtron International Corp has signed a strategic manufacturing and marketing agreement with Rohm Co of Kyoto to expand the market for Ramtron's Ferroelectric Random Access Memory in Japan.
+Phase One of the Rohm-Ramtron agreement begins immediately and says that Rohm will supply semiconductor underlayers to Ramtron, to which Ramtron will apply its patented FRAM memory technology; Rohm will distribute FRAM memory products in Japan under both the Ramtron and Rohm names; and Ramtron and Rohm will jointly develop new FRAM-based products, such as microcontrollers and custom products.
+Phase Two calls for joint manufacturing arrangements and the co-development of advanced FRAM products.
+EUROPE GETS TO GRIPS WITH THE PROBLEM OF DIVIDING SCARCE RADIO SPECTRUM CAKE FAIRLY
+On behalf of CEPT, the Conference on European Posts and Telecommunications, the European Radiocommunications Office has completed the first Detailed Spectrum Investigation into the use of radio frequencies in the microwave or millimetric spectrum — between 3.4GHz and 105GHz.
+Two other bands, 29.7MHz to 960MHz and 960MHz to 3.4GHz, will subsequently be studied.
+The Detailed Spectrum Investigation's recommendations have been combined in a first proposal for a European Table of Frequency Allocations which aims to standardise the use of frequencies across CEPT countries where possible.
+Implementation is hoped for by around June 2008.
+The millimetric frequency band includes such services as satellite television, fixed radio links, the connection of parabolic dishes on high towers, radar, satellite transmissions and radio astronomy.
+One aim was to substantiate or refute the claim that there are not enough frequencies to satisfy demands, as well as to try and determine the direction of future plans.
+The European Radiocommunications Office is seeking contributions from the public to the document, which should be delivered by June 15 — with a final cut-off date of September 24.
+The Detailed Spectrum Investigation process is intended to ensure that everyone should derive maximum benefit from the limited radio spectrum resource.
+Operational needs
+It aims to take account of the operational needs of existing users, obligations that international treaties and organisations impose, the impact of technological developments and the availability of resources to meet recommendations and implement changes.
+Bodies that have particular input to and effect on issues of European spectrum management include the European Commission, which is taking an increasingly active interest in telecommunications and has identified two major tasks ahead for member states: the liberalisation of telecommunications services and the separation of regulatory and operational functions.
+It has also adopted a set of Directives in order to harmonise legislation and conditions for access to the network.
+Other involved bodies include European Telecommunications Standards Institute, the International Telecommunications Union, the World Administrative Radio Conference, the military community, and associations including those for the electronics, civil aviation and maritime industries.
+Even though the data derived from the Detailed Spectrum Investigation does not constitute a detailed analysis of the European situation, it is possible to draw some general conclusions.
+Although there is not much use of frequencies above 20GHz, below 15GHz there is intensive use of traditional fixed service frequency bands.
+Fibre is the preferred medium for high capacity circuits for many operators and may become the medium of choice for primary transmission circuits, given time.
+No large scale expansion in high capacity radio relay equipment is foreseen, despite the re-engineering of networks to give digital operation.
+On the other hand, radio is still used for diversity of routing or for emergency circuits, particularly in tricky terrain or earthquake-prone zones where optical fibre circuits might fracture.
+The provision of cellular links by independent operators is an increasing trend for radio and there is some evidence that companies would like to set up their own private networks.
+Any competitive networks set up might produce an increase in demand as a result of having stimulated new requirements.
+Although the need for fixed radio relay systems seems likely to remain at current levels in the foreseeable future, any diminution in spectrum availability will have to be compensated for.
+This will entail enhancing frequency management processes and increasing use of frequencies above 20GHz.
+The radio spectrum is being used in a variety of countries for ancillary broadcasting in the shape of outside broadcasts and electronic news gathering.
+Satellite TV news gathering, which represents a likely area for substantial development, often uses the fixed satellite service band.
+The bands used for this type of application differ considerably from country to country, although spectrum around 7.5GHz is common.
+Valuable frequency band should not be reserved exclusively for use by outside broadcast units on the offchance that an incident may occur, however, the European Radiocommunications Office feels.
+On the other hand, there should be harmonised bands for temporary unidirectional fixed and mobile links — at least in the short term.
+In the longer term, spectrum has been identified in the band 4.4GHz to 5.03GHz and it is thought that military tactical requirements and outside broadcast and news gathering applications ‘could be compatible in such situations’.
+The European Radiocommunications Office also wants to introduce procedures to allow for rapid response to requests for frequency allocation in bands recognised as those used for outside broadcasting or electronic news gathering.
+Although established network operators are now primarily using optical fibre for high capacity communications links, there is little evidence that the overall amount of spectrum available for fixed service use, in terms either of point to point use or outside broadcasts and electronic news gathering applications, should be reduced.
+The Detailed Spectrum Investigation team recommends that spectrum should be rearranged in some bands but that any shortfall should be recovered from improved frequency management techniques in other bands.
+At present, around half of transatlantic telephony traffic is carried via satellite.
+This percentage is likely to decrease as a result of improvements in cable systems.
+The Fixed Satellite Service spectrum is also used by Eastern European countries and international satellite consortia.
+The C and Ku bands, 4GHz to 6GHz and 11GHz to 14GHz respectively, are now heavily used.
+The deregulation and liberalisation of Earth segment proposed by the European Community would lead to a general increase in spectrum requirements and to a need for simplified co-ordination procedures.
+An increase of the Fixed Satellite Service band is proposed between 3.5GHz and 3.6GHz while flexibility is called for in the existing bands for Fixed Satellite Service and the Broadcasting Satellite Service, particularly between 11GHz and 12GHz.
+This band is also likely to be used for services such as narrow band high definition television start-ups using standards such as the ill-favoured HDMAC.
+Civil mobile systems are at an early stage of development but a low power band has been proposed, centred on 3.455GHz, and consideration has also been given to operation of future land mobile systems around 3.4GHz.
+There have also been allocations for broadband mobile systems in bands around 40GHz and 60GHz.
+A variety of other bands have also been proposed.
+Defence and civil applications already share spectrum to some extent.
+It is felt that the 7GHz to 8GHz segment, already used extensively by defence authorities, should be kept under review and that an agreement for sharing the 20GHz to 30GHz space allocation should be developed.
+Need further study
+Bands used by radio determination systems need further study, the Spectrum Investigation has determined.
+There is a possibility that systems such as radio location systems could share with maritime radio navigation systems, particularly in areas remote from the coast and major inland waterway systems.
+The Detailed Spectrum Investigation results have been amalgamated into a proposed table of frequency allocations and use.
+The European Radiocommunications Office notes that ‘sometimes the requirements of different interest groups are in conflict, but it is hoped that the correct balance has been found’.
+The Office suggests an implementation schedule which enables some bands to be introduced rapidly while more problematic ones will take longer.
+Allocations of large blocks to individual users should be kept to a minimum because of the inflexibility of the allocation process.
+In some areas of the spectrum, more research is needed to enable more efficient use to be made.
+To develop strategic plans more accurately, the Detailed Spectrum Investigation team considers it wise for CEPT administrations to carry out their own investigation on a national basis.
+These studies should occur before spectrum is allocated for major new developments in radio communications.
+SUNSELECT COUNTS ON ITS COSE FRIENDS TO WET THE WABI's HEAD AT TODAY's LAUNCH…
+Sun Microsystems Inc's SunSelect is due to make its WABI Windows Application Binary Interface announcement today at a gala in California with IBM Corp, Hewlett-Packard Co, Santa Cruz Operation Inc, Unix System Laboratories Inc and Sun Microsystems Inc there as licensees and SunSoft Inc saying it will bundle the software with Solaris.
+WordPerfect Corp is thought to have withdrawn its support.
+WABI is now also expected to go forward into the Common Open Software Environment initiative.
+Sun, which has refused to license Windows 3.1 from Microsoft, has literally had to re-invent Windows from scratch.
+The process is technically demanding and time-consuming, to say the least, and leaves WABI snookered as far as staying current with Windows development goes, a situation Microsoft is likely to exploit.
+As it is, SunSelect has reportedly validated only a dozen Windows applications on WABI and the thing still doesn't print.
+Meanwhile, WABI is making its debut to suggestions from Microsoft that it might sue for violating its intellectual property rights.
+Though Microsoft might be posturing, licensing WABI to Hewlett-Packard, IBM and Unix Labs also is also said to expose Sun to risk of a legal petition by Insignia.
+WABI was written by people that worked at the BIOS house Phoenix Technologies Ltd and later at Integrated Technologies Inc.
+Insignia bought the Phoenix and Integrated technology years ago and continues to hold the residual rights.
+Sun itself has rights to that technology but only on Sparc systems and maybe not all of them.
+Insignia is believed to have spoken informally to Sun on the matter.
+Meanwhile, sources contend that the commitment of IBM and Hewlett-Packard to commitment to WABI is fairly weak.
+The two are said to be doubtful about Sun's ability to deliver the code on time and they suspect the company may not give their systems priority over its own.
+On the other hand, being box shifters, they may not care what software they ship anyway and some people are betting they'll both wind up licensing Windows from Microsoft.
+…
+AND LOOKS TO FORESTALL MICROSOFT CHALLENGE WITH LAUNCH OF PUBLIC WINDOWS INITIATIVE…
+However, in an attempt to forestall or derail Microsoft's likely objections to WABI, legal or otherwise — including its promise to ‘make Windows such a moving target that Sun could not keep up’— Sun is also expected to unleash its latest secret weapon that's guaranteed to raise the stakes once again.
+It has orchestrated a Public Windows Initiative pressure group of vendors that will attempt to force Microsoft to open up, if not make public, future plans for Win16, its 16-bit application programming interface for Windows 3.1, so crucial for Windows developers (CI No 2,160).
+The Public Windows Initiative — with the Common Open Software Environment at its side — will attempt to claim the high moral ground over the issue of open specifications and is likely to cloak Microsoft in a mantle that was once the preserve of IBM.
+Moreover, it's surely no coincidence that the Public Windows Initiative comes at a time when anti-trust allegations against Microsoft are still under investigation by the US Federal Trade Commission.
+Sun is clearly demonstrating to Bill Gates some of the black arts on which the Unix industry has cut its teeth — more of which Microsoft can undoubtedly expect to face when it launches its Windows NT challenge.
+…
+AND MICROSOFT, INSIGNIA AND BRISTOL COOK UP RIPOSTE
+Meantime Microsoft Corp and SoftPC house Insignia Solutions Ltd, the Queen's Award winner from High Wycombe, Buckinghamshire and Mountain View, California, are said to be planning a pre-emptive strike against SunSelect's Windows-on-Unix WABI system this week, pitting a Microsoft-backed Insignia SoftPC against it in the market.
+The much-rumoured pact will see Insignia admit it has a licence to Windows source code and the right to modify it at the application programming interface level to improve the performance of SoftPC, its Windows-under-Unix package.
+Access to Microsoft's technology, which Insignia has had in-house for some time, is expected to make SoftPC run MS-DOS and Windows programs at near native performance probably by the end of the year.
+Insignia has taken a 10% shareholding in Bristol Technology Inc, Bridgefield, Connecticut.
+It caps a deal that's been brewing for some time for the pair to co-develop products this year that enable Windows applications to run under Unix on desktop systems.
+The project is already under way and is apparently focused on the speed at which programs run.
+Bristol calls it Red Baron after Snoopy's nemesis in the Peanuts comic strip.
+Snoopy in Unix argot was of course the original code name of WABI, SunSelect Inc's imminent Windows-under-Unix entry from its Praxsys Technologies Inc acquisition.
+Wind/U
+Bristol and Insignia apparently intend to combine their respective technologies so that Bristol's source-level Windows-under-Unix application programming interface product Wind/U will run binary Windows applications.
+Insignia's SoftPC runs 16-bit binary MS-DOS and Windows programs under Unix.
+Sources say Bristol and Insignia cannot be too specific about the nature of their collaboration because they are currently still working out techniques, which could change.
+Microsoft Corp chairman Bill Gates' threats to make life miserable for WABI by bringing out competing products of his own are believed to involve Bristol and a Microsoft licence to Wind/U.
+Insignia's SoftPC, which is being used in Microsoft's Windows NT to run 16-bit MS-DOS and Windows applications, will apparently be the other — binary — rock that Microsoft throws at WABI.
+With Microsoft in its corner and actual Windows code under the hood of its product, Insignia would not face the problems that Sun faces keeping up with Windows development.
+GERSTNER GOES OUTSIDE IBM FOR HIS FIRST APPOINTEE, PICKING CHRYSLER's YORK AS FINANCE CHIEF…
+Louis Gerstner finally made his own first major move since being appointed chairman and chief executive of IBM Corp, going outside the company again for a key executive and tapping Jerome York from Chrysler Corp to be his new chief financial officer.
+All the other appointments and moves made since Gerstner was appointed were in the works before he arrived.
+York is resigning after 14 years with the automaker.
+York, 54, who guided Chrysler's financial rebound, says he hopes to achieve a similar economic miracle at IBM, but that his decision to leave Chrysler was ‘the toughest I've made in my career.’
+The opportunity to head IBM's financial management ‘is simply too exciting to ignore.
+I believe IBM will be one of the most challenging business situations in the '90s and I welcome the opportunity to be part of it,’ York says.
+York has a reputation as a determined cutter of costs, and at Chrysler, where he was executive vice-president for finance and chief financial officer, he helped to trim $4,600m from the company's costs over four years.
+He also led Chrysler's 1991 and 1993 stock offerings, which raised more than $2,000m for the troubled company.
+He also has operations management experience, running both the Dodge division and Chrysler's Mexican operations.
+The Detroit News reported on Monday that continuing disputes with other top brass helped persuade York to accept the IBM offer.
+Commenting on the appointment, Dean Witter Reynolds Inc analyst Jay Stevens told Dow Jones & Co that the automakers have been working to slash excess capacity and workers for years and that that is the situation now faced by IBM after its decades of success in the mainframe computer market have been undermined.
+Although IBM began to trim its overhead last year, York's experience at Chrysler ‘would show how you could really shut the chequebook,’ he adds.
+‘There are a lot of synergies between his experience at Chrysler and at IBM,’ Marianne Wolk, a Prudential Securities analyst told Reuter.
+‘York had a lot of credibility on Wall Street and he had never broken a promise…
+IBM has misjudged its markets and disappointed the Street a number of times.’
+As IBM's chief financial officer, York succeeds stop-gap office holder and returned  retiree Paul Rizzo, who continues as an advisor to Gerstner, overseeing manufacturing and development, and as vice-chairman.
+…
+AS IBM BIDS A FROSTY FAREWELL TO JOHN AKERS; PERSONNEL CHIEF BURDICK ALSO GOES
+IBM Corp traditionally sends departing executives off with glowing resumees of their illustrious careers, so it was striking that the announcement late Friday that former chairman and chief executive officer John Akers had just retired from the company after 33 years was accompanied by the briefest and curtest summaries of his career — after all, the man had significant achievements behind him when he acceded to the top job, and it is arguable that many of the problems that plagued the company during Akers' tenure were the fault of his predecessors, although it must be said that he was also in the loop at the time.
+Walton Burdick is also retiring as senior vice-president, personnel.
+WORRIED STAFF REPRESENTATIVES AT BULL SEEK MEETING WITH POSTAL MINISTER BEFORE DECISIONS ARE TAKEN
+Compagnie des Machines Bull SA's European labour-management committee has asked for a meeting with Gerard Longuet, French minister of Posts & Telecommunications, before he ‘takes any decisions concerning [our]company,’ according to La Tribune.
+The French state, ‘principal shareholder in Bull, has a particular responsibility for the future of Bull and for the employment consequences in different European countries’ where the group operates, the letter said.
+Bull says the letter was sent in light of the fact that the new French government is examining the portfolios of all state-owned companies.
+The European committee, created in September 1992, is a forum for dialogue between Bull staff representatives in 16 countries ‘on social and economic questions that require a European-level examination.’
+FRANCE TELECOM TOLD TO CONSIDER SPINNING OFF ITS CELLULAR ARM
+Despite earlier statements, both public and private, by members of the new right-leaning administration in France that they had no intention of making any immediate change in France Telecom's status, the government told the telephone operator's board of directors meeting last week to consider spinning off its mobile telecommunications business and opening it up to international investment.
+A press conference on the subject, which was scheduled for Monday, was cancelled due to the suicide of former Prime Minister Pierre Beregovoy over the weekend.
+The Ministry of Posts & Telecommunications referred enquiries to a report in Monday's edition of La Tribune.
+Last Thursday, the paper says, Pierre-Francois Couture, the Postal Ministry's representative on the France Telecom board, asked the operator's managers to think about a spin-off, reminding them of the ‘increasingly aggressive competitive telecommunications environment,’ pointing out that the French digital cellular market has been slow to take off.
+Groupe Speciale Mobile communication in France is more expensive and has achieved less penetration than in Germany, and cellular overall has much less penetration than in the UK.
+Germany counts approximately 300,000 GSM subscribers today, compared with less than 10,000 in France.
+Not enough to satisfy
+France Telecom has moved to try to improve the situation — nearly a month ago, the operator reviewed its objectives and decided to offer GSM service to 90% of the French population in 1994, rather than in 1997, as it had previously planned, but that was not enough to satisfy the new government.
+Marcel Roulet is quoted by La Tribune as saying that he was ‘surprised’ at the request.
+The trades unions at France Telecom were less circumspect, declaring themselves ‘betrayed’ by the new minister, Gerard Longuet.
+The unions said the minister promised them in a private April 19 meeting that the operator's status would not budge for two years.
+Couture insisted last Thursday that ‘mobile communications will always be a business managed by France Telecom,’ says the La Tribune report.
+The article also quotes a source at the Ministry of Industry as saying that the government wants the spin-off, with corporate outside investors for the new entity, adding that, although the government is not opening up France Telecom's capital to outside investors, ‘nothing prohibits the privatisation of its subsidiaries.’
+La Tribune quotes ‘an expert’ at France Telecom, who says ‘Proceeding with this will dismember France Telecom.
+The English attached themselves to the idea of privatising the operator in its entirety.
+Today, the Germans do not envisage doing it any other way either.
+Why should we adopt the opposite approach?
+In reality, the government risks turning on France Telecom,’ he said.
+— Marsha Johnston
+SHARE & BOND ISSUES
+Inacom Corp, Troy, Michigan retailer, completed the sale of 4.1m shares, 1m of them new, the balance from Valmont Industries Inc, at $16 a share.
+Net proceeds to InaCom of $15.28m will be used to reduce bank borrowings.
+No underwriters were named.
+3DO Inc, San Mateo, California computer-based entertainment systems designer, got its initial public offering of 2.9m shares, all new, away at $15 per share; the $40m or so net proceeds will be used to further development of the company's home interactive multimedia system, which it intends to license widely to third parties.
+The co-managers were Morgan Stanley & Co Inc and Alex Brown & Sons Inc.
+Geac Computer Corp Ltd, Toronto is to redeem all its Series II Preference shares outstanding on June 15 1993 at either $Can30 each or by conversion into nine common Geac shares for each Series II held.
+Communication Intelligence Corp, Redwood Shores, California has filed with the Securities & Exchange Commission to offer 3m shares, 2.7m of them new, to raise an indicated $10.75m, which the manufacturer of components for pen-based computers says it plans to use for working capital and its proposed joint venture in China.
+Underwriters to the issue are Daiwa Securities America Inc and Van Kasper & Co.
+Computer 2000 AG, Munich computer distributor says it plans to raise the equivalent of $3.2m with a two-for-nine rights issue at 430 marks a share.
+IDB Communications Group Inc, Culver City, California international telecommunications services company filed with the Securities and Exchange Commission to offer up to 1m common shares to raise some $28m to buy in, discharge or repay in full at the earliest possible date the company's 13% senior subordinated notes due 1998.
+The offering will be made via Hambrecht & Quist Inc and Sutro & Co Inc.
+CREDIT RATINGS
+Philips Electronics NV has had the ratings on its long-term senior debt affirmed at Baa-1 and its short-term debt at Prime-2 by Moody's Investors Service Inc, affecting about $1,550m in debt.
+The rating agency says that the action follows Philips' agreement to sell to Matsushita Electric Industrial Co its 35% stake in the companies' joint venture.
+COMPANY RESULTS
+Aldus Corp has reported first quarter net profit down 92.3% at $362,000, on turnover that fell 5.6% to $41.6m.
+Net per share fell by 90.3% to $0.03.
+Data Switch Corp saw first quarter net of $749,000 against losses of $2.5m last time, on turnover that rose 15.8% to $23.2m.
+Net per share were $0.06.
+Dun & Bradstreet Corp saw first quarter net losses of $35.4m, after $140.6m charges due to the cumulative effect of an accounting change, against $98.2m profits last time, on sales down 3.3% to $1,071.4m.
+Electronic Arts Inc has turned in fourth quarter net profits up 61.5% at $8.6m, on turnover up 80.4% at $86.6m; net profit for the year to March 31 was up 65.1% at $30.9m, on turnover that rose by 70.4% to $298.4m.
+Net earnings per share, adjusted to reflect a two-for-one stock split effective from February 8, 1993, rose by 54.5% to $0.17 in the quarter, and by 54.8% to $0.65 in the year.
+Gateway Communications Inc has reported a first quarter net loss of $474,000 after a $128,000 restructuring charge, against a profit last time of $408,000 on turnover that slumped 50.5% at $3.3m.
+General Datacomm Industries Inc has turned in second quarter net profits up 1,069.5% at $1.9m, on turnover that rose 14.7% to $54.3m; mid-term net rose 383.8% to $3.5m, on turnover up 15.9% at $108.6m.
+Net earnings per share rose 1,000% to $0.11 in the quarter, 320% to $0.21 in the half.
+General Instrument Corp has reported first quarter net profit of $11.4m, after $217,000 gains due to the cumulative effect of an accounting change, against losses of $28.3m last time, on turnover up 30% to $303.2m.
+Net earnings per share were $0.19.
+Genicom Corp has reported first quarter net profit up 12.1% at $83,000, on turnover that rose 3.1% to $56.7m.
+Net earnings per share remained at $0.01.
+Hall-Mark Electronics Inc has reported first quarter net profit up 101.4% at $7.7m, after $890,000 gains due to the cumulative effect of an accounting change due to income taxes, on turnover up 14.3% to $198.2m.
+Net earnings per share rose 44% to $0.72.
+IntelliCorp Inc has reported a first quarter net loss of $705,000, down from a loss last time of $1.3m on turnover that rose 8.1% at $2.8m.
+Interleaf Inc has reported fourth quarter net profits up 2.3% at $3m, on turnover up 6.7% at $31.4m; net profit for the year to March 31 was up 55.5% at $9.3m, on turnover that rose by 17% to $117.3m.
+Net earnings per share remained at $0.18 in the quarter, and rose by 44.7% to $0.55 in the year.
+Intuit Inc has reported second quarter net profits up 9.5% at $1.9m, on turnover up 37.1% at $31.2m; mid-term net rose 8.5% to $5m, on turnover up 43.1% at $64.4m.
+Net earnings per share rose 6.3% to $0.17 in the quarter, 4.5% to $0.46 in the half.
+Legent Corp has reported second quarter net profits up 85.9% at $18.4m, on turnover up 0.2% at $102.6m; mid-term net rose 66.7% to $37.5m, on turnover up 9.8% at $219.3m.
+Net earnings per share rose 79.3% to $0.52 in the quarter, and 59.1% to $1.05 in the half.
+Comparisons are with restated figures.
+PictureTel Corp has reported first quarter net profit up 30.3% at $3.7m, struck after $1m gains due from the cumulative effect of an accounting change this time and against a period that included $933,000 in tax credits, on turnover that rose 55.2% to $44m.
+Net per share rose 27.8% to $0.23.
+Quantum Corp has reported fourth quarter net profits up 52.4% at $26.3m, on turnover up 46.6% at $506.6m; net profit for the year to March 31 was up 100.3% at $93.8m, on turnover that rose 50.5% to $1,697.2m.
+Net earnings per share rose 31.6% to $0.50 in the quarter, 68.6% to $1.77 in the year.
+Radius Inc saw second quarter net losses of $5.3m against profits of $2.3m last time, on sales down 28.1% at $30.9m; mid-term net losses stood at $6m against profits of $4.5m last time, after $600,000 gains due to the cumulative effect of an accounting change, on turnover that fell by 15.1% at $67.7m.
+Ross Systems Inc has turned in third quarter net profits up 103.9% at $1.1m, on turnover up 24.6% at $22.1m; net losses for the nine months stood at $3.8m, on turnover that rose 16.6% to $61.5m.
+Net earnings per share rose 120% to $0.11 in the quarter.
+Comparisons are made with restated figures.
+Computer 2000 AG reported pre-tax profits for the six months to March 31 up 30.6% at the equivalent of $22.9m on turnover up 55.2% at $866.2m.
+No net profit or per share figures were given.
+The figures are converted at $0.625 to the German mark.
+APPLE AND IBM STILL APPEALS TO JOHN SCULLEY
+Remember the sensational flurry a couple of years back when we picked up word that IBM Corp was considering making an agreed offer for Apple Computer Inc?
+It came to nothing and the two settled for the broadbrush alliance on the PowerPC RISC and the creation of Taligent Inc and Kaleida Inc, but it now seems clear that the idea of the big one still appeals to John Sculley, and according to the Independent on Sunday, Sculley was very much considered as the successor to John Akers, but his terms were that IBM sell the mainframe business and merge with Apple to create a profitable $30,000m a year company, and the courage of the outside directors failed them when they considered what announcement of such a deal might do to the IBM share price.
+EDS AND BT COOL OFF
+The talks between Electronic Data Systems Corp and British Telecommunications Plc about a possible alliance have cooled, the Wall Street Journal believes: rather surprisingly, the paper says that British Telecom had been considering buying 25% of General Motors Corp's Class E shares, which simply pay dividends tied to the computer services subsidiary's performance; it had been assumed that British Telecom would not be interested in holding a significant minority interest in an automaker just to cement an alliance with one of its subsidiaries.
+SAMSUNG BUYS HARRIS MICROWAVE SEMICONDUCTOR
+Samsung Electronics Co Ltd, Seoul, South Korea has bought Harris Corp's Harris Microwave Semiconductor on undisclosed terms, saying it has set the stage to produce Gallium Arsenide chips to help strengthen its international competitiveness in telecommunications.
+IBM ADVANCED WORKSTATION REVENUES RISE
+IBM Corp claimed yesterday that revenues in its Advanced Workstations and AIX Systems unit grew in the first quarter by more than 50% over a year ago: director Tom Jarosh said demand for the system is ‘growing rapidly, with customer shipments in the US up 90%’ over a year ago; the unit covers workstations and servers, AIX/6000 operating system and related software.
+DELL PRESIDENT RESIGNS
+Dell Computer Corp international president Andrew Harris resigned and the company promoted Joel Kocher to president of all sales, marketing and service operations worldwide; he had been president of Dell USA; Dell said that both men were being considered for the post and after Kocher got the job, a disappointed Harris decided to resign.
+NOVELL JOINT DEAL WITH ATTACHMATE
+Novell Inc has entered into a joint development, marketing and licensing agreement with Bellvue, Washington-based Attachmate Corp under which Attachmate will assume marketing development and licensing of the NetWare 3270 LAN Workstation emulation products: Attachmate will enhance its Zip!
+Office product to work with Novell's NetWare Global MHS, and the two will work together on sales training and on seminars.
+HP AND LOTUS JOIN HANDS
+Hewlett-Packard Co and Lotus Development Corp duly joined forces to announce the HP 100LX handheld 80C186 machine yesterday: the machine uses Lotus's cc:Mail Mobile package and the machine, measuring 6.3″ by 3.4″ by 1″ and has an 80 line by 25 character display, is $750; adaptors, MS-DOS linking packs and flash cards are offered as options for it (CI No 2,160).
+COX CABLE AND SOUTHWESTERN BELL FINALISE VENTURE
+St Louis-based Southwestern Bell Corp and the Cox Cable Communications arm of Atlanta-based Cox Enterprises Inc, said yesterday that they have now finalised their UK joint venture: the agreement creates a partnership between the two in both cable television and local telephone service, and Cox will hold an initial 25% stake in the cable television and telephone operations of Southwestern Bell, with the option of increasing its stake.
+BAST MAGNETIC RECORDING MEDIA STILL LOSING MONEY
+Ludwigshafen-based BASF AG says its magnetic recording media business was still losing money in the first quarter because pressure on selling prices remained strong; the chemicals giant, which owns Comparex Informationssysteme GmbH, said that it intends to fight the pressure on its selling prices by continuing to cut its costs and by concentrating on its more profitable sectors.
+NORTHERN TELECOM TO SELL PACKET SWITCHES IN CHINA
+Northern Telecom Ltd has reached agreement to manufacture and sell packet switches in China: it says it has a three-year deal with China National Post & Telecommunications Appliance Corp and Nanjing Telecommunications Equipment Factory, and that the manufacturing operation, in Nanjing, will be its third site in China —‘With this local manufacturing capability, we can expect to become the leading force in the development of China's data communications infrastructure,’ it said.
+3COM SETTLE
+3Com Corp reached agreement to settle four consolidated class action lawsuits and set up a $9.85m fund.
+LINCOLN TELECOM INCREASE INVESTMENT
+Lincoln, Nebraska-based Lincoln Telecommunications Co said network improvement investments in 1993 will increase to $32m from $27m last year: it plans to upgrade switching equipment in Lincoln and surrounding areas, install 129 additional miles of fibre optic cable and add 13 cellular telephone sites to the Lincoln and Omaha areas.
+BT COMPLY WITH OFTEL ON NEW LINE COSTS
+In a move that was mandated by the Office of Telecommunications last summer, British Telecommunications Plc yesterday announced that it was cutting by £40 the cost of a new line for residential customers: from June 1, it will cost £99; a new line for a single line business will also cost £99, down from £152.75; residential customers will also now be able to spread the cost of phone service connection by paying an initial charge of £25 and four quarterly payments of £25 — which sounds like a great deal…
+AMERITECH AND SINGAPORE TELECOM ABLE TO INVEST IN NORWEGIAN CELLULAR COMMUNICATIONS FIRM
+Chicago-based Ameritech Corp reports that its Ameritech  International unit and Singapore Telecom have received approval from the Norwegian government to acquire a 49.9% stake in Norwegian cellular communications firm Netcom GSM A/S: specific terms were not disclosed, but Ameritech International and Singapore Telecom will provide expertise in the construction and operation of cellular communications systems to Netcom, and the three companies will jointly construct and operate the digital cellular phone system for Norway.
+DOS 6 UPGRADE SALES TOP THREE MILLION
+Microsoft Corp says that sales of the MS-DOS 6 upgrade topped 3m copies in April, the first month after it began shipping the product, bettering the previous record set by MS-DOS 5 and Windows 3.1 upgrades combined; sales of the upgrade were still supply-constrained, resulting in a backlog.
+CHINESE PEN-BASED JOINT VENTURE
+Redwood Shores, California-based Communication Intelligence Corp has now signed with the Nantong Electronics Development Investment Co in China the outline terms of its proposed joint venture to market pen-based business computer systems to China's business and government sectors; the US company will invest some $2.6m in cash, shares or both.
+WHERE WILL IT LEAD?…
+PENTHOUSE MULTIMEDIA SERVICE
+Didn't you just know that that was where all this fancy multimedia stuff was leading…
+Reuter says that with the help of General Media International Inc, the Penthouse magazine empire has just launched a dial-up service in the US where for a monthly fee plus usage, lechers can view their favourite Pets from their personal computer, ask them to perform various acts — and play photographer, taking shots with the mouse while the model performs…

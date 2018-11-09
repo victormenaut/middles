@@ -1,0 +1,239 @@
+
+
+XEROX EXPECTED TO PUT ITS VENTURA SOFTWARE UNIT ON THE BLOCK
+After four years' hard labour, Xerox Corp is understood to have given up on its Ventura Software Inc desktop publishing software business and put the San Diego company on the block.
+Xerox is today expected to announce that it has called in New York investment banker Goldman Sachs & Co to try to find a buyer for the company.
+The reason that Xerox finally wants out is not hard to divine: back in 1989 when it created Xerox Desktop Systems Inc, which marketed the Ventura Publisher product, it said that annual business was running at $40m.
+A year or so later it bought Ventura Software Inc, developer of the program, and later changed the name of the subsidiary to that of the acquisition.
+But now it is understood that annual sales have slipped to only about $30m — and accumulated losses at the subsidiary are put at as much as $10m.
+All of which suggests that Goldman Sachs will not have buyers beating down the door.
+COMPAQ SETS NEW ONSLAUGHT IN PERSONAL COMPUTER PRICE WAR
+Anyone believing that the personal computer price wars have abated are in for a rude shock this week when Compaq Computer Corp brings out a plethora of new machines, including its first stab at a multimedia model, and cuts prices significantly on its existing products.
+According to the Wall Street Journal, the company will come out with new notebook and desktop models, including three additions to the Contura family of notebook computers, as well as enhancements to the existing DeskPro and ProLinea desktop lines.
+The low-priced multimedia machine will be capable of playing full-motion video and stereo-quality sound for less than $2,000.
+People briefed on the plan say they expect sharp cuts on older Compaq models, particularly those using the 80386 microprocessor, and overall cuts of between 10% and 20% on most existing models.
+Compaq is also expected to announce details of its first comprehensive mail-order campaign this week — it is preparing a catalogue in the US that will offer Compaq computers, monitors and printers, as well as other companies' software and peripherals, and has set up a telephone bank at its Houston campus to handle incoming calls on a toll-free telephone number, a move that will put Compaq into direct competition with fellow Texan, Austin-based Dell Computer Corp.
+KNOWLEDGEWARE COMPLETES DEAL TO RELIEVE ERNST & YOUNG OF ITS EUROPEAN BUSINESS
+KnowledgeWare Inc, Atlanta says it has now formally completed its previously-announced acquisition of the European software engineering distribution business of accountants Ernst & Young.
+The final purchase price will be between $17m and $28m depending on revenue performance during the next four years.
+Ernst & Young has been the exclusive distributor for KnowledgeWare in Europe since 1986, but the company now has direct distribution operations in most European countries including Belgium, Denmark, Finland, France, Germany, Italy, the Netherlands, Norway, Portugal, Spain, Sweden and the UK.
+Ernst & Young International Members continue to do distribution outside the US and Europe.
+TRT WINS AS NATIONAL NETWORKS, UK POST OFFICE PART
+National Networks Ltd and the UK Post Office Corporation have severed their agreement, by which National re-sold spare telecommunications capacity on the Post Office's internal network.
+The resale voice business was quietly switched to TRT Communications Inc last December.
+National was set up in 1989 specifically to sell the capacity, and the change leaves National's attempt to become a public telecommunications operator in doubt.
+But the move strengthens the UK hand of Los Angeles-based IDB Communications.
+IDB which is in the process of purchasing TRT and bought Worldcom, another company that was awarded a provisional UK telecommunications licence late last year.
+Harold Burgess, finance director of the Post Office's information technology division described the split from National Networks as ‘very amicable’, but said that since National had decided to concentrate on the value-added market, the capacity resale business, together with existing customers, were passed over to TRT.
+No one was available from National Networks for comment, but it is understood that the company will be building its own trunk network instead.
+The change in business leaves National Networks' application to the Department of Trade & Industry for a UK public telecommunication operators licence in the balance.
+When the company won its provisional licence last year it looked to be on the brink of success, but now the Department says that it is ‘still considering how to move forward with the company on its application’.
+Sources within TRT said it was considering whether apply for a licence of its own, but it is not certain that the company will actually need one: it may be able to operate under the Worldcom licence — assuming that IDB's acquisition goes through, TRT and Worldcom will share the same parent.
+IDB took over management of TRT from its present owner, PacifiCorp's Pacific Telecom Inc on March 1 and says the deal will be finalised in the third quarter, once regulatory approvals are received.
+NEW NETFRAMES OPTIMISED FOR CLIENT-SERVER
+Milpitas, California-based NetFrame Systems Inc has expanded its product line with a new C/S — for client-server — family of systems, claiming that they are the industry's first multiprocessing parallel superservers optimised to support client-server applications.
+The line comprises the NF200C/S, NF250C/S, NF400C/S and the NF450C/S and is based on NetFrame's Multiprocessor Parallel Server Architecture, using 50MHz 80486s or Pentiums with up to 128Mb memory as the application processor engines — customers can add both engines and input-output processors to enhance their systems.
+Application processors can run shrink-wrapped NetWare, and NetWare  Lodable Modules from the likes of Novell Inc, Oracle Corp, Sybase Inc, Informix Corp.
+All existing NetFrames are upgradable to the C/S family by adding Client/Server Application Processor engines.
+The C/S family starts at $30,000 for a four-processor system upgradable to 10 processors and 78Gb disk, now.
+RETIRED HURT: NETWISE CLOSES EUROPEAN SALES OFFICES, RETURNS TO BOULDER
+Remote procedure call technology developer Netwise Inc is retreating back to its home base in Boulder, Colorado.
+It closed its European sales offices last week because, according to sources, ‘of lack of interest from end-users and few takers for the [RPC Toolkit]early adoption programme’.
+Netwise's RPC Toolkit is bought OEM by the likes of Sun Microsystems Inc, Hewlett-Packard Co and Unix System Laboratories Inc.
+Netwise's latest crisis comes just a year after its then UK subsidiary, Netwise International Ltd, went into liquidation, owing substantial amounts to both the parent organisation and other creditors.
+It re-appeared a few weeks later as Netwise UK Ltd, in what some creditors argued at the time was ‘an apparent breach of Section 312 of the UK Insolvency Act of 1986.’
+The new Netwise UK Ltd subsequently formed other direct sales operations around Europe, including Netwise Europe BV in Naarden, Netherlands, and offices in France and Germany.
+Netwise's European general manager, Rob Rietveld, said last week ‘this was an error of judgement by the company.
+Netwise thought direct sales would increase if it expanded into new geographical markets.
+We also over-estimated the interest in our early adopters programme.’
+Netwise Inc financed the European subsidiaries with $8.5m raised via a third round of venture  capital funding last August.
+It is said that Netwise could not afford to continue financing the European effort once the cash had dried up.
+The 12 staff employed in European offices have been made redundant.
+Netwise says its US operations remain open and describes its financial health as ‘fairly stable.’
+Netwise is now setting up indirect channels across Europe, using a chain of independent software developers and value-added resellers.
+The firm will support its existing European customers from Boulder.
+NEWCOMER POSLOGIC HAS INTEGRATED POINT OF SALE SYSTEM FOR USE WITH UNIX
+In Florida, Miami's POSLogic Corp is soon to announce its first product, the POSLogic 5000 Point of Sale System, which is said to be the first Unix-based system to incorporate both hardware and software as a fully integrated product, although NCR Corp, which has been slipping Unix processors in under its point-of-sale systems for several years, while making Unix invisible to the retailer, might demur.
+The company says that every POSLogic terminal comes with full-featured point of sale and inventory control software designed to operate under any of the popular species of Unix.
+Cash sale, credit, refund, exchange of goods, partial payment, store account and other transactions are supported.
+Add-on options include laser, charge-coupled device, light-emitting diode and projection scanners, weighing scales, coin changers, touch screens and membrane keyboards.
+Terminal prices will start at $3,200 and the company says the product will be marketed through distributors.
+EUROPEAN ELECTRONIC INTERCHANGE CONSORTIA DEMONSTRATE INTEROPERABILITY
+Partners in the EuroEDI and Concorde consortia — set up with the purpose of interconnecting disparate Electronic Data Interchange systems — have successfully demonstrated the results of their projects.
+The projects are partially funded by the European Community's Trade EDI Systems, TEDIS, programme, which is intended to encourage and promote increased EDI usage within the European Economic Area, covering the European Free Trade Association countries as well as the European Community.
+The two groups completed parallel benchmark implementations, demonstrating two different operational methods for interconnecting suppliers of local, regional and industry sector-specific Electronic Data Interchange services in various European countries.
+The EuroEDI project was co-ordinated by the Level-7 consultancy, and included the installation of a central EDI relay server developed by Infonet Services Corp on the EDI system provided by the Belgium Rapid Access Information Network Services, BRAINS, organisation, the Brussels-based Alcatel Bell-Belgacom joint venture.
+The system is now claimed to enable local Electronic Data Interchange service providers to interconnect with the server, using a single link.
+Spain's Telefonica Sistemas SA and Ireland's PostGEM Ltd are also members of EuroEDI.
+The Concorde group comprises Spain's AECOC and Telefonica Sistemas, as well as France's Gencod SA and Compagnie des Machines Bull SA.
+As part of the project, AECOC and Gencod established a direct point-to-point link between their respective AECOM X400-based service, and the Allegro value added network service, which uses the Odette file transfer protocol.
+The interface was created by Bull and Telefonica Sistemas.
+In addition to the existing members of Concorde, the group says that seven retailers and suppliers are examining further opportunities to exploit the new service.
+The demonstration took place in Brussels, with user communities taking turns to exchange EDIFACT messages; each time a message was received, an end-to-end acknowledgement was transmitted across multiple systems to the original sender.
+This acknowledgement was in turn translated into a final form reflecting Odette or X400 standards of the user's own community.
+A similar demonstration is scheduled for the CeBIT trade fair in Hannover later on this month.
+LOOK AND FEEL COPYRIGHT PRECEDENT GOES INTO ENGLISH CASE LAW
+In the first such case in the UK, Leeds-based John Richardson Computers Ltd has successfully argued that copyright should protect the look and feel of a program; the court decided that a plaintiff does not need to show source code has been copied to prove infringement, and that copying non-literal aspects of a program, such as structure and organisation, could well constitute infringement; the company's dispute arose with a former employee over rival applications aimed at the pharmaceutical industry; in the past, copyright cases have dealt exclusively with copying of actual program code.
+BRITISH TELECOM WOOS METER-READING UTILITIES TO JUSTIFY COST OF INSTALLING RESIDENTIAL ISDN
+There is a perception in the UK that British Telecommunications Plc is not overly keen on selling ISDN to its residential customers.
+Quite true, says Anthony Corris, the company's marketing manager in business communications.
+The problem is that the company has only limited ISDN capacity at the moment because of the way that it is implemented at telephone exchanges.
+So the company is using a marketing strategy aimed at corporate customers combined with relatively high connection charges as ‘a protection against unbridled demand’, which sounds perhaps, a little optimistic.
+The network capacity problem arises  because currently the company's System X and AXE 10 digital exchanges do not support ISDN directly — instead, customers are served through special multiplexors hanging off the side.
+Within the next 18 months to two years, this will change as the first wave of line cards are installed that support ISDN directly, with the result that residential customers should get a more enthusiastic response when they enquire about the technology.
+The big challenge that BT faces in the future though, is to turn ISDN into a mass-market technology by installing it in every home by default.
+This, Corris calls the ‘North Sea Gas Option’ after the massive conversion exercise in the 1970s when UK Gas Board had to replace or convert every domestic gas cooker to get it to work with the new fuel.
+Gas Board
+Unlike the 1970s Gas Board, Telecom has its hands tied by the regulator: the Office of Telecommunications would take a dim view of it cross-subsidising ISDN installation at the expense of another part of its business.
+Beyond that there is the sheer cost involved in visiting all of its customers and replacing the BT box on their wall with another, more expensive one and writing off the old analogue exchange line cards.
+Forcing its customers to junk their telephones and buy expensive new digital handsets will not be popular either, so BT is considering installing combined  analogie and ISDN junction boxes — which has the disadvantage of pushing up the cost yet again.
+One of the cost-cutting measures that that the company is examining is to share the installation costs with the other utilities.
+The gas and electricity companies suffer from the scourge of meter-reading and despite 3m unemployed still don't seem to be able to find anybody to go round knocking on doors at times when anybody that works might actually be at home, and the water companies are moving to metering.
+But the problem could could disappear if every household were equipped with ISDN, since the 16Kbps packet-switched D-channel would be ideal for interrogating the meters remotely.
+Corris says that there are talks with at least one of these companies, but is too early to say whether any will bite.
+DATARANGE SELLS OUT TO SFA INC
+Landover, Maryland-based SFA Inc, formerly Sachs Freeman Associates, has acquired High Wycombe, Buckinghamshire-based systems integrator Datarange Communications Plc on undisclosed terms, and will integrate it a subsidiary.
+SFA has historically been active in the defence sector, but this acquisition represents a shift in the company's emphasis towards providing commercial data communications products and services and for this reason, SFA says that it has no plans to change Datarange's strategic direction.
+In addition to this aspect of the deal, the acquisition is also intended to enable SFA to expand its involvement with the European market.
+The move has been welcomed by Datarange, which says that the financial stability which its new parent will bring will better enable it to pursue its business strategy.
+The acquisition follows other similar moves by SFA into the commercial arena.
+In June last year, it completed the acquisition of some assets and liabilities of Frederick Electronics Corp and Futurecomms Inc from Plantronics Inc, which were integrated as a subsidiary, SFA DataComm Inc.
+Product lines include packet switching devices, modems, and other data capture and analysis equipment.
+For the future, SFA says its growth objectives will be achieved through a combination of new business development and acquisition.
+IBM SELLS MARKETING RIGHTS TO CICS PD/MVS BACK TO ITS ORIGINAL DEVELOPER, COMPUWARE
+IBM Corp has sold the marketing rights for its CICS PD/MVS problem determination tool, for an undisclosed sum, back to Compuware Corp, the company that originally developed the system in 1989.
+In addition, the two companies are entering into a joint development agreement for the CICS problem determination environment.
+At first glance perhaps, it appears an odd move for IBM, given its stated commitment to software and services.
+The reasoning, however, is that problem determination is not a ‘core competency’ and so IBM is happy to relinquish its responsibility and concentrate on further CICS development.
+Detroit, Michigan-based Compuware says the deal will enable it to release CICS fault diagnosis products the same time as new IBM CICS releases, so giving it as much as a three-month lead over its rivals.
+Collaborating with IBM's Hampshire-based Hursley Park Laboratories will also be useful from a strategic viewpoint as it will enable Compuware to keep up with any other IBM CICS developments, particularly moves to implement the system for new environments, for instance the AS/400.
+Though it has made its name as a mainframe software house, Compuware is keen to broaden its horizons.
+Already it is planning workstation versions of its XPediter debugging tool and File-Aid file manipulation tool and is also working on a client-server product strategy.
+Its plans for the CICS business, meantime, include a hybrid system combining elements of PD/MVS; Radar, its regional analysis tool; and Eyewitness, the fault diagnostic tool it has just acquired from its Vienna, Virginia-based rival Landmark Systems Corp (CI No 2,044).
+The first version of this system is planned for release in a few months.
+Compuware is set to acquire some 900 new customers under its deal with Landmark, in addition to the 200 PD/MVS contracts it will inherit from IBM.
+The combined total will almost double its CICS user base to 2,500.
+Its share of the CICS market is also expected to rise 10% which reportedly could well boost its turnover by $20m.
+Its share of the CICS tools market in 1992 stood at 25% according to analyst Xephon Plc.
+Compuware's turnover increased 30% to $62.2m last quarter, a growth rate it reckons continued in its fourth quarter.
+REVIEWING 1992, TELETEL PROMISES FASTER MINITEL
+Revenues from France Telecom's Teletel viewdata service grew 10% in 1992 to $1,035m while the total traffic, including the electronic phone book, grew 4.8% to 110m hours, the company announced this week.
+The use of Teletel services other than the directory grew 5.1% to 87m hours, or 1,000m calls.
+The number of Minitel terminals installed grew 4.8% in 1992 to a total of 6.3m, the company said.
+Jean Guiraudios, director of France Telecom's Teletel activity, emphasised the growth in practical use of Teletel services.
+‘Of five Teletel calls, one is oriented toward games or messaging, but four are asking for services and of those four, two are completely professional,’ he noted.
+The electronic directory continues to be the top seller, with the amount of traffic increasing 3.7% to 23m hours, or 760m calls.
+One study of 2,072 customers showed 96% using the directory.
+The nearest competitor service was transport information and reservations, at 53%.
+Guiraudios said France Telecom will introduce a faster Teletel service in mid-1994.
+Faster access
+‘Every time we question users of Teletel, particularly frequent users, the only complaint we hear is of the speed.
+They want faster access,’ he said.
+The new ‘Teletel Vitesse Rapide’ will operate at a speed of 9,600bps, double the present rate.
+The cost of connection for the new service will be about 20% more per minute, but should still cost the user less for the same operation.
+A redesigned line of Minitel terminals, which will  accommodate the faster service and new electronic banking services, is being readied for introduction in 1994 as well.
+Guiraudios estimated that the number of Minitel terminals installed will reach 8m to 9m within the next four to five years.
+In response to a request by the Ministry of Post & Telecommunications, Guiraudios said France Telecom has proposed some technical methods to restrict access to Minitel.
+Some family organisations have lobbied for ways to keep unattended children from accessing either pornographic message services — notorious Pages Roses — or services that send gifts based on a certain duration of connection.
+One method, he said, ‘would allow you to change the code of access such that the phone line is left open to local or regional calls but not to Teletel.’
+BANYAN, ARTISOFT AND NCR COME OUT TOP IN BUTLER BLOOR's REPORT ON THE NETWORKING MARKET
+Milton Keynes, UK-based research company Butler Bloor Ltd's latest tome on the computer industry looks at networking: peer-to-peer networking, server-based networking on personal computer and Unix systems and network management systems.
+In it, Artisoft Inc's LANtastic gets top marks in the the peer-to-peer category, followed closely by Sun Microsystems Inc's 10Net.
+Banyan Systems Inc Vines and Vines for Santa Cruz Operation Inc Unix are rated best products in the server categories.
+NCR Corp's StarGroup comes second to Vines for Santa Cruz Unix and is regarded as the ‘premier implementation of LAN Manager’ by Butler Bloor.
+The report acknowledges Digital Equipment Corp and Hewlett-Packard Co users are still more likely to opt for Pathworks and LAN Manager/X networking systems from their respective suppliers.
+In network management software, it positions NCR's StarSentry as a ‘clear leader’ over HP OpenView, although it praises OpenView for its superior security features, and SunNet Manager for its ‘excellent foundation which third parties have built on.’
+As far as personal computer local networking is concerned, ‘there is little to choose from between Microsoft Corp LAN Manager and Novell Inc NetWare, although NetWare has the edge in performance,’ the report concludes.
+Microsoft to dominate the desktop
+It sees the combination of AT&T software and NCR hardware being particularly successful, while in the battle between Microsoft and Novell it expects ‘Microsoft to dominate the desktop and possibly provide Novell with competition on the server.’
+The Butler Bloor missive identifies a number of key trends that will, in its opinion, result in a dramatic increase in networking activity across the board.
+Although data and voice transmission lines are moving gradually towards the 144Kbits per second Integrated Services Digital Networks specification, the report believes that ISDN has not been as successful as many pundits believed it would be.
+In fact ‘it has been short of traffic.’
+Meanwhile, it says, the emergence of Asynchronous Transfer Mode, asynchronous transfer mode local area network technology, has laid to rest any doubt about whether networks will be able to handle the kinds of traffic throughput expected in the future.
+Asynchronous Transfer Mode is a derivative of fast packet switching technology, offering speeds of up to the Gigabits per second range, supports voice, data, image and video, and can therefore implement ISDN.
+This is networking technology ‘running at CPU bus speeds,’ the report suggests.
+It quotes Gartner Group estimates that investment in Asynchronous Transfer Mode technology will top $50,000m within the next six years.
+Other ‘roads’ for the electronic traffic of the future include radio technology.
+Demand here is likely to be high, the report says, because the service will be able to satisfy the demands of portable computing.
+‘The problem is that the airwaves could become quickly saturated.’
+Satellite communications provide a way round this, and now Iridium Inc — a company founded recently by a consortium of companies including Motorola Inc — is to place a constellation of 66 satellites around the earth, costing $3,000m, for a commercial service that is expected to span the globe by 1998.
+However, even with the tens of millions of personal computers and workstations in use around the world, networking and network usage still hasn't taken off in a big way, the report says, because two things are needed: multi-tasking operating systems and the means to develop client-server applications.
+Soon, it argues, nearly every desktop system will be sold with a multi-tasking operating system — OS/2, Windows NT or Unix — on 32-bit hardware or better.
+Client-server applications are becoming a reality with performance problems being addressed by faster computers, faster local network speeds and improving software.
+The arrival of desktop operating systems and client-server computing has coincided with the emergence of graphical interfaces, and computers now more often handle bit-mapped, rather than character-based environments.
+With the advent of multimedia, the — for the most part— disparate information sectors, such as television, film, telephones, books, newspapers and records, will become increasingly integrated industries.
+Global networks will be used by computer users first, the report concludes, while the owners of the highways — both public telephone companies and independent carriers — which charge for traffic, ‘cannot fail to profit.’
+The 300 page report —‘Networking: Options & Comparisons’ evaluated 20 products, and it costs £420.
+SHARE & BOND ISSUES
+Analog Devices Inc issued $80m of seven-year 6.625% notes, noncallable for life, at 99.765 to yield 6.67%, via Goldman Sachs & Co as lead manager.
+MCI Communications Corp, Washington issued $240m of 7.75% debentures due March 15 2024 and callable after 10 years at $99.58% to yield 7.786 pct, via Merrill Lynch Capital Markets as the lead manager.
+Nynex Corp's New England Telephone & Telegraph Co issued $225m 6.25% notes due March 15 2003 and noncallable for life, via Morgan Stanley & Co Inc.
+Recognition Equipment Inc, Dallas filed a registration statement with the US Securities & Exchange Commission for a planned offering of 2m new shares to raise cash for debt repayment, working capital, product development and possible acquisitions, the issue to be underwritten by Bear Stearns & Co Inc.
+S3 Inc, Santa Clara, California graphical user interface accelerator products developer got its initial public offering of 2m shares, all new, away at $15 per share — $2 better than its $11 to $13 target, and says it plans to use the $28m or so net proceeds for working capital.
+The managing underwriters were Lehman Brothers and Cowen & Co.
+SoftImage Inc, Montreal supplier of three-dimensional animation visualisation software for broadcast, film production and other high-end animation applications, filed with the Securities & Exchange Commission for an offering in the US of 1.22m shares, 850,000 of them new, via Hambrecht & Quist Inc and Volpe, Welty & Co as managing underwriters.
+SHL Systemhouse Inc, Ottawa, Ontario raised the equivalent of $31m with a placing of 4.5m new shares at $Can9 each to finance new capital assets related to the delivery of long-term contracts, and to increase working capital related to expanded business volume, via Warburg, Pincus Investors LP.
+COMMODORE AND PRUDENTIAL INSURANCE AGREE IN PRINCIPLE
+Commodore International Ltd has agreement in principle with Prudential Insurance Co of America to issue $16m in new senior notes to redeem an equal amount of subordinated notes held by Prudential.
+The agreement, subject to negotiation of final terms and conditions, provides that $8m, which was due on March 1, will be due for repayment on December 31 1993, and the other $8m on March 1, 1994; Commodore and Prudential also agreed in principle to extend a March 1 $5m senior note repayment to December 31, and the company said it paid as scheduled the remaining $12.5m senior note maturities due to Prudential and to another of its lenders.
+SPINNAKER RAISE FINANCES FROM PHEMUS
+Spinnaker Software Corp, Cambridge, Massachusetts raised $14m in additional financing from Phemus Corp, an affiliate of Harvard Management Co, Boston, and a principle stockholder, with the issue of a one-year secured promissory note, convertible into shares of Spinnaker common at $1 per share.
+The company also granted Phemus warrants to buy 350,000 shares of common stock at $1 a share.
+DELRINA COMPLETE PRIVATE PLACING
+Delrina Technology Inc, Toronto developer of communications and facsimile packages for Windows has completed a previously-announced private placing to raise $12.5m with the issue of 1.75m special warrants at C$7.125 a warrant, each of which entitles the holder to receive one common share of the company without further payment.
+Proceeds will be used for development and acquisition of technology and for working capital.
+The private placing was handled for Delrina by First Marathon Securities Ltd, Marleau, Lemire Securities Inc, and Richardson Greenshields of Canada Ltd.
+CREDIT RATINGS
+DSC Communications Corp, Dallas has just raised $110m in convertible subordinated debentures which have received a B-minus rating from Standard & Poor's Corp, which revised the company's ratings outlook to positive from stable, noting DSC's improving cash flows, which have led to improved debt to equity rations.
+But it also highlighted DSC's moderate profitability, limited financial flexibility and the presence of significant competition.
+Its ratings could go up if DSC remains profitable and generates cash for the next several quarters.
+IBM Corp's fall from grace, which led to Standard & Poor's Corp downgrading its senior ratings to double-A-minus from triple-A, has not affected the triple-A asset-backed certificate ratings of IBM 1990, 1991 and 1992 Tax-Exempt Grantor Trusts, the rating agency said after reviewing the situation.
+The review focused on the legal nature of the transfer of the lease pools from IBM to the grantor trusts and the insulation of the trusts from a potential IBM bankruptcy, it said.
+The pool performance has so far been good and consistent with a triple-A rating, Standard & Poor's said.
+COMPANY RESULTS
+Alpnet Inc has turned in fourth quarter net profits down 11% at $73,000, on turnover that fell 7.7% at $4.8m; net losses for the year to December 31 stood at $613,000, after $261,000 restructuring charges, against profits of $378,000 last time, on turnover that fell 14.7% to $19.7m.
+Net earnings per share remained at $0.01 in the quarter.
+Compucom Systems Inc has reported fourth quarter net profits up 87.5% at $3m, on turnover up 13.9% at $205m; net profit for the year to December 31 was up 44% at $7.2m, on turnover that rose 34.8% to $713m.
+Net earnings per share rose 100% to $0.05 in the quarter, 43.8% to $0.23 in the year.
+Consilium Inc saw first quarter net losses of $1.7m up from losses of $790,000 last time, on sales down 3.1% to $6m.
+Comparisons with restated figures.
+Lattice Semiconductor Inc has turned in third quarter net profits up 66.6% at $4.6m, on turnover up 55.9% at $27.3m; net profit for the nine months was up 54.5% at $12.1m, on turnover that rose 36.9% to $72.1m.
+Net earnings per share rose 60.9% to $0.37 in the quarter, and 50% to $0.99 in the nine months.
+The 1992 figures were reported at 13 and 39 weeks and the 1993 figures at 14 and 40 weeks.
+Symbol Technologies Inc saw fourth quarter net losses of $23.8m, after $34.9m restructuring charges, against profits of $5.9m last time, on sales down 1.5% at $82.6m; net losses for the year to December 31 were $16.3m, after $40.9m restructuring charges and $744,000 gains from the cumulative effect of an accounting change, against profits of $22.8m last time, on turnover up 8% to $344.9m.
+Video Display Corp has turned in third quarter net losses of $330,000, after $820,000 one-time charge related to securities, against profits of $487,000 last time, on sales up 16.2% at $15.6m; net profit for the nine months was down 38.6% at $900,000, on turnover that rose 17.6% at $46.9m.
+Net earnings per share fell 38.9% to $0.22 in the nine months.
+The 1992 figures were revised by the company.
+Xilinx Inc saw third quarter net up 22% at $7m, on turnover up 43.3% at $46.2m; net profit for the nine months was up 8.5% at $19.2m, on turnover that rose 27.3% to $127.8m.
+Net earnings per share rose 25% to $0.30 in the quarter, 9.5% to $0.81 in the nine months.
+The 1991 figures were reported at 13 and 39 weeks, the 1992 figures at 13 and 40 weeks.
+INTEL AND VLSI PROGRESSING QUIETLY
+Things may have gone a bit quiet on Intel Corp's joint venture with VLSI Technology Inc to develop chips that include iAPX-86 cores for use in handheld devices, but Intel says that the effort is quietly progressing and that early next year it expects to see manufacturers offering small, lightweight hand-held computers based on the new chips; Intel is currently preparing fully functional samples of the chips for shipment to manufacturers in the second half.
+PROFIT DECLINE FOR JAPANESE COMPUTER MANUFACTURERS
+The major Japanese computer manufacturers expect to report sharp declines in profits for fiscal 1993, Associated Press reports from Tokyo: five companies — Hitachi Ltd, Toshiba Corp, Mitsubishi Electric Co, NEC Corp and Fujitsu Ltd are expected to report a combined 72% decline in profits, according to the Nippon Keizai Shimbun, the second consecutive drop in yearly earnings among the five firms, which collectively saw a 59% drop last year from the prior year; NEC has revised its expected loss upwards to $370m from $77m forecast in November, Hitachi expects earnings to fall 33% to $733m, Fujitsu forecast its first loss at $8.6m, and Mitsubishi Electric expects a 30% fall in profit to $336m; Sony Corp, NEC and Hitachi are considering raising export prices to compensate for a 6.5% appreciation of the yen against the dollar in the past month, which has begun to erode Japanese exporters' profits.
+SUNSOFT WHIM
+Gossips say SunSoft Inc would like to buy Santa Cruz Operation Inc.
+IBM TO SETTLE WITH US GOVERNMENT
+IBM Corp has agreed to pay the US government $14.8m to settle that potential False Claims Act civil suit after IBM admitted to providing reconditioned or remanufactured computer equipment to the US government between 1980 and 1990, contrary to contract provisions — under the contract, IBM was required to notify the government prior to delivery of anything other than new equipment, and the investigation revealed that IBM delivered approximately 15,000 reconditioned or remanufactured machines to the government; IBM voluntarily owned up that it might not have fulfilled its obligations under the contract after conducting an internal audit.
+NEC TO CUT 1M-BIT MEMORY PRODUCTION
+NEC Corp is to cut production of 1M-bit memory chips to free up space for more 4Ms, and will fill the low-end gap by importing more 1Ms from Boise, Idaho-based Micron Technology Inc.
+WHY IBM WAS READY TO GIVE UP MAPICS
+So that's why IBM Corp was ready to get rid of MAPICS, one of its very few ostensibly successful software applications: Marcam Corp signalled in a conference call on Thursday night that analysts for now should not expect the product line from IBM to add to Marcam's earnings in fiscal 1994; it indicated that both this year and for the time being next year their guidance is no positive impact on earnings from the MAPICS acquisition,’ Hambrecht & Quist analyst Robert Herwick says.
+TURKISH GOVERNMENT YET TO LEARN PRIVATISATION
+There is a trick in making privatisations a success, something that the UK government has had to learn the hard way, and it seems that the Turks have yet to learn it: Reuter reports from Istanbul that the public offer of 20% of the shares in Netas Northern Electric Telekomunikasyon AS was undersubscribed, suggesting that the reason was that the maximum for which any one buyer could subscribe was 5,000 shares, costing the equivalent of $4,450, which is thought to have put off institutional and foreign buyers.
+ALCATEL WOULD BE INTERESTED IN FRANCE TELECOM STAKE
+In an interview last week on the French radio station France Inter's RadioCom program, Alcatel Alsthom NV president Pierre Suard indicated he did not rule out taking a stake in France Telecom if the latter is privatised by the next administration: ‘I don't think the question has been posed today, but when it is, I can tell you that we will study it very seriously,’ Suard said —‘It is essential that France Telecom has a structure that enables it to extend itself beyond France and I think that can come from a new shareholder; there is industrial logic in the ‘world's number one manufacturer of telecommunications equipment’owning a stake in a telecommunications operator,’he added —‘It is the Anglo-Saxon logic; AT&T is constructed on that basis, but up to now, it has not been European logic,’he said.
+SEMICONDUCTOR EQUIPMENT AND MATERIALS INTERNATIONAL GET $500K  THROUGH FUND-MATCHING AGREEMENT
+US Commerce Secretary Ron Brown presented a $500,000 grant to Semiconductor Equipment and Materials International as part of a three-year matching-funds agreement to create market opportunities for the US semiconductor industry in the Commonwealth of Independent States by establishing a Microelectronics Technology Centre to aid training and technology interchange between the US semiconductor industry, its suppliers, and the former Soviets.
+FRENCH GOVERNMENT PAY FIRST INSTALLMENT OF SGS-THOMSON R&D AID
+The French minister of industry, Dominique Strauss-Kahn, Thursday announced that the French government has paid SGS-Thomson Microelectronics NV the first part of the $466m in research and development aid it agreed to pay over five years — the Italian government is supposed to pay the same amount over the same period: ‘I have signed with SGS-Thomson a contract for a multi-year development effort in France; the sums for 1993, $83m from both sides, have been paid,’ he said; a spokeswoman for SGS-Thomson in Paris said she had not yet been able to confirm Strauss-Kahn's assertion; the separate recapitalisation, which Brussels recently approved, is still conditional on a firm decision being taken on the Italian side, and would be effected in three payments — $227m split evenly between the two partners and an identical payment three months later; the third payment of $455m is set to be made in 1995.
+SYMANTEC OF THE OPINION THAT NO CRIME WAS COMMITTED
+A Grand Jury in California handed up indictments against two officers of Symantec Corp alleging that they stole trade secrets from Borland International Inc after a six-month investigation by the district attorney's office of Santa Cruz County, California into the allegations that a Borland officer brought confidential company material with him when he left Borland to join Symantec; Symantec says that last it hired an independent law firm to look into the charges, and it was given the opinion that there was no crime committed and that none of the items constitute trade secrets.
+MOTOROLA SEMICONDUCTOR CHIEF MOVES TO EUROPE
+Motorola Inc's semiconductor chief James Norling is moving to Europe to head up Motorola Europe, Middle East and Africa, succeeding David Bartram, who is retiring June 30 after 32 years: Thomas George, executive vice-president and assistant general manager of the Semiconductor Products group, will take over Norling's post on April 1.
+CREATIVE TECHNOLOGY COMPLETES E-MU SYSTEMS ACQUISITION
+Singapore-headquartered Creative Technology Ltd has completed its previously announced acquisition of E-mu Systems Inc for about $29.5m after E-mu holders voted on March 1 to approve the agreement.
+SYQUEST SWEETENS PILL
+Fremont, California-based SyQuest Technology Inc is sweetening the pill of its profit shortfall by deciding to buy back up to 1m of its 11.4m common shares out from time to time on the open market.
+AL GORE: THE MAN WITH THE KNOW-HOW?
+According to President Clinton, quoted in the Wall Street Journal, Vice-President Al Gore is ‘the only person to hold national office in America who knows what the gestalt of a Gigabit is’: the only person in any other post for that matter.

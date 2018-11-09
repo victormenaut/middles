@@ -1,0 +1,283 @@
+
+
+UNIVEL SETS OCTOBER 12TH FOR UNIXWARE ROLLOUT
+Univel, the Novell/USL joint venture, has picked the date and place to launch UnixWare, its much anticipated version of SVR4.2, USL's Destiny product.
+With the high profile its Novell parent has at NetWorld, the start-up has picked Monday October 12 in Dallas to make its splash.
+NetWorld is in town October 13 through October 15 and it's seen as the perfect opportunity to gather together Novell's new OEMs and distributors, a subset of Novell's Platinum and Gold resellers, for the hoopla.
+UnixWare, an integration of Destiny and Novell's NetWare that includes some 3.4 million lines of code, is expected to enter its final shakedown phase by the middle of September when it goes into user beta at about 700 or 800 sites.
+First customer deliveries should begin no later than the middle of November, according to Univel's marketing VP Arun Taneja.
+Initially all the screens and the documentation will be in English.
+The first completely European editions, in German, French, Italian and Spanish, will be published by January.
+A Japanese version will follow by May or June.
+Univel has recently signed some 25 distributors around the world to handle UnixWare (UX No 398) by simply piggybacking on to Novell's base and expanding on their existing Novell contracts.
+Univel expects to see $20m to $30m out of this crowd in the first year.
+X/OPEN SETS XPG4 LAUNCH FOR EARLY IN OCTOBER
+With the VSX4 test suite already announced and starting to ship, X/Open Co is preparing to go public on XPG4 itself, and has set early October as the time when it will spill the beans.
+XPG4 — originally set to come out last May, but delayed due to‘complex documentation’(UX No 385) is the next-generation of X/Open's Portability Guide, and builds on the long-established XPG3, which first saw the light of day back in September 1988 (UX No 197).
+Therefore many of the components have already been released.
+XPG4 specs are now complete, and, says X/Open's Alan Davies, will cover a greater scope than their predecessor.
+XPG now has 532 branded components — languages, tools, libraries and the like — and there are Base and Plus branding levels for  conforment systems.
+With XPG4, as part of its sworn intent to become more user-oriented, X/Open will be assembling various specific user packages and profiles made up of combinations of the existing and new XPG components.
+And, it promises to tell ‘a much wider tale than just XPG4’ at around about the same time.
+NCR CORP'S TOP-END PORTS DUE OUT — HP 9000 THE FIRST OF FOUR
+NCR Corp first began talking about its Top-End transaction processing monitor at the beginning of 1991 (UX No 317), just before it was taken over by AT&T.
+That acquisition could have scuppered the whole effort, given AT&T's long-standing efforts to establish its own Tuxedo as the de-facto standard for Unix TP.
+But NCR persisted, and has now ported the system beyond its own Intel-based 3000 Series hardware onto four more platforms.
+The first, Hewlett-Packard's 9000 Series, is due out next month, but the others — Sun Sparcservers, IBM RS/6000s and Pyramid Technology Corp MIServers — won't be ready until the first quarter of next year.
+The company doing the implementations is Independence Technologies Inc of Fremont, California (UX No 384).
+Top End, which supports X/Open's Distributed Transaction Processing model and XA Resource Manager interface, has been up on NCR 3000s since May of 1991, and is now in use at multiple sites.
+On the HP 9000, Top End costs from $4,000 to $18,000 depending on the size of the server.
+The remote client portion costs from $1,000 to $4,000.
+FED-EX SIGNS GIANT X ORDER
+Federal Express Corp is to install ‘several thousand’ colour and monochrome X-terminals in its Memphis, Tennessee headquarters and local field offices by the mid-1990s, and has placed an order for the pilot stage of its upgrade programme with Network Computing Devices Inc.
+The deal could be worth up to $15m.
+Fed-Ex chose X-terminals ‘because of their price/performance and ease of management.
+Fed-Ex, described by NCD as ‘one of the largest users of transaction processing systems in the world’, employs some 90,000 staff and has revenues of $7.55 billion.
+SUNSOFT, NEXT STRUGGLE WITH INTEL PORTS
+Sunsoft Inc has admitted that a fully binary shrink-wrapped version of Solaris 2.0 on Intel won't be out until the first quarter of 1993.
+According to Sunsoft, it attributes this delay — it originally promised developers kits by the middle of this year and end-user versions by year-end — to a number of factors.
+The acquisition of Interactive Systems Corp put back its plans ‘because of the sheer administrative problems of incorporating Interactive and its technology into Sunsoft.’
+After the takeover was completed, Sunsoft then imported Interactive engineers to help with the Solaris development.
+However, it has also unexpectedly had to rewrite code for the vast numbers of device drivers and peripherals supported in the Intel iAPX-86 family of microprocessors.
+Calling this effort a ‘challenge’, Sunsoft claims the trouble it ran into was deciding which device drivers and peripherals to support, ‘Intel has done its best to standardise on device drivers and peripherals, but the dilemma lies in which ones to choose.’
+Sunsoft admits that it has to do a lot more work modifying Solaris 2.0 for Intel than it thought.
+Hungry OEMs — of the likes of Dell Computer Corp, CompuAdd Corp, AST Research Inc, and Toshiba Corp — can expect first developers kits in October, Sunsoft claims.
+However, the feeling among these slightly disillusioned vendors is that Sun has damaged itself by making promises it couldn't live up to.
+But Sunsoft is not alone in its problems: Next Computer has had to delay the Intel version of its NextStep environment for pretty much the same reason.
+It is now said to have completed the main porting work and is now wading through the device driver work.
+And given that devices change as new models are introduced, there will then be a daunting support job to be done just to keep up with the market.
+COMPUTER ASSOCIATES SIGNS DEAL WITH NOVELL FOR CA-UNICENTER
+Following its decision to move into the Unix arena, Islandia, New York-based, Computer Associates Inc, has signed an agreement with Novell Inc to port CA-Unicenter, its systems management software, and its vast collection of mainframe applications to the NetWare network computing environment.
+Catching on to the coat tails of the downsizing rush just in time, CA said that it was surprised by the demands from its users for it to develop migratory and Unix-based applications — a far cry it admits from its traditional stronghold in the mainframe market.
+CA European marketing manager, Mike Maunder, says ‘we were inundated with demands on a worldwide basis to respond to the downsizing issue, and now we're doing just that.’
+CA-Unicenter co-developed with Hewlett-Packard Co and launched more than 18 months ago, operates under OSF's Motif graphical user interface on HP 9000 Unix systems,(UX No 390).
+It is currently in beta test and is scheduled for general release on HP-UX systems in the first quarter of 1993, CA says.
+For Novell, CA engineers are having to re-write parts of the application which directly integrate at the operating system level, but optimistically predicts a general release for NetWare by the second quarter of next year.
+It will provide a single point of control over Novell networks, enabling users to maintain integrated system management security across host systems and the NetWare network computing environments, CA claims.
+The company also plans to release CA-Unicenter versions for OS/2, IBM's RS/6000 and other Unix platforms.
+It already has versions for IBM's MVS and DEC's VAX/VMS.
+LOTUS STARTS WORK ON NEW 1–2-3 FOR DEC'S ALPHA…
+Lotus Development Corp says it has started development on the next generation Unix version of Lotus 1–2-3 for DEC's Alpha workstations.
+According to Lotus, it will be a ‘highly object-oriented’ implementation, which will include greater networking capabilities — allowing users to contribute data to a single spreadsheet across local and wide area networks — as well as functions to make the changing of macro-languages easier.
+The development will also feature aspects from Improv — Lotus' object-oriented spreadsheet designed for NeXT Inc's NeXT workstations — which will, Lotus claims, add increased perspective to data analysis on screen, including financial data modelling capabilities and the ability to pass data as pure objects across different applications.
+In the meantime, Improv has been ported to Microsoft Corp's Windows 3.1, slated for release by the end of the year.
+It is not clear even to Lotus when the new 1–2-3 version for Alpha will be rolled-out.
+Lotus marketing manager, Neil Hudspeth, says, ‘considering there isn't a fully operating Alpha system out there yet, the next generation of 1–2-3 is still a twinkle in the eye.’
+For existing 1–2-3 users, version 2.0 is to be released by the end of the year, and will include Chronicle, a networking technique which allow more than one user to contribute to the formation of a spreadsheet via Lotus Notes or cc:mail.
+…
+COMMITS TO PORT LOTUS NOTES TO SCO's OPEN DESKTOP
+Jamming the wires with announcements, Lotus has also committed itself to supply Lotus Notes for SCO's Open Desktop, in a move, it says, to break out of the personal computer market.
+Hailed as the first ‘work groupware’ application, Notes has unfortunately not targeted the sales it was expected to since its launch in 1989, and its alliance with SCO was described by the company as ‘a timely decision’.
+Lotus Notes features include a document database (a non-relational database), a document library, the ability to store, move and forward mail, and the capability to connect news wires.
+Lotus Notes for SCO ODT 2.0 is scheduled for release by year end.
+IXOS SIGNS UP UNIPRESS IN US TO PEDDLE iXBUILD
+The German Unix house, iXos Software GmbH based in Grassbrunn near Munich, has signed up Unipress Software Inc, Edison, New Jersey, to distribute its database query tool, iXview/SQL and a new application development tool called iXBuild. iXBuild, operating under OSF's Motif graphical user interface, allows programmers to create applications for technical and scientific markets — the toolkit can if required operate in a WYSWIG mode.
+Available now, IXBuild is priced at $4,500.
+The company, which has pretty much limited itself to the German market so far, is also looking to peddle its suite of software products across the border, in France, and is currently courting French distributors.
+IXview/SQL and iXBuild both operate in French and English.
+iXos was founded back in 1988 (UX No 179) by Eberhard Farber (founder of PCS Cadmus) and Hans Strach-Zimmerman (ex head of Unix development at Siemens AG) to develop Benutzerfreundlich — user friendly — applications.
+NT SHOWS UP ON MULTI-PROCESSORS, DESPITE PROBLEMS OVER HARDWARE DIFFERENCES
+At the downsizing Expo in San Franscico last week, Sequent Computer Corp demonstrated a symmetric multi-processing version of Windows NT running on a 16 processor 50MHz Intel Corp-based 808486 Symmetry 2000 machine.
+The debut of a SMP version of NT was, Sequent admits, partly an effort by Microsoft to allay reports that Windows NT would be severely limited in symmetrical multi-processing environments, and would need to be heavily re-architected (UX No 398).
+Symmetric multi-processing firms — such as Corollary Inc, Sequent Computer Corp, AST Research Inc, NCR Corp and Compaq Corp — who have signed up for Microsoft's NT technology do not deny that as it stands, SMP NT does need to be adapted and tweaked to run on their respective systems.
+Sequent, for instance, has had to develop support for the VMEbus and streamline its memory functions, as well as modifying device drivers, to get NT running.
+The same is true of the other hardware manufacturers, with varying degrees of modification.
+Sequent says, it is currently working with Microsoft to extend NT to work with up to 32 processors.
+Top-end SMP suppliers such as Sequent and NCR — which are trying to high-tail it down to the low-end — will be more prone to experiencing such hiccups than those coming from below, like Compaq's SystemPro and AST's Manhattan.
+George White of Irvine, California-based Corollary says ‘the Symmetry 2000 machines are not PC-like enough to integrate NT simply, unlike the others which have been built up from PC architecture.’
+Although the aim of Microsoft is to bring out a more standardised SMP version of NT, there is a general  consensus among SMP NT implementors that a HaL — hardware abstraction layer — architecture will have to integrated into NT to limit the amount of adaptation that hardware systems vendors are currently having to endure.
+Corollary is currently developing such a layer (UX No 389)— which has now reached 5,000 lines of code — in co-operation with Microsoft, for its shrinkwrapped version of SMP NT.
+Most SMP vendors believe an efficient and scalable SMP version of Windows NT won't be around until the second or third release, which are reportedly scheduled to be rolled-out mid 1993.
+PEERLOGIC HELPS OSF BREAK THE 350 MEMBERSHIP BARRIER
+Membership of the Open Software Foundation has now risen to 350, the organisation said last week.
+That figure includes 150 university and research organisations, and 90 large commercial and government end-users, as well as‘most of the major international hardware and software suppliers’.
+The end-user roster includes the likes of Alcatel, Atlantic Richfield (ARCO), Barclay's Bank, Boeing, British Petroleum, CitiCorp, DuPont, Exxon, Georgia Pacific, Mobil, J.P.
+Morgan, Liberty Mutual Life Insurance, Lotus, Martin Marrietta, Merrill Lynch, Nippon Telephone and Telegraph (NTT), Reuters, Schlumberger, Sharp, Sony, Sprint, TRW, Unilever Ltd, and the Union Bank of Switzerland.
+New among industry companies are Boole and Babbage, GTE and Novell Inc.
+Newest of all is San Francisco-based Peerlogic, which develops and markets PIPES Platform for distributed computing.
+PeerLogic, an IBM business partner, says its technology allows programs to communicate efficiently over heterogeneous networks.
+REDUCED OVERHEADS SPEED UP DESTINY, SAYS INTEL
+Intel has run some SPEC system benchmarks of SVR4.2 on a 50MHz 486dx, probably the first of their kind anywhere, and come up with some interesting results.
+They used the System Development and Multitasking (SDM) suite which is meant to reflect operating system efficiency together with I/O, MPU, memory and cache.
+They found that with a 60 (user) concurrent workload Destiny on the Intel chip was 28% faster than a DEC 5900 and performed 87% as well as an RS/6000 970 running AIX.
+With a workload of 20 concurrent users, the system performed 88% as well as an HP 9000 Series 700 Model 750.
+Intel says the data indicates reduced overheads and streamlined I/O compared to SVR4.2.
+INTEL STILL TIGHTLIPPED ABOUT THE P5
+You wouldn't exactly describe Intel as forthcoming about the P5 at the Hot Chips Conference at Stanford University the week before last.
+As a matter of fact, Stanford's John Hennessey reportedly threatened to revoke the presenter's PhD if he didn't go on.
+As it was, the first few minutes of the talk was written by Intel's legal department cautioning that patent applications covered the material about to be discussed.
+Under a virtual gag order thanks to Intel marketing, P5 architect Don Alpert couldn't answer questions substantively.
+A single insight fetched a sarcastic round of applause.
+Little of interest emerged more than some obscure work-arounds forced on Intel by the x86 architecture and the fact that the chip's data cache is uniquely dual ported allowing two accesses in the same cycle.
+Michael Slater of The Microprocessor Report believes the P5 will be slower than the R4000a when both appear in the first calendar quarter.
+The R4000a should give 30% to 50% better performance than its predecessor, he said.
+Someone who says he's ‘held one in his hand’, thinks that Intel has done a good job hyping up the industry over the P5 without having much chance of delivering its promises for some time to come.
+Our source claims the current iteration is not running at 66MHz, as widely flagged (UX No 394) but 40MHz — or 30MHz if you want the floating point.
+And, he says, although the chip was last week coming into the hands of major OEMS last week it was a case of ‘here's your P5 — singular’.
+‘It's a classic vs-0.5  yield problem — they can't deliver’, said our source, who has a bet on that no P5 systems will begin shipping before mid Summer next year.
+IS ‘RISC DOOMED’ OR NOT?
+Those fresh back from vacation will be greeted by the news, complements of The Microprocessor Report, that ‘RISC is doomed.’
+In a rip-and-tear piece, the newsletter dismisses as canards all the fondly held notions about RISC and makes an item-by-item case that RISC as faster, cheaper and easier to design is all illusion.
+To cap its argument, it trots out the litany of RISC marketing escapades to conclude that ‘RISC has utterly failed.’
+‘MIPS and Sparc begat Power, which begat Alpha which will beget something new…none will dominate the open-systems market long enough for the critical mass of software needed for long-term success to develop…the future of RISC microprocessors in the open systems market is dead…
+RISC has so far managed to penetrate less than 2% of the market…
+Film reviewers have a simple rule for sizing up new movies: ‘If nothing happens in the first ten minutes,’ they say, ‘nothing's going to happen.’
+It's the same with computers.
+If an architecture fails to take over the mainstream computer market in its first ten years, it's not likely ever to do so.
+And an ideology with no future is doomed.’
+The article sent the leading RISC analyst Andrew Allison to his keyboard where he promptly made hash of its arguments.
+He notes in passing that RISC has completely taken over the workstation and midrange server markets, is closing in on mainframes and minisupercomputers and is in process of displacing the second-ranking CISC chip, Motorola's 68k from the high-end embedded market and appears to have a good shot at the emerging personal digital appliance market.
+The Microprocessor Report, by the way, is now a possession of Ziff-Davis.
+EUROPEAN VENDORS LAUNCH ‘88OPEN-LIKE’ TRANSPUTER STANDARDS BODY
+In Europe, a number of Transputer-based businesses and research institutes have clubbed together and launched a Transputer special interest group, to formulate a Binary Compatibility Standard for Inmos International Ltd's T9000 Transputer.
+Mirroring its effort on 88open, which standardised a binary interface for Motorola Inc's 88000 architecture, the group's initiating partners include Associated Computer Experts bv, Amsterdam, Netherlands, Parsytec GmbH, Aachen, Germany, GMD Berlin, Germany, and the University of Munchen, Germany.
+Still in its embryonic stages, the group is currently courting other Transputer-based businesses such as Chorus Systemes SA.
+However, Chorus' role in the BCS programme is unofficially guaranteed, with the group proposing to develop a binary interface to the company's MIX microkernel operating system.
+The defined core of the binary interface will also conform to X/Open's XPG3 and Posix standards, the group says.
+However, the initial research and development of the specification will be developed in the respective partners organisations, until funding and the structure of the organisation have been established.
+The push by the group to formulate a BCS standard architecture for hardware and software vendors is, it says, a move to make Transputer technology a’ more professional option to users and developers.’
+Up until now, it says, ‘the Transputer has led a relatively quiet and unpublicised life in the multiple instruction and multiple data market, developing complex data analysis applications and systems for things such as fluid dynamics, number crunching and dynamic load-balancing, without any form of standardised architecture.
+We hope to bring some unity to the industry.’
+The first working draft of the specification is scheduled to be released by the end of the year.
+COMPAQ TO LAUNCH LINE OF HIGH-END SERVERS
+Compaq Computer Corp will continue its high-end server push this autumn when it unveils a new line of upgradable 80486-based multi-processing systems, PC Week reports.
+At the same time it will create a new entry point for its server line with a family of low-cost 80486-based machines designed for file server applications.
+Machines in the multiprocessing line will use a new Compaq architecture called TriFlex that includes error-correcting memory and a 64-bit bus that links the server's CPUs, a 128-bit bus for high-speed memory access and an EISA bus for input-output.
+A TriFlex controller uses high-speed buffers to manage data flow between the buses.
+The systems will initially include two CPUs and be capable of handling about 150 transactions per second, the paper said.
+SUN SIGNS UP MORE PRE-PRESS VENDORS
+Sun Microsystems is beginning to make a splash in the pre-press business.
+Last week, six pre-press software and systems vendors lined up to endorse the Sparc/Solaris platform: they include Crosfield Electronics Ltd, Digital Technology International, DuPont/Camex, ECRM, Linotype-Hell and System Integrators Inc.
+Their products will be used for output and production flow management, display ad make-up, spot and process colour imaging, raster image processing and database management.
+Sun now has around 30 pre-press companies in its catalogue, and newspapers using Sun equipment include The Wall Street Journal, The London Evening Standard, and, of course, Unigram.X — though admittedly our pre-press activity for the newsletter is somewhat limited.
+HP REVENUES FLAT, DESPITE MULTI-USER UNIX, X-TERMINAL GROWTH
+Hewlett-Packard Co shares plunged a week or so back after a warning that its fiscal third quarter earnings to July 31 would be flat, and the news that it posted a net of $191m or 76 cents a share, compared with $192m or 76 cents a share last year, suggests that times have become exceedingly hard in the Unix market this summer, and that Sun Microsystems' weak fiscal fourth quarter (UX No 397) may not have been solely down to product line transitions.
+HP reported some strong growth areas, including printers and medical equipment, and said that multi-user Unix systems and X-terminals saw strong order growth.
+Workstations grew, but more slowly than than in recent quarters.
+The dip was due to a shift to products with lower margins and ongoing price pressures, said the company.
+MENTOR GRAPHICS TO STOP SELLING WORKSTATIONS BY NEXT YEAR
+Wilsonville, Oregon-base Mentor Graphics Inc, once a high-flyer in the CAD world, has just posted second quarter losses of $6.9m.
+Mentor, on of Apollo Computer Inc's biggest single customer (UX No 132) is to stop selling workstations altogether by 1993 and concentrate on its software, also speeding up the pace of ASIC library development.
+A few hundred jobs are to go.
+The drop in earnings was due to an extreme economic slowdown in Japan, a slow transition from hardware and low demand for new tools since users are dragging their feet over the transition from software Version 7.0 to Version 8.0.
+Only about 10% of the installed base has moved to Version 8.0 or 8.1, with another 30% in the process of migration.
+The company hopes that everyone will move on to Version 8.
+X since the majority of Mentor's revenue is derived from its installed base of around 30,000.
+FIRST SUNWORLD EXPO TOKYO OPENS THIS WEEK WITH 165 EXHIBITORS
+International Data Group's WorldExpo Corp is to sponsor the first SunWorld Expo in Japan this week at the huge Makuhari Convention Center outside Tokyo.
+The exposition will feature exhibits by 165 companies, and a concurrent conference with a keynote address by Scott McNealy of Sun, presentations by Bill Coleman, vice-president system software and James Bill Maier, director product marketing of SunSoft, Kaivalya Dixit of the System Performance Evaluation Council and just a few Japanese speakers including Takashi Kato of the Ministry of International Trade & Industry's Agency of Industry and Technology.
+IDG expects an attendance of 35,000, and Unigram Japan will be exhibiting.
+SUN, STILL TOP OF THE WORKSTATION TREE IN JAPAN, SAYS DATAQUEST
+Sun Microsystems Inc remains the top workstation vendor in Japan, according to a new Dataquest report, having led in that market since 1987.
+Dataquest Japan's Analysis for the Information Systems Industry declares that Sun Microsystems remained the market leader in Japan during 1991, with 29,800 units shipped and $483m in revenues, up 26% and 22% respectively on the 1990 figures.
+Sun accounted for approximately 25% of the Japanese market in terms of both units and value of shipments for 1991.
+The report names Sun, Hewlett-Packard Co and NEC Corp as the three market leaders, together accounting for 47% of units sold and 52% of workstations by value in 1991.
+The Dataquest numbers demonstrate that between 1986 and 1991, Sun had an 81% compounded annual growth rate in the Japanese workstation market.
+The sustained growth in this market was a primary factor in the Pacific Rim's 22% contribution to overall Sun revenues last year, the Mountain View, California Sparcsystems builder declares.
+SONY DROPS SUPPORT FOR DTP VENTURE
+Sony Corp has withdrawn its support of a joint venture desk-top publishing business company, Newscaster, which it formed with printing and publishing company Koei Group in 1988.
+Both Sony and the Koei Group gave various reasons for the split, Sony that its mission of developing the desk-top publishing market on workstations had been accomplished, while the Koei Group indicated that Sony's NEWS was too narrow a system for the jointly developed software, which will now be converted for other workstations and personal computers, including Sun Microsystems Inc Sparcsystems and Apple Computer Inc's Macintosh.
+Sony initially targeted its workstations, planned to be in the forefront of the Unix workstation business in Japan, at the desk-top publishing market, pioneering the office workstation business while Sun and Hewlett-Packard Co concentrated on the engineering field.
+Sony's efforts, lead by Dr Toshitada Doi, had some effect but Sony, once third in the market after Sun and Hewlett, has lately lost its position to NEC Corp with its EWS 4800 workstations.
+Like Sony's later models, these are based on the MIPS Technologies R3000 and R4000 series RISC microprocessors.
+NEC and Sony are said to be ready to formalise an alliance following their initial agreement in May to share application software catalogues.
+The efforts that Sony has put in for the NEWS outside Japan would give NEC a flying start in the US and Europe should it decide to enter the international workstation market.
+Sony has also announced a version of Novell Inc's NetWare for Unix v3.11, formerly Portable NetWare, on its NEWS workstations.
+The NEWS workstations running NetWare for NEWS will be offered as servers for personal computers.
+Sony did its own Japanese translation and implementation of NetWare.
+It already has AppleTalk on NEWS, and expects demand to grow for workstations that can handle multiple operating systems.
+CANON WILL MARKET ORACLE, MULLS APPLICATIONS
+Canotech, a sales subsidiary of Canon Inc, has teamed with Oracle Japan Ltd to become a distributor of Oracle.
+Canotech will sell Oracle combined with ‘open hardware’, and will in future consider developing applications based on Oracle, particularly for client-server environments which include Macintosh.
+The company expects to sell 50 copies of Oracle in the last quarter of the financial year to March.
+Meantime Canon Sales has begun marketing DAL Server for Unix from Pacer Software Inc, which enables Macintosh applications to access Unix databases.
+It is $5,200 for 16 users in English; a Japanese version will follow in October.
+BULL FOLLOWS CRAY TO MODCOMP FOR REAL/IX REALTIME UNIX
+Things are starting to happen in the niche market for real-time operating systems running under Unix.
+According to Computerwoche, the recent decision by supercomputer manufacturer, Eagan, Minnesota-based Cray Research Inc to start using Fort Lauderdale, Florida-based Modular Computer Systems Inc's real-time operating system, Real-IX, has been followed by a similar move from Groupe Bull SA.
+Unix workstations, series DPX 2000, DPX/2 and the proprietary DPS/7 have been targeted in particular.
+ModComp, an AEG AG subsidiary, claims that it is possible to re-use some of the routines of previous real-time applications by recompiling and modifying them.
+Capacity is said to increase by about 35%.
+The growing interest of hardware manufacturers in real-time functionality was demonstrated only a short while ago with the Overture Esprit project, which has dedicated itself to developing a real-time operating system for both the production industry and telecommunications services.
+LSI LOGIC TAKES $100m HIT: 450 GERMAN, US JOBS GO
+LSI Logic Corp is transferring most of its semiconductor fabrication to Japan, where it is building a new 0.6 micron wafer fabrication facility in a joint venture with Kawasaki Steel Co, and will cut a total of 450 jobs.
+The biggest cut comes in Germany where its packaging plant in Braunschweig is to close at a cost of 275 jobs, and the decision highlights the growing structural problem in the German economy: growing numbers of German and international companies now find that the high cost of employment makes it too expensive to manufacture there.
+LSI Logic will still do development and pilot production in the US, but is cutting 175 jobs there as well.
+The cost of all this will be a restructuring charge between $95m and $110m to be taken against the third quarter figures, leading to a loss for the period of over $100m or $2.00 per share.
+As well as phasing out the assembly and test operations in Germany, the company is writing down manufacturing assets and other items.
+The aim is to cut manufacturing and operating costs by $10m a quarter and return to profit in the fourth quarter.
+The Headland Technology unit, which manufactures personal computer building block chip sets and has been suffering badly of late, will be reabsorbed into the parent company.
+SNI ADOPTS SOFTLAB'S MAESTRO II
+Siemens Nixdorf Informationssysteme AG has reached agreement to adopt the Maestro II applications development environment for use with systems running under its Sinix implementation of Unix, Reuter reports from Munich: it signed with the Softlab GmbH fur Systementwicklung und EDV-Anwendungen subsidiary of Bayerische Motoren Werke AG for a development and marketing agreement on its Maestro product, and also agreed the establishment of a joint centre for international marketing of Maestro II and of Siemens' Grapes graphics technology.
+IBM, SIEMENS AND QUINTIS LAUNCH PROLOG VENDORS GROUP
+A group of 17 international Prolog suppliers, including IBM, Siemens Nixdorf and Quintus, have formed a strategic collaborative alliance called the Prolog Vendors Group (PVG) to demonstrate that the language has grown beyond the domain of AI research and become an effective tool in commercial and industrial applications.
+The alliance will apparently tout Prolog, popular with the European Esprit programme and the Japanese Fifth Generation project, as superior to C. The group is working to establish common guidelines for cross-platform development including user interfaces, object-oriented extensions and database interfaces.
+Calling Prolog, ‘the applications development language of the future,’ the initiative stresses its memory management facility and its compiler technology which makes it possible to dynamically generate classes at run-time without having defined them explicitly.
+That feature makes it possible to develop an object-oriented program that has learning capabilities.
+The program can learn about new classes and the relationships that exist between classes and can modify itself at run-time.
+The alliance believes Prolog is particularly effective in standalone applications generators, interfaces to other languages, database products and object-oriented constraint-based programming.
+PVG is looking for like-minded parties.
+Anyone interested should contract Al Roth at +44 253 58081 or alroth@cix:compulink.co.uk.ac
+RAINBOW ROLLS OUT UNIX DONGLE
+Irvine, California-based Rainbow Technologies, the leader in its market niche, has introduced a Unix dongle, the MicroSentinelUX, for developers to control distribution and use of their Unix software programs without  interfering with the application.
+The device, based on an 8-bit Motorola microprocessor, will reportedly work on any computer.
+It's equipped with 32 bytes of non-volatile read/write memory for programming purposes.
+It can be field upgraded.
+Rainbow says it can serve as an alternative to Sun's internal host ID.
+Rainbow acquired the piece in July when it bought Microphar SA in Paris and its US distributor ProTech Marketing which marketed a version of the dongle as its Micro Memory Key.
+It says the MicroSentinel is a substantial upgrade.
+Evaluation kits go for $75.
+THE PICK LEGEND CONTINUES WITH RELEASE V.2, PLANS FOR NT
+Pick Systems, of Irvine, California, has released the latest version of Advanced Pick.
+Version V.5 is for Intel-based systems running SCO Unix or MS/DOS, and it will also run standalone in native mode.
+IBM RS/6000 and Data General AViiON versions will also be available.
+The new version is said to be faster and more portable than previous implementations.
+Pick also announced its intentions to implement Advanced Pick directly onto Windows NT and OS/2, and intends to complete on SQL, a Novell port, and hooks to graphical user interfaces over the next 12 to 18 months.
+An introductory offer prices a single user version of the new release at $199, or $150 for upgrades.
+Pick modestly describes its multi-user business applications development system as ‘legendary’.
+MINIGRAMS
+Univel Inc has filled the slot left vacant by its Novell legacy vice president product group, Grover Righter, when he skipped out to join SCO: It's hired Chris Torkildson, Pyramid's old VP of software development as its vice president development, based in San Jose, California.
+Univel Inc isn't expecting to have a multi-processor version of UnixWare ready for another 18 months.
+SunPro, the technology development division of Sun Microsystems Inc, is this week expected to announce software technology directions that will boost the power of its Sparc RISC microprocessor.
+Alongside Scott McNealy, at the ‘Meeting of the minds’ press conference in California, on 1 September, will be Sun's  lasest hotshot recruit Dr Boris Babaian — the inventor of the 10GFlop Elbrus supercomputer developed for the Soviet space programme — who is  renowned for his wizardry with software architecture.
+With Wang in Chapter 11, Sun has now ascended to the Standard & Poor's 500.
+Hewlett-Packard Co, which hasn't said yet if it's using NT, has Microsoft helping it support HP's 4mm digital audio tape (DAT) drives for backup and archiving: Microsoft Corp will make it an icon on the NT screen.
+Having studied the Novell Inc and IBM distribution models, it looks like Microsoft is starting to recruit VARs and system integrators for NT and will be beefing up their skills.
+Texas Instruments has added the 33MHz 68040-based 1508 to its 1500 family priced $1,988 per TPS.
+A single processor supports 64 users; an optional second processor goes to 128 active users, twice what the line could previously handle.
+Availability starts in September with list prices beginning at $18,000.
+PeerLogic, creators of the Pipes platform for distributed computing, has joined the Open Software Foundation hoping to play a role in DCE and DME.
+Microsoft Corp is reportedly prepared to spend $5m at Comdex touting NT.
+Santa Clara, California-based Rational Inc has released Insight, a reverse engineering and browsing tool for Ada developers — prices start at $3,000.
+The Unix-to-IBM SNA connectivity house, Ann Arbor, Michigan-based Cleo Communications, has signed for San Francisco, California-based Firesign Computer Co's remote login technology.
+Two-mid range RS/6000s are expected from IBM sometime next month, as well as a new version of the AIX operating system for the PS/2: IBM has said that it plans to bring its various Unix flavours closer together, and is expected to add some — though not all — of the features found in its flagship AIX for the RS/6000 to the somewhat neglected PS/2 version.
+Ingres Corp will support 4Gb binary large objects (BLOBS) as an extension to the kernel of Version 6.5 of its relational database management system, due to go into beta test next year: the move seems aimed at forestalling customers thinking of moving to object databases, or to other RDBMS that already support BLOBs, such as Informix, Interbase and Oracle Version 7 — BLOBS however, are seen as little more than a token gesture towards true object databases.
+Japan Computer Corp says it will start marketing three R3000a-based X terminals on the first of September, and expects to sell 9,000 units in the first 12 months of sales: The top-of-the-line Global XC20 includes a 20-inch colour screen, the XC17 a 17-inch colour screen and the low-end XG a 17-inch gray-scale monitor.
+They support X11.5 and reportedly reach a 80,000 X stone-a-second drawing speed.
+Sun Microsystems is claiming a 54% share of all the workstations installed within the US federal government.
+The MIT-originated Sparcle CPU project described at Hot Chips (UX No 395) proved to be an old LSI single-execution 40MHz Sparc CPU simplified for fine-grain multi-processing in a highly parallel MIT system called Alewife.
+Enhanced communications features implement a parallel-processing technique called block multithreading speed performance.
+It is not expected to be commercialised.
+Mt Xinu Inc, the Berkeley, California-based backwards Unix house, has released an OSF/Motif interface called MUI for its MACH386 operating system.
+Electronic Buyers' News claims Sun has recently been ‘selectively marketing’ the Sparc90 (UX No 395), an embedded Sparc design it built in tandem with Sun spin-off Harvest VLSI Design Center Inc and described at Hot Chips: The 13 MIPS design incorporates CPU and floating point on the same IC.
+First silicon could be available by the end of the year.
+SunSoft last week released what it considers its first applications package, a search and retrieval system called SearchIt based on Fulcrum's Ful/Text engine with a Sun-added front-end plus NFS and client/server capabilities.
+This is the first end-user application of the Fulcrum code.
+SunSoft is selling it for $295 single-user.
+Currently it runs on Solaris 1.0 and will be upgrade to 2.0 at the end of the year.
+It will reportedly become part of Project DOE.
+The new republic of Hungary has become the first eastern European government to commit to open systems and will use X/Open's XPG brand in procurement.
+It is also joining the X/Open User Council.
+Sun has lost the head of its internal Viking project.
+Microsoft Corp is now saying openly that Windows NT will support only ‘the major’ Windows 3.1 applications, apparently leaving thousands of other Windows applications out in the cold, is seen as a crucial boost for IBM's OS/2.
+Microsoft's Jack Fogg claimed it would be more accurate to say that Windows NT is ‘a better Unix than Unix’ than ‘a better Windows than Windows’, which is probably good news for Unix as well.
+A high-end, on-line transaction processing version of Texas Instruments Inc's Information Enginering Facility CASE package (which comes from its JMA Information Engineering Ltd subsidiary), is to be developed on Sequent Computer Systems Inc's Symmetry 2000 system.
+SunExpress has slashed its US price list to entice the smaller buyers into the Sun fold, it says.
+TopLog International has not yet put pen to paper with Univel Inc to support Unixware, as reported last week (Ux No 399).
+Convex Computer Corp has sold two Convex C3400 supercomputers to Mercedes-Benz AG, Germany.
+The two systems will be used by research teams of the Passenger Car Development Division for design and analysis of new cars.
+Today's issue is perhaps a landmark of sorts, the 400th issue of Unigram.X to roll off the presses (or to scroll up your screen for electronic subscribers).
+The first issue hit the streets on Monday October 29th 1984.
+The lead story concerned DEC's then-unnannounced MicroVax-2 workstation, then causing (it turns out rather  unnecessarily ) sleepless nights for the likes of Sun Microsystems and Apollo Computer.
+Here's to the 800th issue, due out on Monday 17th of July in the year 2000.
+Order your copy now.

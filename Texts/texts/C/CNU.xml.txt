@@ -1,0 +1,252 @@
+
+
+CONGRUENT HAS THE TOOLS TO ENABLE MICROSFT NT TO SUPPORT X TERMINALS
+Congruent Corp, a small band of tecchies operating from the heart of Manhattan, has come out with technology that will enable Microsoft Corp's Windows NT operating system to support X Window applications running on X terminals and workstations.
+The system will enable developers of Unix applications to do versions will run under NT and still host X Window applications.
+Organisations that want to standardise on Windows NT will be able to continue to take advantage of the features and economy of X terminals.
+The offering consists of conversion tools that enable X applications now hosted under Unix to migrate them to NT — Congruent is developing NT implementations of the programming libraries and the X sample applications, including Xterm, enhanced to take advantage of advanced features of NT.
+DEC ADOPTS ENCORE's TECHNOLOGY FOR CLUSTERING AXPs UNDER OSF/1
+Digital Equipment Corp and Encore Computer Corp have advanced their Alpha RISC-centred collaboration, and DEC says it will incorporate and distribute the Fort Lauderdale company's high-speed Memory Channel, which directly links the memory subsystems of multiple node processors, and Infinity File System, which enables processors to view data stored on the disks of all the CPUs in a cluster as if it were part of a single database.
+The products will be offered by DEC on its Alpha AXP systems — initially the DEC 7000 and 10000 AXP systems running OSF/1.
+Oracle Corp will offer the Oracle7 Parallel Server for clustered environments.
+XL/DATACOMP READY TO SHIP ITS NEARLINE LIBRARY SYSTEM FOR AS/400
+Storage Technology Corp's Hinsdale, Illinois-based XL/Datacomp Inc will next quarter ship its Nearline Library System for IBM Corp AS/400 users.
+It comprises Nearline DMS Data Management Software, ACS 9708 Automated Cartridge System and LCU 9701 Library Control Unit.
+The Nearline DMS AS/400 application manages the moving of data between an automated cartridge system and the CPU.
+The ACS 9708, for all 9406 models and 9404 models D, E and F, provides two individually addressable 8mm helical scan tape drives and a robotic autoloader with 54-slot removable carousel for a total carousel capacity of 270Gb of uncompressed data.
+A fully configured system is from $65,825.
+CRAY HAS $72m PARALLEL SOFTWARE PACT SNATCHED AWAY
+A very disappointed Cray Research Inc has been told by the US Department of Energy that the $72m joint venture on developing software for the forthcoming T3D massively parallel processor, agreed by the outgoing Bush administration late last year (CI No 2,041), is not going ahead after all.
+The agreement was cancelled because it should have been put out to competitive bidding.
+SAMSUNG, WITH FIRST PA-RISC STATION, COMMITS TO NT
+Committing to offer Microsoft Corp's NT on Precision Architecture RISC by 1995, Samsung Electronics Co has launched its first workstation built around the RISC, which it makes under licence from Hewlett-Packard Co — six months later than originally planned.
+Samsung Electronics licensed the workstation CPU, system technologies and HP-UX operating system and developed the SWS715 workstation in co-operation with Hewlett-Packard.
+Samsung manufactures the workstations at a new plant in South Korea.
+From its US base in San Jose, the Samsung Workstation Division says the SWS715 is based on the 50MHz PA-7100 superscalar processor which includes on-chip floating-point co-processor and delivers 69 SPECmarks (89) and has true integer performance of 36 SPECint (92) and floating-point performance of 72 SPECfp (92).
+There is also a 33MHz version.
+Fully compatible with the HP 9000 Series 700s, it runs the SS-UX operating system, which adds input-output features to HP-UX.
+It is claimed to draw 920,000 two- or three-dimensional vectors per second, and comes with one EISA slot, and rather than tread on its partner's toes, Samsung hopes to build complementary markets in imaging and scientific visualisation, going entirely through indirect channels.
+Samsung is recruiting non-Hewlett-Packard partners, offering unbundled configurations to enable resellers to configure their own systems by adding third-party peripherals.
+Prices start at $4,000 for a 33MHz entry-level configuration with 8Mb memory and no disk or monitor.
+A standard configuration of the 50MHz model with 19″ colour monitor, 16Mb RAM and a 525Mb disk is $14,000.
+On the chip side, Samsung says it is developing and will fabricate its own Precision Architecture RISC microprocessor that will combine high speed memory technology with the CPU logic on one chip.
+TATUNG EXTENDS ITS SPARC-BASED COMPSERVER FAMILY
+Tatung Science & Technology Inc, San Jose builder of Sparcsystems, has added two new product lines, the Super Compserver 10 Series and the micro Compstation.
+The Super Compserver 10 is a low-cost desktop server based on the Texas Instruments Inc's SuperSparc chip and is compatible with Sun Microsystems Computer Corp's Sparcstation 10.
+Priced from $16,000 for a system with 32Mb and a 1Gb disk, it can be configured with up to 10 storage devices including six 3.5″ disks, three 5.25″ SCSI II drives; and one floppy drive.
+The Model 10/30 ships in May, the others later this year.
+The baby has one 36MHz chip, two 64-bit MBus slots and four SBus slots expandable to nine with optional SBus expansion chassis.
+Built-in ISDN is standard, as is a single-slot graphics accelerator and CD-quality 16-bit audio.
+It is offered with either Solaris 1.1 or 2.1.
+Standard software includes the Open Windows Version 3 windowing system and Tatung's Mdesk package, which consists of Motif 1.1.4, X Window System 11.5 and X.desktop 3.0.
+The MicroSparc Series currently comprises the micro Compstation LC and micro Compstation LX, each with the new 50MHz Texas microSparc, starting at $3,790.
+The micro Compstation LX is from $4,690 with Solaris 1.1 bundled.
+Entry-level models offer 16Mb expandable to 128Mb; a 207Mb disk expandable to 2Gb, and 1.44Mb floppy; ISDN and 16-bit audio are options via a single-slot SBus board.
+The micro Compstation LC has CG3 Super VGA graphics board and 14″ 1,024 by 768 colour display; the LX, for graphics-intensive work, has a GX accelerator board and 15″ 1,152 by 900 colour display.
+CORPORATE SOFTWARE CLAIMS A BIG ADVANCE IN THE MANAGEMENT OF CORPORATE SOFTWARE
+Software reseller Corporate Software Inc has launched its Advance series of software management services worldwide — these are intended to reduce the costs of buying, installing and using both licensed and custom personal computer software.
+The Boston-based company has operations in the US, Canada, France, Germany and the Benelux countries as well as a wholly-owned £36m-a-year turnover subsidiary in the UK, International Software Ltd.
+Managing director of International Software, Richard North, says that, while the Brentford, Middlesex company generates 70% of its revenues from reselling software and providing support services to approximately 4,500 customers — or what he claims to be 20% of the UK corporate market — it earns the remaining 30% from negotiating favourable licence deals with software vendors on behalf of large organisations.
+Maze
+The group aims to provide customers with a path through the maze of vastly differing vendors' licence agreements, and hopes to sell Advance on the back of this activity.
+The services are targeted at customers with 1,000 personal computers or more, multinational companies, or companies with a lot of branches, and are intended to provide such organisations with a better return on their investment by attacking the hidden costs of installation, support, and implementation of an ever-increasing number of upgrades.
+According to market researchers the Gartner Group, it costs a company an astonishing £19,500 or so to run a single personal computer over a five-year period.
+Some 56% of this goes on software, 12% on support, 14% on administrative tasks, such as upgrades, and the remaining 18% on operating the machine.
+North estimates, for example, that if a company has 2,000 personal computers and it takes an average of one and a half hours per year to upgrade software on each of them, then company-wide, this activity takes a total 3,000 hours.
+If each employee works an average of 1,100 hours every year, taking sick leave and holidays into consideration, it will take three employees, costing some £100,000 between them, to perform this task alone.
+But he reckons that a company using Advance would save 25% on buying and implementing a shrink-wrapped product itself.
+It is very difficult to quantify the hidden costs of owning and operating a personal computer, but when you have thousands of the things, it is important to know.
+Corporate Software Inc has developed an approach to the problem designed to minimise the cost.
+Catherine Everett has been hearing about it.
+Under the scheme, International Software purchases software for a particular company, negotiates and manages licence agreements with software vendors, then maintains, distributes, and installs the programs as required.
+Advance comprises five distinct components and a firm has the option either to mix and match certain elements or to use it as a complete package, thereby effectively outsourcing all of its software functions.
+The first service is licence management.
+Here, International Software negotiates contracts with software vendors and ensures that customers get a good price.
+It also keeps track of who is using what within a client organisation, checks that no unauthorised copies are in circulation, updates inventories, and writes reports for software audits.
+The second is maintenance — the group organises further deals with vendors to ensure that customers receive upgrades, updates and patches.
+According to North, the company ‘sits as a buffer’ between both parties.
+It's aim is to simplify vendors' programmes, so that a customer has to pay only one bill.
+Another ‘pressing problem’ is implementing upgrades at speed, especially, North says, because the ‘feature war’has meant that most software versions now have a life of nine months at most.
+The third is specialised distribution — this service is aimed at users of internally developed or customised software, and deals with logistical problems, such as getting hold of user manuals, disk duplication, specialised billing, and packaging.
+Long-term answer
+The fourth is electronic distribution — North considers this to be the long-term answer for supplying customers with software.
+International Software approves software requests from end-users on behalf of a client organisation, schedules and distributes it electronically to specified locations, and then tracks its use.
+The last is licence compliance — the company provides a baseline inventory of all software being used within an organisation.
+The inventory is compared with purchase records, and International Software ensures that the client company is not and will not infringe copyright regulations.
+North reckons that Advance provides customers with several benefits: it offers cost savings, ensuring that software is standardised and properly managed.
+It reduces a firm's legal  liability , ensures a faster deployment of new technology, and provides a better service to end-users.
+Unfortunately, however, he could give no indication of an average contract value, saying that it depended on an individual company's cost structure, and on how many services it required.
+GROUP OF 11 COMMITS TO SUPPORTING AT&T-HEWLETT 100BASE-VG PROPOSAL FOR 100Mbps ETHERNET
+A group of 11 companies has committed to developing products conforming to the joint AT&T Co-Hewlett-Packard Co proposal for 100Mbps Ethernet, despite the fact that the IEEE has yet to decide whether to adopt it as a standard.
+The group comprises Banyan Systems Inc, Bytex Corp, Kalpana Inc, Microsoft Corp, Optical Data Systems Inc, Novell Inc, Proteon Inc, Ungermann-Bass Inc, and Wellfleet Communications Corp, as well as the proposers AT&T Microelectronics and Hewlett-Packard.
+To back up the credibility of the technology, the companies also demonstrated it in operation at the InterOp show in Washington.
+The companies have decided that while the IEEE makes its decision on which proposal to adopt, they should press ahead with a technology they believe is feasible and that users want.
+Since the group covers the range of network technologies (it includes hub, adaptor, router, switching, silicon and network operating system software companies) it feels that it has the breadth to give the 100Base-VG proposal credibility, regardless of whether it eventually forms the basis of an IEEE standard.
+Indeed, the companies say that should the IEEE opt for one of the other proposals, for example that of Grand Junction Networks Inc, they will develop products for this technology alongside those for 100Base-VG.
+The move seems to be an attempt to push the IEEE in the direction of 100Base-VG, by demonstrating its high level of industry support.
+This view is backed up by the fact that Novell and Banyan (for whom 100Base-VG support is just a matter of writing new drivers) are on board.
+But is industry pressure enough to sway the IEEE?
+According to Mark Raymond, senior analyst at consultancy DataPro, ‘The action will clearly strengthen the chances of it becoming the industry standard, but it is not certain that it will influence the IEEE’.
+Indeed, he points out that traditionally the IEEE has not been swayed by big name support if it feels another technology is more meritorious.
+C-CUBE COMPRESSION CHIPS FOR DIGITAL TELEVISION
+Thomson Consumer Electronics Inc has chosen Milpitas, California-based C-Cube Microsystems Inc to supply the very-large-scale integrated circuits for the RCA Digital Satellite System that will receive the first high-power direct broadcast satellite television service in the US beginning next year.
+Compression Labs Inc, San Jose was picked last year to develop and make the encoding system for the direct broadcast satellite system.
+The system will enable viewers across the US to receive over 100 channels of entertainment and informational programming from Hughes Communications Inc's DirecTv subsidiary.
+The C-Cube chips implement the Motion Picture Experts Group algorithm for compression and decompression of digital video data.
+DEC TO INCORPORATE ASYNCHRONOUS TRANSFER MODE INTO GIGASWITCH
+Digital Equipment Corp is to incorporate an Asynchronous Transfer Mode interface into its FDDI-based GIGAswitch.
+The plan is officially under wraps until the product's launch next month, but what is known is that the GIGAswitch will have a switching capacity of 3.6Gbps, 6.25m dynamic connections per second and full duplex Fibre Distributed Data Interchange transmission at 200Mbps.
+It can connect up to 22 FDDI networks, according to the company.
+The product will initially be available for FDDI only, but according to Mike Patricks, DEC's wide area networking marketing manager, the switch is capable of accepting an Asynchronous Transfer Mode module, and its multi-switching capability means that it will not be limited to one device.
+Patricks denied that Asynchronous Transfer Mode support was a change of heart for DEC, which has up to now focussed on FDDI but, he said, ‘it might be a change of public statement’.
+He promised further Asynchronous Transfer Mode products when the standard is finalised.
+THE DEATH OF THE MAINFRAME IS GREATLY EXAGGERATED IF WALKER INTERNATIONAL's EXPERIENCE IS ANY GUIDE
+The rest of the world may be doom-mongering about the mainframe and its impending extinction, but not Walker International, the Aylesbury-based subsidiary of San Francisco-based IBM mainframe accounting software company Walker Interactive Systems Inc.
+Walker International saw its turnover rise 40% to £7.4m during 1992 and its pre-tax profits double to £2.6m.
+Confidence is such that Walker is looking to expand its operations from the US, Canada and UK to the South East and Western Europe to — with announcements to this effect expected in the summer.
+On the evidence of his company's performance, chief executive Steve Allen reckons that there is plenty of  mileage left yet in the mainframe market.
+He is even daring enough to suggest that there could well be a mainframe revival in the next 18 months — depending on vendors' willingness to slash prices and beef up the competition within the market.
+Those that have invested heavily in mainframes, according to Allen, cannot afford to write that investment off.
+Furthermore, it is wrong to consider that new concepts such as open systems, client-server or object technology will necessarily ‘provide the flexibility, integration and freedom that modern businesses demand…
+There are as many constraints and ‘lock-ins’ with systems calling  themselves ‘open’as there are with their proprietary predecessors.’
+That said, Walker is not going to ignore the new trends.
+Its next swathe of releases in July will be version 16.5 upgrades of its existing range of mainframe software: Management Budgeting and Accounting; Credit and Accounts Receivable Management; Accounts Payable Management; Purchase Order Management; Inventory Management; Asset Management.
+But these are to be followed by RS/6000 with Oracle and HP 9000 with Sybase versions by the end of year, with Informix and Windows NT versions to follow in 1994.
+The aim, as stated in the company's annual report is to support multiple servers; Windows, Presentation Manager, Motif and Open Look graphical user interfaces; the C and SQL development languages; SNA and TCP/IP protocols; and OS/2, Unix and MVS operating systems.
+Its not a case of backing all the horses to ensure you win, Allen insists, but a reflection of the heterogeneous nature of corporate computing needs.
+The reality is that mainframes are more likely to co-exist with other systems than be eradicated altogether.
+PEKING BRASS SQUABBLES OVER WHETHER SECOND NATIONAL NETWORK SHOULD BE BUILT
+A consortium of China's government ministries is pushing for the establishment of a second national telecommunications network, according to the South China Morning Post.
+With China already set to become the biggest telecommunications market in the world, a new network could signal an unprecedented bout of order opportunities for foreign companies.
+China's existing network is already aiming to more than treble in size to 1m lines this year, but this still represents only about five or six phones per 100 people.
+It seems that there is a schism in the ruling party over the plan.
+The Railway, Energy, and Machine Building and Electronics Ministries are quoted as the driving force behind it, but the paper says that the Ministry of Aerospace, the People's Liberation Army, and the China International Trust & Investment Corp (which owns 25% of an AsiaSat satellite transponder) are also involved.
+Not surprisingly, the Ministry of Posts & Telecommunications, which operates a monopoly service in China, opposes to the plan, calling it ‘unrealistic’.
+Of particular concern, says the Ministry, is how the two networks could be interconnected.
+The South China Morning Post says that despite its opposition, the Ministry is drawing up contingency plans should the second network goes ahead.
+Under this plan, the 38 regional telephone companies that currently report to the Ministry would pulled into a new corporation, together with the Directorship General of Telecommunications.
+The new corporate body would have the power to set rates, decide on network design and development — and could refuse to interconnect with the second network.
+General control would be retained by the Ministry.
+Not surprisingly the advocates of a second network are said to prefer that the regional companies be given autonomy to decide which network to connect to.
+FRENCH USERS LOVE THE PHONE COMPANY
+In the sixth annual study ‘The Image of France Telecom,’ which is commissioned by the Ministry of Posts & Telecommunications, 94% of customers said the French state phone company functions ‘really well’(34%) or ‘rather well’(64%).
+The 60% that said ‘rather well’ was up 1% from 1991 and 5% from 1989, while the number that said ‘really well’was up 1% from 1991, but down 1% from 1989.
+Of the 2,108 persons interviewed, 89% said France Telecom is ‘close to the needs of the public,’ which represents an increase of 6 points since 1991 and 9 points since 1989.
+As for call tariffs, 60% of those interviewed said France Telecom's are ‘reasonable,’ compared with only 49% in 1991.
+Interviewees that considered tariffs ‘excessive’ comprised 37% of the total, compared with 47% in 1991.
+Overall, 69% of the respondents said they were ‘satisfied’ with the tariffs, while 22% said they were unhappy.
+Among France Telecom's most well-known products, Minitel came in first, as always, with a 96% recognition rate.
+Cellular phone service was cited by 87%.
+The percentage of respondents familiar with Call Forwarding and Call Waiting grew in 1992 over 1991; from 56% to 62% for the first and from 34% to 46% for the second.
+Minitel was judged ‘indispensable’ by 37% of survey respondents, up 9 points from 1991.
+It was followed in importance by the telecarte pre-paid phone card with 24% of respondents, up 5 points from 1991.
+CONCERNS GROW OVER PROSPECTS FOR PEACE DIVIDEND VICTIM BOLT BERANEK & NEWMAN
+Bolt Beranek & Newman Inc's plans to get out of its current financial hole have left Standard & Poor's Corp unmoved and seen the company's subordinated debt downgraded to a dire CCC+ with the outlook negative (CI No 2,111).
+At the beginning of last month, the Cambridge, Massachusetts company reported second quarter net losses of $25.1m, after $20.5m restructuring charges, against profits of $1m last time.
+Turnover was down 8% at $59.8m.
+The problems reflect a painful transition period for Bolt Beranek as its major market — the military military, on which it depended for almost half its revenue — is slipping away while it has yet to see much return from its substantial investment in Asynchronous Transfer Mode switching or its T/10 Integrated Access Device.
+In a letter to shareholders, chairman and chief executive Stephen Levy outlined how the company had responded — senior management positions have been consolidated, staff had been reduced by around 300 and the company is pinning its hopes on, among other things, its Emerald Asynchronous Transfer Mode switch.
+Standard & Poor's has misgivings about this particular plank of the strategy: the company is moving into markets with entrenched competition and  aggressive pricing, it says — perhaps a salutary warning all of those companies attracted by the bright light of Asynchronous Transfer Mode switching.
+Moreover, Emerald is late — originally the company said that it would be launched in the first quarter, but it is now expected sometime this summer.
+And nobody really knows yet just how big the Asynchronous Transfer Mode market will prove.
+Analysts say that as a result, the company's financial room for manoeuvre is becoming limited.
+They stress that there is no question of an immediate cash crisis: BBN is sitting on cash reserves of around $48m which should see it through comfortably for around 18 months.
+However if the company has not managed to turn the corner by then, it will be forced to tighten its belt further as money shortages begin to affect day-to-day business.
+The company says that its cutbacks should save around $20m a year, however Levy adds in his letter that even after the restructuring ‘BBN's network products activity will continue to cause operating losses for the company’.
+It has teamed up with Ungermann-Bass Inc to develop some of the interfaces to Emerald and says it is currently on the look-out for similar collaborations, which may take some of the financial strain from its development programmes.
+It insists however that the Emerald research and development effort has been left unscathed by the cutbacks.
+ERICSSON LOOKS FOR 30% TO 40% GROWTH IN UNIT SALES OF CELLULAR PHONES THIS YEAR
+L M Ericsson Telefon AB's Ericsson Corp says it sees cellular telephone unit sales growing 30% to 40% this year from the current 20m in use worldwide, half in the US.
+Ake Lundqvist, an Ericsson senior vice-president, told Reuters that he expects the greatest growth to be in Japan with an additional 1m units sold.
+He expects continued growth in the United States but did not elaborate.
+Lundqvist said the company has not decided what if any of the new battery technologies it will use for its cellular phones.
+He said the company was uncomfortable with Lithium batteries because of safety concerns.
+QUALITY SOFTWARE PRODUCTS EMPHASISES QUALITY AS IT DISCUSSES PATHFINDER PROSPECTUS FOR FULL LISTING
+Financial software house Quality Software Products Holdings Plc has taken the plunge and decided to go for a full listing on the UK stock exchange ‘to exploit the business opportunities’ presented by its newly-launched Universal OLAS product (CI No 2,116).
+The pathfinder prospectus was made available for public viewing on March 16, and the full prospectus will be released on March 24.
+Dealing will begin on March 30, with share placing undertaken by Hoare Govett Corporate Finance Ltd.
+The current market capitalisation of the Gateshead-based company is, according to marketing director John Parker, ‘in excess of £20m’.
+As of December 31 1992, shareholders comprised, among others, IBM Corp, which took an 11% stake in the company in 1990.
+The two companies also signed a joint marketing agreement, under which IBM promotes OLAS.
+Following the release of Universal OLAS in April 1993, the contract will be re-negotiated to allow both parties to pursue different specific sales opportunities in the UK.
+Parker anticipates that IBM will sell some shares back to employees, directors and management, which jointly hold a 53.6% stake.
+He also expects US venture capital group Advent, to sell its 6.4% holding in the firm.
+Advent originally took a 30% equity holding in 1985 to finance the company's need to buy an IBM mainframe, essential as, until the advent of Universal OLAS, Quality's offerings ran only on IBM mainframes.
+When in 1989, Advent decided it was time to pay back some of its investors, Quality called in investment group 3i Plc to fund further growth.
+3i subsequently took a 17.2% equity stake, as well as lending the company ready cash.
+Parker also expects 3i's stake to reduce slightly, but believes it will remain a major investor.
+Ex-employees, such as pensioners, hold the remaining 11.8% of shares.
+Buying new computers
+Quality will use the new money it raises in the share issue to develop what Parker sees as a massive market for its Universal On Line Accounting System, a modular, portable, single source, open systems version of its traditional OLAS product, designed to run a variety of servers, relational databases and graphical user interfaces.
+Although the City has recommended for the past year that Quality go public, the company has been waiting for the right moment.
+It now wants to fund expansion by issuing share capital rather than increasing its borrowings — the European Coal and Steel Community has also provided it with loans of £375,000, £500,000 and £930,000.
+The capital from the share issue will be used to strengthen the company's infrastructure — by buying new computers, for example, and taking on new staff.
+Over the past year, headcount has already risen by about 100 to 337.
+The cash will also help to reduce gearing from current levels of 70% to about ‘40%-ish’.
+In the past, Quality's sales have been concentrated among companies with £100m turnover or more.
+But Parker reckons that the new product will open up opportunities among firms with revenues of around £50m, not just mainframe users, but also mid-range users.
+However, he doesn't want to sell Universal OLAS just to new customers.
+He is also keen to interest existing clients, which have a mixture of mainframes and mid-range systems, but have to use software that doesn't run on both systems.
+Quality's main geographical markets are the UK and Australia, where it has two offices, one in Melbourne and one in Sydney.
+The group also sells into the Far East via the Australian operation, which currently generates approximately 10% of total turnover.
+Although Quality has no offices in Europe, it does generate some revenues from this region, using a ‘rifle-shot approach’— seminars, mailshots, recommendations from consultancies, and from selling to multinationals.
+Parker said the group intends to step up this activity until sales levels justify it setting up local operations.
+The major new potential market for growth, according to Parker, however, is the US.
+But Quality intends to take the softly-softly approach here.
+It isn't going to take any risks, Parker said, and has even taken on US software specialists to provide in-depth knowledge of the local market.
+The aim is to target small areas of the country initially, and then gradually expand operations, possibly by joint ventures, partnerships or by setting up offices there.
+And it reckons there is very little standing in its way — according to Parker, its four major competitors have nothing to rival the new product — Dun & Bradstreet Software Corp has incompatible products; SAP AG is strong in Germany and other continental countries but not in the UK; Walker Interactive Systems Inc offers purely mainframe software; and Computer Associates International Inc has a poor reputation for financial packages.
+For the year ending December 31, the company turned in pre-tax profits down 25.2% at £1.2m, on turnover that rose 18.1% to £13.1m.
+With a total customer base of 121, Quality generates 21% of total revenues from finance and banking, 15% from retail and distribution, 17% from the public sector and utilities, 13% from services and the remaining 34% from manufacturing.
+And while products make up 28% of turnover, the group also has a strong recurring revenue stream, and is keen to exploit it further — 28% of income comes from maintenance, 44% from services: consultancy, technical support and training.
+COMPANY RESULTS
+Alliant Techsystems Inc saw third quarter net losses of $90.5m against profits of $8m last time, after $118.6m restructuring charges and a $20.5m loss on discontinued operations this time, $80,000 gains from discontinued operations last time, on turnover up 3.2% at $237.5m; net loss for the nine months was $123m against profits of $28.4m last time, after $120.5m restructuring charges, $31.2m losses due to the cumulative effect of an accounting change and losses from discontinued of $37.8m operations this time, $5.7m last, on turnover that rose 2.9% to $708m.
+Comparisons are with 1991 figures restated to reflect discontinued operations.
+MTS Systems Corp has reported first quarter net profit up 110.5% at $1.7m, on turnover up 23.4% to $40m.
+Net earnings per share rose 117.6% to $0.37.
+Network General Corp has turned in third quarter net profit up 26.4% at $3.6m, on turnover up 40.6% at $24.1m; net profit for the nine months was up 36.4% at $7.5m, on turnover that rose 34.3% to $59.7m.
+Net earnings per share remained at $0.19 in the quarter, 14.3% to $0.40 in the nine months.
+Comparisons are made with restated 1991 figures.
+Italtel SpA has reported  consolidated net profit for 1992 up 0.4% at the equivalent of $80.2m on turnover that rose 7.7% at $1,790m; no per share figures given.
+Conversion at $0.000602 to the lire.
+JWP INC HAS HAD ENOUGH OF COMPUTERS
+JWP Inc, the Rye Brook, New York electrical and plumbing services conglomerate that bought struggling Businessland Inc and almost immediately regretted it, has decided that it has had enough of computers altogether and on Friday announced that it will sell its information services business; it has retained Lazard Freres & Co as its financial advisor to attempt to find a buyer; the unit now provides personal computer-related hardware, software and integrated services primarily to large corporate and institutional customers, has some 3,000 staff and had 1992 revenues of $1,700m.
+FRAME WILL STILL TAKE EQUITY HOLDING IN VERITY
+Frame Technology Corp, San Jose and Verity Inc, Mountain View, have called off their nuptials announced in January (CI No 2,087), but Frame will take a $2m equity holding in Verity, which develops knowledge-based document retrieval software.
+PEN MODEL POWERBOOKS THIS AUTUMN
+Apple Computer Inc will offer pen-enabled models of its PowerBook notebook computers this autumn, the San Francisco Chronicle hears.
+GUPTA LOOKS TO HIGHER EARNINGS THROUGH RAISED PRICES
+In what sounds like computer industry heresy, Gupta Corp, Menlo Park told Reuter that it is looking to higher prices for its more advanced software products to help it achieve sharply higher earnings in 1993: ‘Our prices are going up as the functionality and performance of our software increases along with the functionality and performance of personal computer networks,’ chief executive Umang Gupta said; the company will introduce two new versions of its SQLWindows 4.0 software later this month; the standard version at $2,000, a more advanced one at $3,500; he says its only prices going down were for communications routing software.
+INFORMIX EUROPEAN SOFTWARE CENTRE IN CONJUNCTION WITH IRISH DEVELOPMENT AGENCY
+Informix Software Inc is the latest software company to tread the rocky road to Dublin — it probably flew in, but the title of the old song is much more evocative — and respond to the government's initiative to ensure a ready supply of skilled software graduates: Informix has signed with Ireland's Industrial Development Authority to establish a European Software Centre in the city, which will take over all European software development, production and distribution; no word on how many jobs are to be created.
+ANOTHER RETIREMENT AT IBM
+The exodus continues and IBM Corp vice-president and president of the Industrial Sector Division Edward Kfoury retires effective May 31.
+UNIX V.4.2 NOW AVAILABLE ON SPARC AND R-SERIES PROCESSORS
+Unix System Laboratories Inc, Summit, New Jersey says that Unix System V.4.2 is now available for the Sparc and R-series microprocessors: the Sparc version was developed with the help of ICL Plc and Fujitsu Ltd, R-series with NEC Corp.
+FIGURES FOR THE  INDEPENDENT McDONNELL DOUGLAS INFORMATION SYSTEMS LIMITED
+Newly-independent McDonnell Douglas Information Systems Ltd, Hemel Hempstead says that in 1992, operating profits rose 23% to £19.4m on turnover that fell 8.8% to £159.7m.
+DEC EXTENDS MICRO FOCUS RELATIONSHIP
+Digital Equipment Corp extended its relationship with Micro Focus Plc to cover Cobol for OSF/1 on Alpha: DEC OSF/1 V1.2 is out this month, for NT on Alpha when it arrives.
+JOHN PILAT MOVES TO ORACLE AFTER 20 YEARS AT DATA GENERAL
+After 20 years at Data General Corp, where he was most recently director of Unix Development and acting director of the Database Engineering unit at the company's Research Triangle Park, North Carolina base, John Pilat has jumped ship to become vice-president of Redwood  Shres-based Oracle Corp's Hewlett-Packard Products Division.
+AXE CONTRACTS WORTH $30m TO ERICSSON IN FIRST QUARTER
+L M Ericsson Telefon AB says it signed a number of contracts during the first quarter of 1993 totalling $30m for AXE digital switching kit to extend the public telecommunications network in Liaoning Province, Peoples Republic of China.
+COMPAQ LOSES GENERAL MANAGER OF PC DIVISION
+Compaq Computer Corp has lost its senior vice-president and general manager of the Personal Computer Division, Douglas Johns: president and chief executive Eckhard Pfeiffer will assume the posts until a permanent replacement can be found.
+SONY TO SELL MINIATURE COLOUR LIQUID CRYSTAL DIODE DISPLAY TO OTHER MANUFACTURERS
+Sony Corp is to sell its 0.7″ diagonal miniature colour liquid crystal diode displays to other electronics manufacturers: although the displays are currently used in the viewfinders of camcorders, they are also appropriate for the eye-pieces of virtual reality systems.
+CELLULAR ONE STARTS EIGHT WEEK TRIAL IN CHICAGO
+Southwestern Bell Corp's mobile phone unit operating under the Cellular One umbrella says it is starting a 4,000-customer, eight-week trial of its digital cellular phone service in the Chicago area.
+ARCH COMMUNICATIONS ACQUIRES NEW HAMPSHIRE PAGING COMPANY
+Westborough, Massachusetts-based Arch Communications Group Inc has acquired a privately-owned paging company in New Hampshire for an undisclosed amount of cash, adding over 2,000 subscribers to its base.
+MICHAEL BORLINGHAUS INDICTED FOR TRADING ON INSIDE INFORMATION FROM IBM EXECUTIVE
+Federal US prosecutors say that a former partner at Frost & Sullivan has been indicted for allegedly trading on inside information stolen from the law firm of Skadden, Arps, Slate, Meagher & Flom: Michael Borlinghaus was indicted for allegedly receiving the non-public information from an IBM Corp executive and the allegation is that Borlinghaus, his friend and neighbour Leonard Bellezza, and others traded on the information; he faces a possible maximum prison term of 20 years and fines of more than $1m if he is convicted of the offence.
+FOUR SIGN DEVELOPMENT AGREEMENTS WITH QUALCOMM
+Goldstar Information & Communications Ltd, Hyundai Electronics Industries Co Ltd, Maxon Electronics Co Ltd and Samsung Electronics Co have each signed agreements with Qualcomm Inc, San Diego for joint development of cellular telephone subscriber and infrastructure equipment based on Code Division Multiple Access technology for Korea; the four will pay Qualcomm non-refundable preliminary fees totalling about $5m to be applied against part of their future licence fees.
+LETTER OF INTENT TO BUY EXPIRES
+Peoples Telephone Co Inc allowed its letter of intent to buy Pay-Tel of America Inc for $9.1m to expire.
+NINTENDO TO DISTRIBUTE GAMES VIA SATELLITE
+Nintendo Co does plan to use satellites for delivery of computer games: the company says it plans to broadcast a game via satellite in Japan, and owners of its game computers that buy a decoder and adaptor — for about $85 — will be able to pick the thing up; Nintendo also plans a national competition for high scorers in satellite games; meantime Nintendo of America is poised for its largest launch of a video game ever this week in a bid to best Sega Enterprises Ltd — it plans to spend up to $15m in a month-long promotion of Star Fox, a science fiction action game inspired by Star Trek and Star Wars that uses its new Super FX technology, which includes a RISC embedded in the $60 games cartridge; it claims to have 1m advance orders for it.
+TELECOM GOLD SERVICE?
+Our experience of MCI Communications Corp's MCI Mail service makes us feel that it has a quite impressively user friendly interface, whereas we find it difficult to believe that British Telecommunications Plc's Dialcom — or good ol' Telecom Gold — is really quite as user-hostile as it appears, so having hit a snag in MCI and keyed ‘help’ at the prompt, and got a couple of screens of useful information ending with two phone numbers and a further option to key at the prompt, we wondered what Gold came up with if you keyed ‘help’— here is the answer — Top-level directory not found or inaccessible.
+HELP*>help—index.HELP (help:189).

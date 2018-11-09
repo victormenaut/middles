@@ -1,0 +1,490 @@
+
+
+IBM INTRODUCES FOUR-CPU ‘PARALLEL’ RS/6OOO
+IBM Corp chose Supercomputing ‘92 in Minneapolis last week to announce a very moderately parallel model in the RS/6000 family, calling the thing the IBM Shared Memory System Power/4.
+It aggregates a grand total of four 42MHz Power RISCs in a floor-standing tower and is pitched at technical users with large or complex applications, including computational fluid dynamics, finite element analysis and structural dynamics.
+IBM claims that the Power/4 implements a unique parallel processing architecture, with memory bottlenecks reduced by the use of local memory for each processor in addition to shared system memory, eliminating the need for continuous updating of the cache for each processor unless the data is actually shared.
+IBM rates the Power/4 at a theoretical 336 MFLOPS peak.
+The machine has one local memory board slot per processor, taking 16Mb to 128Mb of memory each; seven slots for shared memory, which can be expanded to 896Mb; four disk bays for up to 5.2Gb of internal storage; four Micro Channel busses for a peak aggregate input-output speed of 320M-bytes per second; and 32 Micro Channel slots for external storage media and communications devices.
+It runs the AIX/6000 3.2 version of Unix with kernel extensions to support parallel processing.
+The system is being marketed on a per-request basis, with availability planned for December 1.
+No indication of price was given.
+Rather more impressive in the parallel stakes is an engineering model of the scalable parallel system in development at the company's Highly Parallel Supercomputing Systems Laboratory, a moderately parallel machine that will have eight to 64 RS/6000 processors scaling up to 6 GFLOPS peak performance.
+A 16-processor prototype was demonstrated.
+Details, page seven.
+SUN WON'T SHIP 40MHz SUPERSPARC MODELS THIS QUARTER
+Only rumours of Sun Microsystems Inc not delivering its 40MHz Viking-based Sparcstation 10 Model 41s were circulating around Wall Street last week until Goldman Sachs lowered the boom and cut its estimate from $2.00 to $1.80 on Wednesday November 18.
+The brokerage company contends that Sun won't be delivering the top-of-the-line machines in volume this quarter because of persistent problems with chip yield.
+It discounts the few 41s that might be around as non-production units.
+‘It's not a matter of Sun missing volume by a few days,’ it said, ‘but by weeks.’
+Goldman itself expects its relatively negative position to be short-lived.
+It rates Sun's orders for the machine as ‘outstanding,’ figuring that the 15,000-unit backlog estimated for September when Sun's quarter closed must have grown to 25,000 or 30,000 units by now.
+It also figures these orders will stick.
+While acknowledging that Sun has a ‘big PR problem,’ it thinks the few cranky customers threatening to jump to Hewlett-Packard Co don't represent a trend.
+The ‘safety’ of Sun, it said, made it the ‘default choice.’
+Meanwhile, there was speculation that Sun might be forced to make another move like it did with the surprise 33MHz Sparcstation 10 Model 20, or promise very cheap upgrades of the Model 30.
+Either move would impact margins.
+PRAXIS GOES TO TOUCHE ROSS
+Touche Ross & Co is to acquire UK software firm Praxis plc, in a deal which values the Bath, Avon-based company at around £6.51m.
+All of all of Touche Ross' UK software engineering activity, including a 30-strong development team hired from Manchester firm Mountsey a couple of years ago, will operate under the Praxis name.
+Touche Ross has been looking for an acquisition to accelerate the growth of its information technology business for some eighteen months.
+Praxis, a 165-person concern founded in 1983, sees the acquisition as a way of growing its business, which has been flat for the last few years.
+Praxis has three areas of business: critical systems (including its work on the UK Defence Research Agency's Architecture Neutral Distribution Format technology, and high reliability display information solutions), database application development for the oil, chemical and pharmaceutical industries and consultancy.
+…
+HAS RS/6000 ANDF INSTALLER
+Separately, Praxis revealed that it has completed the initial version of an Architecture Neutral Distribution Format (ANDF) installer for IBM Corp's RS/6000 platform.
+It has already developed an installer for the Sun Sparc RISC CPU (UX No 389).
+ANDF is based on UK Defence Research Agency technology and is conceived as a ground-breaking way of enabling software vendors to write, package and distribute one single version of an application to run unchanged on laptops, workstations, servers, mainframes, even supercomputers.
+Both the Open Software Foundation and Unix Systems Labs are DRA licencees.
+In a new development, Praxis has also been subcontracted by Intermetrics Inc to define the mappings from Ada9x languages to ANDF for DRA.
+It is hoped an Ada version of ANDF will allow government, defence and corporate procurers to exercise a much greater degree of control over their suppliers, by enabling them to separate hardware and software purchasing considerations.
+…
+AS UNIX LABS PLANS ANDF SOFTWARE VENDOR PROGRAMME
+Meanwhile, over in Summit, New Jersey, Unix System Labs says it is pleased with the DRA technology, though its ANDF effort is still at least a year away from release.
+USL is currently looking at the commercial requirements for productising ANDF in a future iteration of Unix SVR4, which is likely to include bundled installers.
+In anticipation of that release, an alpha-level independent software vendor programme will be up and running sometime next year, with technology that'll allow ISVs to generate ANDF versions of their applications for evaluation.
+ANDF details, page four.
+COMDEX ‘92: WINDOWS NT STEALS THE SHOW
+by Alison Hawkings
+The overwhelming presence of Microsoft Corp haunted Comdex last week.
+That was not entirely unexpected, of course, but the unprecedented show of strength for Windows NT cast shadows down a full 24 miles of exhibition aisles.
+At least 260 independent software vendors (ISVs) were showing NT applications, ranging from multimedia to accounting and multi-processing.
+Confidence is high.
+Hardware and software vendors exude it.
+Microsoft knows it.
+The company expects to have shipped at least 50,000 NT developers kits by the end of the year.
+That's something a Unix operating system has never achieved, observed Microsoft's NT director, Dwayne Walker.
+With the backing of the market, Microsoft ‘has the infrastructure to make NT as successful in the Unix market as Windows on Intel,’ he believes.
+For the time being Microsoft has its guns trained on the Unix application base, but it is taking little or no effort to persuade ISVs to port to an operating system that by even its own admission won't be around until next Spring at the earliest.
+It envisages sucking up 45% of the multi-user Intel market in the first 24 months of NT's life.
+Mention of Unix System Lab's Unix SVR4.2 or Univel Inc's UnixWare does not draw breath.
+ Co-existence is acknowledged.
+‘We are pursuing measures to make NT and SVR4 communicate with each other,’ says Walker, though Microsoft claims its offers to develop interoperability with the two Unixes have been met with downright hostility.
+‘Interesting mating rituals’ is how Microsoft views the current jockeying for positions in the Unix camp, but it warns that ‘the relationship between Microsoft and organisations such as Unix System Labs are cool.’
+Microsoft may be on a limb when it claims to be working alone on connectivity and interoperability between NT and Unix SVR4.
+But having written TCP/IP and NFS functionality into NT, it is adamant that it'll develop a Windows application programming interface for SVR4 with or without USL's help.
+SunSelect, Sun Microsystems Inc's PC-to-Unix connectivity satellite, was demonstrating technology that allows personal computer users running Microsoft Windows NT software to access Unix system networks using PC-NFS.
+Vertical Technologies Inc released Scan-One, a device driver that decodes bar-code types and plugs directly into a serial port for SCO Unix.
+While Microsoft Corp rolled out Bill Gates to demo a slick-looking Windows NT, Univel Inc admitted that UnixWare is not as elegant as Windows and probably won't even come near Windows NT in look and feel.
+‘If we try to market UnixWare as a glamorous front-end solution we'll fall flat on our face,’ a Univel official said.
+It is relatively negative about its chances at the client end of the market, blaming ‘the Unix is complicated’ stigma.
+Chelmsford, Massachusetts-based American Business Systems Inc's accounting software has been certified SVR4 compatible and 88open compliant.
+IBM, Borland International, Gupta Technologies Inc, Novell Inc and WordPerfect Corp rallied to support a new database application programming interface, the Integrated Database API (IDAPI).
+The API, based on the SQL Access Group's call-level interface specification, accommodates relational and personal-computer databases across multi-vendor platforms and applications.
+According to the group, IDAPI is an extension of Borland's Object Database API, which creates a single point of access for locating SQL or navigational data.
+The group is currently developing another component for the API, which will address non-SQL data stored in personal computer databases.
+Development kits for MS-DOS, Windows, NetWare, IBM's AIX and OS/2 are scheduled for release mid 1993.
+AST Research Inc is setting up high-end indirect sales channels for Manhattan, its Intel 80486-based multi-processing machine: the company will sign up to 100 NetWare and Unix-oriented distributors.
+IBM Corp duly announced a whole string of speech recognition products, ranging from basic personal computer applications to leading-edge speech technology, developed at the Thomas J Watson Research Center.
+The IBM Personal Computer Co will offer the products to run in a variety of environments, including MS-DOS, Windows and OS/2 2.0 in an MS-DOS window, and via a licensing and distribution agreement with Dragon Systems Inc, the unit will also offer DragonDictate-7-k and Dragon Talk-to-Plus to its customers.
+Set to be available from Dragon Systems or IBM in March 1993, Dragon Dictate-7-k will sell for $2,300.
+Elmsford, New York-based Wen Technology Corp unveiled a voice activated colour notebook, the Intel Corp 80486-based SuperNote-Voice.
+In its first release the system runs MS-DOS and Windows.
+Santa Cruz Operation Inc Unix, Xenix and Sun Microsystems Inc SunOs Unix will be available on the thing later next year.
+SuperNote-Voice includes a headset with microphone to transmit the user's voice instructions via Wen's proprietary voice recognition technology.
+Voice recognition features include up to 1,000 isolated words or phrases per user — the company claims the notebook has 98% voice command accuracy.
+It weighs 6.2lbs and measures 11″ x 8.5″ x 1.87″.
+It is configured with from 2Mb to 4Mb RAM and 60Mb to 120Mb disk.
+SuperNote-Voice ships in the first quarter 1993 priced at from $4,500. +1 914 347 4100
+Corollary Inc hitched a ride on Microsoft Corp's Windows NT wave and announced it will offer a symmetric multi-processing 80486-based system for developing and debugging NT applications, the MP Developer Station.
+Corollary president, George White, believes ‘there is no doubt that NT is going to win a significant stake of the personal computer open systems market.
+It doesn't matter that Windows NT is late, Microsoft can afford to do whatever it wants.
+The personal computer market wants NT and it'll surprise the hell out of a lot of Unix vendors.’
+In a base configuration the developer Station includes three Intel Corp 486DX 66MHz CPUs, 16Mb to 256Mb memory, 400Mb disk, CD-ROM and a selection of ports.
+The software features a multi-processing interrupt controller.
+There are three ways to handle interrupts in the Corollary system: to transfer all the interrupts to one processor, transfer them to the CPU with the lowest priority tasks or distributing them to more than one processor.
+The MP Developer Station will be available February 1993 and is priced at $15,000.
+What happens after Pentium?
+According to Intel Corp's Micro2000 vision, a high-end multi-processing chip-set with 40 to 50 million transistors clocking at 250MHz is realisable by the end of the decade.
+Each of the four 64-bit, 700 MIPS CPUs will have four million transistors.
+Two vector units will have four million apiece and there will be four to eight million for the two million bits of on-board RAM.
+It'll come with a graphics unit for full-motion video.
+Taiwanese Acer Group Inc plans to expand its operations by establishing ten foreign manufacturing sites by the end of 1993: it has four currently.
+New plants will open in Chile, Brazil, Mexico and South East Asia.
+Acer is also downsizing its Hsindsheu plant and is reportedly considering relocating it to China.
+It will open a further 20 sites over the next three years, Acer says.
+Pick Systems Inc says it will provide SQL capabilities for the Pick system and offer support for all mainstream operating systems by the end of next year.
+THOMSON-CSF BUYS TELESOFT FROM TELEVERKET AS PRESENT FOR ALSYS
+Televerket, the Swedish state phone company has decided it was a mistake to buy Ada development software specialist Telesoft Inc, San Diego and turn the company into Telesoft AB.
+Thomson-CSF SA has come up with an undisclosed sum to buy the company as a present for Alsys SA, the company sold to Thomson by Ada only begetter Jean Ichbiah in September 1991.
+The combination of Alsys and Telesoft will create a company with annual turnover of about $40m, putting it head to head with market leader Rational Inc, which claims 25% of the Ada business.
+The separate implementations and cross-compilers are to be converged in a new Ada9X.
+COMPUTONE BOARD FIRED OVER FINANCIAL MISMANAGEMENT
+Publicly-held Computone Corp, Rosewell, Georgia, has fired its board and all of its officers for financial mismanagement and is restructuring in an attempt to avoid either bankruptcy or Chapter 11 (UX No 397).
+Tom Anderson, former president of Computone's now-defunct sister company Princeton Graphics, has been named acting president and chief operating office with John Freitag as Computone's new chairman.
+The new team, brought in by the company's largest investor, has laid off 30% of Computone's staff and has already trimmed between $3m and $4m off the company's overhead.
+It is asking creditors to forgive some debts and extend payments 24 to 48 months.
+The majority have so far agreed.
+The company believes its technology, Intelliport boards, clusters, servers and wide-area network boards, is far ahead of the competition.
+HAMCOM READIES SUN SUPERSPARC CLONES
+UK start-up Hamcom Systems Ltd, Banbury, Oxfordshire, will begin offering Sparcstation 10-compatible workstations from next month.
+The £9,160 Hamstation-1020 is equivalent to Sun Microsystems Inc's Sparcstation 10 Model 20, the company says.
+As soon as it gets 36MHz SuperSparc chips from Texas Instruments Inc (by the end of the first quarter, it hopes), Hamcom will offer the Hamstation-1030 — equivalent to Sun's Sparc 10 Model 30 — at £9,960.
+The Hamstation-1041 will follow at £13,960.
+Each comes with 32Mb RAM, floppy drive, GX graphics, 19″ Hitachi colour monitor, Solaris 1.1 on CD-ROM, 2MBus slots, 4 SBus slots, two serial ports, a parallel port, Ethernet, SCSI, audio and ISDN.
+No hard disk is included in the price as Hamcom offers a range of different configurations, up to a total of 2.4Gb.
+Server versions, without monitor, GX graphics, mouse or keyboard are £7,160, £7,960 and £11,960 respectively.
+Hamcom's sister companies — also Sparc houses — are Hamilton Computervertriebs GmbH, Tuebingen, Germany, and Hamilton AG, Buelach, Switzerland.
+Its affiliated DEC and IBM-oriented business are impec Computervertriebs GmbH and Xeltec Computervertriebs GmbH, both of Tuebingen, Germany, Xeltec AG in Buelach, Switzerland and transtec Computers Ltd, Banbury, Oxfordshire.
+Parent company of the group is transtec Computersystemvertriebs AG, Tuebingen, Germany.
+Hamcom: +44 295 270170.
+HP PROFITS SLASHED BY HALF
+Hewlett-Packard Co's fourth quarter figures revealed net profits plunging 45.6% to $68.0m on turnover that rose 12.8% at $4,324m.
+Net profit for the year to October 31 fell 27.3% at $549m after a charge of $322m for the change in accounting for benefits for retired employees, on turnover that rose 13.2% at $16,410m.
+Net earnings per share fell 44% to $0.28 in the quarter, 28% to $2.18 in the year.
+HP said some of the factors that raised its cost of sales in the fourth quarter are not new and are likely to continue.
+The company said fourth quarter orders were up 20% to a record $4,420m and highlighted excellent order growth for printers and mass-storage products.
+It also said HP-UX multi-user computers, test-and-measurement products and medical equipment had good increases over last year, and even personal computers and components had very good order levels.
+In turnover terms, with $16,400m for the year, the company sailed past Digital Equipment Corp with about $2,000m more in annual business — but a significant proportion of its total is not computer-related, whereas DEC is a 100% computer company.
+NOVELL BARS USE OF NETWARE CODE IN NEW WINDOWS PRODUCTS
+Novell Inc has intensified its dispute with Microsoft Corp over use of its requester technology in Windows for Workgroups and has invoked a clause in its technology-swapping agreement that bars Microsoft from shipping NetWare code in future Windows products, PC Week reports.
+The two are negotiating to resolve the dispute, but if they fail to reach agreement, Microsoft would have to develop its own technology for linking Windows clients to NetWare or license similar code from a third party.
+Novell could seek an injunction, on copyright infringement grounds, to bar Microsoft from including NetWare code in Windows for Workgroups.
+…
+SPLITS WORLDWIDE SALES INTO THREE
+Novell Inc has finally produced the big restructuring that it has been planning and (sort of) denying for so long and which led to the departure of Tony Scrivens as UK managing director.
+In the new scheme, worldwide sales are divided into three regions each of which report to a new vice-president of worldwide sales.
+The man in that hot seat is Joseph Marengi, 39, formerly head of channel and OEM sales in US.
+Gregory Fallon, the incumbent international vice-president, gets shuffled to become vice-president of European sales where, says the company, he ‘will continue to manage the emergence of a cross-border distribution model in Europe.’
+It was only last July that Fallon professed his dislike of ‘European umbrella organisations’.
+Now Novell's European offices report to him.
+He and the executives responsible for the Americas, Asia/Pacific and for a new worldwide major markets division report to Marengi, who himself reports to Mary Burnside, president of worldwide sales.
+And why the upheaval?
+‘The action is part of Novell's transition to uniform customer-related programmes and support capabilities in countries around the world,’ declares the company, rather opaquely.
+…
+FINDING NOORDA's SUCCESSOR ‘NOT A PROBLEM’
+Meanwhile, Novell is not worried about finding a successor to 68-year-old founder and chairman Ray Noorda, chief financial office James Tolonen told the Los Angeles Society of Financial Analysts.
+Tolonen described Noorda's role as one involving strategy and planning rather than day-to-day operations, adding ‘We have a very strong group of executives — we have looked at various times at succession,’ although no-one has been designated to succeed.
+At the same meeting, he said that Novell expects its fourth quarter international revenues to be about even with the third quarter, adding ‘Europe continues to look spotty.’
+…
+DISTRIBUTES RUSSIAN LANGUAGE NETWARE 3.11 AT HALF THE US DOLLAR PRICE…
+On October 1, Novell Inc started distribution of the Russian version of NetWare 3.11.
+The price of the Russian language version is pegged to the US dollar and is exactly 50% of the price of the English language version.
+Until the end of the year owners of old versions will be able to get the new version at a reduced rate.
+Owners of illegal copies of NetWare will have the chance to get a Russian language version at a discount.
+Novell has now ratified the certification of Russia's newest NetWare engineers following the Moscow training session set up by Drake Training & Technologies.
+At present there are about 35 Certified NetWare Engineers in the Russian Federation.
+A spokesman for Drake Training says that there is a possibility that it may establish an office in Moscow to put the training of Russian NetWare engineers on a more regular footing.
+UNIVEL REVEALS UNIXWARE IN UK
+Univel Inc will ship the English language version of UnixWare, its shrink-wrapped SVR4.2-based operating system, on 30th November to European distributors.
+It will be available to end users in December 1992 with European language versions available in first quarter 1993.
+UnixWare is aimed at the Intel Corp 80386 and 80486 personal computer desktop market but it will also be available for Sparc platforms in 1993.
+UnixWare Personal Edition client costs £290, the Application Server costs £1,470 and the Software Development kit is £590.
+UK distributors are Azlan Ltd, Ingram Micro UK Ltd, Interquad Distribution Ltd and Merisel UK Ltd.
+All are existing Novell Netware distributors.
+PRAXIS STRUTS ITS ANDF STUFF
+by William Fellows
+UK software firm Praxis plc is to be acquired by Touche Ross & Co (see front page).
+Part of the reason is the firm's expertise in developing the ground-breaking Architecture Neutral Distribution Format technology.
+Praxis Systems plc has completed the initial version of an Architecture Neutral Distribution Format (ANDF) installer for IBM Corp's RS/6000 platform.
+The UK software firm, based in Bath, already has an installer for the Sparc RISC chip under its belt (UX No 389)— it used a Sun Microsystems Inc Sparc workstation running SunOS to do the job.
+Ideally, Praxis would like IBM to adopt the installer, productise it and bundle it with the RS/6000, though it is ‘far too early’ to say whether this might happen, says the firm's Stephen Robertson.
+However, if the likes of IBM and Sun Microsystems Inc's SunPro language and compiler unit were to productise the installers, then the ANDF bandwagon could really start to gather some momentum in the market, he believes.
+Ada
+Praxis has other plans for government, defence and large corporate sectors.
+It has been subcontracted by Intermetrics Inc to define the mappings from Ada9x languages to ANDF for the UK's Defence Research Agency (DRA), whose Ten15 Distribution Format technology forms the basis of ANDF.
+The work is an early step in the development of an Ada9x ANDF producer.
+An Ada9x producer will allow the generation of ANDF versions of programs sourced in Ada9x.
+These programs could then be installed and run on any machine for which an ANDF installer exits.
+ANDF has been positioned as a C-oriented technology in its initial guise, although isn't a language-specific, says Praxis.
+Indeed, DRA expects to provide support for Fortran90 through development of a Fortran90 producer.
+ANDF is conceived as a ground-breaking way of enabling software vendors to write, package and distribute one single version of an application to run unchanged on laptops, workstations, servers, mainframes, even supercomputers.
+Praxis argues ANDF will eventually allow government, defence and other large information technology procurers to exercise a much greater degree of control over their suppliers, by separating hardware and software purchasing considerations.
+Currently, these kinds of customers are often forced into accepting a proprietary hardware solution simply because a supplier doesn't offer the desired software on any other type of kit.
+Specifying ANDF alongside standards such as X/Open and GOSIP would allow users to fulfill their hardware and software requirements and gain greater leverage over suppliers in procurement deals, says Robertson.
+Fits and starts
+Getting ANDF out of the labs and into the industry is progressing in fits and starts.
+After a lengthy selection process, the Open Software Foundation chose the UK's Defence Research Agency to supply core technology — known as the Ten15 Distribution Format — for the ANDF effort, unveiled with the backing of OSF members in June 1991 (UX No 337).
+However, earlier this year lack of funds forced OSF to downgrade its ANDF development and re-assign engineering staff to other projects in its stable (UX No 384).
+It continues to licence ANDF technologies and OSF research labs in Cambridge, Massachusetts, and Grenoble, France, are continuing their co-operative ANDF work as part of the European Commission's Open Microprocessor Initiative.
+It was left to Unix System Labs to step in a few weeks later and take the reins of ANDF by licensing the Ten15 technology from DRA, saying it would productise ANDF in a future release of its Unix SVR4.2 operating system (UX No 390), see front page.
+Ported to ANDF via the relevant producer, an application — and there are distinct parallels between operating systems and applications in the ANDF scheme of things says Praxis — is able to execute on any platform with an ANDF installer, which allows the code to be compiled.
+ANDF's token mechanism enables executables to take advantage of all the functionality specific to the target environment, without any loss of performance, according to Praxis.
+OSF currently ships DEC VAX, MIPS, Sparc, Intel iAPX-86 and Motorola 680x0 installers as part of its ANDF offering, and it is believed to have shipped ANDF snapshots to some 25 organisations.
+In addition to Praxis' RS/6000 installer, versions for DEC's Alpha AXP chip and Hewlett-Packard Co's PA-RISC architecture are thought to be underway.
+Although different installers are required for each platform, there is considerable commonality of code between the installers, observes Praxis.
+Although a fault tolerant Unix implementation would, for example, need a different installer to standard SVR4 — they are not completely estranged.
+For testing purposes, Praxis ran Unix SVR4 through a C producer and generated an ANDF version which it brought up on an ICL plc DRS6000 box using its Sparc installer.
+The ANDF version of SVR4 performed slightly better than the Unix code generated by a native C compiler, Praxis claims.
+15 minutes
+An ANDF version of Informix's Wingz spreadsheet, which runs to some 200,000 lines of code has been tested on Sparc and RS/6000 installers (UX No 404).
+Praxis says it took less time to install the ANDF version of the program than the 15 minutes it takes to compile the C sources of Wingz.
+An ANDF version of the Oracle database — some 1.3 million lines of code — is currently underway and should provide a sterner test of claims for the technology.
+Public domain software such as GNU compilers have been ported to ANDF along with the SPEC benchmarks and OSF's Motif graphical user interface.
+ANDF does not change the fundamental constructs of software, and data can move between applications on different machines as far as it would ordinarily be able to do.
+Robertson expects some software vendors — the Oracles and Informixes of the world — to licence the relevant ANDF producer and generate ANDF versions of applications themselves, with some support from Praxis or OSF.
+Those with less internal resources are likely to contract the whole project out.
+All ANDF intellectual property rights are owned by the DRA, which has licensed its technology to OSF and USL.
+If a hardware or software vendor wants a licence, it can go to OSF or USL and strike a deal.
+Praxis is available for additional work.
+The vendor only has rights to any enhanced parts it may develop.
+The DRA's objective is to see the technology succeed rather than to generate short term income — and Robertson believes the chances are high.
+With the EC, the UK's Ministry of Defence and the US Defense Advanced Research Project Agency backing it, momentum for ANDF will be generated, he says.
+SUNCONNECT LAUNCHES ISDN, FRAME RELAY AND POINT-TO-POINT PROTOCOL SOFTWARE
+As expected, SunConnect, the communications part of Mountain View, California-based Sun Microsystems Inc, continued in its quest to merge wide area and local area networking last week.
+The latest goodies are SunLink ISDN, Sunlink Frame Relay and Sunlink Point-to-Point Protocol.
+The names of the first two are pretty self-explanatory, and the last implements the Point-to-Point protocol used to connect routers.
+All three are software products but Sunlink ISDN is the odd one out.
+For one thing it is available only for the Sparcstation 10, for another it will be shipping free with the machines from next spring.
+When the Sparcstation 10 was originally launched, much was made of the built in ISDN interface based on an AT&T chip set.
+Until now users had to find their own or third party drivers to use these chips, but Sunlink ISDN represents delivery of the original promise to have the drivers delivered as standard.
+Users will have to pay for the other two new products.
+SunLink Frame Relay provides transparent Internet Protocol communications over Frame Relay networks, and enables up to 1,022 Permanent Virtual Circuits to be set up.
+The software lists at $1,150.
+SunLink Point-to-Point Protocol is designed to let small companies do away with dedicated routers when linking their local area networks.
+Instead users can let the Sparcstation do the donkey work.
+It should, says SunConnect, prove particularly attractive to companies that want to link small workgroups to a remote, central system.
+Sunlink Point-to-Point Protocol costs the same as the Frame Relay software and also shares the ability to be controlled and configured by a central SNMP-based management station such as SunNet Manager.
+MICROPORT HAS UNIX SVR4 FOR PS/2s
+Microport Inc, Scotts Valley, California, is ready with System V/4, its version of SVR4 for IBM's high-performance PS/2 Models 90 and 95, reportedly the first SVR4 iteration supporting IBM's proprietary controller designs and MicroChannel-based peripherals.
+It supports desktop and server implementations and runs both DOS and Unix concurrently.
+Workstation-style graphics, with X11R4 and Motif servers, 1280 x 1024 256-colour adapters as well as VGA and SVGA are included.
+X11R5 with support for XGA-2 comes later this month.
+System V/4 supports 56 SCSI devices simultaneously including both caching and non-caching IBM SCSI/Busmaster adapters and third-party products from Adaptec and BusLogic.
+TADPOLE TECHNOLOGY ADDS $3,950 SPARCBOOK, CUTS PRICES ON OTHERS
+Cambridge-based Tadpole Technology Ltd has added low-cost Sparcbook LC notebook models to its family of portables, and has cut prices up to 35% on the Sparcbook 1 line.
+The LC is aimed at users that need to work away from their desktop but still need to access their applications and want to get into the corporate network.
+It runs Solaris 1.0 and offers full MS-DOS emulation, with single-key switching between the two.
+The S1-LC model with 8Mb, 180Mb disk and gray scale display is $3,950 — £3,300 — and the same configuration with colour thin-film transistor display costs $5,950 — £4,950 — adding another 8Mb costs $950 — £800 — and a floppy drive is $750 — £625.
+SIEMENS NIXDORF PRUNES ITS PRODUCT LINES
+Siemens Nixdorf Informationssysteme AG is developing its Intel Corp iAPX-86-based MX microcomputers and MIPS R-series RISC-based RM product lines at the expense of Nixdorf's Targon Unix box, and has cancelled its decision to release a new 660X0-based machine.
+It also intends to run its system integration business as independently as possible.
+Otto-Hermann Gruneberg, a director of Siemens Nixdorf, told Computerwoche that both the MX and RM ranges run under Unix System V.4 and compete with Targon.
+They were developed after the merger of Siemens and Nixdorf when Siemens acquired Targon.
+Applications development is being focused on the MX and RM too.
+The company was due to announce new RISC machines in October, and originally wanted to release a 680X0 offering at the same time but has cancelled its decision.
+Gruneberg said the company was no longer developing 68000 family machines because the market has shifted towards RISC — and parent Siemens AG makes the R-series chips, and is also a significant contributor of support chips for the iAPX-86 family.
+Research and development expenditure is being focused predominantly on the BS2000 family of mainframes, and systems integration activities will be split off to operate as a separate business unit, he said.
+Sales of BS2000 mainframes now contribute about a third of Siemens Nixdorf's revenues, and Gruneberg denies any negative effects from the downsizing trend — but then the German market always was notoriously slow to latch onto industry trends that are rampant elsewhere.
+The aim is to make the BS2000's open — first by supporting the Open Software Foundation's Distributed Computing Environment, and second by becoming Posix-compliant — within a probable time-scale of 18 months to two years.
+NEW HIGH-END 4GL FROM PROGRESS
+Progress Software Corp is shipping version 6.3 of its Application Development Environment (UX No 405) on Sun SPARC, Sequent PTX, IBM RS/6000 and Data General Aviion Unix machines as well as those running Santa Cruz Operation Unix.
+The Bedford, Massachusetts-based company says version 6.3 will be available on the HP 700/800 as well as machines running Unix V.4 by the end of November 1992.
+The new release includes enhancements aimed at high-end multi-processing Unix systems.
+A gateway to the Sybase database allows developed applications to call procedures defined and stored in the Sybase database.
+The company also says it is planning a link to IBM Corp's DB/2 mainframe database in late 1993 in an attempt to attract AS/400 users.
+Version 6.3 provides semi-automatic recovery from failure of a distributed two-phase commit, enhancements to the Progress database engine and monitoring tools to assist systems administrators with tuning.
+Progress has aimed its ADE at value added resellers and MIS departments in the past, but says it is now attempting to target large companies.
+Version 6.3 is available to Progress users as an upgrade, anticipating the release of version 7 in May 1993, now in beta at 15 UK sites.
+PORTABLE SNA NOW AVAILABLE TO END USERS
+Data Connection Ltd, the Enfield, Middlesex-based UK software house that for the last ten years has provided some of the technical bedrock for the big OEMs, is now making its Unix/SNA connectivity software available to large end-users.
+Ten-years old Data Connection has until now kept a low profile, selling portable versions of IBM's Systems Network Architecture (SNA) technology to the likes of Control Data, Hewlett-Packard, ICL, Norsk Data, Northern Telecom, Prime (deceased), Wang and even to IBM itself — though it won't say exactly what.
+It has another division working on OSI, and recently won a contract from Microsoft Corp to supply X.400 technology for Microsoft Corp's NT.
+The new SNA product package, SNAP-IX, will allow end-users with heterogeneous systems to tie their systems together with SNA technology from a single source.
+Requiring a Streams interface from the host Unix system, SNAP-IX includes PU type 2.1 (over SDLC or X.25), APPC, CPI-C (as adopted by X/Open), LU6.2, LU 0,1,2 and 3, 3270/3770 emulation and support for NetView.
+It also includes client/server capabilities, with Unix server software  running core SNA components and Unix, OS/2, DOS and Windows clients running 3270 emulation and SNA applications.
+The software supports most synchronous communications cards.
+Users receive object code versions of SNAP-IX pre-built for their chosen Unix hardware, along with services and support.
+But only large users need apply.
+The company, which has already dipped its toe into the end-user market with firms such as the Bank of Montreal, Library of Congress, Equitable Life and Safeway, would be happy to win just five to ten large SNA accounts over the next year.
+Typical sales are worth around 100,000.
+The company, which does up to 90% of its business in the US, has an office in Vienna, Virginia.
+WHAT DESKTOP STRATEGY?
+INFORMIX TARGETS LOW-END
+Although its standard Informix SE relational database engine has been available on DOS since 1984, Informix Corp appears to have made little impact on the lower end of the market, concentrating instead on its core Unix business.
+Its 1987 acquisition of PC office software company Innovative Software — developers of the Smart package — and later developments such as the introduction of the Wingz spreadsheet, did little to change the situation.
+Now Informix is pushing to get its share of the PC-local area network market with the launch of its Desktop Strategy — a set of ‘complementary integration products’.
+New on the list is Informix On-Line for NetWare, implemented as a Netware Loadable Module, and Informix SE for DOS/Windows.
+Existing products included within the strategy include the Informix SQL toolset, Wingz, Informix Net-PC, for running DOS or Windows Informix applications as a client to a remote Unix or NetWare server, and Informix-ESQL/C, giving developers access to the Informix database from third party Windows applications or tools.
+Informix 4GL/GX, the GUI version of Informix/4GL, will be available for Windows from next month.
+Next year, the company's Informix-Storm graphical database front-end (UX No 409) will also be included.
+Scripts from the Smart software have been used to help with installation.
+And a bunch of third party tool providers have agreed to integrate their own products.
+These include Channel/ESP's Forest & Trees, Gupta's Quest and SQL Windows, Hewlett-Packard's New Wave Access, Jyacc's JAM, Lotus Corp's 1–2-3 for Windows, Mateysys' Objectview, Pioneer's Q+E, Powersoft Inc's Powerbuilder and Uniface Corp's Uniface 4GL.
+INGRES INDEPENDENT TOOLS ON THE WAY
+Following the trend spearheaded by Unify Corp with its Accell 4GL toolset a few years ago, Ingres Corp is expected to make the first moves in liberating its own toolsets from the Ingres database next month.
+Ingres Windows 4GL, well received as a graphical, object-oriented 4GL development tool, but with a surprisingly low profile for a two year old product, is expected to make a two-stage move towards supporting multiple databases, with announcements about a middleware product expected next month.
+Third party companies such as Boca Raton, Florida-based TechGnosis Inc, with its SequeLink SQL ‘middleware’ product, have taken a similar approach.
+Ingres hopes to be early with SQL92, the specifications for which should be settled finally next month, and is also working with Microsoft Corp and the SQL Access Group on Open Database Connectivity (ODBC) compliance.
+Compliance with X/Open Co's XA transaction processing architecture is also promised for next year.
+WINDOWS NT ‘WILL CLOSE WINDOW FOR UNIX ON COMMERCIAL DESKTOPS WITHIN TWO YEARS,’ SAYS DH BROWN REPORT
+by Maureen O'Gara
+Market research house DH Brown Associates just released a Consumer Report-style comparison of Windows NT and Unix chillingly titled ‘The Inevitability of NT.’
+However its findings do not necessarily point to the inevitability of NT on sheer merit, but because of the marketing clout Microsoft is credited with having.
+In fact, the study's summary basically says NT wouldn't even be a contender if it didn't have Microsoft's name on it.
+Albeit a worthy technical effort, NT's ‘lack of functional and speed advantages would normally prove fatal for a product targeting the  brutally competitive desktop market.’
+To begin with, Brown has trouble finding a market for NT.
+The study discards current Window 3.1 users in the intermediate term because it neither improves their speed nor enriches their functionality.
+It throws out current MS-DOS users who don't need a graphical user interface (GUI) because there's no incentive to move.
+And it figures MS-DOS users upgrading to a GUI will go with it instead of Windows 3.1 only after the pricing comes down and the difference between the two is only $200 or less.
+They will also need more stability and higher performance to make the jump.
+These findings presuppose Microsoft's dominant strength rests with the desktop.
+Brown estimates that a loss on the server side would adversely impact NT's position on the desktop.
+‘At the very least,’ it says, ‘Microsoft must enhance its credibility on the server side to maintain its desktop position.’
+However, Brown figures large networked installations will stick to Novell Inc NetWare or possibly move to Univel Inc's UnixWare.
+‘The relatively small numbers of servers in comparison to the desktop, and the challenges of robustly implementing the distinct product capabilities of NT raise serious doubts concerning its viability as a server operating system.’
+That leaves Microsoft with small peer-to-peer networks as a possible market if users require only simple file- and printer-sharing and electronic mail exchange.
+NT is a more powerful alternative to Windows For Workgroups, Brown says, and this market niche gives Microsoft the opportunity to undermine Novell from the low end rather than take it on head-to-head.
+Unfortunately Brown provides no numbers estimating the size of this market.
+Best and worst
+The study then compares NT to Unix on 80 functional areas falling into three categories: user environment, operating environment and development environment.
+The Unix systems used in the comparison include AIX 3.2.1, HP-UX 8.0x, Solaris 1.
+x, Ultrix 4.2a and DG/UX 5.4.2.
+Their scores are averages and broken out as Best Unix and Worst Unix.
+NT dominates in the user environment because of the overwhelming proliferation of applications running native mode.
+However, this claim to fame means NT really offers no new dekstop innovations.
+It relies instead on backward compatibility with current Windows and MS-DOS products.
+On top of which its MS-DOS compatibility falls short of perfect, essentially emulating a 286 running in real mode.
+Therefore some MS-DOS applications will not run.
+Those that depend on MS-DOS extenders, or attempt to control I/O devices directly, fail.
+In addition MS-DOS and Windows 3.1 device drivers have to be reimplemented.
+Graphics applications run very slowly because they have to go through a filter to ensure they don't crash the machine.
+As a result, software vendors will have to ensure their applications work under NT.
+Unix at its best outperforms the NT windowing system and even at its worst is equivalent.
+Brown says the lack of network transparency and support for Display Postscript compares unfavourably to the flexibility of the X Windows system offered by Unix.
+Moreover, NT's graphics performance takes a hit.
+Preliminary data indicates performance has been compromised in comparison with Windows 3.1.
+Even allowing for the fact that NT has not yet been tuned for speed or reached production release, Brown says there appears to be additional overhead incurred when executing Windows 3.1 applications under NT.
+So developers will have to port for optimal performance,’ reinforcing the potential for confusing application and operating environment choices for users.’
+Brown also faults the NT desktop manager as being much less flexible than the best Unix has to offer.
+On coordination services, NT is far ahead of Unix thanks to Dynamic Data Linking and Object Linking and Embedding, for instance.
+On installation however, Unix is again ahead, and is at least the equal of NT in intra-family portability, an area in which Microsoft's superiority would normally be assumed.
+NT has a slight edge over the average Unix on-line documentation but falls short of the best available and the introduction of the CD-ROM is a hurdle for the desktop crowd.
+Moving into the operating environment, Brown says NT's suitability as a desktop environment depends on Microsoft's ability to shrink current RAM and disk space requirement down to something reasonable.
+NT, it says, has bloated memory requirements with 16Mb needed for practical use.
+Brown doubts Microsoft's pledge to reduce it to 8Mb in the final release will produce a very  usable system, certainly not one that could run multiple applications concurrently.
+Brown reasons that memory requirements will inhibit NT's widespread acceptance.
+‘NT's massive resource requirements diminish the benefits of upgrading to a high-powered platform.
+A machine that would be considered fully loaded for Windows 3.1 becomes a minimal NT-suitable configuration.’
+In addition NT has extreme disk space demands for a desktop environment, approximately 50Mb, a severe increase over the 20Mb needed for Windows 3.1 but better than a typical RISC/Unix set-up.
+Hence Brown figures it's unsuitable on a notebook.
+If it could boot from a network or a CD, disk space would be less of an issue but it can't.
+On the other hand, NT's pre-emption matches the best Unix has to offer, typified by AIX 3.2.1 and followed closely by DG/UX.
+NT also has excellent basic networking support, a key Unix feature, by bundling the functionality of LAN Manager.
+Its personal computer network protocol support is good but not the equal of Unix at its best.
+However, NT has yet to define its compatibility with critical software like Novell's NetWare.
+Brown notes here that NT must interoperate with it to be taken seriously in the corporate community.
+Unix at its best outperforms NT on the file system front but at its worst hardly scores.
+The NT File System (NTFS) has only adequate space efficiency, lacking many of the innovations some Unix file systems offer.
+Also it does not allow cluster fragments.
+As a result, Brown says, on the desktop, where the user creates many small files and receives mail messages, the fragmentation will consume a disproportionate amount of disk space.
+Decades of innovation
+Having been designed from the ground up, the NT kernel has yet to mature and rates as only adequate for robustness.
+Its goals of supporting advanced features like multi-processing and security while remaining very portable and scalable and at the same time backwards compatible with MS-DOS and 3.1 ‘will inflict costs in reliability and efficiency while it experiences its share of growing pains.’
+Unix, meanwhile, derives its greatest unequivocal advantage from kernel robustness, where its maturity earns it a high degree of reliability.
+However robustness is not as great a factor on the desktop as on the server.
+Brown says NT exhibits a superior memory  management scheme and is almost but not quite the equal of Unix at its best.
+Unix schemes, however, vary widely and the worst have little memory management optimization and grant only limited control precision.
+Brown finds NT has a weaker development environment, lacking the powerful character-oriented tools, shells and scripting ability of Unix.
+‘Microsoft can barely compete with the decades of innovation poured in by workstation manufacturers.
+Still its GUI libraries give a good showing.
+However it lacks an integrated graphical application for compiling and editing.
+Brown figures Unix developers will be frustrated initially by NT's primitive tools.
+And while it supports common languages well, its compilers lack the maturity of Unix compilers.
+Microsoft is also pressing C++ which is new and less mature.
+Despite the advantages of the best Unix systems, however, and the enhancements coming with Solaris 2.0 and OSF/1, Brown reckons the window of opportunity for Unix on the commercial desktop will shut within two years.
+SUPERCOMPUTER WORLD GATHERS IN MINNEAPOLIS
+by William Fellows and Tim Palmer
+The supercomputer world converged on Minneapolis, Minnesota for last week's Supercomputing ‘92 show.
+Whilst the conference lacked the hardware launches that dominated last year's show, companies announced more software for their systems as supercomputers try to move into the mainstream.
+The introductions last year of massively parallel machines by the likes of Intel Corp, Thinking Machines Corp opened up the parallel market and led to forecasts that they would eventually replace the vector machines first developed by Seymour Cray, who did his pioneering work at the then Control Data Corp before moving on to found Cray Research Inc and then Cray Computer Corp.
+Chip away
+But just as the microprocessor and open software standards are gnawing away at the foundations of the mainframe market, so massively parallel machines are beginning to chip away at the monolithic vector machines — once the parallel software catches up with the hardware.
+‘The focus is moving from the big hardware and into the software,’ a spokeswoman for nCube Inc, Foster City, California told Reuter.
+Many companies are making software announcements at the Supercomputing ‘92: nCube reports that off-the-shelf software packages will be available on its massively parallel systems for applications ranging from molecular modelling to design pharmaceuticals and for oil exploration.
+Intel has a pact with Fluent Inc, developer of software used by aerospace, automotive and chemical firms, and has also co-developed a prototype program called LS-DYNA3D to run on its Paragon XP/S supercomputer.
+LS-DYNA3D, created by Livermore Software, is used for three-dimensional analysis.
+Cray Research was showing parts of its first massively parallel computer, the T3D, specifically the basic board, which will not be available until next year.
+‘This show is going to be the noisiest or the most interesting ever because the technologies are in transition,’ Cray said.
+And IBM Corp is finally ready to take the wraps off its highly parallel processing system it is developing.
+PORTLAND GROUP AND SYRACUSE WORK ON PARALLEL FORTRAN COMPILER
+The Portland Group Inc, Wilsonville, Oregon, and Syracuse University's Northeast Parallel Architectures Center have formed a technology alliance to research, develop and distribute compilers and tools for parallel computer systems.
+First fruit of the agreement, announced at last week's Supercomputing ‘92 show, is a high-performance Fortran compiler targeted at Multiple Instruction Multiple Data (MIMD) and Single Program Multiple Data (SIMD) systems.
+The High Performance Fortran (HPF) compiler includes a set of extensions to the Fortran 90 language, allowing programmers to create machine-independent software optimised for a range of parallel architectures.
+Targets set for the compiler — including provision of a single parallel programming model for developing applications that can run on a variety of computers — were formulated by a coalition of industrial groups known as the High Performance Fortran Forum (HPFF).
+The HPF compiler, demonstrated at the supercomputing show, is based upon a data parallel language — an optimising Fortran90D compiler — developed by Syracuse group and backed by funding from the US Defense Advanced Research Projects Agency, DARPA.
+The initiative is part of a wider effort to facilitate the development of applications that will run on future generations of parallel architectures without loss of performance.
+Maryland and Rice Universities are also contributing to the work, which is being carried out as part of the National Science Foundation's Center for Research in Parallel Computation.
+The Syracuse group is developing prototypes of software technologies which will accelerate the take-up of general purpose parallel computing.
+Its alliance with the Portland Group will result in future data parallel compilers for other languages such as C++ and Ada, as well as communications interfaces and run-time tools, which will be targeted at networks and clusters of heterogeneous machines and shared-memory parallel computers.
+The HPF compiler includes parallel loop analysis, inter-procedural analysis, inter-node communication optimisations and vectorisation of Fortran 90 style array constructs and Fortran 77 (f77) indexed array constructs.
+HPF language is input to the compiler which produces standard f77 and message passing calls as output.
+Output from the compiler is compiled by standard, single-node f77 compilers.
+According to The Portland Group the HPF compiler can be targeted for use by all sorts of parallel systems and clusters of workstations on a network.
+The compiler will be available late next year.
+PORTLAND HAS COMPILERS FOR SUPERSCALAR SPARC RISC
+Since its formation in 1989, The Portland Group has supplied compilers and tools to developers working with 80860 RISC.
+As the market for general CPU products based upon the Intel Corp part has dwindled, the company been searching for other outlets, and last week unveils a range of compiler products for superscalar Sparc RISC environments.
+Portland Group says it will ship superscalar Sparc C and Fortran compilers by mid-1993, incorporating the vectorisation and software pipelining technologies found in its i860 compilers.
+Prototypes of the Sparc compilers were demonstrated at the Supercomputing ‘92 show in Minneapolis last week.
+Alongside its superscalar effort, The Portland Group is also supplying C and Fortran compilers for Fujitsu Ltd's micro-vector processor, which is used to accelerate code in Sparc-based systems.
+The compilers, due in the first quarter of next year, will feature in the Japanese firm's forthcoming VPP500 monster vector parallel system which is using Sparc RISCs.
+The micro-vector processor delivers 289 MFLOPS at 70MHz and Portland's compilers will compile programs for Sparc or superscalar Sparc systems using the micro-vector processor.
+According to Portland Group, the compilers generate in-line, micro-vector processor instructions which execute on the processor when opportunities to accelerate loop-based code segments are found.
+The compilers will be capable of distributing loop-based code to multiple micro-vector processors as well as running the processors in parallel.
+Portland Group claims the compilers will be the first available for the Fujitsu micro-vector processor-Sparc architecture.
+Fujitsu's micro-vector processor effort will deliver accelerated compute power for Sparc system users performing CPU-intensive scientific, engineering and visualisation applications.
+A forerunner of the VPP500, the experimental AP1000 was announced in Japan last week.
+IBM's POWER/4 TURNS BIONUMERIK ON…
+Matters arising from IBM Corp's announcement of the Shared Memory System Power/4 four-processor ‘parallel’ version of the RS/6000 — see front page — include an agreement with BioNumerik Pharmaceuticals Inc, a San Antonio, Texas company dedicated to the discovery and development of new cancer-fighting drugs.
+It will be an early user of the new machine, while the Supercomputer Computations Research Institute at Florida State University in Tallahassee is also planning to evaluate it.
+Under the agreement with BioNumerik Pharmaceuticals, IBM will become involved in a joint effort dedicated to the development of parallel computing hardware and software for the design of a new generation of cancer treatment drugs.
+DEMONSTRATES PARALLEL PROMISE
+The company, as reported, has also been showing off — no, not a card board replica but an engineering model of its forthcoming scalable, parallel entry system, currently in development at IBM's Highly Parallel Supercomputing Systems Laboratory at the Supercomputing ‘92 event in Minneapolis.
+It was accompanied by Model 3 Power Visualization System running Wavefront visualisation software, and an eight-way cluster of RS/6000 Powerstation 560s.
+Fibre Channel Standard technology was also featured for the first time in a cluster and high-speed networking environment.
+The Highly Parallel System will have eight to 64 RS/6000 processors scaling up to 6 GFLOPS peak with an optional high-performance switch interconnect.
+Each RISC can be configured with a maximum of 256Mb of memory and 2Gb of disk; a 64-way system can have a maximum memory of 16Gb and 128Gb of disk.
+IBM says the Highly Parallel system will be formally announced ‘shortly’ and will be generally available sometime next year with up to 64 processors.
+By 1995, it expects to expand to hundreds of CPUs and by 1997, to thousands, which will then define it as a massively parallel supercomputer.
+MINIGRAMS
+It's an embarrassing thing for a fault-tolerant vendor to have to say, but a bug in Guardian for the Tandem Computers Inc NonStop CLX machines caused them to reset their clocks to December 1, 1983 on November 1, causing systems with time-dependent programs to go haywire.
+The fix is simple but excruciating for Tandem to say — reboot the system.
+The latest league table (up to July 1992) of the value of the US installed computer base, compiled every six months by La Jolla, California-based Computer Intelligence Corp, includes a Unix machine in the top ten for the first time, among the IBM and Amdahl mainframes, AS/400s and Cray -YMPs.
+Hewlett Packard Co's HP 9000–8X0 series, first introduced in the second quarter of 1986, comes in at number nine with an installed value of $1,168m, a total of 9,730 machines, up by 4% since January.
+Next on the list is the NCR Tower at no 16, launched early in 1984, with 53,000 machines installed worth $746m, declining at 9%.
+AT&T's 3B2, the only other machine in the top 25, is at number 18, but its $716m share has shrunk 14% since January.
+IBM's 3090–600 takes top position, with 850 installations worth $4,080m.
+They've yanked that big juicy $422m CAD 2 contract to supply the US Naval Facilities Engineering Command away from Intergraph Corp because of a protest lodged by competitors Centel, Sun and Autodesk.
+The judge found the scores weren't consistently applied.
+Now they can either award the deal to the lowest bidder or negotiate some kind of split.
+Thanks to a story two weeks ago in InformationWeek headlined ‘Take One, It's Free,’ Unix System Labs is having to explain to potential Destiny customers why they can't have a free copy of SVR4.2.
+Under its Floodgates programme, USL is in fact seeding large accounts with free copies of the software but there has to be the chance of a thousand-seat contract at stake to qualify.
+Info World says Microsoft Corp is reversing itself and plans to tell developers about undocumented calls in Windows NT.
+When exactly, remains an issue.
+It may not be ready to unburden itself before NT ships.
+Microsoft said the calls, being much lower level functions, are not comparable to APIs.
+Access Graphics Inc, Sun Microsystems Inc's master distributor, will be peddling Sun's full line of SparcEngine board products, including the new Tsunami-based SparcClassic engine and the Viking-run SparcEngine 10, to the embedded market.
+Apple Computer Inc chairman and chief executive officer John Sculley's name has made it to the short list to be Secretary of Commerce in the Clinton Administration: if he takes the cabinet post, Apple's likely to look outside for a replacement.
+Software engineering outfit Dazix is now Intergraph Electronics after the company that bought it two years ago.
+The product line will continue as Dazix.
+Uniforum has tapped The Kaminer Group to do public relations for its annual Unix show, a wily move considering its boss Dave Kaminer used to be vice president of public relations for show organiser The Interface Group, the mighty Comdex engine.
+Meanwhile, Uniforum's erstwhile executive director Ed Palmer, who's due to retire next year, has moved over to head up the trade show and conferences, making way for his successor Richard Jarros (UX No 410).
+Mid way through November, Microsoft had 3,000 beta copies of Windows NT out with corporate accounts and boasted of shipping 30,000 copies of the NT developers' kit.
+Third parties interested in moving product into the Peoples' Republic of China on the back of this new Unix System Labs joint venture, Unix System Technology China Ltd (UX No 411), should get in touch with USL's Far East operation, Unix System Laboratories Pacific, until such time as the China unit actually gets off the ground.
+The person to contact is USLP president James Clark who is also chairman of UST China: BR 1 Building, 2–3-18 Shiba Minato-ku, Tokyo 105 Japan.
+Phone +81 3 5484 8611; Fax 81 3 5484 8606.
+Maybe, just maybe, one of the reasons why Sun Microsystems Inc's SuperSparc Viking chip hasn't gone as smooth as silk is because Sun's lead engineers didn't listen to the young pups and do all the simulation runs they should have to begin with.
+SuperSparc's fabricator, Texas Instruments Inc, has privately called the experience a nightmare.
+The thing reportedly couldn't find its critical paths and gave off false signals that everything was hunky-dory when it wasn't.
+It's recently said it will be making new masks.
+Cypress Semiconductor Corp's notion that Sun Microsystems Inc has set up a hush-hush research unit to investigate HyperSparc (UX No 410), is what you might call a tad overstated.
+We checked into it and Sun has two engineers assigned to the case.
+Sun continues to say it will use the chip but it's kind of hard for them to say where definitively until there's working silicon.
+FedUnix, don't forget, is running December 1 and 2 at the Washington Convention Center next week in DC.
+Unix System Labs got so excited about its China deal it called in a television crew and had a video done up.
+It's run on NBC's cable channel and should air on the Public Broadcasting System at some ungodly hour in the morning.
+The big thing at Comdex this year was multimedia.
+Nobody knows what it is yet but it's hot.
+So is Windows of course, and imaging.
+Texas Instruments Fellow, Karl Guttag, remarked in Electronic Engineering Times recently that a complete multimedia environment will require a processor architecture that can support more than 2 billion operations/second.
+Sequent Computer Systems Inc has named its European vice president and general manager, Roger Cooper, to the position of senior vice president, geographic operations responsible for all of the company's sales and service units worldwide.
+They're talking about Comdex/Spring being the launch pad for Windows NT.
+We got a call saying we were right on the money last issue with the rumour that DEC will scrap up to 10,000 people on Monday December 7, Pearl Harbor Day.
+Network Computing Devices Inc has named ex-Sun Microsystems Inc windows platform technology manager William Crane as its new vice president, engineering.
+His predecessor, Edwin Basset, moves into the newly created role of vice president, technology, and will explore using emerging technologies like ATM networking and multimedia in NCD products.
+Dataquest Corp says the end-user market in Japan for Unix-based relational databases will be worth $705.6m in 1996, growing at a rate of 43% a year through that year.
+Failing to reach terms with Silicon Graphics Inc to OEM a server SGI is developing, NEC Corp is now developing its own using a maximum eight MIPS R4400 chips running SVR4 MP.
+It expects the box, due in late 1993, to do 1,000 MIPS.
+NEC is telling the Japanese press it couldn't agree with SGI on either price or technical issues.
+At Comdex, PC Week was trying to stage a runoff among NT, UnixWare, Solaris, Next and SCO.
+The only trouble was NT kept falling over.
+Market researcher, Summit  Strategies , claims Sun Microsystems Inc is talking to IBM Corp about ‘access to CICS’ but adds it won't follow Hewlett-Packard Co in price listing it and will go through third parties instead.
+Alliant Computer Systems Corp, Littleton, Massachusetts is liquidating, and says it is in talks to sell parts of its technology and its service business to a third party.
+It expects to retain a third party to sell any remaining assets.
+Shareholders will not see anything.
+Sun Microsystems Inc chief Scott McNealy apparently told his stockholders meeting that Solaris would be ported to the PowerPC if IBM, Apple and Motorola come up with the volume.
+McNealy, whom we have known to shave three or four years off his age to support his boyish good looks, just passed his 38th birthday.
+To celebrate, Sun Microsystems staff moved all the furniture out of his office, fixed it up like a Burger King stand, poured Scott into a Burger King uniform and had him handing out his favourite food.
+One of his people noted the evolution of the ‘workstation king to Burger King.’
+Happy returns of the day, Scotty.

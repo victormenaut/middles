@@ -1,0 +1,342 @@
+
+
+JAPAN BACKS UK FIRM TAO's COMPACT PARALLEL OBJECT OPERATING SYSTEM
+An object-oriented parallel operating system that is completely portable between all widely used processors, so much so that applications do not even need to be recompiled is the creation of a British company — Tao Systems Ltd of Belsize Park, London NW — which has substantial financial backing from Japan.
+Taos relies on a Virtual Processor — a 32-bit machine with 16 registers and support for standard data types and addressing modes, for which all applications are written.
+The run-time code is loaded onto a real processor and translated on the fly into the chip's native instruction set.
+It is currently up on the Transputer and the 80386, with 68000 family, ARM RISC and MIPS R3000 processors a few months away.
+The most significant feature of Taos is that the kernel takes up just 13Kb of memory — and is blindingly fast on complex applications such as graphics ray tracing.
+OBJECTS: NOVELL SO SERIOUS ABOUT SERIUS IT BUYS IT
+We have been forecasting for some time that the future of applications development would become the linking of objects, and that the keys to the kingdom would be held by the companies that sold the best objects, and Novell Inc seems to think so too.
+It is getting really serious about Serius Corp, the Salt Lake City, Utah start-up where it put up venture capital for an 11% stake early last year.
+It has reached definitive agreement to acquire the company outright, paying $17.25m for the other 89%.
+Serius has developed a library of objects designed to enable non-programmers to create custom applications by simply linking objects on a point-and-click basis.
+In addition to simplifying custom application programming Serius technology simplifies the linking of applications to various network services, be they directories, security or communications.
+And applications built with Serius technology are portable between Apple Computer Inc Macintosh and Microsoft Corp Windows environments.
+The line includes two application builders, Serius Workshop and Serius Developer Pro.
+Libraries of objects, used inside the builders include Serius Database, SQL, Multimedia, Communications and InterApp.
+HEWLETT TO BUY NETWORK MANAGEMENT DEVELOPER METRIX
+Hewlett-Packard Co has definitive agreement to acquire Metrix Systems Inc, Nashua, New Hampshire developer of network management applications, on undisclosed terms.
+The combination will enable Hewlett-Packard to offer a combined combined portfolio consisting of distributed hardware probes and software agents, Embedded Advance Sampling Environment technology products and management applications supported on the most widely-used network management frameworks with HP OpenView, SunNet Manager and NetView 6000.
+IBM, HARRIS TEAM ON UNIX V.4.2 MP FOR RS/6000
+Despite its sponsor membership of the Open Software Foundation, IBM Corp is to put Unix System V up on the RS/6000.
+The move comes as part of IBM's evolving relationship with the Computer Systems Division of Harris Corp.
+The new operating system is planned for spring 1994, and will is being developed by Harris for both the RS/6000 and its own Night Hawk machines.
+IBM has been driven into the System V camp by customer demands in the US federal government and the telecommunications industry, and the IBM Federal Systems Co is helping Harris out with the work.
+It will provide security and real-time features required by government intelligence and defence agencies, Department of Defense contractors and others.
+It is based on Unix Labs's System V.4.2 MP and will offer B2-level security capabilities as defined by the US National Computer Security Center.
+Harris will develop the new operating system to be compatible with the PowerOpen Association's application binary interface which will provide access to applications being developed under PowerOpen standards.
+IBM OFFERS DOUBLED TRADE-IN ON S/36 FOR AS/400
+IBM Corp is at last getting serious about trying to convert System 36 users to the AS/400 — at least in the US, and this week announced a string of upgrade come-ons.
+It is offering double the usual trade-in credit for customers turning in a System/36 or 38 in exchange for an AS/400 9404 or 9406 F model — and for the first time, the credit is more than you could get for most of the System/36 models on the used market.
+Participating customers also get a conversion credit for each AS/400 CPU bought under the promotion.
+Orders for the AS/400 systems must be placed on or before August 31 for installation no later than September 30.
+Volume and other discounts up to 20% of the single unit purchase price can be combined with the promotion, but it can't be combined with special bids.
+The trade-in credit goes from $2,000 off an AS/400 F10 to $10,000 off an F60 to F95; the conversion credit ranges from $1,000 to $9,000.
+IBM is offering bigger conversion credits to users moving from a 4300, 370, 390, 9370 or alien multi-user system.
+The rebate depends on the 9406 F acquired and range from $3,000 to $100,000 — plus from $2,000 to $50,000 for conversion services.AS/400 orders have to be placed by December 10 for installation by January 14, 1994.
+IBM CHARGES FOR SOFTWARE MEDIA
+The sting in the tail of the AS/400 announcement (IBM never knows when to leave well enough alone) is that it is to start making a niggling handling charge for software upgrades.
+The charge is intended to cover the cost of creating the stacked tapes, media, documentation, and the shipping charges — but $580 on a 1,600 bpi half-inch reel tape, $375 on a 120 quarter inch cartridge, $195 on a 525 sounds exorbitant.
+EDS ‘CUTS 5,000 WORLDWIDE’
+Electronic Data Systems Corp has laid off an undetermined number of staff at its offices worldwide to increase efficiency and cut costs.
+An employee told the Free Press the company aimed to cut the 71,000 workforce by some 5,000 people, 7%.
+TAOS: THE PARALLEL OBJECT-ORIENTED OPERATING SYSTEM THE WORLD IS WAITING FOR
+Imagine an operating system that is suitable for everything from photo copiers to games consoles to video-graphics work to transaction processing.
+It is completely parallel and can intelligently farm bits of itself and applications across multiple processors, or alternatively sit on just one.
+Now imagine that it is processor-independent and is already running on 80386 and 80486, and Transputers, with the 68000 family, ARM RISC and MIPS R3000 processors a few months away.
+Now say that the applications are completely processor-independent too — that you don't even have to re-compile them to move them from one machine type to another, and indeed bits of them may even wander from processor type to processor type in the course of execution.
+Why not add network support so that if you plug an extra personal computer into the local network, everyone's applications will automatically run a bit faster (and they already run very quickly indeed)?
+Finally, for good measure, let's say that the operating system kernel takes up just 13Kb of RAM and the entire executive and developers code will fit onto a single 720Kb floppy when compressed.
+Virtual Processor
+This is not fantasy, this is a real-life operating called Taos from Tao Systems Ltd, a small company based in North London.
+Moreover Tao claims to have found substantial funding and board-level interest from some of the biggest Japanese computer and electronics companies, the identities of which will be announced this summer.
+Chris Hinsley, Tao Systems chief executive and the operating system's architect claims without a blush that the Japanese computer industry will completely steam-roll the US and Europeans, and that Taos will be the fuel.
+Funding is being provided by a separate marketing company, TK Suppliers, based in Tokyo.
+This has paid for the first phase of development and is entirely owned by a group of Japanese businesspeople plus Francis Charig, formerly head of trading systems business at the London Stock Exchange, who acts as managing director and the link between TK and Tao Systems.
+In this way Tao gets money, but also retains its independence: Charig says that Tao Systems has turned down a number of buy-out bids from the US in the last few months.
+The European Commission didn't prove that helpful either: Hinsley makes no secret of his frustration with the Esprit parallel processing projects, which he sees as obsessed with making Unix parallel — a quest that he sees as fundamentally misguided and doomed to failure in the long term.
+In the end, too, it was the Japanese that turned out to be most amenable to the idea of throwing away and starting from scratch; which is what Taos does.
+Chris Hinsley started off as a successful commercial author of arcade games for home computers, and many of Taos's concepts spring from his original need to produce code that would transfer easily between a plethora of machines.
+The approach he took was to develop a Virtual Processor — a 32-bit machine with 16 registers and support for standard data types and addressing modes, which didn't actually exist.
+All applications, and the bulk of Taos itself is written in Virtual Processor code, so that at run-time the code is loaded onto a real processor and translated on the fly into the chip's native instruction set.
+The practical upshot is that, as long as you have the right translator, the Virtual Processor code will run without modification on any chip.
+The 80386-80486 translator is the latest to be finished after the original Transputer implementations and Hinsley says that now they have first couple under their belts, it will only take a month or two to write each additional processor implementation.
+Moreover you can have heterogeneous networks of different processors all running co-operatively.
+Taos' games-based heritage brings other benefits too.
+Games tend to be inherently object-oriented, says Hinsley (all those sprites moving about and interacting) and games authors often have to cram a lot into a tiny amount of memory while stretching hardware to its limits.
+As a result Taos is object-oriented at a very fine level and it takes the idea of dynamic linking to its logical conclusion.
+This means that instead of being a monolithic operating system running monolithic applications, the program just calls in bits of code as they are needed from libraries of routines — rather the same way that ICL Plc's VME mainframe operating system works.
+This accounts for the small size of the Taos microkernel, which provides memory and process management, load balancing and precious little else.
+Even the Virtual Processor translator is retrieved only when needed, and it is Hinsley's boast that no piece of code is ever loaded onto the processor that isn't about to be run.
+As a result, load-balancing also becomes virtually trivial, he says.
+Each processor on the network runs its own copy of the 13Kb microkernel and when a new thread is started, the kernel on that chip compares its loading with its immediate neighbours.
+The calculation takes account of processing power and the speed of communication links, and then the request to start the thread is handed on to the processor with the least to do.
+This processor carries out exactly the same load balancing process until the thread finds a home, is translated by the chip's translator and begins to run.
+All this talk of bits of code being pulled out of disk and cache, being translated on the fly and wandering around networks sounds horrendously slow, but appears in practice to be blindingly fast.
+A personal computer with a single 66MHz 80486 will render a broadcast quality, full screen, complex piece of ray-tracing in less than a minute.
+That is with no fancy graphics chips and using a standard VESA video adapter board.
+The 80486 translator floating point code is still being optimised and in a couple of weeks Charig says that time will be cut to between 20 and 30 seconds.
+This summer the company will have a board, costing around £1,500 containing four MIPS R3050 RISC processors.
+This will slot into a personal computer and enable the 80486 and the MIPS processors run code cooperatively, bringing our same ray trace example down to less than 10 seconds.
+Exactly where all this speed comes from is difficult to pin down; obviously Virtual Processor code is pretty low level stuff and assembler code tends to run quickly by its very nature, however Hinsley is optimistic that the kind of performance seen today will be preserved even when applications are written using the C++ and Parallel Basic compilers that are currently nearing completion — compilers that produce Virtual Processor code, of course.
+Programmers do not need to worry about the fact that their applications may be running in parallel, Hinsley says, they merely need to think about the appropriate size of object and Taos will do the rest.
+Four markets
+A product's quality or degree of innovation is never a guarantee of success and a lot will depend on just how hefty these forthcoming Japanese backers turn out to be.
+So will Taos succeed?
+There are four markets in which its designers say it will do equally well: graphics, we have already outlined; then there are games consoles — Taos' original home territory; and embedded applications: it may sound odd to have Taos running in a photocopier or a drinks machine, but the tiny kernel makes it ideal, says Hinsley.
+It may also seem improbable that the world's transaction processing systems will suddenly switch to Taos, but on the other hand the company is already hard at work building SQL interface objects and others that will confer Posix compliance, it has even chatted to a bank about payroll applications.
+Its acceptance will be helped by the pragmatic approach that Tao Systems is taking in integrating its baby with existing systems.
+So, for example with the 80386 and 80486 implementations, the company has decided to stick with the MS-DOS file system.
+Installing Taos then, is as simple as copying the files to your hard disk, typing TAOS and you're in.
+Similarly, there will be a variant of the 68000 family translator tweaked to make use of the Macintosh file system.
+The trouble is that both the product and the claims made for it are so unusual that it is impossible to predict whether it will disappear, never to be seen again, or become the biggest thing since MS-DOS.
+Towards the end of the demonstration, Hinsley leant back and said ‘of course there's no reason why the fridge shouldn't be doing a bit of your mandelbrot.’
+And he wasn't really joking…
+DEC DISTRIBUTES JSB's MULTIVIEW MASCOT AS PART OF ITS DECADVANTAGE APPLICATION ENVIRONMENT
+Digital Equipment Corp is now distributing JSB Computer Systems Ltd's MultiView Mascot with its DECadvantage application environment.
+This will enable users to run multiple applications simultaneously, switch rapidly between applications, and copy and paste information from one application to another without needing to adapt them.
+Macclesfield, Cheshire-based JSB's MultiView Mascot provides windowing capabilities on character and AlphaWindow terminals, connected to Unix systems.
+It also offers terminal emulation.
+DECadvantage is an integrated application environment, which runs under Santa Cruz Operation Inc's version of Unix.
+It supports multi-user terminals as well as personal computer client and Unix server configurations.
+Product manager for DECadvantage Hans de Jong says ‘We are delighted with the initial interest in this package.
+With MultiView Mascot, we are able to offer our customers using terminal-based configurations, a powerful multi-windowing capability with a modern look and feel, but without their needing to adapt their existing applications.’
+The system is available now to DEC customers and value-added resellers.
+MultiView Mascot costs £2,000 for a 16-user licence.
+INTERSOLV HAS PERSONAL COMPUTER-BASED MAINTENANCE WORKBENCH TO MAKE MAINTENANCE TASK A LITTLE EASIER
+It's no fun being a mainframe maintenance programmer: while the developers get the latest software engineering tools to play with, those charged with bug fixes and minor changes are stuck in the basement churning through pages of old print-out.
+Moreover the developers of new applications are increasingly doing their work on workstations, while the maintainers are still stuck on the mainframe itself.
+That, at least is the picture painted by Intersolv Inc, Rockville, Maryland, which last week launched Maintenance Workbench, designed to migrate MVS maintainers of the mainframe to OS/2 or Windows 3.1 workstations.
+Workbench first appeared in an earlier incarnation as an application called Intercycle from now defunct company Interport Inc.
+Intersolv bought the rights to the application six months ago, since when it has groomed and re-packaged the product for its worldwide launch as Maintenance Workbench.
+The product takes a copy of the target MVS application and replicates the Cobol source code on an OS/2-based database server.
+At the same time the code is cross-referenced to allow for easy navigation.
+Programmers can carry out code changes and test them from Windows and OS/2 clients.
+The company says that the graphical interface and automatic records that Workbench keeps will tremendously speed up the ‘research’ phase of maintenance.
+This is the process that programmers go through at the beginning of a job to understand existing code.
+Since Intersolv reckons that maintenance accounts for some half of all programming work in MVS sites, and says that the research makes up for the bulk of this work, the potential time savings for users and the potential market for Intersolv are substantial.
+Furthermore the company is claiming to have the market to itself and that Workbench is the first tool set specifically aimed at mainframe maintenance to run on personal computers.
+Since January, when the package went on limited release in the US, the company says it has been installed in over a dozen sites including MCI Communications Corp, Xerox Corp and American Express Co.
+It costs £3,500.
+INFORMIX REVEALS SPECIFICATIONS ON PARALLEL ONLINE 6 AND 7
+Informix Software Inc, Menlo Park, California has unveiled technical specifications for its next generation multithreaded databases, OnLine 6.0 and OnLine 7.0, which have been optimised for massively parallel processing systems.
+OnLine 6.0, which goes into beta test in June, enables complex queries and other transactions to be subdivided across multiple processors.
+It includes parallel index builds, archive and restore tables, a graphical interface for tape management routines and fault-tolerant back-up functions.
+Key to its framework are a series of virtual processors’ that can be conditioned to handle communication, synchronous input-output and administration transactions separately.
+According to Informix, this more than triples performance because different transactions can be carried out on different processors simultaneously.
+OnLine 6.0 is scheduled to ship by the end of year and will be available on Sun Microsystems Inc, IBM Corp, Hewlett-Packard Co and Sequent Computer Systems Inc systems.
+OnLine 7.0 is Informix's full-featured massively parallel processing solution, which its co-developing with Sequent.
+It is expected to go beta test in March next year.
+At the heart of Version 7 is the parallel database query technology, which enables the database to address simple and complex, CPU-intensive and decision support queries.
+To do this, parallel database query structures data so it can be sorted, scanned and joined in parallel, breaking up large complex tasks into queues of smaller transactions that can be processed simultaneously.
+OnLine 7.0 will be available exclusively for Sequent symmetric multiprocessing machines later next year.
+PATROL HAS NEW SYSTEMS MANAGEMENT TOOL FOR UNIX
+Patrol Software Inc has put some new systems management software up on Hewlett-Packard Co, IBM Corp, Sequent Computer Systems Inc, Silicon Graphics Inc and Sun Microsystems Inc systems.
+The Redwood Shores, California-based company claims DDS/Patrol is an object-oriented systems management tool that can automatically monitor and management distributed applications, databases and systems.
+It says the system can act as an interface to the Open Software Foundation's Distributed Management Environment and runs under Motif.
+Patrol consists of a master console and an agent.
+Agents run on each monitored machine gathering statistics and forwarding alerts and other requested information to the master console.
+Object class descriptions and rules for monitoring are sent to the agents and stored so that the agents don't need to communicate with the console except to report alerts and graphing data, cutting down on network traffic, the company says.
+The Patrol console presents information from the agents.
+The package can be tailored for a variety of databases and applications and comes with variety of tools and libraries including Oracle, Sybase, Informix, Ingres, Oracle Financials, software distribution, security, batch management, back-up management and help desk management.
+DEC & CARNEGIE MELLON SHOW IMPRESSIVE CONTINUOUS SPEECH RECOGNITION ON ALPHA MACHINE
+Robert Palmer's chief executive perspectives speech at Windows World was liberally sprinkled with demonstrations of just what you can do with the aid of fast processors like Alpha.
+Most impressive was a demonstration of real-time speech to text, where Digital Equipment Corp's chief tempted fate by getting the machine to translate a few words.
+Not only did the computer get them right but Palmer didn't slow his delivery at all, and the printed word appeared a fraction of a second later.
+The demonstration came courtesy of a piece of software called Sphinx II from the Carnegie Mellon University.
+Sphinx II uses hidden Markov modelling to achieve its results; a set of algorithms developed in the mid to late 1980s.
+What is new, according to DEC consultant engineer Lawrence Stewart, is that hardware now has the horse-power to drive them in real time.
+The version that Palmer played with has a vocabulary of 2,500 words, very small by human standards, though enough for application-specific work such as booking airline tickets, or controlling computer front ends.
+Larger versions are already in the works though — Lawrence says that the company already has a system with a vocabulary of 20,000 words that will happily cope with most stories read out of the Wall Street Journal.
+But the real significance of the demonstration is that for the first time high-powered personal computers are capable of keeping up with normal speech without…the…speaker…doing…this.
+The delay that appeared in the demo, he says, is constant, irrespective of the length of sentence that is being interpreted.
+From here on in, says Lawrence, increased performance and memory will simply lead to larger vocabularies.
+The next real challenges lie in natural language processing — enabling the machine understand exactly what is meant by the rambling, illogical verbalisations in which humans tend to indulge.
+MIDISCAN TURNS SHEET MUSIC INTO MIDI INFORMATION
+Musicians have been waiting impatiently for an application to read printed musical scores and convert them into MIDI Musical Instrument Digital Interface files for output on keyboards and synthesisers.
+At Comdex, a two year old Ojai, California-based company, Musitek Inc, was showing its first product, which it claims has cracked the problem on a personal computer.
+Midiscan takes its input in the form of any standard TIFF files and spits out its interpretation in an intermediate format which the company calls MNOD, Musical Notation Object Description.
+The MNOD interpretation is displayed as a standard musical score so that the user can correct any errors that may have crept into the interpretation before it is written as standard MIDI information.
+Christopher Newell, president and chief executive, says that the closely-held company has spent 10 PhD-years on perfecting the product, which he claims manages a 98% recognition rate.
+The software can automatically distinguish between various score types — everything from solo or piano music to conductors' orchestral sheets with up to 16 staves per line — each part is assigned to a separate MIDI channel.
+A well-endowed 80386 machine will take between three and five minutes to interpret each sheet, depending on the density of the score.
+Newell admits that there are still a few things that the software cannot do — in particular it does not handle the dynamic marks that define volume, or tempo markings.
+However he says he hopes to establish MNOD as an industry standard for storing musical information, since it retains information that is lost in the MIDI format, and once he gets backing from the industry, work will begin on extending the format.
+Midiscan for Windows is due to ship in the first week of July, with Macintosh and Atari versions following next year.
+ITERATED SYSTEMS UNVEILS FRACTAL DECOMPRESSION DEVELOPMENT KIT
+Among the plethora of multimedia announcements at Comdex, Norcross Georgia-based Iterated Systems Inc was showing off its first general product.
+Poem Videobox is a software developers kit that enables programmers to incorporate the company's decompression techniques into their own products.
+Iterated's system is claimed to produce data rates as low as 40Kbps for high quality video playback, which compares very favourably with the likes of the Motion Picture Experts Group algorithm.
+Moreover the fractal transform technique provides perceptual resolution independence: zoom in to a picture and instead of getting a blocky, pixellated image, the software gives a realistic effect by actually adding detail in that wasn't in the original.
+At the moment, this particular function is restricted to still images — the horsepower is not available to carry out fractal enhancement on the fly, says the company.
+Iterated's focus is on quick decompression techniques, compression itself is relatively lengthy, and even with a custom-built processor board sitting in an 80486 machine, the system will take between 25 and 30 seconds to determine the mathematical functions needed to regenerate each television frame.
+By this summer the company says it will have a full authoring package that will combine a frame grabber board with the compression software.
+In the meantime the $1,800 developers kit will enable programmers to get on and produce the end-user applications using sample video clips.
+ICL PERSONAL SYSTEMS LOOKS TO RESELLERS FOR NEW US PUSH
+ICL Plc used Windows World to launch its personal systems products in the US.
+On the software side it is launching a subset of its TeamWorks range.
+In particular the company is hoping to position TeamWorks Office as a direct competitor to Lotus Notes.
+Other products it hopes to push are its X400-based electronic mail systems for Windows, and, more peculiarly, it is intent on becoming a big player in the commodity world of local network adaptor boards — from its parent, Fujitsu Ltd.
+ICL already has a 50-strong North American sales team which mainly sells its personal computer hardware.
+However for the new effort it is seeking out three types of indirect channel: simple resellers for the adaptor boards and a mixture of systems integrators and US OEM partners for the software side.
+Mika Enberg, ICL's TeamWare product marketing manager says ICL began seeking US partners three months ago and hopes to sign the first in three or four months.
+The biggest problem ICL faces is credibility, Enberg admits: when people think groupware they still think Notes, when they think of ICL they think of mainframes, and often in the US they don't think of ICL at all.
+So Comdex launched an ICL visibility campaign.
+HEWLETT-PACKARD ANNOUNCEMENTS
+Hewlett-Packard edges gingerly towards Unix System V.4 compliance
+Hewlett-Packard Co, the company that has an evangelising belief that the Common Open Software Environment is the key to its future Unix strategy, is now confident enough to admit that it is unlikely to incorporate any of the Open Software Foundation's current operating system technology into its own HP-UX Unix system software.
+Future microkernel systems excepted — Hewlett-Packard hasn't decided which variant of that particular technology it will adopt — the firm says that it, like IBM Corp (both Software Foundation co-founders)‘has no plans to move to OSF/1.’
+Moreover, the firm has indicated an intent to move towards greater (if not full) compliance with the rival Unix System V.4 kernel from Unix System Laboratories Inc, and adopt the System V Interface Definition version 3 in HP-UX 10.
+(It's worth remembering that Unix Labs has maintained from the beginning that COSE would eventually result in an agreement on the kernel, namely System V.4 or its descendent.
+Whether Hewlett-Packard will actually licence System V.4 or a subsequent implementation from Unix Labs remains to be seen, but its intent is to step up from the current Unix V.3.2, System V Interface Definition 2-derived HP-UX version 9.03 operating system — which includes multithreading support from AT&T Unix — to a COSE-compliant, Unix Labs Unix-based system during the first half of next year is clear.
+It thinks it would still be able to offer Software Foundation application compliance via the COSE specifications it will implement.
+HP-UX 10.0 had been scheduled for release in December, but that was before COSE came along and re-wrote the rules of engagement.
+Hewlett-Packard refuses to be drawn into a debate about the kernel, insisting ‘it isn't the issue.’
+Hewlett-Packard expects COSE to deliver a measure of source code compatibility for applications across various Unix architectures in its initial guise — a binary compatible environment allowing applications to run on multiple systems is seen as the net result of future COSE specifications.
+Low-end Hummingbird machine to fly ‘by January’ with Macintosh-like graphical user environment
+Hewlett-Packard Co has its entry-level, low-cost Precision  Architecture RISC 7100LC CPU on the burner.
+The part was expected to have materialised in a low-end 50MHz to 70MHz Hummingbird machine that had been talked up for the end of this quarter.
+UK workstation business manager, Peggy Heppelmann says they will now appear any time between September and next January, claiming Hewlett-Packard's existing £3,877, low-end 715/33 desktop remains very competitive with other entry-level systems, including Sun Microsystems Inc's £3,655 Tsunami-based SparcClassic and IBM Corp's £3,664 RS/6000 220W.
+As well as milking the 715/33 for all its worth, Hewlett-Packard says it remains hard at work on developing what it says will be an Apple Computer Inc Mac-like Unix environment for the thing, in addition to the on-board multimedia hardware it is supposed to incorporate.
+The 7100LC Hummingbird CPU has been configured for both big- and little-endian application software, encouraging speculation that is being styled to accommodate Microsoft Corp Windows NT — to which Hewlett-Packard has not yet committed on its RISC lines — as well as Unix.
+The mass market box is expected to come in well below the $5,000 — £4,000 — mark.
+Hewlett-Packard says it is preparing the appropriate channels to handle the volume box, which it says must be in place before the thing is launched.
+Multiprocessing on the desktop is part of the Hewlett ‘balancing act’
+Hewlett-Packard Co denies that there is any pressure on it to deliver multiprocessing workstations despite the hype surrounding Sun Microsystems Inc's latest salvo of desktops and servers, which use multiple SuperSparc micrprocessors.
+It says that Sun needs multiprocessing desktop systems because the Mountain View, California-based company can't get competitive performance from uniprocessor implementations of the Texas Instruments Inc SuperSparc RISC, in contrast to Hewlett-Packard's with its own HP 9000 Series 700 top-end uniprocessor workstations, which use the 99MHz Precision Architecture RISC 7100.
+Moreover, Hewlett-Packard is not yet convinced that the market is ready for such advanced technologies on the desktop.
+In its experience, most workstations are employed as single-user (albeit multitasking) systems, and in any case — as Sun is only too aware — there is very little application software around that has been optimised for multiprocessing architectures.
+Hewlett-Packard does offer multiprocessing on the 9000 Series 800 servers and although it already has multiprocessing desktops up and running in the labs, the company says it is still in the process of deciding whether to bring these to market sooner or later.
+The company is cutting its multiprocessing teeth on this technology and the parallelising software it has developed for the clustering systems it now offers.
+Campaign
+A desktop multiprocessing campaign, however, will require much greater resources, the company believes.
+‘Its a balancing act,’ according to Hewlett-Packard's UK workstation business manager, Peggy Heppelmann.
+She believes that Hewlett-Packard has now carved itself enough of a breathing space to be able to consider various options at both ends of the market.
+If multiprocessing desktop machines are on the agenda, and all indications are that they will appear later — that is to say next year — rather than sooner, then they will definitely use a higher performance Precision Architecture RISC 7100 part (currently at 99MHz), which Hewlett-Packard will first introduce in a new uniprocessor system.
+Multiprocessors should provide at least double the least double the performance of the current top-end Model 755 workstation, the performance of which goes to 150 SPECfp92 and 80 SPECin92.
+Hewlett-Packard comments that its current HP-UX 9.0.3 implementation already incorporates multithreading technology from Unix System V.3.2, although that's not a full multiprocessing version — like Unix System V.4 MP — that it would probably require.
+—
+By William Fellows
+SUN's SUNSOLUTIONS ARRIVES TO OPEN A UK ARM, BRINGING SHOWME 1.1 WITH IT
+SunSolutions, Sun Microsystems Inc's desktop computer conferencing unit has launched version 1.1 of its ShowMe white board system for Sparc systems.
+The shared conference board enables disparate users to view and annotate documents and drawings over TCP/IP networks simultaneously.
+A 10-user licence is $1,100, but free single-user licences will be thrown in with every Sparcstation LX or SparcClassic bought before the end of June.
+SunSolutions has also opened its first office outside the US — Andrew Rattigan is to head a North European operation based at Sun's UK headquarters in Bagshot, Surrey.
+Rattigan will be responsible for ShowMe in Ireland, Sweden, Norway, Finland, Denmark, Belgium, Luxembourg and the Netherlands: he now won't be heading over to Moscow to work at Sun's long-planned Commonwealth of Independent States operation.
+SunSolutions has some other workgroup conferencing packages in the works which it will reveal in a couple of months.
+The company plans Solaris x86, Windows and Windows NT versions of these and the ShowMe system, versions for other RISC workstations thereafter.
+It's currently recruiting a Paris-based Central European manager who will be responsible for French, German, Italian, Spanish and other markets; SunSolutions claims 900 ShowMe licensees across Europe.
+MAKE MAKES MOVE INTO EUROPE WITH ITS NETWORK ASSET MANAGEMENT SOFTWARE
+Mountain View, California-based Make Systems Inc, which specialises in network asset management software for wide area and router networks, is establishing a UK subsidiary.
+The new office is to cover northern Europe, and the company also has plans to open a Paris office to cover southern Europe in the near future.
+Make Systems' core product is NetMaker, a network planning, modelling and design software system.
+According to Stephen Howard, the company's founder and chief executive, Make Systems is the only supplier of network planning software to use device-specific libraries to model the performance of specific vendors' routers and time division multiplexers.
+The company already has a number of customers in Europe, including France Telecom and AT&T Istel Ltd, but the new UK office will be its first presence outside the US.
+It plans to target PTTs and the banking industry.
+Howard comments, ‘Early on, there was a lot of pressure to be in the European market.
+We were very careful about how we entered this market.
+There's a significant amount of adaptation that has to be done.’
+But Make has no plans to carry out any research and development outside the US.
+Make Systems has also announced a technology exchange pact with Wellfleet Communications Inc for NetMaker to be optimised for Wellfleet hardware.
+The deal joins similar agreements with Network Equipment Technologies Inc, Newbridge Networks Inc, Ascom Timeplex Inc, Tellabs Inc, AT&T Paradyne and Cisco Systems Inc.
+Make says it will sell direct, rather than via the hardware manufacturers with which it has relationships.
+‘We did attempt to do that in the early stages, for example with Ascom Timeplex, but generally what's happened is that the distribution relationships have been less than perfect,’ explains Howard.
+NETWORKING SUPPORT ALLIANCE FORMED TO END ‘WHOSE FAULT IS IT’ ARGUMENTS
+A group of networking hardware vendors have teamed up to improve service and support for customers using multi-vendor networks.
+The formation of the group, called the Networking Technical Support Alliance, was announced at the Systems Support Expo in Boston.
+The Alliance starts life with 10 companies: Chipcom Inc, Cisco Systems Inc, Hewlett-Packard Co, Hughes LAN Systems Inc, IBM Corp, Proteon Inc, Synoptics Communications Inc, 3Com Corp, Ungermann-Bass Inc and Wellfleet Communications Inc.
+Advanced Computer Communications Inc, Eicon Technology Inc, General Datacomm Industries Inc, Hughes Network Systems, Madge Networks Ltd, Newbridge Networks Inc and Olicom USA Inc are also said to have expressed interest in joining.
+According to Peter Felice, vice-president of customer services at Hughes LAN Systems, the idea is to avoid situations where suppliers blame each other for non-functioning equipment.
+‘If one of vendor A's customers has a problem with the interoperability of two products, the customer could call vendor A. Vendor A, on behalf of the customer, would call vendor B and register it as a Networking Technical Support Alliance call,’ he said.
+‘Ultimately, the customer is always going to call in through one particular vendor, but the hope of the alliance is that the vendors will work on a quid pro quo basis,’ he added.
+Where vendors cannot agree on where the problem lies, they will at least inform the customer in writing of the reason.
+‘Generally, these kinds of problems rarely turn out to be unresolvable,’ said Felice.
+The Alliance will consist of a Management Committee, Standing Committees, a Customer Advisory Board and Members at Large.
+Membership is open to any company that designs, manufactures, sells or supports generally-available products conforming to layer 3 or below of the Open Systems Interconnection model, such as bridges, routers, hubs or adaptor boards.
+NORTHERN EXPOSURE MOBILISES MICRO FOCUS COBOL IN TOOL FOR MVS-TO-UNIX MIGRATION
+UK software house Northern Exposure Consultants Ltd, Manchester, has introduced AutoM-IX, a Micro Focus Plc Cobol-to-Unix migration tool for financial and accounting mainframe software.
+AutoM-IX is based on PowerDrive, the firm's own applications generator, and converts IBM MVS Cobol applications to Unix without modifying code, the company claims.
+To do this, the tool strips the application of its database, graphical front-end, transaction processing monitor and recompiles it under Micro Focus Cobol.
+AutoM-IX replaces application features, adding access interfaces for Sybase, Informix, Oracle and Ingres relational databases and other third party proprietary languages to the code.
+AutoM-IX runs on a variety of Unix systems including Santa Cruz Unix, AIX, Ultrix, Solaris 2.1 and HP-UX.
+Northern Exposure has the stuff out at 26 reference sites across Britain including Somerset, Hatfield, Berkshire, Hackney and Tower Hamlets local authorities and at ICL Plc, Westland Helicopters, British Steel, Racal Electronics, Rediffusion and PowerGen.
+An average migration contract will cost £100,000.
+CABLE & WIRELESS ‘COMMITTED TO HONG KONG TELECOM THROUGH CHINA TAKEOVER’
+Announcing a 13% rise in net profit yesterday, Hong Kong Telecommunications Ltd chief executive Michael Gale said that Cable & Wireless Plc had no plans to cuts its 58.5% stake in the company further, and is committed to staying after the territory returns to China in 1997.
+After the meeting, Gale also told Reuter that his company's exclusive franchise, which is valid until 2006, is secure despite the Chinese threat to tear up agreements it has not approved — but the new non-exclusive domestic licence, due to come into force in 1995, will need Peking's endorsement after it is negotiated with the present government.
+On the figures, the company says that it should achieve double digit profit growth in the year to March 1994 but will fall short of the 13.3% figure achieved in 1992-93, because of cuts in international tariffs agreed with the government last year and expected to be implemented on July 1 this year.
+The company has agreed to keep the average rise in domestic telephone charges to four percentage points below inflation, and to lower international rates by 12% over the next three years, starting with an 8% cut in the first year.
+During the year, traffic with China grew more than 30% against an average 26% for all international traffic, and now accounts for 44% of all international traffic; it should pass 50% in the next two or three years, the company says.
+The company retains major ambitions in China and says it wants to help the country create by the end of the century a network that would be over twice as big as the one operated by British Telecommunications Plc — China plans to raise the number of telephone lines to 100m nationwide by the year 2000 from just 25m now.
+Despite the scale of the task — creating the equivalent of two and a half British Telecoms from scratch in seven years, China has ruled out foreign equity investment in telecommunications projects.
+But Gale expects that to change.A key benefit for Hong Kong Telecom is that it already has a major Chinese investor in the shape of the Peking-owned China International Trust & Investment Corp, which bought a 20% stake in 1990.
+FUJITSU MAKES BIG LOSS AS TOSHIBA AND HITACHI PROFITS PLUMMET
+The numbers from Fujitsu Ltd, Hitachi Ltd and Toshiba Corp, all of which announced yesterday, were every bit as bad as expected, with Fujitsu plunging to a consolidated net loss of $295m and the other two more comfortably diversified companies reporting sharp declines.
+Fujitsu attributed its loss to the sluggish global economy, but the company has no hit products in the computer market now that mainframes have gone ex-growth, it is only embarking on building a mid-range Unix business in Japan, in part with machines made by its ICL Plc affiliate and by Sun Microsystems Inc, and its personal computer business labours in the shadow of that of NEC Corp.
+Indeed the one true bright spot in the Fujitsu firmament is ICL now that Amdahl Corp labours under the same woes as its 42% shareholder.
+Fujitsu says it expects to break even in 1993-94, with zero net profit.
+Toshiba and Hitachi have the cushion of their heavy electrical divisions to fall back on — indeed Hitachi was largely dragged down by its mainframe business and it must be wondering how much longer that game will be worth the candle.
+MERCURY ONE-2-ONE ON TARGET AND DOES NOT SEE ANY PRICE WAR
+The Mercury One-2-One Ltd digital cellular joint venture between Cable & Wireless Plc and US West Inc has been talking to Reuters, and says it is not seeking to trigger a price war with Cellnet Mobile Communications Ltd and Vodafone Group Plc.
+‘We think the market's pretty big, maybe 6m to 8m subscribers to cellular and personal communications network services by the end of the decade,’ the company said.
+To start with, Mercury One-2-One, which launches in the summer with a big pitch to the mass market planned to start in the autumn, will be limited to the south east, but ‘someone who is regularly out of London will have to use the existing cellular network, so cellular will always be able to charge a premium for that.’
+Starting in Greater London, it aims to move into main south east population concentrations by early 1994 and its licence requires close to national coverage by 2000.
+The company believes there's enough market for four operators, certainly enough for three and that two is not enough.
+One-2-One is also aiming at people who have never thought about owning a mobile phone because of the cost.
+Volume users should pay 30% to 40% less than on analogue cellular, lower-volume users will get three times as many minutes for the same price as cellular.
+Handsets will be have to offered at about £300 — way below the cost of making them to start with, until volumes bring the cost down — in order to make the service competitive with the cellular duopoly.The company insists that analysts' worries that there will be a shortage of handsets is unfounded.
+SHARE & BOND ISSUES
+Santa Cruz Operation Inc, Santa Cruz home of desktop and low-end Unix, got its initial public offering of 6m shares, 3.6m of them new, away at $12.50 a share, to raise about $41.1m net, for which the company did not give plans.
+The managing underwriters for the offer were Goldman, Sachs & Co and Donaldson, Lufkin & Jenrette Securities Corp.
+Fujitsu Ltd has reported a consolidated net loss for the year to March 31 equivalent to $295.0m against a profit last time of $110.5m, on turnover that rose 0.6% to $31,312m.
+The figures have been converted at $0.0090497 to the Japanese yen.
+Hitachi Ltd has reported consolidated net profits for the year to March 31 down 39.4% at the equivalent of $699.4m on turnover that fell 2.3% to $68,235m.
+Net per share fell 38% at $0.20.
+The figures are converted at $0.0090497 to the yen.
+Sharp Corp has reported consolidated net profit for the year to March 31 down 24.2% at the equivalent of $268m on turnover that fell 2.6% at $13,393m.
+Net earnings per share fell 24% to $0.25.
+The figures are converted at $0.0090497 to the yen.
+Toshiba Corp has reported consolidated net profits for the year to March 31 down 48.0% at the equivalent of $186.0m on turnover that fell 1.9% to $41,900m.
+Net per share fell 48% at 5.79 cents.
+Figures are converted at $0.0090497 to the yen.
+Hong Kong Telecommunications Ltd has reported net profit for the year to March 31 up 13% at the equivalent of $832.2m on turnover that rose 18% to $2,801m.
+Net earnings per share rose 13% to $7.47.
+Conversions at $0.1294 to the Hong Kong dollar.
+KEY TRONIC TO ACQUIRE HONEYWELL KEYBOARD DIVISION
+Spokane, Washington-based Key Tronic Corp is to acquire the keyboard division of Honeywell Inc for about $33m, much of it in new Key Tronic shares: the agreement will double Key Tronic's production capacity and will leave Honeywell with a 7% stake in the keyboard manufacturer.
+IBM TO LAUNCH RAID 5 DISK ARRAY FOR RS/6000
+IBM Corp is expected to launch a full RAID 5 disk array for the RS/6000 using its new 2Gb 3.5’ drives — maybe as soon as Tuesday.
+NOVELL AND ORACLE GET TOGETHER
+Novell Inc is getting together with Oracle Corp on June 15 to announce ‘a major joint initiative relating to products and strategies for Enterprise Network Computing’: analysts expect a strategic move in response to Microsoft Corp working closely with Sybase Inc on Windows NT, but the agreement is not thought to involve equity stakes.
+THORN EMI AWARD BT INTERNAL TELEPHONE CONTRACT
+British Telecommunications Plc has a £5m five-year contract to take over ownership and management of Thorn EMI Plc's internal UK telephone network: the contract marked the official launch of its Communications Management Service which designs, implements, operates and manages large business communications facilities for companies wanting to put their UK private networks out to facilities management.
+FRENCH PRIVATISATION LIST
+As well as Compagnie des Machines Bull SA, the French government has Thomson SA on its list of 21 companies set for privatisation; the old 20% limit on foreign shareholdings has also been lifted.
+CONNER AND OVERLAND DATA FINALISE DEAL
+Conner Peripherals Inc has now finalised the deal under which Overland Data Inc takes over all manufacturing, marketing and engineering rights to the Cipher 995 9-track and T480 18-track tape drive product lines, as well as all Cipher brand and trademark rights; the acquisition will immediately double Overland Data's turnover to a figure running at $24m a year.
+AT&T GET $20m ORDER
+Brunei gave AT&T Co a $20m order for 10 5ESS-200 digital exchanges.
+WORDSTAR HIT BY AUSTRALIAN COURT AWARD
+Novato, California-based WordStar International Inc has been hit by an Australian court award against it ordering it to pay $3.2m to Perfect Information Pty Ltd as damages on its claim it was wrongfully terminated as one of WordStar's Australian distributors; WordStar will appeal the ruling, maintaining the plaintiff was never lawfully engaged as a distributor.
+AST TO BUY TANDY PC MANUFACTURING BUSINESS
+AST Research Inc's agreement to buy Tandy Corp's personal computer manufacturing business will shoot the Irvine, California company up to fourth place in the US market ahead of Dell Computer Corp and behind Apple Computer Inc, IBM Corp and Compaq Computer Corp — but why should anyone want to buy a personal computer manufacturer — after all no-one came in for bankrupt Everex Systems Inc: the answer is that the deal includes full access to Tandy's retail stores — AST will supply machines to be sold under the Tandy brand name; the plant in Scotland is also an attraction.
+TANDY LOOKING FOR THREE MORE BUYERS
+Now that Tandy Corp has abandoned its plan to spin off its manufacturing arm as a separate company, the company is looking for buyers for three other manufacturing businesses: Memtek makes tapes and other products for Tandy stores under the Memorex brand name, the second is Lika, making circuit boards, the third is O'Sullivan Industries, which makes flatpack furniture; Tandy will now keep 13 manufacturing units and three product engineering groups — factories devoted exclusively to producing products for Radio Shack will be folded back into Tandy, the company declared.
+COMPAQ TAKE PORTABLE LEAD IN EUROPE
+Compaq Computer Corp took the lead in the European portable personal computer market in the first quarter of 1993 according to Dataquest figures which give Compaq 22% by value and 17.5% by volume, and the manufacturer says that shipments in the period were up 89% on the first quarter of 1992, growing four times the rate of the market, which expanded 21% — and those figures reveal the reason that Dell Computer Corp has stumbled badly in laptops and notebooks: buyers are going for the higher cost 80486-based machines that abound in Compaq's line, while Dell's product emphasises low-price 80386SX-based machines.
+COMPAQ US MARKET SHARE GROWS
+In North America, Compaq Computer Corp's portables market share grew 65%, reaching 17.6% for the first quarter, up from its 11.4% year-end market share, the company said.
+US ITC INVESTIGATION FOLLOWS SYQUEST COMPLAINT
+Following the complaint of unfair competition from SyQuest Technology Inc, Fremont, California, the US International Trade Commission is to investigate firms in the business of making and selling hard disk cartridges for SyQuest drives: the probe involves Nomai SA of France.
+AT&T UNABLE TO WAIT ANY LONGER AT&T Co says it has negotiating with European carriers to join its WorldSource venture for ‘better than a year,’ but that with its customers clamouring for one-stop shopping, especially in Europe, AT&T couldn't wait any longer for national carriers to join —‘We don't plan to leave our customers at the European borders,’it said.
+BORLAND OFFICE WINDOWS TO SHIP WITHIN 60 MONTHS
+Borland International Inc has now reached agreement with WordPerfect Corp for marketing of the Borland Office for Windows suite in international markets, and says it plans to start shipments within 60 days.
+NOVELL EXPECTATIONS FOR NETWARE 4.0
+Novell Inc says it expects its new NetWare 4.0 to represent 20% of total revenues in the first 12 months of shipment, matching previous releases: some analysts had questioned how quickly NetWare 4.0 will take off because of its complexity.
+OLIVETTI AND EASTMAN KODAK JOIN FORCES
+Ing C Olivetti & Co SpA and Eastman Kodak Co have joined forces to market a fully integrated document image management system: Kodak will supply its range of document scanners, and Olivetti will provide computer hardware plus document management software; this comprises its own IBIsys, Integrated Business and Information System, which integrates applications at both the client and server level, enabling transparent communications via a Unix host — it provides object-oriented filing, electronic mail, diary and administration services, such as printing and word processing; also included as part of the package, is Wimbledon, London-based Integrated Documatic Inc's Imsoft document image processing software, and Costa Mesa, California-based Filenet Corp's optical document store and retrieve and WorkFlo software; Kodak is also offering Olivetti customers image capture bureau services; the document image management system is available now, price dependent on configuration.
+DIEBOLD JOINT VENTURE IN SHANGHAI
+Canton, Ohio-based Diebold Inc has a joint venture that will begin automatic teller machine production in Shanghai in the fourth quarter: Diebold owns 65% of China Diebold Financial Equipment Co Ltd with Shanghai FarEast Aero-Technology Import Export Corp holding 20%, and Commercial Bank of China the rest.
+IBM PERSONNEL IN A FLAP
+The tale goes that a little while back, IBM Corp was using street names, reportedly from the Palo Alto town map, as its product code names — Sierra, Summit perhaps — and had been carefully working up the map, so that all you had to do to put a top IBMer into a real flap was to pick a name from the map a couple of streets up from the most recent one you'd heard of and ask how that product was coming along.

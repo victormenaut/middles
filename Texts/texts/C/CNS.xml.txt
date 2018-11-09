@@ -1,0 +1,347 @@
+
+
+SUN JOIN IBM, HEWLETT IN BID FOR DESKTOP UNITY
+Finally accepting that if they don't hang together in the face of the threat from Microsoft Corp, their Unix efforts will hang separately, IBM Corp, Hewlett-Packard Co, Sun Microsystems Inc, Unix System Laboratories Inc and its Univel Inc unit, and Santa Cruz Operation Inc lined up at the UniForum trade show in San Francisco yesterday to announce a common desktop strategy for Unix vendors — but over time, the effort will extend beyond the desktop to embrace common networking, graphics, multimedia, distributed object technology and systems management.
+The move means that applications will look the same on machines from each vendor, but not that they will be portable.
+The six plan to publish the specification for the common desktop environment by end-June, and it will save everyone's face by incorporating elements of Hewlett's Visual User Environment, IBM's Common User Access Workplace Shell, Sun's Open Look and DeskSet and SunSoft ToolTalk interapplication communication, and Unix Labs's System V.4.2 desktop manager and the Open Software Foundation's Motif tool kit and window manager adapted to take care of users familiar with Open Look.
+On networking, all three of Open Network Computing+, Distributed Computing Environment and Novell Inc's NetWare Unix client support will be supported.
+The specs will be submitted to X/Open Co Ltd for inclusion in the Portability Guide, and the standards-making consortium, seen as more neutral than the Open Software Foundation, will publish specifications for Motif, taking away some of the political heat from the decision.
+On multimedia, the partners are defining a Distributed Media Services and multimedia tools called the Desktop Integrated Media Environment.
+On objects, the sextet votes the Object Management Group ticket.
+Systems management remains hazy.
+OS/2 will be supported.
+The absence of Digital Equipment Corp, with IBM and Hewlett a founder-sponsor of the Open Software Foundation, is assumed to be because DEC is putting most of its eggs in-to the Microsoft NT basket these days.
+First to announce support was Xerox Corp's XSoft unit, pushing its Open Document Environment and offers GlobalView for X Window document management and office productivity software and InConcert workflow manager.
+XSoft also said GlobalView for X was now up on IBM's RS/6000s.
+IBM TO PUBLISH ITS INFORMATION WAREHOUSE SPECIFICATION
+As part of its database announcements on Tuesday, IBM Corp said that it will publish the specifications of its Information Warehouse Architecture to enable customers to build Information Warehouses and to provide guidelines for software vendors.
+The document describes the components and interfaces required to do Information Warehouse implementations and enable the development of compatible easy-to-use client-server applications that provide access to all corporate data via a set of data access capabilities.
+The interfaces in the document are based on industry standards whenever possible’, IBM said, adding that it will make all interfaces open and public.
+It will immediately publish the currently defined interfaces, with the other interfaces to be published by the end of the year, IBM said.
+LET ME BE YOUR TEDDY BEAR: SUN JOINS RUSSIA's ELVIS+ ON WIRELESS
+Sun Microsystems Inc has signed up with a new Russian company founded by the republic's chief satellite designer, Aleksandr Galitsky for joint development of wireless network technology.
+Under the licensing agreement, Sun will take a 10% stake in the company, disconcertingly called Elvis+ — for Electronic Computer & Information Systems.
+Two-year-old Elvis+ employs 53 scientists currently working on wireless and space-capable communication systems, and fault-tolerant, imaging and control systems.
+They will work with Sun on development of communications projects for nomadic computing — tying in with the work at Sun's new FirstPerson unit (CI No 2,119), and is to use Sparc systems for all workstation products it develops for use in Russia.
+WANG TO SELL TAIWANESE PERSONAL COMPUTER AND METHUEN BOARD PLANTS
+As part of its further downsizing under its Chapter 11 bankruptcy reorganisation plan (CI No 2,129), Wang Laboratories Inc is to sell its printed circuit board plant in Methuen, Massachusetts to its management for less than $5m cash.
+It will also sell its 70% stake in its Taiwanese factory, in exchange for cancellation of about $150m in debt, and 51% of its sales unit in Taiwan will be sold to local partners — Wang will continue to receive 49% of the Taiwan operations profits, but its sales will no longer be included in Wang's consolidated figures.
+And the Limerick, Ireland plant will now be converted into a repair facility.
+INFORMIX-GATEWAY ADDS IBM DISTRIBUTED DATABASE…
+IBM Corp's Distributed Relational Database Architecture is starting to pick up acolytes, and Informix Software Inc, Menlo Park has announced Informix-Gateway with DRDA, claiming that this makes it the first major Unix database vendor fully to support the IBM architecture.
+The company has also committed to supporting the distributed unit-of-work level of the specification.
+The first release of Informix-Gateway will be Unix-based and is to support links to IBM's Systems Application Architecture databases so that Informix users can transparently access DB2 data bases.
+It also announced that its family of database information management software products is now shipping for SunSoft Inc's Solaris 2.1 version of Unix.
+Single user pricing for Informix-OnLine under Solaris 2.1 is from $3,300 and a single user Informix-4GL licence costs $2,150.
+…
+AS SYBASE OFFERS SUPPORT
+Emeryville, California-based Sybase Inc is also getting in on the act, saying that it has licensed IBM Corp's Distributed Relational Database Architecture and plans to use it to support distributed unit of work access between IBM databases, and Sybase SQL Server and Open Client and Open Server applications.
+ICL SHOWS HOW TO MANAGE THE TRANSITION FROM MAINFRAMES AND MAKE IT PAINLESS
+ICL Plc has been been ringing the changes, not only with boardroom shuffles (CI No 2,125), but with a push towards what it calls more ‘autonomous business groupings’ and a greater emphasis on software and services, the area which accounted for some 60% of UK sales in 1992.
+In the UK, ICL's activities are now concentrated in three areas: Commodity Products — the personal computer side of the business, organised through reseller Technology Plc; mainframe-based Industry Solutions; and Cross Industry Services, comprising the Sorbus hardware and software services arm; facilities management company CFM in which ICL has a 75% stake; disaster standby venture Guardian Computer Services; and newly formed ICL Enterprises.
+ICL Enterprises, in Winnersh, Berkshire, employs 900 staff and is headed by David Berry.
+Its remit covers consultancy, training, security, education and training, environmental services and applications development.
+ Ambitious plan
+Its ambitious plan is to double its revenue target to £250m by 1996.
+Incorporated into the new group are a number of established businesses that were previously part of ICL's Associated Services Division.
+These are Peritas Ltd, the UK's largest independent training supplier which recently acquired Genus and Protocol; Workplace Technologies Ltd, which designs and installs the power, air conditioning, fire and security systems for offices and computer rooms; Consultancy and Technical Services, which provides systems integration, process engineering, network management and consultancy and which includes the CPS cross-industry services unit; and ICL Secure Systems, formed to design secure network and office systems.
+The group is also overseeing a number of other major projects.
+These include the so-called CHOTS programme, the ICL-led partnership currently developing and installing a £250m secure office system for the UK Ministry of Defence (CI No 1,863); an electronic news gathering and distribution system for German news agency Deutsche Presse Agentur; a cash dispensing system for the Polish Bank Gdanski (CI No 1,974); Smart Card credits  system for Merseyside Training and Enterprise Council; and secure system for the UK government.
+And a New Ventures unit provides business process re-engineering services and software.
+Its initial specialism will be in resource scheduling systems.
+This follows ICL's successful implementation of a departure control system for airline Cathay Pacific (CI No 1,842), and the work it is carrying out for the on-line departure system planned for the Channel Tunnel passenger rail services (CI No 2,016).
+It will also bid for the contract for the RAF's Engineering and Logistics System, LITS, with partner Anderson Consulting; and for implementing the UK's planned National Lottery.
+ICL now reckons itself to be the second largest supplier in the UK, John Bennett, ICL's Director of Marketing Support and Communications told the audience at a recent briefing.
+Despite a 0.8% decline in spending in the UK market, ICL expects its results to reflect 12% revenue growth in the year.
+This is accounted for by a 9% rise in orders; a 5% increase in hardware shipments and 16% increase in software and services — including equipment.
+The company is catching up with IBM UK, Bennett said, pointing to the respective performances of each.
+These revealed that over the past three years, the £700m gap between the two had been reduced to £400m to £500m.
+If it can keep up the pace, ICL's hope is that it could overtake IBM in the UK by 1996.
+IDC's comparison of the top ten players in the UK market in 1991 shows IBM with 33.5%; ICL with 20.6%; DEC with 14.2%; Compaq with 5.9%; Unisys and Hewlett-Packard each with 5.4%;; Amstrad with 4.4%; Olivetti with 3.9%; NCR Corp with 3.4%; Hoskyns with 3.2%.
+But ICL prefers to measure its performance relative to the performance of players like itself and IBM, which compete in both software and hardware.
+This shows IBM's market share declining steadily from 19.0% in 1989 to 14.1% in 1991.
+ICL has meantime seen its share drop from 8.7% in 1989 to 8.4% in 1990, and duly return to 8.7% in 1991.
+ICL says this upward trend is continuing and that it has gained another 1% in 1992.
+ICL's 1992 software sales in the UK came in £10m up on expectations reflecting a hefty 120% increase in Unix software sales, a minor increase in VME mainframe software sales and 50% growth in application software sales — partly achieved via ICL's expanding third party network.
+In the light of this success, it will be looking to expand the range of software it offers, particularly for vertical markets, through further software partnerships.
+Personal computer software looks to be a good money spinner too having grown 200% though from an admittedly small customer base.
+ICL UK's July acquisition of personal computer and Unix reseller Technology Plc is also paying dividends.
+In spite of the ructions that ensued when the announcement was made — namely IBM's and DEC's decision to cut Technology off, it managed to double throughput and more in a matter of months and has contributed around 20% of the spoils in ICL UK's coffers.
+Relations with DEC are beginning to thaw and a reconciliation is thought likely.
+Technology has meantime got round the IBM problem by going to its OEM customers such as Bull HN Information Systems, which supplies RS/6000s.
+Since many customers use a variety of systems Technology is keen to supply as broad a range as possible.
+It is currently linked with Bull, Hewlett-Packard, Sun and Data General Corp.
+The distributor is also marketing ICL's new TechnICL and Zeno personal computers, and the new Ergo collection.
+Personal computer sales, handled by Technology Plc and newly merged Scandinavian company Nokia Data Systems nearly matched the joint returns from ICL's mainframe and Unix business.
+Predictably, mainframes, which accounted for 10% to 11% of total UK revenues, shrunk in 1992, coming in 6% to 7% down on budget.
+Areas like Egypt
+This gentle decline is expected to continue.
+That said, successes were achieved in markets such as health, building societies and local government due to the range of software available.
+It is hoped too, that 30% to 40% growth in personal computer sales seen for 1993 will offset waning mainframe business.
+Unix boxes have sold well with DRS 6000 sales up 74% and DRS 3000 up 59% in 1992 and with new business successes in areas like Egypt and Australia.
+For the second year running, ICL has topped the customer satisfaction ratings in IDC's European ‘Corporate Attitudes to Unix and Open Systems’ questionnaire.
+Another success story has been the collaboration, since 1985, with Ingres.
+This has resulted in the development of ICL's Ingres Search Accelerator technology for Unix and Content Addressable File Store systems on VME, and the OSI Ingres/Net product.
+According to Andrew Roberts, the managing director for ICL's Mid Range Systems Division, the partnership between ICL and Ingres has resulted in over 20% of DRS servers sold running Ingres, or Ingres-based applications.
+To crown the achievement, ICL was recently pronounced Ingres Worldwide Business Partner of the Year.
+It all seems to bode well for 1993 which, John Bennett reckons, should be better than 1992.
+ICL was ‘cautiously optimistic’ he explained, and was expecting to turn in good — although not brilliant — results.
+THE OPEN SOFTWARE FOUNDATION BOWS TO INDUSTRY COMPLAINTS OVER ITS PRICING POLICY…
+The Open Software Foundation, based in Cambridge, Massachusetts is apparently bowing to user pressure over its pricing for the Distributed Computing Environment, and will announce significant price reductions for one-time Distributed Computing licences, distribution rights and royalty fees at UniForum on March 17.
+The Software Foundation admitted that calls from big industry players such as Novell Inc, which have shied away from committing to Distributed Computing Environment until now, persuaded the organisation to reconsider its pricing policy.
+The Foundation was also inundated with complaints about its complex price list, which has at least two dozen options — covering everything from object code fees to optional services and royalty guidelines.
+Currently independent software vendors that want to build applications pay $15,000, and hardware vendors building Distributed Computing Environment code into their operating systems pay $150,000 for full distribution rights.
+However, on top of these fees, there are royalties to be paid for each unit shipped, which can range from $5 to $75 per copy.
+…
+AS IT ENHANCES THE DISTRIBUTED COMPUTING ENVIRONMENT AND REVEALS ROADMAP FOR IT
+As well as announcing the new pricing structure, the Open Software Foundation will release the next major implementation of the Distributed Computing Environment, 1.0.2, at UniForum in San Francisco this week.
+The Distributed Computing Environment 1.0.2 will include enhancements to its security services such, as single point of failure facilities and improvements to relational database security access.
+The Foundation has also refined the Distributed File System to enable it to handle things such as groups of files instead of single lines of files, as well as getting rid of a number of Distributed File System bugs.
+The Software Foundation will start shipping Distributed Computing Environment 1.0.2 developers' kits in the next 90 days.
+It claims that over 1,000 independent software vendors have already signed up for the new version.
+The Software Foundation also outlined the Distributed Computing Environment roadmap for the year.
+The next release, version 1.1, will incorporate internationalisation specifications and initial integration requirements for the Distributed Management Environment Distributed Management Services — which is due for release in September.
+It will include hierarchical cell and audit trail services and provide provisional Open Systems Interconnection specifications.
+The fourth release of the Distributed Computing Environment is scheduled for the end of the year, when the Foundation will offer integration specifications for the companion Distributed Management Environment's Management Framework services.
+It will also include object-oriented support, conforming to Object Management Group specifications and on-line transaction processing  facilities .
+Final Open Systems Interconnection requirements will also be included.
+The Software Foundation will also introduce a suite of validation tools for the Distributed Computing Environment this week, at the cost of $20,000.
+APPLE TO LAUNCH ITS LOW-COST SERVERS AT CEBIT IN HANNOVER
+Cupertino, California-based Apple Computer Inc, which went all the way to Japan for its last major product introduction, will finally launch its first family of network file servers at CeBit, in Hannover, on March 25, according to US press reports.
+To be called Apple Workgroup Servers the machines are derived from the Apple Centris 600 series and Quadra 800 and 950 systems.
+Designed to provide file and print services and database support for from 15 to 50 users, the server line will comprise three systems: the AWS 95, AWS 80 and the AWS 60.
+The AWS 95 is built around the 33MHz Motorola Inc 68040-based Quadra 950 and comes with a high-performance input-output board and a Unix-based version of AppleShare, Apple's file server software.
+It will ship with A/UX 3.0, the new release of the company's implementation of Unix.
+The AWS 80 is a revamped 25MHz 68040 Quadra 800 and comes with AppleShare 4.0, a new version of its network software developed to run under Apple's  Macintosh System 7 operating system.
+Apple's low-end machine, the Centris 610-based AWS 60 is also configured with AppleShare 4.0 and the System 7 operating system.
+The Centris-based server will sell for around the $5,000 mark and the Quadra-based boxes will go from $10,000 to $20,000.
+Client-server document management software may also be launched at Cebit, US sources say.
+LUCID HAS NEW VERSION OF ENERGISE C++ DEVELOPMENT ENVIRONMENT AND LOOKS BEYOND SPARC ARCHITECTURE
+Lucid Inc is promising to release a new version of its Energize C++ application development environment, launched a year ago.
+The Menlo Park, California company also has a new release of its native C++ compiler, bringing it up to Version 3.0 compatibility, and will be announcing the availability dates for Solaris 2.
+X products.
+Lucid expects to see revenues from its C product lines overtake those of its original Lisp products sometime next quarter — it says that Lisp is a niche (though still growing) market, and that the market for C products is from 10 to 20 times larger.
+Currently concentrating on Sparc-based hardware, Lucid has an agreement with NCR Corp that will see its compiler technology and Energize converted for the Intel 80486 under Unix System V.4 and Santa Cruz Unix: compilers have already been implemented for the IBM Corp Rios chip, and Lucid has its eye on Hewlett-Packard Co's Precision Architecture RISC.
+NOVELL ADDS A NETWORK FILE SYSTEM GATEWAY TO NETWARE 3.11, PLANS VERSION FOR 4.0
+Novell Inc has released NetWare NFS Gateway, a set for NetWare Loadable Modules for NetWare v 3.11 for those wishing to access Network File System file services on remote Unix systems.
+Versions for five, 10, 20, 50, 100 and 250 users are available, with prices ranging from $1,500 for five users ($300 a user) to $12,500 for 250 users ($50 a user); it's available from April 5.
+For those wanting full TCP/IP access to Unix files, Novell's existing LAN WorkPlace and LAN WorkGroup products are available.
+A version of NFS Gateway is under development for NetWare 4.0.
+IBM ANNOUNCEMENTS
+SNA monopoly ends with Multiprotocol Transport Networking Architecture
+When, a year ago, IBM announced it would support other networking protocols alongside its proprietary Systems Network Architecture (CI No 1,901) there were some sceptics in the audience.
+But last week the company fleshed out the strategy by announcing its Multiprotocol Transport Networking Architecture and the first products that will conform to it: a new version of VTAM for MVS/ESA.
+The architecture is one part of an even bigger architecture — outlined in the Networking Blueprint last March.
+As such it fills the hole labelled Common Transport Semantics.
+In a linked announcement made at the same time the company unveiled a low-end addition to its 6611 multi-protocol router family — designed to tackle the burgeoning and lucrative branch-office market.
+The Multiprotocol Networking Transport Architecture's task is simply to make applications independent of any particular network transport layer.
+Today, for example Unix applications expect to run over TCP/IP using the sockets programming interface, where Systems Application Architecture programs expect to be sitting on SNA networks and consequently use one of IBM's proprietary application interfaces such as CPI-C.
+Under the new regime this should change with the choice of network protocol becoming irrelevant to the application.
+This is the limit of MPTN's ambitions; it specifically does not set out to enable dissimilar applications to communicate.
+Therefore if an SAA program wants to talk to a Unix sockets-based program, it can't — however two SAA programs will be able to talk over TCP/IP and two Unix applications will be able to communicate over an SNA network.
+Always assuming, of course, that the SAA or Unix applications have been written to support the new architecture.
+Gateway
+Multiprotocol is something of a  misnomer — currently only TCP/IP and SNA are supported, although there is a promise to extend it to Open Systems Interconnection in the future.
+Cleverly, IBM reckons MPTN manages to gateway without protocols without resorting to the lowest common denominator — instead it claims to have mapped the functions of every protocol onto every other.
+This is done by defining a gateway at layer 4 of the OSI model, which IBM says uses ‘a consistent set of compensations to fill the gaps’.
+The scheme is also supposed to compensate for the different addressing schemes that the networks use.
+IBM has not given any information about the performance or processing overheads that this may entail.
+The translation also extends to management, resources can use SNMP, CMIP or SNA Management Services as their native protocol.
+If all this works it should pique the interest of the rest of the industry, where these kinds of problems have taxed minds for years.
+In fact IBM says that it is pushing the MPTN technology as a standard as long ago as December 1991 when it submitted the underlying MPTN approach to the XNET workgroup of X/Open Co Ltd, which is still considering it.
+Multiprotocol Networking Transport Architecture was also presented to the Open Systems Environment Implementer's workshop last September, the company notes.
+Promises, promises to make IBM's software base protocol-independent
+There are two ways to make an application protocol-independent: the first is to re-write it, incorporating MPTN, the second is to connect it to a separate gateway that will do the conversion.
+Although IBM says a gateway is possible, it is taking the former approach, and the plan is gradually to convert its most important system software to the architecture.
+First to get the treatment is VTAM version 3 release 4.2 and the multiprotocol transport feature.
+The future directions list is understandably large, given the company's software base: it includes letting AS/400s support sockets over TCP/IP or SNA and SNA Dependent LU (LU 0, 1, 2 3) support over TCP/IP for MVS and OS/2.
+Finally there is support for OSI protocols.
+None of these promises has any date attached to it.
+VTAM MVS/ESA is the first to get the multiprotocol transport treatment
+VTAM, the Virtual Telecommunications Access Method, is the first application to be split from the network, and with the new 3.4.2 release, it can now run natively over TCP/IP, and comes with support for OS/2-based machines too.
+The Multiprotocol Transport Feature, MPTF, comes as a separately ordered item which includes software for both the host and the OS/2 workstation.
+The workstation software is downloaded from the host to the individual personal computers.
+The host software should be available by the end of June, enabling two hosts to talk over TCP/IP.
+The OS/2 implementation will follow under the guise of ‘TCP/IP for OS/2’ by the third quarter of the year.
+At this point IBM manages to confuse itself.
+In elaborating all the benefits that this will produce, the company starts saying things like ‘end users at workstations in an SNA network can have quick and easy execution of socket applications like Network File System (NFS)’ which almost implies that an SNA application user will be able to access Unix file systems — they assuredly will not.
+B1 Security for new VTAM release
+As an aside the company announced that when running on an ES/9000 running other appropriately ‘trusted’ software, the new VTAM 3.4.2 has been designed to meet the US Department of Defense's B1 security rating.
+However this is a claim made solely on the evaluation of the IBM team and it hasn't been given a stamp from the National Computer Security Centre.
+Low end 6611 multiprotocol router
+With an eye on the branch office, IBM has introduced a new low-end multiprotocol router: the 6611 model 120.
+Like everyone else in this market, IBM is trying to make it easy for small sites to install so it comes in a wide variety of fixed configurations that encompass various Token Ring, Ethernet wide area network and SDLC attached devices.
+The new machine departs from other models in the family in that it runs on a PS/2 running OS/2 as well as an RS/6000 RISC machine.
+The company has re-vamped the routing software slightly to support the new model.
+Multiprotocol Network Program Release 1.1 is much the same as 1.0.
+It still supports protocols including TCP/IP, XNS, IPX, DECnet, AppleTalk and Token Ring source routing.
+MAC ON POWERPC POINTS TO BINARY TO BINARY TREND OVER EMULATION
+The Macintosh Application Services software previewed at the IBM PowerOpen launch last week (CI No 2,123) is an indication of the growing popularity of binary-to-binary conversion techniques over straightforward emulation, which is still associated with poor performance.
+Such technologies are becoming available not only for the Macintosh, but also for Microsoft Corp Windows, and are likely to be in evidence at UniForum this week.
+Macintosh Application Services includes the Macintosh System 7 Finder (although System 6 was demonstrated), a Motorola 68040 emulator, the native toolkit, and Macintosh System Services for memory management and input-output to files and devices.
+Have to be emulated
+The portions of the application that do have to be emulated can be loaded in via floppy disk.
+Many Macintosh applications, such as PageMaker and Quark XPress, spend up to 90% of processing time within the Toolbox, according to Apple, which is why a native implementation was developed.
+A multi-mode code switcher will enable 68000 and new PowerPC applications code to run side by side.
+Holmdel, New Jersey-based Echo Logic Inc provided Apple with its FlashPort tools to help the effort along, producing a binary to binary translation of the 68000 code and producing native PowerPC code.
+Echo president Brad Burnham says the major technical feat is FlashPort's ‘aggressive static analysis software that can follow the flow of control from the Macintosh ROM, transforming the application to conform to the native execution model of the PowerPC’.
+But it is not yet clear if the Echo technology will be used in production release software from Apple, as there are at least two separate ongoing efforts within Apple to move the Mac environment over to the PowerPC, one using a large amount of translation, the other a large amount of emulation.
+Those working on the eventual PowerPC version of the Apple Macintosh, as opposed to providing a Macintosh environment within an X Window under Unix, are thought to favour the emulation model at present.
+That box is due out early next year.
+The ‘cat in the hat’ effort that will see the Macintosh environment on other RISC processors, appears to be a different effort again, and may be a long way down the road, licensing issues aside.
+Rival Mac emulator houses such as Quorum Software Systems Inc and Xcelerated Systems Inc are not unduly worried.
+‘Apple is trying to create fear, uncertainty and doubt’, said Nick Sturiale of Quorum.
+‘They've been showing this stuff for two years’.
+— John Abbott
+SYNOPTICS PREPARES FOR LAUNCH OF ITS ASYNCHRONOUS TRANSFER MODE SWITCH WITH THREE-PHASE STRATEGY
+SynOptics Communications Inc, Santa Clara, California has announced a three-phase Asynchronous Transfer Mode strategy, in preparation for the launch of its Asynchronous Transfer Mode switch towards the end of the year.
+The company sees campus-wide backbones as the first wide-scale implementation of the technology, followed by Asynchronous Transfer Mode to the desktop.
+Perhaps surprisingly, wide area Asynchronous Transfer network services are seen as the final phase, since SynOptics feels that carriers will be slower off the mark to respond to demand (despite the fact that AT&T Co said that it will introduce Asynchronous Transfer Mode services towards the end of the year).
+SynOptics is basing its hopes on a six-chip Asynchronous Transfer Mode chip set developed in partnership with Washington State University.
+It claims two specific advantages over competing products: the lowest cost per port, and the fastest aggregate throughput of comparable products, claims based on the architecture that the chip set uses.
+It is matrix-switched, which SynOptics says avoids the bottlenecks that can be caused with a bus-based approach, since each port on the switch has a dedicated 155Mbps transmission speed, guaranteed by an aggregate internal switching capacity of 5Gbps.
+Called LattisCell, the switch is a 16-port stand-alone switch that comes in two configurations.
+The Model 10102 has 12 shielded twisted pair ports for local links and four fibre ports for links over up to 6,000 feet.
+The Model 10104 has 16 fibre ports.
+To ship in the third quarter, the 10102 will cost less than £1,500 per port, and the 10104 will be priced at below £2,000 per port.
+Technology partnership with Sun Microsystems
+SynOptics also announced that as part of its Asynchronous Transfer Mode strategy, it has entered a technology partnership with Sun Microsystems Inc, enabling the companies to work in parallel on Asynchronous Transfer Mode development.
+Indeed, it says it's working on an Asynchronous Transfer Mode SBus adaptor board, also expected by the end of the year, for use in Sparcsystem 1, 2, and 10 workstations: occupying a single SBus slot, it will support the Local SONET Synchronous Optical Network 155Mbps Physical Layer as defined by the Asynchronous Transfer Mode Forum.
+There are to be options for fibre, unshielded twisted pair and shielded twisted pair connections, and the price is expected to be under £1,300.
+While SynOptics says that adaptor boards for other physical layer and computer system interfaces will be added, no time-scale has yet been given for their development.
+Also announced was LattisCell Connection Management System, connection and network management software for switched and permanent virtual circuits, and LattisCell Asynchronous Transfer Mode Management Application 1.0, an Asynchronous Transfer Mode management system that integrates into SynOptics' Optivity network management system.
+The CMS Connection Management System software runs on a Sparc workstation, and is claimed to provide all call set-up, maintenance and tear-down functions for switched and permanent virtual circuits in a multiple switch network.
+Resource allocation and topology monitoring is also handled by the software, while network topology and client addresses are automatically learned with calls re-routed around failures.
+SynOptics claims that the system matches the agreed Asynchronous Transfer Mode Forum signalling functions and will conform to the final specification once this is complete.
+The Management Application manages networks comprising multiple LattisCell switches, and SynOptics says it will assist the network operator in handling faults, learning about network operation and performance, and reconfiguring network parameters to alter performance.
+Integrated into the Optivity network management system, it's claimed to allow for management of an entire network including Ethernet, Token Ring, FDDI and Asynchronous Transfer Mode technologies.
+CREDIT RATINGS
+Cincinnati Bell Inc has had the all clear from Standard & Poor's Corp, which affirmed Cincinnati Bell Telephone Co's double-A-minus senior debt rating on its $285m or so of debt following the company's announcement that it would file for a 9% increase in local services and a three-year alternative regulation plan beginning January 1 1994.
+Fujitsu Ltd's threatened losses have caused the company to run afoul of Nippon Investors Service, one of the Japanese credit rating agencies — in Japan the rating agencies are rather less independent than their US counterparts — to review its Triple-A rating of Fujitsu's long-term bonds and its A1-Plus domestic commercial paper rating for a possible downgrade.
+It cited Friday's announcement by Fujitsu that it is lowering its earnings forecast to show a substantial loss for the fiscal year ending March 31 as the reason for the review; the review affects 120,000m of yen-denominated bonds, a $330m bond, a 320m Swiss franc issue and a 200,000m commercial paper programme, it noted.
+SHARE & BOND ISSUES
+Avid Technology Inc, designing and marketing high-performance digital video, film and audio editing systems in Tewkesbury, Massachusetts, got an offer of 2.8m shares, 2.44m of them new, away at $20.00 per share.
+Underwriters were Morgan Stanley & Co; Robertson, Stephens & Co; and Volpe, Welty & Co.
+Dialogic Corp, the Parsippany, New Jersey company with the Signal Computing Signal Architecture specification for building and programming call processing systems from signal computing components (CI No 2,120), has filed to go public with an initial offer of 2.5m shares, 1.675m of them new, at a target price of between $10.00 and $12.00 per share.
+The $16m or so net proceeds will be used for working capital and to repay bank debt.
+Hambrecht & Quist Inc and Robertson, Stephens & Co LP will manage the underwriting group, Dialogic said.
+Electronic Retailing Systems International Inc, Wilton, Connecticut-based developer and supplier of electronic shelf labelling systems, has filed with the Securities & Exchange Commission to offer up to 1.9m common shares at a target $15 to $17 a share.
+Net proceeds will go for working capital.
+Lead underwriter to the issue is Montgomery Securities.
+Graseby Anderson Inc, the Atlanta, Georgia arm of Graseby Plc, Cambridge has wasted no time in filing its proposed initial public offering (CI No 2,129), of up to 1.92m shares, an unspecified number to come from the Andersen Samplers BV and Graseby Overseas Holdings Ltd units of Graseby.
+Alex Brown & Sons and Raymond James & Associates underwrite.
+InaCom Corp, Omaha, Nebraska-based computer retailer filed to offer of 5.522m shares, 2.4m of them new to raise cash to cut bank borrowings.
+Lead underwriters are American Express Co's Lehman Brothers, Bear Stearns Co Inc and Robinson-Humphrey Co.
+Intuit Inc, Menlo Park, California developer of the Quicken household budgeting program, got its initial public offering of 1.5m shares, 1m of them new, away at $20 a share and plans to use the $19m or so net proceeds for capital expenditure, working capital and product development.
+Co-managers were Morgan Stanley & Co Inc and Robertson, Stephens & Co.
+Wall Data Inc, Redmond, got its initial public offer of 2.88m shares, 2m new, off at $20 a share; the developer of Windows communications products and tools wants the $38m or so net proceeds for working capital and capital spending; underwriters are Bear, Stearns & Co and Robertson, Stephens & Co.
+PHILIPS AGREES TO EXERCISE 1996 WARRANTS CONTINGENT ON CAPITOL MULTIMEDIA
+Capitol Multimedia Inc, Washington reports that its largest shareholder, Philips Electronics NV's Philips Interactive Media of America, has agreed to exercise its 1996 warrants (125,000 at $6.25 exercise price) contingent on Capitol Multimedia raising a minimum of $3m in investor equity and committing to explore buying a stake interest Philips' European CD-I production facility.
+It has therefore signed a letter of intent with Noble Investment Co of Palm Beach to raise between $3m and $6m via an offering of securities to European institutional investors only.
+The company plans to use the proceeds from the warrant conversion and the offering to publish multimedia titles, emphasising CD-I titles and to expand its development by growth or acquisition.
+DATA SWITCH SECURES REVOLVING LINE OF CREDIT
+Data Switch Corp has secured a new $8m revolving line of credit with People's Bank of Bridgeport, Connecticut to replace a previous agreement with Manufacturers Hanover Inc and Marine Midland Bank.
+INFONOW COMPLETES PRIVATE STOCK PLACING
+InfoNow Corp, Boulder, Colorado pioneer of what it calls electronic commerce, using digital technology such as CD-ROM, new media, security, encryption, digital transmission to deliver products, has completed a private placing of stock, raising gross proceeds of $1.65m.
+It sold InfoNow units at $60,000 per unit, each consisting of 20,000 shares of common stock and 20,000 Class C warrants, each of the latter entitling the holder to buy one share of common at $6 by December 30 1997.
+The funds will be used for marketing and product development.
+COMPANY RESULTS
+Cadmus Communications Inc saw second quarter net profits up 16.3% at $1.3m, on turnover up 9.1% at $51.5m; mid-term net rose 17.1% to $2m, on turnover up 5.1% at $96.2m.
+Net per share rose 16.7% to $0.21 in the quarter, 17.9% to $0.33 in the half.
+Iomega Corp saw fourth quarter net profits down 99% at $41,000, on turnover down 4.8% at $37.5m; net profit for the year to December 31 was down 62.1% at $139.2m, on turnover up 1.9% to $139.2m.
+Net earnings per share fell 61.3% to $0.29 in the year.
+M/A-Com Inc has reported first quarter net profit down 88.1% at $374,000, after $633,000 gains from discontinued operations last time, on turnover down 13% to $374,000.
+Net earnings per share fell 84.6% to $0.02.
+Comparisons are with restated figures.
+Stac Electronics Inc has reported first quarter net profit up 151.2% at $2.2m, on turnover up 128.1% to $12.3m.
+Net earnings per share rose 100% to $0.08.
+Geac Computer Corp Ltd has reported a third quarter net loss equivalent to $5.6m after an exceptional charge of $8.6m for buying in of software research by the library automation business, against a profit last time of $2.9m, on turnover that rose 31.7% to $22.3m; net loss for the nine months was $241,000 against a profit last time of $5.1m, on turnover that rose 17.9% at $58.7m.
+The figures are converted at $0.8035 to the Canadian dollar.
+Sapiens International Corp has reported fourth quarter net profits up 61.6% at $3m, on turnover up 94.5% at $16.1m; net profit for the year to December 31 was up 1,027.7% at $6.5m, on turnover that rose 96.2% to $37.8m.
+Net per share rose 12.5% to $0.27 in the quarter, stood at $0.66 in the year.The Israeli company reports figures in US dollars.
+Getronics NV has reported net profits for the year to December 31 up 14.5% at the equivalent of $32.5m on turnover that rose 24.5% at $551.8m; net earnings per share rose 11% at $1.62.
+The figures have been converted at $0.5357 to the Dutch guilder.
+DEC AGREEMENT WITH MITSUBISHI IS NOT EXCLUSIVE
+Digital Equipment Corp says that its Alpha second source agreement with Mitsubishi Electric Corp is not an exclusive pact and that it is talking with other firms that may become second sources of the chip; ‘We are not looking for a large number of semiconductor partners, however we are having discussions with other semiconductor companies; those relationships could happen at various levels,’— DEC may still seek other firms to design versions without the marketing that Mitsubishi is providing.
+IBM DEUTSCHLAND SCORN EAST GERMAN RECOVERY PACT
+Saying that Germany as a whole has not yet bottomed out of recession and that recovery could come in 1994 at the earliest, the management board chairman of IBM Deutschland GmbH said that the government's solidarity pact to help recovery in the depressed east of Germany had been over-valued —‘The pact received praise I don't think it deserved’ Hans-Olaf Henkel said.
+WANG CLASS B AND C TO BE DELISTED
+The American Stock Exchange duly announced that it was delisting Wang Laboratories Inc's Class B and C common stocks but trading in the company's debentures will continue.
+MICROSOFT SHIPS FINAL PRE-RELEASE VERSIONS OF NT
+Microsoft Corp says it has now shipped the second and final pre-release version of the Windows NT operating system to 70,000 customers and software developers, and says it offers significant improvements in performance, application support, networking and hardware compatibility; release of the product is set for next quarter.
+GETRONICS SEES NO EVIDENCE OF MARKET GROWTH
+Commenting on its figures (see page seven), Amsterdam-based networking and electrical engineering group Getronics NV says it sees no evidence of market growth, and assuming no major acquisitions occur, its business will grow hardly any faster than in 1992, when net profit rose 14%; its investment is expected to remain at the same level as in 1992, and cash flow is expected to develop on a comparable basis.
+SPRINT CORP PROVIDING ROMANIA LINK VIA INTELSAT
+Sprint Corp, Kansas City, Missouri says it is providing a digital intercontinental link with Romania via Intelsat satellite circuits.
+ACER TO SUBMIT PROPOSAL TO NINTENDO
+Acer Inc, Taipei, Taiwan says it is considering the possibility of cooperation with Nintendo Co Ltd in the electronic games industry and plans to submit a proposal to the Japanese company soon; Acer denied a report that it would make electronic games on behalf of Nintendo.
+AMSTRAD APPOINT SECOND NON-EXECUTIVE DIRECTOR
+Ahead of its personal digital assistant announcement today, Amstrad Plc yesterday announced appointment of a second non-executive director, fulfilling Alan Sugar's promise to appoint at least two: the new man is Michael Beckett, former chairman of Ultramar Plc, and former managing director of Consolidated Gold Fields Plc; he is non-executive director of a number of companies; Amstrad said a third non-executive director might also be named later.
+McDONNELL DOUGLAS INFORMATION SYSTEMS INTERNATIONAL SOLD
+McDonnell Douglas Corp says it has now completed the sale of its Hemel Hempstead, Hertfordshire-based McDonnell Douglas Information Systems International Ltd unit to a group of investors organised by Baring Capital Investors Ltd of London.
+EAST GERMAN TELEPHONE INSTALLATION TIME WILL BE CUT
+The waiting time for a new telephone in eastern Germany will be cut to the four to six weeks that is typical for western Germans by the end of 1995, German Postal Minister Wolfgang Boetsch promised.
+KAO INFOSYSTEMS BUYS AMERICAN HELIX TECHNOLOGY ASSETS
+Kao Infosystems Co, Plymouth, Massachusetts has bought the assets of American Helix Technology Corp, Lancaster, Pennsylvania compact disk and CD-ROM duplicator and packager for an undisclosed sum in cash: it will become Kao Infosystems Co Optical Products Division.
+EC SETS UP MEASURES TO STOP KOREAN CHIP DUMPING
+The European Commission has set up definitive measures to stop imports of computer chips from South Korea being dumped within the Community: finance ministers decided on Monday that imports of dynamic RAMs from Korea would either be subject to import duties of 24.7% or to a pricing deal worked out with the three main chip producers, Samsung Electronics Co Ltd, Hyundai Electronics Industries Co Ltd and Goldstar Electron Co Ltd; anti-dumping duties had been levied at 10.1%; the Big Three took 25% of the Community in 1990 from just 6% in 1986.
+IRANIAN PRESIDENT INAUGURATES SEMICONDUCTOR PLANT
+Iran's President Akbar Hashemi Rafsanjani on Tuesday inaugurated Iran's first plant manufacturing semiconductors according to Teheran Radio, which said that the Centre for Research and Production of Semiconductors was built at a cost of $6m plus $2.5m in local currency.
+BULL TAKES ADVANTAGE OF INDIAN INVESTMENT RELAXATION
+Compagnie des Machines Bull SA is taking advantage of India's relaxation of its foreign investment rules to up its stake in PSI Data Systems Pvt Ltd to 51% from 40%.
+MITI TIRED OF QUIBBLING OVER MARKET SHARE WITH US
+Officials at Japan's Ministry of International Trade & Industry now say that they're tired of quibbling over market share figures with the US, and say they don't intend to allow the US to establish a new market share goal in upcoming semiconductor talks, which will begin in Hawaii next Tuesday, the Wall Street Journal reports —‘Because there was a controversy over the old 20% figure, which was taken as some form of commitment, we have no intention of referring to any new numbers’ Koji Matsui, deputy director of the industrial electronics division of the Ministry declared.
+SOUTH KOREAN RELIEF
+South Korean chipmakers reacted with relief after the US imposed lower-than-expected final anti-dumping duties on their memory chips imported into the US, Reuter reports from Seoul: ‘We can say there will be little impact on exports and profit,’ the Korea Semiconductor Industry Association said; the final duties range from 0.74% to 7.19%, and were not higher because the US fears becoming over-reliant on a single source — if the increasing tension between North and South Korea hots up further, the US doesn't want Cruise missiles going out with half their memory missing because of a chip shortage.
+NEXTSTEP SUPPORT FROM WORDPERFECT
+The good news for NeXT Computer Inc is that WordPerfect Corp plans to include support for NeXTstep for Intel Corp processors in the upcoming interim release of WordPerfect 1.0.1 for NeXT, the bad news is that Cable & Wireless Plc alumnus Peter van Cuylenburg is resigning as president and chief operating officer of NeXT, just one year after he joined the company —‘Now that NeXT is becoming a software company, NeXT and van Cuylenburg mutually agreed that the restructured 200-person company no longer requires both a chief executive and a president and chief operating officer,’ NeXT said in a statement.
+SPRINT ENTER BULGARIAN JOINT VENTURE
+Sprint Corp and the Bulgarian Telecommunications Co have formed a joint venture in Bulgaria, Reuter reports from Sofia: the Sprint Business Telecommunications Co plans to provide SprintNet value-added communications services that will enable Bulgarian customers to their link host and personal computers with others around the world.
+DUMPING MEASURES MAY NOT BE EVERYONE'S CUP OF TEA
+It's still a hot air story, and we give most hot air stories — some  dignitary with no power to do anything to change the situation has ‘called for’, ‘demanded’, ‘warned’ or whatever — but the issue is so serious that it deserves notice: we have frequently highlighted the manner in which US — and European — anti-dumping measures that supposedly benefit a tiny minority are to the detriment of the vast majority, and there is now a groundswell of opinion at the US Department of Commerce that the International Trade Commission's brief in considering charges of dumping should extend to a review of the impact of duties on consumers; the current issue is the anti-dumping duties likely to be made permanent today on memory chip imports from South Korea, which are sought by Micron Technology Inc but opposed by both all memory chip users and by the US chip capital equipment manufacturers that sell to the South Koreans.
+DEC ENHANCES SIGNALLING SYSTEM 7 PRODUCT
+Digital Equipment Corp has enhanced its Signalling System 7 product, DECss7 2.3, designed to enable DEC VAX systems to be used as applications servers in public telecommunications networks: a new entry-level system is now available, and multiple applications programming interfaces can now be used at different levels of the signalling protocol.
+ALPHA MICROSYSTEMS TO ACQUIRE ASSETS OF MGI DIVISION
+In what may be the first of several similar moves, Alpha Microsystems Inc, Santa Ana, is to acquire the assets of the hardware maintenance division of MGI Group International Inc, a Los Angeles-based Unix integrator with 294 local service contracts, adding some $1.2m to Alpha Micro's nationwide annual service revenues; the acquisition, whose terms were undisclosed, is expected to be completed later this month.
+CINCOM SYSTEMS WIN $10m CONTRACT
+Cincinnati, Ohio-based Cincom Systems Inc has won a five year, $10m contract to supply its local area network database software, Supra Server, to the US Defense Information Systems Agency and the Defense Commercial Communications Offices.
+DEC APPOINT VICE-PRESIDENT, UNIX MARKETING
+Digital Equipment Corp has just named company veteran John O'Keefe, formerly vice-president, channels marketing, to the post of vice-president, Unix marketing, reporting to vice-president, Bill Demmer.
+NYPD START TRIAL OF IDENTIX TOUCHPRINT
+Sunnyvale, California-based fingerprint recognition systems specialist Identix Inc says the New York City Police Department has started a six-month test program of Identix's TouchPrint live scan computerised fingerprinting system in co-operation with the New York State Division of Criminal Justice Services in a playoff with another system — success would mean the installation of the equipment in all 75 city police precincts and a tie-in with the Statewide Automated Fingerprint Identification System.
+IN FOCUS BEGIN SHIPPING PANELBOOK
+Tualatin, Oregon-based In Focus Systems Inc says it has begun shipping its PanelBook liquid crystal display colour projection panel, with a suggested $6,000 list price: the PanelBook measures 9.5’ by 11.5’.
+ORACLE AND SUN TEAM UP TO TACKLE PHARMACEUTICAL INDUSTRY
+In their latest applications alliance, Oracle Corp will team with Sun Microsystems Computer Corp to develop and sell products and services for the pharmaceutical industry: the partners look for about $200m in hardware, software and services from the venture by 1997; it will include a systems integration effort for complicated tasks such as document tracking and joint development of software to expedite computer-assisted new drug design.
+SUN STATES CYPRESS HYPERSPARC ONLY IN PRE-PRODUCTION
+Sun Microsystems Inc says the Cypress Corp-Ross Technology HyperSparc is still only in the pre-production stage, and until the chip advances, Sun will not be able to make a decision on using it.
+MICRON TECHNOLOGY FORMS NEW SUBSIDIARY
+Micron Technology Inc, Boise, Idaho has formed a new subsidiary, Micron Communications Inc, to develop new products designed for the radio frequency identification market: the company says it is developing a microwave integrated circuit that if successful, may provide smaller-size, higher-performance and lower-cost radio frequency identification products and serve as the foundation for a family of new products.
+COMPAQ DIRECT SALES TO ACCOUNT FOR 10% OF US REVENUE
+Compaq Computer Corp says it expects its move into direct sales to generate up to 10% of its US revenues this year, and may be expanded to some foreign markets later this year: total US sales amounted to about $1,700m in 1992, Compaq said.
+MICROSFT AND SUNSELECT LOOKING AT LEGAL SHOWDOWN
+Microsoft Corp chairman Bill Gates has been quoted in the US press as saying the Praxsys Windows-on-Unix product from Sun Microsystems Inc's SunSelect would violate Microsoft's intellectual property rights unless it gets a licence from Microsoft: SunSelect says that its lawyers are  satisfied that there are no legal obstacles to selling the software.
+RECOGNITION INTERNATIONAL APPROVED
+Dallas-based Recognition Equipment Inc says that its shareholders approved changing the company's name to Recognition International Inc.
+DIGITAL COMMUNICATIONS ASSOCIATION SEES ONLY BREAK-EVEN OPERATING RESULTS
+Digital Communications Associates Inc, Alpharetta, Georgia says it sees only break-even operating results for its third quarter ending March 31: it says its printer products unit, Pacific Data  Products Inc, was experiencing a slowdown in sales and that its communications business also experienced slow sales in January; breakeven will be before the previously announced aggregate one-time restructuring charge of about $67.7m.
+BELL ATLANTIC TO SELL 108.9m SHARES IN NEW ZEALAND TELECOM CORP
+Bell Atlantic Corp has now reached agreement to sell 108.9m shares in Telecom Corp of New Zealand Ltd to BZW New Zealand Ltd, leaving it with 29.56% of Telecom, in line with government demand; settlement is due next week; no price given.
+SUN DID NOT COMMENT ON OUTLOOK
+Contrary to reports, a spokesman for Sun Microsystems Inc said the company's chief financial officer did not comment on the outlook for the quarter —‘We generally do not comment on the Street or analysts’ earnings expectations,’he said.
+WEST GERMAN ELECTRONIC INDUSTRY OUTPUT TO DECLINE FURTHER
+West German electronic industry output will decline by a further 1% to 2% in 1993, the chairman of the German electronic industry association, ZVEI, says; Eberhard von Koerber said output fell a price-adjusted 4% in 1992, with output of entertainment and information technology slumping by more than 20%.
+IBM/APPLE CANADA WIN EDUCATION CONTRACT
+IBM Canada Ltd and Apple Canada Ltd say they have won an education technology supply contract from the New Brunswick government: the province is to invest $12.7m in education technology in the next three years with the first phase starting immediately with $2m investment.
+MICROSOFT RESTRUCTURES DATABASE PRODUCTS GROUP
+Microsoft Corp restructured its database products group to combine current products and future technology development in a single unit: the newly consolidated group will report to Roger Heinen, senior vice-president of the database and development tools division.
+AT&T SIGN $30m CONTRACT IN CHINESE YUNAN PROVINCE
+AT&T Co has signed a $30m contract with the Yunan Provincial Import and Export Corp to supply cellular network equipment to Yunan Province in China: AT&T will supply Autoplex System 1000 mobile switching equipment, base stations and cellular phones to provide Yunan with province-wide mobile phone service.
+APPLE TO ANNOUNCE BOGART
+‘You played it for her, you can play it for me’: MacWeek expects Apple Computer Inc this month to announce a software only information server code-named Bogart that simplifies and accelerates text search and retrieval; the thing will use agent technology to enable users to perform English-language queries with Boolean operators and proximity searches of text stored on a central server or on CD-ROMs and will deliver ‘smart relevance’ search results, ranked by pertinence to the user's query; searches can  reportedly occur on demand or at user-specified time intervals.
+NEC INTRODUCE ULTRALITE VERSA SERIES
+Boxborough, Massachusetts-based NEC Technologies Inc has introduced its UltraLite Versa Series, the first portable modular notebook that enables users to choose and change configurations as needed: prices go from $2,660 to $4,540 and users can change and upgrade components as needed — between pen and keyboard, for instance, with no tools.
+‘LITTLE ENGLAND’
+Reminds you just how little England appears to Americans, doesn't it — after all it's only 120 miles as the crow flies…
+Burlington, Massachusetts-based Object Design Inc announces the formation of Object Design (UK) Ltd, ‘a subsidiary based in London, England…
+Object Design (UK) Ltd is located at 604 Delta Business Park, Welton Road, Swindon, Wiltshire, SN5 7XF’.

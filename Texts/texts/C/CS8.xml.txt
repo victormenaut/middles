@@ -1,0 +1,296 @@
+
+
+TIVOLI DEBUTS DME-COMPLIANT MANAGEMENT APPLICATION BUILDER
+Tivoli Systems Inc, Austin, Texas, next week will wheel out a new developers toolkit, the first commercially available programmers' kit for building system management applications compatible with the Open Software Foundation's Distributed Management Environment, it says.
+DME uses Tivoli's framework, its object-oriented Management Environment, as its central technology.
+Tivoli is also introducing a new set of management applications that plug into the framework and promises major productivity gains in managing distributed systems.
+The applications and toolkit will be available initially on Sun Sparcstations running Solaris 1.0.
+The programmes include Tivoli/Courier for automatically distributing software updates throughout a network from any point and Tivoli/Sentry for remotely monitoring portions of a network or the entire system.
+Both programmes are based around a simple graphical interface.
+Tivoli is calling its new programmers' toolkit the Advanced Development Environment (ADE).
+It lets developers construct user interfaces, model system resources, create new objects and build communication hooks into other applications.
+The need for writing complex systems management scripts is supposedly eliminated.
+Applications created with the toolkit are fully architecture- and network-independent, are fully interoperable across networks and will integrate with the DME standard when it becomes available next year.
+Tivoli has also built a toolkit for non-programmers called the Application Extension Facility (AEF) so they can customise Tivoli applications and migrate existing systems management programmes to a standard.
+The company has also updated Tivoli/Works, its core applications for primary resource and security management, introduced earlier this year, to Release 1.5.
+It now supports Motif and its management of NIS netgroup maps and its interface have been enhanced to include more user feedback, detailed error messages, expanded notification and auditing services and faster installation.
+The company is offering Works, Sentry, Courier and AEF together with a year's support and two days of on-site training and consulting as the Tivoli Start-Up Package priced at $30,000.
+Another package including Works, Courier and Sentry starts at $375 a node for a 500-node licence.
+AEF is priced at $3,000 per site and ADE starts at $26,500 for a three-seat developers' installation.
+ADE includes documentation, a build environment with files for compiling and linking ADE apps, debugging tools, run-time libraries, training and hotline support.
+Availability for all products is October 1.
+HEWLETT-PACKARD EXPLORES CLUSTERING WITH CONVEX
+Clustering of RISC computers is seen as a promising new area of activity and Hewlett-Packard Co and Convex Computer Corp are reportedly studying an expansion of their alliance to include the joint development of a clustered computing environment for HP's Precision Architecture RISC workstations.
+The clusters would also use the Richardson, Texas minisupercomputer builder's C series scientific multiprocessors as servers, with the target market being high-end engineering customers that need supercomputer-level performance.
+Convex is developing a Scalable Coherent Interface high-speed bus to link processors in a future generation of its machines, and this is likely to be used to link the workstations to the C-series machines in the cluster.
+HP agreed to take a small stake in Convex earlier this year under an agreement that includes Convex using the PA RISC family in a massively-parallel computer system it is designing, and also involves each company taking some of the other's products on an OEM basis.
+The latter part of the wide-ranging agreement has not yet been consummated.
+ICL SHIPS NEW DRS MODELS, QUIET ON VIKING
+ICL Plc is now shipping the four new Sparc RISC-based DRS6000 servers it announced back in February (UX No 371).
+They all run the recently-released version 6 of the company's Unix SVR4-based DRS/NX operating system, though Unix Systems Labs' Destiny will appear on them during the first quarter of next year.
+The four are the deskside models 450, 750 and 752 and desktop 240.
+The first two incorporate the so-called CPU2 dual-processor 40MHz Sparc set from Cypress Semiconductor, the 752 employs two of them, whilst the 240 is a Sun Sparcserver 2-type uni-processor.
+The 240 has up to 96Mb RAM and 1.2Gb of disk and is the size of a PC, the company says: it costs from £9,500.
+The 450, with up to 256Mb RAM can support 48 users and is priced at £47,000.
+The 750 starts at £53,000, whilst the 752 is £65,000.
+ICL is keeping schtum on the progress of its Texas Instruments Inc Viking-based Model 764, though it is still shooting for the fourth quarter.
+Last week ICL was demonstrating its new relational database search accelerator in action.
+Whilst higher TPC-A and TPC-B ratings were  achieved using the accelerator on the new DRS models, ICL says it is looking the Transaction Performance Council's new TPC-C (transactions per minute) and TPC-D (complex ad hoc enquiries) benchmarks to provide better real-world tests for its stuff.
+The firm says it'll have TPC-C and TPC-D figures by the second quarter of next year.
+IBM's AIX DATABASE ‘TO REPLACE OS/2 DATABASE MANAGER’…
+Having seduced over one million new users to OS/2 2.0 with the implication that they should adopt Database Manager with it — it actually came bundled in OS/2 Extended Edition — IBM Corp is planning to replace the database with the one it is developing for AIX, according to Computerworld.
+The paper says that on September 22, IBM will give a more specific delivery timeframe for the AIX database and that it will become the common database for both environments.
+…
+NEW RS/6000s DUE ON 22cnd, 64-BIT ENVOY BY LATE 1993?
+And on the 22cnd, during this year's Unix Expo show in New York, IBM is also expected to announce CICS/AIX, new RS/6000s — including 62MHz PowerServer 580 and 980 models (uprated 50MHz 560 and 980 boxes)— and additional clustering software for the RS/6000 line.
+Other reports suggest IBM's Highly Parallel Supercomputing Laboratory is working on an Intel Corp 80860-based multi-processing system — codenamed Vulcan — for this year as a stop gap between the current RS/6000s and a 64-bit RS/6000 due late next year dubbed Envoy, which will go head-to-head with DEC's Alpha RISC systems.
+A mid-range RS/6000 which is expected to follow Vulcan in April 1993 is being touted as Trailblazer.
+…
+POSIX AND DCE DUE ON AS/400
+As well as introducing new high-end AS/400 models, IBM last week also reiterated its plan to enhance the application portability and interoperability of the AS/400 with Posix and OSF's Distributed Computing Environment.
+Some Posix functionality will be supported next year as will the DCE Remote Procedure Call, Directory Services, Security and Service and Time Service.
+UNIFY CORP DETAILS ITS TP AND WINDOWS PRODUCTS
+As expected (UX No 394), Unify Corp has now launched the Accell/TP toolkit it has developed in league with ICL.
+At the same time, the Sacramento, California-based company has announced a Windows version of its core Accell/SQL application development and 4GL toolset.
+An extension of Accell/SQL 2.2, Accell/TP runs with the Informix, Ingres, Oracle and Sybase databases, as well as Unify Corp's own Unify 2000 database, integrates with Unix System Labs' Tuxedo transaction processing monitor, and conforms to X/Open two-phase commit and XA database standards.
+Unify president and founder Nicolas Nierenberg says Accell/TP is now being demonstrated to customers, will go into beta-testing within the next few months, and will be generally available during the first quarter of next year.
+ICL — which also wants a Sun port for its own purposes — will initially have the product to itself, but other ports will follow, and other TP monitors, such as Top End and Encina, are also being considered ‘although we pretty much have our hands full at the moment’, says Nierenberg.
+The product is needed because Tuxedo is so hard to programme, and interfaces have previously had to be written using C. Accell/TP allows you to get to the functionality of Tuxedo using procedure calls.
+Both client and server portions can be written, and can be integrated with non-Accell clients and servers, with debugging tools provided.
+The whole application can be developed locally and split into client/server afterwards.
+Unify claims that its competitors in TP software tools — such as Informix Corp — have products designed to run only within their own environments.
+Dbits
+Unify's buzzword of the moment is Dbits — database independent tools — and Nierenberg claims that means you don't have to buy any part of the related database product to run the tools, not even the data dictionary.
+That rules out competitors such as Empress, Focus and Progress, he says.
+Dbits must also support standard SQL, and at the same time take advantage of the features of the chosen database, not impose their own ‘virtual’ database, thereby negating the purpose in running a particular type of database at all.
+Although primarily Unix focused, Unify has now come round to the view that the success of Windows and probable success of NT cannot be ignored.
+Accell/SQL for Windows is the first Windows-based product from Unify that allows the application to run in Microsoft Windows on the client.
+Before Windows 3.1, Windows was not considered a solid enough environment to allow that to happen, and all the information processing was limited to the server.
+Accell/SQL allows both Unix and Windows clients to share the same database, with Unix clients supporting Motif, Open Look, or just plain character interfaces, and the Windows version supports Microsoft Corp's Dynamic Data Exchange mechanism for applications integration.
+On the database side, Unify is currently waiting to see how object technology develops before it makes a move, but is already hard at work on object extensions to its tools, the first of which are expected to emerge next year.
+ORACLE, SUN WORK ON MARKETABLE APPLICATIONS
+Oracle Corp and Sun Microsystems Inc have expanded their joint development agreement to deliver Oracle Manufacturing and Oracle Financials application suites across all current and future Sun distributed manufacturing facilities.
+More than 20 developers from Sun's technical staff are teaming with Oracle developers to enhance and localise the Oracle Applications products, as well as associated technologies to improve the efficiency of Sun's worldwide manufacturing operations, implement the integration of Sun's Open Look graphical user interface with all components of Oracle's product suite, and optimise Oracle7 for Sun's new multiprocessor servers and produce applications that can be sold to Sun's customers as well.
+US COURT DECISION ALLOWS USL TO PRESS AHEAD AGAINST BSDI
+The US federal court last week denied a motion by Berkeley Software Design Inc to dismiss the suit lodged against it by Unix System Laboratories for deceptive trade practices, unfair competition and false advertising (UX No 392, 394).
+BSDI made its motion on the basis of legal procedure claiming USL would first have to charge it with trade secret and copyright infringement, a charge USL subsequently made when it expanded its suit to include the University of California at Berkeley (UX No 396).
+USL brought suit against the pair because of BSDI's attempts to commercialise an Intel Corp 80386 operating system called BSD/386 based on the university's Network Release 2 which USL claims infringes on its code.
+BSDI and the university claim NET2 is AT&T code-free and can be distributed without license fees being paid to USL.
+In the wake of the dismissal last week USL promised to vigorously pursue the case to protect its rights, convinced its claims have merit.
+TADPOLE ADDS NEW DISPLAY, DISK OPTIONS
+UK, Cambridge-based Tadpole Technology plc is putting bells and whistles on its SparcBook notebook: it can now offer a colour active matrix display and up to 360Mb of disk.
+It's  pricey though.
+With the TFT screen, 16Mb RAM and 180Mb hard disk it has a $13,000 — £8,450 — price tag.
+Tadpole also has a new version of Solaris running, 1.0.1 Version B, for users to run Unix in a mobile environment, reportedly a significant step in its Nomadic Computing Environment (NCE) strategy.
+The company describes Version B as SparcBook OS Lite, a compact end-user version of Solaris including Open Windows V3, NCE and an optimised Unix kernel and file system packaged into a still chubby 38Mb.
+It is supposed to offer the mobile user better windowing, battery monitoring, save and resume functionality, E-mail, fax and SLIP connections than previously available.
+NEW TEST AND MEASUREMENT GROUP FORMED
+Sun Microsystems Inc, Tektronix Inc and National Instruments Corp have ganged up to develop, market and sell a new line of integrated test and measurement systems called Open Measurement Solutions targeted at the aerospace, automotive, telecommunications and electronic design automation markets.
+They will consist of Sun Sparc boxes, Tektronix VXI and GPIB test instrumentation and National's LabView graphical applications and instrument controller hardware.
+The trio, competing with HP, expect to see $30m in combined worldwide revenue from year one.
+Tektronix will be their product integrator and systems will also go through VARs.
+THSTYME KEEPS RESELLERS WARM PENDING HOT NEW RUSSIAN LINE
+Having designed the Commodore International Ltd PET Personal Electronic Transactor, and moved on to found Sirius Inc, later Victor Technologies Inc until he was caught out when the world discovered that ‘runs MS-DOS’ didn't mean ‘IBM-compatible’, Chuck Peddle hopes that he'll soon be back with a bang.
+This time, his vehicle is THStyme, and THStyme UK Ltd, based at Redditch, Worcestershire says its policy of ‘keeping the dealer alive’ by offering the lowest prices on the market is proving a success.
+Of course the company has a particular need to keep its resellers alive, since it is they who will distribute THStyme's ‘revolutionary’ new products, currently under development in Moscow.
+But value-added resellers are not the sole focus for the present drive which has apparently attracted over 400 dealers so far, at a rate of around 20 to 30 a month.
+THStyme currently distributes around 2,000 IBM PS/2-, Mac- and Sparcsystem-compatible line items, including configure-to-order personal computers, value added accessories, disk drives, scanners, memory and monitors — with cut-price, Russian-produced streamers and printers soon to be added to the product line.
+The company, which claims it has managed to undercut its competitors by up to 30%, has proved especially adept at shifting its tape back-up systems and SuperVGA monitors; the latter, priced at £120 each, are currently shipping at a rate of 2,000 per month in the UK alone.
+The company's Paris division is reputedly achieving similar levels of success, which bodes well for the new outlets due to open in Frankfurt and Madrid by the end of the year.
+How many dealers will eventually distribute THStyme's radical new technology is not known, but it is hoped that appropriate channels will be established by the end of the year.
+OILMEN ENDORSE HP, UNISQL OBJECT DATABASE TECHNOLOGY
+Petrotechnical Open Software Corp — the oil industry's open systems user group — has plumped for Hewlett-Packard Co's object-oriented database, OpenODB, and Austin, Texas-based UniSQL's relational-to-object technology as the database elements of its Software Integration Platform (SIP).
+SIP is a set of interface specifications which POSC hopes will allow commercial vendors to market portable interoperable software.
+POSC has licensed OpenODB and UniSQL documentation after evaluating 29 submissions to its request for proposal, and says it'll publish initial SIP specifications next year so that vendors can begin upgrading their products or developing new ones to its specification.
+The reason behind SIP is, according to POSC president, Dan Turner, that ‘for every dollar that companies spend on software, they spend $1.50 to $2.00 more to get their programmes to work with the rest of their systems.
+Exploration and production companies have to manage huge amounts of data from diverse databases and business disciplines.
+They need to achieve cross-discipline data interpretation in order to produce better technical results.’
+POSC believes non object-oriented methods of integrating data can take weeks or months — if it's done at all due to the complexity of what's involved.
+Object-oriented approaches should reduce this time dramatically, POSC says.
+MEIKO ‘PLANS TO DROP i860’
+In the UK, Meiko Scientific Ltd, Bristol, the research and development arm of Waltham, Massachusetts-based Meiko Scientific Inc, is expected to drop Intel Corp's 80860 RISC from its next-generation of massively parallel, multiple instruction multiple data (MIMD) transputer-based systems which are due later this year.
+Instead it is thought Meiko will use the Fujitsu Ltd VP single-chip vector processor for floating point operations alongside the Texas Instruments Inc Viking SuperSparc for scalar operations, although Meiko has said that Cypress Semiconductor Corp's HyperSparc will be considered once it became available (UX No 385), and that the i860 could work with the new architecture if required.
+Meiko's new system is expected to be announced at the IEEE supercomputer show in November with ships of smaller systems by the end of the year and systems with 2,000-plus CPUs next year.
+DELL ‘TO SPIN OUT UNIX DIVISION’
+Reports have Dell Computer Corp considering spinning its Unix work out into a standalone division or subsidiary: the company is now up to Issue 2.2 of its reprise of SVR4, one of the more robust implementations available for PCs and PC-class servers.
+Issue 2.2 includes X11R5, Open Look and Motif.
+Dell is selling it bundled on its machines for $500 for two users, $800 for unlimited.
+Standalone it goes for $1,000 and $1,300 respectively.
+Dell intends transitioning to Solaris 2.0-on-Intel, starting with a $100 Solaris Developers' bundle in the third quarter.
+SYSTEMS CENTER TO COMMERCIALISE PRINT TECHNOLOGY FOR OSF DISTRIBUTED MANAGEMENT ENVIRONMENT
+The Open Software Foundation has chosen Reston, Virginia-based Systems Center Inc to provide the Palladium print services for its Distributed Management Environment, DME.
+Palladium, which got the nod back in September 1991 when OSF announced the winning DME technologies, heralds from the Massachusetts Institute of Technology's Athena project, with support from DEC, HP and IBM.
+Systems Center will upgrade Palladium source code to a commercial standard.
+Using OSF's Distributed Computing Environment alongside Palladium, Systems Center is putting together a bundle of ISO DPA 10175 and Posix 1003.7.1-compatible distributed print services which it will supply to OSF in 1993.
+It'll include a user interface, print supervisor, print spooler, base code, documentation and an application user interface.
+OSF will introduce them as part of its release of DME phase 2.
+Systems Center will hold a conference for printer manufacturers this November to discuss that industry's requirements.
+TOPLOG FORMS NEWNIX TO MARKET UNIXWARE
+Although French Unix distributor TopLog International SA hasn't officially signed-off on a deal with Univel Inc to market UnixWare (UX No 400) in Europe, the Paris-based company last week said that it is forming a new company, Newnix, to handle its Unix and UnixWare business from November, after the paper is inked.
+TopLog says it is only waiting on Univel to get its stuff out of the door and was originally set to go this month.
+The former Metrologie unit was Santa Cruz Operation Inc's first partner in Europe and says that the relationship will continue.
+NCR's ADDS TURNS TO INTEL's 80960 RISC FOR NEW X-STATIONS
+As expected (UX No 398), Applied Digital Data Systems Inc, NCR Corp's Hauppauge, New York-based terminals subsidiary, has traded in its allegiance to Motorola Inc 68000 family chips and switched to RISC with the Intel Corp 80960 for a new line of X-stations introduced last week.
+The company says it has been previewing the new X-stations for three weeks and has already taken orders for over 2,300 units.
+The new 3533 XLR line of stations comes in nine models offering a variety of monitor sizes in monochrome, grey scale, and colour.
+They offer simultaneous operation of a local network connection and two serial ports plus a separate parallel port for network printing, and xEasy software to help manage installation, operation, and remote administration of the X-station; xEasy encompasses a range of X-station-specific processes, scripts and software features designed to enhance the installation, operation and maintenance of X-Windows-based terminals from both a system administrator's and a user's viewpoints.
+The XLR X-stations offer standard XTerm, local client support of Motif Window Manager and VT220 terminal emulation, and two serial and one parallel ports, the company says.
+The line offers an automated host installation and is fully scripted for NCR, Sun, HP, DEC, and IBM hosts.
+ADDS is also previewing a 3270/X programme that provides an X-Window migration path for IBM 3270 terminal users moving to NCR's System 3000 Unix line.
+The 3270/X software will provide 3270 client capability, with integrated access to other network resources such as Unix, X-Windows applications and standard character terminal applications, and is planned for first quarter 1993.
+With monitor, keyboard, mouse and 4Mb memory, the XLR14C, 14″ colour 1,024 by 768 pixel model is $3,100; the XLR15C 15″ variant of that is $3,400; and the 17″ XLR17C version is $4,300.
+With the same memory and peripheral content, the XLR17CHR is a 17″ colour 1,280 by 1,024 model at $4,900, and the XLR19CHR 19″ version of that is $5,900.
+The XLR17G is a 17″ grey scale 1,152 by 900 model at $3,100, and the XLR19G is a 19″ 1,280 by 1,024 variant at $3,500.
+The 17″ and 19″ mono versions are $2,600 and $3,000 respectively.
+ADDS is offering Unix Expo exhibitors free terminals for the run of the show.
+Call Ed Mantaring at (516) 231–5400 ext 834 or fax him at (516) 231–7378.
+SUNPRO CALLS ON RUSSIAN SCIENTISTS FOR SPARC COMPILER TECHNOLOGY
+SunPro, Sun Microsystems Inc's software development operation, is bringing in Russian software expertise to help it develop compiler-level products which will improve the performance of applications running on Sparc RISC-based systems.
+SunPro has hired a team of 33 software engineers on a renewable six month contract as an extension to its core engineering group.
+The team is to be lead by Dr. Boris Babaian of the Russian Academy of Science, inventor of the Elbrus-3 supercomputer which was developed for the Soviet space programme and is reported to be three times faster than a Cray Y-MP.
+The team members previously worked on developing the software optimising compilers for Elbrus, and it is this technology in particular that SunPro wants to take to the US.
+Groups in Novosibirsk and St.Petersburg will work on enhancing SunPro's Fortran and Pascal Sparcompilers, whilst a unit based in Moscow will be optimising the Sparc compiler to allow applications to run faster.
+Although Sun has other existing engineering projects which utilise Russian expertise — also lead by Dr. Babaian — these are focused purely on research, and Sun claims that in employing Russian scientists to develop commercial products it is breaking new ground for a Western firm.
+EUROPEAN ROUNDUP
+Farnborough, Hampshire-based, Knowledge Software Ltd's Open Systems Interface Checker is now available on Sun Microsystems Inc Sparcstations, the software costs £10,000 for a single user licence: OSIC checks adherence to open systems standards, including X/Open's XPG, Posix and ANSI.
+Cirencester, Gloucestershire-based start-up, Beaver Valley Systems Ltd, has signed to market Precision Visuals International's PV Wave visual analysis software: BVS, an X-Windows specialist was formed by refugees from Meiko and DEC.
+Watford-based Xanadu Systems Ltd is to distribute Jupiter Systems Inc's multi-headed X-terminals in the UK.
+Pure Software Inc, Los Altos, California, has signed with Productivity Through Software Ltd in Manchester: the UK firm will distribute and support Purify throughout Europe.
+Broughton International, a Cincinnati, Ohio company that provides sales and marketing services on an outsource basis to US and UK developers of Unix-based cross-industry software, has signed with UK firm Primary System Software International for exclusive distribution rights in the US and Canada: Primary's products including UniQPrint, UniQBatch, UniQFax and UniQTelex help manage those functions.
+Siemens Nixdorf Informationssysteme AG has stepped up its relationship with Burlington, Massachusetts-based Xylogics Inc, and is to integrate the firm's Annex communications servers into its Intel Corp-based MX and MIPS Technologies Inc RISC-based RM300 and RM6000 Unix systems: the deal is worth some $5.25m over three years.
+And Sun Microsystems Installed Base Group, the European division responsible for touting third-party peripherals to the Sun aftermarket, will market, install and support Xylogic's Annex Three communications server as its local area network server.
+Bracknell, Berkshire-based Acuity Management Systems Ltd has released version 3.0 of its Acuity/ES executive information system and decision support system for Unix, Windows and VMS.
+German Unix house, IXOS Software GmbH, Munich, is searching for new distributors to market its iXView/SQL query generator across Europe and the US.
+IMI Computing Ltd's Hemel Hempstead, Hertfordshire-based Uniplex Ltd, is to port its office software — including the next-generation object-oriented Nouveau suite — to DEC's Alpha RISC.
+In the UK, London-based Video Dynamics Ltd, has announced Sprint GXU, a display adapter for Intel Corp-based personal computers running Unix: the adapter is claimed to bring workstation graphics capabilities to a PC and costs $500.
+Sun Microsystems Inc workstations will be used as reference platforms for all software developed by the Swiss Electronic Stock Exchange: the Association Tripartite Bourses — an association of Switzerland's three stock exchanges — Basle, Geneva and Zurich — will use Sparcstations to develop a new trader's interface.
+According to Computerwoche, the head of DEC Deutschland GmbH Hans-Jorg Rieder is to be replaced by Hans Wolfgang Dirkmann at the start of October, who is currently managing director and chairman to the Digital-Kienzle Computersysteme GmbH acquisition.
+Siemens Nixdorf Informationssysteme AG's Unix-based secure operating system, SecTOS, has been awarded a security classification from the newly formed European Information Technology Security Evaluation Criteria, ITSEC.
+IBM Corp has signed an OEM agreement with Synchronix Diffusion SA, Paris, France, for SX-M-View software which allows users to hot-link applications into graphic X-Terminal environments.
+UK financial software house, Clarke and Tilley Ltd, based in Cheam, Surrey, has released Uptix, a multi-currency management system, attempting to revamp its profile in the open systems market.
+Ultimate Corp reports an order for a second large Sequoia Computer Systems Inc fault-tolerant Unix machine from Moscow-based Almazjuvelir Export: the firm is to use a Motorola 68030-based Sequoia Model 300 2.2.2 computer system worth about $880,000 — and is paying in hard currency.
+Ultimate has installed about 50 systems to date in the Commonwealth of Independent States; Almazjuvelir Export can pay in hard currency because it exports over $1,000m annually in jewellery, precious metals and gemstones and holds exclusive rights to manufacture reproductions of the Faberge eggs.
+ICL Plc is to resell Alton, Hampshire-based Multisoft Financial Systems Ltd's Multisoft Premier Plus financial package: the agreement, handled by the CPS arm of ICL's Associated Services Division, comes as part of a new initiative by the Putney, South London-based Fujitsu Ltd affiliate to expand its Unix application software portfolio.
+Egypt's Banque du Caire has signed up to use ICL DRS6000 boxes running Arabank, a branch banking application, at its Cairo headquarters and branches — the deal is worth £2.8m.
+ICL Plc and Investment Intelligence Systems Corp of Delaware, have jointly acquired the assets of Forex Advisory Services Ltd, based in Chelmsford, Essex: the deal gives the two control of intellectual property rights, control of BankWide Unix-based system and the Interactive Dealing Support System; ICL is keen to market BankWide in what it describes as ‘emerging economies’ while IISC believes that IDSS will be of special interest to banks and brokers across Europe.
+In the UK, Unix International's next Open Exchange conference takes place on September 9th, the subject for debate is Unix-based on-line transaction processing systems.
+London-based, Alex Technology Ltd has launched Alex QA, a quality assurance and testing tool for its graphical user interface products: Alex QA is available from September for Motif or Open Look — prices start at £3,000.
+Logitek, the UK distribution arm of Microvitec Plc, Bradford, West Yorkshire, has teamed up with ICL Plc to distribute TeamOffice, ICL's office network management product.
+UK, London-based, RCS Microsystems Ltd is to distribute Tritec Electronic GmbH's GXC-1 graphics accelerator board: it is targeted at the CAD and simulation market and plugs into Sun Microsystems Inc's Sparcstations.
+UK, Cambridge-based Unipalm Ltd, has released Doors, an X-Windows virtual window manager that extends the working space for OSF/Motif users: Doors costs £10,000 for source code, £3,000 for a single site licence.
+In the UK, financial application developer, Portslade, Brighton-based, Shortlands Computing Services Ltd, has renamed its multi-lingual, multi-currency financial management suite, Shortlands Financials.
+Scottish firm, Edinburgh Portable Compilers Ltd, has launched EPC C++, a native C++ compiler, and the EPC Debugger, an interactive debugging system: EPC's technology will support SunOS, AIX, SVR4, SCO Unix and Interactive Unix.
+Integrated Device Technology Europe Ltd, Leatherhead, Surrey, is to host a series of two day seminars for embedded system developers and programmers building MIPS-compatible RISC controllers: the seminars, in London run from September 4th-22nd October.
+Harrier Computer Systems Ltd, Finchampstead, Berkshire, has been appointed sole UK distributor for Legato Systems Inc's Networker backup and storage solutions.
+Intergraph Corp's European Users' Conference — EuroGUG ‘92 — is being hosted by the Intergraph UK Graphics Users Group and takes place at the Birmingham Metropole Hotel between November 2nd and 5th.
+COMMERCIAL MARKET FAVOURS X ON PCs, SAYS NEW REPORT
+Sales of X-Windows software and X-terminals are still booming, according to the X Business Group, which estimates growth in the X-terminal business at around 100%, while sales of PC X-server products are growing at an astonishing 300% (UX No 398).
+Part of that growth seems to be due to the fact that, until recently, most PC-X servers were unreliable and slow.
+Unit sales should top 175,000 units this year, up from 58,500 last year.
+Of last year's sales, worth $15m, 26,600 were MS-Windows-based, 4,000 Macintosh based and the rest were MS-DOS.
+Hummingbird took a commanding lead (29%) of the MS-DOS business, but lost out to the UK's VisionWare in the MS-Windows sector through not having its product ready in time.
+The latest entry, Quarterdeck with the long-awaited Desqview/X, however, has been stirring up the market with some high profile selling, backed by a positive reception from the industry.
+White Pines Software Inc of Nashua, New Hampshire was the star in the Macintosh world.
+According to Stephen Auditaire of the Fremont, California-based X Business Group, corporations are adopting X as a component of their PC integration strategy — and that won't necessarily affect X-terminal business, as PCs are normally used only for occasional access to corporate databases, not the constant heavy graphical use more suited to X-terminals.
+A different story emerges if you approach the two sides — Hummingbird maintains that X-terminals will soon be obsolete, that PCs are cheaper (especially for colour) and more functional, offering access to PC applications as well.
+Tektronix says that PCs, even with the 486, are far slower, that hidden costs such as graphics cards make them more expensive, that TCP/IP is hard to install and maintain on a PC, and that X-terminals are easier to administer.
+According to Personal Computers and the X Window System, the latest report from the X Business Group, it is the take-up of X by commercial customers that has caused the explosion, with database access expected to account for 32% of sales, mapping and GIS 16% and CASE 11%.
+Last year, 46% of sales were to CAD/CAM users: this year that may drop to just 8%.
+X-terminals
+Meanwhile, the X-terminal market is still dominated by Network Computing Devices, which in 1991 achieved a 25% share of the $358m business, followed by HP's 17%, DEC's 14%, IBM's 11% and Tektronix's 7%.
+NCD's share shows no sign of slipping, says Greg Blatnik of the X Business Group, even though the system vendors are all likely to increase their share — one reason might be that it's more important for NCD systems to work with a variety of hosts — Peter Wellings of NCD's UK distributor Xanadu claims that DEC, for instance, has had its X-terminal success mostly confined to existing DEC installations.
+It is, however, now committed to find its own end-user business, and is thought to be talking to Olivetti & Co SpA.
+Tektronix, the other main independent, drastically slashed its prices at the Xhibition trade show back in June in an effort to increase its market share.
+If Blatnik's analysis is correct, then things look bleak for the smaller vendors, all trying to gain a significant share of the action.
+And if Sun Microsystems does an about turn and endorses the X-terminal with a product of its own (UX No 399) the figures will no doubt change round once again.
+OVUM SEES SLOWER TAKE-UP OF OBJECT TECHNOLOGY
+A new report from London market research firm Ovum Ltd, based on a survey of 250 suppliers worldwide, suggests the market for object-oriented systems in the US and Europe is currently worth some $865m and will rise to $4bn by 1997.
+Although the market is growing by some 69% per annum now, Ovum says that's already down 10% on its 1991 report's prediction, and will fall to 27% per annum by 1997.
+Apart from general recessionary influences, Ovum cites a slower take up of the technology than had been predicted as a reason.
+Dividing the market into languages and programming environments, application development toolkits, object-oriented database management systems, and Case tools, Ovum says sales of languages and programming environments accounted for 58% of the object-oriented market last year, development toolkits 27%, Case tools 9.3% and databases 5.7%.
+By 1997 it estimates development toolkits will account for 31.7% of the market, languages 25.7%, databases 25.6% and Case tools 17%.
+The report, ‘Object Technology: Suppliers, Products and Markets,’ costs £500 — $800.
+EUROPEAN SALES OF PACKAGED UNIX SOFTWARE BOOMING SAYS IDC
+Sales of shrink-wrapped software for Unix systems is outstripping growth in shipments of Unix hardware by nearly 2 to 1, according to a new report by IDC Europe.
+It expects packaged Unix software sales to grow by a compound rate of 22% a year to 1997 in Europe.
+The overall European Unix software market increased in size by 25% in 1991 over the previous year, according to the report, whilst the Unix hardware market was pegged at 15%.
+Unix tools saw a 28% growth — because of increased revenues from database engines, data access and executive information systems, says IDC.
+Application sales grew 25% and systems software sales grew by 23%.
+The value of the European database market increased by 37% to $231m and now constitutes 45% of the worldwide market (larger than the US portion).
+FOUR SEASONS DEBUTS CASE TOOL
+New Jersey firm Four Seasons Software, the database-independent tools and services provider, is entering the CASE market with a second product, 4S-Briefcase, that reportedly enables integrated automation of the entire application development life cycle.
+The product, to debut at Unix Expo, uses the data model produced by several popular front end CASE products as input.
+It then automatically produces a running application consisting of menu structures, forms, query mechanics and reports without any 3GL, 4GL or SQL programming, the company said.
+Most CASE uses have to take output from a front-end CASE tool and create applications with a 3GL programming language or a back-end CASE tool.
+The generation process is managed by a set of ‘recipes,’ reusable code describing the scope of functions and objects to be generated.
+After initial generation, the developer can fine tune the process.
+4-S Briefcase can be customised but also offers a pre-configured recipe.
+Available immediately, pricing ranges from $720 to $26,000.
+CARNEGIE MELLON READIES ‘PERSONAL USE’ $100 MACH FOR MAC
+While Tenon Intersystems Inc of Santa Barbara, California, has been shipping its MachTen implementation of Carnegie Mellon's Mach operating system for the Macintosh for a year or so now (UX No 341, 393), a separate effort at the University itself is now complete and ready to go.
+The MacMach project, headed by Zonnie Lee Williamson at Carnegie Mellon, is currently in for some last minute testing at Apple before the distribution goes out.
+Unlike the Tenon effort, MacMach is not offered as a commercially supported product, and requires a ‘personal use only’ agreement.
+In return you get ‘all’ the sources.
+Based on the Mach 3.0 kernel with the CMU BSD/Unix server, it will run on an SE/30 or a MacII and its x, cx, ci, and fx editions.
+System requirements are at least 8Mb RAM, and from 80Mb to 600Mb disk space, and it works with standard display and Ethernet cards.
+Some combinations of machine type, RAM and system type may cause problems.
+‘MacMach works with the systems I run it on.
+I can't assure you that it will work on your machine — it should, but it might not’, says Williamson.
+It boots from MacOS System 6.7 or 7.0, 24 or 32-bit mode.
+Distribution from Carnegie Mellon will be on CD-ROM, priced $100.
+And Williamson emphasises that a BSD/AT&T Unix license is required, and that MacMach, containing BSD 4.3 source code, is not a public-domain product.
+In contrast, Tenon's commercialised MachTen sits on top of MacOs and runs as an application, eliminating the problems of supporting the various Mac devices, boards and applications.
+It also supports Quadras and Powerbooks, and works with System 7.
+A future release, due this autumn, will provide Mach virtual memory and protection, beyond that already provided by System 7.
+Carnegie-Mellon email: info-macmach+ andrew.cmu.edu Tenon Intersystems: 805 963 6983.
+MINIGRAMS
+Santa Clara, California-based Integrated Systems Inc has announced version 1.1 of its Xmath mathematical tool for X-Windows and Motif: prices start at $2,500 on Sparcstations and DECstations — Hewlett-Packard Co, Silicon Graphics Inc, IBM and VAX/VMS editions follow.
+Siemens Nixdorf Informationssysteme AG has added new Motorola Inc 33MHz 68040-based models to its Targon /31 series of Unix systems: the uni-processor 35 is rated at 20.6 MIPS and comes with up to 128Mb RAM and 3Gb disk, the dual-CPU model 65 comes with from 64Mb to 256Mb disk and is priced at from £64,000 — both run the Unix SVR4-based Sinix-TOS V5.41 operating system.
+CompuServe Inc's Tampa, Florida-based Collier-Jackson subsidiary is to integrate and market Cognos Inc's PowerHouse application development environment with its World Class Series accounting and staff management software.
+San Diego, California-based Audre Recognition Systems Inc's document conversions software is now available under SunSoft's Solaris 2.0.
+Hewlett-Packard Co says it's exploring the notion of porting Microsoft Corp's NT to its PA-RISC chip.
+Hitachi Ltd, one of HP's PA-RISC wins, has been off developing its own proprietary 32-bit RISC chip for embedded applications: it should start sampling later this year.
+The Santa Cruz Operation has reversed itself on what to name its SCO Forum ‘Product of the Year’ and has gone with Applix Inc after getting complaints that Clarity Inc, its first pick, was not delivering on the SCO platform nor did it even have such an animal in beta: SCO is kind of lax in its standards.
+Last year it gave the award to Island Graphics Inc which then wasn't on SCO.
+Uniforum's executive director Ed Palmer will be retiring: they've hired a headhunter to search out a replacement.
+If you think you can fit the bill call Jeff Christian at Christian & Timbers in Cleveland, Ohio (216) 464–8718.
+Uniforum and Patty Seybold's Group, co-sponsors of Executive Uniforum, have parted company: Seybold is now going to host her own Open Systems Forum in Boston next April, promising to deliver a lot more users than Executive Uniforum ever did.
+It'll be part of what she calls the Seybold Marathon Week, coincident with the Boston Marathon and the Distributed Objects Computing Forum and the Executive Forum which she'll also run.
+Nina Lytton of Open Systems Advisor, who previously hosted Executive InterOp, will now run Executive Uniforum which will be held right before Uniforum in March.
+Judith Hurwitz, now head of the Hurwitz Consulting Group, says the whole tone of SCO Forum was different this year and obviously indicates they are jockeying to go public — even though they'll need a couple more quarters at least to get the kind of track record they need to do it.
+Hurwitz says they need to go public to sell their products to large corporations who don't want to mess with a small privately held firm.
+She also figures SCO has despaired of leveraging their relationship with Microsoft, which owns a piece of the company, in any way.
+In passing she noted that Open Desktop wasn't original to SCO.
+The idea started with DEC who conceived it as an anti-OS/2 move fronted by DEC Windows.
+Hurwitz also had a one-on-one recently with Microsoft's NT manager Dwayne Walker who was trying to position NT as ‘mission critical.’
+She claims this is a code word for ‘we don't expect it to be widely used.’
+She figures they're having a hard time positioning the thing and don't want to mess up the good thing they have going with Windows.
+NCR is expected to announce a full Unix implementation of its Cooperation office software running on Intel machines at Unix Expo.
+Unix System Labs will kick off a Destiny software branding programme at Unix Expo: a kit including binary, documentation and test list will go for $500.
+Version 1 of SVR4.2 was frozen in early August.
+Work is still on-going with Version 2.
+The Usenix Systems Administration Conference has been scheduled for October 19–23 at the Sheraton Long Beach in Long Beach, California.
+88open has decided to offer its system and application compatibility test suites — ITS/88, AVS/88 and ACT/88 — to industry consortia and companies: although to date they have only been available for Motorola Inc 88000 RISC based systems, interested parties would presumably customise the sets for other architectures.
+MAI Systems Corp, Tustin, California, has released MAI Financial Solutions, a set of financial applications for the Sybase Inc database: each of the four modules costs around $40,000.
+MAI —(313) 347 9070.
+At SunWorld Expo in Japan Texas Instruments Inc was showing off and integrated SuperSparc module combining multi-processing unit, cache controller and eight RAM circuits: TI is now shipping 33MHz and 40MHz SuperSparcs — though apparently it's not happy with 40MHz yields — 45MHz, 50Mhz and 75MHz versions (the latter for 1993) are planned.
+IBM US is going to start selling its Unix boxes and components through a mail order catalogue.
+End users and resellers alike will be able to order complete systems, parts and add-ons like memory boards, disk and tape drives, graphics adapters and software from the ‘RISC System/6000 Direct Order Catalogue.’
+All species of 6000 system, both workstations and servers, are included.
+IBM has set up a toll-free number to handle calls:(800) IBM-CALL.
+The catalogue has been distributed to current customers and resellers and will ship with all units.
+Unix International members including Data General, Fujitsu, ICL, NCR, Sun and Unisys have formed the UI Singapore Marketing Group to raise SVR4 awareness in the local market.
+Rosewell, Georgia-based Computone Corp has reorganised again: Ed Marinaro, currently an advisor to Ventana Growth Funds and past president of Cipher Data Products, has been named chairman and chief executive officer.
+Robert Niehaus, a director of the company who previously ran a speciality construction firm, is now president and chief operating officer.
+Former president Tom Tanis Jr will continue on as executive vice president of sales and marketing.
+Computone lost $1.1m on sales of $22.7m the year ended April 3, its second annual loss in a row.
+SunSoft Inc claims to have a multiprocessing version of Solaris 2.0-on-Intel running in the lab.
+Sun Microsystems Inc is claiming it's booking orders and delivering production units of Viking-based Sparcstation 10s in volume as it promised it would.
+Hewlett-Packard hears DEC is rewriting its Alpha instructions.
+Travellers back from Japan say that profound things are happening over there and that despite the buffeting the Japanese companies are taking from the recession they continue to invest in their Unix operations.
+Our Unix bigots initially thought these long-term investments might be among the first to go.
+Our travellers also noticed that the highly profitable Japanese office automation lines, sold in the home market and historically proprietary, are now taking on new Unix guises.
+Hewlett-Packard Co folks laid us a false trail a few weeks ago when we reported — on their say-so — that the company would be letting two more Snakes out of the basket come mid September (UX No 397).
+As it turns out, those particular Snakes were never in the cards, at least not for this month.
+HP's September announcement — and this is gospel — will be two high-end Series 800 multi-user business servers incorporating the latest implementation of HP's PA-RISC chip, the 7100.
+Hewlett-Packard will also come out with a new revision of its HP/UX operating system, tarted up with some additional commercial and technical functionality.
