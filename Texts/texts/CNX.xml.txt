@@ -1,0 +1,333 @@
+
+
+PHILIPS ‘TO PULL OUT OF THE PERSONAL COMPUTER BUSINESS’
+The story seems to have been largely missed, but Philips Electronics NV is planning to pull out of the personal computer business as part of its latest restructuring, which will see 5,000 jobs go from its consumer electronics operations worldwide this year, Het Financieele Dagblad reported.
+The cuts are equivalent to 9% of the divisional workforce.
+The paper says Philips presented its plans to analysts only hours after the presentation of its 1992 annual results almost three weeks ago.
+The Eindhoven company plans to scrap 20% of its consumer electronics product range, largely from the lower end of the price range — and it will halt its personal computer activities and withdraw partially from consumer electronics in countries where margins are low.
+Philips said the information given to analysts should be seen as ‘an indication of the direction being taken’ rather than as concrete policy.
+Last April, when Philips unveiled new cutbacks in its heavily loss-making personal computer production operations, the company said it would stop manufacturing micros under its own brand name in the US, but continue to produce for third parties.
+All personal computer production has now been halted, the company said, calling into question the future of its factory in Montreal, Canada.
+NEC STARTS SAMPLING 64M-BIT MEMORY CHIPS NEXT MONTH
+NEC Electronics Inc has become the first company to announce samples — for next month — of 64M-bit memory chips with 3.3V parts in 0.35 micron CMOS.
+Initial organisations are 16m by 4, 8m by 8, and 4m by 16.
+Best access time is  50ns and a 10,000-up price of $600 is seen.
+P&P TO SELL DISTRIBUTION ARM TO MERISEL FOR £500,000
+P&P Plc has quickly found a buyer for its volume computer distribution business which should mean that it can reverse at least a part of the £8.9m provision it took against its most recent figures to cover costs of closure if a buyer could not be found.
+The unit is going to Merisel (UK) Ltd for a price said to be just over £500,000.
+The business has sales of around £40m a year, but was losing money.
+The agreement does not affect P&P's specialist distribution activities such as Principal Distribution and P&P Power Systems, the firm noted.
+BILL GATES TO WED MICROSOFT STAFFER MELINDA FRENCH
+Microsoft Corp chairman Bill Gates, generally regarded as the wealthiest person in the US, is no longer the country's most eligible bachelor — he became engaged over the weekend to 28- year-old Melinda French, a Dallas-born product manager at Microsoft who joined Microsoft in 1987 and is now product manager for the Microsoft Publisher desktop publishing programme.
+SOUTH KOREA SEEKS A PARTNER TO DESIGN MAINFRAME
+The mainframe may be moribund, but if so, the South Korean government has not heard about it: it is looking for a foreign partner to build mainframes locally from 1997, Reuter reports from Seoul.
+The trade ministry said it would soon invite bids from US computer companies including IBM Corp, Digital Equipment Corp, Unisys Corp and Tandem Computers Inc.
+‘We rely completely on imported mainframes and spend a lot on maintenance and repair,’ a ministry official said.
+‘In order to survive in the cut-throat computer industry, we must produce our own large-scale computer.’
+Samsung Electronics Co Ltd, the electronics units of Hyundai Group, Lucky Goldstar Group and Daewoo Group and Trigem Computer Ltd all hoped to participate in the project, the official said.
+The plan is for a joint venture with the partner to develop, manufacture and market the mainframe, and the cost is put at $50m with the government offering preferential loans of $24m.
+South Korea imported $600m of hardware and peripherals last last year and forecasts $670m this year, and a domestic mainframe project would help South Korea save $300m or so annually.
+The government hopes to pick a winner in May but the selection could be delayed.
+The machine must deliver 8 MIPS, be a multiprocessor and support optical disks.
+The winner would be asked to draw up a specification for the mainframe by the end of the year, at which time two local partners would be chosen to design and build it.
+In July last year, it was reported that Unisys had already won the business with a plan to remodel the A16 and A19 mainframes for the South Korean market (CI No 1,972), but the company denied that it was a done deal.
+LOTUS PULLS OUT ALL THE STOPS IN LAUNCH OF LOTUS NOTES 3
+Lotus Development Corp yesterday duly launched Release 3 of its Lotus Notes client-server applications environment for workgroups.
+The Notes Starter Pack, priced at $1,000, features a new Notes Server for Windows 3.1 and supports Novell Inc NetWare, Microsoft Corp LAN Manager and Windows for Workgroups local networks; a Notes Starter Pack for OS/2 is planned.
+Volume shipments will begin in late April, and Unix versions of Notes will be available in client and server implementations in the second half of 1993 for Solaris, AIX, HP-UX and Santa Cruz Operation Inc Unix.
+A version of Notes for IBM Corp's OS/2 Workplace Shell and a NetWare Loadable Module version will ship in the second half.
+A single Notes Release 3 client or server licence is $500.
+It is also enhancing support and Customer Support arm will offer expanded options to make sure customers succeed with installation, use and deployment of Notes 3.
+Basic Telephone Support is $300 per year or $50 per call in the US.
+Premium Telephone Support is $2,500 per year or $150 per call.
+The fees associated with On-Site Services range from $1,200 per day, with typical engagements being half a day to five days.
+It plans a broad-based programme for developing an industry of Notes partners, and a two-tier distribution strategy designed to make the thing readily available through distribution channels used by personal computer networking and application developers.
+A new Notes Developers' Programme is underway to recruit and provide technical services to commercial software developers providing products based on Notes technology.
+MAINFRAMES FOREVER!
+IBM's PROBLEMS ARE ALL IN ITS MIND, BARRY GRAHAM BELIEVES
+All IBM Corp needs to do to return to profit is get rid of excess staff and keep exploiting customers that aren't in the know by selling mainframes and related software at exorbitantly high margins.
+Moreover, according to Barry Graham of IBM research group Xephon Plc, the mainframe is not a dinosaur, and is cheaper than Unix systems and personal computers linked by local area networks at those sites with more than 200 users.
+Graham, a self-confessed IBM-freak, felt he needed to present Big Blue's side of the story because, ‘IBM is incapable of putting forward its perception of what's going on’.
+In his opinion, the group simply needs to cut headcount by 50,000 this year to be back where it should be.
+If it had addressed the staffing issue in 1984, and cut costs via such measures as early retirement, he claimed, it would have made $7,000m net profit last year.
+It was ‘insanity’ on IBM's part to believe it could continue growing at 15% per annum, taking on more people and buildings as it went, he added.
+Nonetheless, Graham reckons that Big Blue doesn't actually need to do anything different, not even grow its revenues, to be profitable in 1994, possibly by the end of 1993.
+Iniquitous
+Despite all the  iniquitous talk about the demise of the mainframe, he firmly believes that mainframe sales still prop up all other areas of activity at IBM.
+He even claimed that if the large systems division was spun off from the rest of the firm, it would be worth more than $80 a share.
+According to his calculations, this means that the rest of the business is accorded a negative value by the market.
+Furthermore, he contests, costs at the company have gone up for the simple reason that it has moved into different areas of activity — IBM simply made the mistake of trying to be ‘all things to all people’, and so will never be able to return to the profit levels of the mid-1980s.
+His advice to the group, therefore, is not to spin off Baby Blues to focus on specific product areas, but rather to split business into small and large accounts.
+However, he claims IBM is still the only company that can command 48% margins on its mainframes.
+And mainframe sales still generate enough profit to enable it to do other things.
+This, he believes, is what has made Unisys Corp ‘the most profitable computer company in the world’— since the merger of Univac and Burroughs, it has not only kept headcount low, but also used the profits generated from mainframe sales to develop portable software applications.
+So, to prove IBM is still on the right track, Graham attests one of the biggest industry myths is that IBM gives huge discounts on its mainframes.
+Since 1985, he says, the number of MIPS in each machine has increased by 35% each year, but the price per MIPS of large systems has gone down by 15%.
+The list prices of IBM's new machines have not reflected this, and pricing has remained fairly constant.
+According to Graham, it is based predominantly on what users are prepared to pay.
+As a result, those customers that don't understand the system get smaller discounts and pay proportionately more.
+Thus, he claims IBM's act of tearing up its price list was a purely symbolic gesture, simply an attempt to keep the same situation going.
+Still, he reckons that the bigger the mainframe, the cheaper relatively it is to buy — 10% cheaper, in fact, at the top than at the bottom end of the range.
+And, he attests, the only two other mainframe manufacturers, Fujitsu Ltd and Hitachi Ltd, have the capacity to build just 400 between them, while a total of 2,000 machines are sold every year.
+Therefore, IBM has a captive market, and is able to charge two or three times more for software and maintenance than its rivals.
+In addition, as users pay one and a half times more per MIPS on an upgrade than on a new machine, their investment is not protected.
+Because each upgrade forces them into the next software price band, software also costs more.
+To add to customers' problems, he said, old mainframes can't run new software with additional functionality.
+This, he says, is the main issue that users have to address to get value for money.
+But he admits, cost-effectiveness does depend on the number of users involved — with up to 100 users it is cheaper to use Unix, while he personally wouldn't suggest running a mainframe with fewer than 200 users.
+In 10 years' time as mainframes become more powerful, he reckons, this figure is more likely to be 500.
+By 1997, however, he sees the mainframe pulling away from its competitors, because, he says, while hardware costs are falling, people costs are going up in terms of support and lost productivity.
+And within 10 and 15 years, he is convinced that public opinion will swing back in favour of the mainframe.
+For one thing, he says, in a few years, applications for Unix and mid-range systems will require major rewrites as these environments change or become redundant.
+A big advantage of the mainframe, though, is that applications written now will still be viable in 10 years because, Graham's logic goes, applications written 10 years ago are still in use now.
+And, he says, hardware and software costs are insignificant compared with that of developing applications.
+All in all, he still believes that the mainframe is the only choice for big companies.
+In his view, it is a complete fallacy to say that downsizing is cheaper — people should choose the right machine to do the job, he says, obviously enough.
+Furthermore, he says he can find no example of a large mainframe user ever downsizing, adding that to do so would inevitably lead to lower company profits.
+In his view, it is fallacious to say that Unix costs less per number of users than mainframes because no-one has ever put a large number of users on Unix boxes.
+Instead, he believes that over a five year timescale, Unix systems actually cost more to run than mainframes due to hidden costs from lost productivity.
+Some 5% of user's time, he claims, is spent in such tasks as backing up a network, and such factors end up costing as much as the original system itself.
+According to his calculations, between $7,000 and $9,000 is spent on each Unix user over five years, while each mainframe user costs between $5,000 and $6,000.
+Fortune
+Also, he attests, the cost of running Unix systems increases year by year — although the price of MIPS may be going down, users need more MIPS to perform more sophisticated jobs.
+Moreover, in his opinion, there is no such thing as an open system.
+He cites Oracle Corp as a victim of this lack of  openness — Oracle saw turnover rise last year, but its profits were flat, Graham said, because it had to spend a fortune developing different versions of its database for different Unixes.
+He believes size is everything in the computer industry because companies need to be big enough to fund development.
+This, he reckons, has never been more true than in the Unix software arena and he reckons it likely that just one big company will seize control of the Unix world, and its subsequent dominance of the market will result in software prices going up.
+Also, give it a couple of years and the market will see just three big players on the market — Siemens Nixdorf Informationssysteme AG, IBM and Unisys.
+Graham reckons these three will succeed because they have critical mass, but also offer what users want: proprietary systems that are open.
+NOVELL EXPLAINS HOW IT AIMS TO DRIVE THE UNIX MARKET FROM THE LOW END
+While the Unix vendors got together last week for yet another attempt at unifying their offerings, Novell Inc, the next owner of Unix system technology, is convinced that things must go a lot further yet.
+Volume is driving the market, and volume currently belongs to the twin dominators, Intel Corp and Microsoft Corp.
+Kanwal Rekhi, executive vice-president of Novell's interoperability systems group, thinks his company has the resources to  challenge Microsoft in the corporate, client-server marketplace, and even claims that Novell will take at least half of the market from the clutches of Microsoft's NT.
+Users, he says, are not prepared to see Microsoft alone dominating the marketplace, and want to retain a choice.
+In local area networking, Novell has weathered the storm whipped up by Microsoft by holding onto a 70% share of the market with NetWare, and says it is now the biggest shipper of TCP/IP, sending out code for 40,000 to 50,000 terminals a month.
+And Windows for Workgroups is a flop, Rekhi reckons.
+But, he says, many of the Unix vendors have lost their way.
+The innovation once focused around Unix hardware vendors is slipping towards the personal computer.
+Intel's 80486 is very cost-effective and volumes are infinite, says Rekhi.
+And customers now have a choice of MS-DOS, Windows, NT, NetWare, UnixWare, Solaris, NextStep or OS/2 on their personal computers, while a Sun user, for instance, must stick with Solaris.
+With five main players dividing up the RISC market, RISC processors still amount to only 5% of the overall volumes shipped, with Intel taking the rest.
+In short, many Unix vendors are shackled by their desire to own everything.
+Margins won't sustain level of investment
+Unfortunately, the margins won't sustain the level of investment that staying in the game demands.
+Rekhi thinks that it will be the ‘pure’ companies without the old-fashioned mind-set that will flourish: pure hardware companies such as Dell Computer Corp and Compaq Computer Corp; pure software houses such as Novell and Santa Cruz Operation Inc; applications vendors such as Lotus Development Corp; and a newer breed of company that will integrate everything, such as the reborn Unisys Corp.
+Rekhi says that Novell tried to work with Santa Cruz Operation on Unix back in 1990, and later approached Sun Microsystems Inc to help with its Intel-Unix effort, but both efforts came to nothing.
+So eventually it stepped in and moved to buy Unix System Laboratories Inc.
+Now, says Rekhi, market pressures will force the vendors to rely on Unix Labs for the operating system and concentrate on their key strengths, thus finally unifying the Unix effort.
+Unix Labs will implement the technology for everyone, while Novell's Univel division will concentrate on the Novell-Unix package.
+As for the high-end and non-Intel vendors, they too will benefit from the innovations as users scale up, claims Rekhi.
+But the low end must be driven hard by Novell.
+Thus it is that the company is halving its prices, making it clear that the competition with NT will be serious.
+This is not a desperation move, he insists, but is a pre-emptive strike against Microsoft: ‘We are taking the bull by the horns’.
+BEAME & WHITESIDE LAUNCHES BW-SERVER SOFTWARE FOR REMOTE ACCESS
+Dundas, Ontario-based Beame & Whiteside Software unveiled its BW-Server at the InterOp show earlier this month.
+A new Network File System server product, BW-Server, provides remote users access to local disk and printer resources under either Windows or MS-DOS.
+When implemented as a stand-alone MS-DOS application, BW-Server acts as a dedicated server, so that the workstation can be devoted exclusively to Network File System file and resource sharing.
+When implemented as a terminate-and-stay resident program, BW-Server operates as a Background Server so that the workstation can be used as an Network File System server and run other applications as well.
+Finally, BW-Server can be used as a Windows Server, so that when the software is run under Windows, the workstation can be used as a Network File System server while still performing other MS-DOS and Windows tasks.
+Beame & Whiteside Software also used the show to demonstrate a technology called BW-Services for Microsoft Corp's forthcoming Windows NT, which adds the multitasking and multiuser capabilities of Beame & Whiteside's BW-TCP and BW-NFS for MS-DOS and Windows to Windows NT.
+This means that a Windows NT workstation will be able to be converted into a multiuser and multitasking host.
+A shared socket interface provides the socket support not found in the Windows NT TCP/IP kernel, along with the network access required by Beame & Whiteside's INETD Super Server.
+No prices were given for either new product.
+HYPERDESK DEVELOPS ‘DISTRIBUTED MANAGEMENT ENVIRONMENT-LIKE’ SOFTWARE
+Hyperdesk Corp has signed a joint development agreement with Reston, Virginia-based Digital Analysis Corp, claiming that the result of the deal will move the two towards providing Distributed Management Environment-like functionality, but from a solid Common Object Request Broker Architecture-compliant base.
+Digital Analysis currently markets the OS/Eye*Node network object manager, which it claims integrates network, system and applications management across TCP/IP and Open Systems Interconnection networks.
+It uses a drag and drop-style graphical user interface based on OSF/Motif.
+The agreement will lead the integration of the product line with Hyperdesk's HD-DOMS distributed object management system.
+At UniForum, the two companies showed a prototype of Orb*View, providing a graphical map of the network, for real-time monitoring and control of HD-DOMS Object Request Brokers from a Unix workstation.
+Product should be out in the third quarter on Sun Microsystems Inc, Data General Corp and Hewlett-Packard Co workstations.
+Further products are expected under the HyperManagement name tag.
+Also at UniForum, Hyperdesk Version 1.1 of HD-DOMS, enabling developers to use both static and dynamic C language binding, adding an Object Request Broker instruction kit for building custom servers within HD-DOMS, and providing support for multiple concurrent object repositories.
+HD-DOMS runs on Data General, Sun and IBM Corp workstations, and an HP-UX version will be shipping within a few weeks.
+There is also a Microsoft Windows version.
+NetWare and MS-DOS versions will be out by the end of the year.
+SIEMENS NIXDORF MOBILISES UNIBOL, SINIX FOR DECLARATION OF WAR ON IBM IN ITS AS/400 HEARTLAND
+Siemens Nixdorf Informationssysteme AG is expanding its Sipra range of IBM Corp mid-range-to-Unix migration software to cover not only System 36s, but also the AS/400.
+According to Computerwoche, the AS/400 version will start shipping in the third quarter of this year under the name of ‘Unibol 4xx’, following demonstrations at the IBM mid-range show, Expo 3x/400, in Frankfurt at the end of June.
+Unibol 4xx enables users to run their AS/400 applications under Siemens Nixdorf's Sinix version of Unix on MX and RM boxes, without needing to dispense with their existing application environment or their investment in peripherals.
+The product consists of a migration suite, development tools and emulation facilities for 5250 terminals.
+The Sipra team has been been trying to tempt System 36 users to buy its product for years, but has not had much success.
+It also received little support from Siemens Nixdorf's mid-range division, as a result of the confusion that followed Siemens merger with Nixdorf.
+But this situation has changed fundamentally under the guidance of Siemens Nixdorf manager Wolfgang Wichmann.
+He has set up a sales organisation within the company's trade and industry division, in conjunction with four partners — Braunschweig-based Unilab Software GmbH; CTS GmbH, based in Heusenstamm, near Frankfurt; Dresden-based SRS GmbH; and DOM GmbH of Munich.
+RAXCO OFFERS SECURITY TOOLKIT/UNIX 2.1 FOR CLIENT-SERVER ENVIRONMENTS
+Digital Equipment Corp systems management software house Raxco Inc, of Rockville, Maryland, has introduced Security Toolkit/Unix 2.1, a security assessment and management tool, for client-server environments.
+The tool kit, designed to be used by security administrators and auditors, automates systematic security checks across a network of Unix machines, Raxco says.
+To do this, Security Toolkit/Unix automatically collects security data from one or more servers on a network.
+It interprets the data and provides summary reports to the client running the program.
+Security assessments include checks on user passwords, file system, network set-up, end-user files and start-up parameters.
+It also vets the system for viruses.
+Security Toolkit/Unix 2.1 includes a last log-in check program, menu display options, a user defined error library, and a network topology map, which displays error by host.
+It supports OSF/Motif and Open Look graphical user interfaces and runs across TCP/IP, DECnet and Network File System protocols.
+Security Toolkit/Unix 2.1 is available for Digital Equipment Corp, Hewlett-Packard Co, Sun Microsystems Inc and IBM Corp workstations.
+The company says that Open Software Foundation OSF/1 and Microsoft Corp Windows NT support will be available by the end of the year.
+Security Toolkit/Unix 2.1 is priced from $250 to $10,000 depending upon the system used.
+TATUNG OFFERS LINE OF X-TERMINALS FOR SPARC SYSTEMS
+With reports still circulating that Sun Microsystems Inc will enter the business this year, Tatung Science & Technology Inc looks to be the first Sparc systems builder to go for the X terminal market.
+It has come up with five colour TXT systems each powered by a 40MHz Texas Instruments Inc TMS340 processor.
+They range in price from $1,900 to $3,800.
+Tatung figures they complement its Sparc boxes and can piggyback certain markets.
+The terminals start with a 14″ 1024 by 768 screen with 4Mb of memory and include a $2,900 17″ 1,152 by 900 monitor with 4Mb and a high-end 20″ 1,280 by 1,024 screen with 4Mb displaying two pages of text side-by-side.
+The boxes implement X Window System 11.5.
+Memory expands to 16Mb.
+COGNITO TWO-WAY PAGING SERVICE SAYS SUBSCRIPTIONS ARE AHEAD OF PLAN AFTER ITS BUYOUT FROM TI GROUP
+Cognito, the UK two-way paging service re-born after a management buyout last year, has got coverage and subscriber numbers back to around the level they were before the service's first incarnation folded.
+The company says that service is now available to over 80% of the UK population, and that customers number around 1,000 subscribers from around 25 companies.
+According to a spokesman for Newbury, Berkshire-based Cognito Ltd, one of the problems that the company has faced is that the network infrastructure was in the process of being dismantled when the management buyout got the go-ahead, so that much installation work had to be duplicated.
+Counterbalancing this, however, the company's financial viability has been boosted by the fact that investment by previous owner TI Group Plc was written off as part of the buyout deal.
+Future base station installation is to depend on the geographical location of customers, but the company says it plans to increase the current 175 base stations to 200 before the end of the year.
+Of the 1,000 subscribers, around 60% were customers of the original Cognito service, but the company says that the 40% of new business it has attracted puts it ahead of its business plan schedule.
+Indeed, the spokesman said that Cognito's break-even point is around 3,500 subscribers, and that it is ahead of its plan to achieve this within the next one to two years.
+Similarly, the company says that its plans for international expansion are pressing ahead, although it would not name any potential partners or put a time scale to its plans.
+Companies subscribing to the service include GEC Avery Service, Siemens Medical, Response Computer Maintenance, and Modern Security Systems, part of the Automated Security Holdings Group.
+OPUS, BACK FROM CHAPTER 11 BANKRUPTCY PROTECTION, HAS NETWORK FILE SYSTEM FOR SPARCCARD USERS
+Opus Systems Inc, of Fremont, California, which has now emerged restructured from a brief encounter with Chapter 11 bankruptcy protection, has started shipping OpusFS resource sharing software to its SparcCard add-in board users.
+The $200 package, the company's first software product, enables Sparc-enhanced personal computers to access Network File System-based network resources such as files, printers and mass storage devices via the MS-DOS Windows File Manager.
+Opus will distribute OEM, and via resellers and integrators worldwide.
+The restructuring and the exit from the Sparcsystems business have left Opus with a creditor repayment plan for the next few years.
+CONTROL DATA, APPLIED TERRAVISION TEAM ON NATURAL RESOURCES MANAGEMENT
+Control Data Systems Inc and Applied Terravision System Inc (Canada) have signed a letter of intent with the Tyumen Regional Committee for Natural Resources Management under which the companies will prepare a technical and economic program to computerise control and management of local natural resources.
+According to the Committee, all work carried out by both companies at this stage will be financed by the governments of US and Canada.
+Control Data has already received $300,000 from the Federal budget for these purposes.
+According to Gennady Shatalov, chief  geophysician of the Tyumen geological centre, at present no one has full information on the quantity and quality of regional resources which substantially hinders their control, processing and export.
+DREADED GOSSTANDARD RE-EMERGES AS RUSSIA COMMITTEE ON STANDARDS
+Gosstandard, a body that was once a bane of exporters to the Soviet Union has again raised its ugly head.
+Gosstandard used to be responsible for approving (for a price) all technology imported for use in the Soviet Union.
+Post Soviet Union Gosstandard is now the Russia Committee on Standards.
+Recently it announced that it is to begin testing all personal computers assembled in Russia from imported components.
+The idea is that all computers must conform to Russian standards, and the Committee has already singled out Summit Systems (a Chips & Technologies Inc joint venture), the French-Italian-Russian joint venture Interquadro; and Intermicro, a Russian-Austrian joint venture.
+In its time, Gosstandard was regarded by most western vendors as little more than a pseudo tax on western suppliers.
+Give the lack of resources and expertise in state organisations, one cannot help thinking the same thing about this new initiative.
+RUSSIAN ACADEMIC NETWORK TO LINK TO GERMANY's DFN SCIENTIFIC NETWORK
+A protocol concerning the creation of a direct channel between RELARN — a Russian academic network — and the German scientific network DFN was signed in Berlin recently.
+The agreement will enable Russian researchers to gain direct access to DFN databases.
+The protocol was signed by representatives of RELARN, the Russian Ministry of Science, Relcom Corp and DFN officials.
+The Russian side says the Ministry of Science looks toward the EUnet/Relcom network, the former Soviet Union Internet node, to provide communication links and appointed the current president of Relcom Corp, Alexie Soldatov, and the director of the Russian Institute for Developing Public Networks/RELARN project co-ordinator, Alexie Platonov to be responsible for this area.
+UNISYS, BULL TEAM ON BANKING NETWORK
+Unisys (UK) Ltd, Compagnie des Machines Bull SA and Symantec Corp are working together to develop a banking telecommunications system for the Vostok bank in Ufa, Bashkiria.
+The system as conceived will eventually cover 250 cities and towns in the Russian Federation.
+TRIDENT INTERNATIONAL TO OPEN RADIO SHACK IN MOSCOW
+NEC Corp distributor Trident International (represented in Russia by Trident A/O), is to open a Radio Shack retail outlet in Moscow, the first of its kind in Russia: it will sell NEC computers, consumer electronics, Trident and IBM Corp computers; the shop will be on Leninsky Prospect; no precise address as yet.
+SYMANTEC ANNOUNCES RUSSIAN LANGUAGE TIME LINE 5.0
+Symantec Corp has announced that Russian language Time Line 5.0 and Russian language Q&A are now shipping: both new products are being produced at the Kazansky Kombinat Programnykh Produktov — Software Products Integrated Works — in Kazan, Tatarstan, an autonomous republic in the Russian Federation.
+‘LITHUANIA — 2000’ STATE PROGRAMME
+The Lithuanian Ministry of Communications and Informatics has announced a new state programme called ‘Lithuania — 2000’: G Zintelis and his deputy minister A Bazevichus say the government, scientific community and industry will pool resources to create telecommunications networks and five large commercial databases; the government's own data system will be also restructured and among the companies participating in the programme are Compagnie des Machines Bull SA of France, Mentor Informatic, Mogens Rasmussen and IBM Finland.
+RUSSIAN IMPORT VALUE
+According to Arkady Golubkov, chairman of the Russia Committee on Informatization, imports of computer equipment into the Russian Federation were worth about $2.5m during the month of September; the committee is responsible for the Informatizatsiya Rossii programme.
+OLIVETTI COMPLETES MOSCOW GALLERY DATABASE INSTALLATION
+Ing C Olivetti SpA has completed the installation of a database system for the Moscow Tretyakov Gallery: the gallery houses 50,000 works of art and the new database contains 200,000 images and 600,000 descriptions.
+INCREASE IN 80286 AND AT SALES
+According to marketing division of the Land company in Moscow, sales of 80286-based AT-alikes increased by 15% during November: a company representative says rapid price rises caused by inflation put the more expensive models out of the reach of most customers.
+INFOTEL NETWORK BEGINS OPERATIONS
+The Infotel data transmission network has started operations: the network was created as a co-operative venture between the Deutsche Bundespost Telekon, Siemens Nixdorf Informationssysteme AG, the Moscow city telephone network and the International Centre for Informatics and Electronics: subscribers will have the use of digital telephone lines, and dedicated lines from the relatively modern Iskra-2 network; inter-city and international service will be provided via satellite.
+NCR GET $2m MOSCOW BANK CONTRACT
+Inkombank, a commercial bank in Moscow, has signed a $2m contract with NCR GmbH to supply the computer and telecommunication equipment required to connect Inkombank to the Swift network: under the agreement, Inkombank will get two ST-400 workstations; last April, NCR won a contract to supply Inkombank with a complete head office automation system.
+SIEMENS NIXDORF HOPES TO CUT LOSSES THIS YEAR, BUT TURNOVER WILL NOT INCREASE
+Hoping to lay to rest the hare started by an interview given to the Wall Street Journal by a top Siemens AG staffer, Siemens Nixdorf Informationssysteme AG management board chairman Hans-Dieter Wiedig said at the opening of the Cebit Hannover Fair yesterday that his company had no plans for a strategic link with another computer company.
+He said that like all computer manufacturers, Siemens Nixdorf was in various co-operation talks, but these did not include financial ties.
+‘We have no intention of taking a stake in another company, nor is there any other company that wants to take a stake in Siemens Nixdorf and become a dominant partner,’ he said.
+The loss-making company is moving into the second stage of its restructuring with the establishment on April 1 of four system units and six additional business units in an effort to give the company an organisation that reflects an increasingly differentiated market.
+The focus of the nine business units will be on services and software and includes such areas as office automation, personal computers and networking systems.
+Each business unit will have price, planning and production responsibility, including choice of sales channels.
+The four system units will be organised around products — mainframe computers, mid-range, self-service terminal systems and application software, and is intended significantly to cut the time it takes for products to get to market — the aim is to cut in half the time it takes to develop products and bring them to the market.
+Siemens Nixdorf has decided to buy in commercially available printed circuit boards and concentrate on production of complex boards at its Augsburg plant, but there are no further plant closure plans beyond those in Berlin and Cologne already announced.
+In the small business area, the company is passing customers on to resellers — it now has a network of 29 independent businesses that exclusively sell its hardware and products, and some 300 employees have transferred to these German partners.
+The company hopes to cut losses this year, but does not see any increase in turnover after translation into marks, although volume will rise.
+In the first five months of the current year, sales fell 6% compared with last year at $2,750m.
+Orders in the UK rose by 15% in the first five months.
+ORACLE BENEFITS FROM TAKE-UP OF ORACLE7 IN THE US; CURRENCY HURTS IN EUROPE
+Commenting on its third quarter and nine month figures (alongside), Redwood City, California-based Oracle Corp notes that during the third quarter, licence sales grew by 30% year-to-year while service revenues expanded by 25%.
+Growth in Oracle's Unix and Desktop businesses continued to outstrip older proprietary systems — mainly VAX and ES/9000.
+Unix licence revenues increased 43% over the third quarter of fiscal 1992, with Desktop licence sales growing 35% over the prior period, and the two together comprised 75% of total licence revenues for the quarter, compared with 69% of total licence revenues a year ago.
+Geographically, Oracle says its domestic US business improved on a strong second quarter — fuelled by Oracle7 sales, it was up a remarkable 65% on a weak fiscal third quarter 1992, but that the strong dollar limited revenue growth at Oracle Europe to just 4% — but the currency translation was unfavourable by 11%.
+Oracle Intercontinental revenue grew 37% over the third quarter of fiscal 1992.
+Pre-tax margins were 18.6% for the quarter, up from just 9.3% a year ago, the company said.
+ACER LAUNCHES ACTIVITY CENTRE: THE ULTIMATE EXECUTIVE TOY
+Acer Group Inc yesterday launched its Personal Activity Centre — a communications workstation that unites computing and consumer electronics by including integrated telephony, facsimile, radio, stereo sound, CD-ROM and multimedia capabilities.
+Acer claims that its machine is unique, ‘a first’, and is spearheading the direction that future technology will take.
+The AcerPac 450 is certainly cheap enough to be commercially viable at £2,000; and this with margins ‘in excess of 20%’— a benefit of manufacturing in Taiwan.
+It developed the hardware in Taiwan, and the software in Europe.
+The Personal Activity Centre is aimed at three major markets — the home, where it will be sold through dealers, distributors and high street retail chains, such as Dixons Plc, where it will be bundled with speakers, games and educational software at no extra cost.
+Features of possible appeal to this market include a music centre, comprising AM/FM radio tuner with scan capabilities and 16 programmable pre-set stations, a compact disk player, and an eight channel mixer to adjust the tuning and balance of the radio or CD-ROM — the latter has potential applications for home-based education, providing on-line tutorials and reference guides.
+This is manufactured by Sony Corp, while audio capabilities are provided by the Sound Blaster chip set.
+The second market is the home office or small business user, since the machine has all the basic tools for managing a small business, excluding printer and photocopier.
+Tools include a built-in digital telephone answering machine that receives voice and facsimile messages via the proprietary StartSmart program.
+This automatically switches the machine on when it hears a message coming through, recognises the medium being used, and then turns the machine off after the message has been recorded.
+SmartStart can also be used to set the AcerPac 450's alarm clock to tell the system when to wake up, and can date and time in-coming messages as well as play them back and erase them.
+Auto-dialling and remote access is possible from touch-tone telephones and electronic mail and voice-mail functions may be incorporated at a later date.
+The machine also has a built-in facsimile modem.
+The third potential market is the corporate arena, including government, education and local authorities, expected to like the multimedia capabilities for creating graphic or animated presentations.
+CD-ROM would benefit telemarketing, sales and customer services departments, which need big databases and fast response times, while integrated telephone, facsimile and office software would be useful for  administrators and secretaries.
+The Personal  Activity Centre is based on an upgradable Intel Corp 80486SX processor.
+A standard AcerPac 450 has a 3.5″ floppy drive, 130Mb hard disk, 4Mb RAM, in-built speakers and microphone.
+It comes bundled with Windows 3.1, and a proprietary front-end, which uses graphics to depict the various functions provided.
+Ethernet and Token Ring boards are supported.
+The company hopes to sell 10,000 to the home market, 10,000 to the small business user and approximately 20,000 to corporates in the first year.
+SHARE & BOND ISSUES
+Quality Software Products Holdings Plc, Gateshead has now filled in the numbers hidden by the blobs in its pathfinder prospectus (CI No 2,132), pricing the 2.85m shares it is placing, 1.46m of them new, at 380 pence a share, valuing Quality, which did £1.2m net on £13.1m sales in 1992, at £29.6m and raising about £5m of new money, net of expenses, for the company.
+The price puts the shares on an historic primary price-earnings ratio of 18.4 times, 23.5 times assuming full dilution.
+Trading is to start on Tuesday March 30.
+The placing is underwritten by Hoare Govett Corporate Finance Ltd.
+CREDIT RATINGS
+AT&T Co's plans to buy a big stake in McCaw Cellular Communications Inc still worry Standard & Poor's Corp despite the company's news on Tuesday that it would restructure its debt to cut its interest bill (CI No 2,134): it says it may still cut AT&T's ratings, because although it will benefit from the move, uncertainties over the planned investment in McCaw will dominate the credit outlook until terms of the transaction and its structure are known.
+COMPANY RESULTS
+Adobe Systems Inc has reported first quarter net profit up 16.1% at $15.5m, after $3.9m gains from the sale of stock, on turnover up 9.5% to $68.5m.
+Net earnings per share rose by 17.5% to $0.67.
+IDB Communications Group Inc has reported fourth quarter net profits of $2.7m against losses of $719,000, on turnover up 77.4% at $47.3m; net profit for the year to December 31 was up 449.5% at $8.5m, on turnover that rose by 48.7% to $155.3m.
+Net earnings per share amounted to $0.23 in the quarter, and rose 261.9% to $0.76 in the year.
+MacNeal-Schwendler Corp has turned in fourth quarter net profits down 4.7% at $2.8m, on turnover that rose 24.8% to $18.3m; net profit for the year to January 31 stood at $12.2m against losses of $1.5m last time, after $15.1m restructuring charges last time, on turnover that rose by 17.3% to $65.5m.
+Net earnings per share fell by 4% to $0.24 in the quarter, and amounted to $1.03 in the year.
+Oracle Corp has reported third quarter net profits up 73.9% at $29.2m on turnover that rose 27.8% at $370.1m; net profit for the nine months fell 11.0% at $29.1m after a $43.5m charge for the cumulative effect of the change in the method of recognising revenues, on turnover that rose 25.9% at $1,030m.
+Net earnings per share, up 67% to $0.20 in the quarter, slipped 13% to $0.20 in the nine months.
+Sigma Designs Inc has reported fourth quarter net losses of $2.1m up from $1.8m last time, on turnover up 44.1% at $8.1m; net losses for the year to January 31 stood at $7.2m up from $3.4m losses last time, on turnover that fell by 1.8% to $27.1m.
+Tektronix Inc has turned in third quarter net profits of $9.1m against losses of $2.9m last time, after $17.3m restructuring charges last time, on turnover that fell by 21.2% to $311.2m; net profit for the nine months was up 82.8% at $27m, after $3.3m gains from the cumulative effect of accounting changes, on turnover that fell by 3.8% to $949.3m.
+Net earnings per share were $0.30 in the quarter, and rose 80% to $0.90 in the nine months.
+3Com Corp has reported third quarter net profits of $10.2m against a loss last time of $4.4m, on turnover that rose 51.9% at $161.4m; net profit for the nine months soared 1,100% to $25.3m on turnover up 50.8% at $449.7m; net per share, $0.31 in the quarter, rose 1.030% to 0.79 in the nine months.
+KNOWLEDGEWARE LAYS OFF 200
+KnowledgeWare Inc, Atlanta software engineering products specialist has laid off 200 of its 1,150 employees, all of them in ‘non-strategic’ functions with 100 of the affected workers in Atlanta and the rest in Detroit, Boston and Europe: the cuts affect workers primarily in mainframe development and reflects the company's movement into more of a client-server emphasis — employment overall grew during the quarter as a result of this emphasis; research and development offices in Detroit and Boston are being closed as part of a consolidation it said.
+CELLULAR ONE READY FOR COMMERCIAL SERVICE
+McCaw Cellular Communications Inc says its Cellular One all-digital cellular system in South Florida — first in the US — is tested and is now ready for commercial service.
+APPLE  INTRODUCES POWERCD
+Apple Computer Inc yesterday introduced its first CD-ROM-based multimedia product, PowerCD, a three-in-one player for CD-ROM, photo CD and audio compact disks: it will be out in the summer but was not priced.
+BULL SIGNS OEM CONTRACT WITH 3COM
+Compagnie des Machines Bull SA has signed a $20m multi-year OEM agreement with 3Com Corp, San Jose, California under which it will resell 3Com's network adaptors, chassis-based and stackable hubs, terminal servers, bridges and routers.
+NEC AMERICA FORMS DIVISION RESPONSIBLE FOR INTERNETWORKING
+NEC Corp's NEC America has formed a Data Communications Systems Division to be responsible for all the company's internetworking products: it was formerly included in its Data and Video Communications System Division and has joined NEC America's Transmission Marketing & Sales Division, Herndon, Virginia.
+THE MONEY IS ON LOUIS GERSTNER
+The Wall Street Journal is now more or less convinced that Louis Gerstner, chairman and chief executive of RJR Nabisco Holdings Corp and  brother of former IBM Corp top staffer Richard Gerstner, will be named as IBM's next chief executive: under Gerstner's reign, RJR has slashed its $29,000m debt by more than 50%, partly by selling off corporate assets —‘He is a guy who likes to break things up,’ commented Curt Rohrman, a First Boston analyst who follows IBM.
+ANOTHER LOW ESTIMATE ON IBM EARNINGS
+Brown Brothers Harriman analyst William Milton has followed Dan Mandresh and downgraded his rating on IBM Corp and lowered his first quarter and full-year 1993 earnings estimates: he cut his rating to sell from neutral and lowered his first quarter forecast to a loss of $0.72 per share from a loss of $0.45, and his full-year estimate to a loss of $1.10 from a profit of $0.35 a share; he said he made the changes because of sharper than previously expected declines in IBM's mainframe business and more severe than expected pricing pressures; he also said that a noticeable deterioration in employee productivity contributed to his revised outlook — productivity has fallen given declining employee morale as IBM struggles to restructure; ‘There's very little a new chief executive can do initially that's not already being done,’ he added.
+NO LACK OF CONFIDENCE?
+While we can't say that we are in complete agreement with Barry Graham's ‘with one bound, IBM was free’ analysis of the company's manifold problems and its prospects, written up in today's page two, there is no doubt that IBM Corp is suffering from a deep crisis of confidence, and his messianic defence of the mainframe makes it quite clear that the man who should be running IBM in succession to John Akers is — Barry Graham.
+RADIUS EXPECTS LARGER LOSS
+Radius Inc warns that it expects to report a second quarter operating loss larger than its first quarter operating loss, and that second quarter revenues to March 31 will be below the $36.9m reported for the first quarter, when it lost $0.05 per share or $713,000; it has seen slowing demand for its Macintosh enhancement products in Europe and to a lesser extent in the US.
+APPLESEARCH LAUNCH
+Apple Computer Inc's Enterprise Systems Division will be launching its AppleSearch workgroup technology alongside the new servers: it is designed to give Macintosh users personalised, easy access to unstructured text, turning a collection of documents stored on a server into an on-line library — based on the contents of each document — which can be searched to find needed information quickly and easily; the client-server AppleSearch is designed to deliver ad hoc access to information as well as proactive updates to its users on an immediate, daily or weekly basis; documents to be searched are not altered by AppleSearch — they are stored in their native format and translated into searchable text by Apple's XTND file conversion technology, which enables users to view text of documents without having the application that created them.
+FORMAL INTRODUCTION TO APPLE WORKGROUP SERVER MODELS
+Apple Computer Inc's 68040-based Workgroup Server models 60, 80 and 95, are formally introduced today at Hannover: the entry model 60, with 8Mb memory and 500Mb disk will start at $3,080; the mid-range model 80 has 16Mb of RAM, a 1Gb hard drive, DDS-DC back-up drive and a compact disk read-only-memory drive will start at $6,400 and the model 95, with 16Mb and 230Mb disk will start at $7,590, Apple says.
+INTEL RATES 66MHz PENTIUM AT 112 MIPS
+Intel Corp rates the 66MHz version of the Pentium chip at 112 MIPS — well it is claimed to execute two instructions per cycle — one for each of its parallel arithmetic-logic units — two five-stage execution units, and claims that it is five times more powerful than the original 80486 microprocessor and over 300 times faster than the 8088; it contains 3.1m transistors, compared with 1.2m for the 80486; it is manufactured in Intel's 0.8 micron three-metal layer BiCMOS process technology; it has two 8Kb on-chip caches and a fully compatible floating point unit that is up to five times faster than the one on the 80486 at the same clock speed; to get around the problem that the thing can squeal to a halt when it comes to a branch that stalls the instruction stream, it includes branch prediction, where the chip remembers prior instruction pathways and predicts the correct pathway for a new instruction.
+RAMTEK SELLS TERRAIN UNDERLYING TECHNOLOGY
+Ramtek Corp, San Jose says it has sold the image processing and remote sensing software technology that underlies the Terrain, Gemsoft36 and Unipixel products, but terms of the sale and the identity of the buyer were not disclosed: Ramtek said it would receive royalty payments based on the sale of any products by the buyer over the next three years and that the sale made sense in light of its planned merger with Mass Microsystems Inc and the combination's growth potential in the storage market.
+COMPUTER SCIENCES WINS SUN FACILITIES MANAGEMENT CONTRACT
+Computer Sciences Corp has won a multi-year facilities management contract from Sun Microsystems Inc that is expected to generate $27m a year: under the agreement, Sun will temporarily transfer all its mainframe data centre activities in Milpitas, California to a Computer Sciences data centre in San Diego, enabling Sun to convert its mainframe systems, which oversee its worldwide manufacturing operations, to a client-server environment, with help from Computer Sciences, and the El Segundo company will run Sun's day-to-day operations, supporting applications maintenance for its Manufacturing Resource Planning software, while the client-server system is developed and installed.
+EMULEX TO TAKE CHARGE IN THIRD QUARTER FIGURES
+Emulex Corp, Costa Mesa, California will be taking a charge against its third quarter figures for the period to March 28 that could result in a loss for the period: operating profit will be lower than the $2.6m reported in the second quarter because of lower revenues in the Network Systems Division; the unspecified restructuring charge stems both from costs associated with the further consolidation of manufacturing operations to Puerto Rico from Costa Mesa, and from some lay-offs in the sales administration sector; the charge will be less than $1.0m.
+US SUPREME COURT REFUSES TO HEAR NINTENDO  ARGUMENT 
+Nintendo Co has lost a bid to keep competitors from selling devices that modify its video games after the US Supreme Court refused to hear its arguments against an appeals court ruling in favour of Lewis Galoob Toys Inc, which offers Game Genie, which plugs into the Nintendo Entertainment System and cartridges, enabling players to use a simple code to change up to three elements of a game at a time; the appeals court wrote that because Game Genie doesn't cause any permanent change to the Nintendo cartridges — and is dependent upon a cartridge and the Nintendo system in order to operate — it does not usurp Nintendo's copyright; Nintendo said Game Genie violates a copyright owner's exclusive right under the Copyright Act of 1976 to authorise or prepare derivative works.
+IBM TO PROVIDE SALES AND SUPPORT FOR SAPIENS' PRODUCTS
+IBM UK Ltd is to provide direct sales and marketing support for Sapiens International Corp NV client-server and mainframe software products in the UK: under terms of the three-year contract, Sapiens (UK) will train a team of IBM salespeople to position and market the product line to IBM customers, and will continue to sell and market Sapiens itself, and to deliver technical support, consultancy and training for its customers; in the US, IBM Corp is the exclusive marketer for Sapiens, providing dedicated sales and marketing support.
+QUALCOMM CDMA MAY WIN THE BATTLE
+Following US Federal Communications Commission approval for the San Diego company's new dual standard digital and analogue cellular phone, analysts are betting that Qualcomm Inc's Code Division Multiple Access standard will win the battle with Time Division Multiple Access, Reuter reports from New York, despite the fact that the latter, which provides less capacity, is being used by McCaw Cellular Communications Inc and Southwestern Bell Corp; Bell Atlantic Corp, Pacific Telesis Group Inc and US West Inc have all committed to using building Code Division Multiple Access networks; the European Groupe Speciale Mobile system uses a version of Time Division Multiple Access that is incompatible with the American one.
+MICROGRAFX UNCOVERS FUNDS MISMANAGEMENT
+ Richardson , Texas-based Micrografx Inc warns that it has uncovered corporate funds mismanagement in its Japanese subsidiary Micrografx, KK which may result in a loss of $500,000, and it will likely take a provision for the non-recurring loss in the fourth quarter; the company further realigned its worldwide operations to respond to changes in software purchasing trends and the costs of marketing products and services and expects to report a loss for the fiscal.
+STATE OF KENTUCKY AWARDS $10m CONTRACT TO DEC
+Digital Equipment Corp reports that the state of Kentucky has awarded it a $10m contract to manage and provide technical and other support for state-wide educational reform; the pact will enable DEC to start implementing a plan it developed as project consultant with the state education department — it plans to create the infrastructure for a state-wide information highway providing equitable access to technology and information throughout eight regional centres, 176 school districts and 1,400 schools across Kentucky; the state's public schools were declared unconstitutional in 1989, primarily because of funding inequities between rich and poor school districts, and the new system is part of a wider plan to overhaul state schools; it will be a model for other states in the use of technology in education reform.
+VIDEOCART TO UNDERGO CORPORATE RESTRUCTURE
+Chicago-based VideOcart Inc say it will undergo a corporate restructuring that includes reducing its payroll by about 15% and realigning its executive office.
+but says the steps will have no further charges against earnings; it is also negotiating the sale of its non-strategic software business in Australia.
+ARIANESPACE TO LAUNCH EUTELSAT SATELLITE
+Arianespace has won a contract to launch a communications satellite for Eutelsat: the contract, Arianespace's sixth this year, will take its order book to 37 birds worth $3,000m; Eutelsat II F5 will go up an Ariane 4 rocket from the Kourou Space Centre in French Guiana at the end of 1993 or early next year.
+ACORN LAUNCH RISC OS 3 AT HANNOVER FAIR
+Acorn Computer Ltd chose the Cebit Hannover Fair to launch a German version of its RISC OS 3 operating system: not much to it you may think — just translate the error messages — unfortunately the company had reckoned without the sheer verbosity of the German language — it took five beta versions before all the Achtung! messages were successfully squeezed into the ROM.

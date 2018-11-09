@@ -1,0 +1,2419 @@
+
+
+IF AN ADVERT IS IN PRINT, IS IT PROPER?
+Most advertisements are perfectly proper.
+A few are not.
+The Advertising Standards Authority not only monitors over 850 advertisements every months, it ensures compliance with the rules in the strict Code of Advertising Practice.
+So when you question an advertiser, they have to answer to us.
+To find out more about the role of the ASA, please write to the address below.
+This space is donated in the interests of high standards in advertisements.
+infomatics THE INFOMATICS RESOURCE CENTRE
+ Dear Colleague 
+When you go to your favourite restaurant, what do you order?
+When you look for training, how do you choose?
+The speciality of the house is often the best value for money.
+At The Infomatics Resource Centre, we specialise in courses which combine technical information and management strategy.
+For example:UNDERSTANDING THE IBM ENVIRONMENT introduces the latest technical information about newly available IBM equipment, how it fits in with the existing range and how this should affect your view of IBM, as a customer.
+NETWORK SECURITY not only highlights the risks to your system and offers live demonstrations of control systems on the market, but also discusses a cost effective security strategy.
+UNDERSTANDING DATA COMMUNICATIONS moves from an introduction of corporate networks, through the range of applications available, to the tactical considerations and future trends.
+These are just three examples from our menu of courses combining technical information and management strategy.
+We have enclosed a selection of brochures with this letter which we hope will be of special interest to you or your colleagues.
+They are just to whet your appetite.
+So, if you can't find what you want, see over for a fuller list of our courses or contact us on .
+We look forward to hearing from you.
+Yours sincerely
+Ann Sinclair Divisional Director — UK Programmes 
+PS See over for a selected list of forthcoming seminars
+OR ring us for a schedule of all our courses.
+ACTION SHEET
+INFORMATION REQUEST
+Please add me to your mailing list for all future events.
+I am interested in presenting a paper/conducting a seminar for Monadnock International.
+Please contact me about becoming a member of the Resource Register.
+Please contact me about presenting Monadnock International programmes In-Company.
+Please send me a catalogue of Blanchard Training materials.
+Possible Future Seminars
+Please tick if you would be interested in attending a seminar on any of the following topics.
+Towards C++: Issue for Technical Managers
+Tools, Techniques and Testing for Software Engineers
+4Facilities Management
+Software Project Management
+IT for Senior Management (Residential)
+Writing Effective User Documentation (Residential)
+FORTHCOMING EVENTS — 1991
+I need more information on the items ticked below:
+Understanding IBM
+Understanding UNIX
+Developing Effective Training
+How to Write and Produce Effective User Documentation
+How to Design On-Line User Documentation
+Technical Writing the Essential Principles and Procedures
+Telecommunications and Data Transmission
+Project Management: The Critical Skills and Techniques
+Managing the Help Desk
+Understanding DEC
+SIMPLY COMPLETE AND RETURN THIS ACTION SHEET TO:
+Infomatics Resource Centre  
+UNDERSTANDING DATA COMMUNICATIONS presented by Joe Houde
+A seminar to take you from the fundamentals of Data Communications to the most advanced techniques implemented today — in just 3 days
+FIND OUT ABOUT:
+•All of the Essential Concepts Involved and the Terminology Explained
+•From Telex to ISDN
+•Electronic Mail and EDI
+•OSI — 7 Layer Model
+•Government OSI Profiles
+•IBM's SNA through to SAA
+•Local Area Networks
+•Packet and Circuit Switching
+•PC Networking
+•Local Area Networks
+•Network Design and Performance
+•Network Management and Security
+•Strategies and Cost-Justification
+•Forces Shaping European Networks
+•Future Trends and Directions 
+17–19 JUNE and 11–13 NOVEMBER 1991 LONDON
+MAKE DATA COMMUNICATIONS WORK TO YOUR ADVANTAGE
+In the UK there is already a desperate need, not just for technologists, but for those who understand business and have the know-how to exploit this new technology to the fullest.
+The General Manager of Barclays Bank, Trevor Nicholas, has said that out of his 4,000 systems staff there are just 7 that fall into this category.
+So much for the boffins.
+Understanding Data Communications shows you how to do it yourself in a way you can easily understand.
+Strategic uses of networks are already giving companies extraordinary competitive advantages.
+Data Communications are the building blocks that make the networks.
+You need to understand how to get your Mainframe to talk directly to your customers' PCs, how to integrate voice, data and image systems, that OSI is the international standard with 7 vital layers which makes it possible for previously isolated systems to talk to each other, and that GOSIP is the US and UK Governments' OSI profile.
+From fundamental concepts to the most advanced techniques in use today, this seminar will give you a comprehensive understanding of the techniques you can use to put together a winning combination for yourself in the Information Age.
+WHAT YOU WILL LEARN
+The emphasis of these invigorating 3 days will be on the clear presentation of fundamentals.
+Following a survey of corporate networks and common applications as well as their extensions, such as Videotex and Electronic Mail, this seminar will review the importance of International Standards.
+It will dwell on the crucial Open Systems Interconnection 7 layer model.
+So central is this standard that each layer will be the subject of focussed study.
+This is the core of Data Comms.
+Demonstrations of on-line systems and implementation via the all important OSI standard that will give you more than a taste of what is already possible in the Age of Information.
+Local Area Networks, PABX, and immediate applications for improving productivity are followed by a survey of IBM's System Application Architecture and vital approaches to using networks to gain a competitive advantage and tools for cost-justifying network expenditures.
+We will conclude with tactical considerations of network design, performance evaluation, and network management and security techniques.
+This seminar is brought to a close with a discussion of future trends, ISDN, and Universal Information Services.
+By the end of Understanding Data Communications, you will have a solid grounding in this extraordinary new technology and an ability to evaluate and implement information access networks.
+WHO SHOULD ATTEND
+This seminar is intended for both non-technical people who wish to gain a thorough understanding of data communications and those with a computing background who need to be brought up to speed in this area.
+It assumes no previous technical knowledge of computer communications or specialist mathematical skills.
+The seminar has also been hailed a success by experienced Communications Technologists and Managers, who have gained a new insight into methodologies and valuable information on future trends.
+WHAT PREVIOUS DELEGATES HAVE SAID
+‘Very professional and extremely useful.
+Addressed exactly those topics I was looking for.’
+Geoff Simmons, PA Computers & Telecomms.
+‘A very good grounding in the subject with sound advice for current implementation and interesting observations on future developments.’
+Brendan Murray, Volvo.
+‘An excellent programme, well presented and covered the subject matter very effectively.’
+Robert Hickson, British Telecom Overseas.
+IN-COMPANY TRAINING
+This and other courses can be presented on your premises exclusively for your personnel and modified in content and objectives to meet your company's specific needs.
+Contact Ellie Botti on 
+TO REGISTER
+Complete the booking form overleaf or contact:
+The Infomatics Resource Centre 
+INTRODUCTION
+1 Corporate Networks for the Information Age
+•Telematique
+•Integrating Voice, Data and Image
+•Computers and Communications
+•Forces Shaping European Networks
+•International Standards
+•Impact of Graphics on Networks
+2 The Evolution of Data Communications
+•From Telex to ISDN
+3 Extending the Data Communications Model
+•Videotex in Business
+•Telecommuting
+•Teleconferencing
+•GOSIP Application Services — Electronic Mail — File Transfer — Electronic Data Interchange — Directory — Virtual Terminal — Office Document Architecture — Network Management
+4 The International Standards
+•OSI — 7 Layer Model
+•GOSIP
+•ISDN
+•De Facto Standards
+•IBM — SNA through SAA
+•General Motors — MAP
+•Boeing — TOP
+THE 7 LAYER MODEL
+5 Layer 1 — The Physical Layer
+•The Movements of Bits through a Media
+•Digital vs.
+Analogue and the Conversion Process
+•Transmission and Multiplexing
+•Modems — Asynchronous and Synchronous
+6 Analysis of Media
+•Uses and Capabilities
+•Cabling Plans
+•Twisted Pair, Coax, and Fibre
+•Satellites, Cellular, and Personal Communications Networks
+7 Choosing a ‘Universal’ Wiring Plan
+•Choosing a PC Interface Card
+•What is a ‘SMART’ Modem?
+•Multi-Speed Modems
+8 The Ubiquitous RS-323 Connection
+•Binary Synchronous Communications
+•High-Level and Synchronous Data Link Control
+9 Layer 2 — The Data Link Layer
+•What is a Protocol?
+•Error Detection
+•Optimum Block-Size Calculation
+10 Layer 3 — The Network Layer
+•Packet Switching — X.25
+•Service Features
+•Pricing
+•Using a PAD
+11 When to use X.25
+12 Layer 4 — The Transport Layer
+•Optimisation
+•Quality of Service •Network Security
+•Error Recovery
+•Flow Control
+13 Layer 5 — The Session Layer
+•Establishing a Session
+•Comparisons:— The ISO Session Layer — IBM's SNA Session Layer — DOs-MSNET — OS/2-LAN Manager — SAA Session Layer or Option
+14 Layer 6 — The Presentation Layer
+•Where Data becomes Information
+•Transformations
+•Virtual Terminal Protocol
+•SAA Session Layer or Option
+15 Layer 7 — The Application Layer
+•Survey of Services
+•Specific Application Service Elements
+•Common Application Service Elements
+•Distributed Data Bases
+•User Friendly Interfaces
+16 Pulling the ISO Model Together
+•Demonstrating a Transaction using all 7 Layers
+NETWORK APPLICATIONS AND STRATEGIES
+17 Local Area Networks
+•Benefits
+•Topologies
+•Access Mechanisms •Ethernet
+•IBM Token Ring
+18 PABX
+•The Four ‘Generations’
+•Future Trends
+•The Data PBX Alternative
+•Smart Phones
+19 Reducing Phone Company Monthly Charges
+•High Speed Links
+•Digital Data Services
+•Port Sharing Devices
+•Statistical Multiplexors
+20 IBM's System Application Architecture
+•Significance
+•Meaning to IBM's Customers and Competitors
+•The Four Building Blocks and their Implications — Common Applications — Common Communications Support — Common User Access — Common Programming Interface
+21 Using Networks to Gain a Competitive Advantage
+•Risks
+•Strategies and Networks
+•Case Studies: Hospitals, Airlines, Manufacturing
+22 Cost-Justifying Strategic Networks
+•Traditional Financial Techniques
+•The Value and Power of Information
+•Life Cycle Analysis
+•Increasing Productivity through Networks
+MANAGEMENT OF BUSINESS NETWORKS
+23 Introduction to PC Networking
+•Performance Evaluation Exercises
+•Proof that Guesses can be Costly
+•Practice using the Formula
+•From Theory to Practice
+24 Network Design and Performance
+•IBM NETVIEW/PC
+•Network Control Centre
+•Help Desk
+•Test Equipment
+25 Network Management and Security
+•ISDN
+•Signalling System No. 7
+•Enabling Technologies
+•Universal Information Services
+SEMINAR LEADER
+Joe House is President of US-based Network Dynamics, Inc., a consortium of consultants and seminar leaders with a broad international exposure and has successfully led seminars for more than 5000 adult attendees.
+He regularly lectures and consults in Europe, Australia, Asia and throughout North America.
+He has over 20 years experience in all aspects of managing, designing, implementing and operating voice and data networks as well as local area networks.
+Organisations whose networks he has been involved with include Texas Instruments, General Motors, Boeing, Sears, U.S. Army and Navy, GTE, Singer, TRW, ALCOA, Pacific Bell, Australian Telecom, British Telecom and J.C.
+Penney.
+17–19 JUNE AND 11–13 NOVEMBER 1991
+REGISTRATION DETAILS
+4 EASY WAYS TO REGISTER
+Complete and return Booking Form with cheque to: The Infomatics Resource Centre 
+Understanding Data Communications
+DATES/VENUES
+Monday 17–Wednesday 19 June and Monday 11–Wednesday 13 November 1991 Central London Venue to be announced
+TIMES:
+The course starts at 09.30 with coffee and registration from 09.00 on day 1.
+Days 2 and 3 start at 09.00 with coffee from 08.30.
+All three days finish by 17.30.
+ENQUIRIES:
+FEES PER DELEGATE
+(VAT is payable @15% for seminars held in the UK irrespective of the nationality of the delegate).
+Special rates are available for groups of four or more.
+The full fee is payable in advance and includes the cost of refreshments, lunch and all seminar documentation.
+Bank transfers should be made to: Midland Bank Plc 
+SUBSTITUTIONS, TRANSFERS AND CANCELLATIONS:
+There will be no refund for cancellations made within 10 working days of the seminar.
+Cancellations made 10 or more working days prior to the seminar will receive full refund/credit.
+Substitutions may be made at any time without penalty.
+Transfers made within 10 working days of the seminar will incur a 15% administrative charge.
+COURSE CHANGES:
+The Infomatics Resource Centre reserves the right to alter any part of the published programme if this is necessitated by circumstances outside our control: we will use our best efforts to ensure that the programme as altered remains comparable with the published format.
+HOTEL ACCOMMODATION:
+The seminar registration fee does not include accommodation.
+If you require hotel accommodation, please contact Booking Services International, BSI House, Park Street, Taunton, Somerset TA  DD 
+This is a free booking service available to Monadnock International seminar attendees, entitling you to special discounted rates at selected hotels.
+Please remember that hotel space is at a premium and an early booking is advisable.
+‘The most comprehensive and thorough course on communications there is!’
+A Division of Monadnock International
+INTENSIVE 2-DAY SEMINAR
+FREE!
+DR SOLOMON'S ANTI-VIRUS TOOL KIT
+NETWORK SECURITY Managing the Risk
+Developed and presented by Dr Solomon
+LIVE DEMONSTRATIONS:Control Systems, Viruses and Novell Security 
+Computer crime loses UK companies an estimated £2.5 billion per annum.
+How can you reach an acceptable level of data security and stop yourself falling into the ‘it couldn't happen to me’ trap?
+On this practical 2-day seminar you will learn how to:
+•value the assets you are protecting
+•decide what resources should be devoted to protecting your data
+•know when you have adequate back-up
+•assess how much assess control is needed
+•evaluate and deal with the threat of viruses
+•control hackers and understand how they operate
+•optimise your security and protect your weak points 
+10–11 June and 23–24 October 1991 LONDON
+Managing the Risk
+It is all too easy to put off thinking about network security when dozens of other concerns are jostling for your attention.
+The users' applications systems, the Finance Director's report, software maintenance: all seem to have first call on your time.
+But if your data is worth ANYTHING to you and to your organisation, it is worth protecting — and the data network could be your most vulnerable point.
+The greater your data communications network is, the greater the threat of that network being breached.
+But whether yours is a local area network or a global one, your problem is the same.
+This practical 2-day course highlights the risks and provides you with the knowledge to contain them.
+Objectives
+In this seminar, we look at how a company can put together a cost effective security strategy, that takes into account the weaknesses of the various system components, including the users.
+From a security point of view, the PC Lan resembles a sieve.
+However, if the Jumblies could turn that into a sea-going vessel, you should expect that the PC can be made as secure as you want.
+The problem is, how?
+You are taken from a general understanding of PCs, all the way to a thorough understanding of PCs and Networks, and how to implement a satisfactory level of security.
+Security is necessary if the data on a computer has any value at all, but the level of security required can range from simply making backups, all the way to sophisticated access control, encryption, virus prevention and hacking control.
+But how do you know if a product works?
+Do you take the vendor's word for it?
+And how do you choose the right point in the trade off between security and convenience?
+How do we reach an acceptable level of data security?
+How do we calculate the value of the asset that we are trying to protect?
+How do you know when you have an adequate backup?
+How much access control is needed, and how do we get it?
+What should be done about the virus threat?
+How should hacking be controlled?
+Do you need to encrypt — if so, how?
+What previous delegates have said:
+‘Outstanding speaker, ability to explain difficult things in an easy to catch way.’
+Dr Gerhard Kleth BASF AG ‘Good range of topics over both days.’
+Name withheld
+‘Enlightening and amusing’
+Name withheld
+Who should attend
+Data Centre managers
+LAN installers and supervisors
+PC Support staff
+Information Centre managers
+Auditors
+Computer security staff
+Security consultants
+This seminar is aimed at all staff responsible for the well-being of data on PC networks.
+It assumes no previous security experience, but it assumes a familiarity with the PC, with DOS and with the elements of LANs.
+Seminar Leader
+Dr Alan Solomon graduated in Mathematics from Cambridge University, and has since pursued a career in Defence, Textiles, Oil and the Stock Exchange.
+He heads S&S International, and is Chairman of the IBM PC User Group.
+S&S is the only company that offers a no-fix no-fee data recovery service for hard disks that no longer work.
+This service often involves breaking security systems, most of which take about a minute to get through.
+It also involves a deep and thorough knowledge of the PC and of network operating systems.
+S&S are also well known for their Anti-Virus Toolkit, the industry standard package for dealing with this new threat.
+Dr Solomon has disassembled a very large number of viruses, and has a deep understanding of what a virus can and cannot do.
+Course outline
+1 Introduction to the PC
+— The boot process — Interrupts and revectoring — How disks work — How DOS loads files — Back doors, and how to find them — Some security products
+2 Networks
+— How the network redirects file reads — The three main network operating systems, and how they work — Insecurity on the server — The Sniffer
+3 The theory of security
+— Assets — Risk — Important principles — The concept of insurance; utility theory — Whose problem is it
+4 Backup
+— Hardware — Software — Procedures — How it all goes wrong — What to do when it does go wrong — How to prevent it going wrong — How to evaluate products
+5 Access control
+— Hardware — Software — Procedures — Users — Passwords, tokens and biometrics — Encryption — Is DES really uncrackable — Some products — How to evaluate products — The data protection act
+6 Viruses
+— What they are — How they work — What viruses are common and what practical steps you can take against them — The law
+7 Hacking
+— Who they are — What damage they do — How they operate — Why they have to be controlled — The law — Some products — How to evaluate the products
+8 Disaster recovery
+— What have you got?— A plan — What to allow for — Testing the plan
+9 The future
+— The universal network — Fileservers and database servers — Changes in the law   
+‘The average Computer Security Manager has been in his job for about 10 months.
+His opponent has been doing it since age 14.’
+‘How was I to know that the backups wouldn't restore?’
+‘But the vendor told me that it would stop anyone getting access to the computer!’
+‘A virus couldn't possibly get into my company.’
+‘The hacker didn't actually do anything.
+I think.’
+‘We lost our accounts.
+We don't know who we owe, or who owes us, or whether we have dispatched orders, or received purchases.
+We've been told that we have to type it all in.
+How?
+What from?’
+UNDERSTANDING THE IBM ENVIRONMENT PRODUCTS, STANDARDS AND TERMINOLOGY
+An intensive one-day briefing for managers, DP professionals and consultants
+Developed and Conducted by Howard Dowding
+The Mainframe Environment — Hardware, Operating Systems, Databases and Application Development
+Departmental Systems — Products and Philosophies
+SNA — Definitions, Products and Network Management
+Office Systems — Personal Computing, LANS, Document Processing Architectures and SAA Compatibility — Alternatives to and Communication with the IBM Product Range
+Future Direction — Product Positioning and Strategy
+Customer Concerns — Major Issues Facing IBM Customers
+LONDON 16 July 1991 and 17 September 1991
+An excellent guide through the maze of IBM.
+Frank Ashurst, Grand Met.
+Brewing Ltd.
+Very detailed and appropriate information.
+Excellent jargon decoder!
+Lesley Hummel, United Dominions Trust
+A first class overview pitched at the correct level.
+Andrew Turncliffe, W H Smith Ltd
+Thorough, concise and informative.
+Pamela Heyman, Lloyds of London
+Benefits
+After this seminar participants will be able to:
+Identify IBM's major hardware and software products.
+Appreciate how individual products relate to each other.
+Understand the acronyms and unique terminology.
+Define IBM's strategic architectures.
+Position IBM's products within the context of the marketplace.
+Discuss the important standards which influence the rest of the computer industry.
+Know which interfaces and gateways are important for competitors.
+Be able to discuss IBM's long-term strategies.
+Define the major issues facing IBM customers.
+Who should attend?
+This seminar is designed specifically for all those who come into contact with IBM's products and terminology and who want to be able to understand and discuss them in order to carry out their jobs more effectively.
+In particular, this seminar is appropriate for senior managers, data processing managers and professionals, consultants and competitive sales and support personnel.
+In-Company Training
+This one day briefing is particularly suitable for in-house presentation to marketing, sales and support staff who are selling into the IBM environment and for companies with large IBM installations.
+Call Ellie Botti on  for further details.
+Programme outline
+1 The Mainframe Environment
+— Hardware series (4381, 3090, ES/9000)— Virtual Storage — Operating systems (VSE, VM, MVS)— Multiprocessing and Partitioning — System management (System View)— CICS/VS transaction processing — Databases and the Relational Model — Query management and Decision Support — Expert Systems — AD/Cycle, the Repository and CASE tools
+2 Mid-Range and Departmental Systems
+— The alternatives in the mid-range — System/36 — The AS/400 family — OSF and UI organisations — RISC architecture — UNIX workstations and servers (RS/6000)— Series/1 mini-computer — The 4700 Finance System — System/88 Fault Tolerant computer — 4680 Point-of-Sale System (EPOS)
+3 Communications and SNA
+— The 7 layer communication model explained — Physical Units (PU's) and Logical Units (LU's)— SNA hardware and software implementations — IBM Cabling System — 3780/3770 Remote Job Entry (RJE)— 3270 and 5250 terminal architectures — LU6.2, APPC, APPN and SNADS — Co-operative processing — Network Management (NewView)— SNA and OSI Interworking
+4 Office Systems
+— The Personal System/2 — Operating Systems (PC DOS, OS/2)— LAN's — Ethernet, Token Ring, etc. — Professional Office System (PROFS)— DISOSS and its environment — Document standards (DIA, DCA)— UNIX implementations and strategy (AIX)— Systems Application Architecture (SAA)— OfficeVision — the standard user interface
+5 Compatibility and Competition
+— IBM's major competitors — Standards which make compatibility possible — The Plug Compatible industry — Interfaces and Gateways with other suppliers — Alternative software systems
+6 Strategy and Future Direction
+— IBM marketing and selling strategies — Support structure and services — Developments in corporate systems — Strategies for office computing — Trends in networking and distributed processing — Strategic architectures and products — Market positioning — Major issues facing IBM customers
+What will you learn at this briefing?
+The purpose of this briefing is to enable attendees to widen their knowledge and understanding of the products, standards, protocols and terminology within the IBM environment.
+The layers of jargon and acronyms are explained to reveal the systems and products underneath.
+The key strategies and architectures are identified and IBM's long-term goals are discussed.
+Since the briefing covers mainframes, departmental systems, office products and communications, it also serves as a very useful general review of data processing.
+Key areas of study during the day include:
+— The continuing importance of mainframes — Departmental systems — The surrounding envelope — SNA — Local area networks — Product positioning in the market place
+Reference Documentation
+Each delegate receives a comprehensive reference manual.
+This contains copies of all figures, charts, drawings and diagrams used in the seminar; each one illustrating a particular system, concept or term, in an easy-to-remember form.
+In addition, all the commonly-used terms, expressions, jargon and products are summarised in an exhaustive glossary.
+Why a briefing on the IBM environment?
+The computer industry is dominated by the products and standards of one supplier — IBM.
+Even those companies not using these products directly find that they are affected by the de facto standards introduced by IBM.
+It is an environment filled with jargon and acronyms and can represent a closed shop to all but those closely involved in their particular areas.
+It is therefore essential that managers and DP professionals should, to be more effective, equip themselves with a knowledge and understanding of the products and strategy behind the IBM environment.
+This briefing explains the systems, products and standards behind the jargon in an easy to assimilate form.
+Many other companies supply products to this market place with varying degrees of compatibility.
+This briefing also discusses the important questions that alternative suppliers should be asked both about products and integration into the IBM environment.
+Briefing leader
+Howard Dowding
+This programme has been developed by Howard Dowding on behalf of The Infomatics Resource Centre and is based on seminars given over a number of years to managers and DP professionals.
+Howard has 20 years experience in the computer industry both within user departments and supplier organisations.
+This includes 11 years with IBM marketing and providing support to a variety of medium size and large organisations.
+Howard also has long experience of developing and presenting courses and training programmes to computer professionals, managers and users.
+He has presented this seminar in Europe, New Zealand, Australia, Canada and the USA.
+‘I have been fascinated by the IBM Environment for the past 20 years and I am only too pleased to unravel its complexities to those of you attending this seminar.
+I look forward to meeting you.’
+infomatics THE INFOMATICS RESOURCE CENTRE
+The Infomatics Resource Centre offers a large number of management briefings, seminars and end-user courses within the expanding field of Information Technology.
+All programmes sponsored by the Infomatics Resource Centre have been identified through polling procedures as high interest areas among readers of Infomatics — the leading monthly magazine for the computing community.
+A unique feature of the Infomatics Resource Centre is the Resource Register — a talent pool of DP professionals who are called upon when courses are being developed.
+In this way courses are enriched with case studies and presentations from experts working in relevant fields.
+If you would like more information on the Resource Register or the various courses offered by the Infomatics Resource Centre, telephone .
+B.A.A.
+London's third airport will be second to none.
+The new terminal complex at Stansted will open in March of 1991. 10 years and £400,000,000 in the making, it is just part of BAA's £2 billion investment programme.
+When you enter the terminal next year, you will be struck by the simplicity of the Norman Foster design.
+Everything you need is on one level.
+Departures are on the left, arrivals on the right.
+You will simply move in a straight line from the front of the building through check-in, security and passport control to the departure lounge at the back.
+Stansted is ideally located just a short drive off the M11 and the M25.
+By train, it will take just 40 minutes on the direct rail link from Liverpool Street.
+Nothing could be easier.
+But then making life easier for the passenger is what BAA is all about, and to do so successfully takes careful planning.
+BAA's forecasting team have consistently predicted passenger demand with unrivalled accuracy.
+This expertise was behind the opening of the North Terminal at Gatwick, the new Terminal 4 at Heathrow and the rebuilding of Terminal 3 to give far greater comfort than before.
+We are also planning the Heathrow Express rail link which will take just 16 minutes from Paddington.
+With this policy of constant development and improvement, it's clear that with Heathrow, Gatwick and Stansted, London will not just lead Paris, Frankfurt and Amsterdam — our position as the number one international airport group in the world will be in no doubt.
+B.A.A. The world's leading international airport group.
+Cathay Pacific.
+The airline for a world where the Wild West meets the Far East.
+In a new world of international travel, the boundaries between East and West are rapidly fading.
+One airline understands this.
+Cathay Pacific.
+We pioneered ultra long-haul inter-continental flight, bringing the world closer to our home, Hong Kong.
+Every flight we make is international, with flight attendants from 10 Asian lands.
+When it comes to helping you arrive in better shape, we know no boundaries.
+For full details see your travel agent or Call us on 01–  
+CATHAY PACIFIC Arrive in better shape.
+Enterprise Oil
+Expanding Horizons for the 1990's
+1989 was another excellent year for Enterprise Oil, with a substantial rise of 57% in profit after tax to £115.6 million.
+We are now firmly established as one of the leading independent exploration and production companies in the world.
+Higher production, higher oil prices and increased interest income all contributed to this improvement in performance.
+Production in the fourth quarter was a record 120,000 barrels of oil equivalent a day.
+Important developments during the year included: the £442 million acquisition of exploration and production interests form Texas Eastern; the signing of agreements opening the way for three new North Sea developments; the award of new licences in the North Sea, Vietnam, Laos and Indonesia; and higher oil prices, which meant that we realised an average of £11.07 per barrel for our oil (1988 average: £8.73 per barrel).
+Since 1984, our market capitalisation has grown from under £400 million to approaching £3 billion.
+This year, we plan to spend a record £120 million on exploration programmes in 13 countries and a further £180 million on developing new fields.
+With production set to double by 1995 and against a background of firmer oil prices, we are well placed for the decade ahead.
+The Annual General Meeting of Enterprise Oil plc will be held at 12 noon at The Glaziers Hall, 9 Montague Close, London SE1 on Thursday 17th May, 1990.
+The proposed final dividend is due to be paid on 21st May, 1990, to shareholders on the Register on 12th April, 990.
+Enterprise Oil
+INTERCITY
+The right-hand side of a businessman should always go by train.
+The right-hand side of your brain is the creative side.
+Put it in a train in a comfortable seat with two hours of peace and quiet and not a contraflow within cursing distance, and let its brakes off.
+Before you can say Edward de Bono, it might have found a way of creatively accounting your taxes, so the taxman actually owes you money.
+(You can't get much more creative than that.)
+Give it a relaxing cup of coffee, and it may start inventing a brilliantly satirical speech for the next Sales Conference.
+Or write a loving poem to the wife (not satirical, naturally).
+Or an anagram of Enoch Powell (Once Hell Wop).
+Take a look at the world passing effortlessly past your window and, in a blinding flash, you may sudden; y fathom the instructions on your Japanese compact disc player.
+Or understand how to get one of those hand driers to actually dry between your fingers.
+You never know, in the blissful silence of your train, your brain might actually comprehend a clue in the Mephisto crossword.
+(It will probably take two journeys before you actually get an answer.)
+Now if you'd put that brain in a five mile tail-back on the M1, it would probably have gone out of its mind.
+Especially the left side, which is in charge of logic.
+INTERCITY
+DELTA AIR LINES
+JUST BECAUSE YOUR SEAT HAS A NUMBER DOESN'T MEAN YOU SHOULD BE TREATED LIKE ONE.
+‘Use Passenger Names.’
+This reminder appears on almost every page of the Delta Air Lines Stewardess Training Manual.
+We believe a cup of coffee leaves a nicer taste in your mouth when it's given to you by name.
+It's just one of the personal touches we encourage from everyone at Delta, from the ground staff to the Captain in command of your flight.
+Of course, caring and consideration can't be taught.
+It's something you either have or you haven't.
+We think it helps that our home is Atlanta.
+People from the South tend to have a lot of outmoded ideas about service.
+They haven't yet learnt how to fake a smile.
+They haven't cultivated the attitude that by serving you they're doing you a favour.
+But don't take our word for it.
+Any airline can claim service.
+At Delta we have the facts to support it.
+Delta has been number one in passenger satisfaction among major US airlines for the past 15 years.
+However, in-flight service and experience don't count for much if the plane isn't going where you want to be.
+Delta has non-stop flights each day from London Gatwick to Cincinnati and Atlanta.
+Our US gateways are so convenient you literally fly through customs and immigration.
+Now instead of treating you like a number, we're going to treat you to a number.
+See your Travel Agent or call Delta on .
+DELTA AIR LINES We Love To Fly And It Shows
+VARIG
+Europe-Brazil altogether 29 flights per week
+Varig is the airline that offers you the most alternatives in departure times and flights between Europe and Brazil — 29 in all
+On all of these 29 weekly flights, passengers will be able to enjoy Varig's warm hospitality and excellent inflight service, which Europeans have already voted to be the best for travelling to South America.
+Varig offers day and night flights taking off every week from 12 cities in 9 different countries.
+Varig knows Brazil best, being able to serve you efficiently through 170 branch offices all over the country, with connecting flights to 77 large towns and leading cities in Brazil and South America.
+Come and see this for yourself on your next trip to Brazil.
+Time to fly VARIG
+Bell Atlantic
+Too bad the laws of communications aren't engraved in stone.
+If they were, every time you had a communications problem, the answer would be simple.
+Today, however, communications problems are compounded by ever-changing technologies.
+To give you the flexibility you need, one information and communication company has committed itself to providing answers that make sense for your particular needs.
+That company is Bell Atlantic, an experienced communications leader.
+For example, when PTT Telecom of the Netherlands modernised their network, we provided a software and systems integration package that forecasted network needs and updated databases.
+When the University of Rome wanted to give its students and faculty access to their mainframe computer, they called upon Bell Atlantic's Eurotech to develop a customised system to meet their goals.
+We're Bell Atlantic, serving Europe from over 50 local offices.
+With Sorbus, a computer and data equipment maintenance company.
+Eurotech, designers and distributors of value-added data communications systems.
+Bell Atlantic International, software and systems integration consultants.
+Bell Atlantic Financial, a high-tech leasing company.
+For more information contact us by telefax in France at 01–4809–9539, in Germany at 01–211–5261–102, in Italy at 02–825–4368 and in the United Kingdom at 01– .
+Bell Atlantic
+Energy Efficiency Office
+Think what you can save by using energy efficiently.
+Anyone who runs a business knows that saving energy saves their company money.
+But it can save a lot more besides.
+Because the production of most forms of power produces so-called greenhouse gases that contribute to global warming.
+It's not yet known how seriously global warming will affect the world's weather patterns.
+But there's no doubt that using energy efficiently reduces the emission of greenhouse gases.
+The Energy Efficiency Office has produced an information pack containing details of how your business can improve its energy efficiency.
+Send for one today — you'll be surprised how much you can save.
+Energy Efficiency Office Department of Energy
+tap AIR PORTUGAL
+FLYING BY tap AIR PORTUGAL
+From check-in to touch down, walk on air.
+Enjoy organization that's so efficient you hardly notice it.
+Cared for and cosseted.
+Wherever you are in the world.
+Wrapped in an ambience of sophistication.
+With every need taken care of by attentive and solicitous flight staff.
+Take it easy with the airline from the country that made travelling fashionable.
+And the one that knows how to make time fly.
+FLYING THE WORLD YOUR WAY
+IBERIA
+HOTLINE
+Not many airlines are as technologically advanced as Iberia.
+You'll probably have noticed it in Iberia's real time, computerised sales and reservations system, and in our impeccable service.
+All the results of rigorous staff training programs.
+That must also be why other major European airlines rely on Iberia to maintain and service their planes.
+There's still one thing our technology hasn't been able to improve upon though.
+Our hostesses' smiles.
+Their warmth and hospitality is absolutely natural.
+Right from the heart.
+IBERIA Warm to the experience
+KLM
+How do you rate an airport that completely meets your needs?
+Amsterdam Airport Schipol, KLM's home-base.
+Voted time and again the world's best airport in business traveller polls.
+And we're always expanding our five star formula for comfort and convenience.
+•Executive telecommunications and conference facilities.
+•Accommodations for a shower, shave and a nap.
+Open 24 hours.
+•The sophisticated one-terminal concept for hassle-free transfers.
+•Well-timed connections to 190 cities throughout the world.
+•Top scoring duty-free shopping.
+Test us, try us, fly us.
+The Reliable Airline KLM Royal Dutch Airlines
+Royal Mail
+Do you mean £25 urgent or £2 urgent?
+Sometimes it absolutely positively has to be couriered over-night.
+But more often than not, it could have gone Swiftair international express to virtually any destination.
+At just £1.75 plus the regular airmail rate the savings are obvious.
+And it will be obvious to the person receiving your letter that you've given it priority treatment, to ensure a speedy arrival.
+The Swiftair express service is available at your local post office or via your company collection.
+Shouldn't you put it on your urgent list right now?
+Royal Mail International By Air, By Land, By Swiftair, By Hand.
+Canadian Pacific Limited
+Canadian Pacific Limited had a final net income for 1989 of $754.2 million, or $2.35 per Ordinary share, compared with $820.1 million, or $2.65 per share, in 1988.
+Income from continuing operations was $664.6 million, or $2.09 per Ordinary share, compared with $683.9 million, or $2.21 per share, in 1988.
+For the fourth quarter, net income was $190.7 million, or 60 cents per Ordinary share, in 1989 compared with $206.6 million, or 65 cents per share, in 1988.
+Income from continuing operations was $188.2 million, or 59 cents per share, compared with $144.4 million, or 45 cents per share, in the fourth quarter of 1988.
+Consolidated revenues from continued operations, after elimination of inter-company transactions, were $11,020.0 million in 1989 compared with $10,926.4 million in 1988.
+Revenues from continuing operations in the fourth quarter were $1,903.4 million in 1989 compared with $1,736.4 million in 1988.
+Lower railway freight traffic, the stronger Canadian dollar and weak newsprint markets were the major reasons for the decline in net income.
+The results also reflect special changes taken by Soo Line Corporation offset by non-recurring gains elsewhere.
+Income from the energy and real estate and hotels sectors and from AMCA International Limited improved and the company benefited from a full year of earnings from Laidlaw Inc.
+Air France
+Welcome to Le Club.
+With French sculptor Daniel Buren, you can always expect to find creativity, exactitude and a comprehensive approach to art, as illustrated by this work in situ entitled ‘Passage’.
+With Air France's new Le Club class, the standards are just as high: creative service, exacting attention to detail and a comprehensive vision of business travel.
+But what matters most is that extra special point of view.
+Yours.
+Fly Le Club.
+A new dimension in business travel.
+THE FINE ART OF FLYING Air France
+JAL
+IF YOU WANT TO TRAVEL IN SPACE, TRY JAL'S NEW EXECUTIVE CLASS
+Only JAL have introduced a seat that is a breakthrough in design.
+To give you more room to relax, it is wider than before with greater leg room.
+And there are now only seven seats in a row giving you more space to be comfortable.
+The new Executive Class is available on non-stop flights from the beginning of April.
+JAL Japan Airlines A WORLD OF DIFFERENCE.
+Radio Taxis Business Services
+Now clocking 186,000 miles per second.
+Now that's fast!
+Although, to be honest, we have to admit that the performance of the licensed cab has not reached light speed yet.
+Actually we're referring to the new Data-call System which locates and despatches your taxi.
+As part of the Radio Taxis Business Services commitment to lead the way and offer the best service in the capital we've installed a multi-million pound, state-of-the-art system to keep track of our cabs.
+This means the account client, calling on his ex-directory priority line, is now linked to a cab in his area by computer and the taxi despatched to pick-up in seconds.
+(Once despatched, the taxi will be at your door within minutes…our new zoning system means a cab in central London is usually no more than ten minutes away).
+It's an end to the time-consuming low-tech method of allocation-by-voice on the radio.
+And it's an end to the client hanging on the line whilst a despatcher finds out how long that cab will be.
+The Data System is just part of a massive development programme to keep us in front and to offer our clients the best licensed taxi service there is.
+If you'd like more information on the Data System or any of the Radio Taxis Business Services call the number below and ask for Maurice Joel.
+Or complete the coupon and return to us.
+We'll come back to you in no time at all.
+Radio Taxis Business Services Taking Everything Into Account.
+Book Call
+Trouble finding books from America?
+U.S. titles are now a phone call away.
+Introducing ‘Book Call,’ the oldest books by phone service in the USA.
+Our staff of experienced book sellers will help you find any US title in print.
+Whether you want a new bestseller or a hard-to-find book, we can help.
+Try Book Call and discover why people around the world turn to us for their reading needs.
+Immediate shipment worldwide
+•Credit cards or cheques
+•Ask about our special overnight gift delivery
+•Receive our free monthly new title forecast
+•Mail orders welcomed
+•Corporate accounts welcomed
+•Open 24 hours every day 
+Book Call
+RVB
+Spend a year in Holland and earn an MBA
+A unique international one year MBA programme starting every September in either of the following three specifications:
+•industrial policy and strategic management
+•accounting and finance
+•management information systems
+IMI
+Global Competitiveness Through Marketing
+The International Marketing Institute (IMI) at Boston College announces the dates for its 31st annual Marketing Management Program (MMP) entitled Marketing Management for Global Competitiveness .
+The MMP combines intensive casework and lectures with corporate visits to a select range of U.S. enterprises in Boston, New York, and Philadelphia.
+Group interactive sessions will focus on developing marketing strategies based on participant's own case studies.
+For additional information, please contact the Institute as follows  
+Investing in Improved Global Competitiveness Through marketing
+1990 GENEVA COURSES
+Corporate Cash Management
+May 21–4
+This new four-day course addresses the major issues arising toady in corporate cash management.
+Instruction by leading professionals and academics.
+Designed to improve practitioners' management skills and understanding of analytical tools and new instruments, in particular those associated with hedging risks and overall Asset/Liability management.
+Of special interest to:
+•Corporate officers and managers of multinational companies who are highly sensitive to their interest and exchange-rate exposures and thus to risk management issues,
+•Bankers who need to understand better their corporate clients' requirements and to respond with appropriate products and services,
+•Executives of financial companies,
+•Accountants and consultants in corporate treasury.
+Security Analysis and Portfolio Management (SAPM) program
+June 11–22 Financial Analysis: Fundamentals, New Developments and Practical Applications
+June 25–July 6 Portfolio Management and Performance Measure
+September 3–7 Exchange-Rate and Interest-Rate Economics and Forecasting
+September 10–14 Bond Portfolio and Interest-Rate Risk Management
+September 17–21 Investment Applications of Financial Futures and Swaps
+September 24–28 Options: Valuation, Hedging and Portfolio Application
+These intensive courses for professionals in banking and finance offer an optimal blend of theoretical principles and practical applications.
+An outstanding international faculty and proven teaching methods aim to develop both individual skills and the decision-making capacity of executives.
+Worldwide, over 300 private and central banks, insurance companies, multinationals and other financial and industrial organisations have sent participants to the SAPM Program since 1982.
+Announcing Mergers and Acquisitions Course, October 1–6.
+Further information: Annlies Wind International Center for Monetary and Banking Studies PO Box 36, 1211 Geneva 21, Switzerland
+THE SOGO SHOSHA
+INTRODUCTORY JAPANESE
+We'd like to introduce ourselves.
+We're the Sogo Shosha — Japan's 18 major general trading companies.
+With all the exciting changes taking places in Europe, it would be a good idea to get to know us better.
+We can help you in a number of ways.
+We assist in the movement of products and raw materials between nations all over the world.
+Introduce manufacturers in one country to distributors in another.
+Encourage regional and global economic growth through capital investment.
+Consult and advise.
+Form joint venture partners.
+Develop new markets.
+Organize financing.
+Our satellite network even enables us to act as an information brokerage.
+To learn more about how the Sogo Shosha can work for you, contact us.
+When it comes to business, you'll see we both speak the same language.
+THE SOGO SHOSHA
+BOSS
+Style is never out of fashion
+BOSS
+Hugo Boss
+GRAND HYATT HONG KONG
+Even the location is part of our grand design.
+From the moment you enter the Grand Hyatt's impressive lobby, set against the magnificent backdrop of Hong Kong harbour, you'll know you've arrived.
+You'll be right at the heart of Hong Kong's revitalized waterfront, a new area bursting with energy.
+And it couldn't be more convenient.
+You're minutes from the central business district via our complimentary London taxi shuttle.
+You're only seven minutes ride away from Kowloon's main cultural events and shopping areas.
+And right on the doorstep of the Convention and Exhibition Centre.
+Within the hotel, you'll discover guest rooms bathed in luxury, two swimming pools for luxurious bathing, restaurants and lounges with a delicious difference, the unique style and facilities of our Regency Club, and, of course, gracious service.
+In a city renowned for world class hotels, now there's one that's a world apart.
+For reservations, in the U.K. call toll-free .
+In London call 580–8197 or contact your travel planner.
+THE HYATT TOUCH
+España
+A new day dawns.
+Another traveller's tale begins.
+Go back to Spain's historic routes
+One of the greatest things about the beauty of a Journey through Spain's rich heritage is that it can start from almost anywhere.
+You can follow in the footsteps of the Romans to Segovia, with its amazing aqueduct.
+Or tread the path of the Arabs to Granada, with the Alhambra palace, and Cordoba, with its Moorish mosque.
+Or you could select the ancient Jewish route to the synagogues of El Transito and Santa Maria la Blanca, in Toledo.
+Or follow the Medieval Pilgrims' route, ‘Camino de Santiago’, which encompasses the Romanic and Gothic Cathedrals, Monasteries, Palaces, Convents and churches of such splendid cities as Burgos, Leon and Santiago de Compostela.
+Not to mention the Palaces, Monastic and Village routes, or those through the National Parks.
+Or, of course, you can go your own way.
+In Spain everything is optional.
+Except the sunshine.
+Spain.
+Everything under the sun.
+Espana
+Shangri-La hotel
+In Singapore, where else but the Shangri-La.
+Fifteen acres of rich, tropical gardens in the very heart of the city.
+Luxurious standards of service.
+I could only be the Shangri-La Singapore.
+One of the world's finest hotels.
+Shangri-La hotel Singapore A Shangri-La International Hotel
+Mandarin Singapore
+In the tradition of The Mandarin Singapore
+We welcome you to the Mandarin Club, an exclusive floor of deluxe rooms specially set apart.
+Here, privileges are plentiful.
+Our complimentary limousine airport service, express checking-in and out, super deluxe comforts and the undivided attention of a butler service are yours to enjoy.
+For you, the Mandarin Club guest, breakfast in the morning and cocktails in the evening are with our compliments.
+At The Mandarin Singapore, it's our pleasure seeing to your every need.
+It's our style.
+Mandarin Singapore In the tradition of emperors.
+Hotel Okura Tokyo
+Where the business elite meet in Tokyo.
+Where else but at the Hotel Okura?
+With its elegant accommodations, incomparable service, renowned restaurants and premier location, it's everything a world-class hotel should be.
+Hotel Okura Tokyo
+Servus in Austria
+A different slant on an Alpine holiday.
+There's more than one angle on everything.
+But for life on the sunny side, come to Austria.
+A friendly ‘Servus’ opens up endless perspectives of summer fun: hiking, riding, sailing, windsurfing, tennis, golf…
+And when the mood moves you, pull up a chair, admire the view and — just relax.
+Find out more at your nearest Austrian National Tourist Office.
+Flight connections through Austrian Airlines.
+Servus in Austria
+AUSTRIAN
+If you're looking for an easy ride…
+Try our magic carpet over the desert to the 11 leading business centres of the Middle East.
+We fly via Vienna, with one of the world's most modern fleets — and that famous friendly Austrian service.
+From all over Europe, it's only hours to 1001 Nights.
+Welcome to AUSTRIAN
+The Manila Hotel
+Suite Deal Manila
+A taste of the best
+Suite living could not be any sweeter than our Suite Deal Manila Package.
+You stay in a suite at Manila's most elegant and historic hotel at the attractive rate of US$190++.
+And there is no holding back on amenities and excellent service: One-bedroom suite accommodations, complimentary Continental breakfast for 2 persons, airport transfers (provided flight details are advised), late check-out on departure date till 6 p.m. at no extra charge, welcome drink and fruit basket, daily international and local newspapers.
+When planning a visit, ask for our Suite Deal Manila.
+It's definitely good value you should not miss.
+There are perhaps a dozen incredible places that you must see in the Orient.
+One of them is a hotel.
+The Manila Hotel Philippines
+Thai
+Cover the whole of Thailand with a $199 air ticket.
+1990 is Thai's thirtieth year of operation.
+And to celebrate our birthday we've got a present for you.
+A Discover Thailand Ticket.
+For just US$199 you can make four separate flights within Thailand to any of the twenty-four destinations in our network.
+And if you want to discover even more of our beautiful country, you can choose up to four more destinations at US$40 per sector.
+All we ask is that you use the ticket within a 60-day period between January 1st, 1990 and December 31st, 1990 and that you purchase it before arriving in Thailand.
+To help you choose which of Thailand's exotic delights to explore, we're even written a Discover Thailand booklet for you to explore first.
+So ask your travel agent or nearest Thai office about the US$199 Discover Thailand Ticket.
+You money has always gone a long way in Thailand.
+Now it goes even further.
+Thai We reach for the sky
+ITEL
+A DIFFERENT PERSPECTIVE WILL OFTEN SOLVE THE MOST COMPLICATED LOGISTICS PROBLEMS.
+If you work with logistics issues, you know the value of an expert outsider's perspective, which is one of the service we offer you.
+But it's far from the only service we offer you.
+We can help you move your merchandise around the world.
+Our container and rail car leasing companies are world leaders.
+We can warehouse your merchandise, repack and consolidate it, deliver it to retailers.
+We can set up JIT programs, perform subassembly.
+We can even take charge of your entire logistics function, so you can redeploy assets, gain flexibility, reduce risk.
+Our third-party logistics and distribution network covers the United States.
+If you'd like to know more about our expanding, worldwide logistics and transportation services capabilities, please contact:
+Tim Croasdaile, Vice President, Itel Corp., Two North Riverside Plaza, Chicago, IL 60606, –1515, FAX  –1573.
+ITEL TODAY
+•An expanding, worldwide logistics and transportation services company (Itel Containers, Itel Rail, Itel Distribution Systems).
+•The leading global distributor of wiring systems for voice, data and video communications (Anixter).
+•The leading dredging and marine construction company (Great Lakes Dredging & Dock).
+•An active interest in American President Companies Ltd., Santa Fe Pacific Corp., Grand Transport Systems (United Kingdon) and Quadrum, S.A. de C.V.
+(Mexico).
+ITEL WHATEVER IT TAKES.
+WHEREVER IT IS.
+SINGAPORE AIRLINES
+Every few years, we make a point of replacing our aircraft with the latest the industry has to offer.
+In fact, our fleet is known to be the youngest and most modern of any major airline in the world.
+But perhaps that's not what you'll best remember us for.
+The youngest, most modern fleet across 5 continents.
+northern telecom
+Northern Telecom helps shift billions of dollars a day.
+But we also help if it's peanuts.
+Who do bankers bank on?
+For the Brussels-based Society for Worldwide Interbank Financial Telecommunication (S.W.I.F.T.), the answer is simple.
+Northern Telecom.
+S.W.I.F.T.
+provides transmission services among major banks round the world.
+They chose us to provide them with the most reliable data network available.
+We are, after all, not just Europe's, but also the world's largest supplier of data packet networks.
+When completed, this telecommunications solution will connect some 2,600 bank locations in over sixty countries.
+So much for the big money.
+Now what about the peanuts?
+For Cargill, one of the leading agricultural and commodity companies, the problem was entirely different.
+They needed an internal phone system that ensured fast and reliable communications between their commodity traders across the world.
+They chose Northern Telecom because no one sells more advanced business communications systems than we do.
+Just two of the ways in which Northern Telecom advanced telecommunications products are helping both big and small businesses in more than one hundred countries worldwide.
+Can we help you?
+northern telecom TECHNOLOGY THE WORLD CALLS ON.
+digital
+Would you rather know what's happened or what's happening?
+Installing computers can increase personal productivity.
+Networking computers can increase efficiency for organisations.
+But to stay competitive, an enterprise needs more than productivity and effectiveness — it needs creativity.
+And creativity happens when minds make contact with minds.
+Digital's Network Application Support (NAS) ensures that your information technology investment results in increased creativity and competitiveness.
+NAS goes beyond the mere connection of machines, or the exchange of data.
+NAS integrates the work people are doing,while the work is being done .
+It connects computer applications, merges reports, builds pictures, develops concepts.
+Across the world, or two doors down the corridor.
+A new computing approach: a whole new round of investment?
+Not so.
+The core principle of NAS is ‘openness’.
+It's designed to operate across multiple computer systems and to integrate anything from personal computers to mainframes.
+Which means getting the most out of the computer investment you've already made, and dramatically enhancing the value of your future investments.
+Solving today's business problems often means working with several computer vendors.
+With Digital's NAS, you have the freedom to choose the systems and solutions that fit your needs most closely — regardless of who supplies them.
+You can integrate them with each other, and the systems you have already.
+And you can be sure that they provide contact between people, not merely machines.
+See Network Application Support in action
+A new video from Digital shows what actually happens when an enterprise links its minds with NAS.
+It's a simple video — but then, Network Application Support is an elegantly simple concept.
+It just happens that Digital is the only company to make it work.
+Now.
+Send the coupon for ‘NAS: a Meeting of Minds’.
+Today.
+AIRBUS INDUSTRIE
+THE SEQUEL & THE EXTRAS
+Introducing the A321, the latest Airbus aircraft for the short to medium haul market.
+More cost effective than any of its existing competitors, the A321, with up to 36 more seats, is the perfect complement to the A320 which has already set sales records in the 150 seat category.
+Sharing a common Type Rating with the A320, this new 186 seater also uses proven advanced technology features such as all-new wing design, fly-by-wire flight controls and a centralized maintenance monitoring system.
+With the widest fuselage cross-section in its category, the A321 offers the highest standard of passenger comfort.
+In addition, the full-width underfloor holds are capable of accommodating over five tonnes of revenue-generating containerised cargo.
+By complementing the existing range of market-matched aircraft, the A321 provides the most cost-effective solution for the short-medium range 180–200 seat category.
+And operated alongside the A320, these aircraft provide an unbeatable combination.
+AIRBUS INDUSTRIE
+ANDERSEN CONSULTING
+What if you need to sew on a button?
+Just when you think you've got all the tools you need, you realise that solving your problem requires something more.
+Reliance on technology alone is the reason why so many information systems, no matter how impressive on paper, fail to deliver the results you hoped for.
+Andersen Consulting believes what you really need is a more broadly based approach.
+One that balances leading edge technological capability with a thorough understanding of your business.
+An approach that considers your people as an integral part of the system, right from the start.
+Most of all, you need an approach that works.
+Our unique combination of skills has helped literally thousands of companies.
+In almost every conceivable industry.
+Worldwide.
+And that's something technology alone, however sharp, could never do.
+ANDERSEN CONSULTING
+Marriot
+Now you can expect more in Warsaw.
+Especially now that the new Warsaw Marriot Hotel is open.
+Located right in the city centre, convenient for the city's air terminal and main railway station, the Warsaw Marriott is as luxurious as you would expect from any hotel managed and operated by Marriott Hotels.
+You can expect every room to have satellite TV, a mini bar, direct dial telephones and, for added comfort, individually controlled air conditioning.
+You can expect 24–hour room service served up on time and with the minimum of fuss.
+You can expect a choice of nine restaurants and bars, a casino and nightclub, a swimming pool, whirlpool and gymnasium, a full business centre, of course, and simultaneous translation facilities in our Congress Hall.
+‘The Marriott not only has the best service in town, but the best business facilities as well,’ commented Travel Agent Magazine.
+Which is just as we expected.
+Marriott More than you expect
+B.A.T INDUSTRIES
+A NEW FOCUS ON THE WAY AHEAD.
+FINANCIAL SERVICES
+•The largest UK based insurance group and second biggest in Europe.
+•A leading provider of personal financial services in the UK and North America.
+JAL
+IF YOU WANT TO TRAVEL, TRY JAL'S NEW EXECUTIVE CLASS.
+JAL has introduced an entirely new class of service.
+It's available on non-stop flights from Heathrow to Tokyo.
+Every in-flight detail has been upgraded.
+You will relax in our revolutionary new seat which is a breakthrough in design.
+It's wider, has more leg room and reclines further than ever before.
+With a 2–3–2 seating arrangement you'll notice there's one fifth more space in the cabin overall.
+Together with some unique little touches — a new menu of European and Japanese dishes, newly designed china, and real glassware — it all adds up to a world of difference.
+JAL Japan Airlines A WORLD OF DIFFERENCE.
+B.A.A. Heathrow
+TERMINAL THREE…
+REBORN
+MORE STYLE
+MORE CHECK-INS
+MORE SPACE
+MORE INVESTMENT
+MORE EXPERIENCE
+Heathrow's Terminal 3 has been transformed.
+For the last four years work has been going on behind the scenes and while over six million passengers per annum used the terminal during this project, few were aware of what was happening.
+Now, everyone will appreciate the difference.
+We have spent £110 million enlarging the terminal and creating a spacious new environment to give you a better standard of service.
+There are more check-in desks, a brand new computerised baggage handling system and a larger baggage reclaim hall to help speed up your journey.
+You can visit Europe's largest Duty and Tax Free store, browse among a range of quality shops or relax in calm, comfortable surroundings.
+All this has been achieved without closing the terminal.
+In fact it has been one of the most sophisticated projects ever attempted on a building as complex as Terminal 3.
+We at BAA have the experience and commitment to build Britain's airports for the future.
+And, as the reborn Terminal 3 shows, to keep them ahead of their competitors.
+B.A.A. Heathrow The World's Premier International Airport
+Hotel Conrad
+In London, we're about to make Conrad Hilton's first name as renowned as his last.
+Eric Hilton, President Conrad Hotels
+Conrad Hilton's vision has inspired a new worldwide company that offers every convenience and luxury imaginable.
+Discover Hotel Conrad Chelsea Harbour, London's unique suite hotel on the Thames that is the essence of Conrad Hilton's hospitality.
+For reservations call your travel consultant or Hilton Reservation Service.
+In the U.K. call , in London , or the hotel direct on .
+HOTEL CONRAD CHELSEA HARBOUR.
+The International Symbol For Service
+Handelshøyskolen BI
+Master of Energy Management
+Academic Year 1990/91
+NORWEGIAN SCHOOL OF MANAGEMENT
+Since its foundation in 1943, the Norwegian School of management (NSM — Handeslhøyskolen BI) has been among the leaders in developing innovative programs for both Norwegian and international students.
+NSM is Norway's largest educational institution within the fields of business administration, economics and management.
+AN INTERNATIONAL PROGRAM
+The ambition of the Master's Program is to present the fields of energy in an overall international and strategic perspective, within a framework of technical, economic, political, social and environmental issues.
+The student body will be international, and the program will be conducted entirely in English.
+SUBJECTS
+Energy Economics, Energy and the World Market, Comparative Energy Policy, Strategic Management in the Energy Industry, Energy Law and Tax Systems, Project Analysis, Energy Finance and Project Management, Refining Economics and Marketing of Products, Management of Electricity Systems, The Example of Norwegian Energy Industry, Energy in Developing Countries.
+FACULTY
+The teaching staff consists of academic personnel from NSM and professors from the University of Oslo, the University of California at Berkely and the University of Pennsylvania.
+The Program Director is Professor Øystein Noreng, holder of the Fina Chair in Petroleum Economics and Management.
+In addition, representatives from the energy industry, financial institutions and government will participate as guest lecturers.
+REQUIREMENTS
+The program is open for candidates who qualify for graduate studies.
+THE STRUCTURE OF THE PROGRAM
+The one-year Master's Program is organized in four quarters, commencing August 27, 1990 and ending September 15, 1991.
+Each quarter is divided into four modules of one week each, consisting of intensive teaching and guest lectures by personnel in public energy administration and the energy industry.
+The last quarter will be dedicated to the final preparation and submission of the master's thesis.
+TUITION
+Tuition for 1990/91 is set as NOK 50,000 (approx.
+USD 7,500).
+A limited number of scholarships will be made available to qualified BI students.
+ADMISSION
+The program commences in the fall of 1990.
+Application deadline is July 2nd.
+An excellent command of the English language is required.
+Neither the GMAT nor TOEFL tests are required.
+For more information, contact Sarah Hormel at 47–2–47075 or Tor Jakob Ramsøy at 47–2–470558.
+Fax: 47–2–470570 
+Handelshøyskolen BI Norwegian School of Management
+DELTA AIRLINES
+SHE RARELY ANSWERS A SERVICE CALL.
+BECAUSE HE RARELY HAS TO MAKE ONE.
+Observation.
+A skill all Delta Air Lines Stewardesses are trained in.
+They can often see when you want that extra pillow.
+Or maybe some more coffee.
+It's all part of the training every Delta Stewardess goes through.
+And every Delta employee knows they're an important part of the team by the end of their training.
+It's not just our passengers who appreciate the Delta philosophy.
+Over 19,000 people have worked for Delta for more than 10 years and over 11,300 people have been with us for over 20 years.
+The result of this is reflected in our splendid service record.
+We've been first in passenger satisfaction among major US airlines for the past 15 years.
+Our attention to service extends beyond our in-flight staff.
+Fly Delta from Gatwick to Cincinnati or Atlanta and once you're through the convenient immigration and customs, you'll be greeted by Delta Passenger Service Agents.
+They'll help you with directions and connections to over 230 US cities.
+At this point, we must admit you do have to press a few buttons to get Delta service.
+For reservations, see your Travel Agent or call our reservation line on .
+DELTA AIR LINES We Love To Fly And It Shows
+RHÔNE-POULENC
+WELCOME TO A WORLD OF PERFORMANCE, CHALLENGE AND SAFETY.
+Polyester and polyamide yarns and fibres with ever-greater performance for competition suits as soft to the touch as they are resistant.
+High-tech materials that boost equipment quality and safety.
+Through our advanced technology MERYL and SETILA microfibres, Rhône-Poulenc helps to bring about a world of greater comfort and performance.
+RAMADA INTERNATIONAL HOTELS & RESORTS
+HOTELS OF THE NEW WAVE.
+Soaking up the sun on a sparkling coral beach, it's hard to imagine how our lush Reef Resort was built in Cairns, North Queensland without a single tree being felled or lifted.
+An appropriate achievement, we're pleased to say, that leaves the environment as undisturbed as you are.
+Hotels of the new wave.
+RHÔNE-POULENC
+WELCOME TO A WORLD OF GREATER PURITY SPOTLESS BEAUTY AND RESPONSIBILITY.
+Respect for nature, development of clean technologies, upgrade wastes, energy recovery, reduction of effluents in air and water, implementation of new processes to prevent and cope with harmful effects of effluents.
+Through its philosophy of corporate responsibility, Rhône-Poulenc works for the protection of the natural surroundings and helps to preserve tomorrow's world.
+BOEING
+Before you blink your eyes again, a Boeing airplane will land somewhere in the world.
+Chances are, a Boeing jetliner is touching down at New York right now.
+The same could be said about Tokyo.
+Chicago.
+London.
+Frankfurt.
+Los Angeles.
+Atlanta.
+And if a Boeing plane isn't landing right this second at any of those cities, wait a minute.
+Because more than likely, it'll happen by then.
+An exaggeration?
+Hardly.
+Boeing jetliners touch down every four and a half seconds of every day.
+In the last 24 hours alone, Boeing airplanes landed about 20,000 times.
+And they carried two and a half million people to almost very imaginable destination.
+Boeing.
+We don't just deliver a lot of airplanes.
+We deliver a lot of people.
+BOEING
+THE PENINSULA GROUP
+The one hotel group whose name is synonymous throughout the East with traditional standards of elegance, style and grace, now has a sparkling string of properties that stretches through the Pacific to the Atlantic.
+SHANGRI-LA INTERNATIONAL
+In Asia-Pacific where else but Shangri-La
+When travelling for business or leisure, Shangri-La offers a haven of warmth and tranquillity in nine countries throughout this enchanting region.
+Continuously expanding our horizons by offering more superb choices in more locations, where else but Shangri-La International Hotels and Resorts.
+VISA
+AS EASY TO USE ABROAD AS AT HOME
+Accepted in Canada and anywhere you travel.
+The world's most widely used card is welcomed in hotels and restaurants, for car hire or shopping.
+Travel confidently — use Visa.
+VISA ALL YOU NEED
+Toronto, Canada
+Goodwood Park Hotel
+Telling you the full story would only be telling you half.
+It's difficult to imagine a room more sumptuous than our Brunei Suite.
+But at the Goodwood Park Hotel, beautiful rooms are hardly the full story.
+Because each and every one of our guests is treated with the inimitable style and personal attention that you could only expect from such a grand hotel.
+A hotel as famous for its colonial traditions and gracious lifestyle as for its modern amenities.
+A hotel that is truthfully, like no other.
+Which is precisely why our guests have trouble pinpointing exactly which half they prefer.
+Bayer
+Bayer: Expertise with Responsibility.
+Paint protects your car from rust.
+It is our responsibility to develop raw materials which don't always need solvents.
+Throughout the world more and more cars, aeroplanes and machines are being built, increasing the demand for high-quality paints to prevent corrosion and enhance appearance.
+The big disadvantage of conventional paints is that they contain a high percentage of solvents which evaporate when the paint dries and leave traces in the atmosphere.
+Bayer now supplies the paint industry with binding agents which only need a small proportion of solvents and in some cases no solvents at all.
+Many surfaces are already being treated with environmentally-compatible paints.
+We are working to ensure that in future all paints have even less effect on the environment.
+If you would like to receive more information, please write to Bayer AG, Public Relations Department (KV), 5090 Leverkeusen, West Germany.
+Increasing use is being made of water soluble paints.
+High-quality paints provide protection and a good finish.
+ENRON CORP
+Our smartest instincts for the future run to natural gas.
+Clean-burning and abundant, natural gas provides us with hope for a safer environment.
+Clearly, natural gas should be the fuel of the 1990's.
+And Enron will be there to provide it.
+Backed by $9 billion in assets, Enron Corp. operates America's largest natural gas transmission system and markets gas and liquid fuels worldwide.
+We are also a very large independent producer of natural gas through Enron Oil & Gas Company and are active in cogeneration and independent power production with extensive experience in combined heat and power installations.
+Working natural wonders in the energy world.
+ENRON CORP
+Port of Rotterdam
+How come you're not satisfied with your export business?
+Is it your profit margin?
+Or is it lack of control?
+Does your business operation in fact need a push in the right direction?
+Reconsider the cost-efficiency of your logistical operation.
+And also a cheaper and more flexible distribution network.
+Distribute via Rotterdam.
+It may offer you important savings on your logistical costs, compared with shipping directly via the nearest port!
+It offers you Europe's most sophisticated cargo handling and distribution network.
+And it puts you in control again!
+Because in Rotterdam you save on transport costs by shipping through Europe's best equipped port.
+Furthermore, 12,5000 shipping connections a year to some 1,000 ports make Rotterdam the ideal port to serve all of your international markets worldwide.
+An extensive timetable of sailings makes Rotterdam not only the most important European port of discharge, but also the major European port of loading.
+Because the Port of Rotterdam Distriparks offer you groupage services, warehousing, physical distribution, packaging etc. to make your logistical business operation cheaper and more flexible.
+Because in Rotterdam you have a wide choice of specialists who can handle your entire physical distribution needs.
+From the factory to the ultimate customer.
+Because Rotterdam is the distribution port for your cargo whether sold or not yet sold: traders in all kinds of commodities are based here.
+In addition you will also find the oil spot market, the energy future exchange, the grain exchange and the fruit auction.
+In fact, the Port of Rotterdam offers you a variety of facilities so complete that other ports can only dream of them.
+The Port of Rotterdam provides an environment of perfect partnership.
+Where more than 700 competitive service specialists offer you one-stop shopping.
+To better serve your customers worldwide.
+To improve your profits.
+The Port of Rotterdam, External and Commercial Affairs Department, P.O. Box 6622, NL 3002 AP Rotterdam, The Netherlands.
+Tel.
+Int.
+31–104894120.
+Telefax Int.
+31–104778240.
+Telex 23077.
+Port of Rotterdam.
+Part of your business.
+‘I sure intend to find out.’
+HILDON & FRIENDS
+The Mansion House at Grim's Dyke Old Redding, Harrow Weald, Middlesex
+Set among secluded gardens overlooking 110 acres of woodland with lovely views of Hertfordshire is W S Gilbert's former country home.
+Luxury with a friendly atmosphere plus a full and varied programme of Gilbert and Sullivan Matinées, Festivals, Soirées and Masterclass Weekends.
+Customers find its relaxing serenity ideal for weekend meetings or simply to just get away.
+HILDON
+NATURAL MINERAL WATER
+The pure generation.
+Four Seasons Hotels •Resorts
+Charles is the consummate ambassador.
+He can usher you from chaos to comfort in mere moments.
+He will relieve you of all cares as well as your luggage.
+By welcoming you to a serene enclave where requests are carried out with distinction and despatch, meals may be enjoyed in your room at any hour, and you are courteously awakened with the day's forecast, thus properly prepared for the elements.
+Invariably, Charles greets you with a good word and a winning smile.
+Perhaps because no one knows better than our front-line ambassadors the warm, comfortable realm that awaits you behind the Four Seasons door.
+Four Seasons Hotels •Resorts
+Charles, Doorman Four Seasons Hotel, Washington D.C.
+HARRIS ADACOM
+Profit opportunity — the fruit of vital intelligence
+THE OPPORTUNITY…can arise by chance, or result from careful planning.
+Properly taken, it can gain the edge over competitors; open up a new market; lead to improved profit performance.
+Usually though, to make far-reaching decisions correctly and capitalise on opportunity, vital intelligence is essential.
+Napoleon lacked up-to-the-minute information at the crucial moment; he didn't know what Bluücher was doing.
+The course of history was changed.
+THE PROBLEM…in many large organisations is that getting information often takes too long.
+‘It will take a week to ten days’.
+‘The chief executive can't access marketing data’.
+‘Our branches can't talk to each other.
+These, or a hundred other weaknesses or incompatibilities in computer systems, create information bottlenecks at crucial times.
+Information is not available when it is needed; the moment passes; the opportunity is lost.
+But not any more.
+THE SOLUTION…is SuperNet from Harris Adacom.
+SuperNet provides the interfaces through which mainframes, mid systems and PC networks can communicate with each other effectively, quickly and totally.
+It integrates previously incompatible data systems, improves transmission speeds, ensures that information is quickly available where, when and how it is needed.
+Existing computer systems can be made to fulfil their true role as time-saving management tools in the pursuit of competitive advantage.
+HARRIS ADACOM…has 28 years experience at the leading edge of data integration technology, designing, producing, marketing and totally supporting network communications systems worldwide.
+Through SuperNet, a whole new concept in communications efficiency is opened up — and SuperNet is only one of the ways in which Harris Adacom can maximise the effectiveness of your systems to exploit opportunities when they occur.
+For more information talk to Chris Wyles or Bob Bowden in Business Development.
+SuperNet from HARRIS ADACOM Gives decision makers vital intelligence
+ENVIRONMENT MATTERS
+The environment is now a key consumer issue.
+Increased awareness of ‘green’ issues, together with fierce competition, means consumers are more discerning about the environmental impact of the products they buy.
+Today's manager should
+•make environmental issues a priority
+•consider the future impact of the company's actions
+•recognise responsibility to society and the community
+•avoid pollution and recycle waste
+The Energy Manager's workshop, three day residential course.
+March 18–21, June 24–27, Birmingham.
+Energy saving is an essential issue for every kind of organisation.
+After this workshop participants will know: how to start managing energy; how to conduct an energy audit; the effect of building design; how to present a financial case; how to establish on-going controls.
+The Management of Resources, By G. McKenzie.
+This book — covering labour, the workplace, tools, materials, information and money — will help you become an efficient resources manager.
+Business Social Policy.
+This special report examines all aspects of the link between the business and the community, including the effect on the environment.
+The Environment — Management's responsibility.
+BIM Checklist No 63.
+This comprehensive list covers energy conservation; environmental pollution; waste disposal and recycling; water pollution; the working environment and organisation and planning.
+Other checklists include Business Social Policy, Social Responsibility, and Are You Wasting Materials?
+Management Information Centre
+BMI's Management Information Centre gives you instant access by phone, fax, or personal visit, to more than 70,000 books, pamphlets and journals.
+HELPLINE, the Institute's computerised information service can provide busy managers with all the information they need via their own personal terminals.
+Books and articles on the environment available form the MIC include: Business and the Environment by George Winter (McCraw Hill 1988), covering the social responsibility of business.
+Friends of the Earth by Angela Griegson (Manufacturing Engineer November 1990).
+An examination is made of the industry's role in the environment's welfare.
+Four areas in which manufacturing industry could clean up its act — industrial solvents, greenhouse gas emissions, effluent production and materials recycling — are discussed.
+Environmental Audits by Martin Charter and Matthew Nichol (MBA Review September 1990).
+Environmental audits are defined as determining what the organisation has done and is doing in relation to the environment.
+Issues considered include conducting supplier audits and launching greener products.
+Want to know more?
+Fill in the form below and return it to I.M. Department, British Institute of Management, Management House, Cottingham Road, Corby, Northants NN  TT.
+BIM Committed to Management Excellence
+BICC Group
+IMPROVING THE MOBILITY OF LABOUR
+As the modern business world moves ever faster, the demand for more efficient transportation increases daily.
+A demand that requires massive investment in new road, rail and airport systems and major refurbishment of existing infrastructures.
+Projects that are second nature to Balfour Beatty — the major construction company within the BICC Group.
+From the Channel Tunnel to the Singapore Mass Transit System, from the M25 Motorway to Dubai International Airport, BICC is the driving force behind better mobility.
+And, if our current projects are impressive, our future prospects have never looked better…
+A proposed high-speed rail network for Europe.
+Urban light railways in the UK, Europe and Asia.
+And many major road and tunnel projects throughout the world.
+Work that not only calls for construction skills but also presents opportunities for BICC to supply power, telecommunications and control cable systems — another major part of our worldwide business operation.
+At the beginning of 1991 our work in hand on transportation infrastructure stood at over £730 million and we are currently negotiating many more contracts worldwide.
+In fact, things have never looked ore promising for the future of transportation.
+For more information contact Tim Sharp, Head of Corporate Communications, BICC plc, Devonshire House, Mayfair Place, London W1X 5FH.
+BICC Group Engineering Tomorrow's World
+THE INTERNATIONAL CONVENTION CENTRE, BIRMINGHAM.
+ABOUT TO START A CONVENTION ALL OF ITS OWN.
+On April 2nd 1991 Europe's most advanced convention centre will open.
+It will not, however, be business as usual.
+From the start the ICC will prove that an unconventional centre not only does things differently.
+It does them better.
+Our eleven purpose-built meeting halls and ten executive rooms can comfortably accommodate a meeting for six or a major conference hosting hundreds.
+Each hall offers an advanced technical specification and the very latest technology.
+Including simultaneous translation booths, matched sound systems and theatre standard lighting capable of handling the most complex conference productions.
+In fact you'll find we've set the stage for you — with our team of professionals dedicated to turning every meeting into a major success.
+So if you'd like to find out more about the best conference facilities in Europe call Jill Staples now on 021– .
+And start a convention all of your own.
+INTERNATIONAL CONVENTION CENTRE BIRMINGHAM
+ON SCHEDULE.
+ON TARGET.
+AND AHEAD OF ITS TIME.
+Champneys
+Stress costs British industry £2 billion a year.
+3 days at Champneys costs £630.
+Have you ever thought of your boss as a woolly mammoth?
+If important meetings give butterflies in the stomach or a racing pulse, you're experiencing an affliction that dates back to the stone age: stress.
+Any disturbance to the body's state of equilibrium can produce it.
+Getting divorced or winning the pools; traffic jams, cancelled trains, incompetent superiors, the result is the same.
+A surge of adrenaline which in the primeval swamp prepared the body to fight or flee.
+But which is sadly out of place in today's urban jungle.
+Backache, headache, insomnia, upset stomach, irritability.
+There's no end to the ailments which are now being laid at the door of stress.
+According to the Health and Safety Executive it costs British Industry more than £2 billion a year in absenteeism.
+Imagine what that means for your company.
+You can't avoid stress, of course.
+But you can change the way you deal with it.
+Some of the more progressive employers are now sending their staff on regular visits to us here at Champneys Health Resort, where we can teach them the skills of stress management.
+Set in 170 acres of tranquil parkland, Champneys makes the ideal escape from the pressures of work.
+Swimming, tennis, saunas, massage, beauty therapy, aromatherapy.
+They're just a few of the healthy pursuits on offer.
+You will also meet our qualified stress counsellor.
+He will give advice on diet and exercise.
+Instruction in some simple relaxation techniques.
+And, most importantly, show you how to recognise and modify the behavioural patterns which generate stress in your life.
+You might like to offer your employees a trip to Champneys as a reward in an incentive scheme.
+Or perhaps as a regular ‘tune-up’ for key staff.
+You could even hold your next ‘think-tank’ here.
+It's amazing how much a bit of good food and healthy exercise can sharpen the mind.
+The first thing you should do, however, is send yourself.
+Or if you're not in a position to make a decision, why not suggest it to the woolly mammoth?
+Ring the number below for your corporate brochure.
+Champneys CHAMPNEYS AT TRING, HERTS HP  HY..
+malaysia airlines
+Take off with Malaysia Airlines…and see what you could land!
+If you're planning to take off to the Far East or Australia, travel First or Golden Club Class with us and we will give you the chance to land yourself a fabulous Jaguar XJ6 in our exclusive passenger competition.
+We will also be giving away sets of Jaguar luggage.
+So as well as enjoying the renowned quality and attention to detail of our service in the air, you can look forward to the chance of enjoying Jaguar quality on the ground.
+malaysia airlines
+ENCHANTMENT WHEREVER YOU FLY
+THE LANGHAM HILTON
+Take me to the Langham Hilton.
+‘Take me to the Langham.’
+To any cabbie in Victorian London, those were all the directions he needed.
+The Langham was The Hotel.
+A landmark.
+An institution.
+A gathering place for the literary and artistic set and a fashionable venue for the weddings and banquets of London's society.
+Dvorak and Toscanini were frequent guests.
+So too were Oscar Wilde, Mark Twain and Arnold Bennet.
+Indeed, to stay at the Langham was such a mark of having arrived in the world, that in a nineteenth century fraud case, a witness would declare: ‘I knew he was a perfect gentleman.
+Why, he had rooms at the Langham.’
+So matters remained until 1940 when war damage forced the Langham to close its doors.
+But the legend never quite died, and two years ago, Hilton International began the painstaking work of reconstruction.
+So authentic has been the recreation of detail, that visitors, with only the smallest effort of imagination, can believe themselves back in Victorian London.
+Upon completion in March, 1991, the Langham will become, one more, one of the world's great hotels.
+A gap of half a century is undeniably a lengthy one, but to guests in the reborn Langham, it may well seem as if time has stood still.
+THE FIRST GRAND HOTEL OF LONDON.
+OPENED 1865, RE-OPENING MARCH 1991.
+SAAB
+SAAB'S NEW CD 2.3 TURBO.
+NOW EVEN THE CHAIRMAN CAN RE-CYCLE TO WORK.
+The new Saab CD 2.3 Turbo delivers everything a high-flying chairman of the board could expect from a luxury limousine.
+Prestige, spaciousness, style and power.
+200 bhp no less.
+Enough horse power to out-perform, during mid-range acceleration, that well known ‘prancing horse’ a Ferrari Mondial.
+Yet the Saab CD 2.3 Turbo isn't for the power crazy.
+It's for those who measure their responsibilities and care for others.
+DOHC multi-valve technology, integrated with Saab's Direct Ignition and new generation turbo-charger, delivers even greater fuel efficiency than ever before.
+And smooth, surge-free progressive power delivery to help keep you in control at all times.
+Ingenious balance shafts, which for the layman alleviate vibration and centrifugal imbalance, make this power unit smooth enough to be the envy of any chauffeur-driven decision maker.
+As you'd expect, being a Saab, it runs on unleaded fuel and has a 3 way catalytic converter.
+Whilst asbestos-free brake linings get to grips with another common source of pollution.
+What you may not expect however is that at Saab, although we build things to last, we don't expect them to last indefinitely.
+Let us explain ourselves.
+There's hardly a single scrap that can't be re-cycled.
+Why, even plastic components are coded, enabling the polymers to be broken down, so they can be used again.
+Additional concern for your welfare is taken care of with the option of Saab's Traction Control System.
+TCS is an electronic brain which ensures improved traction.
+It senses and delivers the correct amount of power to the driving wheels, eliminating wheel spin and ensuring stable handling.
+Even when cornering on a slippery surface.
+All this, allied with aircraft inspired construction, means this ‘Tardislike’ travelling machine is that much bigger on the inside than anything else in its class.
+All chairmen love being in the driving seat.
+So you'll relish Saab's.
+Designed in close co-operation with engineers, ergonomic experts and orthopaedic specialists, it achieves what could be deemed the impossible; you'll be relaxed yet alert.
+The new CD 2.3 Turbo.
+It's enough to turn your fellow board directors green with envy.
+SAAB
+AIRCRAFT INSPIRED.
+IBM
+EMPLOYMENT TRAINING
+If you can't find the right staff, perhaps you're looking in the wrong place.
+As a London employer, finding the right person for a job can be hard work.
+Especially when you've only an interview or two to go on.
+Employment Training is a locally based programme that first helps you select people with the aptitude and commitment you're looking for.
+Then our industry experienced Training Officers will work with you to develop exactly the on the job training they need.
+While they're being trained, they'll be productive members of your work force.
+And we'll help foot the bill.
+At the end of the training period, you can decide between you whether or not you're right for each other.
+If the answer is yes, you get to take on someone who knows you, your way of working and how to do the job.
+If not, that person has gained the skills and experience to get another job more easily.
+It's a lot more certain than an interview.
+And a lot more profitable for everyone concerned.
+Get the right people for the job.
+Call  and ask for Employment Training.
+ET EMPLOYMENT TRAINING
+ET is an equal opportunities programme.
+The two Scottish electricity companies
+The Scots don't just sell electricity.
+They make it.
+And that's good for their business.
+At ScottishPower and Hydro-Electric we generate, distribute and sell electricity — all the way from power station to plug point.
+Such an arrangement helps efficiency.
+Which we believe is good for our customers.
+And good for our business.
+For further information in the businesses of ScottishPower and Hydro-Electric please write to SCOTTISH ELECTRICITY INFORMATION OFFICE, PO Box No. 168, Glasgow, G  EH.
+SAA SOUTH AFRICAN AIRWAYS
+More than a comfortable choice
+For your comfort, SAA serve the finest foods and wines.
+Attend to your needs, promptly, and without fuss.
+For your convenience, SAA offer a comprehensive route network with connections throughout Southern Africa.
+For these reasons, and more, regular fliers to the region choose SAA.
+SAA SOUTH AFRICAN AIRWAYS.
+Yet Again Voted Best Airline to Africa
+EMPLOYMENT SERVICE
+Why has the best person for the job gone to work for someone else?
+The best person happened to be disabled.
+All that was needed was a little encouragement, a sign that the employer was committed to good employment policies and practices for people with disabilities.
+Then they might have applied.
+Well, here is that sign.
+Introduced by the Employment Service, it aims to help both the employer and the potential employee.
+It tells disabled job applicants that they will be given fair consideration based on their ability.
+No matter what their disability.
+Many companies have already realised the benefits of employing people with disabilities and the skills, experience and personal qualities they have to offer.
+The symbol is here to help you, and it can be used in many ways.
+On recruitment literature.
+On application forms and letterheads.
+On signs in personnel departments and reception areas.
+It's entirely voluntary but displaying it would put your organisation in very good company alongside Barclays Bank, Boots, THF, Unigate and many others.
+But there is more to it than just recruitment of people with disabilities.
+The symbol gets the same message across to your existing employees, to the business community and to the general public.
+The Employment Service can give practical advice on employing people with disabilities.
+Your first move should be to send the coupon for more information.
+Then perhaps you won't lose some of the best people to someone else.
+INTERCITY
+With our steward at your other shoulder, has England ever looked finer?
+On your Pullman, you will get white china on white linen, silver service and the green grass of England.
+Could there be a more splendid way to get the grey matter working?
+FIRST CLASS PULLMAN
+A building near Bruton Dovecote, Somerset, as seen from a Plymouth to Paddington train.
+P&O
+WE'VE ALWAYS SAID EARLS COURT & OLYMPIA ARE BRITAIN'S MOST SUCCESSFUL EXHIBITION HALLS.
+WELL, WE'VE JUST PUT OUR MONEY…
+WHERE OUR MOUTH IS…
+WHERE OUR SEATS ARE…
+AND WHERE ARE NEW HALL IS.
+Earls Court Olympia opens its doors to over 3.5 million visitors every year.
+That makes us one of Europe's most popular and busiest exhibition centres.
+A 750 delegate Conference Centre, a new Exhibition level at Olympia, new restaurants and now Earls Court 2 — a brand new 17,000 sq m hall — these are all part of our recent investment programme.
+Now we have over 103,000 sq m of space for the UK's leading exhibitions and conferences right in the heart of London.
+Ring Chris Vaughan on  and find out how our investment could pay dividends for you.
+EARLS COURT OLYMPIA
+Rank Xerox
+WHY WE'D LIKE TO TAKE OVER PART OF YOUR COMPANY
+In business, you can't be expert at everything.
+That's why many leading companies are now realising what Rank Xerox Facilities Management can offer.
+Put simply, it means that your total reprographics facilities are taken over by the experts.
+You've no worries about equipment, administration, staffing or supplies.
+And the quality of service is actually guaranteed.
+Most important, the service is tailored to meet your needs, on or off site.
+And your paperwork is reduced to just one invoice a month.
+So your managers are free to concentrate on your core business — something which could be a key to your success in the difficult economic times ahead.
+For more details of how we are helping companies meet the challenge of the 1990's, and for a free copy of the independent Henley Centre Report on Facilities Management, call us free on  or return the coupon.
+Rank Xerox The Document Company
+CONRAD HOTELS
+The finest hotels in the world all share the same first name.
+In the tradition of Conrad Hilton and his famed Waldorf-Astoria comes Conrad Hotels.
+The first international hotels with standards proud enough to bear his name.
+For reservations and information call your travel consultant or Hilton Reservation Service.
+CONRAD HOTELS The International Symbol For Service.
+HILTON MEETING 2000
+WHEN HILTON DO THE WORK YOU DO THE BUSINESS.
+Now there's Hilton Meeting 2000 a true business revolution in the meetings market, created from a simple idea — to focus each part of our service to meet your needs, your way.
+•A Meeting Service Manager who works with you from your first call, ensuring every requirement is met to your specification.
+•From a change in programme to a faulty projection bulb, your Meeting Service Manager will fix it, promptly and discreetly.
+•A Business and Meeting Service Centre that's your office for the day, handling all your secretarial needs and more.
+•The unique 8 Hour Chair designed so delegates won't be finished before your meeting is.
+•Hilton Working Wall rooms, boardrooms, break-out rooms, meeting rooms to suit your meeting.
+And catering for everything from carrot juice to champagne, open sandwiches to a 5 course meal.
+At 26 Hilton Nationals throughout the UK and in 24 countries worldwide you can trust Meeting 2000 to do the work while you do the business.
+Ring  now.
+HILTON Meeting 2000
+THE HILTON •THE HOTEL •THE BUSINESS
+EAST KILBRIDE
+NO BUSINESS LOCATION HAS MORE SKILLED HANDS.
+ANYTHING YOU CAN DO, WE CAN DO FOR YOU.
+HANDS UP WHO WANTS TO RELOCATE.
+EAST KILBRIDE OUR BOTTOM LINE IS SUCCESS.
+THE WEARSIDE OPPORTUNITY
+Positive thinking in the land of light.
+Dr Anne Wright recently became Sunderland Polytechnic's first woman chief executive, only the second woman in the UK to head a polytechnic.
+Born in Kent, she now lives close to Sunderland with her T.V. producer husband and their 8 year old daughter.
+Main photograph by Duncan Davis
+When it comes to moving to a new part of the country, a better standard of living is usually high one everyone's list.
+However, when Anne Wright came to Sunderland from Merseyside, it was not only the quality of life that impressed, but also the quality of light.
+‘There's a wonderful clarity here.
+I thought I was going to miss the sunsets, but they're pretty good along the River Wear too,’ she says.
+Moving across the Pennines from Liverpool, Wright has taken the helm of a Polytechnic with 1200 staff, 8000 students from 35 different countries and an annual income of around £30 million.
+She arrives keen to build on its well-established links with local business and the local community.
+‘I like to look for the distinctive features of a location, features that we can key into to get a synergy of strengths,’ she says.
+A prime example of this is the Polytechnic's investment in its Industry Centre, whose services and facilities provide a focal point for partnerships between the polytechnic, local agencies and the private sector.
+‘In this way everyone can contribute towards and share in the future of Wearside,’ says Wright.
+Her personal philosophy fits in well with a proactive and innovative polytechnic.
+‘I believe, if you are positive you find opportunities where others might not.’
+Positive, forward thinking is behind Wright's plans for the polytechnic, especially in the light of the transformations she foresees in training and education.
+She believes that these changes lie not in what is learned but more in how it is learned.
+‘By focusing on team building, project management, communication skills and so on we will provide the learning strategy that produces not just highly skilled but highly flexible people,’ she says.
+Wright sees flexibility as a polytechnic's greatest asset.
+The courses provided at Sunderland, for example, combine traditional teaching with vocational training.
+Courses can even be geared towards the specific needs of an incoming industry.
+Recent innovations also include the polytechnic's Japanese Studies Division, established to exploit Wearside's exceptional links with Japanese industry and help the business community bridge the gap between European and Eastern cultures.
+The polytechnic has also broken new ground in helping to set up this country's first campus-based radio station — Wear FM.
+Commitment to the community is another important element of polytechnic life for Wright and she is keen to expand on a range of local programmes, from the sponsorship of concerts by the Northern Sinfonietta to student projects within the local community.
+Preparations are also well under way to turn the sponsorship of a forthcoming Sunderland AFC football match into a community event, with free tickets for many local children.
+Whatever the means, Anne Wright's goal is a clear one.
+‘We are playing our part in making Wearside an even better place to live, work and to learn.
+It is my firm belief that it is an ideal place to do all three.’
+make it Wearside
+‘Absolutely staggering’ was how Wright viewed Wearside on her first visit.
+‘There's such a variety of landscapes, it's like a new world.’
+The Wrights live in the village of Cleadon, 4 miles north of Sunderland, in what they describe as a 150 year old ‘fun house’, complete with sea views.
+‘It's a wonderful place to live.
+Only 10 minutes from work and I can drive straight there or take the scenic coastal route,’ says Wright.
+She keeps in close contact with her family in the south and has no qualms about travelling to and from London.
+‘Geographically it looks a long way but in travel time it isn't very far at all.’
+She even convinced her brother, ‘a confirmed Londoner,’ to come up over Christmas and see ‘one of the best pantomimes in the country’in the magnificent Empire Theatre.
+Light relief.
+Sunrise is a breathtaking event along the dramatic Wearside coastline.
+Worthy goals.
+Local polytechnic and local football team are working together to benefit the community.
+NEC
+TICK HERE
+If you spend part of your working day on the move.
+Time is money and staying in touch is essential.
+LOOK HERE
+for the latest in car-phone technology.
+From NEC, naturally.
+The new CM3 car-phone and the P3 hand-portable with in-car facility.
+For innovation, reliability and value, it has to be NEC.
+WRITE HERE
+to be among the first in the UK to receive details of the new CM3 car-phone and the P3 dual function hand-portable/car-phone.
+Call FREE or complete the coupon.
+ADVERTISEMENT
+Why cutting the price can lose you the sale!
+Harry panicked.
+When the buyer said, ‘You've got to do better than that,’ Harry assumed he had to lower his price in order to close the sale.
+In reality, the buyer thought Harry's original price was pretty good.
+He was simply buying time.
+Harry lost the sale because he failed to recognise the well-used ‘Krunch’ technique in negotiation.
+He lost his nerve and over-reacted.
+He lowered his price too much and too soon.
+If he had been a better negotiator, he would have closed the sale that day.
+What actually happened was that the buyer became suspicious and decided to check out the competition.
+Effective Negotiating wins orders
+Too often we assume that a lower price makes the buyer happier.
+But, from experience, we know that is not always true.
+You must have experienced the customer who is getting the lowest price and still grumbles?
+And the customer who is getting a very small discount and is always happy?
+The fact is everything is negotiable in business, not simply the price.
+And frequently, it's not what you say, but how you say it.
+A good negotiator can make a customer feel satisfied after they have had to work hard for a small discount.
+More satisfied than if they had been handed a big discount on a plate.
+Being an effective negotiator is all about winning more orders, leaving your customers and your boss more satisfied, and of course, it's about making greater profits.
+Powerful Skills form a Practical Seminar
+That's why over 400,000 Business Professionals have chosen to attend Dr Karrass' Two Day Effective Negotiating Workshops throughout the world: and why hundreds of major corporations have chosen this seminar in preference to any other for their in-company training.
+‘Karrass' client list is a breed apart.’
+After 25 years as a professional negotiator and four best-selling books on the subject — Dr Karrass' best testimonial is still his client list.
+As Forbes Magazine testified they include most of the Fortune 500 U.S. companies, including MOBIL, GENERAL MOTORS, FORD, IBM, GENERAL ELECTRIC, ARCO, SHELL, ITT, PHILLIPS PETROLEUM,— 9 out of the nations 15 largest companies.
+And now major European based organisations such as ICI, ASEA BROWN BOVERI, DALGETY, ICL, TETRA PAK, REED BUSINESS PUBLISHING, DUPONT, CATERPILLAR, BLUE CIRCLE, IVECO and dozens of others have joined the ranks.
+Leading companies choose Dr Karrass' Workshops because the skills that their executives learn have proved to work in practice.
+The successful development of negotiating skills has proved itself as one of the most cost-effective investments in company profitability.
+Effective Negotiating in Action
+Just how much more successful a company can become with these professional negotiating skills can be unbelievably impressive.
+When asked to identify specific savings made through better company negotiating, a Purchasing manager at British Telecom said ‘Within two weeks of attending the Effective Negotiating seminar, I had already saved the company the equivalent of double my salary.’
+The Director of another company estimated savings of £2m in the first year after Effective Negotiating Seminars for their sales and purchasing staff, whilst the owner of a small company buying and selling industrial units in Europe identified a saving of over £800,000 in his next negotiation.
+And one Chemical Sales Manager said he increased his company profit on his next deal by more than three times his own salary!
+(For an independent opinion of the programme, a list of referees from a range of different industries is available on request.)
+The whole company can benefit.
+At General Electric, renowned for it's own in-house training seminars, 90 per cent of the employees called the Karrass seminar their most significant career training ever.
+And now, European companies are realising that negotiating skills are essential to ALL aspects of executive decision making — both within as well as outside the company.
+When your sales, marketing, purchasing, finance and production people are all speaking the same language, it pays real dividends.
+Not only can they support the ‘lead’ negotiator to the hilt, they can also improve their personal skills on many levels, which means better co-operation within the organisation.
+A skill for life.
+Let's face it, negotiation isn't just about talking to customers and suppliers.
+You negotiate with your boss.
+You negotiate your career, step-by-step.
+You negotiate with other people in your business organisation.
+And you negotiate in your personal life — time and time again.
+‘You wouldn't believe how many of our employees told me what a good deal they got on a car or a boat because they adopted Karrass' strategies’ says an executive of a major oil company.
+But successful negotiations don't just happen.
+In the Karrass Workshop you experience how to apply new skills ad techniques in real life situations.
+You can learn how to keep the other party happy without giving in…how to make concessions that close the sale…how to use time to your advantage and resist deadline pressures…how to cope with such comments as ‘All we've got is £60,000 in the budget’ or ‘That's our price, take it or leave it.’
+And a lot more.
+You will learn above all that a successful negotiation leaves both parties satisfied with the outcome.
+Both parties feeling that they have achieved an agreement they can live with, without it being constantly undermined.
+One-to-one learning
+Limited numbers at the Dr Karrass Effective Negotiating Workshop ensure that you get the most out of the two day sessions.
+Each individual has the opportunity to put into practice their newly acquired skills — improving their personal effectiveness and learning to recognise the signs of strength and weakness in themselves and others.
+Worldwide locations
+Karrass Workshops are the most widely attended of their kind and are held in major cities worldwide.
+One workshop could change your career and your life.
+To book on to any of the seminars, or to receive a complete package of information including an up-to-date list of the forthcoming dates and venues BE SURE TO RETURN THE COUPON TODAY AND SECURE YOUR SUCCESS FOR THE FUTURE (For more information simply attach business card — we'll do the rest).
+AEG
+City of London during a power failure.
+The lights are on, lifts are working, computers are calculating and people are at work in hospitals.
+How is this possible?
+Because AEG's highly responsive systems, developed with the aid of modern technology and human intelligence, react immediately when needed to ensure a constant power supply.
+Uninterrupted power supply is a vital support for the modern way of life.
+But in times of growing resource and environmental problems it is essential that energy is used and distributed as efficiently as possible.
+AEG's technical staff makes full use of the manifold applications of microprocessors, optical fibre cables and integrated control equipment.
+A wide range of installations, products and systems is designed in modern plants for an effective power distribution and an economical use of resources.
+AEG's experience thus guarantees that the availability of energy can be relied upon at all times.
+AEG (UK) Ltd Future is redefining energy.
+AEG.
+Member of the Daimler-Benz-Group.
+AEG secures power supply with its intelligent and environment compatible systems.
+British Gas
+Bank on it.
+Whether you are in industry or commerce, in the public or private sector, the Resource of British Gas is never far away.
+A telephone call is all it takes to summon one of our team of experts to your doorstep.
+British Gas Resource is dedicated to saving costs and improving the efficiency of industry and commerce.
+It represents two inseparable qualities.
+The proven benefits of the fuel itself, combined with the unrivalled experience of British Gas as a company.
+A unique combination, offering an unequalled nationwide service.
+A fund of knowledge backed by specialists in every aspect of natural gas and its applications.
+At your request, we will assess your energy needs and recommend or design a specific solution to meet your precise requirements.
+We will then arrange for installation, commissioning and maintenance of the system.
+We can also help arrange finance, and provide advice during the entire project if your require.
+Our research stations are constantly using the most advanced techniques to evaluate and improve products and systems for the benefit of all our customers.
+And we will even train your staff in the most efficient use of gas.
+Whatever your requirements, Resource offers first class support; from concept to completion.
+Whether you buy gas from us or not, the Resource of British Gas is a vast bank of knowledge for you to draw on.
+Put it to work for you.
+British Coal
+A PIECE OF ADVICE FOR ANYONE WITH A BURNING BUSINESS AMBITION.
+Wouldn't it be nice not to have to worry about your energy supply?
+With British Coal you needn't.
+You see, as a ‘home-grown’ fuel, British Coal can offer you a constant secure supply at competitive, predictable prices.
+You needn't worry about exchange rate fluctuations, as British Coal is mined in Britain and sold in sterling.
+Unlike other fuels you won't be at the mercy of the volatile world energy market either.
+Like hundreds of companies throughout the UK, once you choose British Coal you can devote all your time to running your business, safe in the knowledge we'll deliver.
+Time after time.
+British Coal.
+The rock-solid fuel supply with rock-solid benefits.
+A piece of advice you can't afford to ignore.
+For more information call Mark Hopes on  or write to him at British Coal Marketing Department, Hobart House, Grosvenor Place, London SW1X 7AE.
+WAKE UP TO THE NEW AGE OF British COAL
+IDB Northern Ireland
+WHERE THE BLUE CHIP COMPANIES FIND THEIR GREY MATTER.
+Many companies in manufacturing and services have established successful operations in Northern Ireland.
+Ask them about the benefits of a Northern Ireland location and they will highlight the quality of the people that work for them.
+Northern Ireland has a readily available and continuing supply of highly educated school-leavers and graduates essential to your company's growth.
+Combine this with an excellent infrastructure, a fibre optic communications network which is the envy of the world and low factory and office costs and Northern Ireland should be a natural choice.
+If this isn't enough the IDB's range of financial incentives and on-going support is the most flexible in Europe.
+Frank Galbraith can tell you more.
+Why don't you contact him at the address below.
+IDB Northern Ireland FOR ALL THE RIGHT REASONS.
+THE OPEN BUSINESS SCHOOL
+WE'VE ATTRACTED MANAGERS FROM OVER 4,000 COMPANIES, NOW WE'RE AFTER YOURS.
+ICI.
+BP Chemicals.
+BUPA.
+Courtaulds.
+The Halifax Building Society…
+These are just some of over 4,000 major employers from Britain and the rest of Europe who enrol their managers on Open Business School courses.
+They've found that training with the Open Business School offers managers courses that fit their needs and their work experience.
+And — importantly — gives their companies everything they've a right to expect.
+YOUR TRAINING BUDGET WORKS AS HARD AS YOUR MANAGERS.
+A recent report from the management consultants Coopers and Lybrand contained a lesson for all employers committed to training and development.
+On balance, traditional methods of training are up to 40% more expensive than the open learning techniques such as those practised by the Open Business School.
+WHAT IS OPEN LEARNING??
+It's learning without restriction.
+Your managers work in their own time, so there's no need to disrupt busy work schedules.
+Training through the Open Business School inconveniences neither your organisation, nor your manager.
+Whether you require short, one-off courses covering specific skills, or a flexible three-tier programme of qualifications leading to Certificate, Diploma or MBA, the Open Business School makes training manageable.
+It all adds up to a better deal, for your managers, your training budget and for effective corporate management development.
+Little wonder more organisations who want to retain and develop key staff are moving to the Open Business School.
+Please call us today for a brochure.
+THE OPEN BUSINESS SCHOOL Certificate •Diploma •MBA The Open University
+CAST
+Upward Trend.
+Major importers and exporters rely on the Cast Blue Box System to help boost productivity.
+CAST The Blue Box System of Container Shipping
+Thai
+Two by Two
+A system invented by Noah a long time ago, practised only by us.
+Royal Executive Class
+The classiest business class in the world is now even more so.
+With our two by two seating layout your comfort and ease of movement is assured.
+No wonder our passengers are often reluctant to mix business with pleasure.
+On the ground, you enjoy separate check-in and a private lounge.
+In the air, Möet et Chandon champagne, premium wines and spirits.
+And haute cuisine served amid crisp table linen and sparkling glassware and china.
+All the while relaxing in one of the biggest business class seats in the business.
+Thai centuries-old traditions.
+Innovative thinking.
+State-of-the-art technology.
+Thai We reach for the sky.
+For further information on our daily flights to Bangkok and beyond please contact Thai International, London  or Manchester 061  
+THE WELCOME
+THE SEAT
+REGENT HOLIDAYS (UK) LTD
+CHINA
+VIETNAM/CAMBODIA
+LAOS
+HONG KONG
+NORTH KOREA
+TAIWAN
+With over 15 years experience in organising travel to the Far East our specialist staff can offer probably the most comprehensive choice of itineraries available.
+For full details ask for our 1990 ‘China Solo’ or Vietnam/Cambodia/Laos Brochures.
+COMPUTERCRAFT
+MIND over MATTER
+COMPUTERCRAFT is the leading specialist in providing computer consultancy, training, support and programming to the housing, charity and voluntary sectors.
+Our success is based on making an organisation's use of new or existing computer systems efficient and effective.
+We take a practical approach by working together with our customers to achieve the right solution.
+For an human approach to your computer needs, call us.
+COMPUTERCRAFT
+Progressive Tours Ltd.
+WORLD WIDE TRAVEL
+CUBA AND PRAGUE
+A new route on the Czech airline offers 13 nights in Cuba with an evening and full board in Prague on the return flight.
+Prices with accommodation in Havana and the Playa del Este (some of the best beaches only 20 miles to the east) from £695.
+Shorter visits and unlimited travel available at low cost throughout Cuba, including Santiago, Varadero and Trinidad.
+Spanish Language Courses One to six months study can be arranged for individual students at the Cuban universities of Havanna, Sta Clara and Santiago.
+Prague, Budapest and Berlin Various combinations by air or coach with special arrangements in all the countries concerned for student or older groups to plan their own programmes (min 10).
+BULGARIA
+New facilities for city visits, meetings, discussions and study tours.
+Book also for the green and pleasant summer and seas of Bulgaria where most things are changing, save good service and exceptional value — summer brochure on request.
+SOVIET UNION
+Seven to 13 days in Moscow, Leningrad and other cities with some seven day tours to Moscow or Leningrad only.
+Study programmes Soviet History, Politics and Economics Courses for two, three or four weeks based in the Moscow Language Centre with morning lectures and study in English, full board and programme of visits, meetings and cultural activities.
+Russian Language Courses One month courses in Moscow and Leningrad in July, plus several other centres including Kalinin and Novosibirsk between July 1 and the end of September.
+Three month courses at Kiev (summer term) and Yaroslavl on the Volga) autumn).
+BOOK ALL FLIGHTS FERRIES AND PACKAGE HOLIDAYS WITH Progressive Tours Ltd.
+The Nationwide Blind Date Dating Agency
+The dating agency with one priority — and that is to serve you
+Blind Date provides lines which you can phone at anytime and talk to one of our highly trained staff on a one-to-one basis.
+We hope this service will be to your benefit and help yourself to break the ice for your new introduction as we fully understand the situation of meeting that special person.
+Meet your partner and take a luxury holiday at our expense (phone or write for details).
+We have the expertise to help you meet your ideal partner.
+It's your happiness we care about.
+To achieve this, we believe in the personal touch, as well as using computer technology.
+TO TAKE YOUR FIRST STEPS TOWARDS HAPPINESS SEND THE COUPON FOR OUR BROCHURE OR TELEPHONE.
+Course Directory 1
+Transformation Sixteenth Annual Dartington Conference April 3– 
+Why are therapists, consultants and gurus in such demand?
+Authorities from the world of politics, social development and economics, and others whose language is psychological and spiritual, will put an important subject under entertaining scrutiny in the magnificent surroundings of Dartington Hall in South Devon.
+Speakers include John Abbott (Education 2000), John Alderson (former Devon Chief Constable), Penny Brohn (Bristol Cancer Centre), Peter Fenwick (Scientific and Medical Network), futurist Hazel Henderson, Sara Parkin (Green Party) and Sir Anthony Parsons (Middle East diplomat).
+Also at Dartington, the new Schumacher College, weekend, two week and five week study courses.
+Course leaders include David Bohm, Jonathan Porritt, Teddy Goldsmith, Manfred Max-Neef.
+Full programme from Brenda Blewitt, Dept.
+NS, The Dartington Centre, Dartington Hall, TOTNES, TQ  EL.
+Tel..
+UNIVERSITY OF STRATHCLYDE
+M LITT IN WOMEN'S STUDIES
+A one-year postgraduate taught course for full-time and part-time students, beginning in October 1991, with a distinctive Scottish dimension.
+The programme combines an introduction to the interdisciplinary base and skills of Women's Studies with specialist work in a chosen subject area.
+Options available include Women's Writing and Literary Theory, History, Politics, Psychology and Sociology.
+For further information write to Dr Sharon Wood Modern Languages Department University of Strathclyde, Glasgow G  XH
+Thames Papers in Political Economy
+A new series of termly papers produced by the Schools of Social Sciences and Humanities at Thames Polytechnic aimed at stimulating public discussion of practical issues in a radical and broadly interpreted Political Economy.
+1991 Spring issue now available.
+The Polish Road to Capitalism: A critical appraisal of the ‘Balcerowicz plan’, by Dariusz Rosati, Director of the Foreign Trade Research Institute in Warsaw and Associate Professor, Foreign Trade Faculty at the Central School of Planning and Statistics.
+Also just published:
+Inter-ethnic conflict in Soviet Azerbaijan (by Rob Martin).
+Future numbers will include The Political Economy of European Monetary and Political Union, by Karel Williams, John Williams and Tony Cutler.
+Also John Lloyd on Soviet economic and political developments.
+Contributions are welcome and should be sent to the editors at the address below.
+Papers are available (individually at £2.00 inc postage or £5.00 for an annual subscription of three issues) from: Mrs Pam Warricker, School of Social Sciences, Thames Polytechnic, Churchill House, Wellington Street, Woolwich, London SE  PF.
+Telephone:.
+THAMES Polytechnic LONDON 1890–1990 Centenary Year
+Seeking to achieve equality of opportunity
+University of Birmingham
+Centre for Russian and East European Studies
+POSTGRADUATE SOVIET STUDIES
+Applicants are invited by this inter-disciplinary Centre for places to do advanced coursework for research in Soviet Studies leading to a Master's Degree or, in approved cases, to the degree of PhD.
+Applicants should hold, or expect to obtain this year, a degree of at least good second-class honours standard in an appropriate Arts or Social Sciences subject.
+An intensive course in Russian is provided for those who do not already know the language.
+Candidates accepted for full-time programmes may apply for studentships from the British Academy or ESRC.
+Applications for part-time study are also welcomed.
+For further particulars and application forms, please contact the Centre as soon as possible by letter or telephone.
+UNIVERSITY OF SOUTHAMPTON
+Department of English
+MA CULTURE AND SOCIAL CHANGE
+Studies in Language, Literature and Communications
+Full or Part Time taught course over one to two year
+For details contact: The Secretary, Department of English, The University of Southampton, Southampton SO  NH
+INTERESTED IN CULTURE POLITICS AND THE MEDIA?
+MA in Cultural Studies (2 years part-time)
+Introduction to cultural studies Film and television Popular culture Writing, difference and identities Power and discourse
+For people interested in contemporary culture Particular relevance to people working in education, media, culture industries and the urban community
+Attendance one evening a week plus termly day school Assessment by course work and dissertation
+For further information please contact: Department of Humanities (Ref: G41) Ealing College London St Mary's Road Ealing London  EALING COLLEGE LONDON higher education can be different
+Course Directory 2
+BIRKBECK COLLEGE University of London CENTRE FOR EXTRA-MURAL STUDIES
+Diploma in Adult and Continuing Education
+as in-service part-time course offering a professional qualification.
+MA in Adult and Continuing Education
+a new part-time course offered in association with the Institute of Education, University of London
+1991 — Equality and Opportunity?
+Challenges for Adult Education
+Conference: Saturday 16 March  .30am-4.30pm at Birkbeck College Fee: £25 (concessions £8)
+A conference for anyone who works in Adult Education, to explore the impact of Britain's membership of the European Community on Adult Education.
+Centre for Studies in Socialist Theory and Movements
+MPhil IN SOCIALIST THEORY AND MOVEMENTS
+A one year course of critical study of the ideas of Marx, and the movements his thought gave rise to.
+Students are provided with the possibility of detailed study of countries that are, or were until recently, under communist rule.
+These courses are chosen from a list that includes the Political Economy of Marx, The Philosophy of Marx, the History of the International Communist Movement, Comparative Communist Political Systems, the Political Economy of the Disintegration of the USSR and Marxist Aesthetics and Cultural Studies.
+UNIVERSITY OF BRISTOL
+MA & Diploma Course in DEVELOPMENT ADMINISTRATION AND PLANNING: Comparative Development & International Policy Studies
+Full-time, one year; Part-time, two years; Intensive courses of 2–12 weeks.
+For further information and application forms, please write to: Professor Peter Townsend/Pervaiz Nazir, Department of Social Policy and Planning, University of Bristol, 40 Berkeley Square, Bristol, BS  HY
+UNIVERSITY OF WARWICK
+CENTRE FOR THE STUDY OF SOCIAL HISTORY
+The MA in Comparative British and American Labour History (1880–1980) offers the opportunity to combine a taught programme and to write a substantial research dissertation.
+For further details and information on doctoral research programmes in the fields of British and European Social History write to The Secretary, Centre for the Study of Social History, University of Warwick, Coventry, CV  AL.
+Telephone .
+The Centre is a recognised outlet for ESRC training awards.
+Cheltenham and Gloucester College of Higher Education
+M.A IN CULTURAL STUDIES
+(Course Director: Roger Bromley)
+The course attempts to place the study of cultures in a British, European, and wider international perspective.
+There are two Core elements: a) Themes and Approaches in Cultural Study and b) Cultural Identities — French and British Cultural History, c. 1850 to c. 1970, together with three Optional Studies which include the following: Racism and Culture; Culture and Curriculum; Visual Representation by Women; Women and Theatre; Identity, Memory, Narrative; Identity, fiction, empire; Regional Identity as Cultural Process; Women and Religion in England, 1800–1920; Cinema and Politics; Women's Writing and Sexual Difference; Rebellion and Reaction; the first ‘New Right’ in Europe; Culture, Society, and Revolution in France; Literature, Politics and Social Change in French Society.
+Further options are planned in Renaissance Culture and in Travel Writing for Homer to Chatwin.
+Full-time entry: September 1991 Part-time entry: September 1991
+Cancell
+CH6-v-HIV/AIDS Virus Project Trials
+The Bio-Medical Care Clinic is conducting a clinical study on the AIDS Virus using a safe, non-toxic energy and homeopathic formula, we are seeking the co-operation of Candidates to take part for a period of 21 days.
+No charges are required from any candidate, only their time and effort to complete our study programme.
+Enquiries should be made to our Helpline number  7.30 pm to 9.30 pm Monday to Saturday only.
+Progressive Tours Ltd.
+WORLDWIDE TRAVEL VIETNAM TODAY
+7th to 20th April.
+Flying via Bangkok (2 nights) to Hanoi then onwards through the ancient cities of north and central Vietnam, Ninh Bin and Hue to Da Nang with its memories of liberation, underground resistance networks and the Ho Chi Minh trail, south to Tay Ninh, Cu Chi, Ho Chi Minh City and the Mekong Delta.
+Including meeting with government friendship and business groups, full board and twin rooms with private facilities throughout.
+SOVIET SOCIETY TODAY
+A week of expert talks, meetings and practical visits, based on the Institute of Sociology in the Kuskovo Palace complex in Moscow followed by a weekend in Leningrad sight-seeing and socialising included at £445 full board 19–30th March.
+VOLGA CRUISES
+Two 16 day visits departing 16 June and 4 July with three days in Moscow followed by the cruise in a luxury liner (all cabins with private bath) through Moscow Volga canal and the Golden Ring to Uglitch, Yaroslavl, Kostroma, Plios, Kazan and Nizhni Novogorod.
+Morning and afternoon visits to the string of ancient cities, monasteries and wildlife sites in the heartland of Russia.
+Fully inc by air from £675.
+ALBANIA, YUGOSLAVIA, ROMANIA
+Various combinations of these countries at different dates commencing with our 13–33 April tour to Zagreb, Titograd, Belgrade, Tirana, Durras Saranda and Berat at £500.
+USSR
+A wide range of holidays in Moscow, Leningrad, the Golden Ring, Georgia, Central Asia and on the Trans-Siberian to Irkutsk and Samarkand available from March-December from £350, details on application.
+PLUS ALL PLANE AND FERRY AND PACKAGE HOLIDAY BOOKINGs.
+Course Directory 3
+THE UNIVERSITY OF SUSSEX AT BRIGHTON
+The MA in Social and Political Thought at Sussex
+Sussex has a longstanding tradition of interdisciplinary work in this area.
+The MA in Social and Political Thought is a large and thriving programme which has been ‘A’ rated by the UK ESRC, and attracts students from a wide range of backgrounds in the UK and overseas.
+All students take core courses in Basic Texts in Social and Political Thought, and Problems of Method Plus two more specialist courses from the following, or related, areas •Recent Political Thought •Sociological Theory •Green Politics and Philosophy •Neo-Liberal Political Thought •Socialisms •Women in Political Thought •Theories of Economic and Industrial Change •Recent European Philosophy •Hegel and Marx •Structuralism and Formalism •Sociology of Knowledge
+MA Vocational Education and Training
+The MA VET is a new course of study within the modular MA at the Institute of Education.
+It is based in the Post-16 Education Centre and organised in collaboration with the Centre for Higher Education Studies.
+It aims to develop a systematic analysis of current developments in vocational training both in the UK and in Europe.
+Recent debates about Post-Fordism will be central to the analysis.
+What will you learn on this course?
+The course is designed to broaden your understanding of current changes in the provision of vocational and educational training, to link this theoretical understanding to your professional practice and enable you to produce substantial pieces of work through projects, reports and a dissertation.
+Module 1 will examine Further and Higher Education Policy since 1944.
+Module 2 will relate changes in VET to wider economic, political and ideological developments.
+Module 3 will investigate the relationship between VET policy and curriculum and organisational change.
+Who are the likely participants?
+We expect the course of study to appeal to lecturers in FE and nursing, teachers involve with TVEI or sixth form programmes, careers and other support staff, LEA advisers and officers and staff from training agencies.
+Nottingham University
+M.A. in Critical Theory
+Postgraduate School of Critical Theory.
+Full/Part time.
+Literature and Addiction
+An Interdisciplinary Conference 4th–7th April 1991 Department of English Literature The University of Sheffield S  TN ph: x 6043
+An enquiry into excessive appetites.
+Accommodation available
+POSTGRADUATE SOCIOLOGY AT
+LANCASTER UNIVERSITY
+We offer •M.A. in Cultural Studies
+•M.A. in Contemporary Sociology
+•M.A. in Sociology and Women's Studies
+•M.A. in Sociology and Religion
+•M.A. in Tourism and Recreation and the research degrees of M. Phil.
+and Ph.D.
+LGIU
+With all the changes in local government you need a reliable guide…
+The Local Government Information Unit will keep you better informed about:
+•poll tax
+•community care
+•equalities issues
+•quality in local government
+•councils' powers to act
+•competitive tendering
+•local authority trade union issues.
+Our subscription rates are being held until the end of March, so for just £30 you'll get:•a monthly mailing of regular publications which will brief you on all these issues and more •up to the minute briefings on government announcements •free copies of many of our one-off publications, such as our Short Guide to Poll Tax.
+To get the facts about local government fill in and return the form below.
+Course Directory 4
+CREG CENTRE FOR RESEARCH AND EDUCATION AND GENDER
+MA in Women's Studies and Education
+part of a full programme of courses and conferences
+Lancaster University
+invites applications for five MA degree schemes:
+Women Studies and Education
+Women Studies and English
+Women Studies and Language
+Women Studies and Sociology
+Women Studies and Religion
+WOMEN'S STUDIES NETWORK (UK) ASSOCIATION
+Call for Papers — New Directions for Women's studies in the 1990s?
+Conference to be held in London on the 6th and 7th July 1991.
+Plenary addresses, papers and workshops will be divided into four strands —
+1
+International Feminism — Naila Kabeer
+2
+Commonalities and Differences — Felly Nkweto Simmons
+3
+New developments in Feminist Theory — Rosi Braidotti
+4
+The Women's Movements and Women's studies — Diane Leonard.
+Papers or proposals for leading a workshop are invited from those working in the field.
+Please contact: Jackie Stacey, Dept of Sociology, Univ, of Lancaster, Lancaster, LA  YL.
+The College of St Mark and St John Plymouth
+150 Years in Higher Education
+Post Graduate Diploma in Youth and Community Work
+A practical one year course which builds on past experience and leads to a nationally recognised qualification.
+For further information and an application form contact Ron Kirby on Plymouth .
+School of Communication Polytechnic of Central London
+GRADUATE COURSES IN MEDIA
+PCL's School of Communication offers a wide range of part-time M.A. programmes, and invites applications from graduates for courses commencing in Autumn 1991.
+M.A. Film and Television Studies
+M.A. Journalism Studies
+M.A. Photographic Studies (Proposed for validation)
+The School also offers full-time undergraduate programmes in photography, film and the media, and short courses both introductory and specialist.
+A part-time B.A. in Photography and one year full-time Certificate courses in Radio and Print Journalism for Ethnic Minorities area are also available.
+UNIVERSITY OF EDINBURGH — DEPARTMENT OF LINGUISTICS
+Ph.D.
+in LINGUISTICS
+ABOUT THE DEPARTMENT
+The Department of Linguistics is part of Edinburgh University's lively community of organisations involved in the study of speech and language.
+The Department maintains broad collaborations with the Centre for Cognitive Science, the Human Communication Research Centre and the Centre for Speech Technology Research and can offer PhD supervision in many research areas, both purely linguistic and interdisciplinary.
+Research facilities include computing systems, a phonetics laboratory, and several major libraries.
+WHO CAN APPLY?
+Graduates with good Honours degrees in linguistics, psychology, artificial intelligence, philosophy, languages and related fields are invited to apply for admission as PhD students.
+ABOUT STUDENTSHIPS:
+Students — proposing to work on appropriate topics may apply for British Academy or ESRC studentships with department support.
+Suitable candidates may be nominated to SERC studentships tenable in the department.
+M.Sc.
+in SPEECH and LANGUAGE PROCESSING
+A one year course assessed by essays and dissertation, the M.Sc.
+is taught within the Department of Linguistics which has a range of computing facilities for speech and language research.
+The taught component of the course covers basic computing skills, PROLOG, phonetics, phonology, syntax, formal semantics, pragmatics and discourse analysis, psycholinguistics, statistics and experimental design, inter-speaker differences, speech analysis, speech and language systems, and techniques in speech recognition, speech synthesis, parsing, machine translation.
+SERC has accepted the M.Sc.
+as suitable for the tenure of its advanced course studentships.
+United Kingdom Nirex Limited
+WHAT NIREX WILL GO THROUGH TO REACH NEW LEVELS OF SAFETY
+Five hundred metres of solid rock to start with.
+But that's only part of the story.
+Before we put forward proposals to build a deep underground repository for Britain's low and intermediate-level radioactive waste, we must thoroughly understand not only the science and engineering of the waste and the repository itself, but also the geology of the possible sites.
+To achieve this we have commissioned millions of pounds worth of research from universities, laboratories and companies, and have started a major geological investigation programme.
+When we finally make proposals to build a repository we must be confident they will satisfy safety standards that are amongst the toughest in the world.
+This project, comparable in engineering terms to the Channel Tunnel, will cost at least £1.6 billion and will serve the country's needs for 50 years.
+For further information write to The Information Officer, UK Nirex Ltd., Curie Avenue, Harwell, Didcot, Oxfordshire, OX  RH, or telephone Peter Curd on , and quote reference ‘L’.
+United Kingdon Nirex Limited SAFE FOR THE FUTURE
+How Fast Can You Read?
+A SIMPLE technique of rapid reading has just been announced.
+It guarantees than you will at least double your speed and yet retain much more.
+Most people do not realise how much they could increase their pleasure, success and income by reading faster and more accurately.
+Anyone, regardless of his present reading skills, can use this simple technique to improve his reading ability to a remarkable degree.
+Whether reading stories, books or technical matter, you can read sentences at a glance and entire pages in seconds with this method.
+Full details of this interesting self-training method for developing rapid reading skill will be found in an interesting new book ‘How To Reader Faster — And Remember More’, sent free on request.
+No obligation.
+Simply write to: Reading Improvement Programme (Dept.
+NCB11) Sussex House, 143 Long Acre, London WC2E 9AD.
+British Gas
+THE GUIDE TO GAS IN HOUSING
+Low cost central heating.
+A gift for smaller homes.
+Large or small, a home is always more saleable if it has gas central heating.
+People prefer gas for its reliability, controllability and round-the-clock economy.
+So we've introduced several central heating systems at a reduced cost, designed with the smaller home in mind.
+Which means that now you can afford to install gas in all your homes, whatever the size.
+WE HAVEN'T CUT CORNERS.
+JUST COST.
+They're conventional gas central heating and hot water systems.
+And they're as straightforward to buy as they are to install.
+You get up to 5 radiators, a wall mounted heat generator, a comfort controller and a time clock; everything you need for the smaller home, at a very competitive price.
+There are several top manufacturers' heat generators to choose from, to suit different sized homes.
+All of them fit in with kitchen cabinetry and are suitable for sealed system central heating.
+So with a primatic cylinder there is no need for a cold ‘feed’ cistern.
+Maxol's Homewarm 600 heat generator, with a maximum output of 6kW, can be hidden away in a kitchen cupboard.
+Stelrad's Ideal compact Extra heat generator, with a maximum output of 8 kW, also provides neater and easier installation, since the pump, programmer and motorised valves are housed within its casing.
+And Glow-worm's Economy 24 heat generator, with an output of more than 7 kW, in one of the balanced flue range with an extension flue kit available for siting versatility.
+AS COST EFFECTIVE TO RUN AS IT IS TO INSTALL.
+These low cost systems have decided cost advantages for your customers, too.
+They have been selected for their easy-to-understand controls and ease of maintenance.
+And they can cost as little as £5 a week to run.
+So they're a particularly good choice for the first time or retirement home buyer; your two biggest markets for smaller homes.
+So, for your next GasWarm development, remember how cost effective it is to give your customers the fuel they prefer.
+In fact, in this present market, the question isn't can you afford to install gas central heating.
+It's can you afford not to?
+For more information, contact the Housing Department of your local British Gas Region.
+British Gas GasWarm ENERGY CONSCIOUS HOMES
+Are you serious about learning to fly?
+We are…
+•You can learn to fly in 2 weeks to the required standard to obtain your British Private Pilots Licence.
+•F.T.I. courses are specifically designed to maximise the learning process and minimise time and money wastage.
+•You will be surprised how quickly you can learn with continuous training uninterrupted by poor weather conditions.
+•The F.T.I. school is based at Cannes Airport on the beautiful Côte d'Azur in the South of France.
+Research has shown that the best weather in Europe occurs in Cannes where it is suitable for flying training over 80% of the time with little seasonal variation.
+•F.T.I.'s Robin DR400 training aircraft are each flying up to 50 hours per week on continuous training exercises.
+These modern low-winged aircraft have an exceptional record of reliability, superb visibility and are a delight to fly.
+•Our team of instructors have been chosen not only for their teaching skills, but also for their sympathetic understanding of the needs of our students.
+So, if you are serious about learning to fly:
+with first class facilities, superb weather conditions, and dedicated staff, then ring Rachel Brooks or Peter Bowell at our Biggin Hill office on  or Fax .
+PPL 2 Week Course
+The package at £5,750 includes return air fare from the UK, accommodation in our new apartments, 40 hours flying time, ground school, and all examination and ancillary charges.
+Courses commence each Sunday and continue throughout the year.
+PPL Completion Course
+We can tailor a completion course at our Cannes base to suit your needs.
+Please telephone with details of your flying experience to date.
+Our staff will be able to give you an individual quotation in order to obtain your PPL.
+IMC Rating
+A PA28 Cherokee with an avionica fit specifically designed to teach you to fly in Instrument Meteorological Conditions is based at Cannes alongside the fleet of Robin aircraft.
+Hours Building
+We have aircraft available for hire at Cannes for revalidation of licences, hours building and pleasure flying.
+FLIGHT TRAINING INTERNATIONAL
+ABBAS AIR
+OUR PLEDGE — AIRBORNE WITHIN 5 MINUTES OR YOUR LESSON IS FREE…
+If you are held from getting airborne or landing for more than 5 minutes by our AIR/GROUND radio, we will give you your lesson free!!
+So if you are fed up wasting time and money on the ground:
+COMPTON ABBAS AIRFIELD 
+‘Come fly with us’
+HARTLEY'S AIRCRAFT RECOVERY STORAGE AND SALVAGE SERVICES
+Hartley's aircraft recovery & salvage services offer a comprehensive service to all aircraft owners and operators.
+Regardless of the size & condition of your aircraft after an accident or forced landing, we can recover your aircraft to any location of your choice for repair or storage, at a realistic price and without causing further damage.
+We operate a full range of specialised equipment that has been modified for aircraft application.
+For further details or an instant quotation contact Mr D Hartley or Mike Medden on Tel:
+REMEMBER, the quicker you recover your aircraft the less chance of further damage.
+FOREST AVIATION
+DON'T LEAVE US UNTIL YOU'RE ON FINALS…
+It could pay you to do a pre flight check with Forest Aviation.
+We have one of the widest stocks of aviation equipment available for quick and efficient despatch.
+Our knowledgeable staff are always on hand to help you with your requirements, be they large or small, and our prices will pleasantly surprise you (though not our competitors!).
+Reliability is all important in any branch of flying, so you will no doubt expect that same reliability from us, at Forest Aviation.
+Being in the business the longest, we know the importance of providing a top class service.
+After all, you wouldn't fly an aircraft that you couldn't rely on, so why expect any less of us?
+For your FREE comprehensive catalogue
+Call into the shop today and find out for yourself, or Telephone: 061  and speak to NIKKI OR PHILL or write to: FOREST AVIATION, FREEPOST, NORTH PARADE, NORRIS ROAD, SALE, M  BT. (no stamp needed)
+Peter Ballingall Golf Schools 1991
+‘My aim is not to give you something that I have — but to reveal to you something you already possess.’
+Why do over 35% of his increasing clientele return a second or more time to his school?
+Why do a further 30% attend on the specific recommendation of ‘former’ clients?
+Because: a) They improved their golf.
+b) They enjoyed the Peter Ballingall Golf School ‘Experience’.
+c) They preferred the ‘one-to-one’ relationship with Peter Ballingall one of the premier Instructors in the game (i.e. no other Professionals to create confusions).
+If you would also like to play better golf then send for his brochure.
+Over 40 fully booked Schools were run at Barnham Broom and in Southern Europe in 1990.
+No-one runs more schools.
+Peter Ballingall is on the Teaching Panel of Golf Monthly and was one of the Teaching Panel of Golf Monthly and was one of the principal speakers at the 1st European Golf Teaching & Coaching Conference in Milan in 1990.
+What's the birdie at your 18th hole
+Though you may be surprised by a peacock trailing its colours elegantly across the green, golfing in India isn't strictly for the birds.
+India boasts a host of courses, from the high Himalayan foothills at Shimla and Shillong to serene city greens overlooked by historic monuments at Delhi.
+From the tropics of Madras to the midst of the hill stations at Ootacumund and Kodaikanal.
+And at Calcutta you'll find the oldest golf club in the world, outside of Britain.
+And should you — like the peacock — desire to spread your wings, then all India lies before you, from the historic glories of the Moghul north to the sun-soaked beaches of the south.
+Why stay putt when you can golf in India?
+India ONLY 9 HOURS AWAY.
+VISIT INDIA TOURISM YEAR 1991
+IF YOU PLAY GOLF YOU NEED MYPRO MULTI-COACH
+THE UNIQUE ADJUSTABLE HEAD GUIDE AND TRAM LINE PRACTICE AID
+PREVENTS
+•LIFTING YOUR HEAD DURING THE GOLF SWING
+•SWAYING OFF THE BALL ON THE BACK SWING
+•MOVING AHEAD OF THE BALL ON THE DOWNSWING
+•OVERSWING AT THE TOP OF THE BACKSWING — STOPS CLUB GOING ‘DOWN THE OTHER SIDE’.
+•OVERSWING ON SHORT SHOTS — RESTRICTS SWING AND DISCOURAGES QUITTING
+•INCORRECT STANCE — CREATES SQUARE TO TARGET SET UP
+PLUS:
+•CREATES PENDULUM PUTTING STROKE
+•TEACHES MUSCLE MEMORY
+•UNIT ASSEMBLED IN SECONDS
+•LIGHT WEIGHT — EASILY CARRIED TO PRACTICE AREA
+•COMPLETE WITH CARRYBAG
+•DEVELOPED BY GOLFERS FOR GOLFERS — CAN BE USED —
+DON'T PRACTICE YOUR FAULTS — CURE THEM
+•WITH YOUR TEACHING PRO
+•AT THE DRIVING RANGE
+•ON THE PRACTICE GROUND
+•IN YOUR GARDEN
+•IN THE HOME
+•AT THE OFFICE
+•BY ALL THE FAMILY FROM THE SHORTEST TO THE TALLEST, FROM BEGINNER TO EXPERIENCED GOLFER.
+Never A Better Place.
+Never A Better Time.
+The best holidays in golf are in Myrtle Beach, South Carolina, the ‘Seaside Golf Capital of the World.’
+Choose from 73 outstanding hotel and golf packages.
+Enjoy oceanfront accommodations, ranging from economy to luxury, and your choice of over 65 of the world's finest golf courses.
+Our mild climate allows visitors to enjoy year-round golf and all of the magic of Myrtle Beach, including miles of sandy beaches, hundreds of restaurants and a wide variety of entertainment.
+With the present exchange rates, you may never find a better time to visit Myrtle Beach.
+FREE TRAVEL GUIDE — The 100-page Myrtle Beach Golf Holiday planner outlines each of these outstanding programs with rates, along with colourful photos and facts on each of the courses.
+Phone for yours today.
+PHONE FREE 0–800–444–888
+For your FREE Myrtle Beach Golf Holiday Guide.
+If you need additional assistance or information, phone direct to Myrtle Beach at 0–800–89–1390.
+MYRTLE BEACH South Carolina Smiling faces.
+Beautiful places.
+NETWORKING MIND AND BODY FOR BETTER GOLF
+Two golfers playing a round.
+‘I just know I can do better,’ said one.
+‘Yes,’ replied the other, ‘the problem is not in your hands, it's between your ears.’
+Dozens of top professionals routinely improve their ability to perform through mental skills.
+The old saying that ‘Golf is 90% mental’ is true.
+If the average golf swing takes 1.5 seconds, then a score of 80 means that 120 seconds were spent on the physical act of swinging.
+Quite simply, you need to apply other skills to maximise on those two minutes of swinging the club: the result?— you play better and enjoy it more.
+As Jack Nicklaus put it, ‘I never hit a shot, even in practice, without having a very sharp in-focus picture of it my head.’
+Wise words from a golfing legend.
+Olympic coaches teach it, sports psychologists write about it and sports personalities use it.
+That's where we come in.
+We'll train you how not to ‘blow it’ on an important shot, lose an important lead, make the same mistake time and time again and other skills that only the pro's could afford to know.
+You'll learn consistency too.
+The Brahman Centre for learning mental skills is in Provence and you'll be one of a select few at a time to be taught these techniques.
+In addition you'll savour excellent food and wine and play on some of Europe's finest golf courses.
+If you have a non-golfing partner, there are over 2000 years of history and sights to be seen in 300+ days of sunshine each year, so they're looked after too.
+Telephone  or write for a personal itinerary today.
+The Brahman Centre, Rue L'Arceau, 30200 La Rocque Sur Ceze, Bagnols S/C, FRANCE
+Imagine…
+imagine…
+Discovering a magnificent championship standard 18 hole Golf Course in the grounds of one of Northumberland's most beautiful estates.
+…The skill and expertise of Ryder Cup hero Christy O'Connor Jnr.
+Slaley's European Tour Professional.
+imagine …
+A Five Star International Sheraton Hotel with first class leisure, business and conference facilities.
+…Owning a luxurious Holiday Villa or Studio Apartment affording majestic views over the Tyne Valley and offering the ultimate in luxury living.
+imagine …
+Pampering yourself in the retreat of our exquisite Scandinavian Time-Ownership Lodges that you can purchase for yourself, family or company for as many weeks of the year as you wish.
+…Having the opportunity through Slaley's affiliation to RCI, of exchanging into 2,000 resorts worldwide.
+imagine …
+FREE GOLF FOR LIFE!
+All purchasers of Time-Ownership at Slaley will receive an allocation of 10 free rounds of golf and 10 rounds at 50% discounted rate for each week of time purchased!…
+Renting one of the luxurious lodges for family or friends and sharing in the luxury that Slaley affords, from the championship standard golf course, to the 5 Star Sheraton Hotel, leisure club and the facilities within each sumptuous lodge which cater for your every need.
+If you can imagine and would like to discover the reality of Slaley Hall you can take up the offer of a special two night inspection visit for only £95 including golf which Slaley will run throughout the spring of 1991.
+Play the course that Jack built.
+The new Championship course at St. Mellion, is one of the finest in Europe.
+Designed, planned and supervised personally by Jack Nicklaus, its challenging 7,000 yds will test the best of players.
+However a longer handicap man will enjoy an equally good game from the forward tees.
+All this is matched by the superb facilities at our hotel: swimming pool, squash, badminton and tennis courts, solarium and sauna, to name but a few.
+Fill in the coupon below and FREEPOST to St. Mellion Golf and Country Club, Saltash, Cornwall PL  BR.
+Lanteglos…a real golfing holiday and with your family!
+Lanteglos, is set in twenty acres of enchanting wooded grounds.
+A traditional country house hotel; it is surrounded by Bowood Park, potentially the most exciting course in the country (due for completion late 91/92 ).
+The superb family facilities provided within the hotel together with 8 other golf courses within 35 minutes make Lanteglos ideal for a combined family and golfing holiday.
+Lanteglos offers spacious double and family rooms or family suites, all with en suite facilities, radio, intercom, colour television, and direct dial telephones.
+Every hotel room has the most sophisticated baby listening equipment available; enabling parents to relax and enjoy the hotel facilities secure in the knowledge that their children are being constantly monitored.
+Lanteglos…where you can excite both your golf and your family!
+•Excellent food with extensive wine lists.
+•Children are welcomed, from any age!
+•Heated, floodlit swimming pools.
+•Safe grounds, with play areas and acres of space.
+•Squash, tennis & badminton courts.
+•Games room, solarium & launderette.
+•Satellite T.V. 
+The fairway to France 1991
+Brittany and the South of France from £135 a week
+DOMAINE DU CHÂTEAU DE LA BRETESCHE
+Play great golf in the grounds of this fairytale French château.
+Stay in a traditional stone and slate cottage, set amid 250 wooded acres surrounding a magnificent lake or in the beautiful three star hotel.
+FAIRWAY HOTEL DE ST LAURENT-PLOEMEL
+Dedicated golfers can tackle up to seven magnificent and challenging golf courses when staying in this beautiful three star hotel with its own swimming pool, tennis courts and gymnasium.
+Unlimited golf!
+MANDELIEU-LA NAPOULE on the French Riviera
+Splendid hotels, superb apartments, all within a short distance of some of the most famous and exclusive golf courses on the Côte d'Azur.
+Travel by car or by air.
+With green fees, ferry crossings or air travel and even AA five star insurance included, your Golfbreaks holiday is undoubtedly the fair way to France.
+GOLFBREAKS HOLIDAYS THAT SUIT YOU TO A TEE
+WHEREVER PERFORMANCE COUNTS, TITLEIST COUNTS THE MOST.
+The difference is overwhelming.
+Around the world, it's Titleist quality, consistency and performance to which most competitive golfers trust their games.
+1990 proved it all over again.
+And Titleist once again rewarded that trust with more wins, more top finishes and more money earned than all other balls combined.
+It's a performance story that's been adding up for over a decade.
+That's the difference between a golf ball and the No 1 ball in golf.
+Titleist No 1 ball in golf.
+A GREAT PROMOTIONAL IDEA DESIGNED TO SUIT YOUR CLUB'S WALLET
+You know what it's like.
+Like every other club, you're trying to raise funds.
+And raise your profile at the same time.
+You need merchandise ideas but you only want quality.
+Which is why WMG's range of personalised leather goods are in a league of their own.
+You'll find everything from filofax covers and desk folders to wallets and key fobs.
+All stylishly embossed with your club's emblem.
+What's more, each item carries an equally attractive price tag.
+For your free colour brochure and price list, please contact: WMG Promotions  
+IDEAS THAT GET RESULTS
+WMG PROMOTIONS
+FIRST AND FOREMOST
+In world-class sport, second is always second best.
+Which is why Great Britain's National Indoor Arena is being purpose-built in Birmingham to offer the very finest sports facilities.
+Facilities which will make the NIA one of the foremost sporting venues in the world.
+There are excellent amenities for Indoor Soccer including F.A.
+approved ‘Soccer Six’, with an audience capacity of up to 11,000.
+We can also provide the latest press and broadcast media technology.
+And, of course, we're very easy to get to with our convenient city centre location and designated car parking.
+For further information on staging sporting events contact the National Indoor Arena on 021– .
+After all, why settle for less than the very best?
+BRITAIN'S PREMIER SPORTING VENUE OPENS IN BIRMINGHAM AUTUMN 1991
+NATIONAL INDOOR ARENA BIRMINGHAM
+IT'S ENOUGH TO GIVE ANY ANGLER SLEEPLESS NIGHTS.
+Admittedly the fishing in Ireland can sometimes disturb your slumber.
+But we promise you won't mind.
+The coarse, game and sea angling are without equal anywhere in Europe, possibly the world.
+There are fish in such numbers you might think you are dreaming, until you start catching.
+Many of the fish are of specimen size, too, with more than a few record breakers.
+Of course, records are there to be broken and with a little luck, well, who knows?
+For the sea angler there are 3,500 miles of coastline to fish and explore.
+Game and coarse anglers have the freedom to fish over 9,000 miles of river and thousands of lakes.
+Many of Ireland's waters have yet to see a fly, lure or baited hook.
+If you can raise your eyes from the water long enough you'll see that the scenery is more than a match for the fishing — it's simply breathtaking.
+And whether you decide to stay in a castle or cottage you'll always receive the warmest of welcomes and the finest hospitality.
+It's hard to believe such great fishing could be such good value for money until you try it yourself.
+To find out more about fishing in Ireland, simply send for one of our free brochures and you'll soon see why anglers who dream about fishing, dream about fishing in Ireland.
+The ultimate angling holiday!
+CRUISE and FISH THE SHANNON'S LAKES AND RIVERS
+FROM ONLY £66 PER PERSON• PER WEEK YOU GET:
+•A luxury four or six-berth fully equipped diesel-engined cabin cruiser for 2, 3, 4, 5, or 6 anglers from CARRICK CRAFT.
+•Return package for your car by any ferry route from UK to Ireland.
+•Return passenger tickets for the group.
+•Two 9′ 0″ Dinghies for fishing.
+•One Seagull outboard motor.
+•A grocery and bait pre-ordering service.
+•Charts and fishing maps.
+FISH THE ISLANDS AND BACKWATERS, FISH THOSE INACCESSIBLE SPOTS, ENJOY THAT MOBILITY THAT ONLY A CRUISER AND DINGHIES CAN GIVE YOU.
+•Cruisers available Saturday/Saturday or Wed/Wed" pos="VERB">Wed./Wed.
+•Choice of cruising bases at Carrick-on-Shannon or Banagher.
+•A 25% reduction for a second week.
+•Special low prices for early and late season and UK close season periods.
+•Based on 1 car and 4 passengers in period up to 31 March.
+THERE'S NO CATCH BUT YOURS!
+Write or phone CRUISE AND FISH 
+PORT SOLENT HAS IT ALL
+MARINA BERTHS FOR 1991
+For location, lifestyle and quite literally everything the yachtsman could ever wish for, Port Solent has it all.
+Port Solent offers berth holders more than just the first class yacht sales and repair facilities of the south coast's most prestigious marina, it also offers 24 hour access 365 days a year.
+THE ULTIMATE MARITIME RESORT
+Why?
+Because Port Solent is for those who enjoy the ultimate maritime lifestyle.
+Step ashore to a world of pavement cafes, boutiques and the continental charm of Port Solent's fashionable shopping mall.
+Port Solent has it all.
+Savour the culinary delights of the Orient, Mexico, Italy and France from the quayside restaurants which make Port Solent a gourmet's paradise.
+Don't miss your chance to enjoy the ultimate maritime lifestyle in 1991!
+THE ULTIMATE LIFESTYLE
+A week-end retreat?
+A permanent or second home?
+A pied-à-terre?
+Port Solent has a choice of houses and apartments to suit the various needs of the yachtsman and those who want more than a home on the waterfront.
+THE PURSUIT OF ENJOYMENT
+Wake up to the sight of your yacht on your own private mooring, the cruising grounds of the Solent beckoning in the distance.
+Enjoy a drink, a snack or a meal at one of Port Solent's delightful quayside bars or restaurants.
+Stroll along The Boardwalk, Port Solent's continental-style shopping mall.
+Entertain your friends at the Waterside Club, Port Solent's exclusive establishment for wining and dining with style.
+Or simply relax and watch the world go by.
+Port Solent has it all!
+HIGGS & HILL HOMES
+A superlative development of 2, 3 and 4 bedroom houses by Higgs & Hill has redefined the meaning of life on the waterfront.
+Most houses have balconies overlooking the marina or North Harbour, many have their own private mooring adjoining the property.
+All are freehold.
+In a choice of waterfront or courtyard settings, each house is built to impeccable standards and includes a fully fitted kitchen, luxury bathroom, shower room and wiring for satellite TV.
+When you move into your Higgs & Hill home at Port Solent you'll be doing more than just living on the waterfront.
+You'll be living amidst a select community of like minded people who appreciate the finer things in life.
+For further information contact the Higgs & Hill Sales Office on 0705–210152 or Oyster Quay Sales Office on 0705–219109 or visit today — it is open 7 days a week from 10.30am to 4.30pm.
+OYSTER QUAY APARTMENTS
+At the crown of Port Solent is Oyster Quay, an outstanding development of spacious, luxury apartments with a private residents' leisure centre, including swimming pool and gymnasium.
+Every apartment at Oyster Quay has a balcony overlooking the marina, superb kitchens and bathrooms, independent gas central heating, a video entry system and satellite television.
+For the yachtsman, berths from 8 to 12 metres are also available to be included within the apartment's 150 year lease.
+Whether as a main home or weekend retreat, an apartment at Oyster Quay offers an unsurpassed combination of style, practicality and value — all within the magnificent surroundings and facilities of Port Solent.
+Malaysia
+PENANG AND THE LANGKAWI ISLANDS
+One week charter in Malaysia from £969 per person, including flights and luxury hotel accommodation
+Welcome to the Yachting World Cruising Club, an organisation formed to help and encourage people to cruise in different parts of the world.
+The first Yachting World Cruising Club departure will be on 7 March 1991 to Penang and the Langkawi Islands, a charter organised by Marinair Yacht Charter Services who are agents for Pelangi Cruises in Malaysia.
+Although the Cruising Club will provide a group departure on that date with a welcoming cocktail party in Langkawi and a representative to offer specialist advice, the holiday will not be flotilla orientated.
+Clients will be allowed all the freedom they require in a flexible, tailor-made schedule.
+The price of £969 per person for the Basic 19 Day Itinerary includes the following:
+1.
+Return flights by Malaysia Airlines on schedules services from London to Langkawi returning from Penang.
+2.
+One night at the Pelangi Beach Resort, Langkawi, room only, sharing a twin/double room, service tax included.
+3.
+Transfer from Langkawi airport to hotel and hotel to yacht.
+4.
+Seven nights bareboat yacht charter on a Gib Sea 402 based on six sharing.
+5.
+One night at the Mutiara Hotel, Penang, room only, sharing a twin/double deluxe room service and tax included.
+6.
+Welcome Cocktail Party at the Pelangi Beach Resort.
+(Yachting World Cruising Club departure 7th March Only).
+The way yacht charter should be
+To combine sheer enjoyment with true quality is the main principal on which H.R. Marine has built its reputation.
+For the 1991 season we will be sailing from Southern Crete.
+Discover at a gentle pace this idyllic island and its people.
+A relaxed atmosphere, excellent cuisine combined with professional service promises you a holiday without compare, and memories which will last forever at a price which will surprise.
+Charter FROM Corsica 
+The most enchanting waters in the world — 600 miles of Corsican coastline plus the magic of the Maddalena islands and Sardinia's sparkling Costa Smeralda.
+Lagoons, creeks, islands, coves and deserted sandy beaches abound.
+Our cruising grounds afford an almost constant sailing breeze and long hours of clear sunshine throughout the summer months.
+Bareboat or skippered charter — choose a Swan 371 or 42 or one of our brand new high performance X-Yachts or luxury Feelings for your holiday of a lifetime.
+We also offer a number of larger skippered Swans for worldwide charter.
+SWAN 371 or 42
+Universally recognised as today's most prestigious production yachts, our meticulously maintained Swans offer a unique sailing experience.
+All equipped with a full suit of sails, including optional tri-radial spinnakers, plus the creature comforts you would expect from a Swan.
+X-372's — PRESTIGE
+Our new 1990 fleet of award-winning Danish X-372's in their luxury version offering outstanding performance with the level of comfort required for a modern cruising holiday.
+Roller-reefing, wheel steering, electric windlass, cruising chute, pressurised hot and cold water, shore-power, refrigerator etc…
+FEELING 1990's
+Again a new fleet for 1990, offering a stylish combination of spacious comfort with exciting sailing performance.
+All the features of our X-Yachts and more in a roomier boat ideal for family cruising.
+Please ask for our information pack: SWAN SAIL 
+Skippered or Bareboat Charters
+GREECE
+Choose from a large range of company owned modern sailing yachts 32–53 feet, with bases in Rhodes, Kos, Lesvos, Corfu and Thessalonika.
+One way charters can be arranged between these and other Islands at no extra cost but dependent on availability.
+CARIBBEAN
+Bases in Martinique and Union Island between which one way charters are available and Tortola.
+Sailing yachts 31–53 feet, motor yachts 37–46 feet, plus an extensive range of crewed sail and motor yachts 42–120 feet.
+YUGOSLAVIA
+Modern yachts 32–47 feet available from Dubrovnik, Split, Zadar and Portoroz.
+Fully crewed vessels 60–98 feet available.
+TURKEY
+Available from Bodrum, Gocek and Marmaris, modern yachts 31–49 feet.
+Also crewed yachts up to 71 feet including traditional wooden Turkish Gulets.
+THAILAND
+Company owned yachts bare/skippered 30–45 feet, skippered only 41–52 feet, based in Phuket, Southern Thailand.
+Call for further details  ELLIS YACHT CHARTERS
+The stuff epics are made of
+Imagine an Ionian Odyssey.
+Discover the wonderful Ionian Islands on one of our flotillas tailored to give confidence to the inexperienced and freedom to the expert.
+Choose from a variety of yachts (28–40ft) and itineraries from Corfu and Levkas.
+And have a holiday you'll want to write home about…
+For a glimpse of the experience now ring for our colour brochure.
+ODYSSEUS YACHTING HOLIDAYS
+THE IONIAN FLOTILLA SPECIALISTS
+Sail into your dreams
+NATIONAL FEDERATION OF SEA SCHOOLS
+ALL MEMBERS R.Y.A. RECOGNISED
+What is the National Federation of Sea Schools?
+(NFSS)
+The Federation is the only representative body of sailing and motor boat schools in the United Kingdom.
+It is a member of the International Sailing Schools Association.
+Members operate in a wide choice of locations, offering a comprehensive range of professionally organised courses leading to internationally recognised Royal Yachting Association qualifications.
+The Federation is represented on the Training Committee of the RYA and is organised by a modern secretariat and an elected committee.
+Why the Federation?
+Running a good Sea School makes considerable demands on all concerned.
+High standards of vessels, equipment and instruction are maintained.
+All Federated Sea Schools are run by qualified experts whose work is teaching students to enjoy the water-based activity of their choice.
+This applies whether you are an absolute beginner or experienced sailor.
+Members are all recognised by the Royal Yachting Association and use the latest technology combined with traditional skills to help students achieve their aim.
+Choice of Schools
+The Federation offers you a wide choice of schools.
+Members are listed by area of operation and further information and brochures can be obtained by contacting directly the schools of your choice.
+Choice of Courses
+Courses range from foundation courses for the complete beginner through to the most advanced qualifications from the Royal Yachting association (RYA) and Department of Transportation (DTp).
+Details of the syllabus for each course can be found in the appropriate RYA Logbook.
+These are available from member schools.
+Courses offered by the various schools cover SAIL CRUISING, MOTOR CRUISING, DINGHY SAILING, POWER BOATING (small open powerboats), and SHOREBASED THEORY COURSES.
+In addition, many schools offer specialist courses, e.g. Radar, decca, VHF, First Aid, etc.
+SEE INDIVIDUAL SCHOOLS ENTRIES FOR SPECIFIC DETAILS.
+WITH THE NATIONAL TRUST, EVERY HOLIDAY WILL BE A DISCOVERY.
+If you're in search of something different, why not consider a National Trust Holiday?
+From 1991 we are planning a collection of holidays for you to choose from, covering a wide range of destinations with stimulating themes.
+Each holiday will be carefully researched and put together in conjunction with a reputable tour operator.
+The countries may be familiar to you but we will ensure you'll see rather more of them.
+Our aim is to provide our members with a special holiday experience — including lectures and tours by expert guides and access to restricted places.
+It's an exciting new venture, as you'll discover if you join us.
+If you'd like further details on our programme or have any requests of your own that you would like us to research, please help us by filling in the coupon.
+CRUISE THE WONDERS OF THE MEDITERRANEAN FROM ONLY £749
+SPECIAL HOLIDAY OFFER
+A choice of two cruises — Departures in October 1990 (return option from Venice on the Orient Express).
+Cruise from Nice to Venice or from Venice to Egypt and the Holy Land, via Dubrovnik and the Greek Islands.
+The Ocean Princess will make you believe it's your own personal yacht.
+We'll cosset you in sumptuous comfort, astound you with service from a bygone era, tempt you with the quality of our cuisine and delight you with our shipboard facilities and entertainment.
+And all this while we cruise gently to the most stunning ports in the whole of the Mediterranean.
+How can we offer a holiday of this quality for this price?
+Quite simple.
+We are the largest cruise charter company in the United Kingdom and by chartering the whole vessel we achieve remarkable savings which we are happy to pass on to you, our passengers.
+Our first voyage begins on 20 OCTOBER in Nice.
+The cruise visits Rome, Sorrento, The Lipari Islands, Taormina in Sicily, Malta, Katakolon, Corfu and Dubrovnik, before arriving in Venice on 28 October.
+You'll fly (or coach) to the shores of the Mediterranean, boarding the Ocean Princess in Nice.
+On the return from Venice you will again fly (or coach), or having enjoyed three extra nights in a superb hotel in Venice, you will return on the world-famous and exclusively chartered Orient Express train.
+For readers not wishing to fly, our coaching option will include three overnight stops on the way down to Nice and another three overnight stops on the return from Venice.
+Our second Autumn Cruise departs on the Ocean Princess from Venice on 28 OCTOBER and visits Dubrovnik, Heraklion, Santorini, Alexandria, Port Said, Ashdod, Kusadasi, and Mykonos, before arriving in Athens on 7 November.
+In Alexandria, the old summer capital of Egypt, you can treat yourself to an overnight excursion to Cairo and Luxor, where the Valley of Kings hides Tutankhamun's tomb.
+In Port Said, an optional excursion drives south to Giza's Pyramids and Sphinx.
+In Ashdod, there is an unforgettable chance to visit the holy city of Jerusalem.
+In all the ports of call on both cruises there will be some unforgettable excursion possibilities.
+The Ocean Princess is designed for today's more sophisticated traveller, being a world away from other large and impersonal vessels.
+Every cabin is fitted with private facilities and ample wardrobes, and the onboard activities give everyone the opportunity to take part in as much or as little as they want.
+Dining aboard the Ocean Princess is like dining in a fine restaurant with delicious and varied menus and a marvellous wine list and throughout your cruise you will find the attentive English-speaking crew that takes pride in providing impeccable service.
+Our colour brochure gives full details of these magnificent cruises.
+Please complete the form or use our dial-a-brochure service by phoning Fourwinds on Gloucester  (24-hour Ansafone Service).
+A case for staying at The Lygon Arms.
+Country life and gracious living are one and the same at this 16th Century coaching inn in the heart of the Cotswolds.
+Rolling hills, mellow stone villages and historic buildings surround this rural retreat, which has brought a taste of the good life to connoisseurs and gentlefolk since the reign of Charles I.
+A member of The Savoy Group of Hotels and Restaurants, The Lygon Arms extends a special welcome to National Trust members with an exclusive invitation to stay at the hotel and depart with a case of specially selected wine from The Lygon Arms' cellar.
+A two night stay in luxury double or twin-bedded accommodation includes fresh flowers and fruit in your room, continental breakfast each morning and a three course dinner each evening.
+And every couple receives a case of Lygon Arms' dry white wine or claret as a parting gift.
+The opportunity to enjoy the finest food and wine and to relive the 450-year history of England's most famous country inn, is offered to National Trust members at £195.00 per person, including VAT, and is applicable for any two nights between 1st November, 1990 and 31st March, 1991.
+Explore Behind The Bamboo Curtain
+CHINA
+Travelsphere's fascinating 11 day tour to PEKING, CHENGDE & XIAN
+Take this opportunity to come with Travelsphere to China — one of the last great travel experiences.
+Home to over a billion people, yet still shrouded in mystery, this vast country is a remarkable spectacle of exotic sights and sounds.
+This amazing value, fully-escorted tour includes return flights, excursions, all travel within China, first class accommodation and all meals.
+On our popular, and well proven itinerary, you'll visit PEKING where you can marvel at the Forbidden City and Imperial Palace, the Temple of Heaven, Ming Tombs and the world famous Pandas.
+Walk along the mighty GREAT WALL and take a train ride to CHENGDE to see the real China.
+We will also take you to a traditional silk factory, kindergarten and the local ‘free’ markets.
+Later you'll fly to XIAN to see the breathtaking TERRACOTTA ARMY, comprising over 6,000 life size figures depicting the Imperial Guard of 200 B.C.
+Ask for our CHINA brochure now!
+The Magic of MOZART
+Bicentenary Celebration in Vienna July 1991
+Mozart's music will be played throughout the world in 1991 in many bicentenary celebrations, but where better to listen to his operas, chamber music and piano concertos than in Vienna, a city that he described as ‘the best place in the world for my metier’.
+Serenissima is offering two visits to Vienna combined with a 4-day cruise along the Danube from Vienna to Budapest and the Wachau Valley.
+Serenissima has chartered the first-class river vessel the MS Rousse for two 7-night journeys commencing on 6 July 1991.
+The vessel will be moored in Vienna for 4 nights allowing us to include a programme of sightseeing and musical events in the city including ‘Mozart at St Michaels’, a piano concerto at the Redoutensaal of the Hofburg Palace, and an open air performance of The Marriage of Figaro with Schönbrunn Palace as a backdrop to the stage.
+From Vienna the Rousse will sail along the Danube to Budapest allowing a day of excursions and, we hope, a visit to the Opera House or Erkel Theatre.
+From Hungary the vessel returns to the beautiful Wachau Valley with visits to Melk and Weissenkirchen.
+The MS Rousse will make an excellent base for the week allowing us to travel the Danube.
+It is a modern Dutch-built river vessel carrying a maximum of 160 passengers.
+All cabins are outside, with porthole, have private facilities and air-conditioning.
+Facilities include sundeck, pool, restaurant, two bars and lounge, shop, hairdresser and sauna.
+Prices from £1095 to £1295 per person in twin berth/bedded cabin, which are inclusive of all meals, excursions and music.
+Two Superb Castles & Country Houses Tours for 1991
+ALBI, CARCASSONE & THE DORDOGNE
+May, June & September Departures
+Ancient towns, majestic chateaux, houses clinging precariously to sheer cliffs and deep natural caves await you on this tour of remarkable south-west France.
+You will visit Orleans, birthplace of Joan of Arc en route to Souillac, your base in the Dordogne.
+From here included tours take you to Rocamadour with its chateau perched high on a cliff summit and then to the powerful fortress of Castelnau-Breonoux which houses rich furnishings and tapestries.
+You'll also be taken on a full day tour of the Dordogne and its best preserved mediaeval treasures.
+From Albi you will visit fascinating Carcassone with its old city fortifications and battlements encircling the only mediaeval monument of its kind in Europe.
+There's so much to experience in this beautiful region which is seemingly untouched by time.
+Prices for this superb 9 day tour by luxury coach start from £349 for a late September departure and include:
+•Luxury coaching throughout the tour 
+•Return ferry crossings 
+•8 nights accommodation with breakfasts and dinners 
+•Excursions and tours of the most fascinating sights 
+•Fully escorted from London 
+THE CHATEAUX OF THE ILE-DE-FRANCE
+April, May & September Departures
+HOUSES & GARDENS AROUND BRITAIN CRUISE
+Sunday 2 June to Saturday 15 June 1991
+How well do you know the British Isles?
+For many this is an embarrassing question, having taken far more in the way of overseas holidays than exploring our own kingdom.
+There are many valid reasons for this as the logistics of organising a journey around Britain are complicated.
+It is no easy task to contemplate a tour that combines the delights of Cornwall, Wales as well as Ireland, Scotland and Yorkshire.
+We believe we have found the perfect way to explore our islands, by joining a cruise that will encompass some of the most delightful scenery and wonderful houses and gardens, many of which are National Trust, on a two week circumnavigation of the British Isles.
+Following the success of our 1990 cruise we have included many of the most successful visits together with some new ports of call.
+For the journey we have selected the first class MS Caledonian Star , a perfect ship for such a journey, carrying a maximum of 150 passengers in absolute comfort — all cabins are outside with private facilities, one sitting restaurant, lounges and bars, lecture theatre and large sun decks with a swimming pool.
+The Scandinavian officers and Filippino crew ensure excellent service.
+PRICES
+Prices from £1695.00 to £2995.00 including transportation from London, all shore excursions, full board, entrance fees, services of lecturers and tour managers.
+SERENISSIMA TRAVEL
+HIGH QUALITY ESCORTED TOURS FOR 1990 AND 1991
+EGYPT Treasures & Pleasures 
+9-DAY TOUR FROM ONLY £679
+The Pyramids, the Valley of the Kings, the towering columns of the ancient temple at Karnak, the lush valley of the Upper Nile where a felucca (traditional sailing boat) ride is one of the most peaceful experiences imaginable…it all adds up to the holiday of a lifetime.
+And that's what we are offering you.
+Thousands have enjoyed our ‘Egypt — Treasures and Pleasures’ holiday for its revelation, by coach, train and internal flight, of the wonders of this land.
+Expertly escorted throughout Egypt with English-speaking guides, staying in excellent hotels with half-board, it is a bargain.
+Egypt offers dazzling contrasts of desert and rich pastureland, architecture older even than the mud-built villages where life continues much as it did in Biblical times.
+Enjoy it in comfort with our local departures (from over 450 points in England) and easy check-in service on scheduled British Airways flights.
+Pleasures of Portugal
+WINTER BREAKS FROM £485
+•Superbly located four-star hotels with excellent facilities.
+•Opportunity to relax on the charming Estoril coast, staying at the old fishing port of Cascais.
+•Chance to discover and explore historic Lisbon.
+•Visit to the walled city of Obidos and the fishing village of Nazare.
+•Half-day excursion to Lord Byron's town of Sintra.
+•Visit to winery and tasting.
+•Seven nights on the splendid Algarve coast.
+•Extra weeks from only £75.
+Best of USA and Canada
+Two-week tours from £895
+Exploring America has been a European and British pastime for centuries, and today's visitors are as delighted as much by its gentler, more rustic charms as by the ‘Big Country’ of Hollywood Westerns.
+One aspect of the USA and Canada is the grandeur of such sights as the Rockies, Niagara and the Grand Canyon; another is its abundant animal and bird life and contrasting vegetation, from the Sierra Nevada with its 300-foot Sequoia trees to the rolling hills and blazing autumnal colours of New England.
+Architecturally, there is the lovingly preserved and restored historical landscape of the early settlers: Jamestown, 18th Century Williamsburg, and Boston with Lexington and Concord.
+The townships of the South have a charm of their own, like Old Charleston with its cobbled streets and magnificent balconied wooden-frame houses.
+Add the life and colour of cities such as New York, Washington, San Francisco and Vancouver, and this is a land it would take more than a lifetime to truly discover.
+Titan's four North American tours are designed in every detail for British tastes.
+Combined with our 450 local departure points, unique airport check-in service and expert guidance while on tour, you will not get better value for money.
+SEND FOR THE FREE TITAN BROCHURE OF YOUR CHOICE to  
+Take Hold
+You know that you've arrived, when the demands of time give way to the enjoyment of the moment.
+And nothing gets you there like BKGoodrich.
+Available through appointed high performance tire specialists nationwide.
+BFGoodrich T/A Tires
+DOVER Calais — the shortest route to France
+CALAIS — So close you could touch it.
+Once the only landfall for Britons bound for the Continent and far and away the best route today.
+Modern jumbo car ferries plus giant hovercraft provide a choice of over 100 crossings daily during the summer and never less than 50 off peak.
+Take the shortest crossing between Dover and Calais.
+From 75 minutes by car ferry and from 30 minutes by hovercraft.

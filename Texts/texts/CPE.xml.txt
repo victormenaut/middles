@@ -1,0 +1,348 @@
+
+
+ADVANCED MICRO TO SHIP Am486 AT ONCE AFTER ORDER FOR RETRIAL…
+A savage new twist to the personal computer price-performance ratchet is in prospect after Advanced Micro Devices Inc announced yesterday that it will plunge straight into the 80486 market with a family of devices using Intel Corp microcode rather than wait until its own ‘clean’ version of the chip is ready in June.
+It will announce specific Am486 products, pricing and availability on Thursday.
+The decision follows a court ruling late on Friday in which Judge William Ingram ordered a retrial of the interminable lawsuit brought by Intel against the Sunnyvale chipmaker over the latter's alleged non-performance under their second source and products development agreement.
+The suit could still go against Advanced Micro, but it is now free from the injunction barring it from shipping 80486 and later generation chips that include Intel proprietary microcode — although Intel is free to seek a new injunction prior to the retrial.
+Intel Corp shares were down sharply prior to the New York opening as investors reacted to the news: opening at $99, they carried on down to $95.75, off $14.25 from the $110 at the close on Friday.
+Advanced Micro shares were up $3.125 or 13.5%, at $27.375.
+Intel said the decision overturning the jury verdict in its favour will have little impact on the 80486 market.
+The judge ordered the new trial on the grounds that Intel  withheld key documents that could have influenced the jury's findings on the meaning of the license agreement.
+‘The failure to produce them substantially interfered with AMD's discovery and trial presentation,’ said Ingram in a 12-page decision.
+‘Moreover the non-production prevented AMD from fairly presenting its defence.’
+‘The judge granted AMD a new trial based on the fact that they claimed they didn't see a Business Wire report when we announced that we sued them,’ Intel general counsel Tom Dunlap told Reuters.
+…
+AS Am386 STILL PROSPERS, WORK STARTS ON Am586
+ Separately , Advanced Micro Devices Inc said it expects to sell some 8m to 10m Am386 chips in 1993, on par with the 9.5m sold last year.
+The company says that as well as launching an Am486 using Intel microcode, it still plans to go ahead with its clean version, which is due to be available in June, and production will be increased during the second half.
+It also says it has started work on developing an Am586 to compete with Intel Corp's forthcoming Pentium.
+‘We will introduce Intel-compatible parts first and then offer versions that feature proprietary architectural enhancements,’ the company says.
+One version of the Am586 chip will incorporate special features for portable computers.
+SUN MULTIPROCESSORS THIS WEEK, EIGHT-WAY PLANNED
+Sun Microsystems Inc is expected to muster another technology paradigm this week when it brings multiprocessing to the desktop.
+The company is due to unveil its high-end SparcStation 10 models tomorrow, and will bring them out at substantially reduced price points to stimulate growth of a high-powered multitasking and multiprocessing desktop marketplace.
+Sun's current multiprocessing entry price is $40,000 and with tomorrow's announcement it could be reduced by around 40%.
+The expected models 52 and 54 will be fitted out with 50MHz SuperSparc+ chips, which Sun's silicon partner Texas Instruments Inc is now producing in volume, and introduced under a new multiprocessing numbering scheme that will see them called the 512 and 514 respectively.
+Accordingly, the 5 refers to the 50MHz chip, the 1 to the machines' 1Mb cache and the 2 and 4 to the number of processors.
+The SparcStation 10 Models 30 and 41 will stay in the product line but other additions are expected and there will of course be Mbus-based upgrades.
+Sun has been fairly successful in the Unix multiprocessing arena.
+According to InfoCorp figures believed to be close to the mark, it installed 10,000 units its first year in the business, giving it the number one slot in that market.
+Sequent Computer Systems Inc has a total installed base of 6,000 machines after eight or nine years in business.
+Sun also claims it has shipped 70,000 Sparc 10 multiprocessing-capable machines to owners that are just now beginning to see the advantages of going to multiprocessing.
+Sun is also preparing its Scorpion eight-way Sparc desktop machine for launch at the SunWorld show on May 11.
+The server is expected to be very cheap, perhaps as low as $50,000.
+Scorpion is said to outperform a SparcStation 2 by a factor of between 12 and 15 times.
+SEIKO EPSON CLAIMS CHEAP COLOUR DISPLAY TECHNOLOGY
+Seiko Epson Co says it has developed new metal insulator metal technology for liquid crystal diode displays to compete with thin film transistor technology at the high end of the market, Reuter reports from Tokyo.
+Unlike the  original metal-insulator-metal technology, the new Super-MIM can provide pictures that are just as good as those using thin-film transistors, the firm claims.
+The technology requires less capital investment and about half the production time, and the panels are half the price, the company claims.
+‘Using this technology, Epson aims to develop larger panels for personal computers or workstations in the near future,’ it said.
+Seiko Epson has begun using the new technology to make 4″ displays, aiming to grow output to 1.5m a year.
+CHEAP COMPACT MEMORY TECHNOLOGY CLAIMED BY BELLS' RESEARCH LAB
+Bell Communications Research Inc, owned by the US Baby Bells, claims to have built an all-metal microelectronic storage device that could replace silicon transistors in memory chips.
+The non-volatile ‘bipolar spin switch’, reported in the journal Science, requires a much simpler production process involving a sandwich of magnetic alloys with a thin ferro-magnetic gold alloy in the middle.
+When a current is applied to the gold film, direction of spin of electrons in the device can be switched up or down.
+Moreover the devices seem to perform better the more they are miniaturised.
+The devices are also much smaller and use a lot less power than semiconductor devices.
+ICL ANNOUNCEMENTS
+ICL plays the two rival superscalar Sparcs off against each other in its DRS 6000 line
+ICL Plc, which last week unveiled an array of new models in its DRS 6000 Unix line (CI No 2,149) has prototype machines, complete with 66MHz HyperSparcs, at its US development headquarters in Irvine, California and its UK office in Bracknell, Berkshire — the systems are not available until the third quarter.
+ICL claims 782 performance will top 240 TPC-A transactions per second — some 10% more transactions per dollar than the existing four-processor 764 SuperSparc box can offer.
+780 and 480 performance marks are estimated at 170 transactions per second.
+Between the slimline deskside 400 series and the 240 desktop machine comes a new Level 300 series of low-end servers designed in conjunction with ICL parent Fujitsu Ltd.
+Each can accommodate up to 128Mb RAM and 30Gb disk.
+The model 340 uses a standard 40MHz Sparc, the 360 and 370 have single 36MHz and 40MHz SuperSparcs respectively, while the 372 has a pair of 40MHz parts.
+Prices for the 300 series start at £8,700, rising to £45,000 at the top-end — all are available from June.
+Performance is rated at between 40 and 120 transactions per second across the range.
+From May, ICL Unix boxes will come with DRS/NX Server version 7, its implementation of Unix System Laboratories Inc's Unix System V.2 operating system with a choice of Open Look or Motif interfaces.
+DRS/NX 7, which comes pre-bundled with the Series 300 models, can run binary SunSoft Inc Solaris 2.
+X applications unchanged, has a multiprocessing option, and it is compliant with the X/Open Co Ltd Portability Guide release 4.
+HyperSparc DRS 6000 models feature ICL's two processors to a board design
+The new HyperSparc models use boards manufactured by ICL according its CPU 2 — two processors to a board — design.
+CPU2 also features on the existing multiprocessor SuperSparc models 450, 750 and and 752, all of which are upgradable to use the new Cypress Semiconductor Corp HyperSparc chips.
+This doesn't mean that ICL has given up on the Texas Instruments Inc Sparc line, simply that it can now pick and choose from the two superscalar implementations on offer, says Mike Coote.
+Coote, who replaced Andy Roberts as mid-range boss at the beginning of April, says the decision to use HyperSparc was taken only three months ago.
+No further expansion at the desktop level is planned, but a new series of high-end DRS boxes due next year and built around Pyramid Technology Corp's R bus technology could use either processor, depending on which is offering the best price-performance at the time, he says.
+ICL's DRS 6000, 3000 turn into a British export success story
+ICL's mid-range DRS 6000 and DRS 3000 business grew 30% by value and 73% by volume in 1992 compared with the previous year, generating £340 ($511m) of revenue, which (including the applications) amounted to some 20% of ICL's overall business last year.
+Research and development spending was spend was £70m.
+The mid-range unit has 1,250 staff spread across operations in Bracknell and Kidsgrove, in the UK; Irvine, California and Reston, Virginia in the US; Linkping in Sweden and Dublin, Ireland.
+The division has OEM relationships with Fujitsu Ltd, Acer Group and C Itoh & Co which market its kit across the Pacific Rim but it is keen to sign a major US distributor.
+Oracle next up for the CAFS search accelerator treatment
+With Ingres Corp and Informix Software Inc already won over to CAFS Content-Addressable File Store-based database Search Accelerator hardware, ICL says that Oracle Systems Corp has now signed to implement a version of its database for the system, while Sybase Inc is waiting in the wings to follow suit.
+ManageWare is ICL's new middleware management bundle
+ICL's new ManageWare is a bundle of middleware applications designed for client-server implementations.
+ManageWare is available across the DRS 6000 and 3000 Unix ranges, includes a network system access manager, a transaction processing development environment called Dialogue Manager that can integrate multiple  translation services, the Tuxedo transaction processing manager, a PowerManager for managing networks of OfficePower systems, a range of disk and file management systems, a print manager, and also Egshel — an enhanced graphical shell which integrates the windowing Korn shell with ICL's GraphicsPower development tool kit.
+OfficePower is now into its seventh iteration
+As well as its development centre in Irvine, California, ICL has its Computer Consoles Inc acquisition to thank for its OfficePower software, which is now into version 7.
+The new release comes with Windows, Open Look or Motif front-ends, client-server implementations of for popular personal computer packages, offers links to Microsoft Corp's Mail, Lotus Development Corp's cc:Mail and ICL's TeamOffice, X400 mail to UK MHS ‘88 standards and has a new management system.
+ICL's Technology sets out to bring new DRS Unix systems to the mass market with telesales
+Meanwhile ICL's UK, Warrington-based distributor, Technology Plc, will be offering the new DRS 6000 series 300 models as part of its volume  Technical product line, the first time it has handled a Unix box as a commodity item.
+Each 300 model will have a parallel Technicl equivalent in the £10,000 to £50,000 price range.
+They'll be offered in fully-configured arrangements according to customer requirements, with shrink-wrapped software.
+The user-installable systems will be delivered within 48 hours of order.
+Without the usual ICL handholding and consulting, they will come out at around 10% cheaper than ICL's list price.
+Technology will sell the boxes via direct mail, catalogue and telephone sales to end-users and both ICL and non-ICL value-added resellers.
+Technology chairman Derek Lewis expects sales in the hundreds rather than thousands in the first year, but is aiming for between 5% and 10% of the UK Unix market thereafter.
+Lewis denies that there will be conflict with the other Unix systems it offers.
+He says Technology does not sell Sun Microsystems Inc kit to end users, sells Digital Equipment Corp Unix boxes only on an account-by-account basis and describes the Data General Corp, Groupe Bull SA and Hewlett-Packard Co lines it has on its books as subsidiary ranges.
+— William Fellows
+SEQUENT HAS AMBITIONS FOR ITS UNIX CLUSTERS TO MATCH THE FUNCTIONALITY OF DEC's VAXCLUSTER
+Six months on from the launch, Beaverton, Oregon-based Sequent Computer Systems Inc claims it has won 30 customers for its ptx/Clusters high-availability clustering technology, most with several hundred users attached.
+Digital Equipment Corp's tight VAX/VMS clustering model is the benchmark to aim for, according to Sequent's clustering product manager James Fitzgerald: the definition is ‘a shared disk system at normal disk access rates between several autonomous machines that are being centrally controlled’, he says.
+Among Unix companies, Sequent has got the closest towards this model, claims Fitzgerald, IBM Corp being the other main contender.
+NCR Corp with its LifeKeeper product is also making progress.
+Networked distributed computing
+But the main focus has been networked distributed computing, which doesn't provide the same levels of performance or fault-resilience — and it's in this aspect that the Sequent customers are most interested.
+Components of the Sequent system include a true fault-tolerant distributed lock management system as an extension to the operating system, and an integrity manager to check that all the nodes are working.
+The Network Queuing System, which Sequent obtained from the supercomputing world, provides load balancing and dynamic job bidding.
+Software RAID features and volume management — an extension of the Veritas product — are also included.
+Ease of use is also an important element, as most failures are still the result of human error.
+Despite their focus on resilience, a set of Sequent's customers are planning to extend their clusters beyond this and towards transparent data sharing.
+They are asking clusters to pull together their existing key databases rather than implementing a full networked database, a task that is still very hard to manage.
+This movement will be accelerated once Oracle users have made the shift over from Oracle 6 to Oracle7, from where they can extend further towards the Oracle Parallel Server.
+Another boost will come from the availability of the Forte client-server development environment from Oakland, California-based Forte Software Inc, which is currently in beta test, and which enables developers to build an application as a whole, dividing it up later between clients and servers as they wish.
+It will mean that customers won't have to re-write their applications to take advantage of clustering.
+Sequent may also put the stuff up on its forthcoming Microsoft Corp Windows NT-based boxes.
+But there are still holes in the Unix clustering model, claims Fitzgerald, the most glaring being the lack of a high-availability shared coherent file system across the cluster.
+Network File System can provide only ‘weak clustering’, while the Open Software Foundation's Distributed Computing Environment is ‘a very large chunk of code not fully shaken out’, according to Fitzgerald, and has a lot of baggage that doesn't apply to clustering, ‘when you have SQL access right there’.
+Sequent is working on its own implementation, but it won't comment on any release plans.
+SERVIO PREPARES A GEODE OBJECT DEVELOPMENT ENVIRONMENT
+At Object Expo in New York this week, Servio Inc, Alameda, California, will preview an enhanced version of its Gemstone object-oriented database, and introduce Geode, an object-based application development environment.
+Enhancements to Gemstone include improved cache functions, which enable temporary objects to be held in memory rather than writing them to disk; disk clustering, and reduced object identification size.
+Other features include object event alerters and database schema modification functions.
+Geode comes with a library of 480 object classes, including methodology and multimedia data types.
+Both products are planned to be available from the third quarter.
+XEROX's XSOFT ADDS AN X WINDOW VERSION OF ROOMS PROJECT PRODUCT
+Xerox Corp's XSoft division has introduced Rooms for X-Windows, a new Unix-based version of its project-oriented multiple desktop Rooms for Windows utility software.
+XSoft is looking for high-volume distribution and has cut deals with Qualix Inc and Sun Microsystems Inc to provide the software free of charge for an initial 30-day trial basis.
+Documentation and access to XSoft's technical support can be had for a $40 registration fee.
+Rooms will operate with both Open Look and Motif, XSoft says.
+INTERLEAF EXTENDS WORLDVIEW DOCUMENT VIEWER WITH IMPROVED STANDARDISED MARK-UP LANGUAGE SUPPORT
+Waltham, Massachusetts-based Interleaf Inc has extended the capabilities of its WorldView document viewing and searching software.
+WorldView's brief is to ensure that a user can read a document irrespective of the software that created it.
+WorldView 2 adds improved support for the Standardised Generalised Mark-up Language, SMGL: the software has always been able to import SMGL documents but now it can export them too, and make use of the plethora of information that SMGL buries in a document.
+One manifestation of this is the packages ability to search for headings with certain tags and attributes.
+The package also has improved ability to construct hypertext links, so that readers can jump from one part of a document to a linked part with a simple click.
+Other significant additions are a new set of application programming interfaces and a command line interface so that WorldView can be slotted into corporate document-handling regimes and lastly, the ability to read Kanji documents.
+Remaining with the SMGL theme, the company also announced a new version of what was called Interleaf 5 SMGL, but in its new incarnation has been dubbed SGML Express.
+SGML documents are extremely cumbersome to create — initially the authoring software has to be primed with a Document Type Definition, after which the user can create particular SMGL documents that conform to that definition.
+SGML Express handles both ends of the operation and Interleaf says that Document Type Definitions can be installed without the programming normally required.
+It also includes tools which allow the user to examine a Document Type Definition structure graphically, without detailed knowledge of SMGL syntax — in short, the company claims that it combines the cumbersome power of SMGL with the simplicity more commonly associated with a WYSIWYG word processor.
+HONEYWELL EXPLAINS HOW APPLE's QUADRA WILL TAKE TO THE SKIES
+The pilot of the future will fly by the flick of her Macintosh mouse — or at least she will gain access to vital information she needs by that means, following that agreement between Apple Computer Inc and Honeywell Inc's Minneapolis-based Honeywell Air Transport Systems Division.
+Honeywell may have sold its computer business, but its continuing operations, notably the process control systems side of the business, are is never very far from the computer.
+Under the OEM agreement (CI No 2,137), Macintosh technology will be placed in the cockpit to drive information management systems for the commercial airline market.
+Honeywell, which reckons that it is now the industry leader in design and development of integrated avionics systems — anyone that disagrees, don't tell us, tell them — will manufacture an Electronic Library System incorporating a ruggedised avionics version of the new Macintosh Quadra 800.
+The information management system is designed to provide airline personnel — cabin attendants and ground maintenance crew as well as flight crew — with timely access to all the information necessary to operate and maintain an aircraft — excluding the actual aircraft control.
+The planned electronic library will include functions such as hypertext document retrieval of aircraft flight manuals, operational manuals, navigation charts and maintenance manuals, and the flying professionals will be able to integrate and manipulate graphics, audio and video elements, and use commercially available off-the-shelf software, one aim being to help to incorporate the aircraft more fully into the airline's overall information management system.
+Another node on the net
+‘In effect, the aeroplane will become another node on the network,’ Honeywell observes.
+The agreement is also seen as a landmark in that it is said to be the first time that Apple has licensed Macintosh technology under such an OEM agreement, terms of which were not disclosed.
+Apple, which has agreements with Sony Corp that could lead to similar developments in the consumer electronics market, indicates that it is keen to conclude other such agreements.
+The Quadra 800 that Honeywell will use has a 33MHz Motorola Inc 68040 processor, with integrated high-speed networking and accelerated video architecture.
+Honeywell says that the agreement is a long term one, and that it also plans to use Apple's next generation Macintosh — the one that will use the PowerPC RISC processor, in future generations of the Electronic Library System.
+OBJECTIVE SOFTWARE ENHANCES SPREADBASE CLIENT-SERVER ANALYSIS TOOL, TEAMS WITH BRIO TECHNOLOGY
+When Objective Software Inc launched its new version of business analysis tool, SpreadBase, for client-server computing on Monday, it also provided details of its joint technology agreement with Brio Technology Inc.
+SpreadBase is described as the first category-based modelling tool.
+It enables users to create and maintain dynamic data models that are defined and manipulated at the highest level, by category.
+These ‘categories’ control the behaviour of individual data elements.
+As a result, users are free to focus on high-level analysis, and don't need to waste time on details, such as row or column management, usually necessary when manipulating a spreadsheet.
+SpreadBase provides users with a means of analysing structured data — as client-server environments have become more widespread, users have begun accessing corporate data on relational database servers, using them as decision support tools.
+Such information is organised in records as structured data.
+SpreadBase enables users to work with the records in a more flexible way than with traditional or ‘multi-dimensional’ spreadsheets.
+The new version has seen capacity more than triple, from 4,000 record range to 12,000 plus.
+And it now also supports Apple Computer Inc's Data Access Manager as well as providing future compatibility and support for AppleScript.
+By working together, Objective Software and Brio intend to develop complementary data access and data analysis technologies, so that users can undertake business modelling in a client-server environment.
+To date, they have integrated SpreadBase with Brio's DataPrism — a graphical ad hoc data access query tool for the Macintosh, which enables non-technical users to access corporate databases without needing programming skills.
+Users with no knowledge of SQL can extract information from local and remote relational databases via a point-and-click interface.
+DataPrism is able to understand the relationships between tables, which means that it is easy to build queries.
+By bundling the two products together, the two companies have provided SpreadBase 1.1 with direct access to relational databases via DataPrism.
+Access to server data managers
+Furthermore, DataPrism provides SpreadBase with full access to server data managers via all the major application programming interfaces.
+Data comes directly into SpreadBase via DataPrism — no translation is necessary and there is no loss of metadata information on import.
+Because SpreadBase can access DataPrism queries and documents and vice versa directly, it is possible to transfer data from server database management systems as Structured Data Objects.
+These objects don't just pass data values, but field names and types as well.
+If the structure of the data is maintained, it can easily be merged with existing models.
+But if data is imported to a spreadsheet, the imported data's structure must be stripped away, and this severs the intelligent data connection between server and client.
+Both Objective Software and Brio will market and sell SpreadBase 1.1 and DataPrism 2.1 bundled together.
+The product will be available as of May 1993 at an introductory price of $700.
+They will also provide training and consulting services via their support and application engineering staff.
+While DataPrism is currently available on both the Macintosh and Windows, a SpreadBase version for Windows is currently being developed and will ship in late 1993.
+Redwood City, California-based Objective Software was founded in 1988 by Richard Melmon, Stanley Roach, Michael Korns, and Kyle Mashima with the aim of providing advanced business data analysis tools for client-server computing.
+Mountain View, California-based Brio Technology Inc was set up in 1984, and develops cross-system software for desktop data access in a client-server environment.
+Brio's integrated family of products are designed to enable non-technical end-users to query, analyse and update corporate databases from Macintosh and Windows computers.
+FAR FROM BEING A SLOW-GROWTH BUSINESS, HARDWARE MAINTENANCE IS ACTUALLY A MARKET IN DECLINE — IDC
+Unless hardware maintenance providers broaden the range of services they offer, position their products correctly and market them right, they will not succeed in today's hardware market, which is dropping in value more rapidly than previously predicted.
+These are the findings of market research group International Data Corp in a report entitled ‘The Hardware Maintenance and Customer Service Market 1992 — Strategies in a Time of Crisis’.
+After questioning 600 non-information technology senior executives and 90 information technology ones in the UK, researcher Graham Browne concluded that hardware maintenance is not the low growth service that people previously thought it was.
+It is, rather, a mature market that is in decline.
+Browne reckons that the value of the UK hardware market will fall 28% in real terms by 1994, which means that vendors that have traditionally relied on maintenance as a key cash generator ‘will be forced to act rapidly to avoid crisis’.
+As suppliers base the price of the maintenance services they offer on the retail value of their kit — generally between 8% and 10% of costs — this trend will have a negative impact on suppliers' profits.
+And customers will, in future, spend a smaller percentage of their budget on such a service.
+Other factors contributing to the situation include first, the increased reliability of equipment on the market.
+Second, the commoditisation of hardware, which means that maintenance is no longer the critical service it once was — if something goes wrong with a relatively cheap personal computer, for example, people have the option to simply ‘bung it in the bin’ without wasting too much money.
+Third, the market has become more competitive.
+In the past, manufacturers had a captive market.
+So they often set up subsidiaries, which earned maintenance revenues on the back of mainstream hardware sales.
+Since the advent of third party service companies, however, price competitiveness has become an important issue.
+Especially as third parties can generally deal equally well with a range of vendors' machines rather than just specialising in one type.
+Become very efficient
+Browne reckons that suppliers can deal with this problem in several ways.
+First, they could become very efficient by cutting  unnecessary costs, although they must maintain quality.
+Browne cites both Granada Computer Services Ltd and Sun Microsystems Inc as good examples of this policy.
+Sun, he said, looks at the level of maintenance required and sends the relevant person for the job — if a high level of expertise is needed to deal with a particular problem, then a highly qualified engineer will see to it.
+But if the problem consists of nothing more than needing to replace a non-key component, Sun will simply send a courier to the relevant site.
+Or outsource the work if someone else could do it more efficiently.
+Second, vendors could concentrate on clearly defined niche markets.
+And third, they could move into more broadly-based, higher value services, like IBM Corp and Digital Equipment Corp.
+Browne says that what users want is ‘real customer service that supports their business needs’.
+He defines customer services as hardware maintenance, including third party and multivendor maintenance; systems software and utility support; environmental services, such as the design, construction and installation of computer rooms; disaster recovery; operations management support services; and consultancy and training related to the above.
+But he says, ‘vendors can no longer measure their credibility as a service supplier by the number of services they offer to the market’.
+Rather they must ‘adopt a genuinely market-led approach to the services business’.
+And he believes that the success of two of the fastest-growing markets, network management and disaster recovery, is because ‘they meet clearly-defined business needs’.
+Demand for network management is driven by a customer's need to control the escalating cost and complexity of networked systems, he says, while the market for disaster recovery is growing as a result of both legislation and successful promotion of the service by vendors.
+— Catherine Everett
+GSI OF PARIS FEELS THE CHILL WINDS BLOWING THROUGH THE FRENCH ECONOMY
+Paris-based software and computer services company Generale de Service Informatique SA, or GSI, as it is better known, reported 1992 revenues up 8% to the equivalent of $460m, a rate of increase only half of that registered that year.
+Operating profit was down by 9% to $26.6m and net profit after taxes was down slightly — off 1.8% at $16.4m.
+Net profit after writing off the goodwill associated with acquisitions dropped further, by 16.9% to $15.1m.
+On a happier note, Jean Brousse, director of marketing, said that the company's capital fund grew in 1992 to $41m from $25m at the end of 1991.
+‘I think we will do something with that money, but I don't know what yet,’ Brousse said, adding that GSI ‘does not have a strategy that says ‘we should acquire’.’
+‘We want to grow internally first.
+If we make an acquisition, it's just to tune and complement our business,’ he said.
+The company was 1980s a management buyout from what is now Alcatel Alsthom SA.
+UK GOVERNMENT PREPARES TO SELL OFF ITS INTERNAL NETWORK
+The UK government is preparing to make a decision on the privatisation of its internal speech telephony network, the Government Telecommunications Network (CI No 2,133).
+Talks are continuing with British Telecommunications Plc, Mercury Communications Ltd, Sprint International Inc and Australia's Overseas Telecommunications Corp, all of which are expected to make formal bids for the contract.
+The network links the majority of government sites, from defence installations to local tax offices.
+It connects over 250,000 users at 1,000 sites across the UK, and handles over 66m calls per year.
+Up to now, it has been run by the government's centre for information systems, the Central Computer & Telecommunications Agency.
+The privatisation will affect only the long-distance element of the network, which is run over lines leased from both British Telecom and Mercury.
+The Agency will retain management of the metropolitan service, which handles service ‘to the handset’ in London and other major cities.
+According to Roddy McKee, in charge of telecommunications policy in the Agency's Telecommunications Division, the reason for the privatisation is that as UK telecommunications charges have dropped, the Agency is no longer able to run the network economically.
+He said that the long-distance part of the network has been costing the government around £11m per year to run: ‘It has been found by a continued process of review that it is no longer cost-effective for the government to continue running it itself,’ he said.
+A British Telecom spokesman said the company hopes to complete preliminary talks with the government shortly.
+According to McKee, the government expects to award a contract by October, with takeover planned for next April.
+SHARE & BOND ISSUES
+Computer Marketplace Inc, Corona, California seller and  lessor of IBM computers, has filed with the US Securities & Exchange Commission to go public with an initial offer of up to 1.375m units at $4 each.
+The units consist of one common share and two warrants, exercisable to buy one share at $4.75 and $5.50 respectively.
+Net proceeds will be used to buy computer equipment, repay debt and for working capital; underwriter is Biltmore Securities Inc.
+Sprint Corp, Kansas City, Missouri is calling for redemption its zero coupon exchangeable subordinated debentures due 2006 on May 13.
+The debentures will be redeemed at $367.84 per $1,000 principal amount — about $210m in total, which includes the original issue discount accrued from February 13 to the redemption date.
+The debentures were issued on  February 13 1991.
+Prior to the close of business on the redemption date, the debentures can be exchanged for common shares of Southern New England Telecommunications Corp at a rate of 8.358 shares for each $1,000 in principal, subject to Sprint's right to pay cash equal to a five-day average of the closing price of Southern New England's common shares.
+IBM FINANCINGS
+International Business Machines Corp and IBM Credit Corp appear to be seeking $4,600m of revolving credit in the international syndicated loan market, Reuter reports from New York; the loans are said to be being arranged by Credit Suisse and syndicated to a group of relationship banks, each of which has been asked to commit around $500m.
+The deal is said to be divided into two portions, with $3,000m for IBM itself and $1,600m for IBM Credit Corp.
+COMPANY RESULTS
+Cam Data Systems Inc has reported first quarter net profit down 50% at $100,378, on turnover that rose 27.6% to $2.6m.
+Net per share fell 58.3% to $0.05.
+Datametrics Corp saw fourth quarter net up 74.6% at $475,000 on turnover down 2.5% at $6.1m; net profit for the year was up 98.1% at $1.3m on turnover that rose 6.4% to $22.4m.
+Net per share rose 60% to $0.08 in the quarter, 83.3% to $0.22 in the year.
+Data Transmission Network Inc saw third quarter net up 16.7% at $301,000, on turnover up 26.8% at $6.7m; net profit for the nine months was up 7.3% at $1m, on turnover that rose 24.2% to $19.4m.
+Net earnings per share rose 12.5% to $0.09 in the quarter, and 7.1% to $0.30 in the nine months.
+Dateq Information Network Inc has turned in third quarter net losses of $171,000 against profits of $46,000 last time, after $18,000 tax credits last time, on turnover up 25.9% at $17.2m; net losses for the nine months stood at $348,000 against profits of $512,000, after $196,000 tax credits last time, on turnover that rose 11.3% to $47.6m.
+Dimark saw third quarter net profits up 229.4% at $510,033 on sales up 47.1% at $13.9m; nine month net rose 79.3% to $1.0m on sales up 38.0% at $35.2m.
+Net per share rose 216.7% to $0.19 in the quarter, 76.2% to $0.37 in the nine months.
+Dynascan Corp has turned in third quarter net profits up 119.7% at $312,000, on turnover down 13.6% at $33.1m; net losses for the nine months stood at $3.1m up from losses of $2.3m last time, on turnover that fell by 17.5% to $82.9m.
+Net earnings per share rose by 150% to $0.05 in the quarter.
+Electronic Technology Group Inc has reported first quarter net losses of $448,616 compared to $765,431 last time on turnover that rose 4.6% to $3.7m.
+Intermetrics Inc saw third quarter net profits down 44.5% at $336,000 on sales down 8.6% at $14.3m; nine month net fell 23.1% to $1.3m on sales down 2.6% at $44.2m.
+Net per share fell 43.75% to $0.09 in the quarter, 23.9% to $0.35 in the nine months.
+Mobile Telecommunications Technology Inc has turned in third quarter net losses of $171,859 down from losses of $3.7m last time, on turnover that rose by 29.4% at $29.5m; net losses for the nine months stood at $4.2m down from losses of $6.1m last time, on turnover that rose by 27.6% to $83.8m.
+Paging Network Inc has turned in third quarter net losses of $2.8m down from losses of $2.4m last time, on turnover up 47% at $58.5m; net losses for the nine months stood at $17.4m, after $14.9m extraordinary charges, up from losses of $9.7m last time, on turnover that rose 45.1% to $158.6m.
+PDA Engineering has reported second quarter net profits up 37.8% at $1.2m on turnover up 13.2% at $11.2m; mid-term net rose 45.7% to $1.7m on turnover up 11.0% at $20.4m.
+Net per share rose 27.8% to $0.23 in the quarter, 36% to $0.34 in the half.
+Reflectone Inc saw third quarter net profits up 61.1% at $846,000, on turnover down 0.8% at $10.9m; net profit for the nine months was up 159.9% at $2.1m, on turnover that rose 5.9% to $37.1m.
+Net earnings per share rose 93.8% to $0.31 in the quarter, and 428.6% to $0.74 in the nine months.
+Superior Teletec Inc has reported second quarter net profits up 180% at $2.4m, on turnover up 9.6% at $35.2m; mid-term net rose 129.4% to $4m, on turnover that rose 4.5% at $71.1m.
+Net per share rose 180% to $0.28 in the quarter, 130% to $0.46 in the half.
+Comparisons are made with restated 1991 figures to reflect discontinued operations.
+Systems & Computer Technology Inc has reported fourth quarter net profits down 40.8% at $1m, after $180,000 tax credits this time and $638,000 last time, on turnover up 40.2% at $27.4m; net losses for the year to September 30 amounted to $2.3m against profits of $4.7m last time, after $1.7m tax credits last time, on turnover that rose 39% to $90.9m.
+Net per share fell 42.9% to $0.14 in the quarter.
+Comparisons are with restated figures.
+Technical Communications Corp has turned in fourth quarter net profits of $175,624, down 85.0%, on turnover down 33.2% at $3.4m; net profit for the year was down 19.2% at $1.3m on turnover that rose 16.0% to $14.5m.
+Net earnings per share fell 85.3% to $0.14 in the quarter, 19.7% to $1.27 in the year.
+Tekelek Inc saw third quarter net losses of $185,000 against profits of $1.3m last time, on turnover that rose 23.4% at $16.3m; net profit for the nine months was down 88% at $503,000, on turnover that rose 12.6% to $45.6m.
+Net earnings per share fell by 87.6% to $0.12 in the nine months.
+Unisys Corp has reported first quarter net profits up 439% at $260.6m after a gain of $230.2m from the net effect of two accounting changes, and a charge of $26.4m from the settlement with Honeywell Inc on Sperry Aerospace, on turnover that fell 5.1% at $1,907m; net earnings per share rose 837% to $1.06.
+US Cellular Corp saw third quarter net losses of $6m up from losses of $4.4m last time, on turnover up 66.5% at $42.2m; net losses for the nine months stood at $1.7m down from losses of $26.2m last time, after $14.9m gains from the sale of cellular interests this time and $10.3m tax charges last time, on turnover that rose by 72.2% to $109.7m.
+Comparisons are made with restated 1991 figures.
+IBM CASH PROBLEMS
+There have been concerns for some time that IBM Corp was fast running out of cash — the UK subsidiary was reportedly ordered to factor its receivables by its parent at the end of last year after it ran out of cash for its operations, hardly a cheap way of borrowing for a blue chip company, and the Reuter report that it and IBM Credit Corp are seeking $4,600m of revolving credit in the international syndicated loan market (see page seven), seems to confirm it; at least one source told the news wire that IBM is trying to keep the arrangement very quiet, presumably to avoid generating more alarm than there already is about progress of its business.
+IBM FIRST QUARTER FIGURES DUE
+Meantime IBM Corp's first quarter figures are due today and analysts are generally predicting an operating loss of about 50 cents a share on a decline in turnover of 10% or more — with a swingeing 20% or more decline in mainframe business: a year ago, IBM reported net of $1.12 a share before an accounting gain.
+UNISYS COMMENT
+Commenting on its first quarter figures (see page seven), Unisys Corp says that, as it expected, continued revenue growth in the US commercial information systems market was offset by continued market weakness in Europe and Japan and unfavourable currency translations.
+‘PENTIUM DAY’ NOT ALL ABOUT PCs
+NCR Corp, Sequent Computer Systems Inc and Unisys Corp are all planning to see that May 17 —‘Pentium Day’— is not totally dominated by the personal computer end of the business: like just about every other Intel Corp customer, these companies are bursting to talk about their high-end Pentium systems, but have been forcibly gagged by Intel from doing so: NCR was luckier than most in that it got a ten minute portion of the huge Intel presentation at Cebit in Hannover last month devoted to its eight-processor Pentium monster, but with the model number carefully removed.
+MOTOROLA EXPANSION
+Motorola Inc is expanding on both sides of the Pacific: it is now fitting out its built but so far unused chip plant in Chandler, Arizona and will hire 700 people to staff it, and it will build a design centre in Sendai, northern Japan, to strengthen its design of chips in Japan; Nippon Motorola Ltd said it will invest $44.5m in the centre, due to be finished around 1995, and most of the products designed in the centre will be sold in the domestic Japanese market.
+PLANS TO PREVENT EAVESDROPPING ON US GOVERNMENT
+President Clinton last week announced a plan to add a new Clipper Chip in every government phone and computer line to prevent eavesdropping: the chip was developed by the US National Institute for Standards and Technology, and is expected to be used by commercial and private users as well; to assure privacy, each chip containing the encryption devices would be assigned two unique keys that will be needed to decode messages; according to the New York Times, they will be fabricated by Micotronx Inc, Torrance, California and VLSI Technology Inc, San Jose, and AT&T Co says it will incorporate the chip in its secure communications product line.
+FUJITSU SEEKS WAYS TO CUT COSTS
+Fujitsu Ltd is having to cast around feverishly for ways to cut its costs, and says it will scale back its planned development projects on semiconductors to cut costs for new production facilities: ‘We will more carefully choose which development projects to work on so that we will sell only profitable products,’ a spokesman told  Reuters in Tokyo, adding that the effect would be to trim the number of different chip products in its line by some 20%.
+NOKIA SIGN AGREEMENT WITH UKRANIAN MOBILE COMMUNICATIONS
+Nokia Oy's Nokia Telecommunications says it has signed an agreement with Ukrainian Mobile Communications for the supply of switching and base station equipment for the Ukrainian NMT 450 cellular mobile telephone network: the network is to be launched commercially in Kiev in the next few weeks and will become available in two other major cities by the end of this year; Ukrainian Mobile Communications is jointly owned by Ukrainian local operators, Deutsche Bundespost Telekom, Koninklijke PTT Telecom Nederland NV and Telecom Denmark Ltd.
+RADIO SHACK CHAIR RESIGNS
+Bernard Appel, chairman of Tandy Corp's Radio Shack chain, has resigned his post and departs in June.
+JAPANESE CUSTOMER SUPPORT
+The Customer Support Consortium coalition of 23 technology companies, has formed a chapter in Japan.
+SEMICONDUCTOR EXPLORATION MISSION
+A three-day trade mission of 16 US semiconductor companies arranged by the US Department of Commerce opened in Tokyo yesterday: 60 representatives from the firms, ranging from engineers to chief executives, will hold 150 face-to-face meetings with 27 Japanese chip users to explore new business opportunities.
+LSI LOGIC AND TV/COM TO DEVLOP SATELLITE DIGITAL COMPRESSION COMPONENTS
+LSI Logic Corp has teamed up with TV/COM International Inc, San Diego supplier of equipment used by cable companies, satellite operators and business television users, for the joint development of digital compression components for the satellite, cable and direct broadcast satellite television industries: the products will be designed to facilitate the transition from analogue to digital television, and they will be based on the Motion Picture Experts Group-2 standard, which is currently undergoing the formal standardisation procedure by a committee of the International Standards Organisation; TV/COM International is the company that was formerly called Oak Communications.
+SUMISHO TO DISTRIBUTE WHITE CROSS DATABASE SERVERS
+Sumisho Electronics Corp is is to distribute the parallel database servers from Bracknell, Berkshire-based White Cross Systems Ltd in Japan: three orders worth £750,000 have been placed for the 9010 Deskside Server — two for customers, one for Sumisho's own Tokyo office.
+ERICSSON AND ITALTEL GET STET-HELLAS CONTRACT
+L M Ericsson Telefon AB and Italtel SpA say that they have been awarded a contract by Stet-Hellas SA, one of Greece's two mobile telephone operators, for Groupe Speciale Mobile digital cellular phone equipment worth $62.5m: the order includes exchanges, control systems, and radio base stations.
+INTERDIGITAL TECHNOLOGY SUE
+King of Prussia, Pennsylvania-based InterDigital Technology Corp is suing Qulacomm Inc, Oki Electric Industry Co and Oki America Inc alleging infringement of a US patent covering the hand-off of a telephone call from one cell to another, using a Code Division Multiple Access digital handset.
+SUBSCRIBERS TO CELLNET REACHES 100,000
+Cellnet Mobile Communications Ltd claims that it now has 100,000 subscribers for its low-use mobile service, Lifetime; the cellular company expects to double this number over the next nine months.
+CORTEX AND HP SIGN MARKETING AND DEVELOPMENT AGREEMENT
+Cortex Corp and Hewlett-Packard Co have signed a joint marketing and development pact that will see Cortex' CorVision application development tool, previously available only on VAXes, moved to its first Unix environment HP-UX on an HP 9000 Series 800 server: CorVision will be encapsulated so it runs with HP SoftBench Framework; availability is expected this year.
+DEC OPENS ROMANIA SUBSIDIARY
+Digital Equipment Corp is the first US computer major to open a wholly owned subsidiary in Romania, its seventh in the old Eastern Bloc.
+MENTOR GRAPHICS AND TOSHIBA TEAM
+Wilsonville, Oregon-based Mentor Graphics Inc has teamed with Toshiba Corp to develop a multi-chip module design kit for Toshiba's semi-custom multi-chip module technology: the kits provide the software tools, such as design software, technology libraries, vendor-specific software and documentation, for specification and verification of the physical implementation of a multi-chip module based on the target manufacturing process.
+OLIVETTI TO SELL NETFRAME SUPERSERVERS IN EUROPE
+Ing C Olivetti & Co SpA says it will sell NetFrame Systems Inc's multiprocessing parallel superservers (CI No 2,122) in Europe, badged as the Olivetti NetFrame MPSA series: the deal extends its existing arrangement for the Italian to market NetFrame's server products.
+ENCOM LAUNCH LOCAL TELEPHONE SERVICE
+Encom Cable TV & Telecommunications Ltd has launched a local telephone service in Redbridge, Barking and Dagenham, Essex: the service is offered over the company's fibre trunk cable, which links to Mercury Communications Ltd's national network; the company claims that calls are 10% to 15% cheaper that British Telecommunications Plc's.
+US DATES
+Diaries out for all the US conferences and shows scheduled for the spring and summer: Object Expo, New York Hilton, April 19 to 23; Win-Dev, Boston University Corporate Education Center, April 26 to 30; DB/Expo 93, Moscone Center, San Francisco, May 3 to 7; Unix Reseller Show, Dallas Convention Center, May 4 to 6; C++ in Industry, Boston University Corporate Development Center, May 24 to 26; Comdex Spring/Windows World, Atlanta Convention Center, May 24 to 28; NeXTWorld Expo, Moscone Center, San Francisco, May 25 to 27; DECUS, Georgia World Congress Center, June 5 to 11; Xhibition, San Jose Convention Center, June 7 to 11; UniForum's Mainframe Downsizing in the Financial Industry, Hyatt Regency Chicago, June 8 to 10, Grand Hyatt New York, June 15 to 17; Client-Server World and Database World, Hynes Convention Center, Boston, June 14 to 16; PC Expo, Javits Center, New York, June 29 to July 1; SCO Forum, University of California, Santa Cruz, August 14 to 19; and Interex, Moscone Center, San Francisco, September 19 to 23.
+HUNTER MYSTERY
+It's hard to figure out what exactly is happening with Hunter Systems Inc, Palo Alto, California, since nobody's returning phone calls: we did manage to find out that its venture  capitalist Technology Funding Venture Partners IV in San Mateo, California bought back Hunter's debt at that auction staged last week (CI No 2,147)— presumably no money really changed hands, and it now owns all of Hunter — but is the company still in business?
+UNISYS CLAIMS 50% OF OPEN SYSTEMS TRANSACTION PROCESSING
+Unisys Corp claims to have won some 50% of the world's open systems transaction processing business, but still only has around 22 Tuxedo customers on its books, including the Union Bank of Switzerland, Eurodollar car rental, La Namur Assurance Co in Belgium and Koninklijke PTT Telecom Nederland NV; NCR Corp, it estimates, has some 10 to 15 customers for Top End monitor, while Transarc Corp's rival Encina has only just started shipping.
+VERITAS FILE SYSTEM TO BE OFFERED WITH HP-UX
+Hewlett-Packard Co has licensed the Veritas File System, intending to offer it with HP-UX: Veritas Inc is making the file system, VxFS, compatible with the Distributed File System in the Open Software Foundation's Distributed Computing Environment: it is also planning to deliver a multiprocessing version of VxFS; Hewlett will be using Veritas as both its base file system and in Distributed Computing Environments, and it says that it will have the multiprocessing version available in early 1994.
+HYPERHELP 3.0 AT BETA TEST STAGE
+Bridgefield, Connecticut-based Bristol Technology Inc has its $5,000 HyperHelp 3.0 in beta test and expects to make it commercially available in May: it adds character-based help for terminals, secondary windows, segmented bit maps, history path and support for Windows 3.1 help; Bristol's SBML Easy!, the HyperHelp Standard Generalised Markup Language, is also going into beta test, with the general release expected in June.
+PRICE OF KUWAIT CITY TELECOM TOWER ESCALATES
+The Kuwaiti Ministry of Public Works says the cost of completing the telecommunications tower in Kuwait City has risen to $175m from $110m: the increase is due mainly to damage done by the Iraqis during their occupation of the country, as well as changes in the project's specifications and a rise in the cost of raw materials and labour.
+MORRIS KNUDSEN RECEIVE IBM CONTRACT
+Boise, Idaho-based Morris Knudsen Corp says it has received a contract from IBM Corp to assume responsibility for much of the distribution function at the distribution centre in Mechanicsburg, Pennsylvania; IBM Mechanicsburg is the central distribution centre for all parts that IBM uses in maintenance.
+PIXEL SEMICONDUCTOR INTRODUCE CL-PX0072 VIDEO WINDOW GENERATOR I
+The Pixel Semiconductor Inc unit of Cirrus Logic Inc has introduced the CL-PX0072 Video Window Generator I, a Microsoft Corp Video for Windows-compatible chip that features HiQ8 proprietary colour enhancement technology to provide high-quality picture resolutions; samples from Cirrus Logic cost $32 in quantities of 10,000 or more with volume planned for the current quarter.
+DEC SIGNS LECHMERE
+Digital Equipment Corp has signed Lechmere Inc as the first independent direct retailer for its line of printers for MS-DOS and the Mac.
+QUANTUM CORP OPENS ASIA-PACIFIC REGIONAL HQ
+Disk drive manufacturer Quantum Corp, Milpitas has opened Asia-Pacific regional sales and marketing headquarters in Singapore; it also signed a deal with FIC, a manufacturer and distributor of subsystems in China, to distribute Quantum products there; the Asia-Pacific region accounted for $204m or 19% of its worldwide sales in 1992.
+VIACOM AGREES TO ACQUIRE ICOM SIMULATIONS
+Cable television operator Viacom International Inc, New York says it has agreed to acquire privately-held software development company Icom Simulations Inc of Chicago, which develops and publishes software for a variety of systems, including CD-ROM and cartridge-based video games; terms were not given.
+AVIS TO UTILISE MERCURY LOCALCALL 0645 SERVICE
+Avis Rent A Car Limited is to use Mercury Communications Ltd's LocalCall 0645 telephone service in its central reservations centre, which handles national and international bookings: using the service, customers will be able to ring the centre to make a reservation and calls will be charged at the local rate.
+SINGAPORE TELECOM BUYS SHARES IN GLOBE TELECOM
+Singapore Telecom Ltd has bought 46.1m shares, worth around $8.3m, in Globe Telecom Ltd of Manila: it is also expected to provide the technology for Globe's planned move into the cellular phone business.
+BID TO PROVIDE CHEAP TELEPHONE SERVICE TO MARINE USERS
+A joint venture between the American Mobile Satellite Corp and Cruisephone Inc is bidding to provide cheap telephone service to marine users: using American Mobile's 70-foot satellite, to go up next year, the companies say they will be able to provide service at around half the price of Intelsat.
+SUN APPEARANCE
+Sun Microsystems Inc hopes to get one of its workstations on BBC1's Tomorrow's World science television programme in the UK tomorrow: Oklahoma State University's Dr Marvin Stone has developed a hand-held device dubbed ‘the thumper’ which can measure the ripeness of a watermelon by delivering a blow to its skin and Sparcstations can put up a colour map indicating the ripeness of a field of watermelons from data downloaded to it from the thumper.
+TAIPEI TECO TO USE NEC TECHNOLOGY
+Taipei Teco Electric & Machinery Co, Taiwan, has acquired NEC Corp technology to make satellite parts.
+PROMOTIONAL PROBLEMS
+The promotions business is going through a rocky time, and the Hoover jinx has now hit the Coca Cola Co in the UK, the Guardian reports: customer services at the company's British headquarters are besieged with callers believing they have won Sega Enterprises Ltd games machines because one batch of bottles appears to make every purchaser a winner; any bottle cap with the letter M, G or B printed on it wins a Sega prize, but the problem batch have all three letters inside the cap as part of a code to identify consignments, and the company is having to spend thousands of pounds on advertising to make it quite clear that its only caps with only one of the letters that win, and that all three are no good.

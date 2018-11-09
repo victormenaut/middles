@@ -1,0 +1,78 @@
+
+
+Right.
+Okay.
+Not long before the end of term now, pooh  looking forward to er, going home to get some real food inside you I dare say, as opposed to the gruel you've been getting in hall.
+Right.
+Okay let's just er pick up from where we er left off last week.
+Cast your minds back, last week we were looking at the relationship between price elasticity of demand and marginal revenue, and what that relationship could tell us about er prices and total revenue in an industry.
+If you remember I used the example of agriculture, right, where it is generally observed that agricultural products have a price inelastic demand, okay.
+So that any changes in output.. right.. lead  forget that diagram it doesn't really show what I am about to say, but er when we have a price inelastic demand.. changes in output.. lead to changes in price, but the changes in output are overcompensated changes in price, so .
+let's just do the diagram like that.
+Okay.
+In that  sorry, in agriculture when there was a good harvest, prices would fall more than proportionately to the change in quantity.
+As a result total revenues would be lower in the industry in years of good harvest, and when there is a very poor harvest prices rocket through the roof because of the inelastic demand and therefore the change in price is much greater than the change in quantity er.. consumed on on the market.
+Right and that was  the result we generally observe in agriculture in that, for example, if you have ever been down to er the West the West of England where there is a number of apple growers you will find that when there is a very big harvest, right, apples just left to rot on trees, right, simply because it is not worth farmers harvesting er those apples because they won't get er price to cover their average vanable costs.
+Right.
+Prices are so low in the market because there is such a bumper crop that it is simply not worth them harvesting, as a result it is rational for them er just to leave the apples um, pears and what have you on, on the trees.
+Right.
+However, in a very poor harvest year, right, prices rise very dramatically and as a result total income of the industry ri rises.
+However, as I said before erm if you are the farmer or the grower, the apple grower whose crop has been completely decimated you won't be able to er benefit from the very high, high prices if you have got very little output right, so your as an individual your income may be very low, right, in bad years, right, but on average when we look at the industry as a whole, industry incomes will be very very very large.
+Right.
+. What I want to come on to now is just to talk about nonlinearity, and still with reference to demand elasticities.
+So far we have just been using linear demand curves, with a linear demand curve the slope is constant, however, elasticity varies everywhere along its length.
+Now with a nonlinear demand curve, right, that same relationship doesn't hold.
+With a nonlinear demand curve it is the slope that changes along the curve's length, but the elasticity in some special cases, right, can remain constant.
+Right.
+Now I just want to look at a simple class of demand function, right, which we could write, if I can get a pen that works  we write the demand function as P equals A over Q to the beta.
+Right.
+Now this is a special class of nonlinear demand curve right because this implies constant elastic constant elasticity  alright.
+Now to prove that result we just note again the elasticity formula D Q D P so if we differentiate that expression on the demand curve we'll have  we'll have D P D Q Okay, and that equals .
+minus beta A Q to the minus beta minus one.
+Right simply because we can rewrite this top expression as AQ to the minus beta.
+Right so if we differentiate our demand function  we get that alright, nothing that for our elasticity we want one over D P D Q  okay, so our elasticity you could write as one over minus beta A Q to the minus beta plus one  right, times our price quantity ratio which if we now just substitute in the price, so that we have got A Q to the minus beta, right over Q , right, that equals  A Q to the minus beta minus one over minus beta A Q minus beta to the minus one right which cancels to give us minus one over beta.
+Right, so our elasticity in this function, right, is simply minus one over beta, right.
+Now if we note that beta is a constant then that implies that our elasticity is going to be a constant.
+Right, so it doesn't matter where we are on this nonlinear demand curve, right, elasticity will always be the same.
+and in empirical sorry and in in empirical work we tend to use these nonlinear demand functions simply because they have this nice property that they have constant elasticity, and it makes subsequent calculations considerably easier, and you may think in actual fact that linear demand curves are quite restrictive.
+We may not expect consumer behaviour, right, to be the same at all prices and quantities basically but er, nevertheless, you will probably see more linear demand curves than nonlinear ones because they are somewhat simpler.
+Right.
+What I want to look at now, a new sub-heading, and it's the relationship,right, between  total, average and marginal functions  As you may be aware that economists are obsessed  with the concept of the margin and there's a neat relationship a couple of relationships embedded, alright, er embedded in this relationship between total marginal and average functions that is applicable to all total marginal and average functions whether we whether we be looking at marginal cost, marginal revenue, marginal products, right, the same relationship will hold for all of them.
+To explore what these relationships are let's just use the example of total product, right, so we will be looking at  total product curves , right, T P  Okay and lets assume that our total product   right, is simply a function labour and capital.
+Now in order to to look at this relationship between labour and capital and output  total product simultaneously we need to draw a 3 D diagram, alright, but because my diagrams are bad enough in 2 D what we are going to do is we are going to constrain one of these factors, right, so what we will do is we will pick a level of ou a level of capital input , right, and we will see what happens to total product as we vary labour.
+Right, so we are going to assume effectively that K is our fixed factor of production and L is our variable factor .
+Okay.
+right   so if you er draw a make sure you have got at least half a page, right, you are going to be drawing two quite familiar diagrams , right, you er, first of all just draw a normal  total product curve, what we are going to do, because we are looking at a fixed level of output, sorry fixed level of capital  what we are going to be analysing is the relationships between the total product of labour, the average product of labour, and the marginal product of labour, right, for a given level of capital  okay, so the total product curve just tells us what happens to output as we increase the level of our variable factor labour keeping capital fixed at some constant constant level 
+Right, so as we increase the labour ou er input by one unit the change in total product, right, is going to be given by the marginal product, right, so  so   quite simply the marginal products of labour.
+As we change labour by one unit what's the effect on total product or output well that effect is measured  by our marginal product.
+As a result marginal product is simply a slope  right, the slope of the total product labour function  Okay,let's define average product of labour as simply total product of labour divided by the amount of labour we are actually using  alright, an average product  to be measured by   slope of a cord, right, from the origin total product curve er to the particular point on the total product curve.
+Right, so if we just  the origin of the particular point on that curve the slope of that  the origin to denote the average product of labour.
+Let's just have a look at what happens  as we increase the lab , the labour output.
+First of all let's have a look at the relationship between total product and marginal product  making a diagram we can see the total product rises  up to L 3 units  As a result that implies  a marginal product  positive throughout the range  to O L 3   .
+If we now look at what happens to total product between O and O L 1 units of labour and we can see total product rising at an increasing rate, right, which implies our marginal product  positive but increases over that range  O to L L 1   right, between the   the range O L 1 and O L 3 , right, the total product is rising  but at a decreasing rate  a decreasing rate  that implies that the marginal product is still positive, right, but falling .
+There is a between L 1 and L 3 units of labour  total product is rising but at a decreasing rate  that therefore implies that a marginal product of labour between those two  imput levels  is positive but but falling notice that total product curve peaks at L 3  right, so it's maximum at L 3 units of labour  of that curve at that particular point zero, therefore, the marginal product labour  is zero .
+If we add more labour beyond L L 3 units, the total product is falling  the total product is falling and the slope of the curve is negative what's the slope of the curve it's the marginal product, therefore, the marginal product of labour is also negative beyond  L 3 units of labour .
+Let's now look at the relationship between total product and average product    O K the slope of a ray from the origin , alright, along the curve rises all the way to L 2 units , right, so the slope of the cord, ray rather, the slope of ray from the origin rises, right, to O 2 sorry to O L 2 units of labour  as a result the margin, sorry the average product of labour is also rising over that range .
+At er L 2 units of labour the slope of the ray from the origin  right, is tangent  to our total product curve.
+At L 2 the slope of a, the ray from the origin is actually tangent , I'm sorry, the  the ray is actually tangent and therefore the slope of that ray is the same as the slope of the total product curve at that point.
+As a result, marginal product which is the slope of the total product curve and average product must be the same at L 2 units of labour .
+Beyond L 2 units of labour the slope of the ray from the origin  on the total product curve starts to fall .
+Right, as a result average products must fall beyond O L 2 units of labour .
+Okay, it follows therefore that at L 2 units of labour  the average product is at a maximum.
+Right.
+Rising prior to that, falling after  therefore the average product is at a maximum for L 2 units of labour .
+Okay, so that's what you learn in micro economics this year and which should be fairly familiar to you  ask now is why that is the case.
+Why do we get this, these relationships in particular, right, why does the marginal product curve intersect the average product curve  at the average product curve's maximum?
+This relationship isn't just common to product relationships it's the same in cost revenue relationships as well  Okay, so  so what that diagram  is saying in symbolic terms is that if the slope of the ideal product of labour curve, right, if D L P  D A P L by D L  positive, then the marginal product of labour must be greater than the average product of labour .
+Right, and if the slope of that average product curve, right  is negative that implies the marginal product of labour is less than it's average product  hence if the slope of the average product curve is zero  that implies therefore the marginal product equals the average product of labour.
+so let's show why that is  why that is the case  .
+What we are going to do is differentiate the average product function  the average product, right, is the quotient of total product  right, and the  the amount of labour actually used and as a result if you want to differentiate it you can use a quotient rule of differentiation.
+Right, general notation, right, D Y D X equals V D U D X. V squared minus U D V D X all over
+.
+That's our quotient rule  so let's apply that to this particular particular problem.
+Right, what we are going to do is let's say that Y equals er total product  labour X equals labour U, right, equals sorry Y is the average product  let Y equal the average product of labour X labour input, U equals total product of labour, right, V er equals  L as well Okay,, right, so  differentiating the average product curve and average product function in respect to labour , alright, we get L times D T P right, by D L minus  Q P L all over L squared  .
+Let's rewrite that slightly differently and just say l over L  open brackets into D T P L over D L  minus T P over L , alright, what's that in economic terms, well that's simply , right, marginal product of labour in the brackets, right, minus the average product of labour , okay, so if  if the marginal product of labour here is greater than the average product  right, the righthand side is going to be positive  right, therefore, average product is going to be positive  okay,the marginal product is greater than the average product ah change  the slope of the average product curve is going to be er positive therefore average product itself is positive and rising  let's write that down as the marginal product of labour is greater than the average product of labour  that implies  changing slope of the er  average product curve right, is positive  implying that average product is positive itself and rising  Okay, if the marginal product of labour, right, is less than the average product  right, that implies   the slope of the average product curve is positive therefore the average product itself, right, is positive and falling   sorry    right, so we can rewrite that somewhat succinctly , using the following   D A P L over D L, right, is greater than equal to or less than zero  if  D T P L over D L, right, is greater than, equal to, less than  right T P L over L the average product .
+Yep   er well you read it just go along the top the line here, alright, the slope of the average product curve, right, will be positive, right, greater than zero if the marginal product, right, is greater than the average product, right, the slope of the average product curve will equal zero, right, if the marginal product equals the average product and the slope of the er the average product curve will be negative, right, if the marginal product is less than er average product 
+Okay,now that result holds, right, for all erm for all marginal relationships  Okay, so if we are looking at a marginal  marginal cost curve , right, we have got that's our marginal cost , that's our average cost we, we're intersecting here when in the case it is a minimum   so marginal costs cuts through average costs at its minimum value  we are looking at average revenue and marginal revenue   average revenue function marginal revenue function   This is  our total revenue function   and the same relationship is embodied there, but, notice that between the average and the average revenue and marginal revenue functions, right, don't intersect  simply because we have got a linear relationship here  right, average revenue is always above marginal revenue in this particular case.
+Right, but, nevertheless, the same relationship is embodied in that  righto, I think what we will do is er leave it there before we start partial derivatives.
+See you next week.

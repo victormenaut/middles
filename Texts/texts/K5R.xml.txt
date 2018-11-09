@@ -1,0 +1,281 @@
+
+
+The preprotachykinin A promoter interacts with a sequence specific single stranded DNA binding protein
+ABSTRACT
+An element within the Preprotachykinin A (PPT) promoter is highly homologous to an element from the rat type II Na channel promoter.
+This Na Channel element has been previously proposed to be common to a number of neuronal genes.
+We demonstrate that the PPT element binds a sequence specific DNA binding protein.
+The protein binds to only one strand of the PPT element and has little or no specificity for the double stranded DNA species.
+Gel retardation analysis indicates that the protein is found in both rat neuronal tissue and adult dorsal root ganglia neurons in culture but not in established tissue culture cell lines.
+Using the PPT element linked to magnetic beads we have been able to demonstrate the enrichment of a protein with a molecular weight of 40k with that of the binding activity.
+A mechanism for protein binding to the DNA is proposed based on the fact that the region binding the protein is the loop of a larger stem-loop structure in the DNA.
+INTRODUCTION
+The Tachykinins are a family of biologically active neuropeptides that are widely but selectively distributed in both the central and the peripheral nervous systems, where they may function as neurotransmitters (1).
+They include substance P and neurokinin A that are both derived from processing of the precursor polypeptides encoded by the preprotachykinin A gene (PPT)(2).
+Understanding the transcriptional regulation of the PPT promoter has been hampered by the absence of established cell lines that express PPT at high levels either endogenously (3) or when transfected with plasmids containing fragments of the PPT promoter linked to a reporter gene (4, and personal observations]).
+Substance P is present in a sub population of sensory neurons in the dorsal root ganglia (drg).
+A 3.3kb fragment of the rat PPT promoter has been demonstrated to drive expression of a reporter construct in microinjected cultured dorsal root ganglia (5).
+We have demonstrated by an exonuclease assay that a 3.8kb PPT promoter fragment containing this 3.3kb fragment binds specifically to multiple protein complexes in vitro.
+Although the majority of the binding sites are observed in both neuronal and non neuronal tissues, one of these interactions occuring 3' of the major transcriptional start site is neuronal specific in its tissue distribution (6).
+The specificity of these interactions was demonstrated by the finding that one of these sites correlates to a putative AP1 binding site as proposed from sequence analysis of the PPT promoter (7).
+A search of the PPT promoter DNA sequence for other cis acting elements potentially functioning as regulators of expression revealed a region highly homologous to a region present in the rat type II Na channel promoter (8)(Fig. 1).
+This sequence of the rat type II Na channel element was homologous to regions which occur in a number of neuronal specific genes and contains a core consensus sequence of CCAGG.
+As the homology between the Na channel and the PPT element extended over 20 bases (Fig 1) we postulated that the PPT element may be a site of a sequence specific DNA/protein interaction.
+A double stranded oligonucleotide (termed 71/72) corresponding to this region of the PPT promoter was previously used as a competitor in exonuclease analysis of the PPT promoter (6).
+No competition of any binding sites within the PPT promoter was seen by the 71/72 oligonucleotide although under similar conditions we could show that an AP1 oligonucleotide specifically competed a previously proposed AP1 binding site (7).
+This result was inconsistent with gel retardation analysis that demonstrated that this oligonucleotide, 71/72, gave rise to a specific protein/DNA interaction.
+We therefore decided to analyse this element in greater detail.
+We show here that one of the DNA strands of this PPT element, previously termed 71/72, binds specifically to a protein that is present in protein extracts prepared from rat tissue or adult rat ganglia in culture but absent in established cell lines.
+The DNA sequence of this PPT element in addition to exhibiting homology to the previously proposed neuronal consensus (8) has homology to other single stranded DNA binding protein elements which have recently been identified and occur in non neuronal genes.
+MATERIAL AND METHODS
+Preparation of cell extracts
+Nuclear extracts were prepared from rat brain or HeLa cells as previously described (9).
+Whole cell extracts (10) were prepared from the following adult rat tissues; brain, dorsal root ganglia, cerebellum, spinal cord, testis and spleen.
+The tissue was kindly provided by J.Sheward.
+Whole cell extracts were also prepared from the following established cell lines; HeLa, MLA144, CV1, C1300 and PC12.
+All extracts contained approximately 20 µ/; µl of protein.
+Gel retardation
+Gel retardation analysis was performed as described previously (11-13).
+Oligonucleotides (100ng) were labelled with gamma ATP using T4 kinase.
+Each reaction contained 0.5ng of 5' end labelled single or double stranded oligonucleotide probe.
+The end labelled probe was mixed with 20µg of protein extract which had been preincubated with 5µg poly (d (I-C)) and single stranded or doubled stranded competitor DNA.
+Where indicated 100ng of a non specific single stranded oligonucleotide (NS SS) was also added with the poly (d(I-C)) in 100mM buffer D [100mM KCl, 20% glycerol, 20mM HEPES, 0.2mM EDTA, 0.5mM DTT and 0.5mM PMSF (9)].
+Reactions were incubated 15 min RT and separated on a 4.2% polyacrylamide (29:1) gel.
+Oligonucleotides used;
+Oligonucleotides 1-5 were used as single stranded competitor or probe Oligonucleotides 6-10 were used as double stranded competitor or probe
+Purification of proteins using biotinylated oligonucleotides
+Oligonucleotides corresponding to SSB or 168 above were synthesised with a 5' biotin moiety attached by Oswel DNA Services, University of Edinburgh.
+These oligonucleotides were attached to Dynal magnetic beads coated with streptavidin according to the manufacturer's instructions.
+After incubation of the oligonucleotide/bead complex with brain or HeLa nuclear cell extract under similiar conditions to those used in gel retardation (100mM buffer D) the enriched complex was separated from the cell extract by use of a magnet.
+This solid matrix of beads/DNA/bound protein was step eluted with buffer D at a final concentration of 250mM, 500mM, 1M and 2M NaCl.
+The proteins enriched by this method were analysed by gel retardation after normalising to 100mM NaCl in the incubation buffer.
+In addition the enriched fractions from the step elutions were separated by 10% SDS PAGE and the proteins visualised by silver staining with Aurodye forte(Amersham).
+In some cases the silver staining of the enriched proteins was further enhanced by using IntenSE BL (Amersham).
+Both of these staining reagents were used as directed by the manufacturer's instructions.
+RESULTS
+Specific binding of a single stranded DNA binding protein to the PPT promoter
+The WT oligonucleotide corresponding to a PPT element located at -761 to -741 relative to the major start site of transcription (7) with homology to a previously proposed Na Channel element was used in gel retardation analysis.
+No specific complexes were observed when this oligonucleotide (WT) was incubated with HeLa extract (data not shown), although several faint non specific complexes did occur.
+A specific complex was observed when this oligonucleotide was incubated with whole cell extract from rat cerebellum (Fig. 2A).
+In the cerebellum extract this complex is competed for binding to the probe by homologous double stranded DNA (WT) but not by two other double stranded DNAs corresponding to an element from the cmyc promoter (myc) or a non specific oligonucleotide (NS).
+Surprisingly the binding was competed by both single strands of the probe (WT SSA and WT SSB) but not a single strand from the non specific oligonucleotide (NS SS).
+The single strands of this PPT element were then used as probes in gel retardation analysis with rat cerebellum extract.
+It can be seen in Figure 2B that only one of the strands (WT SSB) bound specifically to the cerebellum extract.
+The specific complex formed on the single stranded oligonucleotide was competed by the homologous double stranded species (WT) but not by the double stranded AP1 consensus sequence within the PPT promoter.
+Both single strands, the homologous SSB and the complementary SSA competed for binding of the protein to the SSB probe.
+Competition of the specific complex formed on SSB by both the double stranded WT and complementary SSA in both cases is the result of the complementary strand binding to the SSB oligonucleotide forming a double stranded oligonucleotide for which the protein has little or no affinity.
+This would dictate that the complex observed in Figure 2A with double stranded WT oligonucleotide was generated by protein binding to the kinased single stranded SSB oligonucleotide present in the double stranded WT oligonucleotide preparation.
+This competition of binding complexes is also consistent with the SSA probe being dramatically competed by SSB competitor in Figure 2B.
+The formation of the double stranded oligonucleotide in the competition of the single stranded probes by the complementary strand can be seen at the bottom of Figure 2B and is clearly demonstrated in Figure 3 (lanes 9-12)(no extract or poly (d (I-C) is added, only competitor oligonucleotides).
+One can observe this double stranded DNA complex when both oligonucleotides of the WT PPT element are added in the same incubation (Fig. 3, lane 11).
+These results also demonstrate that the protein complex has little or no affinity for the double stranded PPT element (WT) as assayed by gel retardation.
+The sequence specific single stranded DNA binding protein is present in dorsal root ganglia (drg)
+The endogenous PPT gene or the PPT promoter when linked to a reporter construct is expressed to high levels in cultured adult rat ganglia (5).
+If the complex we observed was required for PPT expression we would expect to see it in these cells.
+The SSB oligonucleotide was incubated with drg extract in the presence of poly d(I-C) and 100ng NS SS oligonucleotide as non specific competitor.
+A specific complex was observed with drg extract, Figure 3 and was only competed by the homologous and complementary single strands (SSB and SSA) but not competed by other heterologous double stranded (NS DS and ST) or single stranded (NS SS and AP SS) competitors.
+In the case of competition by the complementary oligonucleotide we can see the formation of a new double stranded species at the bottom of the gel (Fig. 3, lane 5).
+Binding is not solely observed in neuronal tissue as we were also able to demonstrate binding in rat spleen extract, however it is not ubiquitous as we could not demonstrate binding in rat testis extract.
+The binding was also observed in rat spinal cord and caudate extract (data not shown).
+Correlation of the enrichment of 40k protein eluting with the single stranded DNA element binding activity
+Preliminary identification of the peptide binding to the SSB oligonucleotide was accomplished by synthesising a 5' biotinolyated SSB oligonucleotide and attaching it to magnetic Dynal beads coated with streptavidin.
+This allowed the oligonucleotide and the proteins binding to the DNA to be rapidly enriched using a magnet to separate the beads and the DNA/protein complex from the rest of the nuclear extract.
+The enriched proteins binding to the DNA were then step eluted from the beads with 0.25. 0.5, 1 and 2M NaCl buffer D. In Figure 4A the beads/DNA complex was incubated with rat brain extract and the eluted fractions were analysed by gel retardation.
+As can be seen the bulk of binding activity eluted with 1.0M NaCl buffer D (lanes 13-15).
+As expected no activity was seen under similar conditions using HeLa extract instead of brain extract (data not shown).
+The eluates from the SSB oligonucleotide incubated with the brain extract were analysed by PAGE-SDS, as shown in Figure 4B, lanes 9-11.
+The oligonucleotide 168 was also biotinylated and used as a control to determine non specific binding of proteins to single stranded DNA (lanes 7 and 8) and beads alone were incubated with brain extract to determine non specific binding of protein to the beads (lanes 1-3).
+Four proteins indicated by arrows are clearly seen in the 1M elution of brain extract with the SSB oligonucleotide, lane11.
+Only one of these peptides indicated by arrow number 3 is unique to this elution, the other three being present either with beads alone (arrow 1 and present in lanes 2-7, 9 and 10), also enriched with oligonucleotide 168 (arrow 2 and present in lanes 7-11) or present in HeLa extract (arrow 4 and present in lanes 5-7 and 9-11).
+The protein enriched by the SSB oligonucleotide is migrating with a molecular weight of approximately 40k.
+Therefore the appearence of this protein correlates with the fraction containing the single stranded DNA binding activity.
+DISCUSSION
+We have demonstrated, based on homology with a previously proposed neuronal element in the Na Channel gene, that a region of the PPT promoter at -761 relative to the major start of transcription is potentially a candidate for regulating PPT gene expression.
+This region of the PPT promoter binds a nuclear protein in a sequence specific manner.
+The protein interacts with only one of the DNA strands and based on the fact that the complementary strand competes for binding it would appear to have little affinity for the double stranded form of the oligonucleotide.
+The molecular weight of a protein correlated with the DNA binding affinity is approximately 40k.
+By gel retardation analysis we have found this protein to be present in rat tissue extract but we have failed to demonstrate substantial binding to this region in a number of cell lines including HeLa.
+A number of single stranded DNA binding proteins have recently been reported in the literature (14-19).
+Several of these bind to elements previously demonstrated to regulate transcription.
+When the sequence of the single stranded DNA binding elements from the adipsin and growh hormone promoter (15, 16) are compared with that of the PPT element some sequence homology emerges (Fig. 5) in particular a core of CCNGG.
+Further experiments are required to determine whether these DNA homologies determine a consensus sequence for the binding of a family of single stranded DNA binding proteins.
+To our surprise the PPT element was extremely homologous to the TAR region of the HIV genome (20).
+This element regulates HIV not at the DNA level but as an RNA element present in the RNA leader sequence (21-23).
+This RNA region interacts with cellular proteins and an adjacent region is bound by the virally encoded TAT protein (23-25).
+The TAR region binds these cellular proteins as a single stranded stem which is part of a stem-loop structure which the RNA can form.
+Following this analogy of a stem loop structure we then analysed the PPT sequence flanking the SSB oligonucleotide.
+We found that the SSB oligonucleotide sequence is also within a larger DNA sequence which can form a stem loop structure and that the loop region is entirely contained within the SSB oligonucleotide (Fig. 6).
+A mechanism is therefore suggested such that a protein that has no affinity for the double stranded PPT element can interact specifically with one DNA strand after formation of the cruciform.
+However as the oligonucleotide SSB does not contain all the sequence in the stem-loop structure we propose the protein recognising the SSB sequence can bind to the single strand sequence.
+The stem-loop structure is therefore present to enable local perturbations in the DNA structure which allow the protein to interact with the single DNA strand.
+We have not addressed whether the protein that recognises this DNA element will also recognise RNA nor have we addressed whether any mRNA molecules are encoded by this region of the PPT promoter.
+The specificity of the interaction observed with the SSB oligonucleotide and the possible formation of the cruciform structure indicate a role for this element in regulating gene expression.
+Minimally, the binding of protein to this element should alter the chromatin structure of the promoter.
+It is difficult to address the function of this complex in the context of the PPT promoter or heterologous promoters as the protein was not observed binding to this SSB element in established tissue culture cell lines (HeLa, MLA144, CV1 C1300 and PC12 cells).
+We hope to address the function of this DNA/protein interaction by further characterisation of the protein binding to the SSB sequence and determine whether cruciform formation is possible at this region of the DNA and whether formation of such a structure is stabilised by the sequence specific DNA binding protein.
+Figure 4 .
+A protein with the molecular weight of 40k is enriched in fractions associated with the sequence specific binding to the PPT element.
+(A ) A biotinylated SSB oligonucleotide was attached to Dynal magnetic beads coated with streptavidin and mixed with rat brain extract.
+Proteins binding to the DNA/beads complex were seperated from the rest of the brain extract by use of a magnet.
+The binding proteins were eluted as indicated with 100mM(wash), 250mM, 500mM and 1M NaCl and assayed for binding activity to the SSB oligonucleotide.
+Lanes 1-3 contain the brain extract as a positive control for binding activity.
+Lanes 1,4,7,10 and 13 contain no competitor; lanes 2,5,8,11 and 14 contain 100ng of homologous SSB oligonucleotide; lanes 3,6,9,12 and 15 contain 100ng AP1 SS competitor; lane 16 contains probe alone.
+(B ) The appearence of an enriched peptide in the fraction containing the specific single stranded DNA binding protein.
+The SSB oligonucleotide linked to the magnetic beads was incubated with HeLa extract (lanes 4-6) and brain extract (lanes 9-11).
+The proteins bound to the oligonucleotide/bead complex were eluted at 250mM (lanes 4 and 9), 500mM (lanes 5 and 10) and 1M NaCl buffer D (lanes 6 and 11).
+As a control for non specific binding of proteins the eluates were obtained from beads alone incubated with brain extract (lane 1 1M, lane 2 500mM and lane 3 250mM) and from the heterologous oligonucleotide 168 linked to beads incubated with brain extract (lane 7, 500mM and lane 8, 1M).
+The proteins were visualised by silver staining with Aurodye Forte (Amersham) and lanes 1-8 were further enhanced using IntenSE BL (Amersham) in an attempt to observer less abundant proteins.
+Four peptides indicated by arrows are clearly seen in the 1M eluate of the SSB oligonucleotide incubated with brain extract.
+Only one of these peptides indicated by arrow number 3 is unique to this elution, the other three being present either with beads alone (arrow 1), enriched with oligonucleotide 168 (arrow 2) or present in HeLa extract (arrow 4).
+The peptide specifically enriched by the SSB oligonucleotide has a molecular weight of approximately 40k.
+Figure 1.
+The homology between the PPT element and the previously proposed sequence found in the type II sodium channel gene and proposed to be present in several neuronal genes.
+The figure is adapted from Maue at al., 1990 (8).
+Figure 2.
+Sequence specific binding to a single DNA strand of the PPT promoter element with homology to the Na channel element (A ) Binding to the PPT element was assayed in cerebellum extract and the DNA binding specificity determined by competition with 50 and 100ng of competitor DNA as specified; WT, MYC and NS are double stranded competitor DNA whereas WTSSA, WTSSB and NSSS are single stranded competitor DNA The major complex binding to the DNA element is competed by only homologous double (WT) and single stranded competitors (SSA and SSB) which are individual strands of the WT oligonucleotide.
+(B ) Each of the single strands of the PPT (WT) element were individually labelled with 32 P by T4 kinase and assayed for DNA binding in cerebellum extract.
+The binding was competed with 50 and 100ng of competitor as specified; WT and AP1 are double stranded competitor DNAs and SSA and SSB are single stranded oligonucleotides Only the SSB strand had strong and specific binding in this assay.
+Figure 3.
+The single stranded DNA binding protein is present in dorsal root ganglia (drgs).
+In lanes 1-8 the SSB strand of the PPT element was incubated with drg extract in the presence of poly d(I-C) and 100ng NS SS oligonucleotide.
+Competitor DNA (100ng) was also added as indicated at the top of the gel; NSDS and ST are double stranded oligonucleotide competitor and NSSS, APSS, SSA and SSB are single stranded oligonucleotide competitor.
+In lanes 9-12 the SSB oligonucleotide was mixed only with competitor oligonucleotide as indicated with no extract or poly d(I-C) present.
+In lanes 9,10 and 12 the input probe only is seen while in lane 11 a new double stranded product can be seen and is indicated by the arrow.
+Figure 5 .
+The sequences of other promoter elements found to bind sequence specific single stranded nucleic acid and their homology to the PPT element.
+Figure 6 .
+The PPT single stranded DNA element is found within a stem-loop structure in the DNA.
+This stem-loop structure has significant homology to the HIV DNA sequences in which the TAR element resides.
+The binding affinity of the virally encoded TAT protein, in conjunction with cellular factors, is for the RNA species of the stem-loop structure.
+The oligonucleotide from the PPT promoter SSB used in this study is shown in bold type in the stem-loop structure.
+Isolation and characterization of cDNA clones encoding the Drosophila homolog of the HMG-box SSRP family that recognizes specific DNA structures
+ABSTRACT
+Recently an HMG-box protein denoted SSRP1, for structure-specific recognition protein 1, has been discovered which binds to specific DNA structural elements such as the bent, unwound conformations that occur upon the formation of intrastrand crosslinks by the anticancer drug cisplatin.
+The SSRP family includes the mouse protein T160, which recognizes recombination signal sequences.
+In order to delineate functional domains more clearly, a homolog of SSRP1 was cloned from Drosophila melanogaster .
+This homolog maps to polytene region 60A (1-4) and shares 54% identity with human SSRP1.
+Comparison of the predicted amino acid sequences among SSRP family members reveals 48% identity, with structural conservation in the carboxy terminus of the HMG box as well as domains of highly charged residues.
+Interestingly, however, the most highly conserved regions of the protein are in the less well understood amino terminus, strongly suggesting that this portion of the protein is critical for its function.
+INTRODUCTION
+Cellular processes involving the recognition of DNA structural elements have recently begun to be understood more fully, and several proteins that recognize specific DNA structures have been described.
+Among these are the high mobility group (HMG) proteins, which specifically recognize cruciform and other DNA structures (reviewed in 1, 2).
+There are two classes of these proteins.
+One class includes the 10-12 kDa HMG 14 and 17 proteins, and the other the 25-30 kDa HMG 1 and 2 proteins.
+The latter class has received a great deal of attention recently because homologous sequences have been found as domains contained within larger DNA binding proteins such as the nucleolar transcription factor hUBF (3), mitochondrial transcription factor 1 (4), sex-determining region Y (SRY)(5, 6), lymphoid enhancer binding factor I (LEF-1)(7), a T-cell specific transcription factor TCF-1α (8), and the yeast autonomously replicating sequence factor ABF2 (9).
+Interestingly, an HMG box domain was also identified in a protein that specifically recognizes the structural distortions to DNA caused by binding of the anticancer drug cisplatin (10, 11).
+Cisplatin is widely used in chemotherapy (12).
+Its activity is attributed to its ability to modify DNA covalently and block replication and transcription (13-15).
+In an effort to understand more fully the biological processing of these adducts, proteins that specifically recognize and bind to platinated DNA have been studied (16-21).
+One such cisplatin-modified DNA structure-specific recognition protein, SSRP1, has been cloned (10) and fully sequenced and characterized (11).
+This SSRP may be a member of a new class of transcription factors that utilize bent, unwound DNA structure as a basis for recognition and binding.
+In the present article we describe an analysis of the evolutionary conservation of SSRP1 which reveals that homologous sequences occur in a number of species including Drosophila melanogaster .
+In order to characterize conserved domains more fully, a low stringency screen of a Drosophila head cDNA library was performed that allowed the isolation of a homolog from this species.
+While this work was in progress, a murine homolog, denoted T160, was cloned by others who used recombination signal sequence probes to identify proteins involved in V(D)J recombination (22).
+Comparison of these three proteins reveals several highly conserved domains.
+MATERIALS AND METHODS
+Library screening
+A 1.4 kb human cDNA clone, described previously and designated λPt2 (10), was used for Southern hybridization and library screening.
+Labeling was accomplished with the random oligonucleotide priming method as reported (23).
+For the primary screen of the Drosophila head cDNA library (24), 5 10 5 recombinant phage were screened at low stringency (30% formamide, 1 M NaCl, 50 mM Tris pH 7.5, 0.5% SDS, 10% Dextran Sulfate, 1 Denhardt's solution, and 1 mg/ml denatured salmon sperm DNA) using standard techniques (25).
+The filters were washed once at room temperature in 2 SSC/0.1% SDS, twice at 55°C in 2 SSC/0.1% SDS, and twice at 55°C in 1 SSC/0.1% SDS for fifteen minutes each.
+After the washing was completed the filters were air dried briefly and analyzed by autoradiography.
+Sequencing
+Sequencing analysis was done on double-stranded, maxi-prep plasmid DNA with the chain termination sequencing method (26) and Sequenase T7 DNA polymerase (United States Biochemical).
+All clones were completely sequenced in both directions.
+Computer analysis was accomplished with software from the Genetics Computer Group (GCG)(27).
+A nonredundant search of protein databases was carried out using the BLAST Network Service at the National Center for Biotechnology Information (28).
+In situ hybridization to polytene chromosomes
+Polytene chromosomes were prepared from the salivary glands of third instar larvae as described previously (29).
+Nick translation of plasmid DNA containing clone DM 3002 with biotinylated-16-dUTP (ENZO Diagnostics), detection with Streptavidin-biotinylated peroxidase (Detek-1-HRP, ENZO Diagnostics), and hybridization steps were all performed with standard techniques (29).
+RESULTS
+Evolutionary conservation of SSRP1
+Initially, the extent of evolutionary conservation of the DNA structure-specific recognition protein SSRP1 was explored by using Southern analysis with DNA from a large number of species, and the results are shown in Figure 1.
+Homologous sequences are seen in chimpanzee, rhesus monkey, elephant, pig, dog, rabbit (which is underloaded), mouse, opossum, chicken, salmon (somewhat degraded), and Drosophila melanogaster .
+No hybridization occurred to DNA prepared from Xenopus laevis, Caenorhabditis elegans, Saccharomyces cerevisiae , the parasite Giardia , or to the prokaryotes Pseudomonas aeruginosa and Streptomyces griseus .
+Isolation of the Drosophila homolog of human SSRP1
+Since the role of SSRP1 is not understood, a homolog from a lower species was desired to delineate evolutionarily conserved domains likely to be critical for function.
+A low stringency screen of a Drosophila cDNA library was undertaken with a portion of human cDNA SSRP1.
+Sequences from two overlapping Drosophila cDNAs were combined to create a composite sequence of 2384 bases.
+There is a large continuous open reading frame which predicts a 723 amino acid protein of molecular mass 81,524 daltons, and which shows extensive homology to human SSRP1 and the mouse T160 protein.
+There is an in-frame stop codon upstream from the first AUG codon of the open reading frame and this start site is conserved in the human (11) and mouse (22) homologs.
+No consensus polyadenylation signal is seen within the 93 bases of 3' untranslated sequence.
+It seemed clear, however, that the complete coding sequence of this protein is contained within the clones sequenced and represents the Drosophila homolog of human SSRP1.
+The homology at the nucleotide level between the human and Drosophila cDNAs is 54% over their entire length, a similarity confined mainly to the coding regions of the sequences.
+The homology in the 5' and 3' untranslated regions is 32% and 37%, respectively.
+A computer search of protein databases with the predicted Drosophila amino acid sequence revealed homologies consistent with those previously reported for the human protein.
+The DNA structure-specific recognition protein showed homology to high mobility group (HMG) 1 and 2 proteins from several species, and to proteins which contain HMG-box domains.
+As was found for the human protein sequence, the highly charged domains of the protein are homologous to highly charged regions of other proteins, especially the transcriptional regulator nucleolin.
+Comparison of human, mouse, and fly SSRP sequences
+An optimal alignment, shown in Figure 2, of human SSRP1, mouse T160, and the Drosophila homolog described here reveals that these three proteins are closely related.
+They share 48% identity at the amino acid level over their entire length, the homology being highest in the N-terminal half where they are 57% (243/429) identical.
+Their sizes are very similar, and all contain a high percentage (36-38%) of charged amino acids.
+These residues are concentrated within small regions, and the organization of these domains within the protein is conserved.
+In the HMG domain, the proteins are 43% (33/76) identical.
+Interestingly, serine rich regions near the HMG-box and those at the C-terminus of the protein, conserved in human and mouse homologs, are not present in the Drosophila protein.
+The entire carboxy terminal half of the proteins, from aa 400 to the end, is predicted to be to be very hydrophilic (22, 30).
+Comparison of secondary structural predictions for these three proteins by the method of Chou and Fasman (31, 32) or with the method of Robson and Garnier (33, 34) revealed a conservation of potential structural features, particularly in helical domains located in the carboxy terminus (22, 30).
+Mapping on polytene chromosomes
+In situ hybridization on polytene chromosomes placed the Drosophila clone on the right arm of chromosome 2, in region 60A(1-4).
+No known mutations in this region appear to have phenotypes related to the known properties of SSRP1.
+DISCUSSION
+The broad evolutionary conservation of SSRP1 indicates that it performs a critical cellular function.
+Although the mouse homolog T160 is tightly linked to the recombination activator genes RAG-1 and RAG-2, and expressed fusion proteins show specificity for binding in DNA sequences that act as recombination signals for V-(D)-J joining, recombinase activity has not been demonstrated (22).
+Furthermore, the pleiotropic expression pattern of SSRP1 (11) and T160 (22) may imply a more general function for these proteins, a function thus far unknown.
+The analysis presented here has revealed extensive evolutionary conservation in the amino terminal half of the protein, about which little is known.
+Although DNA recognition and binding are important properties of this family, they do not provide obvious clues about the eventual function of the protein.
+N-terminal regions that lie outside the HMG box are clearly critical to the role that SSRPs play in cellular functioning.
+Deletion clones in the mouse homolog T160 (22) and in rat HMG1 (35) have delineated the HMG-box region alone to be sufficient for interaction and binding to DNA.
+The list of HMG-box containing proteins is growing rapidly, comprising a variety of functions the common activity of which seems to be their ability to bind DNA through this domain (3-9).
+Although all proteins in this class show significant homology to HMG1, no clear consensus sequence arises from comparison among family members of their HMG-box domains (36).
+The functional link for this class of proteins may not be their own protein sequence, but rather the nucleic acid structures recognized by their binding domains.
+Whereas reports of point mutations that reduce or abolish DNA binding can be attributed to DNA sequence-specificity (37, 38), the effect of such mutations on the structure of the binding region cannot be easily measured.
+The isolation of SSRP1 purely on the basis of its shape recognition properties argues for at least some combination of structure and sequence recognition for this family of proteins (11, 36).
+The overlapping binding specificity of distinct proteins within this family (38, 39) also supports this hypothesis.
+The hypothesis that HMG-box proteins can recognize specific DNA shapes, or some combination of shape and sequence, is strengthened by recent evidence that the HMG-box protein LEF-1 induces a 130° bend in the double helix (40).
+Furthermore, the LEF-1 binding site could functionally substitute for the bacterial DNA-bending protein integration host factor (IHF), suggesting that the HMG box moiety could act to create higher order nucleoprotein structures by bringing together widely spaced binding sites.
+Concomitantly, the HMG-box family member SRY was shown to induce a bend of 85° in DNA (40).
+In other work, binding of the yeast mitochondrial protein ABF2 was found to occur at regular phased sequences containing stretches of poly (dA), which exclude the protein (41).
+The structures of the DNA-bound adducts of cisplatin that are recognized by SSRP1 have been well studied.
+These distortions include directed bending or kinking of the DNA helix at an angle of 32-34° toward the major groove for the predominant adducts of cisplatin, whereas the trans isomer causes the formation of undirected hinge joints in DNA (42, 43).
+The fact that the DNA sequences used to clone the mouse homolog T160 are proposed to form stem-loop structures (44, 45) is fully consistent with shape-selective recognition.
+Although bend angles measured for platinated DNA are significantly smaller than those found upon binding of the HMG-box of LEF-1 to DNA, these modified regions may be inherently more ‘bendable’.
+Indeed, the common denominator in all of the DNA recognition sequences described for HMG-box proteins is the presence of bendable sequences at or near the site of protein binding.
+Increased selectivity is likely to be a function of further protein-protein interactions.
+HMG 1 and 2 themselves have features that suggest a role in DNA processing involving shape selective recognition of structural distortions to DNA such as B-Z junctions and cruciforms (46, 47), and the bent, unwound structures created by binding of cisplatin (20).
+Several studies have suggested that HMG 1 and 2 facilitate transcription by binding to specific DNA conformations to create or preserve structures necessary for transcription initiation (48-53).
+Although the ultimate function of SSRPs has not been clearly delineated, their structure-recognition properties are consistent with the hypothesis that their HMG-box domains facilitate the recognition of bent or bendable DNA structural elements.
+These proteins collectively may define a new class of transcription regulators that act, at least in part, through the recognition of structural rather than sequence specific domains.
+The role that DNA structure-specific proteins might play in the antitumor mechanism of cisplatin is of particular interest.
+Since expression of SSRP1 is not inducible by treating cells with cisplatin, nor is its message highly expressed in cisplatin resistant cell lines (10), a direct link between SSRP1 function and antitumor activity has not been demonstrated.
+The cross-species conservation described here suggests that the family of SSRP proteins performs a critical intracellular function.
+The sequestration of SSRP proteins and of HMG 1 and 2 by bent DNA structures resulting from platinu binding, or their ability to block platinum adducts from repair, could have dire consequences for the cell, particularly for rapidly dividing cancer cells.
+The independent isolation of a murine homolog with RSS sequences suggests that recombination mechanisms may also play a role in processing of cisplatin-DNA adducts and thus in anticancer activity.
+Further study of this class of DNA-protein interactions will benefit not only the understanding of the biological processing of cisplatin-DNA adducts and their underlying molecular mechanisms, but also the general field of structure-specific recognition of DNA.
+These revelations may prove useful in the ultimate goal of rational drug design.
+Figure 1.
+Southern analysis showing the high evolutionary conservation of human SSRP1.
+DNA was isolated from a number of different species, digested with EcoRI, and the fragments separated by electrophoresis.
+A 1.4 kb cDNA fragment of hSSRP1 denoted λPt2 (10) was used for hybridization at low stringency.
+Figure 2.
+Optimal alignment, with gaps, of the predicted protein sequences of human SSRP1 and its mouse and Drosophila homologs.
+Primary structure of the elongation factor 1α in Sulfolobus solfataricus 
+The elongation factor 1α (EF-1α) is an essential component of the protein synthesis process in eukaryotes and archaebacteria.
+Complexed with GTP it carries the aminoacyl-tRNA to the A site of the ribosome·mRNA·peptidyl-tRNA complex; upon hydrolysis of GTP it leaves the ribosome as EF-1α·GDP.
+Therefore, EF-1α is a multifunctional protein being it able to interact with nucleotides, nucleic acids, ribosome and other proteins; furthermore, its comparison with Escherichia coli EF-Tu is stimulating since the latter is one of the best studied GTP binding protein (1).
+Recently we have demonstrated the presence in the thermoacidophilic archaebacterium Sulfolobus solfataricus (growth conditions 87°C pH 3.5) of the elongation factors aEF-1α, aEF-2 and aEF-1β.
+Regarding to aEF-1α we have described its purification procedure and its affinity for GDP and GTP together with its molecular, functional and chemical-physical properties (2,3).
+In the present communication we describe the cloning and the sequencing of the aEF-1α gene and report the translated amino acid sequence.
+An EMBL3 S.solfataricus DNA genomic library (4) was screened using as probe a 20 mer oligonucleotide derived from the amino acid sequence of a segment of purified aEF-1α.
+From the λ phage isolated a restriction fragment was subcloned in pGEM-3Z and sequenced.
+This clone (1680 bp) contained an open reading frame encoding for a protein composed of 435 amino acids which was identified as aEF-1α on the basis of: i) identity of the amino acid sequence, determined by Edman degradation, of tryptic peptides of purified aEF-1α and ii) its 84% similarity to EF-1α from Sulfolobus acidocaldarius (5)(Figure 1).
+Its estimated molecular weight was 48.5 kDa.
+In the 5' flanking region of the aEF-1α gene a ribosomal binding site sequence (AAGAGAG) was identified at position -8 and two putative archaebacterial promoter elements (6) at positions -36 and -4 were also revealed.
+The pattern of the codon usage by the aEF-1α gene is not random, since for most of the amino acids some triplets are more used than others.
+For instance, among the 22 Arg residues 19 are coded by AGA, 1 by AGG, CGT and CGC, the codons CGA and CGG being not used at all ; furthermore, triplets ending in A or T are preferred to those ending in C or G. This picture was confirmed when the analysis was extended to the eleven genes from S.solfataricus which have been sequenced so far, whereas the comparison with the codon usage by the corresponding genes in Escherichia coli and rat liver showed a completely different pattern (7).
+It is difficult to decide whereas this has to be related to the different environmental conditions of the organisms considered (i.e. thermophilic/ mesophilic) or to evolution.
+The amino acid sequence of aEF-1α showed a 56% to 61% similarity to EF-1α from other archaebacteria (except S.acidocaldarius ); the degree of similarity to EF-1α from eukaryotes ranged 50% to 54% and it was significantly lower, 9% to 30%, compared to eubacterial EF-Tu.
+It is known that all the GTP binding proteins contain three consensus sequences at the guanine nucleotide binding site which are GXXXXGK, DXXG and NKXD (8).
+The finding that aEF-1α contains the consensus motifs G 12 QVDHGK 18 , D 90 APG 93 and N 152 KMD 155 indicates that aEF-1α belongs to this class of proteins.
+Figure 1.
+Primary structure of aEF-1α in the archaebacterium Sulfolobus solfataricus .
+The amino acid sequences determined by Edman degradation on tryptic fragments of purified aEF-1α are underlined.

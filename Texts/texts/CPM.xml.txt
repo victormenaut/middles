@@ -1,0 +1,333 @@
+
+
+IBM ‘TO PUT VERSION OF DB2 DATABASE UNDER NT’…
+IBM Corp's dismantling of the Armonk politburo to follow Chairman Mao's ‘Let 100 Flowers Bloom’ dictum has really let the genie out of the bottle, and Infoworld has been talking to consultants that say the company is planning to enter the tents of the enemy by putting a version of the DB2 database up under Windows NT.
+It is not clear whether the effort involves simply the client end or the full DB2 — both have just been announced for AIX Unix on the RS/6000.
+Consultants told the paper that IBM has been dissecting the two most recent pre-release versions of NT at its Toronto labs to assess the time and money that would be required to do the implementation, and reckon a product could arrive at the turn of the year.
+The move is bad news for IBM Personal Software Products in its efforts to get OS/2 2.0 established, because many corporate users have gone for OS/2 specifically for its relatively easy integration with mainframe DB2.
+…
+AS TALIGENT REVEALS OBJECT-ORIENTED STRATEGY
+Taligent Inc, the Apple Computer Inc-IBM Corp venture devoted to building an object-oriented operating environment, is aiming to provide chunks of its technology for inclusion in other companies' systems.
+It escaped general attention at the time, but Joseph Guglielmi, Taligent's chairman and chief executive says that one of his first moves on joining the company was to create three quite separate divisions.
+The first of these concentrates on Taligent's native implementation, now firmly based on a version of the Carnegie Mellon University Mach kernel, which IBM has slimmed down and turned into a true micro-kernel implementation.
+The second group handles development tools, while the third ‘complementary products’ division is looking to promote parts of the Taligent technology for adoption on existing hardware.
+Its too early to say which bits these will be, says Guglielmi, but the most obvious choices, he suggests, are the big functional blocks such as graphics subsystems or the development environment.
+Both Apple and IBM will take Taligent work for incorporation in future versions of their existing offerings.
+The potential pitfall of this approach is that the Taligent add-ons could make the conventional offerings so attractive as to damage the acceptance of the native product itself.
+Guglielmi acknowledges this but says that if his company had ignored the market it would have given competitors free rein.
+This way, he says, when native Taligent, finally arrives in mid-1995 it will find an industry well stocked with Taligent-compliant tools and objects — and developers, claims Guglielmi, just love what they have seen so far.
+PLATINUM SOFTWARE TO ACQUIRE BRIT CYPHER BUSINESS SYSTEMS
+Irvine, California-based Platinum Software Corp has agreed to acquire Runcorn, Cheshire-based software developer Cypher Business Systems Ltd, on undisclosed terms.
+Cypher is the author of the Ergo applications for the distribution industry, and Platinum says its products are a good fit with the SeQuel to Platinum integrated financial and management software, enabling it to offer a fully integrated system almost immediately.
+MOTOROLA UNVEILS SOFTWARE TO LINK DISSIMILAR WIRELESS DATA NETWORKS
+Monet, Mobile Networks Integration Technology, is a new piece of software for interconnecting all kinds of wireless data networks, and intended to make make communicating from diverse mobile devices as easy as picking up the phone.
+It was developed by Motorola Inc's Paging & Wireless Data Group yesterday and is claimed to connect dozens of incompatible wireless networks and mobile computing devices worldwide.
+It is being backed by 12 majors, including British Telecommunications Plc, Tandem Computers Inc, RAM Mobile Data Inc, and General Magic Corp.
+The idea is that a user of Ardis, presently the largest wireless network and equally owned by Motorola and IBM Corp, would for example be able to talk to RAM Mobile Data users, says Reuter.
+Tandem is in there because it will provide the central switch for the network, and British Telecom's BT North America unit may provide a connection into its own wire network.
+Motorola aims to win industry standard status for the software to encourage development of new mobile computing applications.
+GENERAL INSTRUMENT BACKS MICROSOFT-INTEL TV KIT
+Microsoft Corp and Intel Corp have won the support of cable television equipment specialist General Instrument Corp for their television control system combination of a version of Windows running of an 80386 chip.
+General Instrument will integrate the system into its next generation of addressable cable television converters, enabling users to use their televisions to gain access to on-demand movies, interactive home shopping and similar services — where they are provided by the cable operator.
+General Instrument will work with Intel to integrate the 80386 with its own circuitry for compression and graphics optimised for interactive television to produce a family of addressable converters and satellite receivers to produce both new versions of the current analogue controllers, and versions of new series DigiCable units which deliver digitally compressed cable programmes.
+OPENVISION: MAINFRAME-CLASS OPEN SYSTEMS MANAGER
+OpenVision, a new Pleasanton, California company headed by Michael Fields, former president of Oracle USA, launched its first product, claiming that it represents the industry's most advanced approach moving vital corporate-wide applications from mainframe to client-server networks by providing mainframe-like systems management capabilities for large geographically dispersed networks of different computers.
+Founded in July, the has been built with $25m in funding from Warburg, Pincus Ventures, and begins life with $12m in revenue from a suite of 15 current products and services — some third party — which the firm is integrating to create its OpenV*OPSS operations, performance, storage and security systems management programs suite.
+BILL GATES ON WHY THERE's NO WHITE HOUSE IN HIS FUTURE AND WHY WORLD IS WAITING FOR NT
+Despite sporting the same name that brought the former governor of Arkansas the mother lode of political fortune, Microsoft Corp chief executive Bill Gates says there are no politics in his future.
+‘I could do it if I wanted to, but I don't want to,’ he told a gathering of the Computer Journalists Club in Paris yesterday, as he held court on a range of topics, from the US government and economy, to the increasing pervasiveness of personal computer technology.
+Gates never publicly supported Bill Clinton for president, although a number of Microsoft executives campaigned for him.
+Of the Clinton-Gore tenure so far, he said ‘In some ways it's interesting to have a president interested in technology; it could be good, and it could be bad.
+But he's very  knowledgeable , particularly his Vice-President, Al Gore.’
+Free trade
+The administration's record to date on trade, however, was delicately criticised.
+‘He hasn't made clear his views on free trade, which is of acute interest to the technology business,’ Gates said.
+‘Technology thrives by taking the best elements of technology from countries around the world, so free trade is absolutely crucial, but so far he has not made a clear stand on free trade.’
+Although he said it is really too early to tell what life in the US will be like under President Clinton, Gates said the US economy is definitely coming back, but that it has changed.
+‘It's a very unusual situation, because a lot of large companies are doing very poorly.
+The measure of the economy used to be ‘How's GM doing, or how's IBM doing?’ and those companies have had to let people go and learn to become more efficient,’he said.
+‘But the economy is sort of changing to be less based on the big companies, less based in some of the big centres of population where the media is based, and the defence industries are just having to adapt to a very new era.
+Most of the signs are quite positive.
+It won't be a dramatic recovery, but there will be a pick-up,’ he predicted.
+In his own comments, Gates described the double-edged growth of personal computer technology: the ‘accelerating’ movement of shared personal computer networks into the heart of a corporation's business and, at the same time, its adoption by the consumer electronics industry.
+With the newly emerging client-server applications, Gates said, the role of personal computer technology in corporate computing is growing.
+‘We see companies rethinking how they can manage product design, how they can help people communicate between different groups in a company, how they can eliminate printed information and let people see information electronically and browse it exactly the way they want, or how they can keep track of their customers in a better way.’
+ Coincidentally , he said, there has been a missing element in making these applications work easily: a proper operating system.
+‘Windows was not considered robust enough, Novell's NetWare was considered good for sharing files but not for these new applications.
+Then there are the many forms of Unix which, unfortunately, are not compatible with each other, so you have to choose one hardware supplier, which means a lot less choice.
+None of the three choices was ideal.’
+Windows NT, he said in a shameless publicity spot, ‘is really taking the best of the three — Windows, network operating systems and the workstation or Unix world and pulling those together.’
+He also quipped that, since NT stands for New Technology, ‘we will will have to change that when it's a few years old.’
+At the same time that personal computer technology is moving to centre stage for corporate applications, ‘it is moving down into what you might call the intelligent television, where you can select any type of movie to see, or shop, or interact with information,’ Gates said.
+‘So we find ourselves moving this new technology to consumer markets, co-operating with entertainment and TV companies, and at the same time working with [information technology]consulting firms to help them with their key applications.
+By moving in these two directions, personal computer technology will have a lot more impact in the years to come,’ he concluded.
+In the area of consumer use of personal computer technology, Microsoft is working with Compaq Computer Corp to develop a personal digital assistant, with cable television equipment supplier General Instrument Corp, and with ‘Thomson, Philips and Japanese consumer electronics companies to see how personal computer intelligence can come together with consumer devices,’ he said.
+On the flip side of partnerships, Gates talked about Microsoft's competition.
+Asked which competitor — Novell, Apple, or, maybe, IBM — he feared the most, Gates said, ‘I don't think I'm going to crown any particular competitor as being particularly dangerous or fierce.
+For example, if you take what we're doing with CD ROM software or in the consumer areas, other [computer]companies aren't very involved yet.
+IBM talks about doing that, but it hasn't done anything yet.
+There is no single competitor that has the broadest challenge.
+‘The second biggest software company is Novell and on the server, which is one of the areas I expect NT will be very successful, they have a very high market share.
+So if you want to look for a short-term, meaning 18 months, competitive battle that will be the most interesting, the server battle between NT and NetWare will be a major area of competition,’ he said.
+Whatever the outcome of the battle, Microsoft could hardly do better financially, be it worldwide or in Europe.
+For the first nine months of its current fiscal year, which ends in June, Gates said sales in Europe have grown 35%.
+Microsoft's global sales for its previous fiscal year  totalled $2,280m, with net profit of $581.4m.
+‘Our growth is very healthy in Europe this year; certainly above our competition because we're continuing to gain share, but nowhere near the growth of the past,’ Gates said.
+He explained that a lot of Microsoft's previous growth in Europe was attributable to ‘penetrating new markets, including the UK, where our market share was not as high, and markets like Spain and Italy where piracy was being reduced, increasing the amount of software being sold per personal computer.’
+The company also had made a lot of new product introductions, he added.
+He would not predict a growth figure for the full year, saying ‘we never  forecast future figures.’
+Gates was very careful to caution about overestimating the duration of his company's exceptional record on profit margins, however.
+‘We are quite profitable today, but the key point we try to make is that we take a very long-term view of our business.
+We're going to keep making a lot of investments in the future because that's what we're excited about, and if that means we would sacrifice some short-term profitability for long-term technology, we would do that,’ he said.
+Gates said that, although price competition in the software market has increased, it's ‘not analogous to the hardware situation.’
+The widely reported price differential between US and European software packages, has come down some, Gates said, but will continue to exist, while diminishing further.
+‘There's still a measurable differential between US software and software in Europe.
+Just amused
+It gets a little complicated when you have currency fluctuations that go together with the lower volumes and some of the higher costs…so I think you will continue to see a difference between English and European software,’ he said.
+Measures Microsoft has taken to help the situation include dropping the price of its bundled Office product and helping users ‘pay a lower price if they are a committed customer,’ he said.
+Does Bill Gates feel truly threatened by his competition or ‘just amused’?
+‘I don't think any company that is simply amused by its competition is going to do very well.
+We take our competition very seriously.
+Sometimes we have competitors who disappear, but quickly there are new competitors who rise up in their place.
+We wake up every morning thinking about competition, and we adjust what we're doing based on that.’
+MOTOROLA GETS THE GLOVES OFF IN BATTLE WITH ITS OLD RIVAL, PRICES POWERPC PRICED TO BEAT PENTIUM
+Motorola Inc has put Intel Corp on the spot with its decision to price the first iterations of the PowerPC chip at $280 each for the 50MHz 601 and $374 each for the 66MHz 601 in quantities of 20,000 or more, since these are about half the prices Intel had pencilled in for its Pentium chips (CI No 2,156).
+It remains to be seen exactly what pricing measures Intel will take with either Pentium, because of its continued delivery problems, or the 80486, because of the court ruling freeing Advanced Micro Devices to ship its 80486 clones.
+Pentium pricing is now scheduled to be announced on May 20.
+The 601s Motorola intends shipping in high volume beginning in the third quarter are being made by IBM Corp, Motorola's partner along with Apple Computer Inc in the PowerPC push.
+Initial deliveries are expected to go to the other announced PowerPC allies, Compagnie des Machines Bull SA, Thomson-CSF SA, Harris Corp and Tadpole Technology Plc, with Apple taking the lion's share.
+Motorola's current role is to open up the merchant market for PowerPCs, selling to those that won't buy from IBM, the chip's originator.
+Especially portables
+Its fabrication skills will be called on for later iterations of the chip, the 0.5 micron 603, the 604 and the 300 Specmark-to-500 Specmark 620, all of which are due to arrive next year.
+It will probably never build the 2.8m transistor 601, which is projected to have a three-year life cycle.
+Motorola says the 601, a symmetrical superscalar device that supports enhanced multiprocessor features, should give hardware vendors the option of producing a $2,000 to $2,500 box powered by a chip that performs at 60 SPECint and 80 SPECfp based on initial SPECmark 92 measurements.
+Motorola estimates that box would have at least 8Mb internal, a drive storing 100Mb or more, and high-resolution colour screen.
+The 601 follow-on, the 603, should provide Pentium-class performance for machines, especially portables, in the $1,000 to $2,000 range.
+IBM and Motorola expect to be producing PowerPCs in the millions starting next year, and they intend to capture a 20% market share in 1996 or 30% to 40% of the desktop market.
+Their intentions are a far cry from those of Digital Equipment Corp, which is also trying to position its  competing Alpha chip as a mainstream merchant part but whose internal documents are said to project a total of only around 200,000 to 300,000 Alphas being made next year.
+Further down the road, in 1997, DEC estimates a total of 5m Alphas will be made, with DEC making a third of them and having a third of that number left, some 500,000 chips, to sell on the open market.
+IBM and Motorola have also apparently managed to avoid the heat dissipation problem haunting both the Pentium and the Alpha.
+The 50MHz 601 dissipates only 6.5 Watts and the 66MHz 9 Watts.
+The 603 should come in at under 3.2 Watts.
+Motorola has also put out four software packages in support of the PowerPC: a Software Development Package to encourage application development, C and Fortran compilers and an Architectural Simulator for those building to future generations.
+The bundled toolkit with source-level debugger is $5,000.
+Separately, the compilers starting at $1,500 each and the simulator for $3,500.
+All are immediately available on the RS/6000.
+ERICSSON's CREATES BROADBAND PREMISES NETWORK AROUND MD110 PABX
+L M Ericsson Telefon AB has combined its MD110 PABX with the Broadband Interface Module system to create the MD110 Broadband Premises Network.
+This carries local and campus business communications traffic — speech, data or video, over a high speed fibre backbone network and links ISPBX Line Interface Modules with Broadband Modules.
+The latter support local networks, computer terminals, PABXs, video links and wide area networks in an integrated system, enabling users to implement transparent multi-protocol networks cost-effectively.
+The Line Modules are distributed switching units.
+Terminals that are connected to them are switched via the MD110 and other data traffic is directed via the Broadband Modules.
+All the modules are linked using a redundant fibre optic cable.
+The MD100 Broadband Premises Network provide a structured premises infrastructure for all types of traffic.
+When voice or data equipment is moved or changed in a building or campus site, this reduces costs.
+It is also claimed to provide a high degree of flexibility for connecting different types of data terminals and local networks.
+At the same time, overall network reliability is enhanced, says the company, because extensive redundancy is provided in the backbone network.
+The Premises Network forms one element of the Ericsson Business Network, which uses a combination of packet and circuit switching and bandwidth management to create a private digital network on which users are served by point-to-point and network integrated services.
+Any combination of fixed and mobile telephony and data communications can operate as a single entity over the Ericsson Business Network.
+No prices given.
+INSIGNIA SOLUTIONS HAS SOFTPC WINDOWS EMULATOR FOR HEWLETT-PACKARD, IBM UNIX MACHINES
+Queen's Award for Technological Achievement winner Insignia Solutions Ltd, High Wycombe, Buckinghamshire, which has its US base in Mountain View, California, is now shipping its $550 third-generation emulator SoftPC 3.0 with Windows for the RS/6000 and SoftPC 3.1 with Windows for Hewlett-Packard Co workstations.
+It is Insignia's first implementation for IBM Corp kit.
+The Windows 3.1 code and MS-DOS 5 are pre-installed.
+Insignia promises Windows applications will offer native 80486 performance.
+To speed up Windows performance, SoftPC 3.0 includes special Windows display and mouse drivers that map Windows display and mouse instructions directly to the Motif environment.
+It provides 80286 real and protected mode emulation, an important addition to 3.0.
+Hewlett, which previously sold SoftPC direct, will be co-marketing the product with Insignia, which will be making all the sales itself.
+Insignia has something like 100 engineers working on its line.
+SOFTLINK FORMED OUT OF ASHES OF SAMSUNG SOFTWARE
+Samsung Electronics Co Ltd has thrown in the towel on its facsimile software for Unix unit Samsung Software America and dissolved the operation after about a year.
+However, the developer of the Replix software, Dr Hikyu Lee, who had been president of Samsung Software, has picked up the rights to it and moved it to SoftLinks Inc, a new operation he is starting with ex-Data General Corp staffer John Doyle as vice-president, sales and marketing.
+PIONEER DIGITHURST PUTS TOGETHER ALL THE MAKINGS OF THE CUSTOMISED ELECTRONIC NEWSPAPER
+The paperless office may yet become a reality if such items as multimedia specialist Digithurst Ltd's newly-launched electronic newspaper really take off.
+And best of all, the Royston, Hertfordshire-based company has simply taken technology that it has already developed and used it in a creative way, which means the newspaper should be relatively cheap — no pricing was available, however, as the firm builds bespoke systems to suit a customers individual needs.
+To create an electronic newspaper, all you need is a desktop personal computer that you can use as a server.
+Then, plug in different Digithurst Microeye boards (CI No 1,843), which capture the information you require.
+A TV board, for example, collects Teletext data and images from a television set.
+Simply plug the aerial into the board at the back of your computer.
+The board picks up the signal, and translates it into digital data, which is then stored as a data file on the computer's hard disk.
+This uses about 600Kb of memory.
+The same applies for video and sound, using the Microeye 2C video capture board, and illustrations and advertisements, using the 1C board.
+Images and sound use approximately 4Mb of memory.
+Then, take an IBM Corp Thinkpad 700C portable computer and download the information stored on the desktop to it.
+The Thinkpad has Digithurst's PictureBook 2 software installed, which translates the data into ASCII code.
+Furthermore, it orders the data to a standard format, with, for example, business stories on page seven and international news on page three.
+Each electronic page carries a certain amount of advertising, which is on display alongside the editorial copy and comes complete with sound and video.
+Pen-based Thinkpad
+You can then either read it as a standard newspaper or use it as a database to search for particular articles.
+You can even create subject profiles that guide you to the pages containing stories most relevant to yourself.
+The Thinkpad was chosen as the best machine for the job because it is pen-based, has high memory capacity — 12Mb — a 120Mb disk drive and a parallel port-based sound device.
+Also its high resolution colour display means that the reader can use computer graphics to enhance articles or illustrations within the publication.
+But according to managing director Peter Kruger, it is a little more expensive than he would have liked at approximately £3,000.
+Other less sophisticated options are available though — Tandy Corp's Grid Systems portable is one possibility, although this has the disadvantage of being monochrome and can't display moving video images.
+Another is Amstrad Plc's pen-based notepad, PDA 600, launched in March of this year (CI No 2,131).
+Kruger favours pen-based machines because he says they make life easier for the user — all he needs to do is ring the bit of text he wants to file away for future reference, and his computer will store it away on hard disk.
+It is also ‘the best way of filling in the crossword’, he added.
+The system, which is available now, is targeted mainly at corporate users, wishing to provide their staff with instant access to information, or information suppliers, such as publishing houses.
+The idea is that, while Digithurst provides the technology, its customers will, in turn, sell the system to its users.
+Kruger reckons that each organisation should target about 5,000 subscribers.
+Digithurst is currently negotiating with a couple of potential customers via consultants — a couple of newspaper companies in the UK, and a satellite television firm in Germany.
+Although Kruger would eventually like to target consumers and the breakfast table market, he said that this was not possible at the moment — some form of docking station would be needed to make the proposition viable, and this is not yet available.
+Also the battery life of portable computers is not yet long enough for  consumer use, the memory is not adequate, and it is not yet possible to replace disk drives with removable solid state memory.
+— Catherine Everett
+AMBITRON BRINGS CRYSTALEYES VR DESKTOP VIRTUAL REALITY TO THE UK
+Slough, Berkshire-based Ambitron Ltd showed for the first time in the UK the low cost desktop virtual reality system — CrystalEyes VR — and three-dimensional video system from Stereographics Corp of San Rafael, at the Virtual Reality ‘93 Conference in London earlier this month.
+The £6,000 desktop system is suitable for any stereo-ready workstation, Apple Computer Inc Macintosh, personal computer or monitor.
+It includes an ultra-sonic head tracking device that sits on top of the monitor and lightweight three-dimensional goggles.
+The head-tracking device enables users to move images simply by moving their heads — the images change perspective in line with any changes in location.
+The goggles work by having their liquid crystal diode lenses synchronised to the refresh rate of the monitor.
+Under the control of an infra-red emitter, each lens alternately opens and closes, to present images to the eye.
+The system is said to be particularly useful for industrial and scientific applications like molecular modelling, computer animation, robotics control.
+The video system comprises a view-record controller, playback controller and cameras.
+The view-record controller converts standard video signals, generated by two standard video cameras, into a single signal for sequential video display.
+The cameras can be mounted on a stereo base or can be part of stereo instruments such as microscopes or laproscropes.
+The camera signals are stored in separate buffers and the controller reads them at twice the rate at which they were written.
+The playback controller converts the multiplexed signal into a 100-fields-per-second stereoscopic signal.
+Signals are passed from the recorder to the playback controller and then to a stereo ready monitor.
+The resulting images can be viewed in three dimensions using the CrystalEyes goggles.
+The system is not cheap — the record controller and two cameras cost £25,000, the playback controller is £5,000.
+But it has apparently proven useful for microscopic surgery — and has also been used by US cult band the Grateful Dead, who recorded their recent revival concert in three dimensions.
+FRANCE TELECOM-BUNDESPOST TELEKOM VENTURE TARGETS MULTIMEDIA
+ Saarbrucken-based Eucom, the France Telecom-Deutsche Bundespost Telekom joint venture, and 1&1 EDV Marketing GmbH, based in Montabaur, have created 1&1 ServiceLine GmbH, a value-added telephone services company, which should begin operation on July 1.
+The venture aims to provide service for applications resulting from the merging of telecommunications and computing technologies, such as ISDN and viewdata.
+BRITISH TELECOM CAUGHT IN MIDDLE OF SIMMERING EURO-US TRADE SPAT
+Caught in the middle of the rumbling European Community-US trade skirmishes, which threaten to deteriorate into all-out trade war that would benefit nobody apart from posturing politicians with abnormally over-developed egos, British Telecommunications Plc has launched a judicial review to try and escape Community legislation that restricts its ability to purchase US telecommunications equipment.
+The company argues that since it is neither government-owned nor a sole supplier, it should be free to make any purchasing decisions it sees fit, without having to pay the Commission's 3% tariff penalty against telecommunications equipment from outside the Community.
+Mercury Communications Ltd and the UK's cable television companies are not bound by the legislation, Article 29 of the Utilities Directive, and British Telecom feels that it should be allowed the same freedom.
+If the company does prove its case, it is still not clear whether it would escape the sanctions threatened by the US against European telecommunications products and services — mainly because the US has not firmed up on what action it will take.
+The fate of UK telecommunications equipment manufacturers may also hang on the decision: if the UK market deemed to be open to US suppliers, the US government could decide to waive its penalties against UK suppliers.
+British Telecom currently has to comply with the featherbedding European directive for essentially historical reasons, both because of its past as a state-owned company, and as a result of its previous status as a dominant carrier, which arguably it still is.
+The ruling will also have implications for the company's on-going war of attrition with AT&T Co.
+Since the argument between the two centres on how open each country's market and regulatory climate are, an increase in Telecom's ability to buy from US suppliers could be used as evidence of the openness of the UK market.
+UNILOG PROFITS FLAT BEFORE ITEMS ON A RISING TURNOVER TREND
+French software and services company Unilog SA has reported 1992 turnover up 13.9% to the equivalent of $122.6m, but profit before amortisation of extraordinary items remained flat at $4m compared with $4.1m in 1991.
+Operating profit was down 12% to $8.1m.
+Internal growth accounted for the total amount of revenue increase, the company said.
+Revenues break down into 70% from systems engineering, 11% expertise and training, 11% from software products, and 8% from consulting and system design.
+‘In the current economic situation, these results are quite acceptable,’ said Gerard Philippot, managing director of the company, in a report in the French business journal Les Echos.
+This year will clearly still be difficult, but the group expects ‘to preserve a reasonable profitability.’
+LIVINGSTON SOFTWARE INNOVATION CENTRE FURTHERS SCOTLAND's BID TO BECOME EUROPE's SOFTWARE CAPITAL
+In a bid to become the software capital of Europe, Scotland is putting an infrastructure in place to promote local business as much as possible.
+The latest initiative is the Livingston Software Innovation Centre — this is the only organisation in Europe that aims to remove the hassles plaguing start-up companies, by providing them with ‘a nice roof over their heads’ free of charge for the vital six months to a year before they start making money.
+The Centre is a joint venture between the Livingston Development Corp, a government-funded body set up in 1962 to develop new towns — this organisation provides Centre users with in-house advice on marketing and introduces them to the local information technology and software community; Lothian and Edinburgh Enterprise Ltd, a local enterprise company that provides training, commercial validation of business plans and advice on possible avenues to funding, such as venture capital; and the Scottish Enterprise Software Group, which offers technical and product evaluation.
+Although users are encouraged to finance themselves via banks and sponsorship from private enterprise, the Centre will provide some personal computer hardware and even software development tools if necessary.
+Four companies have already signed up to the scheme, and the Centre has the capacity to look after three or four more — it has already had about 20 applications.
+The four new recruits are Euroquest Solutions, a software developer, integrator and value-added reseller of document imaging products; Interstellar Systems, which has developed an X Window repeater for Digital Equipment Corp boxes, enabling users in diverse locations to share an interactive screen; OST Ltd, which specialises in computer-aided software engineering tools; and Active Applications Ltd, a developer of multimedia systems.
+The Centre basically consists of a 500 square foot office, housed at Livingston Development Corp headquarters in Livingston —‘the capital of Silicon Glen’, somewhere between Glasgow and Edinburgh.
+This means that costs are kept to a minimum because overheads, such as lighting, equipment, and any little extras, are paid for out of a centralised annual fund.
+Hassle-free environment
+The Centre's goal is to create quality jobs for the local community — not only does it give start-ups a hassle-free environment in which to get their business going, but as they expand, they inevitably take on more staff.
+Once they start making money, the Centre will then help them move into ‘safe houses’, where they pay a single fee to cover rent and bills.
+Furthermore, according to the Centre's marketing officer, Ken Forrest, there is no shortage of skilled personnel in the region — not only are there are more graduates per head in Scotland than in any other region of the UK, but 20% of all UK computer science graduates are Scottish.
+In real terms, this means 20,000 software professionals are now living in the region, while another 7,000 or so students are studying software-related disciplines in Scotland's 12 universities.
+As a result, Forrest says the Scottish software community is seeing revenues grow at about 16% per annum, in contrast to the European average of about 7%.
+Moreover, software is a fast-growing market — the entire European market is currently worth £27,000m, but this figure is expected to double by the end of 1995.
+And Forrest reckons that Scotland, with its excellent telecommunications infrastructure and relatively cheap rent and rates, is well-placed to take advantage of the new barrier-free European Community single market.
+The plan is to open two more such centres by the end of the year — one in the West, possibly Glasgow, and the other in the North, probably Sterling, to ensure that as wide a geographic coverage as possible is achieved.
+Other initiatives in the region include Scottish Enterprise's Match-Maker, whereby well-established Scottish companies are put in contact with their continental counterparts to undertake joint sales, marketing, and product development activities.
+And a Scottish Partner Centre has also been set up to attract companies that are interested in either expanding or setting up headquarters in the region.
+— Catherine Everett
+SHARE & BOND ISSUES
+Interactive Network Inc, the Mountain View interactive television pioneer, has pulled its proposed public offering of 2.5m shares through PaineWebber Inc and Montgomery Securities Inc (CI No 2,149), citing ‘market conditions.’
+The company says that interim financing provided by four of its strategic investors provides for current financial requirements and gives latitude to review other financing alternatives that have been presented to the firm.
+Santa Cruz Operation Inc, Santa Cruz, California leader in the low-end Unix operating system market, has now formally filed to go public with an initial offer of 6m, 3.6m of them new, with 1.2m to be sold outside the US, at a target price of $12 to $14 a share; it doesn't give any plans for the $14m or so net proceeds.
+Underwriters are Goldman, Sachs & Co and Donaldson, Lufkin & Jenrette Securities Corp.
+Creative Technology Ltd, Singapore has now formally sound-blasted its planned offering of 5m shares, 2m of them new, but does not give plans for the indicated $52m or so net proceeds.
+Goldman, Sachs & Co, Alex Brown & Sons Inc and Robertson Stephens & Company will underwrite the US portion of the offering and Goldman Sachs (Asia) Ltd, Alex Brown & Sons International and the Development Bank of Singapore Ltd will co-manage the international part.
+COMPANY RESULTS
+Amdahl Corp has reported a first quarter net loss of $239.7m, struck after a $243m restructuring charge for lay-offs, against a profit last time of $4.4m, on turnover that slumped 23.5% at $380.7m.
+Banyan Systems Inc has reported first quarter net profits up 72.1% at $2.8m on turnover that rose 11.6% at $30.3m.
+Net per share rose 36% to $0.15.
+Boole & Babbage Inc has reported second quarter net profits up 82.7% at $2.5m, on turnover up 6% at $28.5m; mid-term net rose 70.7% to $4.7m, on turnover up 6.2% at $57.9m.
+Net per share rose 70% to $0.51 in the quarter, 57.1% to $0.99 in the half.
+Bolt Beranek & Newman Inc saw third quarter net losses of $6.6m against profits of $3.4m last time, after $2.4m gains from the early payment of debentures last time, on turnover that fell 12.7% at $54.8m; net losses for the nine months stood at $31.6m against profits of $6.8m last time, after $20.5m restructuring charges this time and $3.6m gains from the early payment of debentures last time, on turnover that fell by 4.3% to $179.1m.
+Borland International Inc has reported a fourth quarter net profit of $5.1m against a loss last time of $26.9m on turnover that rose 0.2% at $117.1m; net profit for the year to March 31 was $49.2m against a loss last time of $110.4m on turnover off 3.8% at $463.9m.
+Net per share was $0.19 in the quarter, $1.87 in the year.
+The shares are listed in London as well as New York.
+Cincinnati Bell Inc has reported first quarter net profit up 44.1% at $20.8m, after $6.2m non-recurring gains related to the sale of certain businesses, on turnover that fell by 9% to $271.2m.
+Net earnings per share rose by 45.5% to $0.32.
+Cirrus Logic Inc has reported fourth quarter net profits down 37.6% at $2.5m on turnover up 81.7% at $104.6m; net profit for the year to March 31 rose 20.1% at $20.6m on turnover up 63.0% to $354.8m; net per share, off 37.5% at $0.10 in the quarter, rose 19% to $0.81 in the year; the comparisons are with figures that have been restated to reflect the acquisitions of Acumos Inc in the first quarter and Pacific Communications Sciences Inc in the fourth.
+Computer Task Group Inc has reported first quarter net profit down 39.8% at $1m, on turnover that rose 3.1% to $77.9m.
+Net per share fell 41.2% to $0.10.
+Excalibur Technologies Inc has reported first quarter net losses of $7.5m up from losses of $3.9m last time, on turnover that rose 61.2% to $7.9m.
+Evans & Sutherland Company Inc has reported first quarter net profit up 231.3% at $858,000, after $2.3m gains from the cumulative effect of an accounting change this time and $289,000 gains from the re-purchase of debentures last time, on turnover down 2.9% to $29.9m.
+Net earnings per share rose 233.3% to $0.10.
+The 1992 figures were reported at 13 weeks and the 1993 ones at 14 weeks.
+Fiserv Inc has reported first quarter net profit up 24% at $6.8m, on turnover up 22.7% to $99.7m.
+Net per share, adjusted for a three-for-two stock split last time paid in May 1992, rose by 16.7% to $0.28.
+Gupta Corp has reported first quarter net profit up 1,182.4% at $654,000, on turnover up 83.2% to $11m.
+Net earnings per share rose by 400% to $0.05.
+Intergraph Corp has reported first quarter net losses of $7.7m, after $2.6m restructuring charges and $2.5m gains from the cumulative effect of an accounting change, against profits of $2.9m last time, on turnover that rose by 1.7% to $282.1m.
+Mentor Graphics Corp has turned in first quarter net losses of $4.3m against profits of $1.2m last time, on turnover that fell by 17.5% to $82.6m.
+QMS Inc has reported second quarter net profits of $2m against losses of $913,000 last time, on turnover up 24.7% at $82.5m; mid-term net profits amounted to $3.3m against losses of $590,000 last time, on turnover up 24.5% at $159.8m.
+Net per share was $0.18 in the quarter, $0.31 in the half.
+Read-Rite Corp has turned in second quarter net profits up 67.5% at $18.8m, on turnover that rose 59.5% to $150.2m; mid-term net rose 79.5% to $36m, on turnover up 78.7% to $289.7m.
+Net earnings per share rose 40.5% to $0.52 in the quarter, and 48.6% to $1.04 in the half.
+The 1993 figures include the results of headstack assembly operations, acquired from Maxtor in February 1992 in Malaysia.
+Sequoia Systems Inc has reported a first quarter net loss of $3.0m after a charge of $3.3m for the preliminary settlement of the class action suit against it on turnover that slumped 37.9% at $9.6m.
+Smith Corona Corp saw third quarter net down 83.7% at $800,000, after $800,000 restructuring charges, on turnover down 11.2% at $76.8m; net losses for the nine months stood at $300,000, after $10.3m restructuring charges, against profits of $16m last time, on turnover that fell 14.2% to $244.8m.
+Net per share fell by 81.3% to $0.03 in the quarter.
+VMark Software Inc has reported first quarter net profit up 96.4% at $1.7m after a gain of $650,000 from an accounting change this time and an extraordinary gain of $288,000 last, on turnover up 63.7% to $6.5m; net earnings per share rose 56% at $0.25.
+Zeos International Ltd has reported a first quarter net loss of $3.3m, up from a loss last time of $1.9m, which was struck after a tax credit of $1.4m, on turnover that rose 2.2% at $60.4m.
+Ascom Holding AG has reported a net loss for the year to December 31 equivalent to $30.9m against a profit last time of $36.5m, on turnover up 9.1% at $2,268m.
+Conversion at $0.673 to the Swiss franc.
+EC CALLS FOR TOTAL DERUGULATION OF TELEPHONE SERVICES
+The European Commission yesterday duly called for total deregulation of telephone service in the European Community by 1998 and asked telecommunications ministers to endorse that goal at their Council of Ministers on May 10: the UK is the only European Community country where the body responsible for installing phones and running the service has been forced to make room for a competitor, but national territorial monopolies were not suited to the needs of a single Community market and technological advances meant they were no longer justified in any case, the Commission said; Industry Commissioner Martin Bangemann said the Commission would soon produce another paper on whether development of telephone networks should also be dealt with under a free market system, adding that the Commission believed companies from outside the Community should be free to reap the benefits of deregulation as long as EC firms were able to do likewise on those firms' home territory; but the Commission pulled back from recommending that large companies be free to lease spare capacity on the networks of utilities such as gas from the start of next year.
+SIEMENS NIXDORF FIGURES LIMP IN
+Siemens Nixdorf Informationssysteme AG limped in with its first half figures two days after its parent reported, complaining that falling computer prices would lead to a a fall in turnover of around $635m — that's one billion marks — in the business year to September 30: the company belatedly responded to Reuter's inquiries after the announcement of the parent's figures by saying that Nixdorf first half sales fell 9% to $3,555m and that orders fell 5% to $3,620m; it would not forecast the group's earnings but pointed to earlier company predictions of a slight improvement this year last year's $326m loss.
+JACK KUEHLER TO RETIRE
+Having resigned the post of president and been created vice-chairman, Jack Kuehler doesn't see much future at the company and is retiring effective August 31: Kuehler joined IBM 35 years ago as an engineer in its San Francisco research laboratory and was president of its systems products division when it introduced the 4300 family in 1979.
+XEROX TAPS BT FINANCE DIRECTOR
+British Telecommunications Plc's group finance director Barry Romeril has been tapped by Xerox Corp and will leave the company on June 30 to join Xerox in Stamford, Connecticut as chief financial officer.
+AMDAHL CUTS DIVIDEND
+Amdahl Corp is not known as an IBMulator for nothing: it too is cutting its dividend — to five cents a share this year from a dime last year, in an effort to conserve its capital base: the company, which reported a first quarter $240m loss after a $243m restructuring charge — figures, page seven — said its revenues were lower than expected because of soft economic conditions and competitive pressure on prices; it also said that while it was committed to the IBMulator business, it plans to expand its open systems products line because demand is increasing in that field; it is also enhancing our Huron applications development and production system, which creates applications that run without change in both proprietary and open environments and on both large and desktop systems, the company added, saying that its objective is to turn Huron into an industry standard and to develop a growing business in open systems for large-scale computing.
+AT&T FIRES LATEST SALVO AT BT
+In its latest salvo over equal access to each other 's markets, AT&T Co is telling the US regulatory authorities that the accounting rates — the amount the originator pays the co-respondent for landing a call — between the UK and the US could be cut by 60%: according to the Financial Times, AT&T says British Telecommunications Plc has refused to agree a cut, British Telecom says nonsense, we are still considering it and we will let them know next month; transatlantic accounting rates have fallen by near 50% over the past two years.
+BORLAND RESULTS REFLECT PRODUCT PERFORMANCE
+Commenting on some much-improved figures (see page seven), Borland International Inc says that the results reflect the introduction during the quarter of Paradox for Windows and dBase IV version 2.0: ‘With the release of Paradox for Windows, and sales of our award-winning Quattro Pro for Windows spreadsheet and Borland C++ programming language, sales of Borland products for the growing Windows marketplace accounted for more than half of fourth quarter revenues.’
+AT&T SALES BLITZ REAPS REWARDS
+AT&T Co says 10,000 business customers agreed to switch toll-free 800 service worth $140m to the company: a sales blitz brought over 34,000 sales from existing customers in the last seven weeks, AT&T said; total value over the terms of all contracts will reach over $2,000m.
+US INDUSTRIAL SECRETS UNDER FRENCH THREAT
+The cold war may be over and dead, but spooks still rule OK — the US Central Intelligence Agency has warned more than 70 US defence, aerospace and financial companies that their industrial secrets are targets of French intelligence agents and diplomats, Defense Week reports, adding that the warning has caused Hughes Aircraft Co to drop plans to exhibit aerospace equipment at the Paris Air Show in June; a 21-page French government document from about 1990 outlines US aerospace and defence corporate secrets in which French companies are interested, US officials say; according to the Washington Post, Hughes officials said they were told one item the French memo lists is Hughes' HS601 communications satellite; French firms recently outbid Hughes to provide $258m in communications birds to Arab lands.
+NOW JAPANESE SHIPMENTS RISE
+Is the tide turning?
+Only a day after reporting the second year of falling personal computer sales (CI No 2,157), the Japan Electronic Industry Development Association says that Japanese manufacturers' shipments of personal computers jumped 6.2% in unit terms during the January to March quarter from a year earlier, and the rise in combined exports and domestic sales to 688,000 units from 648,000 units in the year-earlier quarter marked the first quarterly rise in two years; exports rocketed 31% to 144,000 units but domestic shipments only inched up 1.1% to 544,000 units, but was still the first quarterly increase in two-and-a-half years; because of the price wars, combined export and domestic shipments of made-in-Japan micros — when measured in currency terms, fell 8.3% — exports and home sales each off 8%.
+MERCURY BACKS AT&T COMPLAINTS
+Mercury Communications Ltd, which came close to accepting AT&T Co's hand in marriage a year or so ago, is backing the US company's complaint to the US authorities that the UK regulatory system is unsatisfactory because, claims AT&T, the UK has not provided adequate safeguards to prevent British Telecommunications Plc from abusing its monopoly power, and has failed to exercise controls over interconnection services provided by Telecom for rivals, or the company's pricing policy ‘in a meaningful way’.
+APPLIED MATERIALS GETS GOLDSTAR ORDER
+Applied Materials Inc has an $11m order for semiconductor fabrication equipment from Goldstar Electron Ltd for the company's new 8’ wafer fab plant in Chungju, South Korea.
+EXECUTIVE PRESSURE OVER THE POND
+The need to separate the functions of chairman and chief executive has been a raging debate in City of London parlours for the past couple or years, and companies at which the two roles are combined in one person have been under enormous pressure to accept a separation of powers: now the same debate could take off across the Atlantic as Compaq Computer Corp's (non-executive) chairman Ben Rosen tells the House Telecommunications and Finance Subcommittee that the troubles that have beset some of America's largest companies can be traced to cozy relationships between their boards and their chief executives — he declares that the boards of most US companies are chaired by the company's chief executive, who picks the board members and controls the agenda —‘With an appropriate form of corporate governance, I fully believe that the current problems of IBM, Digital Equipment, Westinghouse and other major American corporations could have been addressed and probably solved far earlier with much reduced ill effects,’ Rosen told the legislators, adding that a company's chairman should be a ‘truly outside independent director,’not the chief executive or a former chief executive, and that all board members, with the exception of the chief executive, should also be outsiders, who should get their directors' fees in the form of shares or options.
+SEQUENT K2 LAUNCH
+Sequent Computer Systems Inc will launch its K2 series of multiprocessor Microsoft Corp Windows NT systems co-designed with Tricord Systems Inc on May 3 in the US — May 4 in the UK (UX No 420): Tricord has already launched the things as its 5000 series in the US running a variety of operating systems — though Sequent has an exclusive deal on NT versions; as well as the low-end K2 boxes, Sequent will also be launching a series of high-end, Pentium-ready systems also said to be NT-capable.
+CONCURRENT SIGNS TWO TO MARKET COMPLETE SYSTEMS
+Concurrent Computer Corp says it has signed up Cranfield Data Systems Ltd here and Istar SA in France to to market complete systems for the dynamic analysis and vibration control sectors of the Measurement and Control market: the alliance will provide a portfolio of Open Dynamic Analysis Solutions running on Concurrent's real-time computing systems and related services in application areas such as Rotating Machinery Analysis, Modal Analysis, Acoustics Analysis, and Vibration Control, using the Concurrent Series 7000 real-time Unix systems.
+FLASHING BLUE LIGHTS
+Sick of only traffic light red and green lights on your disk drives?
+Got the blues that there's no blue?
+Help is at hand, and the company to contact is Cree Research Inc, Durham, North Carolina, which has created a light-emitting diode out of Silicon Carbide that glows blue.
+TALES FROM COSE MEETINGS
+Tales are starting to circulate about Common Open Software Environment meetings getting huffy (actually the way we heard it ‘degenerating into shouting matches’) over Hewlett-Packard Co pushing SNMP, the de facto Simple Network Management Protocol standard — as embodied in its OpenView systems management software — and HP OpenVUE as COSE's network and system management interfaces: in support of its cause, reports also suggest Hewlett-Packard is readying new additions to the SNMP-based OpenView that will enable the simultaneous management of mixed Hewlett, IBM Corp and Sun Microsystems Inc kit.
+COSE DECISION REQUIRED
+One insider believes that the Common Open Software Environment firms have not yet decided whether to level the playing field at this technology point, or if systems management can be used an excuse for competitive advantage without hurting their collective drive against Microsoft Corp's Windows NT: ‘Do they want to solve the problem is the question?’ asks the source, who is afraid that ‘systems management was a COSE epitaph.’
+SUN NO LONGER RECOMMENDED
+Both Salomon Brothers Inc and more importantly Goldman Sachs & Co have moved Sun Microsystems Inc shares off their recommended buy lists: basically Goldman thinks Microsoft Corp's Windows NT and Intel Corp's Pentium are going to be more than Sun can handle, hurting its ability to improve earnings on a sustained basis over the next year or so and impeding its gains in market share; Goldman believes Sun's financial model may need to change more quickly than the company can realise; the long-term judgment is based on Goldman's view of Sun's business as 80% to 85% client side where it thinks Windows, especially NT, will dominate in client-server systems, even where high-performance client products are needed.
+DEPOT TAKES ON WILSON STATIONARY CONCERNS
+Delray Beach, Florida-based Office Depot Inc has signed to buy the assets and assume some liabilities of the office supply business of Wilson Stationery & Printing Co, paying an undisclosed sum in shares.
+WINDATA FORMS SUBSIDIARY IN ISRAEL
+Windata Inc announced on Friday that it has formed a subsidiary in Israel, which will develop software for management of local and wireless communication systems: the availability of many experts in telcommunications and wireless communication in Israel make the country an ideal place for such research and development according to Greg Hopkins, Windata's chief executive; Israel's privileged relationship with the European Community will provide more flexibility to the subsidiary in the firm's efforts to penetrate European markets.
+IOMEGA LAUNCHES ADDITIONS TO FLOPTICAL PRODUCTS
+Removable mass storage manufacturer Iomega Corp has launched three new additions to its floptical drive family: the first is a 21Mb parallel port floptical drive for customers that want to use parallel ports to connect their boxes to laptop, notebook and desktop personal computers; data transfer is 1.6Mbits per second and the drive costs £530; the other two are 21Mb SCSI internal and external floptical drives for personal computers; these are aimed at users with AT, EISA and Micro Channel systems and both work with standard SCSI adaptors, such as Future Domain Inc's TMC 850F and Adaptec Inc's 1522FS; data transfer is again 1.6Mbits per second; the internal drive costs £360 and the external drive £400.
+ORACLE APPOINTS VALUE ADDED RE-LICENSOR
+Oracle Corp has appointed newly public Gateshead-based financial software house Quality Software Products Holdings Plc, as a value-added re-licensor: the Oracle relational database runs under Quality's open modular on-line accounting system, Universal OLAS, launched in February 1993 (CI No 2,116), and according to Quality's international commercial director, Keith Hutton, the new agreement ‘will enable us to utilise advances in database technology to keep QSP, and our clients, ahead of the game’.
+NESTLE TO STANDARDISE ON MICROSOFT
+Swiss foods manufacturing giant Nestle SA has signed a worldwide agreement with Microsoft Corp to standardise its software on Windows: the contract covers a total of 30,000 users and will take a number of months to implement, but no financial terms were available; software from WordPerfect Corp, Ashton-Tate Corp's Multimate and Lotus Development Corp's Lotus 1-2-3 will be replaced with Word 2.0 for Windows and Excel 4.0; Nestle will also use Microsoft Mail 3.0, Microsoft Project 3.0, Microsoft PowerPoint 3.0, and LAN Manager 2.2 will be the network operating system.
+MAGSTORE BADGES PHILIPS CDD521
+Aldershot-based Magstore Ltd is badging Philips Electronics NV's CDD521 write-once compact disk drives in the UK so that software vendors and others can do short-run production of disks: the drives are aimed for both audio and data applications — the 63 minute disks can store 680Mb of data and cost £22 while the 72 minute equivalent holds 750Mb and costs £24 — bit high if you simply want copies of your latest songs to sell as compact disks around the folk clubs; the drives themselves are priced at £4,450 and the necessary software for MS-DOS, Windows or Macintosh costing around £1,500.
+US WEST CHOOSES OMAHA
+US West Inc's US West Communications has chosen Omaha, Nebraska as the test bed for its planned digital speech, data and video communications network, and contracts will be awarded in time for construction to begin in Omaha in early summer.
+CRYSTAL CLEAR
+Confused between Cray Research Inc and Cray Computer Corp?
+Can't remember which is which?
+It's simple — you just have to remember that Cray Research makes computers and Cray Computer does research…

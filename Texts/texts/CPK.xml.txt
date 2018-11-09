@@ -1,0 +1,348 @@
+
+
+IBM DUMPS VERSANT, OBJECTIVITY, FOR OBJECT DESIGN, BUYS STAKE…
+IBM Corp's Programming Systems Division yesterday bought a ‘significant’ equity stake in object database pioneer Object Design Inc, Burlington, Massachusetts and announced a strategic partnership to use its use ObjectStore object-based database technology, in all future IBM object-based application development.
+Financial details were not revealed, but IBM is now said to be ‘one of the two largest investors’ in the privately held firm.
+Under the terms of the development agreement, IBM will use ObjectStore as the object storage mechanism for AD/Cycle — IBM's application development environment — Information Warehouse and future workflow management and compiler tools.
+According to IBM, existing object projects and software using technology from companies such as Versant Object Technology Inc and Objectivity Inc will be moved to ObjectStore in their next releases.
+IBM will also market Object Design products.
+…
+TAPS ZSCHAU FOR ADSTAR…
+Making it clear that it really does recognise that the only way to revitalise its languishing business units is to hire outsiders for some of the key positions, IBM Corp late Friday announced that as well as making its AdStar Inc storage unit a wholly-owned subsidiary, it had hired industry veteran Ed Zschau, System Industries Inc founder and one-term Republican representative, to be its chairman and chief executive — and an IBM vice-president, relegating the unit's former general manager Ray AbuZayyad to the post of president and chief operating officer.
+AdStar, which employs just under 16,000 people, failed to perform last year, with turnover down 12% at $6,110m, and a net loss of $265m after restructuring charges.
+It made a profit of $247m at the operating level, but did only $500m of business with the outside world, lagging far behind the leaders in the OEM disk business.
+IBM noted that Zschau had been tapped for the post before Louis Gerstner came aboard as its new chairman, and said that there were no plans to offer AdStar shares to the public.
+IBM's only comparable current full subsidiary is IBM Credit Corp.
+…
+AS US GEARS FOR AMBRA
+The IBM Personal Computer Co has formed a team under an executive hired last month from NEC Technologies executive to launch the cheapo Ambras in the US, US PC Week says.
+STERN's ACRI FORMS PARALLEL ALLIANCE WITH CRAY
+Paris-based Advanced Computer Research International SA, Jacques Stern's new company that also has a base in Lyon and is designing a massively parallel processor around Digital Equipment Corp's Alpha RISC (CI No 2,101), yesterday announced an agreement with Cray Research Inc to develop Fortran 90 compilers and applications for use on parallel systems.
+Under the agreement, ACSET, which develops compilers for  Advanced Computer in Louvain-la-Neuve, Belgium, will use Cray's advanced Fortran 90 front-end technology to create and market standard, fully Cray-compatible compilers for Advanced Computer and, eventually, other European computer manufacturers.
+At the same time, Cray will take an equity position in ACSET.
+Advanced Computer Research — ACRI — and Cray will also collaborate to convert and optimise applications codes on both companies' parallel computer systems — Cray is also designing parallel machines around the Alpha RISC.
+Advanced Computer was founded in 1989 by Jacques Stern, founder of Sesa SA and former chief executive of Compagnie des Machines Bull SA, to develop a new generation of European high-performance systems for the scientific, technical and engineering markets.
+Advanced Computer says its Alpha machines are not due on the market before the end of 1995.
+The company holds a minority interest and helped found ACSET to develop and market compilers and other software engineering tools for parallel computers.
+PROTEON FIRST TO CRACK IN CROWDED ROUTER MARKET; 15% CUT
+The bridge and router market has looked dangerously overcrowded for the past year, and the first big crack appeared yesterday when Proteon Inc fired 15% of its workforce after reporting a $2.7m first quarter net loss — including a $1.7m restructuring charge, on sales stalled, up just 5.6% at $27.7m.
+The Westborough, Massachusetts company is also splitting its business into two divisions, one for adaptor boards and wire centres, and the other for internetworking and intelligent hub systems.
+IONA SETS ORBIX, ‘FIRST FULL OBJECT REQUEST BROKER’
+Iona Technologies Ltd will unveil Orbix — described as the first full implementation of the Common Object Request Broker Architecture — at the Object World trade show in June.
+Colin Newman, business manager of the Dublin, Eire company acknowledges the other object managers already in the market from the likes of Hewlett-Packard Co and Hyperdesk Inc, but argues that Orbix is the first CORBA-compliant one to be built from scratch and as such scores in terms of size and efficiency.
+Moreover it is the first to offer direct hooks to the C++ programming language and last Friday, Iona, Sunsoft Inc and Hewlett-Packard made a joint submission to the Object Management Group proposing a standard C++ CORBA interface.
+Iona sees US-based in-house software developers as its largest market.
+Prices have yet to be set, but the company says that it is looking at $3,000 to $5,000 for a development kit and around $100 per user for run-time use.
+VERDIX EYES C, PUTS SECURE PRODUCTS ARM ON THE BLOCK
+Herndon, Virginia-based Ada language development systems specialist Verdix Corp wants to get out of its defence and aerospace software niche and into the commercial development tools market with the C and C++ languages, and to that end is seeking to get rid of its Secure Products Division, which develops and markets security products, including the Verdix Secure Local Area Network system, which is designed to protect information from unauthorised access by electronically securing different levels of data on a single network.
+It feels the unit would be better off in a company willing to invest in and grow that line of business — it says it does not have the resources to devote to an operation that is outside its core business.
+It wants to be a leader in the C and C++ commercial market that it sees emerging.
+THE PROCESS CHANGE THAT WILL LEAD SUNSOFT BEYOND SOLARIS 2.
+X
+According to Steve Bourne, now director of ONC+ Open Network Computing and network technologies at the Sun Microsystems Inc company, the process change that SunSoft Inc undertook in the development of Solaris 2.
+X for Sparc and iAPX-86 has been one of the company's most important achievements to date.
+Unlike previous operating system releases, which are often handcrafted patchworks of technology, Solaris is an assembly of working, tested and quality-checked components, Bourne declares, and the thing undergoes some 40,000 tests.
+Modern design
+The transformation of SunSoft's operating system development effort into a modern design and production process is not typical of the software industry, but it represents a new model for the software business that will come to predominate, he believes.
+Investment in the process change was a major component of the overall Solaris development budget.
+SunSoft claims to have learned the process from Sun's hardware manufacturing experience, the model for which is at least 10 years ahead of software, argues Bourne.
+That time lag is a feature that bedevils the software industry and led to the absurdity that the first generation 32-bit chip, the 80386, had been superseded and obsoleted by the 80486 before there was a 32-bit desktop operating system available for the processor.
+Bourne, creator of the original Unix Bourne shell command interpreter, believes that the fact that development of Unix operating systems is generally done in a handcrafted manner is not a function of the inherent diversity of Unix itself, but is a long-term software engineering problem.
+Solaris release schedules are another victim of SunSoft's process change, although according to Bourne, one further revision is required to achieve simultaneous, worldwide Solaris releases on Sparc and Intel Corp iAPX-86 systems (and presumably the IBM Corp-Motorola Inc PowerPC in future too).
+Bourne says the company will reach its goal with Solaris 2.3, due late this year, or with 2.4, expected mid-1994.
+In the past, a long list of features promised for each new release inevitably meant that release dates slipped (Solaris x86 is a case in point?), and that won't happen any more, Bourne claims.
+Now that SunSoft has committed to new Solaris releases every six months, the features requirement list for each release closes some six months before the final code specification and the release date are fixed.
+And whatever is ready by that day will be released.
+‘Ship rather than slip,’ is the way Bourne describes it.
+SunSoft has enhanced Solaris 2.0 to release 2.2 for Sparc (although it is not officially calling it that), and that should be up on all new systems from May.
+Some of these enhancements are also expected to feature in Solaris x86 for Intel iAPX-86 machines — the feature-for-feature implementation of Solaris 2.0 unveiled a couple of weeks ago — by the time that ships in May.
+Solaris 2.2 includes a re-write of the kernel using threads to implement enhanced multiprocessing functionality and to solve concurrency problems.
+Bourne says that SunSoft invested in multi-threading instead of things like security because distributed applications need multi-threading in the base system and Sun sees distributed applications and systems as the way of the future.
+The multi-threading project was led by Bourne, and SunSoft claims a 60% performance boost over previous Solaris versions as measured on an eight-way Dragon system.
+Bourne says that the rewrite has now achieved linear performance increases across multiple processors running a database.
+Independent software vendors can use Solaris's C library to develop multi-threaded applications from now, although Solaris 2.3 will contain all system layers, says Bourne.
+Akin to the way Solaris x86 includes a device driver interface, Solaris 2.3 will also feature a Kernel Binary Interface, which will take care of hardware-dependent functions such as cache management, interrupts, temporary states and floating point processing.
+Manhattan
+All of which makes it sound as if SunSoft is positioning Solaris to be a completely hardware-independent environment.
+An Intel version of multi-threading is currently being test on an AST Research Inc Manhattan multiprocessor and is due in 90 days.
+Solaris Release 2.4 will come with graphics features such as PEX and Phigs.
+On objects, Bourne says the DOMF — Distributed Object Management Facility — or system call layer, will be the kernel of SunSoft's object stuff.
+Application services will reside on top, and that's what the majority of software developers will wait for.
+Although object technology is ‘a major technical change to the system,’ Bourne says that SunSoft's approach is very different from other efforts such as the IBM-Apple Computer Inc Taligent venture or Microsoft Corp's Cairo because they are looking to reusability and faster time to market for applications as an end result.
+SunSoft on the other hand has object technology at the core of its distributed vision and its masterplan.
+Distributed applications will need to include distributed object functionality built in and ready to use.
+‘That has to be designed in and that's difficult,’ says Bourne, who claims it will ultimately be ‘the key to SunSoft's success.’
+SYNOPTICS TEAMS WITH IBM TO CONVERT ITS OPTIVITY, LATTISWARE FOR NETVIEW/6000…
+SynOptics Communications Inc, Santa Clara, is co-operating with IBM Corp Networking Systems to provide Unix-based technology for distributed management of customers' large scale multi-vendor networks.
+Initially, SynOptics is converting its Optivity network management system and LattisWare Solutions applications for IBM's NetView/6000 network management system for IBM RS/6000 computers.
+The option is expected to cost under $10,000 per user licence.
+NetView/6000 will support the Open Software Foundation's Distributed Management Environment and Simple Network Management Protocol version 2, and will work with a variety of relational databases.
+The Optivity software manages all of the network's key building blocks: intelligent hubs, routers, bridges and end-systems.
+Both NetView/6000 and Optivity comply with SystemView — IBM's strategy for managing enterprise-wide information systems — through the OSF/Motif graphical user interface.
+There will be two phases in the migration of Optivity to NetView/6000.
+The first release, scheduled for availability in the third quarter 1993, will add support for Fibre Distributed Data Interface networks and SynOptics' LattisRing Token Ring and LattisHub Ethernet cascadable workgroup hubs to LattisViews.
+Currently customers can manage SynOptics' Ethernet and Token Ring intelligent hubs from the NetView/6000 system.
+SNMP information from intelligent hub systems will also be able to be forwarded to IBM's mainframe host-based NetView management environment.
+In the second release, set for the first quarter of 1994, comprehensive internetwork management capabilities will be added, enabling the network management system to discover, display and maintain the physical and logical topology of all major network devices automatically.
+In the fourth quarter of this year, SynOptics' RouterMan and PathMan LattisWare Solutions applications will be provided for NetView/6000.
+RouterMan enables network managers to see — in a graphical format — routers' status, configuration and general health.
+PathMan can trace the path of a packet of information through the physical, data link and network layers of an entire network, revealing the status of every router, bridge and intelligent hub and their physical links from one end-station to another, the company claims.
+The third area of co-operative effort lies in interoperability testing.
+Although SynOptics already participates in Management Information Base testing for interoperability with NetView/6000, it says that it is planning to expand this to other management elements such as remote monitoring — RMON, and SNMP Version II agents.
+…
+AS SYNOPTICS AND CISCO SYSTEMS DECIDE TO SCALE BACK THEIR RUBSYSTEM JOINT VENTURE PLANS
+In response to what they characterise as changes in the market, Cisco Systems Inc, Menlo Park, and SynOptics Communications Inc, Santa Clara, have adjusted their plans for joint development effort on RubSystem, which was to have combined their hub and router technologies into one high end hardware chassis.
+Instead, they now intend to integrate the technologies only at the network management level.
+The market changes responsible are customer emphasis on the logical rather than physical integration of both installed and new router and hub technologies in enterprise data networks, the companies explain.
+Cisco and SynOptics see network management as the most efficient way to produce this integration.
+The other major change is the rate at which innovation is increasing in the hub and router markets — particularly the speed of Asynchronous Transfer Mode development.
+The companies therefore feel that hardware development should be decoupled, but that there should be tightly-coupled network management so the products can be managed as one.
+This latter process has already started with the announcement last autumn of SynOptics' Optivity network management system and CiscoWorks router management software.
+The two companies are likely to work on other management features such as the co-ordination of their Management Information Base for use on popular network management systems and the definition of a common network management database for their products.
+DATAMAN OFFERS SPARC WORKSTATIONS AT HALF SUN LIST PRICE
+German Sparcsystems builder Dataman Computervertriebsges GmbH, based in Stuttgart, has introduced SuperSparc and microSparc systems, the Solair 10/30 and Solair Classic.
+A clone of Sun Microsystems Inc's Sparcstation 10 model 41 will be released in May, the company says.
+The 36MHz Solair 10/30 comes with a 20″ colour monitor, 32Mb RAM, 520Mb disk, floppy drive, four Sbus slots and two Mbus slots.
+It runs SunSoft Inc's Solaris 1.1, and Solaris 2.1 will be available from May.
+It costs £8,700, which the company claims is an incredible half the cost of an equivalent Sun box, which retails at £16,300.
+The 50MHz Solair microSparc-based Classic is configured with 16Mb RAM, 520 disk and comes with three Sbus slots.
+It runs both Solaris 1.1 and Solaris 2.1 operating systems and comes with 15″, 17″ or 20″ colour monitors.
+The Solair Classic costs £1,800, according to Dataman's Corinna Fechner — again, almost half the price of the Sun Classic, which is £3,650.
+The Solair 10 model 41 will ship in May and is configured as the Sun box, the company says.
+Clones of Sun's 45MHz models 52 and 54 boxes and 50MHz models 62 and 64 will be introduced as and when Sun ships.
+The systems are assembled by Dataman in Germany.
+The company says it is able to offer Sun-compatible boxes at such low prices because it buys components as a group and sells through catalogues in Germany, the Netherlands, the UK, Austria, Switzerland and France.
+In the UK, Dataman claims to have sold 15 Solair 10/30 and Classic boxes and expects to sell 100 by the end of the year — 2,000 across Europe.
+TEXAS SAYS IT IS MAKING 50MHz VIKINGS IN 100,000s PER QUARTER
+Texas Instruments Inc reports that it delivered its 100,000th SuperSparc chip early in the first quarter and is now able to produce 50MHz Vikings in quantities of tens of thousands a month and in hundreds of thousands a quarter.
+In fact all production is now concentrated on 40MHz and 50MHz chips.
+The 36MHz SuperSparcs are still available but the lower cycles will be phased out.
+Texas claims that Super Sparc is the highest volume RISC chip in production and is ‘pretty close’ to its 200,000th unit.
+All Viking chips between 45MHz and 60MHz will be called SuperSparc+, in keeping with the roadmap Sun recently detailed taking Sparc into the 500MHz stratosphere.
+Texas is currently working on the next turn.
+With Texas producing the units in the quantities needed, the Sparcstations and upgrades are expected to be deliverable this quarter.
+APPLE SEIZES NUMBER THREE SPOT IN JAPAN AS SOFTWARE OPPORTUNITIES GROW
+According to a Dataquest Japan survey, Apple Computer Inc was the only personal computer maker in Japan to increase its shipments in 1992 — increasing by 45.8% to 185,000 units and jumping up the market share league table to third place from sixth last year, taking 8.3% of the market, writes Anita Byrnes.
+The market share of NEC Corp, Japan's top personal computer maker, still managed to grow, albeit by only 0.6% to 53.4%.
+Total shipments of personal computers declined 5.8% to 2.23m units.
+Fujitsu Ltd ranked second with a market share of 9.8%, followed by Toshiba Corp in fourth place with 7.6%.
+IBM Japan ranked fifth with 6.1%.
+In surveys of the retail outlets in Akihabara, a well-known electronics outlet area in Tokyo, the Macintosh LCIII and the Mac Colour Classic ranked in the top 10 most popular computers for sales in February, coming in at numbers six and nine respectively.
+The Macs are priced comparably with the other machines in the top 10, all of which are versions of the NEC 9800.
+With the US and European price war now boiling up in Japan, the picture for 1993 promises to alter significantly — and the availability of much cheaper personal computers is seen as a major opportunity for US software vendors.
+The potential is underlined by the fact that the US market, with just twice the population of Japan, absorbed about 10m personal computers last year, against the modest 2.2m sold in Japan — although the comparison is distorted by the fact that the dedicated word processor is still a major force in the Japanese market, and 2.24m Japanese-language word processors produced in 1992 according to the Electronics Industry Association of Japan, which means that combined sales for word processors and personal computers are much closer to parity with the US market.
+Makoto Naruke, president of Microsoft Corp's Japanese subsidiary, told Reuter that he believes overall Japanese personal computer sales will increase 30% this year — and on the back of this, he expects Microsoft's sales in Japan — just $108m in the year to June 31, 1992 — to rise to $136m in the year that ends this June.
+Laboriously
+Microsoft hopes that the launch of the Japanese version of Windows 3.1 will raise fiscal 1994 sales to $203m.
+Likely beneficiaries of a boom in personal computer sales include Lotus Development Corp, Microsoft and Borland International Inc, which together account for 90% of Japan's spreadsheet market.
+A further revolution that has not yet taken hold widely in Japan is that of networking personal computers and word processors, and one American working for a large Japanese company in Tokyo complained to Reuter of hours spent every day hunting down paper documents written on dedicated word processors and then stuffing them laboriously into facsimile machines — when an  efficient personal computer network could save all the effort.
+‘Japanese companies have amazing efficiency in manufacturing but this doesn't apply to offices,’ he said.
+NEC DISPLAY DEVELOPMENT
+NEC Corp has developed a full colour 10.4″ 2.5 lbs thin film transistor liquid crystal diode display screen based on an analogue RGB interface: NEC says that the new technology displays natural colours in the 4,096 colour range of a quality not previously possible: a high level of picture brightness is also achieved; specifications include a 640 by 480 resolution screen with a total of 307,200 pixels and a response time of less than  40ms .
+NEW MULTIMEDIA MULTIPLEXER FROM FUJITSU
+Fujitsu Ltd has come out with a new multimedia multiplexer in its DMIX series, one of a series of multiplexers designed for its Network Solution 2000 network architecture: the new E-2570 DMIX has a capacity of 10 data channels and six speech voice channels, and comes between the large capacity E-2570 DMIX and the compact E-2300 series Compact MUX; Fujitsu expects to sell 5,000 units over three years, starting in June, at a price of $73,000); the E-2500 series DMIX and E-2300 series Compact MUX were released in September last year and Fujitsu says by the end of last month, sales to 100 companies had been made.
+PRODUCT BECOMES SUBJECT OF NCR NEC AGREEMENT
+The wireless local network product that NCR Corp exhibited at the Unix Fair in Yokohama last year is now the subject of an agreement between NCR and NEC Corp, which will sell the local network under its own name, as will NCR Japan; WaveLAN operates in the 2.4GHz frequency band, and a new related product, NCR WavePoint, designed to connect wireless local networks to cabled ones, will also be available from June, priced at about $4,000.
+IBM JAPAN HAS NEW PRESIDENT
+IBM Japan Ltd, which restructured in January by creating two subsidiaries, one aimed at small and medium-sized companies and the other offering overall services including consultation and facilities management, has a new president, Kakutaro Kitashiro, who replaces Takeo Shiina, who was also a member of the IBM Corp main board, and is now non-executive chairman of IBM Japan: the new president is 48 years old, a 26-year veteran of IBM Japan, and possesses little of the charisma of the outgoing Shiina; he rose rapidly through the ranks to a position of potential candidate for president in 1984.
+FUJITSU ESTABLISHES MULTIMEDIA DIVISION
+Following its announcement earlier this year of a version of its FM-Towns multimedia personal computer aimed at the fireside market for connection to the family television, Fujitsu Ltd has established an in-house Multimedia Project Promotion division, drawing in researchers from its Research Laboratory as well as staff from its systems and sales divisions: Fujitsu cites figures from Dataquest forecasting growth in the world's multimedia market at an average of 31.6% annually over the next four years and says it is ready to exploit its strengths in multimedia base technologies such as its Subaru computer graphics system and signal processing chips for high definition television, as well as user interfaces based on virtual reality, in the development of multimedia point-of-sale systems, software and automatic teller machines.
+PARSYS USES INMOS 32-WAY SWITCH IN ITS SN9000 WITH UP TO 2,000 LONG-AWAITED T9000 TRANSPUTERS
+Parsys Ltd has at last been able to follow up the statements of intent it issued over a year ago with the formal announcement of its Inmos Ltd T9000 Transputer-based SN9000 series parallel computers.
+The new range, which is targeted at the traditional scientific and technical parallel computing markets, will comprise five model types, covering a performance range from 800 MIPS to over 400,000 MIPS.
+All will use Inmos's 32-way C104 switch chip.
+The machines consist of modules with either 8Mb, 32Mb or full 64-bit memory addressing in size 2 High Performance Transputer Module format; or 16Mb and 64Mb in size 4 format.
+Peripheral access is via SCSI-II modules.
+All can be hosted by a personal computer or Sun Microsystems Inc workstation.
+Parsys will also provide a single T9000 module with Ethernet, SCSI II, RS232 port and minimum 16Mb memory.
+The SN9300, aimed at engineering and educational users comes in two types of enclosure: full VME with T9000 VME master board for supporting flexible addressing over the VME bus; or passive rack, which uses the backplane for power sourcing only.
+The system uses up to four processors per board, and is expandable to 40 processors.
+Each board has 128Mb RAM, 100 MFLOPS and 800 MIPS.
+The SN9400, designed for single users, comprises a series of small enclosures, each with its own power and cooling systems that can be linked together in a stack.
+Users can choose between a single or multiple processor host, with a maximum of four switched or four unswitched processors per unit.
+The system is expandable to 16 processors, with a maximum of 512Mb RAM.
+Each unit of four processors offers 100 MFLOPS and 800 MIPS.
+The SN9500, also for single users, is a fully switched network of 16 High Performance Transputer Modules.
+It is designed to fit under a standard workstation processor unit and to be hosted by it.
+It has 512Mb RAM and delivers 400 MFLOPS and 3,200 MIPS peak per unit.
+The higher capacity SN9700, is designed as a network server for up to four simultaneous users.
+It has up to four motherboards, each with 16 fully switched High Performance Transputer Modules.
+The motherboards are arranged in four clusters that communicate through a single backplane.
+Further disk and tape systems can be accommodated, along with up to 64 Transputers.
+It offers 2,048Mb maximum RAM and delivers 1,600 MFLOPS and 12,800 MIPS peak.
+Top of the range is the SN9800, for multi-user networked systems.
+It is fully switchable, scalable to over 2,000 processors and capable of supporting a range of topologies from simple clustered networks to reconfigurable complex networks.
+Idris
+SCSI and Ethernet devices are integrated closely into the system, enabling any processor within the system to be attached to a SCSI or Ethernet controller.
+It offers 8,192Mb RAM per unit, with a system maximum of 65,536Mb.
+Each unit delivers 6,400 MFLOPS and 51,200 MIPS.
+The SN9000 systems will initially use the Inmos tool sets for C and Occam, with Fortran in 1994.
+The Idris operating system can also run on as many Transputers as necessary while enabling part of the system to remain as a native T9000 network.
+The smaller systems arrive first, probably around the third quarter.
+Parsys intends prices to begin at an ‘extremely aggressive’ $10,000.
+The larger systems should follow by the year-end.
+ARCHIPEL OF PARIS OFFERS MIX-AND-MATCH BOARDS, SYSTEMS WITH CHORUS
+Paris-based Archipel SA is to market a number of development boards and systems based on the T9000.
+These include the Volvox-TW-9000 ‘ready to start’ computer; the Volvox-devT9000 toolbox for embedded systems; and three boards — the Volvox-1/SF-900 SBus board, Volvox-1/CTR-900 and Volvox-1/V-900 Master/Slave VME T9000.
+The TW-9000 parallel MIMD system according to Archipel, goes from one user-friendly pizza box, filled with four High Performance Transputer Modules, up to arrangements of four boxes linked together.
+The software will include the Inmos T9000 C and Occam-based Toolset, and Chorus Systemes SA's Chorus/MiX real time Unix operating system.
+The system can be used to develop parallel embedded applications or as a booster for workstations.
+Sample price for a 16Mb box is $45,000.
+The Volvox-devT9000 is a software development and support system for integrating standard High Performance Transputer Modules, HTRAMs, and peripheral controllers.
+It enables users to prototype specific hardware interfaces and also network systems.
+It is based on an open VME chassis with Inmos motherboards and HTRAMs and will offers switching boards using one or more C104 Inmos chip, with wire connections between boards conforming to the Inmos standard.
+It costs $25,000.
+The 1/SF-900 board for Sun Microsystems Inc Sparcstations includes shared memory between the T9000 and SBus.
+It can be used as a single processor development system, a gateway to a network of T9000s, a Transputer network controller or a combination of all three.
+It is around $3,500.
+The 1/CTR-900 board provides the basis for a development system that includes SCSI II and Ethernet.
+It is $7,200.
+Finally the Master/Slave VME T9000 board, built on top of Chorus is for use as a VME controller.
+It is $7,300 to $8,600.
+PARSYTEC CLAIMS WORLD's FIRST HIGH-PERFORMANCE PARALLEL DESKTOP SYSTEM WITH ITS NEW XPLORER
+Aachen-based Parsytec GmbH now has what it claims to be the world's first high performance parallel desktop system, the Xplorer, based on the Inmos T9000.
+It comprises between eight to 16 Transputers, with a between 8Mb and 32Mb memory on each node.
+Extra input-output interfaces, mass storage subsystems and image processing modules can be added to boost performance, with users offered the choice of Inmos's High Performance Transputer Modules or Parsytec's own Transputer Image Processing modules.
+Up to four Xplorer systems, totalling 64 processors, also can be connected.
+Xplorer supports both the Inmos software tool set and Parsytec's Parix system.
+Parsytec reckons the system offers better performance than traditional high end workstations and expects that it will be used mainly for graphics, design and animation; technical and economic modelling; manufacturing and office automation systems.
+An eight-processor version will cost around £17,000 and a 16-processor machine £27,000.
+Pre-final spec T9000-based versions will ship in June or July followed by final spec versions in the fourth quarter.
+According to Parsytec, the Xplorer offers users a migration path to its GigaCube massively parallel supercomputers which are also to use T9000s.
+The company is uncertain as to whether it will phase out its current T805-based GigaCubes just yet — the decision will depend on customer demand.
+Availability will be as for the Xplorer, with prices starting at £34,000 for an eight-node machine and ranging up to £4m for a 1,000-processor model.
+Meantime, to help users assess the T9000, Parsytec is offering interested parties the chance to bench-test applications using a special evaluation kit.
+This includes a module with T9000, 8Mb memory and T805 processor connected to a Sparc workstation.
+The T9000 memory is laid out as a dual ported memory and is therefore accessible for measurements by the T805.
+Special software running on the workstation parallelises C programs using Parix, ACE compilers and the Inmos C Toolset compiler.
+The kit will be made available to some customers and other interested parties for around the cost of one day's consultancy.
+Parsytec reckons that the tests it has done on lower clock frequencies point to a six to tenfold performance improvement over the T805. — Lynn Stratton
+OLIVETTI LOOKS TO BUBBLEJET PRINTER, NEW PERSONAL COMPUTERS TO FUEL ITS RECOVERY
+As reported, Ing C Olivetti & Co SpA is extending its printer offerings with its natty wedge-shaped JP 250 bubble jet and is revamping its high end personal computer offerings with the M6 Suprema line (CI No 2,136).
+The new computer range is aimed at professional users running demanding multimedia applications or requiring other ‘value added’ extras like security and ergonomic features.
+It represents the next stage in the company's three-pronged approach to the market, along with the existing consumer PCS line and standard ‘cost sensitive M300 series.
+The Suprema series presently comprises three models: the M6-420, based on a 33MHz 80486SX processor; the M6-440, based on a 33MHz 80486 DX; and M6-460 based on a dual-frequency 80486 DX2 processor, running at 66MHz internally and 33MHz externally.
+All can be upgraded using Intel's clock-doubling OverDrive technology which is soon to offer an upgrade path to Pentium standard performance.
+They have hard disk capacities of 85 to 510Mb, come with 2.88Mb 3.5″ and 5.25″ 1.2Mb drives and can accommodate up to four AT expansion boards and four internal peripherals.
+Standard memory is 4Mb expandable to 100Mb on the motherboard.
+Some 256Kb of secondary-level cache can also be installed in the M6-420 and 440 — and is already pre-installed in the 460.
+Special multimedia features include a built-in graphics controller which is integrated onto the CPU local bus and an audio subsystem.
+The machines are supplied with Microsoft Corp's Windows Sound System software kit and support the following operating systems: Windows — including Windows NT, MS-DOS, OS/2 with Presentation Manager, Novell Inc NetWare, Olivetti and Microsoft LAN Manager, Santa Cruz Unix V and Olivetti Unix V4.0.
+A 33MHz 4Mb version with 85Mb hard disk, colour monitor, MS-DOS 5.0 and Windows 3.1 costs around £1,600; a 66MHz 8Mb version is around £2,400.
+Future additions to the range include EISA tower systems, according to Olivetti.
+Generally flat year
+It is hoped that the new releases will continue the minor upturn in personal computer sales seen during the fourth quarter after the release of the PCS and M300.
+Compared to the same period last year, sales rose 39% up from 201,000 to 280,000.
+This was the highlight of a generally flat year for Olivetti, during which saw its market share rise to 6.1% from 5.8%.
+As for its printing business — Olivetti proudly claims it produced more than 500,000 units in 1992 and is promising to make a number of new announcements through 1993.
+It has kicked off with its high-quality-low-cost JP250 printer which harnesses the new bubble-jet technology developed by partner Canon Inc, with which Olivetti has a joint licensing agreement (CI No 1,888).
+It also has a special refillable print head, designed by Olivetti, which the company reckons helps preserve printhead life and helps reduce the cost per page.
+It delivers 300 dpi and has two speeds — 120 characters per second in letter quality mode, and 180 characters per second in draft mode.
+It comes with 25 scalable Bitstream soft fonts in TrueType format and 13 resident fonts.
+And it has a full PCL 3 interpreter that enables it to emulate Epson FX850 or IBM PP4207 printers.
+It is recommended for printing word-processed documents and graphics and, Olivetti says, is ideal as a personal printer for business users and for the education market.
+It costs around £270 and will be available in May.
+UNIX LABS PETITION DENIED, BERKELEY SOFTWARE MAY DISTRIBUTE BSD/386 CODE
+Unix System Laboratories Inc has suffered a second setback in its court case against Berkeley Software Design Inc for copyright infringement and misappropriation of trade secrets.
+In answer to Unix Labs's recently filed a petition for reconsideration, Judge Dickenson Debevoise has refused to reverse himself and hand down a preliminary injunction preventing Berkeley Software from distributing its BSD/386 code.
+Unix Labs has now filed an appeal with the Third Circuit Court of Appeals.
+It will take months for the appeal to be heard, putting all the machinery of the lawsuit in slow gear, although the discovery process will continue.
+Unix Labs did manage to walk away from Judge Debevoise's courtroom with a minor victory: it got him to set the record straight as to how many copies of 32V were actually distributed.
+The court's decision to deny the preliminary injunction was based in part on the notion that thousands of copies of 32V were disseminated and freely available back in the late 1970s, when in fact only about 250 copies were circulated, and those said to have been on tight contractual terms.
+According to Unix Labs counsel Sandy Tannenbaum, this correction of fact will improve Unix Labs's chance on appeal.
+Unix Labs maintains that 32V, which the court previously found was copied in the University of California at Berkeley's Net2 code, and again in BSD/386, required no copyright notice because it was a limited publication.
+According to the then-prevailing legal opinion, a copyright notice would have tainted its trade secret protections.
+Meanwhile, Berkeley Software says it has sent out 650 copies of production BSD/386 Release 1.0 code since the judge cleared the way for distribution to start a month ago.
+TOP BRASS LINED UP FOR OBJECTWORLD
+Trying to out-do the star-studded cast it assembled for last year's Object World San Francisco, the Object Management Group has come up with Steve Jobs, NeXT Computer Inc chief executive; Lee Reiswig, IBM Corp Personal Software Division president; John Edwards, Novell Inc executive vice president; Bud Tribble, NeXT co-founder and SunSoft Inc vice president User Systems; Representative Edward Markey, chairman, the US House Telecommunication & Finance Committee; Bo Hedfors, L M Ericsson Telefon AB chief technology officer; Kurt Fischer, Pentagon director, Department of Defense Information and Elaine Bond, Chase Manhattan Bank vice-president.
+June 14 to 16 at San Francisco's Moscone Center
+CHANNEL SEMINAR AT UNIX RESELLER SHOW
+A separate Channel Marketing Seminar is attached to the new Unix Reseller Show in Dallas that's set for May 3, the day before the expo kicks off.
+Topics include ‘Why Unix Vendors Must Court and Support Resellers,’‘Tuning into the Unix Channel,’‘Selling Unix Solutions in the International Marketplace,’‘Closing Open Systems Sales’ and an intensive ‘Trade Show Advantage’workshop.
+Come one, come all.
+One of Unigram's editors is speaking.
+FARNELL BUBBLES WITH CREATIVE SALE OF TAX CREDITS, NEW CHIEF EXECUTIVE IN THE WINGS
+Distributor and manufacturer of electronic components and equipment, Farnell Electronics Plc, has reaped the rewards of overseas expansion for its fiscal year to January 31.
+Turnover rose by 24.1% to £254.3m, while pre-tax profits rose 27.2% to £41.6m — after gains of £6.4m from the sale of corporation tax credits.
+Farnell took the business of one of its trading companies, changed the name and sold off its ‘considerable corporation tax’ to an unnamed buyer.
+It then re-instated the old name and reaped the gains, while business continued as usual.
+The proceeds, together with capital earned from trading, were used to wipe out net borrowings of £13.8m, the equivalent of 17% gearing.
+The Wetherby, Yorkshire company now has £600,000 net cash.
+EDS Distribution
+And the board has recommended a final dividend of 3.4 pence, which makes a total of 6.2 pence for the year, a rise of 7% on 1992.
+This, according to chairman Richard Hanwell, is the result of ‘our earnings per share once again showing unbroken growth’.
+While finance director Henry Elstone said that the company grew by approximately 6.5% organically, the figures for the first time also include a full year's contribution from ESD Distribution Ltd, which Farnell acquired in July 1991 for £61m.
+Sales here were £95.8m compared with £55.9m in 1992, while operating profit grew to £9m this time from £5m last.
+ESD sells low margin, high-volume electronic components to large corporate customers under franchise, mainly in the UK, but also in Scandinavia and Ireland.
+It has just won an additional franchise in Germany and according to Elstone, the company will move more and more into Europe as the UK market continues to mature.
+The other distribution business, Farnell Electronic Components, supplies wholesale low volume, high margin electronic components and instruments to such customers as electricians and small businesses, promising overnight delivery.
+It also had a good year, particularly in the UK, although overseas outlets saw ‘excellent growth’.
+The company has established operations in the UK, Ireland, France and the Netherlands, but opened two new offices in Australia and Germany during the year.
+Elstone said that Farnell's immediate aim was to cover the whole of Europe; and eventually the world.
+Some 80% of total group turnover is still generated in the UK, however.
+For the division as a whole, sales grew 30.9% to £208.8m, while operating profit increased 18.7% to £36.2m.
+But, despite restructuring, things weren't so rosy at the manufacturing division.
+Turnover was flat at £50.5m, while profits fell 58.9% to £1m.
+During the year, Farnell amalgamated 14 separate operating companies into three businesses: one manufactures components and sub-assemblies; the two others, Farnell Power Ltd and Farnell Instruments, undertake the development and marketing of power supplies, and test and measurement equipment respectively.
+Although Elstone reckons that no more reorganisation will be necessary in the near future, he doesn't believe performance at the division will improve markedly until the recession is over.
+But, he said, its new management is going all out to ensure that it becomes more efficient cost-wise, that it focusses its research more effectively, and that it becomes more market-led.
+From October, the group will have a new chief executive to replace the old one, who retired last August.
+He he has a similar job at another UK public company was all Farnell would say.
+The shares added ninepence to 387p against the trend.
+COMPANY RESULTS
+Ameritech Corp has reported first quarter net profit of $300m against losses of $1,409.4m last time, after $37m restructuring charges this time and $1,746.4m charges due to the cumulative effect of an accounting change last time, on turnover up 3.9% to $2,796.5m.
+Net earnings per share was $1.11.
+Bell Atlantic Corp has reported first quarter net profit up 22.2% at $414.2m, after $65.2m gains from the cumulative effect of an accounting change for income taxes and $23.2m charges due to early payment of debt this time and $8.3m charges due to early payment of debt last time, on turnover up 2.3% to $3,163.3m.
+Net per share rose 20.3% to $0.95.
+Comparisons are with restated figures.
+Harris Corp has turned in third quarter net profits up 48.9% at $27.5m, after $3m extraordinary charges last time, on turnover that rose 1.3% at $744.2m; net profit for the nine months was up 45.9% at $73.6m, on turnover that rose 3% to $2,240.6m.
+Net earnings per share rose by 48.9% to $0.70 in the quarter, and by 45% to $1.87 in the nine months.
+Honeywell Inc has turned in first quarter net profit of $57.3m against losses of $31.1m last time, after $65m gains from the settlement of litigation and $144.5m charges from the cumulative effect of an accounting change last time, on turnover that fell by 2.9% to $1,438.6m.
+Net earnings per share, adjusted last time for a two-for-one stock split paid in December 1992, amounted to $0.42.
+Proteon Inc reported a first quarter net loss of $2.7m after a $1.7m restructuring charge and a gain of $450,000 from an accounting change, against $1.8m profit last time, on sales up 5.6% at $27.7m.
+Retix Inc has reported first quarter net losses of $1.2m, after $204,000 gains from the cumulative effect of an accounting change, against profits of $1.7m last time, on turnover down 18.2% to $13.6m.
+Southwestern Bell Corp has reported first quarter net losses of $1,914.1m against profits of $261.6m last time, after $89.4m charges from early payment of debt this time and $2,127.2m charges due to the cumulative effect of an accounting change last time, on turnover that rose by 7.5% to $2,457.8m.
+Stratus Computer Inc has reported first quarter net profit down 22.4% at $8.8m on turnover up 4.1% at $114.6m.
+Net earnings per share fell 24% to $0.37.
+Creative Technology Ltd has reported a third quarter net loss of $5.6m, struck after a $22m charge incurred in connection with the acquisition of E-mu Systems Inc, against a profit last time of $6.5m, on turnover that soared 172% to $74.5m; net profit for the nine months climbed 73.0% to $27.0m on turnover that rocketed 236.5% at $204.2m.
+Net earnings per share rose 168% to $0.67m.
+The Singapore company reports its figures in US dollars.
+Siemens AG has reported net profits for the six months to March 30 up 2.1% at the equivalent of $548m on turnover up 5.7% at $23,125m.
+No per share figures; conversion at $0.625 to the mark.
+Farnell Electronics Plc has reported net profits for the year to January 31 up 45.7% at £31.5m, after £6.4m gains from the disposal of a dormant subsidiary, on turnover up 24.1% to £254.3m.
+At the pre-tax level, profits were up 27.2% at £41.6m.
+Earnings per share rose by 43.6% to 23.7 pence.
+Corrected Result: Sequent Computer Systems Inc has reported that its first quarter net profits jumped 253% at $3.4m on turnover 20.4% ahead at $77.6m.
+Net earnings per share soared by 200% to $0.12.
+IBM CORP SHARES ON THE SLIDE
+Amidst worrying indicators that the US recovery may have stalled again — there was a disconcerting fall in capital goods orders in the first quarter, IBM Corp shares are on the slide again, and they were trading at around the $47 mark yesterday; the 52-week low was $46.375 on January 21, the lowest since 1975.
+IBM DIVIDEND UNCHANGED
+Louis Gerstner clearly decided that discretion was the better part of valour when it came to facing the blue rinse brigade at the annual meeting in Tampa, Florida yesterday, and just before the meeting, IBM Corp announced that its diminished dividend would be unchanged at 54 cents a share for the first quarter; there had been fears that the company would cut it again.
+GERSTNER NOT MINCING WORDS
+Facing his first annual meeting as IBM Corp's chairman and chief executive, Louis Gerstner did not mince words, telling the Tampa assembly that the company's very survival had been called into question in the past year, but promised that although the company's reputation was temporarily tarnished, it will remain strong thanks to its worldwide base —‘It would be a great mistake for naysayers to underestimate IBM,’ Gerstner said.
+NO GRAND SCHEME
+Gerstner told the IBM Corp meeting in Tampa, Florida that he does not intend to ‘lay out a grand scheme’ for the company: ‘There has been a lot of speculation,’Reuter reports  him saying, ‘that I am going to unveil some great plan,’Gerstner said; ‘You will see actions, and our actions will speak for themselves,’but added that some actions will not emerge until 1994; he described it as not entirely accurate to describe IBM's strategy as ‘splitting it up into a bunch of little pieces,’and added that the dividend may change based on IBM's performance and outlook; ‘We can't expect quick fixes,’Gerstner told more than 3,000 shareholders at the meeting, ‘But I do dare to ask your patience,’he said; his top priority is to get IBM's layoffs completed and ‘rightsize’the company —‘I want to get it behind us so we can say to those remaining, ‘You are are our team,’’he said; he acknowledged several times that IBM's bureaucracy had hampered the company, and elsewhere it was reported that he has ordered managers to dispense with the customary slides and flip charts when they address him —‘IBM has changed but some would say not fast enough,’but ‘We can bring IBM back,’Gerstner said.
+60 VERSIONS OF INTEL 80486
+Sounds highly confusing for its customers…
+Intel Corp says it will ship 60 versions of the 80486 this year, with clock speeds ranging from 25MHz to 100MHz, senior vice-president Paul Otellini told the Hambrecht & Quist conference in San Francisco: ‘We now have the capacity to build some 30m 80486s in 1993,’ Otellini said, and he expects Intel to sell some 100m 80486 chips after 1993; Intel expects to spend some $900m on research and development this year, up from $780m in 1992, he declared, and would do 1m Pentiums in 1994.
+ZILOG TO INVEST $200m IN EXPANSION
+Zilog Inc, Campbell, California is to invest $200m to expand its Nampa, Idaho wafer fabrication plant, in a move that will more than double the its production capacity: it will construct a a 200,000 square foot facility on an adjacent 35-acre site, and the first phase includes a 30,000 square foot, better than Class I clean room for submicron lithography wafer production.
+GENICOM IS DELL'S PREFERRED PRINTER PROVIDER
+Westfields, Virginia-based Genicom Corp reports that Dell Computer Corp has chosen it to be Dell's preferred printer provider: financial terms were not released, but Genicom said the partnership is expected to be a multimillion dollar opportunity for both companies.
+DESTINY TECHNOLOGY LOSES PATIENCE WITH USL
+Santa Clara, California-based Destiny Technology Corp has lost patience with Unix Systems Laboratories, Novell Inc and Univel Inc over their use the the Destiny name for Unix System V.4.2, and is suing for alleged trademark infringement, deceptive trade practices and unfair competition; Destiny provides imaging controller software and hardware technology for printers and desktop peripherals.
+ E-SYTEMS SUES IBM
+IBM Corp has been sued by E-Systems Inc, which alleges that it broke a contract for electronics work on an Air Force aircraft: according to the Dallas Morning News, E-Systems is seeking $65m in damages from IBM; the dispute involves the Talon Combat II aircraft, which IBM is building with Lockheed Corp; E-Systems signed a 1988 agreement to integrate and install equipment on the plane as an IBM subcontractor.
+UNISYS NAMES NEW CHIEF TECHNOLOGY OFFICER
+Unisys Corp named Ronald Bell to the new post of chief technology officer: he was most recently vice-president and general manager of the Unisys Unix Systems Group.
+CAUSE FOR CONCERN AT DEC
+It had looked as if Robert Palmer was getting Digital Equipment Corp back onto an even keel, but now comes cause for great concern: too many companies decide that if the product is having a tough time in the market, the answer is to change the packaging, and DEC is tarting up its famous lower-case ‘digital’ logo, which has stood the company in excellent stead since 1957; the updated logo features ‘a more contemporary typeface and slight modifications to the spacing of the design's blocks’, and the white letters now appear on a burgundy background instead of the traditional blue — and we hope the company gets some very tough questioning at the annual meeting over the cost.
+CINCOM LOOK FOR BETA TESTERS FOR SUPRA SERVER
+Cincom Systems (UK) Ltd is looking for beta testers for the Windows NT version of Supra Server: the relational database is already up and running on the iAPX-86, R-series and Alpha versions of NT and it will available for £800 per user once the operating system ships.
+BANK OF AMERICA GOES WITH MCI
+BankAmerica Corp's Bank of America has chosen MCI Communications Corp as its primary long-distance carrier in a deal that will mean more than $250m in revenue over the four-year life of the contract, MCI said, without revealing the terms.
+CHINESE EXECUTE ACCOUNTANT FOR COMPUTER FRAUD
+Chinese authorities have executed a bank accountant who embezzled more than $175,000 in the country's first such case of computer fraud, the Xinhua Daily Telegraph newspaper reported yesterday: Shi Biao, who worked for the Jilin branch of the state-run Agricultural Bank of China, was found to have siphoned funds to private accounts from August to November 1991, and he and accomplice Yu Lixin were arrested as they were preparing to leave China through the southern economic zone of Shenzhen, bordering Hong Kong; it was the first case of bank embezzlement via computer in China; China imposes the death penalty for a variety of offences, ranging from bicycle theft to panda poaching.
+JOHN AKERS STILL IN OFFICE?
+Ever felt they were trying to tell you something…
+According to the Wall Street Journal, former IBM Corp chairman John Akers is ‘still technically an IBM employee, though he has lost his title, his board seat and his office at IBM's Armonk, New York headquarters — he and his secretary have been quietly relocated to an IBM building in Stamford, Connecticut;’ we seem to recall something similar happening to an editor of the late lamented Datalink — first he was told he was no longer editor, but that there was a desk in Computing's office — until Computing decided it needed it, whereupon a desk was found in the library, whereupon he resigned.

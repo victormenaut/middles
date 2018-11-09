@@ -1,0 +1,263 @@
+
+
+need to see where you've got to and
+Well  the software came off the tape without any any problems wha whatsoever.
+Good.
+And I copied it over It all compiled first time.
+E even the Pascal?
+Even the Pascal.
+That's interesting cos I mean it is a sort of a  variant
+Luckily we have the er compiler for that.
+We have that particular compiler, that was 
+Yeah.
+good then.
+Yeah.
+I I thought you might in fact but I mean when it was first taken we first looked at the tape, people in there weren't sure so Oh that's good news oh that helps a lot because they've tried The original Moneytalk was developed on VAX V M S
+Right.
+so that's why you see a lot of talk about VAX V M S around  mailboxes and funny things like that which are
+Yeah.
+which are sort of er e Well a mailbox is a very crude inter process communication technique used on VAXes.
+But I mean, I don't think you need to worry about that cos I think  got round that when they when they converted up to.
+Should be okay.
+Yeah so that all compiled up so what some bits don't work?
+Erm there we there was a problem with the erm lexicon  lexicon 
+Right.
+That just core dumped.
+But I was able to transfer it onto a separate system and compile that and produce the lexicon there.
+So why did that core dump on on  
+I have no idea.
+I  look looked through it, couldn't actually see anything obviously wrong with it.
+I compiled it onto another system which has far better de debugging tools and
+Yeah?
+It didn't core dump.
+But that that that sudden?
+Well  
+ 
+Hewlett Hewlett Packard.
+Oh you did one on the H P.
+Which one was the one that worked?
+The one on the H P.
+The H P worked better.
+Yeah.
+Right.
+But it doesn't wor do it doesn't  So it works on the H P but not on the Sun is that right?
+Yeah.
+So I created the lexicon
+Right okay.
+on the H the H P and copied that back
+Yeah sure.
+and  the first stage which is the for formatting stage
+Mhm.
+works.
+Right.
+As far as I can tell, the other stages also seem to work,
+Right.
+but there is a problem with the the second stage which decomposes the 
+Right  
+formatted input.
+Right.
+Er into parts of parts of speech.
+Mhm.
+If I tried to give it more than one one word at a time it falls over and core dumps.
+Right.
+With one word it's unable to determine what what part of speech it is.
+This is not unreasonable.
+Yeah.
+Yeah.
+And  I've been been through er th the debugging tools.
+Pascal on on the main system.
+Yeah.
+And slowly  up uphill struggle to actually 
+Have you managed to locate it at al Not been able to locate where it actually
+Erm
+I've been able to trace back it's probably in a procedure called fetch page.
+That seemed to be causing
+Well is that fetching I mean is that a is that the routine that's picking information back from the lexicon or something ?
+Yeah.
+Right.
+I was wondering I mean  there may possibly be differences between I mean there was  the format that speech generate of the H P and the format that the Sun would use.
+Mm.
+Er now I would think that the lexicon itself is just a w a whacking great look up table yes?
+Yeah.
+Right.
+Er I would check things like, signed and unsigned bytes.
+That's the that is the first problem you might find.
+Have you checked that at all?
+So you might find that if you do a thing on the H P you may find that what is being what's happening is that it it it's creating  the wrong size addressings in the look up table because either it's using you know, er signed and it's su assuming unsigned byte or something.
+So you've got the data ranges incorrect, that sort of thing .
+Right.
+Er you want to check that specification.
+That's quite likely where it's going to be going wrong.
+Right.
+That I I've seen that before between erm VAX systems and Silicon Graphics systems.
+I also I mean Sun to Silicon Graphics, sometimes you need to make s see what the compiler option is in fact.
+You may find the default compiler option for the H P is different to the default compiler option to handle signed and unsigned integers or signed and unsigned bytes, may be different.
+It may well be the case.
+Er now these are you know is the lexicon a Pascal module or a  C module?
+It's a C module.
+C right, so I would I I would almost would  think
+Right.
+it's a sign problem in that it's not doing the look up properly.
+These things are hideous to sort out I know.
+Erm w I mean where they don't work when somebody offers code and they don't work, there's not  a lot you can do other than sort of make some informed guesses as to what might be going wrong.
+Because at the end of the day I mean they're building up a a set of rules.
+practically you've got like a rule compiler.
+I mean the the later stages of the system had things like rule compilers and quite complex things  which allowed you a more dynamic interaction with the system so you could actually build rules in and then  some rules then erm allowed you to  shall we say,partition out certain parts of speech.
+You found sometimes that other rules weren't required because that rule new rule that you'd finally developed encompassed other classes of events.
+You know so so the idea was having a rule compiler system which so you could actively refine it.
+You know the rules got more complex but in but in terms of actual processing power, the amount of look up required went down.
+One of the reasons for big look up tables is that the  prototype system .
+Eventually the whole lot would be blown into ROMS.
+In a box.
+. Well  in fact it was .
+And still can ma buy cards for a P C .
+But I'm not sure whether that would be in of interest at all to Ian anyway.
+That might might
+Yes you can actually buy a  card for a P C. And all you do is you feed it erm text and it'll speak it.
+Yeah.
+Albeit in an American voice.
+Is erm Ian definitely wants wants new suns.
+Yes I know.
+being targeted at students .
+Yeah I mean the  would be very nice if you could get it to go cos it is it is quite acceptable speech.
+Albeit American.
+American English.
+Which is different of course.
+So you don't get dog, you get dog.
+.D A W G. .
+Er but I think people can live with that  understand sort of Americanisms now.
+Erm that that's I think the main thing you want to look at there.
+Right.
+Er what about the synthesis stage, do you know whether that works or not?
+Does it generate waveforms?
+It's been a bit Well it's it's been been a bit difficult to test because with the sort of ready the read-me files .
+Very very minimal so I haven't noticed 
+Were there any erm already er sort of the intermediate files?
+Things like er erm s synthesizer files.
+Nothing.
+parameter file.
+Er just wondering whether
+There is apparen apparently book books details of  of course it's out at the moment.
+Mm.
+I could search round for papers on it.
+There's not there's not a lot on because n Well I mean,w the reason why there's not a huge amount published is because er Digital bought the rights to DECTalk.
+Right.
+For something like six million dollars.
+And so at that point, nothing very much was published.
+No not in the public domain anyway.
+I mean there are plenty of internal reports at M I T and at DEC but you certainly can't get them .
+I have seen a paper  been involved with M I T themselves.
+Er do you know what the er what a the input file would look like to the synthesizer phase?
+It gives a very sketchy idea in the read-me files however it also 
+Do you know how many control parameters there are for instance?
+Is it the twenty one or is it the sixty or forty eight 
+Without looking through the source file I wouldn't be able to tell.
+Because erm I do have a variation er a version of the that particular synthesizer  which is a class seventy nine synthesizer.
+And I may well have some input files which you could u test with.
+You need to find out though what version that that is.
+It may well be well the one that was out in the public in the public domain.
+One that was published in  the Journal the American Society for Acoustical Research.
+J A S A, J A S A.
+J S?
+J A S A. Journal of the American Acoustical Society.
+Journal of the American Society for Acoustics, something like that anyway.
+That that that the original class seventy nine synthesizer was published, the source code .
+And it was originally in FORTRAN source so I don't know whether  is it still in FORTRAN source?
+Erm no it's Pascal now.
+Is it Pascal source now.
+Yeah n what you need to do is if you can look up the what the input parameters h how many input parameters there are, and if there are  if if it's basically a batch of twenty one parameters, er I can probably I've probably got the source code for them.
+Er I mean the input files.
+It depends whether they're ASCII input or whether they're binary input format.
+I would put money on them being what are called K P R
+Yeah.
+Er K P R format which is  parameter file.
+Er P R for parameter.
+.parameter file and that is actually effectively a a sixteen bit integer encoded file.
+And in fact I can probably get you some of those as well.
+Right.
+Okay.
+Er we moved over to using ASCII so that we could actually hand edit them  and and look at them.
+But this is about four or five years ago so I mean it's n we've moved on a lot since then.
+But certainly we can probably find some stuff for  er to help test.
+But did you get er but does the pipeline build for instance?
+I mean there's a program that builds the pipeline.
+Yeah.
+And that all builds?
+Right well that's wonderful, I mean that's really good news really,
+Mm.
+Mm.
+You see cos a again it was probably in the early days, running on P D P Elevens.
+Right.
+Right so you've got to think P D P Eleven because it's fairly old stuff now.
+And I mean Unix in those d in the early days was P D P Eleven based.
+And then it moved over to sort of VAXes as well.
+Er but I think  could be could be the backspace .
+Cos it's using B er B S D isn't it or  J S D stuff so.
+Could be could well could have been backspace but still there'd still be Eleven stuff around I would have thought.
+Er you'd probably find that in the  P D P Eleven around the place.
+.. And if it is then they're probably sixteen bit integer encoded files for the synthesizer phase.
+The other thing is that the output frequency is likely to be eight kilohertz or ten kilohertz.
+Er you need to think about that.
+But again, depending on your hardware you may the output phase hardware, you might need to alter some things in the synthesizer to change it to the from eight to ten to twelve to sixteen bit data.
+Again I I modified the seventy nine and rewritten the seventy nine  I've had also the the later version of the synthesizer to handle different bit-width so it's not a problem.
+And I know how to do that.
+There's not a lot about to change.
+You know you tend to find there are a couple of fiddle factors around actually .
+And magic numbers like multiplying the width of the byte by sixteen point O two five or something .
+. You m is it really well is it very well commented at all?
+It's fairly well commented.
+Yeah cos I I think you'll find there are various comments like you know, let's say you know, move the the data into the highest signi er the most significant bits of the word and this sort of stuff.
+You know where they and they just multiplying by number rather than doing bit shifts .
+So  So I mean you'll you'll find I mean, it's not that bad.
+Right I well if you can't get the lexicon going it's got a problem of course.
+. If it was on a P D P Eleven then  the addressing would only be a matter of si sixteen bit as well.
+In the tables.
+So again you might find that that you're generating the wrong type of integer number.
+I mean between your two machines.
+And also possibly with what it puts as a co Was it expect You know have a read of the code
+Yeah.
+a little bit more of the code, just to find out you know, what size integers it's using.
+And I think that's probably where your pro the problems would be .
+Mm yes yes.
+Mm  sure.
+That sounds likely.
+You know I've seen those sorts of problems before.
+Trying to think what else there is.
+Er that's about what there is well there's nothing to look at.
+At this stage anyway, then we need to have a another think.
+A little bit of detective work I think  to try and find out.
+I mean you could even write some fairly simple test programs in fact.
+Mm.
+That do a little bit of you know, very simple table look up .
+Or build a table.
+Does the l does the lexicon generate you the C source code?
+Like a a C look up table?
+Or does it generate a file?
+It generates a large well
+A large C large C structure.
+Or a just a large table or a large array.
+Erm  g erm it just gen gen generates a large large .
+You see cos I know that some of the phases you find that  Does it genera you see cos some some of the programs generate programs.
+In the in the later versions certainly.
+But you you know you  generate some of the C source or assembler source which you then compile.
+No I assume that your file is not one of those.
+No.
+No okay.
+S Yeah I wo I would basically put money on it being a problem with the the addressing.
+And it's gonna be either what a a a short it is or what a .
+. Yeah I I if there's anything else you want to know I mean I think that's quite a good start  
+Erm yeah I'll er 
+one of those problems anyway.
+I'll go through that 
+I I I would think  I can't really see it being much else, I mean it compiles up.
+That's what it's most likely to be I think.
+Okay.
+If there's anything else you want to know?
+.
+I'm generally around so you know.
+Give me a shout.
+Don't lose your bit of paper.
+Okay.
+Yeah that's fine.
+Thank you very much.
+It's no problem.

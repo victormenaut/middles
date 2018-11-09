@@ -1,0 +1,320 @@
+
+
+CYPRESS THROWS IN TOWEL ON ROSS, WILL SELL IT TO FUJITSU FOR $23m
+San Jose, California-based Cypress Semiconductor Corp claims performance leadership in the Sparc world with its superscalar HyperSparc, but has been less than successful in gaining design wins against the Texas Instruments Inc SuperSparc — and Cypress has now decided to give up on the unequal struggle.
+Yesterday it announced that it had signed a letter of intent to sell its Ross Technology Inc subsidiary, repository of all its Sparc work, to Fujitsu Ltd for $23m.
+Fujitsu is also a licensee of the Sparc architecture, but does not currently fabricate a device in the HyperSparc class.
+Cypress now plans to concentrate on static RAMs, programmable logic devices and its high-performance niche product lines.
+The 75 Ross employees in Austin, Texas will transfer to Fujitsu when the deal is completed — it should go through next month if Uncle Sam does not put up the kind of objections that thwarted Fujitsu's desire to buy Fairchild Semiconductor Corp a few years back.
+The parties also agreed continuation of a multi-million-dollar joint development programme between Cypress and Ross focused on the development of a complex logic-oriented product.
+Cypress and Fujitsu are committed to supporting current Sparc customers with both manufacturing and distribution.
+Fujitsu, which in 1990 abandoned plans for a top-end Sparc in favour of variants for embedded applications after deciding that the high-end market would be too small, says it will support future Sparc technology and work toward developing it as an industry-standard architecture.
+Cypress has no plans to develop future Sparc products but it will continue to handle distribution during the transition.
+NIXDORF PICKS SPARCSYSTEMS FOR POINT-OF-SALE CPUs
+Product line consistency is not the strongest suit of Siemens Nixdorf Informationssysteme AG — first the company becomes a founder sponsor of the Open Software Foundation and then adopts Unix System V as its standard, now its US arm, Siemens Nixdorf USA, has turned to Sun Microsystems Computer Corp for point-of-sale control processors despite the fact that Siemens' chosen RISC — versions of which it fabricates — is the R-series.
+In the US, it says it will convert its Calypso point-of-sale application to run under Solaris on Sparc processors to create ‘a complete high-performance, low-cost, in-store system for retail organisations’.
+The two will jointly market the resulting combination of Sparcstations and servers with iAPX-86-based point-of-sale terminals and applications developed by Siemens Nixdorf in the US.
+The new offering will be the first open RISC-based in-store system from Nixdorf USA, which has Montgomery Ward as a customer and claims 10 of the top 20 supermarkets in the world.
+HITACHI DUBLIN REVEALS OPTICAL NEURAL NETWORK
+Researchers at Hitachi Europe Ltd's Dublin Laboratory and the physics department at Trinity College have co-developed the first system to combine optoelectronic semiconductor arrays with complex neural networks.
+This work could eventually lead to better machine vision systems and optoelectronic neural integrated circuits that would literally enable parallel computers to process data at the speed of light.
+The present system comprises 21 input neurons, connected by optical arrays to a single equivalent output neuron.
+Images are presented electrically to an optoelectronic array as a bit pattern which are is then sent in parallel by the device to a laser beam.
+As this encoded beam passes through a second optoelectronic array, the various stages of the algorithm are executed.
+The light is then collected at a single detector and classified electrically.
+The network itself is built from optoelectronic quantum well devices.
+These contain layers of Gallium Arsenide only a few atoms thick and are supplied by Sheffield University.
+Because it is a so-called higher order network — a more complex mathematical model than conventional neural networks — it can recognise images that are presented in different positions or are poorly defined.
+And because it makes use of the speed of light for complicated parallel interconnections, it can still handle the large volume of calculations — or weighting as it is called — involved in the learning process quickly.
+This has important implications for future high performance computing, according to Hitachi.
+Optical arrays are ideal for parallel processing since light beams can cross without interfering with each other— and processing speed remains constant, irrespective of array size, once an image has been converted to an optical format.
+It will likely be five to 10 years before the technology comes to the market, with first applications likely to be sign language and medical systems.
+Research is to continue into making the devices smart enough to respond to external light sources rather than an electrical feed.
+DEC LAUNCHES STORAGEWORKS LINE OF MIX'N'MATCH STORAGE SUBSYSTEMS
+Digital Equipment Corp has introduced the StorageWorks product line, claiming that it will deliver a complete range to meet current and future data storage needs.
+Based on SCSI-2, StorageWorks products feature a modular design that places drives, controllers, power supplies and other components in snap-in carriers.
+The storage building blocks are packaged to slide into modular shelving which can then be configured for anything from the desktop to the data centre.
+First offerings are the StorageWorks RAID Array 110S, a turnkey, controller-based RAID subsystem for VAX OpenVMS systems supported on MicroVAX 3100 systems; the StorageWorks Datacenter Cabinet, 70″ high by 31.5″ wide cabinet designed to serve as expansion storage for DEC 7000 AXP and DEC 10000 AXP systems; the StorageWorks Desktop Expansion Unit supported on the DEC 3000 AXP Model 300L system; StorageWorks Deskside Pedestal for the DEC 3000 AXP, DEC 4000 AXP, DEC 7000 AXP and DEC 10000 AXP, as well as the DECstation 5000 series and the VAXstation 4000 systems; and four RW500 optical jukeboxes for SCSI and Q-Bus-based systems now, and to support StorageWorks systems in the near future.
+The company did not give details of drives used or capacities, or any indication of prices.
+THE MAINFRAME IS ALIVE AND WELL, AND RECESSION IS ONLY PROBLEM, SAYS IBM's PARKER
+You can tell that Arthur Parker, head of IBM UK's Enterprise Systems division, is getting heartily sick of journalists asking him about downsizing: ‘If I only read the papers and didn't know my subject I would believe that the vast majority of large corporations are desperate to move applications off the mainframe — and that is rubbish’ he says.
+And it probably is too: the indications are that existing applications tend to stay put, though there is a definite trend for new ones to go wandering.
+However it is not just the press that's causing Parker difficulties — the company's personal computer, mid-range and networking arms are all happy to explain how they are perfectly capable of running enterprise-wide applications, and the company's most swingeing cuts are being aimed at the Enterprise Systems division.
+Blizzard of points
+Parker, of course has to argue for the mainframe's continued existence, but he does so persuasively with a blizzard of points seeking to prove that a) the mainframe market isn't really in decline and b) the mainframe will be able to evolve successfully into an indispensable network superserver.
+On the first count, Parker tries to argue simultaneously that downsizing is a mirage and that even if it isn't a mirage then uses will see through the hype pretty soon.
+His contention is that much of the slump in mainframe revenues has been mis-attributed to downsizing mania whereas the recession should take of the blame — delay in large capital projects gives the impression that mainframes are in more trouble then they actually are, he suggests.
+And if they are in trouble — well, not to worry too much, Parker and colleague David Hammond, who labours under the title of Enterprise Systems Country Announcement Manager, believe that any customers who have tried to downsize will not be impressed; ‘the pendulum will begin to swing back’ says Hammond.
+And if you are still not convinced, then Parker says that customer demand for mainframe capacity continues to grow healthily, even if more slowly than the good old days.
+Certainly there has been a slump in revenue as competition and discounts bite, but the implication is that if IBM can somehow improve its margins again, the mainframe business will remain a money-spinner.
+The obvious way to improve margins is to change the way that mainframes are built and — that is exactly what IBM envisages with its new generation of highly parallel mainframes.
+Within two years the company will have mainframe-class machines based on many cheap CMOS processors, linked together by a high speed switch similar in concept to the RISC-based SP1 (CI No 2126).
+But don't expect a sudden wholesale change from the one architecture to the other, warns Parker; a number of commercial applications are not amenable to parallelisation, and anyway IBM's Sysplex clustering will ensure that the existing and new architectures should work together happily.
+Parker brushes aside any doubts about the ability of mainframe operating systems to take advantage of parallel machines, pointing out that the company has been researching into the approach for a number of years.
+If anything, he says it will be the applications software that will be difficult to convert.
+Fortuitously, parallel architectures cope well as network data servers, but again it is the software that will need to work for IBM to change mainframe into server.
+‘There is an awful lot of software for the 390 — but it is all in bits and pieces’ Parker claims, and so as an interim step IBM will be pulling all the pieces together into a proper server package.
+This will include file server, licence management, and support for links to other environments.
+It is a purely cosmetic move, but Parker truly believes that many of the mainframe's problems at the moment are cosmetic.
+However, halting the haemorrhage of new applications will depend on IBM convincing developers that mainframes are ideally suited for host client-server applications.
+The re-bundling of server software may help to change users' perceptions, but the great white hope is MVS Open Edition, the new version of the operating system that comes with a Posix interface.
+What is a mainframe
+Open Edition is due out later this year, and is not just MVS with Posix bolted on the side, according to David Hammond, but a release that required a re-write of substantial portions of the MVS operating system.
+With it, the company hopes to woo the developers that are currently looking at Unix, while at the same time keeping its existing MVS base happy since it enables the mainframe to run both MVS and Posix-compliant applications, and IBM already talking to a range of un-named Unix application developers about adapting their products.
+So where does this leave AIX?
+Parker says unequivocally that the future of the mainframe lies with Open Edition MVS, but he says that we could see a new generation of mainframe-class systems based on multiple RISC processors, again based on a similar idea to the SP-1 and that this will be the natural place for AIX.
+The concept of mainframe is changing fast and the question ‘What is a mainframe anyway?’ is one that Parker himself raises.
+The users have given IBM a bloody nose and IBM, in learning the lesson, is making changes both to marketing pitch and technology.
+It only remains to be seen whether the customers will buy it.
+The mainframe is dead.
+Long live the mainframe — maybe.
+MICRO FOCUS PLUNGES INTO OPEN TRANSACTION SOFTWARE MARKET WITH CICS-COMPATIBLE PORTABLE MONITOR
+The new Transaction System from Micro Focus Plc (CI No 2,166) represents a major departure for the Newbury, Berkshire company that up to now has been famed for its Cobol products and development tools rather than for production system software — but the market for Unix transaction processing systems is still wide open because scarcely any have been sold as yet.
+Moreover the Micro Focus offering reaches beyond Unix to run under OS/2 and Windows NT — and MS-DOS and Windows systems can access it as clients.
+But Micro Focus is bearding its leonine partner IBM Corp in its lair, effectively going head to head with IBM's own CICS/6000 by creating an open system that can run CICS applications and offers links to mainframe CICS systems.
+The core engine of the product has been designed for  scaleability , flexibility, robustness, speed and CICS compatibility as well as integration with Micro Focus Dialog System and non-CICS applications, the company says, adding that it provides a high level of data integrity and security either on stand-alone workstations or as part of a client-server environment, and is available in both production and development versions.
+Micro Focus Transaction System can take advantage of multiprocessing hardware.
+Network-attached OS/2, MS-DOS, Windows/NT, Windows, AIX and Unix workstations can be used as ‘thin clients’ to a Micro Focus Transaction System in three ways — as Remote 3270 Emulators, as Remote Dialog System Terminals, and as Remote ECI Requesters.
+Different character sets
+Application debugging facilities include transaction dumps, system traces, and the famed Animator source code debugger.
+VSAM file processing can be shared between the Transaction System and batch programs, with full integrity, using Micro Focus Fileshare.
+EBCDIC and ASCII environments are supported within the same region — and suites of programs and files with different character sets can reside not only on the same hardware and operating system but actually running under the same application, the company claims.
+It features comprehensive support of the CICS/ESA command-level application programming interface, enabling programmers to use Cobol applications and BMS map sets converted from CICS or other copies of Transaction System.
+It supports a variety of relational databases and the Micro Focus IMS Option or IMS Production System under the operating systems that support them — Informix and Oracle under Unix, including AIX; Database Manager and DB2/2 under OS/2; SQL Server, XDB and SQLBase, and support for other databases is planned.
+For those that need a greater degree of DB2 compatibility with IBM Database Manager or DB2 for OS/2, Transaction System also supports the Micro Focus Host Compatibility Option.
+Programs, resource tables, configuration files and application data can be shared between multiple network-attached Transaction Systems for centralised management of system resources.
+Applications and data access can be distributed across networked workstations, servers and CICS systems including Transaction Systems and IBM CICS Systems.
+Network communications between workstations, servers and hosts are supported via LU 6.2, TCP/IP, NetBIOS, Named Pipes and Novell Inc IPX.
+Transaction System also supports batch data access.
+No prices were given.
+3COM TO PARTNER CASCADE AS A WAY INTO THE WIDE AREA NETWORK MARKET
+Rather than going it alone, 3Com Corp, San Jose has picked Cascade Communications Corp to help it enter the Frame Relay market.
+3Com is to combine its routing expertise (in the form of its NETBuilder routers and Boundary Routing System Architecture) with Cascade's Frame Relay STDX switches to help customers build large multiprotocol wide area networks.
+Although Frame Relay interfacing is by no means a difficult task, Nigel Oakley, 3Com's UK product marketing manager, says the advantages of the link-up are manifold.
+Both companies feel that their architectures are complementary; he adds that Cascade has been very successful in the US and that the product has ‘a number of innovative features’.
+In particular, the combination of the two companies' technologies is said to result in wide area network architectures that are highly scalable, simple to administer, and cost-efficient.
+Similarly there is said to be ‘the opportunity for increasing the manageability of the whole system’ by enabling local network management to extend into the wide area network.
+According to 3Com, router administration is reduced through its Boundary Routing System Architecture — it says five to 10 times more remote site connections can be added without adding resources, complexity or risk — and Cascade's switching technologies are said to produce cost-effective wide area network backbones that are easily managed.
+Routing on the wide area backbone means efficient traffic management and wide area link use as well as availability of multiple paths, and standards-based management plus simpler and faster administration, installation and change control.
+Independent test laboratory LANQuest has found that support for a new protocol can be added to a 100-node Boundary Router network in under 10% the time taken on a network routed by standard means, says 3Com.
+‘COSE WANTS US TO JOIN BECAUSE IT COVETS OUR OBJECT INTEGRATION SOFTWARE,’ DEC NOW BELIEVES
+Digital Equipment Corp now believes that the Common Open Software Environment crowd really want it to join them, something that it was not quite sure about a few weeks ago.
+One of the reasons it thinks that COSE is interested in its participation is that it has some key technology that in typical DEC fashion, it has failed to trumpet.
+The technology in question is ACAS, the Application Control Architecture Service.
+It's an object-oriented Object Management Group Common Object Request Broker Architecture-compliant application integration scheme that DEC already has running on Hewlett-Packard Co and IBM Corp machines as well as its own Alpha RISC.
+It estimates that ACAS could accelerate the schedule COSE's been kicking around by about a year.
+DEC won't get cozy with COSE until it sorts out the all-important ‘process’ of how things work and get selected, something COSE is believed to be finalising.
+DEC says that COSE is apparently not going to require participating companies to adopt its whole technology package, even though that would run the risk of watering down its whole purpose.
+OMRON UNVEILS 88110 LUNA 2001 THAT WILL BECOME A DATA GENERAL AViiON
+First fruits of February's OEM agreement under which Data General Corp is to get 88000-based desktops from Omron Corp is the Luna 2001, built around Motorola Inc's latest 88110 RISC CPU and running the DG/UX operating system.
+Omron and Omron Data General Corp — the Japanese Data General subsidiary, which Ormon acquired in 1991 — are to manufacture and sell the Luna 2001 in Japan.
+Data General will market it elsewhere as part of its AViiON series, but won't announce the box until later this summer when it plans to unveil other long-awaited 88110-based additions to its workstation and server line.
+Data General supplies AViiON servers and MV minis to Omron, and says it will be responsible for developing high-end 88110 workstations that the two will market.
+Luna 2001 uses a 40MHz 88110, is rated at 37.8 SPECint92 and 50.5 SPECfp92, comes with from 16Mb to 128Mb RAM, 425Mb or 1Gb disk, 19″ colour screen and costs $18,000.
+Omron sold 6,000 Lunas in 1992 and expects to sell 3,000 Luna 2001s over the next 12 months.
+Data General is taking Luna boxes to cut its costs — Omron is still seeking other OEM customers.
+ERICSSON TAKES FLEXIBLE APPROACH TO BROADBAND ASYNCHRONOUS TRANSFER
+In recognition that nobody really knows how the broadband Asynchronous Transfer Mode market will develop, L M Ericsson Telefon AB has announced a system claimed to support networks of virtually any capacity or configuration.
+The system introduces the company's  Asynchronous Transfer Mode-based modular hardware approach to broadband.
+Ericsson's ATM switch core is based on its Pipe Switch Concept.
+Two VLSI chips, developed in-house, enable a variety of different products — multiplexers, concentrators and switch fabrics — to be created for use in a variety of different types of network and network configuration.
+The other element of the Ericsson technology is the Generic Broadband Module.
+Essentially this is a standard sub-rack that can house any combination of circuit boards, and may be combined in different configurations to establish large capacity systems.
+The basis for network management will be the Ericsson TMOS Telecommunications Management and Operations Support family of systems.
+These implement ANSI/CCITT standards and will enable public network operators and service providers to have end-to-end control of their networks while their customers can control their wide area network resources, even across the public network.
+The combination of TMOS and the other system elements is intended to provide integrated management support for the combined transport elements.
+Endorsement of the Ericsson approach has come from the Deutsche Bundespost Telekom, which says that it plans to use it as the basis for a pilot network.
+NEWCOMER NETWORK APPLIANCE CORP TO OFFER SERVERS DEDICATED TO OFFLOADING NETWORK FILE SYSTEM
+Year-old Santa Clara, California start-up Network Appliance Corp is attempting to create a new class of file server with the introduction of its first product, FAServer, a file server appliance designed for Network File System networks.
+The company claims the single-function file server is faster, easier to use and administer, more reliable and less costly than today's Unix-based file servers.
+According to Network Appliance, FAServer is the first implementation of a new direction for network file servers called file server appliances.
+By focusing on a single service, an appliance can be made easier to use and can be optimised for performance.
+With reduced complexity, reliability is increased.
+By removing general-purpose capabilities and associated hardware and software, cost is reduced.
+Apple Computer Inc's laser printer and Cisco Systems Inc's dedicated router are other examples of the notion, according to Network Appliance president Michael Malcolm, founder of Canada's Waterloo Microsystems Inc, now part of Hayes Microcomputer Products Inc.
+Research by Dataquest and Technologic Partners indicates 70% of the networked Unix servers (and 80% of NetWare servers) are used as dedicated file servers, stripped of applications by their administrators to improve performance.
+The evidence suggest a ready-made market for stripped-down ‘appliances.’
+The company, now eight strong and seeded by an impressive array of private investors from the industry, is initially targeting the $2,000m Unix Network File System niche since it is financially bigger though numerically smaller than Novell Inc' market.
+Novell and Apple could follow.
+Network Appliance has got its machines as far as beta test on less than $1m, its initial $1.4m coming from the likes of Autodesk Inc chief executive Carol Bartz, ex-Digital Equipment Corp engineering vice-president Gordon Bell, former Sun Microsystems Inc president Owen Brown, former Microsoft Corp president Mike Hallman, former NetFrame chief executive David Hanna, Tandem Computers Inc co-founder Jim Katzman and MIPS Technologies Inc co-founder Skip Stritter among others.
+Venture funding
+It expects to get venture funding of $2m to $4m over the summer when it will start shipping.
+Primarily it thinks of itself as a software concern.
+Its FASware software includes a proprietary 80,000-line real-time kernel and an all-important Write Anywhere File Layout file system designed from the ground up to handle files up to 4Gb and requiring no disk partitioning, a traditional Unix nightmare.
+Unlike traditional servers, said Malcolm, FAServer optimises writing performance, enabling every write to the disk to go into a free block regardless of location.
+It is constrained only by Ethernet.
+Space is increased by adding disk drives.
+Network Appliance has also created its own RAID manager to optimise performance.
+An on-line Snapshot back-up facility automatically keeps up to 20 logical copies of the entire system on the RAID disk array and can be used to make tape back-ups.
+Also included are a SCSI disk driver, Network File System and TCP/IP protocols and an Ethernet driver.
+Network Appliance says the system takes only 30 minutes to install, 30 seconds to reboot and its documentation is only 30 pages.
+It is said to be easy to upgrade and service because it's based on standard uniprocessor 50MHz 80486 EISA bus hardware.
+The hardware includes a maximum of seven internal 1Gb 3.5″ disk drives.
+Compared with Auspex Systems Inc, from where its technical people came, it says preliminary LADDIS benchmarks indicates a response time of  7ms versus  21ms and a throughput with two Ethernets of 415 input-outputs per second versus 466, at a price of $37,000 versus $200,000.
+Compared to a Sparcstation 10 it did 130Mb Network File System writes at 158 seconds versus 971 seconds and reads at 130 seconds versus 144 seconds.
+The product is expected to sell for from $17,000 to $30,000 when available in June.
+Network Appliance expects to push it through value-added resellers, systems integrators and distributors in the US and through OEM customers and distributors in the Far East and in Europe.
+SUN RALLIES STRING OF HEAVYWEIGHT SUPPORTERS TO WABI CAUSE, BUT IBM, HEWLETT ARE NO SHOWS
+The first salvos in what is threatening to develop into the Windows Wars were duly fired last week (CI No 2,162).
+Sun Microsystems Inc's SunSelect formally announced its Wabi Windows applications binary interface which enables Windows applications to run under Unix without MS-DOS or Windows being needed, and Microsoft Corp announced its alliance with UK firm Insignia Solutions Ltd, High Wycombe, to create Windows applications programming interfaces for the Apple Computer Inc Macintosh and Unix and other operating systems.
+Unix System Laboratories Inc, Santa Cruz Operation Inc and SunSoft will each integrate Wabi into their respective Unix offerings, while Toshiba Corp, Fujitsu Ltd, Network Computing Devices Inc, Tadpole Technology Plc and Quarterdeck Office Systems Inc have lent their support to the effort.
+Windows application vendors Lotus Development Corp, WordPerfect Corp, Software Publishing Corp, Aldus Corp, Datastrom Technologies Inc and Borland International Inc gave their blessings.
+Unix Labs has been working with SunSelect on Wabi and is responsible for developing the Windows shell, Wabi control panel, help subsystem, dynamic link libraries that support dynamic data exchange and common dialogue, and ISO Latin internationalisation.
+SunSelect has licensed Bitstream Technology Inc's font handling technology, enabling Wabi users access to the same TrueType fonts as Windows users.
+Wabi translates function calls made by Windows applications into those recognisable by X Window.
+A self certification programme for Wabi vendors starts in June — though there are said to be only a dozen Windows applications up on it and the thing still doesn't print — Wabi 1.0 will be out in the summer.
+IBM Corp and Hewlett-Packard Co were scheduled to be at Wabi's unveiling as licensees but turned into no-shows.
+The scuttlebutt says their contracts were not yet signed and that the pair were holding out for better terms and conditions.
+Public domain
+However IBM was expected to come forward as a Wabi development partner, like Unix Labs, which would automatically make it eligible for SunSelect's most favourable pricing schedule.
+IBM is understood to regard Wabi as a highly important lever.
+At the same time, SunSelect unveiled its proposal for a Public Windows Interface specification that would bring the Windows applications program interface into the public domain and make it harder for Microsoft to alter it so as to trip up the competition.
+It will also submit the specification to standards organisations and X/Open, which says it is ready to receive the specification.
+Public Windows Interface attracted more adherents than Wabi itself, including IBM Corp, Hewlett-Packard Co, American Airlines, Borland International, Corel Corp, ICL Plc, Fujitsu Ltd, Network Computing Devices, Norwegian Telecom, Quarterdeck, Tadpole, Siebe Plc's Foxboro Co, Santa Cruz, Unix Labs and WordPerfect.
+Originally the Wabi and Public Windows Interface announcement were to be made separately, with Public Windows Interface slated for May 19, and there were said to have been long discussions over the wisdom of fusing the two together.
+In the end Sun chief executive Scott McNealy had his way and they came as twin cannon shots.
+Insiders say that Hewlett-Packard Co and IBM lawyers have cleared Wabi, and reckon that Microsoft can't make much of a case.
+However Microsoft or its new anti-Wabi champion, Insignia Solutions could still sue.
+LOCUS LISTS STRING OF SHORTCOMINGS IT SEES IN WABI
+Not everyone is infected with Wabimania, and among the dissidents is Gerry Popek, head of Santa Monica, California-based Locus Computing Corp, who is of course a Wabi competitor with Merge, his virtual personal computer mechanism for running Microsoft Corp operating systems under Santa Cruz Operation Inc Unix and now UnixWare.
+He says he looked at Wabi and its approach a year ago and was unimpressed.
+He has a list of its shortcomings.
+First, it will run only 16-bit Windows 3.1 applications.
+Most of the world is running MS-DOS, and there seems to be no provision for 32-bit NT applications or OS/2 software for that matter.
+Second, it can't support applications such as Video for Windows that build their own extensions to the Windows application binary interface.
+Third, it can't support software, common in the Intel Corp world, that also includes hardware like bar coding peripherals or touch screens.
+Fourth, it can't run the Windows Install or the Microsoft applets unless you already have Windows (which already comes bundled on most machines).
+So why do you need Wabi, he asks.
+Fifth, the initiative ignores reality by failing to explain how it plans to track Windows — he thinks that Microsoft will doubtless make Windows a moving target by adding value — doing things such as bundling in Access, its new database management system.
+Popek says that it's not clear that Wabi solves the critical problem of running Microsoft applications well enough.
+He claims that it's only ‘half a solution’ because most companies run one or two programs that aren't on the Wabi can-run list.
+He admits that the concept of Wabi is alluring to the vendor but then damningly turns and claims that it's a solution to the problems of the vendor community, not those of the customers'.
+He worries that as a result of all these shortcomings, the net effect of Sun propagating Wabi will be to do damage to the whole Unix business.
+MICROSOFT DISMISSES WABI AS ‘JUST A COMFORTER,’ SEES IT AS PROOF THAT NT IS REAL THREAT TO UNIX
+Microsoft Corp responded to Wabi saying that it is ‘proof that Windows NT is becoming a real threat to the Unix market.
+Wabi is just a temporary distraction to comfort worried Unix users.
+It will be an expensive detour for users — it is much simpler either to buy Windows now, or wait for Windows NT, which promises links into Unix.’
+Furthermore, if Sun Microsystems Inc has infringed its property rights, an issue yet unproven, Microsoft says that it will start legal proceedings.
+The company, which has no plan to put the Windows Application Programming Interface into the public domain, characterises the Public Windows Interface initiative as ‘farcical’.
+‘Why should users want Windows to be put into the hands of novices?
+The companies involved have no technical experience of Windows and couldn't guarantee its future.’
+ECSOFT LAUNCHES A DOWNSIZING AND RIGHTSIZING SERVICE PACKAGE
+ Berkhampstead-based software and services company ECSoft Ltd has announced a new Downsizing and Rightsizing service package, as part of its ECServices portfolio, to help technical and non-technical managers assess the viability and costs of downsizing.
+The service follows through a number of planning stages and includes tools for understanding existing systems, code restructuring, code translation, design reclamation, system testing, data conversion, adaptation and emulating mainframe systems.
+It is aimed mainly at ECSoft's core IBM Corp market and is based on a methodology co-developed with consultancy Butler Bloor and comprises five stages: Feasibility Study, Requirements, Re-engineering, System Building and System implementation.
+A so-called Opportunity Analysis service, which identifies those areas of an organisation likely to benefit from downsizing, is also available for those deciding whether to take the plunge.
+This takes about two weeks to complete and costs £10,000.
+The Feasibility Study provides the technical and financial routemap for downsizing.
+It takes up to two months to complete, after which the other stages can be run in parallel.
+The Requirements stage is for analysing existing applications, user roles and skills, and defining performance goals.
+It provides a business benefits analysis, helps design new hardware and software and select new and user tools.
+Re-engineering is for designing a development environment; utilising existing systems; building data and process models; mapping old systems to new; and planning the migration of data, code, user interfaces and communications.
+System generation is for performing pilot tests, establishing a development and test environments and constructing new systems.
+Implementation is for planning and installing hardware and software, producing documentation and training, a handover to new systems and winding down of old systems.
+The service is available across Europe with the cost dependent on the size and complexity of the client.
+NCR FORMS PAN-EUROPEAN CONSULTING AND DESIGN CENTRE FOR DISTRIBUTED COMPANIES
+AT&T Co's computer manufacturing company NCR Corp has formed a new pan-European consulting and design centre, with the aim of providing multi-site and multinational companies with an integrated set of services that span national boundaries.
+The European Professional Services Centre of Expertise is based at NCR's systems engineering division in Copenhagen, Denmark and is operational now.
+It employs an international group of 20 senior consultants specialising in architecture, databases, applications development, project management and networking for multi- and parallel-processor systems.
+These consultants co-ordinate the work of over 100 specialists in the professional services divisions of local NCR subsidiaries.
+The specialists, in turn, provide systems support and technical and consultancy services to local customers.
+The consultants will also implement a ‘knowledge transfer programme’ for users' technical staff.
+This consists of in-house seminars on the theory and practice of using multi- and parallel processor machines.
+CRAY COMMUNICATIONS' NEW SERVERS WILL INTEGRATE ‘VIRTUALLY ALL’ HOSTS
+The Cray Communications Ltd arm of Cray Electronics (Holdings) Plc, Newbury, Berkshire has launched a series of new products, including a series of multifunctional terminal servers which the company claims can integrate virtually all host environments in a single network.
+The ScaNet servers are based on a Cobra RISC processor — a MIPS Technologies Inc R3000-derived application-specific part developed using LSI Logic Corp's Cobra service — and give access to TCP/IP, Local Area Transport and Open Systems Interconnection-based hosts without the use of gateways.
+They also have the ability to connect any combination of asynchronous, IBM 3270 co-ax and AS/400 5250 Twinax terminals to the same box.
+An optional gateway function to other terminals and personal computers is included, as is a printing function.
+Priced from £225 per port, the terminals are available now.
+A new multiprotocol router has also been added to the ScaNet range.
+The Enterprise Router is available on two physical systems: in the Master Chassis and as a System Centre Module, and forms an integrated part of the intelligent hub.
+The new ScaNet/RemotePC is designed to give ScaNet users remote access from personal computers via a modem.
+ScaNet/RemotePC will be available in the second quarter of this year.
+Cray Communications has also enhanced its Series 8000 range of X25 packet switches by adding software-switchable Frame Relay support.
+The series also now supports an integral TCP/IP TGate, which provides a bidirectional gateway between X25 wide area networks and TCP/IP local networks.
+Both features now become standard.
+Existing users can have their products upgraded for a cost expected to be some £500 per site; new users can buy products from the wide-ranging series at between £900 and £50,000.
+POWERSOFT IS UP TO RELEASE 3 OF ITS POWERBUILDER CLIENT-SERVER TOOL KIT
+Powersoft Inc has announced version 3 of its PowerBuilder client-server development tools.
+The new release is designed to fit more snugly into corporate development environments, with improved version control, links to third party design tools and a bundled database.
+Hitherto the product was reliant on a third-party database, both to store user data and user data dictionaries and objects, but now it comes with Watcom's SQL Database; an addition that will appeal to a small number of customers who want to build stand-alone applications.
+The Burlington, Massachusetts-based company has always pushed the way that it enables teams of programmers work together, with mechanisms to let them share code safely.
+The latest release by extends these version control capabilities by providing interfaces so that with tools such as Intersolv Inc's PVCS can track software changes.
+A newly signed agreement between the two companies means that Powersoft will be selling the Cambridge, Massachusetts-based Intersolv product.
+Another agreement sees Powersoft teaming up with Transarc Corp to produce a PowerBuilder-based Encina client running under Windows.
+When this will be available has still to be announced, but Powersoft says it is part of a larger strategy in which PowerBuilder will embrace distributed network computing in addition to the client-server model which is currently its forte.
+NO WORD ON LEVEL OF LOSSES, BUT BULL TURNOVER PLUNGED 10.6% IN FIRST QUARTER
+Compagnie des Machines Bull SA, facing probably the biggest crisis in its history now that it is confronted with an administration not prepared to pour ever more good taxpayers' money after bad (CI No 2,166), yesterday reported that turnover for the first quarter of the year crashed by 10.6%, to the equivalent of $943m; sales slumped 16.5% to $422m and rentals and services fell 5.1% to $521m.
+The company did not say  anything about the level of losses, but it is hard to improve profitability against a background of falling sales.
+The company is now in a regulatory climate where no objection would be made to either of its corporate investors, NEC Corp and IBM Corp, each with around 5%, greatly increasing their stakes in the company — to perhaps 25% each — but IBM has no cash to spare even if it wanted to get more involved with a company forever at the mercy of the shifting tides of French policy and NEC Corp, which two or three years ago would have jumped at the opportunity of making Bull a European and US outlet for far more of its products, faces a price war in its cash cow personal computer business back home and faces such a hard time that it has just seen its debt ratings cut — at a time when cheap capital is no longer available in Japan.
+CABLE & WIRELESS EXPLORES MAJOR PHONE VENTURE WITH PARTNERS IN PHILIPPINES
+Cable & Wireless Plc says it is teaming up with said it was teaming up with Telstra International, the international arm of Telecom Australia, and Benpres of the Philippines, to conduct a  feasibility study into forming a new company to expand the telephone service in the Philippines.
+The study would take ‘some time’ to carry out and no completion date had been set, the company added.
+It would not comment on the potential value of the joint venture but published reports put it at around $3,000m, adding that Cable & Wireless and Telstra would share 40%, Benpres would take another 40%, and the rest would go to smaller investors.
+At present there is only about one line per 100 people in the Philippines where 40 lines per 100 people is considered acceptable in developed countries.
+The study will examine what new infrastructure is needed to expand telephone service in the Philippines.
+ALCATEL ALSTHOM SHARES SLIP ON GOSSIP THAT IT MIGHT INVEST IN SGS-THOMSON
+Alcatel Alsthom SA were sharply lower in active trading on the Paris Bourse yesterday on talk that it might buy a stake in chipmaker SGS-Thomson Microelectronics NV and increase its stake in nuclear power plant builder Framatome SA, Reuter reports.
+The shares were off 2.8% at 2pm.
+At Alcatel a spokesman  reiterated the firm's stated position on SGS-Thomson, that it wished to maintain a relationship of customer-supplier.
+It is SGS-Thomson's second biggest customer for its chips.
+VENTURE FUNDING
+21CenNet Inc, Richardson, Texas-based developer of key enabling technologies for enhancing portable computer communications, has raised $5m in venture funding from InterWest Partners, Sevin Rosen Funds and Compaq Computer Corp. 21CenNet wants the cash to fund development of its MobileWare technologies, which are being designed to support both wireless and wired end-to-end communications to enable portable computing devices to access company information systems by providing a reliable extension of corporate local area networks over public telephone and wireless networks.
+The software will have to be installed on both the portable and the server.
+SHARE & BOND ISSUES
+AT&T Co filed a registration statement with the US Securities & Exchange Commission to offer up to $2,600m of notes and warrants for further notes.
+The proceeds will be used to fund investments in AT&T Universal Card Services Corp, fund capital expenditures, buy common stock of McCaw Cellular Communications Inc, to refund existing debt and for general corporate purposes, the phone company said.
+Bank of New York will act as trustee for the notes to be issued under the registration statement.
+BellSouth Corp's BellSouth Telecommunications Inc filed a shelf registration with the Securities & Exchange Commission for up to $800m of debt securities, part of a $975m offering to be used for working capital, of which $175m was already registered.
+BellSouth Telecommunications also issued $450m of 10-year 6.25% notes non-callable for life, at $99.557% to yield 6.31% via Morgan Stanley & Co Inc as lead manager, and said that it plans to redeem two outstanding bond issues on June 7.
+The two are the $250m of 9.625% debentures due March 1 2019, to be redeemed at 105.55% of principal plus accrued interest, and $200m of 8.25% debentures due August 1 2013, to be redeemed at 103.56% plus accrued interest.
+A glance at the coupon of the new issue and what it has been paying out on the ones being redeemed shows the reason for the moves.
+Sprint Corp's United Telephone Co of Florida has issued $70m of 6.25% first mortgage bonds due May 15 2003, at $99.195% to yield 6.36% via Donaldson, Lufkin & Jenrette Securities Corp as sole manager.
+COMPANY RESULTS
+Cellular Technical Services Inc saw fourth quarter net losses of $682,255 up from $154,170 losses last time, on sales up 63.7% to $1.2m; net losses for the year to December 31 were $1.5m up from $986,876 losses last time, on turnover up by 105.9% to $5m.
+Cellular Inc has reported first quarter net losses of $7.2m against profits of $693,251 last time, after $8.8m pre-tax gains from the sale of affiliates, on turnover that rose by 191.4% to $6.1m.
+CE Software Holdings Inc has reported first quarter net profit down 25.4% at $145,165, on turnover up 4.5% to $2.6m.
+Net per share fell 25% to $0.03.
+Comparisons are made with restated 1991 figures.
+CMS/Data Corp has reported second quarter net losses of $139,500 down from losses of $182,400 last time, on turnover up 13.6% at $4m; mid-term net profits amounted to $282,900 against losses of $158,800 last time, on turnover that rose 10.3% to $7.9m.
+Net per share stood at $0.07 in the half.
+Cognitronics Corp has reported fourth quarter net profits down 58.5% at $154,000, after $97,000 tax credits last time, on turnover down 16.4% at $4.8m; net profit for the year to December 31 was up 70.3% at $1.6m, after $121,000 tax credits last time, on turnover that rose by 9.6% to $19.8m.
+Net earnings per share, adjusted for a three-for-two stock split paid in July 1992, fell by 58.3% to $0.05 in the quarter, and by 70% to $0.51 in the year.
+Icot Corp saw second quarter net losses of $1.5m, after $600,000 restructuring charges, against profits of $1.2m last time, on turnover up 53.1% at $3.6m; mid-term net losses stood at $3.5m against profits of $1.7m last time, on turnover down 50.8% at $6.6m.
+The 1993 figures were released at 14 and 27 weeks and the 1992 figures at 13 and 26 weeks.
+Network Imaging Corp saw net losses of $512,000 for the year to December 31 up from losses of $338,000 last time, on turnover that rose 65.2% at $15.8m.
+MICROSOFT PLEDGES TO INVESTIGATE MS-DOS 6.0 REPORTS
+Despite anecdotal reports of serious bugs in Microsoft Corp's new MS-DOS 6.0, PC Week Labs says it has been unable to reproduce in a controlled laboratory environment any of the data-threatening errors specifically attributed to MS-DOS 6.0 or its DoubleSpace component, adding that it believes that many of the reported data-destroying errors can be attributed to the sudden introduction of SMARTDRV, the MS-DOS and Windows cache program, onto previously uncached systems — SMARTDRV caches disk writes, and any sudden power-down can cause unrecoverable file and disk errors — but be that as it may, Microsoft is taking the reports of data loss sufficiently seriously that it has pledged to do whatever it takes to track down and purge any serious flaws, although it has found none, and InfoWorld reported it found several problems, including one in the DoubleSpace data compression — but Microsoft said two of its engineers looked into but could not replicate the problems InfoWorld saw.
+P-E INTERNATIONAL WINS INLAND REVENUE CONTRACT
+P-E International Plc has won the £150,000 contract to help the UK Inland Revenue with the implementation of the proposed reforms of personal tax assessment: in the budget, Chancellor Norman Lamont announced an overhaul of the tax return and payment process to make it simpler and fairer and offer the option of self-assessment and the revised system is scheduled to be in place by the 1996-7 tax year.
+SGS-THOMSON AND MITSUBISHI TO WORK ON FLASH MEMORY
+SGS-Thomson Microelectronics BV and Mitsubishi Electric Corp duly announced their agreement to work together on development of Flash memory chips, designing 16M-bit parts using a 0.5 micron CMOS process: the agreement is considered to be of equal value to both companies, so no financial compensation will be made by either; SGS-Thomson has begun production of 1M Flash memories but no-one is doing 16Ms yet.
+ERICSSON CONTRACT WORTH $88m
+L M Ericsson Telefon AB says it has signed a contract with its established Chinese co-operation partner Beijing Wire & Communications Plant for delivery of digital PABXes: the value of the pact is put at $88m.
+NINTENDO RAISES US PRICES
+Most people old enough to be expected to pay for them out of their own pockets regard the price of games cartridges as outrageous, but Nintendo Co is raising the prices of new software titles sold in the US by roughly 20% to offset the impact of Japan's ever-rising yen.
+APPLE AND SYMANTEC EXTEND COLLABORATION
+Apple Computer Inc and Symantec Corp have extended their collaboration on Symantec's Bedrock technology for facilitating development of applications that will run under both Windows and Macintosh System, and they will work together to develop and market the next-generation development environment for the Macintosh: the environment will initially target Apple's PowerPC-based systems, and will address the needs of developers creating native applications; they will share engineering resources and build on Symantec's new C++ 6.0 for Macintosh, and on Apple's Macintosh Programmer's Workshop; it will be based on an open architecture that enables interoperability with software tools developed by other vendors.
+SILICON VALLEY GROUP AND CANON ENTER 10-YEAR PARTNERSHIP
+Silicon Valley Group Inc, San Jose and Canon Inc have agreed a 10-year partnership to develop and produce advanced deep ultraviolet step-and-scan photolithography equipment: under the agreement, Silicon Valley Group, which was saved from oblivion with the help of IBM Corp, will retain full ownership of its Micrascan technology, and Canon will license the technology to market in Japan and other Pacific Rim nations, with the exception of Korea.
+TELECOM EIREANN CUTS INTERNATIONAL RATES
+Telecom Eireann is cutting international rates but raising the cost of local calls to put tariffs more closely in line with costs, but it has predictably met a storm of protest from the consumer lobbies.
+SUN AND ORACLE PERFORMANCE FIGURES
+Sun Microsystems Computer Corp and Oracle Corp say that under the Transaction Processing Performance Council Benchmark A the eight-processor model of Sun Microsystems' new Sparcserver 1000 under Oracle7 Co-operative Server delivered 400.80 transactions a second for price-performance of $5,987 a tpsA.
+US RADIO SLOTS TO BE AUCTIONED
+The US House Energy & Commerce Committee has approved the bill that would allow the federal government to auction licences for parts of the radio spectrum, generating as much as $7,000m revenues.
+TANDY HEADS BACK TO INTERNATIONAL ARENA
+Having got rid of its international stores chain with the spin-off of InterTan Inc, Tandy Corp is heading back into the international market again and says it expects to open a second SuperCenter store in Stockholm, Sweden in the third quarter; the company already operates a third SuperCenter in Copenhagen.
+UNRAVELLING THE THREADS
+It takes a bit of an effort to get to the punchline in IBM Corp's alliance with Blockbuster Entertainment Corp to enable record stores to create compact disks on the spot at the request of the customer (CI No 2,166), because the deal is actually between IBM's Fireworks Partners unit, which is buying a stake in Blockbuster's NewLeaf Entertainment Corp subsidiary and creating a new company, Fairway Technology Associates, both in Deerfield Beach, Florida; the latter has been formed to further the development of multimedia technologies and to operate the multimedia distribution system, which will consist of digital content databases, interfaces to broadband telecommunications networks, audio and video servers and content production and display devices — and we were all wrong in suggesting that the point of the system was to enable retailers to eliminate the problem of needing to stock thousands of slow-moving titles — the partners say the aim is ‘to create a more enticing retail experience’.
+TOP END FROM NCR TO BE AVAILABLE ON PYRAMID KIT
+Following its availability on Hewlett-Packard Co HP 9000 machines, NCR Corp is expected to make its Top End transaction processing monitor available next on Pyramid Technology Corp kit (CI No 2,164): the AT&T Co firm is planning versions for a variety of Unix systems.
+DIEBOLD TO SUPPLY EDS WITH CASH DISPENSERS
+Canton, Ohio-based Diebold Inc has won the contract to be the exclusive supplier of new i Series cash dispensers to Electronic Data Systems Corp under the latter's monster contract with Southland Corp for its 7-Eleven stores in the US: Diebold will supply up to 4,000 InterBold i Series cash dispensers over a three- to four-year period.
+IT PAYS TO CHECK SEMICONDUCTOR INDUSTRY ANNOUNCEMENTS
+Correction: the Semiconductor Industry Association is famed for putting a positive spin on the most downbeat news and making over-optimistic forecasts, so it is as well to check their announcements closely — the $1,771m recorded for chip shipments in April was actually a decline of 19.5% on the figure recorded for March (CI No 2,166).
+NAME CORRECTION
+Correction: the author of Game Over is named David Sheff (CI No 2,166).
+GATES ALONE ON A DATE
+How do you share a date when your paramour is unavoidably detained on business in another town halfway across the country?
+Microsoft Corp chairman Bill Gates reportedly came up with an ingenious solution when he was romancing venture capitalist Ann Winblad: observing that the same movies are usually playing at the same time all over America, they came up with the Virtual Date — they'd each go alone to the same movie at the same time, and discuss it afterwards on their car phones.

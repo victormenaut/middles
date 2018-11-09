@@ -1,0 +1,453 @@
+
+
+PROCEDURE 1
+Objective of Procedure
+This procedure will transfer text from the Working-Set to its Table of Origin in the Main Text Archive and produce a magnetic tape security of the changed table.
+Responsible Person
+The procedure will be run by a Computer Services Operator.
+Program Descriptions
+Not applicable.
+Resources Required
+One tape unit will be required to run this procedure, together with the next sequentially numbered NEWOED tape from the NEWOED tape library.
+Only one reel of tape should be produced by this procedure.
+Prerequisites
+You must have received a NEWOED1 form completed by the lexicographers and the New OED Computer Group Manager before starting.
+This form will indicate which procedure is to be run.
+Variables to be Supplied
+The following variables must be supplied to the system by the operator from form NEWOED1 :
+Working-Set window to be returned (A, B or J)
+tape unit number (580 or 581)
+The following panels will be displayed by this procedure:
+BATCH
+ RET01 
+Example of panel BATCH.
+Select one job to be run from the following options:
+1) Restore to table of origin, AND bring to working set
+2) Return to table of origin
+3) Bring to Working Set
+4) Transfer an entry to the oddball table
+5) Prepare  magnetic tape for Photo-composition.
+Enter selection and press ENTER …>
+PF Keys:
+Example of panel RET01.
+Enter window to be transferred to Main database:
+Window…>
+Enter tape drive to be used for backup (580 or 581):
+Tape Drive…>
+Press ENTER to continue
+PF Keys:
+Scheduling
+This procedure will be run upon receipt of a form NEWOED1 , and in any one 24 hour period.
+The procedure will be started at 17.50 on the first available evening after receipt of the form.
+The procedure is expected to take about 3 hours.
+The procedure is expected to be completed within 24 hours from receipt of the form.
+Running the Procedure
+The steps to be taken to complete this process are as follows:
+Fill in the date and time in the spaces labelled{ Date},{Time}respectively on the row labelled{ 1.
+Restore Started}{Date Time}on the form NEWOED1 .
+Make sure all Oedipus users are logged off.
+Logon to user-id OEDDBA .
+If the{ From Working Set}box contains ‘A ’ or ‘B ’then select the next available tape from the TEXTA/TEXTB rack.
+If the{ From Working Set}box contains ‘J ’ then select the next available tape from the TEXTJ rack.
+Load the tape to tape unit number 580 or, if already in use or unavailable, to tape unit 581 .
+If both units are in use or unavailable inform the New OED Computer Group representative who will issue further instructions.
+When logged on:
+Panel ‘BATCH' will appear.
+You will be asked to supply a number corresponding to statements on the panel.
+This procedure is statement{ 2.
+Restore to table of origin}.
+Therefore:
+Type 2 then press ENTER .
+You will be asked to confirm your selection:
+Type ‘Y' to continue, or ‘N' to abandon.
+NOTE: from this point users will not be able to access Oedipus.
+Panel ‘RET01' will appear.
+You will be prompted to make the following selections:
+{window}to which you enter the letter in the box labelled{ From Working-Set}on the form NEWOED1 
+{tape drive}to which you enter the number of the unit you previously loaded the tape onto i.e. either 580 or 581 then press ENTER .
+You will be asked to confirm your selection by pressing ENTER to continue, or PF03 to abandon.
+The procedure will then start.
+At the end of this procedure, the following message should appear:
+{Window x returned successfully to table y}
+Where x = window entered above
+y = text table number in Main Database
+This process will take about 3 hours.
+Should any other message appear on the screen inform the New OED Computer Group immediately.
+They will then issue instructions as to any future action you should take.
+When the transfer has been completed (probably the following morning) you should continue as follows:
+Press PF03 to leave menu (this will enable Oedipus users to re-access the system).
+Logoff from user-id OEDDBA , by typing ‘LOGOFF' .
+The tape should be unloaded and labelled.
+The labelling should include the Text Table Number , as displayed on the panel and the days Date .
+The tape should be returned to its original position in the rack.
+The date and time the process ended should be recorded on the row{ Completed Date Time}, below the{ 1.
+Restore}row on the NEWOED1 form.
+If necessary you should add any comments regarding the running of the procedure in the space provided on the NEWOED1 form.
+The completed NEWOED1 form should be returned to the New OED Computer Group representative making sure a copy is retained.
+Messages
+If any message other than those already listed appears whilst running the procedure the New OED Computer Group Manager, or his appointed deputy, should be informed.
+Dealing with Problems
+When a problem arises the New OED Computer Group Manager should be immediately informed.
+The New OED Computer Group will then inform you as to what further action if any you are to take.
+PROCEDURE 2
+Objective of Procedure
+This procedure will transfer text from the Table of Origin to the Working-Set .
+It will also produce an archive of the Working-Set on magnetic tape.
+Responsible Person
+The procedure will be run by a Computer Services Operator.
+Program Descriptions
+Not applicable.
+Resources Required
+One tape unit will be required to run this procedure, together with at least the next sequential NEWOED tape.
+The procedure will not produce more than two reels of magnetic tape.
+Prerequisites
+You must have received a NEWOED1 form completed by the Lexicographers and the New OED Computer Group Manager before  proceeding .
+This form will indicate which procedure is to be run.
+Variables to be Supplied
+The following variables must be supplied to the system by the operator from form NEWOED1 :
+table to be brought in, transferred from the table of origin (1–40)
+Working-Set window to be used (A, B or J)
+tape drive (580 or 581)
+The following panels will be displayed by this procedure:
+BATCH
+MGET01.
+Example of panel BATCH.
+Select one job to be run from the following options:
+1) Restore to table of origin, AND bring to working set
+2) Return to table of origin
+3) Bring to Working Set
+4) Transfer an entry to the oddball table
+5) Prepare magnetic tape for Photo-composition.
+Enter selection and press ENTER …>
+PF Keys:
+Example of panel MGET01
+Enter text table to transfer, and target window:
+Text table number…>
+Target Window…>
+Press ENTER to continue
+PF Keys:
+Scheduling
+This procedure will be run upon receipt of a form NEWOED1 .
+The procedure will be started at 17.50 on the first available evening following receipt of the form.
+The procedure is expected to take 2 hrs.
+Note that part two of this procedure (8.2 Archiving) will be completed between 08.00 and 08.30 the following morning.
+The procedure should be completed within 48 hours from receipt of the form.
+Running the Procedure
+This procedure is operated in two parts:
+Table Transfer
+The steps to be taken to complete this process are as follows:
+The date and time the process was started should be recorded on the row labelled{ 2.
+Bring Started Date}{Time}in the appropriate places on the form NEWOED1 .
+Make sure all Oedipus users are logged off.
+Logon to user-id OEDDBA .
+Panel ‘BATCH’ will appear.
+You will be asked to supply a number corresponding to statements on the screen.
+This procedure is the one labelled{ 3.
+Bring to Working-Set}on the panel.
+Therefore:
+Type 3 then press ENTER .
+You will be asked to confirm your selection; type ‘Y ’ to continue,‘N' to abandon.
+Panel ‘MGET01’ will appear.
+You will be prompted to supply the following information:
+NOTE: from this point, users will be unable to access the system.
+{Text table number?}to which should be entered the number in the box labelled{ From Table Number}.
+{Target window?}to which again you supply the information from the box labelled{ To Working-Set}(A, B or J)
+Press ENTER .
+You are asked to confirm your selection by pressing ENTER again.
+When the process has been successfully completed the following message will appear:
+{Text table x successfully transferred to window y}
+Where x = the text table number that was transferred
+y = the target window.
+Failure to get this message, or if another message appears, the New OED Computer Group Manager should be informed.
+This process should take about 2 hours.
+When completed successfully:
+Press PF03 to leave the final panel (this will also enable users to access the system again).
+Log off from user-id OEDDBA , by typing ‘LOGOFF' .
+Archiving
+When completed the working set database should be archived by doing the following:
+Logon to user-id OPERATOR .
+Type ATT 580 SQLWSET 181 .
+The following message should appear:
+{Tape 580 attach to SQLWSET 181}
+If instead the following message appears:
+{TAPE 580 already attached to nn}
+where nn = another user-id
+then do the following:
+Type ATT 581 SQLWSET 181 .
+If whilst doing process number 3, the following message appears:
+{Tape 581 already attached to nn}
+where nn = another user-id
+then speak immediately to the New OED Computer group Manager.
+If the machine becomes successfully attached then do the following:
+Type DISC .
+Logon to user-id SQLWSET .
+Load next sequential NEWOED database archive tape onto either tape unit 580 or 581 depending upon which one was attached above.
+Type ARCHIVE and press ENTER .
+A message appears which will prompt you for the following information:
+{Ready archive output volume.
+Reply CUU}
+to which you respond by typing 181 then press ENTER .
+The tape will then be archiving.
+The following message may appear:
+{DMSTLB4281 ‘TAP1(181)’ EOV1 LABEL WRITTEN.}
+{ARI070A OPERATOR NOTIFIED TO MOUNT NEXT VOLUME ON TAPE UNIT 181.}
+{ARI070A FOR OUTPUT FILE ARIARCH REASON = END OF VOLUME.}
+{ARI070A WHEN READY, ENTER: ‘VOLID CCCCCC’ OR ‘READY’.}
+This means the tape is full and the next tape has to be used.
+To do this you must do the following:
+remove the full tape from tape unit
+label the tape with the Date , the Table of Origin and the legend ‘Working Set archive' .
+The tape should also be marked with ‘1 of x ’, where{ x}represents the final number of tapes used to archive the table.
+load the next sequential NEWOED tape
+type READY and press ENTER 
+Repeat this last process as necessary, labelling the completed tapes appropriately ‘2 of x ’.
+When the database has been completely archived the following message will appear:
+{Archive completed}
+The following should then be invoked:
+Type £CP DET 181 and press ENTER .
+Type £CP DISC and press ENTER .
+Remove the tape from the tape unit.
+Label the tape in a similar manner as stated above noting that this is the final tape.
+If other tapes were used they should be properly marked with the final number of tapes used.
+The New OED Computer Group should be informed immediately upon completion by returning the NEWOED1 form.
+The form should be filled in with the completion time and date on the row{ Completed Date Time}below the row labelled{ 2.
+Bring Started Date Time}.
+If necessary the form should be completed with any appropriate comments.
+Messages
+If any message other than mentioned above appear whilst running the procedure the New OED Computer Group Manager, or his appointed deputy, should be informed.
+Dealing with Problems
+When a problem arises the New OED Computer Group Manager should be immediately informed.
+The New OED Computer Group will then inform you as to what further action if any you are to take.
+PROCEDURE 3
+Objective of Procedure
+This procedure will transfer text from the Working-Set to its Table of Origin in the Main Text Archive and produce a magnetic tape security of the changed table.
+This procedure will also transfer text from the Table of Origin to a Working-Set .
+It will also produce an archive of the working set on magnetic tape.
+Responsible Person
+The procedure will be run by a Computer Services Operator.
+Program Descriptions
+Not applicable.
+Resources Required
+One tape unit complete with a number of tapes will be required.
+The tapes will be needed to produce archives of the transferred table plus a security of the changed table.
+Prerequisites
+You must have received a NEWOED1 form completed by the Computer Group Manager before starting.
+This form will indicate which procedure is to be run.
+Variables to be Supplied
+The following variables must be supplied to the system by the operator from form NEWOED1 :
+Working-Set window to be returned to table or origin (A, B or J)
+new table to be transferred into Working-Set (1–40)
+Working-Set window for new table (A, B or J)
+tape unit number (580 or 581)
+The following panels will be displayed by the procedure:
+BATCH
+TRAN1
+Example of panel BATCH.
+Select one job to be run from the following options:
+1) Restore to table of origin, AND bring to working set
+2) Return to table or origin
+3) Bring to Working Set
+4) Transfer an entry to the oddball table
+5) Prepare magnetic tape for Photo-composition.
+Enter selection and press ENTER …>
+PF Keys:
+Example of panel TRAN1
+Enter window to be transferred to Main database:…>
+Enter text table to be loaded to Working Set:…>
+Enter window to be loaded to Working Set:…>
+Enter tape drive for backup (580 or 581):…>
+Press ENTER to continue
+PF Keys:
+Scheduling
+This procedure will be run upon receipt of a form NEWOED1 .
+The procedure will be started at 17.50 on the first available evening after receipt of the form.
+The procedure is expected to take about 5 hours.
+The second part of this procedure (8.2 Archiving) will be carried out between 08.00 and 08.30 on the morning following the first part of the procedure.
+The procedure is expected to be completed within 48 hours from receipt of the form.
+Running the Procedure
+This procedure is in two parts:
+Transfer of Working-Set to Table and New Table to Working-Set
+The steps to be taken to complete this process are as follows:
+Fill in the time and date in the spaces labelled{ Date},{Time}respectively on the row labelled{ 1.
+Restore}{Started Date Time}on the form NEWOED1 .
+Logon to user-id OEDDBA .
+See attached sheet.
+Load next sequential tape to tape unit number 580 or, if already in use or unavailable, to tape unit 581 .
+If both units are in use or unavailable inform the New OED Computer Group representative who will issue further instructions.
+When logged on:
+Panel ‘BATCH’ will appear.
+You will be asked to supply a number corresponding to statements on the panel.
+This procedure is statement{ 1.
+Restore to table of origin, AND bring to}{Working-set}.
+Therefore:
+Type 1 and press ENTER .
+You will be asked to confirm your selection:
+Type ‘Y' to continue or ‘N' to abandon.
+Panel ‘TRAN1’ will appear.
+You will be prompted to make the following selections:
+{Window to be transferred to Main database}
+to which you enter the letter in the box labelled{ from Working-Set}on the form{ NEWOED1}
+{Text table to be loaded to WSET}to which you enter the number in the box labelled{ from table number}
+{Window to be loaded in WSET}
+{to Working-Set}
+{Tape drive for backup}
+to which you enter the number of the unit you previously loaded the tape onto i.e. either 580 or 581 then press ENTER .
+The procedure will then start.
+NOTE: from this point users will be unable to access Oedipus.
+This process will take about 5 hours.
+At the end of this procedure, the following message should appear:
+{Window x returned to main database table y}
+{Main database table a loaded to WSET window b}
+Should any other message appear on the screen inform the New OED Computer Group immediately.
+They will then issue instructions as to the action you should take.
+When the transfer has been completed you should continue as follows:
+Press PF03 to leave the menu.
+Logoff from user-id OEDDBA , by typing ‘LOGOFF' .
+NOTE: users are now able to access Oedipus.
+The tape should be unloaded and labelled.
+The labelling should include the Text Table Number , as displayed on the panel, the days Date and the pre-registered Tape Label Number .
+The tape should be returned to its original position in the rack.
+Part two of this procedure is:
+Archiving
+When completed the Working Set database should be archived by doing the following:
+Logon to user-id OPERATOR .
+Type ATT 580 SQLWSET 181 .
+The following message should appear:
+{Tape 580 attach to SQLWSET 181}
+If instead the following message appears:
+{Tape 580 already attached to nn}
+where nn = another user-id
+then do the following:
+Type ATT 581 SQLWSET 181 .
+If whilst doing process number 3, the following message appears:
+{Tape 581 already attached to nn
+where nn = another user-id
+then speak immediately to the New OED Computer Group Manager.
+If the machine becomes successfully attached then do the following:
+Type DISC .
+Logon to user-id SQLWSET .
+Load next sequential NEWOED database archive tape onto either tape unit 580 or 581 depending upon which one was attached above.
+Type ARCHIVE and press ENTER .
+A message will appear which will prompt you for the following information: ready archive output volume, reply CUU
+to which you respond by typing 181 then press ENTER ,
+The tape will then be archiving.
+The following message may appear:
+}DMSTLB4281 ‘TAP1(181)’ EOV1 LABEL WRITTEN.{
+}ARI070A OPERATOR NOTIFIED TO MOUNT NEXT VOLUME ON TAPE UNIT 181.{
+}ARI070A FOR OUTPUT FILE ARIARCH REASON = END OF VOLUME.{
+}ARI070A WHEN READY, ENTER: ‘VOLID CCCCCC’ OR ‘READY’.{
+This means the tape is full and a new tape has to be used.
+To do this you must do the following:
+remove the full tape from tape unit
+label the tape with the Date , the Table of Origin and the legend ‘Working Set archive' .
+The tape should be marked with 1 of x , where}x{ represents the final number of tapes used to archive the table.
+load the next sequential NEWOED tape.
+type READY and press ENTER 
+Repeat this last process as necessary, labelling the completed tapes appropriately 2 of x .
+When the database has been completely archived the following message will appear:
+}Archiving completed{
+The following should then be invoked:
+Type £CP DET 181 and press ENTER .
+Type £CP DISC and press ENTER .
+Remove the tape from the tape unit.
+Label the tape in a similar manner as stated above noting that this is the final tape.
+If other tapes were used they should be properly marked with the final number of tapes used.
+The New OED Computer Group should be informed immediately upon completion by returning the NEWOED1 form.
+The form should be filled in with the completion time and date on the row}Completed Date Time{ below the row labelled}2.
+Bring Started Date Time{.
+If necessary the form should be completed with any appropriate comments.
+Messages
+If any message other than those already listed appears while running the procedure the New OED Computer Group Manager, or his appointed deputy, should be informed.
+Dealing with Problems
+When a problem arises the New OED Computer Group Manager should be immediately informed.
+The New OED Computer Group will then inform you as to what further action if any you are to take.
+PROCEDURE 4
+Objective of Procedure
+This procedure will produce a magnetic tape copy of an archived table or part of table.
+This will be used by an outside agency to photocompose the text of the New OED for the lexicographers.
+Responsible Person
+The procedure will be run by a Computer Services Operator.
+Program Descriptions
+Not applicable.
+Resources Required
+One tape unit will be required to run this procedure, together with a NEWOED tape from the NEWOED tape library.
+Prerequisites
+You must have received a NEWOED2 form completed by the lexicographers and the New OED Computer Group Manager before starting.
+This form will indicate which procedure is to be run.
+Variables to be Supplied
+The following variables must be supplied to the system by the operator from form NEWOED2 :
+run type (W, S or R)
+start position (numeric)
+finish position (numeric)
+The following panels will be displayed by this procedure:
+BATCH
+TRANS1A
+Example of panel BATCH
+Select one job to be run from the following options:
+1)
+Restore to table of origin, AND bring to working set
+2)
+Return to table of origin
+3)
+Bring to Working Set
+4)
+Transfer an entry to the oddball table
+5)
+Prepare magnetic tape for Photo-composition.
+Enter selection and press ENTER …>
+PF Keys:
+Example of panel TRANS1A
+Run type…> (W = Whole table,
+Text Table No.…> (1–40, REQUIRED for run type W or S)
+Start PSN…> (REQUIRED for run type R)
+End PSN…> (REQUIRED for run type R)
+PF Keys:
+Scheduling
+This procedure will be run upon receipt of a form NEWOED2 .
+The procedure will usually be started at 17.50 on the first available evening after receipt of the form.
+It may be run at other time during the working day on specific instruction.
+The procedure is expected to take about 2 hours.
+Running the Procedure
+The steps to be taken to complete this process are as follows:
+The date and time the process was started should be entered on the row labelled{ Tape Preparation Started Date Time}in the appropriate spaces on the form NEWOED2 .
+Logon to user-id OEDDBA .
+Load next sequential tape to tape unit number 580 or, if already in use or unavailable, to tape unit 581.
+If both units are in use or unavailable inform the New OED Computer Group representative who will issue further instructions.
+When logged on:
+Panel ‘BATCH’ will appear.
+You will be asked to supply a number corresponding to statements on the panel.
+This procedure is{ 5.
+Prepare magnetic tape for photocomposition}.
+Therefore:
+Type 5 then press ENTER .
+You will be asked to confirm your selection:
+Type ‘Y' to continue, or ‘N' to abandon.
+Panel ‘TRANS1A’ will appear.
+You will be prompted to make the following selections:
+{type}to which you will reply with the letter (W, S or R)in the box labelled TYPE 
+{table number}to which you will reply with the number (1–40) entered in the box labelled{ From Table Number}
+{start}to which you will reply with the number in the box labelled{ Start}
+{finish}to which you will reply with the number in the box labelled{ Finish}
+Note: some of the boxes on the form will be blank.
+You will leave the corresponding boxes on the panel blank and press ENTER .
+The procedure will then start.
+This process will take about 2 hours.
+At the end of this procedure, the following message should appear:
+Transfer of nn entries to tape TEXTxx ddmmyy completed{
+Where nn = number of entries
+xx = the text table number
+ddmmyy = the date the tape was created
+Should any other message appear on the screen inform the New OED Computer Group immediately.
+They will then issue instructions as to any future action you should take.
+When the transfer has been completed you should continue as follows:
+Logoff from user-id OEDDBA , by typing ‘LOGOFF' .
+The tape should be unloaded and labelled.
+The labelling should include the Text Table Number , as displayed on the panel and the days Date .
+The tape should be handed to the New OED Project Director.
+If necessary you should add any comments regarding the running of the procedure in the space provided on the NEWOED2 form.
+The completed NEWOED2 form should be returned to the New OED Computer Group representative making sure a copy is retained.
+Messages
+If any message other than those already listed appears while running the procedure the Computer Group Manager, or his appointed deputy, should be informed.
+Dealing with Problems
+When a problem arises the New OED Computer Group Manager should be immediately informed.
+The New OED Computer Group will then inform you as to what further action, if any, you are to take.

@@ -1,0 +1,263 @@
+
+
+HEWLETT-PACKARD, IBM SEEKING CLOSER ALLIANCE
+The Hewlett-Packard Co and IBM Corp ‘Unified Unix’ effort is now thought to be part of a much broader set of strategic discussions that the two companies are having on how best they can collaborate on a wide range of technologies, today's edition of our sister paper Unigram.X reports.
+The Common Open Software Environment — and IBM's attempt to woo Hewlett-Packard to its object-oriented Taligent operating system effort with Apple Computer Inc — are thought to be manifestations of these talks.
+Hewlett-Packard Co's Bernard Guidon says that the company's strategic goal is to have joint agreements in place by the end of this year.
+He denied suggestions that Hewlett-Packard might give up its Precision Architecture RISC architecture for the IBM-Apple Computer Inc-Motorola Inc PowerPC, but said the two firms are ‘technically close’, and that Hewlett-Packard is ‘flexible’.
+COMMON OPEN SOFTWARE ENVIRONMENT PREPARES TO EXPAND
+The common Unix desktop that represents the present manifestation of the Common Open Software Environment, COSE, is just a first step on the road to a much more comprehensive common Unix environment.
+The next two steps will be COSE II for networking, interoperability and distributed computing, and COSE III for systems management, and there is more where those are coming from.
+COSE was conceived by Hewlett-Packard Co and IBM Corp to meet the threat of Microsoft Corp's Windows NT, and their ‘Unified Unix’ plan aims to put together a cost structure for open operating environments that can match NT on the desktop.
+The other COSE firms were approached to support an effort that became bigger than Hewlett and IBM could handle alone.
+IBM and Hewlett-Packard decided — or were persuaded by independent software vendors — that a common kernel wasn't a necessity for competing with NT — in Hewlett-Packard's view, ‘users don't give a damn about the kernel anyway, they need application programming interfaces,’ says European computer systems marketing manager Bernard Guidon.
+Although inspired by the threat of NT, Guidon claims that COSE also grew out of pressure on Hewlett-Packard and IBM from large end users and independent software vendors demanding Unix standardisation.
+Guidon, who describes COSE (I) as the ‘tactical execution’ of an agreed set of desktop strategies, says that COSE II and COSE III will follow because ‘it just doesn't make sense to unify the desktop if you don't do the rest.’
+PICK SYSTEMS LAYING OFF STAFF AND CLOSING OFFICES AGAIN
+Irvine, California-based Pick Systems Inc, which two months ago was hiring back some of its old lieutenants, has up and laid off all its vice-presidents and managers except for its engineering chief, and will close down all but its Russian and its headquarters operations, Unigram reports.
+The move, a cost-cutting measure Pick has employed several times in the past, halves the company to 30 or so, leaving Pick with its development core and about five salespeople.
+SERVICES ARM STRIKES MICROSOFT AND IBM FROM UNCLE SAM's SHOPPING LIST
+In a shock move, the US General Services Administration has dropped IBM Corp and Microsoft Corp software and hardware from its annual purchasing lists, the Washington Post reports, making it more difficult for government agencies to acquire the products.
+According to the Post, the government watchdog took the step because it is battling with the two companies over discount and marketing data, which it reckons it needs in order to determine whether it is paying fair prices for computer products.
+The companies rather lamely contend that the market determines fair prices and that the government's demands cannot be met since they do not track much of the data and do not sell directly to customers.
+DEC TO ABANDON THE OLD MILL
+No sentiment in business: Digital Equipment Corp is moving operations at its legendary Maynard Mill complex to other local facilities from late this summer.
+Corporate headquarters are to remain in Maynard.
+NOW IBM's BOCA RATON ARM SEEKS UP TO 500 JOB CUTS
+Latest victim of the IBM Corp workforce paring is the company's personal computer plant in Boca Raton, Florida, where 400 to 500 jobs are to go, leaving about 3,200, United Press International reports.
+The company hopes that it can persuade most of the surplus employees to go quietly, accepting voluntary redundancy.
+Those that don't accept terms by June 30 risk being declared surplus and laid off.
+‘We want to retain the key skills but fix the skill imbalance.
+So not everyone that volunteers will be approved,’ the company told the news wire.
+Employees eligible for retirement in 2000 can retire now and receive health benefits for seven years.
+IBM also announced that 35 marketing, finance and planning jobs are moving into Boca as it  transfers the headquarters of its Latin American personal computer operation down to Florida from Mount Pleasant, New York by September.
+INTEL EXPANDS IN ALBUQUERQUE AND PLANS NEW PLANT
+The cost of chip plants continues to soar, and Intel Corp will have to invest $1,000m to expand its microprocessor fabrication plant in Rio Rancho, New Mexico, which won against bids from Arizona, California, Oregon, Texas and Utah.
+Overall, the company will invest $1,600m on new plants and equipment this year, while expanding its US-based manufacturing workforce by about 18%.
+The expansion to the New Mexico plant, currently Intel's  mits largest, will add 1.3m square feet to the site and create up to 1,000 new jobs.
+It will be fitted out to fabricate the new Pentium chips on 8″ wafers to 0.4 micron design rules.
+The company will also decide by the end of the year on the location for a completely new plant to fabricate the planned P6 and P7 microprocessors.
+It says that it is unlikely to be built New Mexico and that California, where the costs of living and doing business are extremely high, had a strong expense disadvantage.
+HEWLETT-PACKARD OUTLINES ITS LATEST EFFORTS TO KEEP IT AHEAD IN THE PRINTER GAME
+Hewlett-Packard's peripherals division in Bblingen, Germany has announced two new 600dpi, 16 page per minute printers, the LaserJet 4si and 4si Mx which are to replace the IIIsi and IIID range.
+Both feature Hewlett's JetDirect interface for connection to local networks, which Hewlett-Packard will also market in its own right.
+The general-purpose 4si LaserJet has enhanced PCL 5 printer language, 2Mb of memory, LocalTalk interface, two input-output slots for optional HP JetDirect Ethernet interfaces and a Bi-Tronics interface reckoned by Hewlett to be faster than a standard parallel port.
+The Bi-Tronics port also enables status messages to be sent to users' computer screens when the printer needs servicing, paper or toner.
+The ‘premier model’ 4si MX also has PCL 5, with Adobe Systems Inc PostScript Level 2, 10Mb of memory, Bi-Tronics and LocalTalk interfaces and a built in JetDirect Ethernet interface.
+Both machines are based on Canon Inc engines and have Intel 80960CF 25MHz RISC processors.
+Data compression
+Printer Control Language and Windows PostScript drivers enable the printers to output combination 600dpi text and graphics and the data compression function within PCL 5 enables most documents to be printed within the printer's standard memory.
+The JetDirect interfaces can accept data at around 350Kbps — about 30 times faster than standard parallel interfaces, according to Hewlett.
+This is because they send data in 1,024 byte packets instead of a one-byte stream.
+Print speed is boosted by pages being formatted in a buffer while another is printing.
+This, together with instant input-output switching provides a continuous stream as the printer switches between PostScript and PCL 5.
+Both printers come with 45 scalable typefaces and feature Hewlett's Resolution Enhancement technology, which is designed to sharpen both text and graphics.
+And an on-line user's guide, HP Explorer is available with both.
+Each has two 500-sheet paper trays, and an optional 1,500 sheet feeder is also available to boost capacity to 2,000.
+They also use microfine toner particles which also helps produce clearer images according to Hewlett.
+The 4si costs around £3,000.
+The 4si MX is £4,500.
+Both are available now from Hewlett's dealer network.
+The target markets will be based on the 3si's customer profile comprising — around 63% personal computer users; minicomputer users that account for 11%; technical workstation users that comprise 8%; mainframe customers at 5% and 13% of ‘others’.
+Hewlett-Packard is anxious to stress though that the printers are multi-system rather than simply personal computer-based products.
+The printers have been designed to reflect Hewlett-Packard's ‘anywhere to anywhere’ print strategy, which aims to accommodate the complexities of heterogeneous computing environments while keeping pace with users' demands for speedier and more advanced printers.
+According to Norwell, Massachusetts-based market research firm BIS Strategic Decisions, 55% of the world's 100m personal computers will be local network-connected by 1995.
+In some instances, thousands of users will be connected at a single site.
+Not only will this require disparate computer operating systems — commonly MS-DOS, Macintosh System and Unix — to work side by side, it will also involve the integration of several different network operating systems, even though Novell Inc's IPX/SPX protocol is fast becoming the de facto standard.
+It is this need for interoperability, which applies equally to printers as personal computers, that Hewlett-Packard is at pains to reflect — though without compromising printer performance.
+The company is at best ambivalent about the Network Printing Alliance however — yet another industry body set up to define a standard protocol, this time for distributed local network connected printers and personal computers.
+As reported earlier (CI No 2,106) the proposed protocol would be independent and, its authors claim, superior to Hewlett's own Printer Control Language.
+But until industry giants — and key strategic partners — Microsoft Corp and Novell join the alliance, and until it is satisfied that its customer demand is sufficient Hewlett is unlikely to become closely involved in the initiative.
+Its priority is simply to lead the market with the speediest and most reliable printers, with the easiest local network connections, and with the broadest range of peripherals and implementations.
+And it reckons its enhanced JetDirect technology, which enables the new printers to work concurrently with personal computers, Macs, Unix workstations and a variety of networks is an important step towards this goal.
+The JetDirect interface incorporated into the new printers, will also be available as a family of add-in boards.
+The Ethernet version automatically switches between up to 10 network operating systems and up to four network protocols; the Token Ring board supports five operating systems, up to two protocols.
+Both boards support NetWare, Microsoft's LAN Manager, Windows For Workgroups and Windows NT and IBM LAN Server.
+In addition, the Ethernet board supports the Apple EtherTalk, HP-UX, SunOS, Solaris or Santa Cruz Operation Inc Unix systems along with the IPX/SPX, DLC/LLC and TCP/IP protocols.
+The Token Ring boards support IPX/SPX and DLC/LLC protocols.
+Since they are Simple Network Management Protocol-compliant they can also assist with network printer management, providing printer-status reports such as‘Paperout’ or ‘Tonerlow’.
+JetAdmin and JetPrint management features are also provided for NetWare users.
+These offer enhanced bidirectional reporting, automatic client configuration through a one-step installation utility and multiple file server support that provides users with status read-back from any location.
+The J2371A JetDirect boards for Ethernet 10Base-T, and J2372A boards for 10Base-T/10Base2 cost £400.
+The J2373A board for Token Ring is £550 — 30% cheaper than the existing JetDirect board range.
+The HP J2374A JetDirect HP-UX software kit must be bought with the HP 2371A, or HP2372a boards with HP-UX.
+The kit includes a CD-ROM and Digital Audio Tape drive.
+Solaris
+SunOS and Solaris support is provided by the HP 2375A Sun Unix software kit.
+For printers with no input-output slots such as the LaserJet IIIP, Hewlett-Packard has come up with JetDirect EX boards.
+They provide similar network and printer management functions through JetAdmin and JetPrint by plugging directly into the printer's parallel port but they support a single selectable protocol.
+The EX interfaces are available for NetWare on either Ethernet or Token Ring networks and they are compatible with all Hewlett printers and plotters with parallel ports.
+They are due to surface next month.
+The JetDirect EX J2383A for Ethernet BNC/10Base-T costs £400 and the J2384A for Token Ring costs £550.
+TURNING SOFTWARE INTO A COMMODITY: DATA GENERAL PLANS CUT-PRICE UNIX DOCUMENT MANAGEMENT SOFTWARE
+Data General Corp is moving into document imaging and forms management in an effort to move hardware, taking what it learned in the minicomputer business and applying it to current events.
+It will attempt to turn into a commodity software that currently sells for 10 times what Data General will be charging for it.
+It is coming from a third-party source that Data General declines to identify, and is already used in high-end sites.
+Some of the functionality — such as technical image editing and the ability to scan in pages bigger than 11″ by 17″ — that enables it to be sold for over $10,000, has been stripped out.
+However, for $700 per user for five users, it is still very sexy stuff.
+Because of its Hypersoft compression technology, or rather because it doesn't require image decompression, 100 full-screen zoomed images can be viewed in less than 17 seconds, 1,000 in 3.5 minutes.
+It requires a tenth the usual disk space and one-fifth the usual memory.
+Data General figures that imaging is an untapped high-volume market because of the prices that are being asked, the complexity of current software, and the time it takes to implement.
+Data General believes its formula is not only affordable and easy to use, but takes advantage of networks, databases and applications that are already installed.
+The software, which Data General is styling AV Image, is based on an SQL client-server architecture and runs on Windows-based personal computers, Motif-based workstations and X terminals networked via NetWare or TCP/IP to a relational database on an AViiON server.
+AV Image includes Win-Track, a Windows-based universal document manager, to create, scan, index, delete, search, edit, mail and print documents and images, and AV Image Viewer for viewing and annotating.
+DB Links and AV Imagizer Toolkit, a programmer-level package of run-time C and dynamic link libraries and documentation, are options, as is a MasstorMind Optical Storage Manager.
+(The software will be free with optical jukeboxes).
+Database support includes Sybase, Oracle, Ingres, Informix or Progress using a DB Link option.
+Data General considers full relational databases to be overkill and says that run-time versions are enough.
+They add $300 a user to the cost.
+For smaller environments of fewer than 20 users, AV Image includes a Paradox database engine with networked multi-user file management on the server.
+The products, internally tested over the last six months and now going into formal beta test, will be available direct and through value-added resellers in the current quarter.
+Data General aims to hit what it figures is the largest of the imaging markets: the turnkey multi-user arena.
+Its Professional Services people will pursue users that require customisation and office information systems integration.
+It will use partners at the uppermost reaches, where, say, a workflow component is required: that would be supplied by London company Staffware Ltd.
+NEURAL COMPUTER SCIENCES OFFERS AN NTLINK BETWEEN ITS NEUDESK SIMULATOR AND NEURAL  TECHNOLOGIES' NT5000 BOX
+Southampton-based Neural Computer Sciences Ltd has co-developed an interface, NTLink, to connect its Windows-based simulator NeuDesk to the NT5000 box from Petersfield, Hampshire-based Neural Technologies Ltd.
+This will enable users to develop neural applications on their personal computers under Windows, and then download them to the NT5000 system, a stand-alone box that collects data from real world analogue and digital devices like microphones, cameras and other industrial sensors.
+The box, which measures around 1′ square by 3″ high can then display pre-programmed messages on its small LCD screen.
+The two companies reckon this combination will appeal to developers of process control systems using real-time monitoring.
+NT Link is available as a £100 upgrade for current NT5000 and NeuDesk applications.
+Neudesk software for 80386SX personal computers and up is £385, the NT5000 machine begins at £2,500.
+LYNX UNVEILS NEW VERSION OF ITS LYNXOS REAL-TIME OPERATING SYSTEM
+Los Gatos, California-based Lynx Real-Time Systems Inc has introduced version 2.2 of LynxOS, its real-time operating system.
+Enhancements to the new release enhancements include Posix 1003.4 real-time extensions, which enable users to execute Ada code in Unix environments.
+Improved library functions have been added to increase the performance of Threads and semaphores — special-purpose data types.
+It supports the Futurebus+, increasing the number of user priorities LynxOS can process to include rate, multiprocessing and scheduling.
+LynxOS's Unix compatibility has been improved and now includes Unix System V.4 Streams support, and binary  compatibility with Unix V.3.2 system calls and Unix shells.
+Other features include expansion of main memory support to 512Mb and total storage space of 2Gb.
+Version 2.2 is available now and runs on Sun Microsystems Inc Sparcstation 2s, MIPS Technologies Inc's R3000, IBM RS/6000s and Hewlett-Packard Co HP 9000s, the company says.
+GANDALF OFFERS ACCESS ISDN DEVICE FOR NON-DIGITAL PABXs
+Gandalf Technologies Inc's Gandalf Digital Communications Ltd unit in Warrington, Cheshire has released Access ISDN, a Primary Rate ISDN multi-function communications device.
+Developed initially for the UK Post Office, the product is designed for PABXs that cannot link digitally to public or private ISDN networks.
+Access ISDN's Primary Rate subsystem offers T1 and E1 formats, and supports the DASS II and Q.931 common channel signalling protocols.
+DPNSS is also supported, enabling connection to public or private switches from all leading vendors, claims Gandalf.
+This provides gateways to services from operators, including British Telecommunications Plc and Mercury Communications Ltd Virtual Private Network services.
+The unit is claimed to handle digital and analogue voice, X25, SNA, Statmux and local network data traffic.
+A Hyperchannel Module supports data rates up to 1,920Kbps over public and private ISDN.
+A suite of network management applications is also available, with diagnostic and maintenance features.
+A routing and digit modification facility enables Access ISDN to deliver calls via the most appropriate route.
+Centralised call logging is available, with an algorithm to transport call records to a data processing environment for billing and network planning.
+MICROWARE OFFERS MOTION PICTURE FILE MANAGER FOR OS-9, OS-9000
+Winchester, Hampshire-based Microware Systems (UK) Ltd has announced its Motion Picture File Manager that supports the playback of MPEG-encoded audio and video files running under its real-time VMEbus-based operating system OS-9 and portable OS-9000 version for 80386 and 80486-based personal computers.
+The Motion Pictures Experts Group standard is the method used to convert analogue signals to digital through compression; Microware's technology provides the means for then decoding MPEG files, be it from optical, magnetic and RAM disks or from local and wide area networks.
+Microware, which traditionally serves the industrial sector, envisages its technology could be used for a variety of applications based on the OS/9 multi-tasking real time operating system.
+These include professional MPEG broadcast and editing; digital interactive television for use in point of sale systems and or for security and fault diagnosis systems; interactive training and education systems; satellite systems and video-on-demand systems.
+Philips Electronics NV meantime is due to introduce similar MPEG decoding to the consumer market in April courtesy of its new CD-I player.
+Microware's Motion Picture File Manager is available with video drivers for Motorola Inc's MCD250 and C-Cube Microsystems Inc's CL450 MPEG decoders, and audio drivers for Motorola's MCD260 and Analog Devices Inc's ADSP2105 signal processors.
+It supports 16 encoded MPEG video and 32 MPEG encoded audio streams and handles decoded data rates of 1.2Mbps to 5.6Mbps and NTSC and PAL frame rates of 24, 25 and 30 frames per second.
+Channel switching during playback is supported at application level for ease of use.
+Sequenced video and audio can be played independently or together and multiple playback requests sequentially queued.
+The system is written in C and has input-output extensions to the OS-9 and OS-9000 operating systems.
+It can be installed on any 68000 family system running OS/9 or 80386 or 80486 system running OS/9000.
+The installation pack including the system object code, video driver source code for C-Cube and Motorola video decoders and digital signal processors is £33,440.
+A supplementary pack for C-Cube's CL450 PC/AT development board, providing and OS-900 device driver and object code for MPEG decoding is offered at £1,500.
+BRITISH TELECOM OFFERS NEW RELEASE OF SOFTWARE FOR iSDX PABX FAMILY
+British Telecommunications Plc has enhanced the software on all variants of the GEC Plessey Telecommunications Ltd iSDX range of PABXs.
+The release 3.7 upgrade includes software support and an interface for external voice processing devices, including enhanced automatic call distribution.
+Other improvements include better key system emulation, integrated voice messaging, packet switching, operator call retrieval and MF4 signalling.
+It is available now for the iSDX 300 and 3000, and costs vary according to the application.
+ELONEX LOOKS TO GRAPHIC WORKSTATIONS AS NEW NICHE MARKET
+London-based Elonex Plc has taken its first step into the higher-end workstation market.
+In fact the new GS-400 family represent not so much a step, as a dangling of toes into the water — the machine's guts come from Intel Systems, which the company then ‘Elonex-ises’.
+If they prove popular then the company may develop its own motherboards.
+The initial release consisted of two 32-bit EISA-based machines, one running at 66MHz, the other at half the speed.
+Most work has gone into tuning the machines for graphics work: the company reckons that it can out-perform conventional video adaptor boards with a combination of a Mach32 graphics accelerator, a 32-bit linear frame buffer and up to 2Mb of fast video RAM.
+The entry price of a 33MHz machine with 8Mb of RAM, a 170Mb hard disk and monitor is £2,475.
+The 66MHz equivalent costs £320 more.
+INFORMATION DIMENSIONS' DOCXFORM CONVERTS  DOCUMENTS INTO SGML
+London-based Information Dimensions (UK) Ltd has announced DocXform, which takes either scanned or word-processed documents and converts them to the Standard Generalised Mark-up Language standard, ready for loading into Information Dimensions' BasisPlus database.
+The system is designed to make large documents such as technical manuals easier to research, share and modify, as well as reducing the amount of storage space required.
+It enables users to retain the structure of documents — paragraphs, headings, chapters, footnotes and the like — and to tag these components for mapping into the database.
+Searches and edits can then be carried out on these components so avoiding the need to wade through huge fields of unstructured text.
+It runs under SunOS, Ultrix and VMS with AIX/6000 to follow in the second quarter, and accepts files from major word processors including Word For Windows, WordPerfect and MS Word.
+It is available worldwide for around £12,000.
+Connection to the BasisPlus database is through an ISO879 parser, a device that determines whether a string of input symbols relates to sentences in a given language.
+BasisPlus, according to Information Dimensions, is unique because of its ability to provide Standard Generalised Mark-Up Language storage, control and distribution.
+This enables several users to work simultaneously on the same document by locking on to the section relevant to them, rather than accessing the entire thing.
+As a result, only the changed sections are saved.
+They can then be put back together into the whole when users wish to view or print a particular version of the document.
+At present there are 2,500 BasisPlus customers and it is anticipated that the initial take-up for DocXform will be among them.
+But the potential market could could be much greater however given the acceptance of the Mark-Up Language standard by the US Department of Defense with its J/CALS initiative, the Air Transport Association's and Telecommunications Industry Forum.
+The dictates of these three organisations could affect 600,000 businesses alone.
+Indeed, according to analysts at InterConsult Inc, the market could be worth $190m by 1995.
+LATEST REPORT ON DOWNSIZING INTENTIONS SHOWS THE TREND IS ACCELERATING RAPIDLY
+Over the next two years, six out of 10 mainframe users in Western Europe will cease to use such machines as their main computing environment.
+And those that do intend to hold onto them will be centred mainly in the traditionally more conservative financial community, and geographically, in Germany.
+According to market researchers International Data Corp, a survey of 500 major corporate users showed that although 39% will continue to use their mainframes in the same way as they always have, a massive 61% want to downsize.
+IDC's definition of downsizing includes those firms either implementing new applications on smaller systems or completely replacing their original mainframes.
+Of those users intending to run new applications on alternative machines, about 26% will implement them on Unix systems, and 16% on proprietary machines.
+This trend will be most prevelant among larger companies that find downsizing takes a long time due to the complexity of their computing environment.
+Such users will tend to put their mainframes ‘on hold’ rather than totally replace them, preferring to spend cash on smaller systems than increase their mainframe capacity.
+Conversely, some 15% of users intend to completely replace their mainframes with Unix boxes, and 4% with proprietary systems.
+Per Andersen of IDC's European Unix Expertise Centre believes this to be a significant trend that will shape the industry over the next two years.
+Unix ‘the only real alternative’
+But, he added, he doesn't expect it to happen overnight.
+And he reckons it will be a more common occurrence among medium-sized companies with under 1,000 employees and only one or two mainframes than larger organisations, because downsizing is less difficult for them.
+So, IDC's findings indicate that Unix is the most popular alternative to the mainframe, while personal computers linked by local area networks are next in line.
+Andersen reckons this is because companies are using desktop systems more and more.
+As a result, he said, corporate structure is becoming increasingly decentralised, which is forcing people down the downsizing path.
+And, he believes that Unix provides the most powerful alternative to the mainframe — the ‘only real alternative’.
+While he said the AS/400 may well be taken up at existing IBM Corp sites and by medium-sized firms, he feels larger organisations will be less eager in Europe than in the US.
+US companies, he said, generally use the AS/400 as a departmental machine, while in Europe it is more often employed as a central server in medium-sized firms.
+So, all in all, Andersen believes that downsizing is no longer simply a buzz-word, but a concept that users are taking more and more seriously.
+He reckons that ‘the technology of the future will be based on the microprocessors, which started the personal computer revolution.
+More powerful systems will be built as multi-processing systems, massively parallel systems, and clusters.
+This is a basic change in the principles of how systems are built’.
+Therefore, his ultimate conclusion is: ‘Traditional mainframes are not dead, but they will become a dead end’.
+And what most of the analysis misses is that reports such as this will accelerate the process, persuading those that don't want to downsize that they will soon have little alternative as vendors put mainframe lines onto care and maintenance.
+BUM-OF-THE-MONTH CAMPAIGN: GEAC PLANS AN ACQUISITION A MONTH FOR 12 MONTHS
+If you think that Toronto vertical market turnkey systems integrator Geac Computer Corp has been making rather a lot of acquisitions of late, well you ain't seen nothing yet.
+The revitalised company that started life building its own 16-bit minicomputers, ultimately plunged into bankruptcy and returned from the dead as a library automation systems specialist, may make two more acquisitions this month, president and chief executive Stephen Sadler told the Toronto Society of Financial Analysts — and it expects to make at least an acquisition a month for the rest of the next 12 months.
+‘I have been doing one acquisition a month and I expect we will still do one acquisition a month,’ Sadler said.
+‘We thought that acquisitions were very important to do right now because of the economy — we have a short-term window.
+Probably 12 months from now, I won't be doing any acquisitions but will instead be concentrating on internal growth.’
+Sadler said write-offs related to  acquisitions during the fiscal fourth quarter to April 30 will affect fourth quarter profits but declined to say by how much.
+Geac maintains very conservative accounting standards and often writes off soft or non-cash assets when it buys a company to bring the acquisition's books in line, he added.
+He is looking for companies worth between $1.5m and $8m, and the preferred fields, as well as library systems, are systems for construction companies, financial institutions, hotels, property management companies and manufacturing and distribution organisations.
+The company is currently debt-free with a cash reserve of $31m, some of which will be used for acquisitions.
+‘We don't run on debt.
+We are not going to run on debt.
+We don't like debt,’ Sadler declared, expressing the orthodoxy of the 1990s.
+COMPANY RESULTS
+Broderbund Software Inc saw second quarter net profits up 34.4% at $3.7m, on turnover up 21.9% at $24.4m; mid-term net rose 40.1% to $8.6m, on sales up 37.1% at $56.9m.
+Net per share rose 32.1% to $0.37 in the quarter, 36.5% to $0.86 in the half.
+Cabletron Systems Inc has reported fourth quarter net profits up 48.2% at $24.5m, on turnover up 49.4% at $123m; net profit for the year to February 28 was up 43.9% at $83.5m, on turnover that rose 43.9% to $418.2m.
+Net per share rose 87% to $0.87 in the quarter, and 42.8% to $2.97 in the year.
+Terminal Data Corp has reported first quarter net losses of $424,000 up from losses of $271,000 last time, on turnover that fell by 3.5% to $4.6m.
+Volt Information Sciences Inc has reported a first quarter net loss of $1.8m, struck after $959,000 in gains from the cumulative effect of an accounting change, down from losses of $3.9m last time, on turnover that rose 10% to $124.6m.
+Linotype-Hell AG has reported net profits for the year to December 31 equivalent to $20.2m against a loss last time of $4.5m, on turnover that fell 16.3% at $641m.
+No per share figures.
+The figures have been converted at $0.629 to the German mark.
+Prestwick Holdings Plc has reported net profit for the six months to January 31 up 25.9% at £102,000 on turnover that rose 30.0% at £18.1m.
+At the pre-tax level, profits rose 30.9% to £106,000.
+Preference share dividends exceeded earnings per share.
+CONNER PERIPHERALS WARNS OF FIRST QUARTER RESULTS
+Big small disk drive maker Conner Peripherals Inc, San Jose warns that  continued weakness in demand and price declines for its disk drives, and a shortfall in orders from its European distributor will hurt its first quarter results and that the expected lower sales will cause earnings per share to fall below analysts' expectations: it says it is evaluating restructuring alternatives to reduce costs and that any restructuring action could result in additional charges to the quarter; chief executive Finis Conner said the disk drive market is affected by price competition and excess capacity in the industry, which has caused customers to defer buys and reduce their lead times.
+VODAFONE LTD GIVES FIGURES OF NEW CONNECTIONS
+The Vodafone Ltd arm of Vodafone Group Plc says gross new connections for its British cellular telephone network for the first quarter of 1993 totalled 92,775; net new connections totalled 43,911, and at the end of the quarter, Vodafone had more than 838,000 subscribers connected to its cellular network, 85,000 of them on the new LowCall tariff that it launched in October.
+IBM PC BUSINESS IS PROFITABLE AGAIN
+IBM Corp's personal computer business was around the break-even level or may have been profitable in the first three months of this year, the president of IBM Personal Computer Co Robert Corrigan told the New York Times: he says he thinks ‘people will be surprised at how quickly we're bringing this business back,’ and that it should be solidly profitable before year-end; problem is that its closest rivals, Compaq Computer Corp and Dell Computer Corp, which both faced the same problems as IBM, adjusted to the change in the market much more quickly, and rushed appropriate machines out while IBM procrastinated, so that they are already strongly profitable while IBM is still having to build up momentum.
+20 JAPANESE COMAPANIES PLAN INVESTMENT IN MOTOROLA'S IRIDIUM SATELLITE
+Some 20 Japanese companies plan to invest in Motorola Inc's Iridium low earth orbit satellite global cellular telephone system, Reuter reports from Tokyo: the companies include Sony Corp, Mitsubishi Corp, Kyocera Corp and Daini Denden International Corp, the long-distance telephone carrier whose investors include Sony and Kyocera; the Japanese partners will form a $130m joint venture late this month to co-ordinate investment and policy in the project; Motorola says it will cost $3,370m, half coming from investors, the rest to be borrowed.
+SIEMENS EXPECTS PROFIT FROM SEMICONDUCTOR DIVISION IN 1995-1996
+Making it clear that short-termism is not an affliction from which Siemens AG suffers, the company says that it expects its loss-making semiconductor division to show a profit in the 1995-96 business year, which starts October 1 1995: it looks for sales of some $2,000m that year, compared with about $1,187m last fiscal year; the company aims to achieve profitability via tight cost control, strategic cooperation with other companies and the moving of labour-intensive activities to south-east Asia; the division's workforce will be just under 12,000 in 1995-96 compared with some 13,200 at present.
+NIPPON TELEGRAPH & TELEPHONE SHARES JUMP 8.5%
+Nippon Telegraph & Telephone Corp shares jumped almost 8.5% on Friday on hopes that the government will spend heavily on a major new communications network: Prime Minister Kiichi Miyazawa said on Thursday that an economic stimulus package, widely expected to include funds for a network of high-speed fibre optic cables, would be even larger than 1992's supplementary budget; if the government steps in with new funding, the state-controlled phone company would likely end up laying the cable and providing services; the project is the one first mooted back in the early 1980s to connect every home and business in Japan.
+LINOTYPE ENJOYS GAINS IN FOREIGN MARKETS
+Commenting on its figures (see page five), Eschborn, Germany-based Linotype AG says its 1992 domestic orders fell by 6% but the company enjoyed solid gains in key foreign markets, with the US up 18%, Japan up 24% and the Middle and Far East showing gains of between 15% and 49%; the US market surpassed Germany for the first time, and exports at the computerised printing systems and equipment company accounted for 72.1% of overall business in 1992 after 69.1% a year earlier.
+ROMANIA'S FIRST CELLULAR PHONE NETWORK TO BE LAUNCHED THIS WEEK
+Romania's first cellular phone network will be launched this week under a deal with Spain's Telefonica de Espana SA, Reuter reports from Bucharest: ‘Starting April 5, our cellular phones will become operational in the Romanian capital Bucharest,’ Florin Rusu, executive manager of Telefonica Romania SA said; the cellular network will initially operate in a range of 20 miles in and around Bucharest, and would spread to all Romania's main cities within the next four years; Telefonica holds a 60% stake in the company, local partners the rest.
+BELGACOM MAY BE SOLD
+Belgacom, the Belgian state phone company, is terrified that the government, which is in such a panic to cut its budget deficit as required by the terms of the Maastricht Treaty that it tendered its resignation to the king, who declined it, will rush to raise cash by privatising the phones: ‘It is only when the company's reorganisation and internal restructuring is complete that a new change to its statutes could be undertaken,’ the board said, warning ‘It takes time to transform an administration into an efficient and dynamic company.’
+FERRANTI WINS $9.8M CONTRACT
+Ferranti International Plc, Manchester, says its Ferranti Technologies Inc unit has won a $9.8m contract amendment to improve the air combat training range being supplied to the United Arab Emirates.
+OKI ELECTRIC TO CLOSE PARTS OF PLANTS IN TOKYO
+Oki Electric Industry Co Ltd will close parts of three ageing plants in the Tokyo area due to restructuring: plants in eastern Tokyo, Hachioji and Takasaki, both in northwestern Tokyo, will be partly closed within a few years, and construction of a new plant in Shimizu, west of Tokyo, due to open in 1995, has been postponed, too.
+AT&T CONFIDENT OF WINNING $30M ORDER FROM SOUTH KOREA
+AT&T Co says it is confident of winning at least $30m in orders for digital switching equipment from South Korea next month, after the government promised to give US firms a fair shot at its telecommunications market in the face of threats of retaliation by the US.
+IBM HAS SHIPPED 2M COPIES OF OS/2 2.0
+And there we were thinking that it passed the 2m mark at the end of last year: IMB Corp says that on the first anniversary of the launch of OS/2 2.0, it has shipped more than 2m copies, has more than 80 agreements with hardware vendors to package OS/2 on their systems, and that there are now 1,200 applications specifically written for it.
+ MICHAEL MILKEN MAY JOIN MICHAEL JACKSON TO CREATE INTERACTIVE TV EDUCATION NETWORK
+Junk bond inventor and former jailbird Michael Milken is reportedly getting together with singer Michael Jackson to create an interactive television education network.
+ORGANISED PHONE BOX RAIDS?
+Phone cards have done a lot to alleviate the problem, but British Telecommunications Plc is required by its licence to maintain coin-operated public telephones as well, and the company reckons that smashing and entering of the cash boxes costs it £19m a year — and if you think that it's all just casual vandalism, think again — the company told the Daily Mail that there was actually a man offering courses on the best ways of clawing open the boxes quickly and easily — he charged £80 for the course, and then took the best pupil out for a test run around the local boxes.

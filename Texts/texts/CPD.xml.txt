@@ -1,0 +1,236 @@
+
+
+DEC TO TARGET SUN WITH SUB-£5,000 ALPHA MODEL…
+Digital Equipment Corp will launch three new Alpha workstations running the OSF/1 operating system tomorrow, April 20, adding a new high end model and two entry level machines — the cheapest of which is priced at less than £5,000.
+DEC says it hopes to target the new systems against rivals, such as Hewlett-Packard Co and Sun Microsystems Inc, by offering at least twice the price-performance.
+DEC's 3000 model 500X is a high performance graphics system with a claimed performance rating of 160 SPECmarks and an expected price tag of £30,000.
+It is positioned against HP 9000 Model 755 workstation, which runs at 147 SPECmarks and costs £48,000.
+The model 500X comes with 64Mb RAM, up to 3Gb of storage, five TurboChannel slots and two-dimensional graphics upgradable to three-dimensional.
+Lower down the line, the DEC 3000 model 300 will deliver 85 SPECmarks and the entry level machine, the model 300L non-expandable system offers 55 SPECmarks — both models come with 64Mb RAM and 520Mb disk.
+DEC UK workstation marketing manager Charles Monk told our sister paper Unigram.X that the 300L will be targeted against Sun's 50MHz microSparc-based Classic machine, which costs £3,655.
+He said the firm doesn't expect to match that price but claims it will offer twice the performance at just under £5,000.
+DEC is also expected to launch a range of Alpha and Pentium personal computers running Microsoft Corp Windows NT this summer.
+The 150MHz Alpha-based personal computer will be a tower system and is scheduled for introduction the end of May.
+The planned Intel Corp Pentium desktop machines will come in 60MHz and 66MHz configurations and are due to be available the end of the third quarter.
+…
+TAPS EX-IBM ‘NEUTRON’ ED LUCENTE TO HEAD SALES
+Digital Equipment Corp's big-name appointment to head its sales and marketing organisation turns out to be Ed Lucente — nicknamed Neutron Eddie at IBM Corp after he was given the job of pushing administrative staff out of their offices and onto the road as sales and support personnel, so that the people were gone but the buildings still standing.
+Lucente quit IBM for the number two post at Northern Telecom Ltd, where he resigned last month.
+Analysts hope Lucente will shake up a DEC salesforce in need of a lift.
+Lucente, 53, takes the new position of worldwide sales and marketing vice-president at DEC.
+‘What this guy will do is get a demoralized sales organisation revitalised, hopefully at the same time that the company's Alpha technology begins to roll out in volume,’ said John Jones, analyst at Salomon Brothers.
+DEC has not had a top sales executive since John Shields left the company in 1990 to take over the helm at doomed Prime Computer Inc.
+APPLE ASKS EMPLOYEES AT CORK PLANT TO GO ONTO 36-HOUR THREE-DAY WEEK
+Apple Computer Inc's fiscal second quarter margins slumped to 38% from the company's traditional 42% to 45%, and there is no cheer to come from the European market.
+To cut costs at its Cork, Eire plant, the company is proposing to institute a 36-hour three-day work for many of the 1,000 employees from the present five-day 39-hour week, and says that the proposed new work pattern will lead to significant savings.
+HITACHI DATA SHEDS 150 STAFF, MANY IN THE UK, TO REDUCE ITS COSTS
+Hitachi Data Systems Ltd is having to cut its costs in face of a very tough mainframe market, and following the lay-off off 90 employees at its Santa Clara headquarters and 15 at the big Canadian operation earlier this month, it is paring its European workforce of 860 by 5%, with the majority of jobs going at its Sefton Park, Stoke Poges, Buckinghamshire base in the UK.
+It is also closing Norway as a separate country operation, and will support its Norwegian customers from the Swedish subsidiary.
+IBM MONTPELLIER WANTS TO DO MULTICHIP MODULES ON CONTRACT
+Faced with the prospect of partial closure if it can't convince its parent that it has a viable future serving third party customers, IBM France SA's plant is energetically laying plans to exploit its skills in chip packaging, in particular IBM's proprietary technology for surface-mounting chips on multi-layer ceramic substrates to create multi-chip modules.
+A series of studies, due to be completed in June, will decide which operations will be spun off as Independent Business Centres — to be up and running by January 1 1994.
+The only activity at the plant that is secure is mainframe manufacture — as well as the water-cooled ES/9000s it already builds, it is to take over the air-cooled models currently built at the Valencia, Spain plant, as well.
+About half the 2,000-strong French workforce are employed building Enterprise Systems, with another 500 handling the manufacture of the integrated circuit modules.
+That is the business that Jean Richet, director in charge of restructuring at Montpellier, sees as particularly promising.
+Already, says Richet, the Montpellier engineers have made informal contact with potential customers, but large scale exploitation of the plant's capabilities will rely on a pan-European technology products sales operation, which is being set up in Paris.
+This will try to find markets for products and services coming from Montpellier and the other three European facilities in Havant, Valencia, Jrflla that are undergoing a similar process.
+There are also an application development and a manufacturing technology transfer operation: together, the work done by these for third parties account for 10% of the turnover of Montpellier.
+PACIFIC BELL OFFERS VIDEO NET FOR THE MOVIE INDUSTRY
+The Pacific Bell Inc arm of Pacific Telesis Group Inc has introduced a fibre optic Advanced Broadcast Video Service high-speed transmission network to provide superior motion, colour and sound for applications in the film and broadcast worlds.
+It delivers one-way transmission of mono or NTSC standard colour formats compressed to 45Mbps with up to four audio channels.
+It is offered in all major entertainment centres in California at from $212 a day.
+HIGH PERFORMANCE SPEC SEEKS TO GIVE VENERABLE FORTRAN A NEW LEASE ON LIFE
+What's happened to Fortran?
+For the last five years, Fortran has led a very quiet life, so quiet in fact the launch of new Fortran specifications two years ago, called Fortran90, has pretty much gone unnoticed even by Fortran users.
+Fortran77, released as the name suggests in 1977, is still the most widely used development language in the massively parallel market.
+But its future hangs in the balance.
+The advent of distributed computing and the changing nature of the massively parallel market itself demands new programming  flexibility , which Fortran77 has so far not addressed.
+The new Fortran90 specifications are already considered outdated by many Fortran users, because they don't provide a migration path from Fortran77.
+The lacklustre success of Fortran90 is historic, Fortran watchers say.
+Failed attempts
+The current Fortran 90 specifications were born out of failed attempts by industry vendors in the US to update Fortran77 to Fortran8X in the late 1980s.
+The initiative was annulled after two years when developers couldn't agree on final specifications.
+Fortran8X was laid to rest for another five years before being resurrected and renamed Fortran90.
+Despite these problems, a new force has surfaced in the Fortran arena.
+The High Performance Fortran Forum is a coalition of 40 hardware and software vendors, research institutes and Fortran users, which has clubbed together to revamp Fortran90 — and its first offering is a new set of Fortran90 extensions called High Performance Fortran, HPF.
+The organisation has garnered support from the US Defense Advanced Research Project Agency and National Science Foundation in the US and from the Esprit project run by the European Commission.
+The Forum is not a sanctioned standards body.
+However, the group's work has been endorsed by massively parallel hardware vendors including Digital Equipment Corp, Intel Corp, MasPar Computer Corp and Thinking Machines Corp, which promises to ship High Performance Fortran compilers this year.
+The High Performance Fortran Forum came into force a year ago, spearheaded by research at the Center for Research on Parallel Computation at Rice University in California.
+The initiative's primary goal was to provide greater Fortran functionality in massively parallel computing, especially in the fields of data parallel programming; the provision of non-uniform memory access calls on parallel computers; and common code tuning application programming interfaces for different architectures.
+Secondary aims included conforming to existing industry standards and defining interfaces to other languages.
+From these goals three areas for enhancement were specified: new directives — structured comments that download commands to the compiler; new constructs — a definition for operations that can affect the way a program is interpreted; and language restrictions, which limit the use of sequence and storage association to avoid conflicts with distributed data.
+In order to provide greater support for parallel data programming, the group enhanced existing Fortran90 specifications — developed from the Fortran 8X draft — by adding larger data libraries.
+These include code reduction functions, prefix and suffix operations, scatter operations, and data sorting.
+The Fortran8X draft was based on the FORALL statement, which allowed assignments to more general blocks of arrays than array expressions.
+The High Performance Fortran FORALL is based on this development, but adds nested FORALL statements, limited function calls and multiple statement capabilities.
+High Performance Fortran also supports parallel applications that don't need to share data through an independent directive.
+This ensures loop applications don't conflict with each other.
+To maintain a high level of performance in modern parallel architectures, High Performance Fortran also provides non-uniform memory access capabilities.
+Most parallel environments operate best when accessed data shows its local point of reference, the Forum says.
+In traditional Fortran versions, the language's hierarchical data storage order isn't flexible and cannot provide this information.
+Override
+To override this problem, High Performance Fortran includes specific directives to describe the alignment of data and the way it is  partitioned among processors.
+To do this, compilers enable data to be aligned in a series of array dimensions (an encapsulation of similar data types), sub-dimensions, collapsed or replicate dimensions.
+Before distribution, the dimension is then divided into large or small tasks to balance the load of processing.
+In addition, High Performance Fortran also includes several intrinsic functions, which enquire about machine size and the distribution of an array.
+These interfaces provide access into other programming languages operating in supercomputing environments, such as message passing sub-routines.
+According to the Forum, these can also be used to develop algorithm applications.
+The dearth of native applications for parallel processors and the attractions of parallelising the kinds of application written in Fortran mean that the High Performance Fortran initiative simply must succeed.
+SUN INTRODUCES NEW ONE-STOP SUNSPECTRUM SUPPORT SERVICES FOR HARDWARE, SOFTWARE WORLDWIDE
+Sun Microsystems Inc has put together a worldwide service and support programme covering hardware, software, network applications and interoperability called SunSpectrum.
+Currently, Sun customers pay service and support charges for each hardware configuration and an additional fee for each peripheral device.
+SunSpectrum will support entire systems, including the monitor, all disk drives, Sbus boards, memory and other related hardware as well as the Solaris operating system and other Sun software.
+It includes licences for on-line and CD-ROM versions of the SunSolve problem and support database.
+The one-stop support shop will offer Platinum, Gold, Silver and Bronze levels of service on a worldwide basis from May 1.
+Platinum support covers mission critical systems, guarantees 99% server uptime, on-site technical reviews, coaching, training as well as extended traditional support.
+It replaces the SunService 2000 scheme introduced last November.
+Gold service will offer personal technical account support, on-site and phone support and extended coverage hours.
+Silver service buys basic on-site and telephone support, while the bronze programme includes once a week on-site visits with telephone support for Solaris and for other Sun software.
+NOVELL TO LAUNCH THE NOVELL NETWORK REGISTRY TO  ELIMINATE NAME AND ADDRESS CONFLICTS
+Novell Inc is putting another element in place in its quest to move out from the local network into the enterprise-wide network.
+Next week it will launch the Novell Network Registry — not a place for networks to take solemn vows but a user service designed to eliminate conflicts between names and addresses on NetWare internetworks.
+The company sees the service as a natural complement to NetWare 4.0 directory services — which have been based as far as possible on the X500 standard.
+Although not said to be X500-compliant, Novell Network Registry is ‘fully compatible’ with Novell products and those of partners throughout the network.
+The service will be administered by Novell.
+Meanwhile, reports that Novell is planning a multi-server version of its IPX software router in order to provide companies with a low-cost alternative to software routers are said by the company to be ‘very misleading’.
+Novell is working on a link state routing version of its network layer protocol, IPX, designed to take the protocol into the next state of router development.
+Products incorporating the technology will not be launched until towards the end of this year or maybe even next year: the NetWare Link Services Protocol is still very much a product under development, Novell says.
+UNIX LABS TAKES BRISTOL XPRINTER FOR UNIX SYSTEM V.4.2
+Unix System Laboratories Inc has licensed Bridgefield, Connecticut-based Bristol Technology Inc's Xprinter software for Unix System V.4.2.
+Xprinter provides a single Xlib-based X Window imaging application programming interface for software developers, so they can add printer support without learning PostScript or PCL commands.
+Software Developers Kits will be licensed as source code or binary through Unix Labs, binary through its OEM customers and directly as either from Bristol.
+STRATACOM CUTS COST OF FRAME RELAY WITH ADD-ON FOR IPX, BPX SWITCHES
+A Frame Relay interface now available on Campbell, California-based StrataCom Inc's IPX FastPacket and BPX broadband Asynchronous Transfer Mode switches is claimed to provide a dramatic drop in the cost of provision of Frame Relay networks.
+It also increases by up to seven times the number of low-speed Frame Relay users that the switches support.
+Where StrataCom's current Frame Relay interface supports up to four users, each of the new interfaces will support up to 31 Frame Relay users at speeds from 56Kbps to 1,984Kbps.
+An IPX can accommodate up to 30 interfaces.
+The interface means that at smaller sites, StrataCom's recently announced IPX 8 networking switch can become an inexpensive, high-density Frame Relay switch that will serve up to 150 low-speed Frame Relay users for a cost as low as $500 per 64Kbps port, including all switch costs.
+This user capacity would previously have entailed installing a top-of-the-range IPX 32 switch — with a commensurate increase in price per port.
+External equipment costs are also reduced, since the new interface also includes integrated Data Service Unit functionality.
+Carriers are expected to be the first users of the interface since it will significantly reduce the cost of building a new Frame Relay network or of extending an existing Frame Relay network.
+Tulsa, Oklahoma-based Williams Co's WilTel fibre optic carrier, which runs its WilPAK Frame Relay service on a network of IPX switches, is finding that users are increasingly requiring low speed Frame Relay connections into the service as they upgrade their low-speed point-to-point and multidrop lines.
+ONSITE COMPUTER OF MUNICH OFFERS ONSITE SVR4.2 UNIX FOR iAPX-86 IN GERMANY
+Unix software developer Onsite Computer International GmbH, Munich, Germany, has introduced Onsite SVR4.2, an implementation of Unix Systems Laboratories Inc's Unix System V.4.2 Destiny desktop operating system for Intel Corp iAPX-86 architectures.
+Onsite's enhancements to the desktop operating system include a graphics application set, which incorporates an X Window System application builder; widget libraries; and a windowing Korn Shell which enables users to develop applications with the look and feel of a Microsoft Corp Windows-based system.
+Other features include the Moolit toolkit, extensions for the OSF/Motif graphical user interface and an ASCII shell without the cryptic editor.
+Onsite says it will provide localised versions of Onsite System V.4.2 in German, English and French.
+According to the company, the operating system runs Santa Cruz Operation Inc applications and Oracle Systems Corp and Ingres Corp databases.
+A two-user desktop system is priced at $400 and a multi-user system costs $900.
+Onsite will sell the product through its existing direct and reseller sales channels in Germany, Austria, Switzerland and France.
+The firm claims it's sold 390 licences since March and has another 250 copies in test sites.
+LANOPTICS OF ISRAEL SETS UP ITS OWN UK SUBSIDIARY, TARGETS TOKEN RING MARKET
+With a claimed 25% share of the European high-end Token Ring hub market, the Migda Ha-Emek, Israel-based LanOptics Ltd has established a UK subsidiary through which it plans to boost its profile here.
+To date, LanOptics has used distributors such as Datarange Communications Ltd, but following the establishment of the UK company, it is now to sell direct where it feels this is more strategic.
+Indeed, the plan has coincided with the takeover of Datarange by SFA Inc which — conveniently for LanOptics — invalidates the current contract, enabling LanOptics to decide whether to continue the relationship.
+According to Christopher Wyles, managing director of LanOptics Plc, the company will initially concentrate on the Token Ring market, despite the fact that it also has Ethernet products in its range.
+The reasoning for this is that ‘other people have a very good brand name in Ethernet — we don't’, and that the Ethernet marketplace has become too commodity-like.
+Protect 3270 investment
+Wyles did, however, drop hints that LanOptics has its own proprietary 100Mbps Ethernet system up its sleeve, which may be launched around the end of the year.
+While he would not be drawn on exactly how the higher speed has been achieved, he did say that the system enables users to retain their existing equipment.
+The company also intends eventually to produce Asynchronous Transfer Mode products, but is waiting for the specifications to be finalised before it makes its move.
+LanOptics claims several specific advantages for its Token Ring hubs.
+In particular, the chips used are claimed to eliminate jitter completely, enabling, the company says, a virtually unlimited number of users to be supported on a single network — it claims that 500+ users are possible.
+It also says that because the hubs incorporate fault watch on each port, managers are alerted to beaconing terminals within  20ms .
+Finally, the company feels that the ability of its products to use 3270 coaxial cable, coupled with their ability to mange 3270 dumb terminals, gives it a unique advantage in targeting companies wanting to protect existing investment in 3270s as part of their migration strategy.
+One advantage LanOptics has over other companies is that although Israel is not in the European Community, there are no import duties payable for importing the products into Community countries.
+Similarly, Wyles says the Israeli government pays extremely generous research and development grants, which enable the company to spend 17% of its revenues in this area.
+The new UK company, based in Bourne End, Buckinghamshire, currently has 12 employees.
+In other countries, LanOptics has a variety of distribution arrangements; in Australia, Ungermann Bass Inc acts as its distributor, while IBM Corp acts as a reseller for the company in Norway.
+Indeed, LanOptics has just announced a $4.5m contract under which IBM is to supply LanOptics hubs for the Fellesdata joint venture between Norway's savings banks (CI No 2,131).
+They will be used to connect over 25,000 point-of-sale terminals, with each hub linked via an X25 network.
+PS'SOFT OF PARIS ADDS THREE NEW MODULES FOR ITS MANAGEMENT SOFTWARE
+Paris-based Axial Consulting Group SA's PS'Soft division has added three new modules to its Qualiparc Multi Platforms system management software, which can be used in conjunction with a variety of Unix and non-Unix databases, running under Motif, Windows or Presentation Manager.
+Qualiparc Hotline is a new fault management package, Connectic maps networking and communications connections — Query reports on system status.
+Qualiparc is built upon the Uniface software development environment and costs from £5,000 up.
+Hotline is priced at from £3,500 for 200 users.
+The French RATP railway operator has Qualiparc up on its 7,000 workstations.
+The 18-person PS'Soft unit sells only in France at present, but it expects a UK outlet to be established shortly.
+RECAP AND WRAP-UP ON APPLE's SERVER, APPLESEARCH ANNOUNCEMENTS AT HANNOVER
+Apple Computer Inc, as reported briefly and bittily, since news of these playing away launches tends to come in in dribs and drabs, used the Cebit computer fair in Hannover as the occasion to launch three new Apple Workgroup Servers, along with AppleSearch, its new information access and retrieval service for Mac workgroups.
+The new servers are the 20MHz 68040-based Apple Workgroup Server 60, designed as an entry-level file and print server; the 25MHz 68040-based Apple Workgroup Server 80, a mid-range machine; and the 33MHz 68040-based Apple Workgroup Server 95, optimised for either high performance file and print services or relational database management system services; the first is derived from the Centris 600, the other two from Quadras.
+The Server 95 uses a new server version of A/UX 3.0.1, Apple's version of Unix, optimised to support network services such as file and print or database services.
+The company is working with Oracle Systems Corp to support Oracle7 on the new machine.
+The Apple Workgroup Server 95 costs from £7,700, according to configuration, and will be available by the end of April.
+Upgrade kits for Quadra 900 and 950s will also be available, at from £1,925.
+The Server 60 and Server 80 are expected to ship this summer, when UK pricing will be announced.
+AppleSearch is a workgroup-based product designed to give easy access to large document libraries residing on file servers.
+It supports natural language queries on text-based information, and it uses a relevance ranking algorithm to pick the information of most value to the user.
+The results can be presented to the user in a variety of formats.
+The documents are stored in their native format and translated into searchable text by Apple's XTND technology, which enables users to view the text of documents without having the application that created them — the company claims that XTND translators are available for most major word processing packages.
+AppleSearch will ship in the third quarter, but the company will not announce a UK price until then.
+Apple also added two new versions of its AppleShare file and print services, AppleShare 4.0 and AppleShare Pro, which it says offer increased performance and a wider range of file and print options.
+VENTURE FUNDING
+RadioMail Corp, providing wireless electronic mail and information services to subscribers via portable and palmtop computers, pagers, personal digital assistants, and other intelligent devices equipped with a radio modem from its base in Menlo Park, California, reports that it has raised $3m in its initial round of outside private funding.
+The cash was put up by Motorola Inc, Schaumburg, Illinois and and 2M Invest, of Copenhagen, Denmark.
+The firm is moving operations to San Mateo next month.
+SHARE & BOND ISSUES
+Bell Microproducts Inc, San Jose, California marketer and distributor of semiconductor and computer products, and provider of  testing kitting and turnkey manufacturing services on an OEM basis and to value-added resellers, has filed to go public with an initial offer of 1.5m shares, 1.2m of them new.
+No target price or plans for the proceeds were given.
+Sutro & Co Inc underwrites.
+ECCS Inc, Tinton Falls, New Jersey integrator of mass storage enhancement products and value-added reseller of NCR Corp and Sun Microsystems Inc networked computer systems, has filed to go public with an initial offer of 2.2m shares, 1.6m of them new, at a target price of $7.50 to $9.50 a share; no plans for proceeds were given.
+Unterberg Harris and Pennsylvania Merchant Group Ltd will co-manage.
+Image Business Systems Corp, New York software developer, filed with the US Securities & Exchange Commission to go public with an initial offer of up to 1.1m common shares at a target price of $9 to $11 a share.
+The $9m or so net proceeds will be used for debt repayment and working capital.
+The underwriter is Pennsylvania Merchant Group Ltd.
+Interactive Inc, Humboldt, South Dakota has filed to go public with an initial offer of up to 1.0m units, each consisting of one common share and a warrant for a second one; net proceeds will be used to expand the company's marketing and sales, develop new products, repay debt, and for working capital; no target price given.
+Underwriters are Norcross Securities Inc and Commonwealth Associates.
+Pacific Telesis Group Inc's Pacific Bell unit filed a shelf registration with the US Securities & Exchange Commission for up to $1,575m of debt securities, which added to previous filings will leave the company will have up to $1,950m of debt securities available for sale.
+Net proceeds will be used to refund maturing debt and to make optional repurchases and redemption of previously issued debt.
+ZENITH REPORTS NEW AGREEMENTS
+Zenith Electronics Corp, Glenview, Illinois reports that it has received a commitment from two major institutional lenders for a new $90m revolving credit agreement that is good until December 31 next year.
+Zenith says it believes the new agreement should provide the financial flexibility it needs to carry out its business plan; it replaces Zenith's existing $60m bank agreement, which was to have run out in June 1994, but is subject to negotiation and signing of a definitive loan agreement.
+CREDIT RATINGS
+Mitsubishi Electric Corp has been granted a provisional double-A-3 rating for a shelf registration in Japan for the equivalent of $860m of debt, citing its market positions as Japan's third largest integrated electric and electronics manufacturer, its sound financial condition, solid profit margins, and its expected strong cash flows arising from its well-diversified business lines, for the rating.
+COMPANY RESULTS
+Alpha Microsystems Inc has reported fourth quarter net profits up 900% at $260,000, on turnover down 23.1% at $9.5m; net losses for the year to February 28 stood at $3.7m, after $2.7m restructuring charges, against profits of $304,000 last time, on turnover that fell by 8.7% to $45m.
+Net earnings per share rose by 700% to $0.08 in the quarter.
+Apple Computer Inc has reported that second quarter net profits fell 17.9% at $110.9m, on turnover that rose 15.0% at $1,973.9m; at the mid-term, net profits fell 9.6% at $272.2m on turnover 11.0% ahead at $3,578.2m.
+Net earnings per share fell 15% to $0.92 in the quarter, 8% to $2.25 in the half.
+General Electric Co Inc saw first quarter net profit up 9.6% at $1,160m, after 475m gains from discontinued operations this time and $94m gains last time, on turnover up 4% to $12,900m.
+Net per share rose 10.6% to $1.36.
+Comparisons with restated figures to reflect discontinued operations.
+Iomega Corp has reported first quarter net profits down 32.7% at $1.2m after a gain of $2.3m from an accounting change and a restructuring charge of $982,000, on turnover that rose 11.8% at $37.0m.Net earnings per share were off 27% at $0.08.
+Macland Inc saw fourth quarter net profits up 103.2% at $74,753, on turnover down 36.7% at $2.9m; net profit for the year to December 31 stood at $42,176 against losses of $55,738 last time, on turnover down 23% to $14.2m.
+Net per share amounted to $0.01 in the quarter, to $0.01 in the year.
+Nynex Corp has reported first quarter net profit down 1.5% at $331.1m after a gain of $20m from a tax settlement, on turnover that rose 2.6% at $3,320m.
+Net earnings per share fell 3% to $1.60.
+PC Quote Inc has reported net profit of $118,087 for the year to December 31 against losses of $524,411 last time, on turnover that rose 7.7% to $11m.
+Net per share amounted to $0.02 in the year.
+Progress Software Corp has reported first quarter net profit up 55.2% at $2.9m, on turnover that rose 35.2% to $25m.
+Net per share rose 55.2% to $0.45.
+Seeq Technology Inc has reported second quarter net profits up 209% at $482,000, on turnover down 10.8% at $8.9m; mid-term net amounted to $587,000 against losses of $6m last time, after $6.2m pre-tax restructuring charges last time, on turnover down 14.9% at $17.6m.
+Net per share rose 200% to $0.03 in the quarter, and amounted to $0.04 in the half.
+Storage Technology Corp has reported first quarter net profits up 271% at $46.4m after a $40m gain from a change in accounting for tax, on turnover flat at $333.4m.
+Net per share rose 240% to $1.02.
+Synoptics Communications Inc has reported first quarter net profit up 334.3% at $21.9m, on turnover that rose 123.3% to $152.7m.
+Net earnings per share rose 295.8% to $0.95.
+The 1993 figures were released at 14 weeks, the 1992 figures at 13 weeks.
+VLSI Technology Inc has reported a first quarter net loss of $2.1m against a profit last time of $225,000 on turnover that rose 11.9% to $117.3m.
+Wellfleet Communications Inc has reported third quarter net profits up 109.9% at $7.6m against a period that included a $531,000 tax credit on turnover that soared 113% at $48.0m; net for the nine months rose 80.4% at $18.5m against a period that included a $2.8m tax credit, on turnover that rose 111.0% at $120.9m; net per share rose 118% to $0.24 in the quarter, 73% to $0.59 in the nine months.
+AT&T TO BEGIN SELLING PERSONAL COMMUNICATORS IN JUNE
+AT&T Co says it plans to begin selling its first personal communicator in its phone centre stores this June — but the things are not likely exactly to walk off the shelves, because they will cost between $2,000 and $3,000: the Hobbit-powered device will incorporate cellular phone, paging abilities, facsimile functions, electronic mail and messaging services and pen-based computing, and it derives from the company's alliances with EO Inc and General Magic Corp and it is to be built by Eo.
+ENERGIS TO INVEST £100m
+Energis Ltd, the new company set up by the UK National Grid Co to build and operate its proposed fibre optic trunk telecommunications network with which it wants to compete with British Telecommunications Plc and Mercury Communications Ltd, is to invest £100m on laying fibre and installing digital exchanges: System X from GEC Plessey Telecommunications Ltd has already been eliminated from contention, but Northern Telecom Ltd is a lead contender.
+APPLE INVESTMENT RATING RAISED
+Despite a slump in the company's margins, Bear Stearns & Co. raised its investment rating of Apple Computer Inc to ‘strong buy’ from ‘buy’following the company's fiscal second-quarter earnings report — figures, page five: analyst Andy Neff says he made the change because concern about Apple's results was overdone; commenting on the figures, Apple says it expects to resume growth — in earnings, revenue, unit sales, and market share — in the second half of its fiscal year, saying that the fall in profit was down to pricing pressures, the costs of new product launches, and a constraint in supplies needed for manufacturing, the latter two drains being short-term; he noted that despite supply constraints, second quarter unit growth was up over 70% in its Powerbook notebook computers, while total Macintosh unit growth was up over 385; the European market continues to be slow, but sales in Japan are leading the way for continued growth of the Apple Pacific business unit; gross margin was 38.5% of net sales in the second quarter of fiscal 1993, down from 44.0% a year ago.
+GRUMAN LOOKING FOR ACQUISITIONS
+Bethpage, New York-based defence electronics and aircraft manufacturer Grumman Corp says it is looking for an acquisition in the electronics, systems integration, or data systems areas — but it must be the right fit at the right price and the company ‘won't force it.’
+AT&T BID COULD SPEED LIBERALISATION
+British Telecommunications Plc says that the bid by AT&T Co to operate in the UK could speed liberalisation of the key North Atlantic telecommunications route, and reckons that the matter could be settled within months; AT&T says that it would much preferred to have entered the UK market with a local partner but saw no prospect of that (it had been negotiating with Cable & Wireless Plc for a stake in Mercury Communications Ltd; meanwhile each side throws regulatory brickbats at the other, with AT&T complaining that it has to deal — on a confidential basis — with British Telecom on interconnect and access charges where in the US, charges are much lower and have to be applied within the operator's own business as well— and that simply applying for a licence in the UK costs $70,000 against just $610 in the US; British Telecom complains that it wasn't allowed to increase its 20% stake in McCaw Cellular Communications Inc and achieve a management position — and likely would be barred from buying MCI Communications Inc, where AT&T would be free to buy Vodafone Group Plc — or even Mercury, outright, if it wanted to.
+SYQUEST UNABLE TO BLOCK NOMAI
+SyQuest Technology Inc lost its bid to block Nomai SA of France from selling its removable hard disk cartridge in the US: a judge in Santa Clara Superior Court denied SyQuest's motion for a preliminary injunction barring Nomai from selling the cartridge for use in the SyQuest 44Mb and 88Mb disk drives.
+BABY BELLS SET CONDITIONS
+The US Baby Bells are telling the US powers that be that they will invest $100,000m upgrading their networks if they are permitted to carry any services they choose on them — if not, they will simply allow their networks to deteriorate and decay: no, they don't actually go that far, but they say they will collectively invest only $25,000m.
+MS-DOS 6 UPGRADES SUPPLY CONSTRAINTS
+Microsoft Corp told Reuter that its retail shipments of the MS-DOS 6 upgrade, which have sold more than 2m copies worldwide since it was introduced two weeks ago, are supply-constrained — it just can't duplicate the thing fast enough.
+ROCHESTER TELEPHONE BUYS UTICA-ROME STAKE
+Rochester Telephone Co, Rochester, New York has now bought a 70% stake in the Utica-Rome Celluar Partnership: the remaining 30% will continue to be owned by Nynex Corp's Nynex Mobile  Communications Co.
+EC ENDORSING TELEPHONE MONOPOLY PROPOSALS
+The European Community competition commissioner Karel Van Miert is endorsing proposals — bitterly contested in the more state corporatist member countries — for breaking up national telephone monopolies by 1998 to free markets for calls both within and between member states; the idea of an interim deregulation that would affect only transborder traffic has now been abandoned; the UK is the only Community member open to phone call competition; Denmark will follow suit next year and the Netherlands is expected to move as well; Van Miert wants the Community to set liberalisation priorities and a timetable by year end, including proposals for regulatory changes by the end of 1994, with market-opening to start in 1995.
+TRADING STORAGE TECHNOLOGY SHARES
+Analysts were mildly bullish following Storage Technology Corp's first quarter report — figures, page five — and after an order imbalance on the New York Stock Exchange, the shares were up $1.125 or 4.7% at $25.125 in early trading on Friday: the numbers beat Wall Street expectations, and the company said that operating performance exceeded its expectations, largely as a result of the strengthening in the US enterprise-related business; Europe remained slow as a result of weak economies, but the mid-range business has begun to benefit from new products; cash grew to $325m from $118m at the end of 1992; it studiously avoided saying anything about the late Iceberg disk array.
+UNISYS AND HONEYWELL SETTLE
+Unisys Corp and Honeywell Inc say they have settled the pending lawsuits over the sale of the Sperry Aerospace Group to Honeywell in December 1986 — Honeywell reckoned that it paid too much because Unisys held back material information; Unisys will make a pre-tax payment to Honeywell of $43.2m over three years toward a $70m total settlement, with the remaining funding coming from insurance and an investment banking firm; as a result of the settlement, Unisys will report a net extraordinary charge of $26.4m against its first quarter figures for the period to March 31; it says the charge will be offset by a larger than expected net gain from implementing the FASB 106 and FASB 109 accounting changes that it already announced it would make.
+NO NONSENSE MICROSOFT
+Reporting that Judge Vaughn Walker has entered an order establishing a hearing date on summary judgement motions for May 5 in the look-and-feel suit brought against it and Hewlett-Packard Co by Apple Computer Inc, Microsoft Corp makes it quite clear that it is not prepared to tolerate any nonsense from anyone: the lawyer retained as its vice-president of law and corporate affairs is called William Neukom.

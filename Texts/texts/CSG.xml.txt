@@ -1,0 +1,457 @@
+
+
+SUNSOFT DEBUTS SYMMETRIC MULTI-PROCESSING SOLARIS 2.1
+SunSoft Inc launches Solaris 2.1 this Wednesday, promising general availability in 30 days.
+Sun Microsystems Inc will make it available for all Sparc systems in short order.
+SunSoft OEMs Solbourne Computer Inc, CompuAdd Corp, Toshiba Corp and Hyundai Electronic Inc are targeting deliveries for next year.
+The software, binary compatible with Solaris 2.0, boasts new installation, administration, security and internationalisation features.
+Supposedly it incorporates a thousand bug fixes and product improvements, delivering a maximum 40% increase in network performance and a maximum 50% improvement in user interaction over Solaris 2.0.
+It includes major enhancements in graphics like XGL libraries providing full 2D-3D capabilities.
+Moreover, the release should lay to rest any lingering issues over Solaris' symmetric multi-processing and multi-threading capabilities.
+SunSoft president Ed Zander says SMP/MT is very machine specific and couldn't be fleshed out in Solaris 2.0.
+Now the code is on the CD-ROM, it could be joined in future by OEM-specific code.
+2.1 also includes JumpStart, a way to automatically install and configure hundreds of systems across a network; Online: Backup, the industry's first product for restoring and backing up 2. x data across a network with the machines still active; and Shield, C2 security.
+Other additions include user, database, print, software and host managers.
+Pricing remains the same as 2.0 at $800 in single quantities.
+A 2.0 user can upgrade for free.
+Shield and Online: Backup will be available unbundled for $50 and $800 respectively in single quantity.
+2.1 is localised in German, French, Italian, Swedish, Japanese, Korean, Taiwanese Chinese and Mainland Chinese.
+Some 800 applications are being ported to Solaris 2. x currently.
+Zander promises to put Solaris on a regular schedule from now on with releases, major or minor, going out every six months.
+‘What's ready will ship, what's not won't make the train.’
+He declined to say what missed the 2.1 release.
+Future code will include modular customisible high availability features to maintain access to NFS and database data in the event of server failures.
+…
+AS SUN PREPARES DRAGON MP MACHINES
+SunDragon, the Sun Microsystems Inc multi-processor due out on November 10, will be initially limited to maximum configurations of eight CPUs, we're told, even though it is bound to talk about a ceiling of twenty-processors which is further down the road.
+Sun is planning to deliver a hundred ‘gamma’ Dragons in January with the beasts running an alpha release of Solaris 2.2.
+April is the best guess for first deliveries.
+However, they could slip into the third quarter.
+Speculation — and that's all it is — says maybe it's the scalability of the software that's holding back going to all twenty engines: Sun promises system software will improve by release date.
+An entry-level, two-CPU Dragon with 64Mb RAM is slated at around £11,000 in the UK.
+Making way for the SunDragons, Sun has knocked down the prices of its existing 600MP multi-processing servers by seven to 17%, it says.
+For example, the 670MP Sparcserver is now priced at $50,000 down from $60,000.
+The newly configured 690MP Sparcservers go from $70,000 for the model 120, $76,000 for the model 41 and $101,000 for the model 52.
+Meanwhile, Sun's Tsunami line of low-end Sunergy workstations will initially come in two flavours, both with colour and both running Solaris 2.1 — see above.
+The LX is a graphical box with 16-bit audio and ISDN which will come in above the Classic, a sub-$5,000 offering that lacks some of its cousin's functionality.
+USL TO LAUNCH ITS DISTRIBUTED ENVIRONMENT BEFORE OSF DME
+Unix System Laboratories Inc is working towards a schedule that will have its distributed system management scheme out before the Open Software Foundation's rival Distributed Management Environment.
+Either an early access or a general availability announcement has been set for the third quarter of 1993, three to six months before OSF.
+The USL software, officially dubbed DM/SVR4, short for Distributed Manager, like OSF's DME, uses the Tivoli Systems Inc framework.
+However, USL says it's not using all the Tivoli applications and will be going to Pyramid Technology Corp for its user and group management and storage device control, Unisys Corp for its software installation and distribution and Siemens Nixdorf Informationssystemes AG for its print management.
+Tivoli will be contributing its host management applications and Gradient Technologies Inc will provide its licence management software as it does for OSF's DME.
+USL believes its scheme, with the addition of Pyramid's part, will offer a fuller set of applications than DME.
+The Intel Corp platform is USL's choice as a porting base, bespeaking a plan to put this stuff on SVR4.2 and UnixWare in short order.
+It reportedly already runs on SVR4.2.
+There is also a thought to put it on SVR3.2 and eventually do a MIPS Technologies Inc reference port.
+Bowing to popular opinion, USL is using OSF's Motif as DM's graphical user interface.
+Pyramid is not exactly famous for its Intel work nor, we are told, does its work on DM/SVR4 indicate any shift in favour of that platform by the company.
+In this instance, Pyramid is a USL subcontractor, with USL providing the Intel/SVR4 and Intel/Motif code.
+Because of DM/SVR4's Transport Library Interface (TLI), it will not need OSF's DCE to run, though it will apparently run on it in a later release as it will also be DME-compatible.
+MIPS' R4400 FOR DESKTOPS
+Wedging itself in between Texas Instruments Inc's announcement of the Tsunami Sparc chip on October 9 (UX No 406), and Sun Microsystems Inc's expected introduction of the first Tsunami box on November 10, MIPS Technologies Inc, now a wholly owned subsidiary of Silicon Graphics Inc, is due to upgrade its 64-bit R4000 chip to the R4400 this week with a major performance boost.
+Like Sun and Tsunami, MIPS is pinning its hopes of populating the desktop on this chip.
+In MIPS' mind, there are few points of further comparison between the R4400 and the anaemic Tsunami.
+Top rating on the single-chip, superpiplined R4400 is 113 SPECmark89 at 150MHz, positioned to compete against performance leaders like IBM Corp, Hewlett-Packard Co and Digital Equipment Corp.
+MIPS claims all RISC chips offer roughly the same performance and that its R4400 96 SPECint89 score puts it in the same league as HP, distinguished by its significantly lower price and wide availability.
+Even with the ACE initiative dead, commoditisation remains the key to MIPS' strategy.
+Where PA-RISC, Alpha and Sparc chips fail as merchant chips, the R4400 will be made and sold by MIPS' six semiconductor partners: Integrated Device Technology Inc, LSI Logic Corp, NEC Electronics Inc, Performance Semiconductor Corp, Siemens Nixdorf Informationssysteme AG and Toshiba Corp.
+It remains to be seen whether the order rate is significant enough to justify the volume potential, even for a chip MIPS calls the first 100 SPECmark optimised for personal computers.
+MIPS' known design wins, including SNI, Sumitomo Electric Inc, Ing C Olivetti & Co SpA, Acer Group Inc and parent SGI, are not the stuff of massive volumes despite MIPS' claims that Sony Corp and NEC Corp are racking up the numbers in Japan.
+DEC's preoccupation with its Alpha machines at the expense of its MIPS line has cost MIPS perhaps its most significant volume outlet besides Compaq Computer Corp, another ACE casualty.
+MIPS can also not depend on its high-end Unix vendors like Concurrent Computer Corp, Control Data Systems Inc, NCR Corp, Pyramid Technology Corp and Tandem Computers Inc, to absorb more than 15% more than the 60,000 units they do already.
+That fact makes the chip for all intents and purposes a Microsoft Corp Windows NT engine.
+MIPS expects 10,000 to 20,000 chips to go to early NT adopters from the first half of next year, increasing to around 100,000 in 1994 as NT gets more broadly accepted.
+Pricing, availability on page five.
+FORTE READIES C++ SOFTWARE DEVELOPMENT ENVIRONMENT
+Oakland, California-based, Forte Software Inc is one start-up trying for the fast track.
+In the two years since it was formed it has attracted $6m in venture capital and another $4m from big-name strategic partners, on the promise that the application development environment it's designing would be a significant enough advance to turn the company into a nine-digit revenue producer.
+Its unnamed C++-based product, likely to be called Forte something, is scheduled to go into Alpha on Christmas Eve and beta in early 1993.
+Forte says it has lined up a dozen beta sites among Fortune 1000 accounts — it cannot publicly identify yet.
+Its scheme is to produce an object-oriented 4GL and distributed execution environment to create mission-critical applications distinguishable from others of its ilk by two features.
+Forte president Martin Sprinzen, once the executive vice president of international operations at Ingres Corp, described one of these key mechanisms as de-coupling the applications development from the underlying physical environment.
+Forte applications are developed as a single monolithic application and then subsequently partitioned or automatically broken up to run on various computers within the distributed environment.
+This way, he says, developers can focus on the business aspects of their applications rather than the details and complexities of the environment, a productivity advance.
+Being object-oriented will make it easier for users to move partitioned code around.
+Recoding is unnecessary, improving reliability, the firm says.
+In its first iteration, the software is supposed to run on VAX/VMS, USL's SVR4, DEC Ultrix, Sun Microsystems Inc's SunOS, IBM AIX, Hewlett-Packard Co's HP/UX and OSF/1-based servers — with Apple Computer Inc AUX to follow.
+Clients are said to run under OSF/Motif, Windows 3.1 and Apple Mac System 7.
+It will also support Novell Inc's NetWare.
+Initially it will support Oracle Corp's and Sybase Corp's relational database with Ingres, Informix and DB2 coming later.
+It will also support transaction processing monitors starting with DEC's ACMS and progressing through to USL's Tuxedo, Transarc Corp's Encina and Top End — probably in that order.
+The product was designed to run on the Open Software Foundation's DCE but Forte has found its remote procedure call (RPC) slow and incapable of the number of messages Forte needs to route.
+The DCE implementation has been de-emphasised, the company says.
+Forte expects to sell direct and through OEMs beginning with its strategic partners, including Sequent Computer (see page three) and two others which manufacture the servers Forte will run on.
+QUINTUS HAS CUSTOMER INFORMATION SOFTWARE
+Mountain View, California-based, Quintus Systems Corporation, the Intergraph Corp subsidiary, released the first of its WorkPro family of integrated multi-platform software, CustomerQ 2.0, a customer information package.
+The release thrusts Quintus onto the same stage as Aurum Software Inc, Scopus Technology Inc, ProActive Software Inc, Lysis Inc, Clarify Inc and a few other start-ups vying to make a mark in this arena.
+Quintus has spent the last 18 months developing similar customised solutions for a clutch of customers including Intel Corp, HaL Systems, Exxon Corp and Hewlett-Packard which is setting up a worldwide internal help desk with its software.
+CustomerQ 2.0 is Quintus' first attempt at a shrink-wrapped package.
+Unlike competitors such as Aurum which uses a 4GL approach and Clarify which went C++, the Quintus technology is rule-based and object-oriented.
+It claims this decision makes its widgetry more productive.
+CustomerQ integrates customer support, call tracking, help desk and product defect tracking in a single module that includes Informix.
+It is priced more reasonably than some of its fellows, Quintus says, beginning at $25,000 (or $1,500 a seat) for 16 users and running up to $100,000 (generally about $350 a seat) for unlimited users.
+Rivals like Clarify, it says, are over the top at $5,000 a seat.
+Others, it says, force you to buy more than one module to achieve the same effect as you get with CustomerQ alone.
+Quintus is aiming its product at the high-tech and software industry and hardware and software managers inside end-user organisations.
+Features include a graphical user interface, multiple query-by-example searching, solution matching, point-and-click ad hoc reporting, automatic notification and escalation, e-mail and fax integration and extensive data modelling.
+Quintus says the distinguishing mark of CustomerQ is the high degree of customisation it retains.
+The product is immediately available for Sun Sparc systems with HP, IBM and Intergraph platforms following in the first quarter.
+Links to Sybase, Ingres and Oracle are planned in future.
+WAXMAN BEHIND MENTALIX IMAGING FIRM
+We've tracked down erstwhile Uniplex Inc's president and chief executive officer Jeff Waxman at one of his current haunts, a six-year-old ‘start-up’ called Mentalix Inc, where at least on paper he's playing the same role he did at Uniplex.
+However, sources say the job's more titular than real with Waxman wanting to stay in the Boston area.
+The Texas company is hoping to become a dominant supplier of image-based software by 1995 and includes on its board former Ashton-Tate vice chairman Ed Esber and Sun Microsystems Inc's former chief financial officer Robert Smith.
+It estimates it could have revenues from its target markets like publishing and CAD/CAM worth $24m by 1996.
+Rather hoary for a start-up, Mentalix has been through a couple of iterations beginning as a consultant and going on to develop scanner interfaces for the old Apollo workstation.
+A bootstrap operation, it attracted its first venture capital in August of 1990, a $1.2m investment from Sunwestern Investment Group.
+Looking to go public in the next year, it is now out for a $1m second round to be used primarily for sales and marketing, efforts it's yet to put its back into and needs a vice president of marketing and marketing and two sales people.
+However, its current product, a multiple still image windowing and manipulation tool called Pixel!
+FX has been out for a while first on Sun Sparc's and Hewett-Packard Co 9000/400s last December, then on DECstation 5000s and HP 700s in January and finally on IBM 6000s in July.
+It has generated about $325,000.
+A Santa Cruz Operation Inc port is due by the end of the calendar year and a revision adding further functionality is in the works.
+The company's long-term plan is to migrate to Windows-based personal computers after establishing dominance and market share on Unix platforms starting in 1993.
+XDB READIES EUROPEAN HOME
+Relational database and tool developer XDB Inc, Laurel, Maryland, has expanded its operations to Europe and established a wholly-owned subsidiary in the UK.
+Headquartered in Chesham, Bucks, the European operation will be headed up by XDB European marketing director Malcolm Niell who was managing director of Sybase UK Ltd, until that company's clear out some 18 months ago (UX No 359).
+The UK arm, staffed by a five-person sales and support team, will service the whole of Europe for the  foreseeable future.
+XDB will sell through direct and indirect channels — European outlets are currently being established.
+The UK office will open for business this Monday.
+XDB has introduced new versions of its personal computer-based workbench products for developing workstation and mainframe applications.
+XDB-Workbench 3.0 has a suite of front-end tools, a precompiler, and database engine and is available as multi-user implementation, XDB-Server 3.0.
+XDB-Link provides personal computer-based SQL applications with access to IBM's DB2 database.
+Applications developed using the three run on Sun Microsystems Inc Sparcstations, IBM RS/6000s and DB2-based systems — no prices given.
+WHITE CROSS DEBUTS TRANSPUTER-BASED SERVERS
+Little known UK company, White Cross Systems Ltd, Bracknell, Berkshire, last week introduced the first in a family of Transputer-based parallel servers, the White Cross IDS 9010.
+Using a dozen Inmos International Ltd T425 transputer, the entry level office system comes with 98Mb memory, is rated a 480 MIPS, is claimed to run a variety of Unix implementations and is priced from £100,000.
+The 3,660 MIPS-rated IDS 9020 data centre can accommodate up to 10,000 transputers and will be released spring 1993 — no prices given.
+A next generation IDS server will offer fault tolerance, a claimed 35,000 MIPS performance and will be based upon the forthcoming Inmos T9000 part.
+The IDS 9000s support the SQL Access Group's Call Level Interface, Microsoft Corp's ODBC, ISO's Remote Database Access (RDA) and ANSI SQL.
+The company also announced the signing of a joint agreement with Steve Jobs' NeXT Inc to develop a database application programming interface between White Cross servers and Next workstations, due mid-1993.
+The 25-person, privately-owned White Cross is busy setting up overseas operations: a Dallas, Texas-based office is due to open by the end of the year and a Far East office will follow in the first quarter of 1993.
+The company sells through direct and indirect channels.
++44 344 300770
+SEQUENT DELIVERS CLUSTERING SOLUTION
+Sequent Computer Systems Inc, Beaverton, Oregon, last week announced ptx/Clusters, a clustering capability enabling applications to view multiple-node systems as a single very large system using a single shared database.
+Availability is pegged for the first quarter.
+Central to the company's future client/server capabilities is a strategic partnership with the Oakland, California start-up Forte Software to simplify development of mission-critical client/server applications for on-line  transaction processing (see page two.)
+Forte will be providing the base product and Sequent the specialized capabilities like transaction management, parallel performance enhancement and legacy connectivity.
+To improve its client/server story, Sequent is going with ptx/Transaction 2.0, its implementation of Unix System Labs' Tuxedo, TechGnosis SequeLink middleware for connecting Apple Macs and Windows-based personal computers to Symmetry, Information Builders Inc's EDA/SQL middleware for accessing various databases, and a new symmetric multi-processing release of its parallel-enable version of Netware.
+In support of ptx/Clusters Sequent is introducing the QCIC-W high-performance disk controller, an advanced parallel-enabled I/O subsystem connecting 60 SCSI devices (48 disks) with little or no degradation.
+Reportedly the industry's first high-performance 16-bit controller, it uses four independent wide fast SCSI-2 channels and achieves I/O rates up to 3200 IOPS per controller.
+It also has a 2GB SCSI-2 disk, a magneto-optical library and hardware data compression for tape drives.
+To support interoperability with IBM Corp mainframes, Sequent will support Token Ring and APPC-based file transfer.
+Oracle7 is the first database available for the Sequent clusters.
+The two companies are teamed to enhance the management of very large databases on Symmetry machines beginning with backup and recovery of databases larger than 10GB.
+Oracle7's utilities will be integrated with Sequent's ptx/Backup.
+Sequent's new operating system release, the System V 3.2-based Dynix/ptx 2.0, compliant with the Open Software Foundation's Application Environment Specification, includes C2 security.
+It will get to Unix SVR4 ES/MP a year from now.
+Besides its own system management products, a large-scale symmetric multi-processing version of Computer Associates Corp's CA-Unicenter will be offered.
+SUN RALLIES LEGENT FOR MANAGEMENT SOFTWARE, UNIVERSAL FOR SYSTEM/36
+Hewlett-Packard Co is well ahead of the pack in fitting out its Unix machines with the kind of operations management systems that mainframe users expect, but Sun Microsystems Computer Corp is galloping off down the same path and has gone to Legent Corp for an agreement under which Legent will convert Legent's system management tools to run on Sparcsystems under Solaris Unix.
+Legent products will support the Open Look graphical user interface, and the two will pursue joint marketing activities focused on meeting mainframe customers' downsizing requirements.
+Sun has also done a deal with Universal Software Inc under which the Universal Open/36 product for IBM Corp's System/36 will be converted to run under Unix on Sparcsystems.
+Open/36 is designed to enable System/36 users to move their applications, without recompilation to Sparc systems, while giving them a complete System/36 environment that includes all their familiar tools.
+Open/36 will be offered in early 1993 by Universal Software, Los Angeles unit of Acom Computers Ltd of Montreal.
+NFS 3.0 ‘COLLECTING DUST’
+At the Connectathon networking event last week, Sun Microsystems Inc's Open Network Computing techies took out their counterparts from IBM, DEC and Hewlett-Packard Co with the thought in mind of solving a limited range of Network File System problems and moving the protocol forward without breaking with the past.
+Being practical people they all realise it's going to be a while before DCE becomes reality.
+Armed with input from the outside, Sun now has a prototype of this non-major revision in hand.
+Considering that NFS version 3, which was a major re-do, is sitting on a shelf somewhere collecting dust because it failed to garner popular support, there will probably be some reluctance to call this puppy by the same name.
+JAPANESE ‘ACE’ FORMED
+Last Wednesday saw the formation of what is effectively a Japanese version of the now defunct ACE Advanced Computing Environment consortium.
+Sony Corp and NEC Corp announced the launch of a new hardware vendors group to promote the use of the Open Computing Environment for MIPS platform established by the two companies back in May (UX No 385).
+The aim is to create a standard Japanese language platform environment for workstations.
+Six new members were announced: Sanyo Electric, Siemens Nixdorf Information Systems, Sumitomo Electric Industries, Nihon Silicon Graphics, Olivetti Corporation of Japan and Pyramid Technology.
+Going beyond the Common Japanese Application Binary Interface (OCMP-ABI), the group has added new standards for 3D graphics (based on Silicon Graphics' Open GL software) and I/O bus hardware and software (using the 110Mb per second APbus, and Euroboard specifications).
+NEC should be first out with compatible products this December, followed by Sony and Sanyo Electric in mid 1993, Nihon Olivetti in the 3rd quarter of 1993 on its M-700 platform, and Silicon Graphics probably late in 1993.
+OCMP group members have 32.7% of the Japanese workstation market which stood at 106,320 shipments last year, and would like to increase this share to 50%.
+This compares with Sun, individual market leader with 25.8% and Hewlett-Packard with 16.7% of the market.
+Sony and Pyramid were instrumental in the formation of the MIPS System V Special Interest Group two years ago; however Sony has yet to fully implement UNIX SVR4 on its workstations, that version currently being in the Early Access stage, according to Dr Toshitada Doi, Director and head of the Sony Workstation Division.
+IBM SHIPS POWERPCs TO APPLE, SAYS THIRD PARTY CHIP SALES ARE VITAL
+Apple Computer Inc says it is still on target for mid-1994 launch of its first RISC-based Macintosh after IBM Corp announced that it was now shipping the first PowerPC chips to Apple.
+IBM made the announcement at the Semiconductor Industry Association meeting in San Jose, where it said that its Technology Products unit would have to start shuttering plants if it didn't succeed in its new initiative of selling chips to other vendors and offering them on the merchant market.
+Revenues from third party sales will be below $100m, but in the next couple of years will rise to ‘several hundred million dollars’.
+The Technology Products chip business has been turned into a profit centre from its previous status as a cost centre.
+IBM plans to focus on offering specialised multichip modules rather than basic commodity chips, although it has started to offer memory chips in Japan.
+HP HOVERS OVER SEQUOIA AS RESULTS ARE RESTATED FOR SECOND TIME
+Sequoia Systems Inc, Marlborough, Massachusetts, is sinking deeper into the mire and now says it will restate its financial results for the year ended June 30 for the second time, and will amend its annual report on form 10K, because it now finds that it overstated its turnover.
+Its auditor, Arthur Andersen & Co informed the company that it is withdrawing its audit reports dated August 19 on the company's financial statements included in the 10K, Sequoia added.
+It makes one wonder how much longer its OEM customer, technology partner and minority shareholder Hewlett-Packard Co is going to wait before buying the company and putting it out of its misery — or is it going to stand aside and let Sequoia's other major partner, Samsung Electronics Co, Seoul, South Korea nip in and snap it up under its nose?
+Electronic News quotes an HP official who says HP ‘is ready to act.’
+BINARY STAR HAS RPG-TO-COBOL CONVERTER FOR UNIX
+Binary Star Ltd, a Kingham, Oxfordshire-based start-up, has introduced its first product, DeltaStar, a software re-engineering tool which converts source code from IBM's RPG programming language into MicroFocus plc Cobol for Unix environments.
+Targeted at companies looking to downsize mainframe RPG-based applications, the company is currently negotiating OEM deals with Sequent Computer Systems Inc, Sun Microsystems Inc and NCR Corp.
+The privately-owned company is also working on tools for converting Basic source code to C, and importing RPG code directly into relational databases, such as Oracle and Informix, using SQL rule sets.
+DeltaStar is available now, and is priced at from £5,000 with incremental increases depending on the number of code lines.
++44 608 658179
+USL DELIVERS ITS DISTRIBUTED COMPUTING ENVIRONMENT SOLUTION…
+Unix System Labs Inc last week said it has started delivering early access versions of Distributed Computing Environment DCE/SVR4 secure code to its OEMs, calling it the first tangible results of its new-found rapprochement with the Open Software Foundation.
+Significant as this historic blending of two opposing technologies is, USL has struck another major chord in claiming that it will attempt to provide its customers with what is as close to a master binary as it can get.
+With DCE now an accepted check list item, USL believes it can save an OEM a million dollars over three years with its work.
+USL, or rather OSF founder Siemens Nixdorf Informationssystemes AG, which did the port, is using OSF's DCE 1.0.1 for both the early access code and the OEM kits scheduled to become generally available in January.
+Despite field reports that this initial DCE release lacks robustness, USL expects its OEMs to ship product to end users in the first half of 1993 based on it.
+A shift to release 1.0.2, regarded as more the real product, is expected at the end of the second quarter.
+The secure DCE code, encompassing the remote procedure call mechanism, security, cell directory, threads and timing services (to which USL and SNI also added X.500), still lacks the key distributed file system.
+USL must wait for OSF/DCE 1.0.3 for this and is hoping to have something out at the end of 1993 or the beginning of 1994.
+Sources elsewhere, however, believe it will be 1995 before OSF makes this phase mainstream.
+Although, USL claims to have improved DCE's quality, it says that OEMs will look at DCE/SVR4 as a build-or-buy decision, not as a functional value-add, at least with the first release.
+OEMs will have to pay USL $60,000 to get the source code in-house and another $25,000 in sublicensing fees to ship to customers over and above paying OSF $150,000 for a DCE license.
+Both OSF and USL will also get royalties: 5,000 copies of the DCE Executive will net OSF $75 a copy and USL $15.
+Between 5,000 and 500,000 copies royalties will be $25 and $5 respectively, between 500,000 and 1.2m they are $8 and $1.60, and over $1.2m are $5 and $1.
+Security and cell directory royalties will be $400 to OSF and $80 to USL and global directory are set at $250 and $50 respectively.
+The hooks that USL and SNI have built into SVR4 to accommodate DCE will become a standardised part of the operating system.
+DCE/SVR4 reportedly covers all required SVR4 libraries, including lib/C with its 500 routines.
+It says these are true thread-safe libraries, not just course-grained, wrapped routines.
+As a comparison, OSF's DCE source tape has wrappers for less than 50 routines.
+USL has also provided a customisable systems administration guide and release notes for creating end-user documentation and installation script.
+DCE/SVR4 uses an Intel Corp 80386 machine as a porting base with Sun Microsystems Inc Sparc, MIPS Technologies Inc's R series and Motorola Inc's 88000 platforms planned.
+USL intends putting DCE on SVR4.2, allowing it to run over transports other than TCP/IP such as OSI and Novell Inc's IPX, integrating it with Tuxedo and DM/SVR4 as well as enhancing performance, debugging and threads support to take advantage of the fine-grained kernel-based threads capabilities of SVR4.2 ES/MP.
+…
+ALONGSIDE NETWISE RPC CODE
+Meanwhile, Unix System Labs showed considerable deference for the Open Software Foundation's sensibilities by not announcing — for what seemed an eternity — its deal to market Boulder, Colorado-based, Netwise Inc's technology.
+Last week, at the same time as its announcement of early shipments of the OSF-derived DCE/SVR4, see above, it finally went public.
+OSF's DCE embodies the Remote Procedure Call (RPC) technology from Hewlett-Packard/Apollo, rivalling the Netwise RPC.
+USL, which has shipped DCE-competitive Open Network Computing technology as part of Unix since 1989, says its future ONC releases will include the Netwise Run Time Library at no additional charge.
+USL will also market the Netwise ONC RPC Tool.
+Netwise says that it will provide future migration support to DCE as well as a new product, scheduled for announcement next quarter, to provide interoperability between ONC and DCE applications.
+USL will market the Netwise ONC RPC Tool as source code, Netwise is responsible for issuing licences and supporting the product.
+RUSSIAN ROUNDUP
+Sequent Computer Systems Inc has beaten Digital Equipment Corp, Control Data Systems Inc, and Sun Microsystems Inc to an order for the Russian Relcom electronic mail network.
+The installation comprises four Sequent S2000/200 processors, 5Gb of storage and 64Mb of RAM and will help modernise the network's central communications node, which is causing serious bottlenecks and long delays in sending local messages.
+Communications company and networker Relcom expects the Sequent machine to give the node four times the power.
+The new computer was supplied by hardware reseller and software developer, LVS (Moscow), business partner for Sequent and Oracle Corp in Russia.
+Sequent's other big customer in Russia is the Consolidated Bank (Moscow).
+Meanwhile, Relcom users are to get their first international on-line service.
+The company has opened an international line to Western Europe via Amsterdam with high speed modems in both Amsterdam and Moscow.
+Previously, Relcom had only a dial-up line to Finland and ad hoc arrangements to complement it.
+The price of software in Moscow has remained stable so far, despite the sharp drop in the dollar-rouble exchange rate last month: market researcher Soft Market polled 20 software dealers in Moscow and found that prices are steady in spite of the currency fluctuation and Borland International Inc's use of a US dollar benchmark for its rouble products sold in the former Soviet Union — where it had set rouble prices according to local conditions, it now takes a dollar price and converts it into roubles at the market rate.
+Computer-aided design software specialist Cadence Design Systems Inc is to establish a number of joint production projects for the electronics industry in the former Soviet republics: meetings are scheduled with Ineum of Angstrem, close to Russia's Silicon Valley in Zelenograd, near Moscow; NPO Integral of Minsk; BeloRussia and MKB Elektron of Kharkov in the Ukraine; the Moscow office of Roy International Consultancy represents Cadence.
+Richard Hevron, Microsoft Corp's operations director for the Commonwealth of Independent States, says that sales of Windows software in the former Soviet Union have reached about 1,000: the Russian version of Windows 3.1 will be out in November and Excel 4.0 will be available by the end of the year.
+An Association of Ukrainian computer professionals has been established in Kiev: according to Business World newspaper, the association has been formed to co-ordinate the development of business software applications and provide training for end users.
+The Sovgeo joint venture enterprise in Russia has opened a computer centre in Moscow to provide computer processing of geophysical data on oil, gas and coal deposits in the Russian Federation.
+The venture will provide analysis of existing deposits and do interpretation of data from potential new fields.
+A spokesman for the centre says all data produced will be compatible with the accepted international standards.
+The joint venture is also one of Moscow's few reseller's of workstations, offering Russian geophysical enterprises IBM Corp RS/6000 and Sun Microsystems Inc Sparcstations, plus training and support, with payment possible in roubles.
+Landmark Sovgeo was formed in 1992 by Landmark Graphics Corp, which has 60%, Jebco Seismic (UK) Ltd, 10%, the Rosvneshgeo corporation, 15% and the VNII Zarubezhgeologiya research institute 15%; it is capitalised at $360,000.
+Avioc from the UK has begun marketing Sun Microsystems Inc Sparcstation 10s in Russia through the Moscow Sparc centre: export licences are still required for RISC-based computer equipment but the firm says it takes only 10 to 12 weeks to get one.
+MIPS R4400 COMES IN THREE VERSIONS
+The 100,000 new MIPS Technologies Inc chips (see front page) destined for Microsoft Corp NT adopters are not all R4400s but a mix including R4000s and the anticipated low-power/low-cost VRX for notebooks due out next year (UX No 380, 377).
+Like the R4000, the 2.3m-transistor 4400 comes in three iterations: the 179-pin PC, supporting only primary on-chip cache, aimed at the low-end desktops and embedded controls; the 447-pin SC, built with two primary 16Kb caches and supporting an optional off-chip secondary cache of 4Mb, targeted at high-performance desktops and servers, and the MC for multi-processor configurations.
+Each 4400 species also comes in 134MHz and 100MHz versions besides the 150MHz.
+The 4400 delivers a SPECfp89 rating of 126.
+It is software-compatible with the 32-bit R3000, requiring no recompilation.
+The company currently has no SPEC92 performance marks available.
+Small quantities are already being sampled and volume production starts to ramp in January.
+Pricing is being left to each of the six semiconductor makers.
+All are expected to be in the same ballpark.
+As an example, Toshiba says it will ask $1,330 for the PC, $1,610 for SC and $1,932 for the MC in quantities of a thousand during the first half of 1993.
+MIPS believes DEC will upgrade its R3000-based DECstations to the new 4400 early next year.
+However, it claims DEC missed an opportunity to ship revenue units based on the 4000 since January and believes the 150MHz Alphas likely to be announced November 10 will be in short supply for some time.
+MIPS is preening itself for getting the R4400 upgrade out in the timeframe it predicted it would a year ago.
+As the first post-merger MIPS product out, MIPS is taking the opportunity presented by the announcement to boast that the MIPS acquisition cost Silicon Graphics Inc no dilution of earnings.
+SGI was  criticised at the time for the price it was willing to pay, a price it later trimmed.
+InfoCorp counted 190,000 MIPS-based systems in the market in 1991.
+Integrated Device Technology Inc is doing its own version of the VRX, the low-cost, low-power version of the R4000 that MIPS has in the works, under the code name Orion.
+Described at the Microprocessor Forum, it's supposed to be an under-$100 under-2.5W 4000-compatible giving between 58 and 63 SPECint due the second half of 1993.
+Michael Slater says that if NT takes off both of these notebook chips could become significant players.
+MIPS seemed a little diffident last week about whether it would be doing an R5000 as previously suggested (UX 380).
+Now it's only talking about further R4000 upgrades next year.
+It also seems that the T5, aka the 500MHz R10000, the next step in the 2000, 3000, 4000 chain, has bounced from the end of next year into 1994.
+MIPS doesn't know what it's costing Texas Instruments to produce Sun's Tsunami but based on its got on the silicon, MIPS is betting the margins aren't that great.
+It claims its semiconductor makers can make money.
+CRAY OUTLINES ITS PLANS FOR MASSIVELY PARALLEL ALPHA MACHINES
+Cray Research Inc lifted the veil a little last week on its plans to build a line of massively parallel processing systems around Digital Equipment Corp's Alpha RISC for launch next year.
+Cray says its first massively parallel system has a scalable architecture that combines the Alpha microprocessors through a high-bandwidth, low latency interconnect network that will be an order-of-magnitude faster than those of current massively parallel systems.
+It implements a multiple-instruction, multiple-data architecture that can also emulate single-instruction, multiple-data and multiple computer MIMD architectures Cray said.
+UC BERKELEY SUSPENDS NET2 FOLLOWING USL PROPRIETARY CODE CLAIMS
+The University of California, Berkeley has suspended distribution of its Network Release 2, the code that spawned the BSD/386 operating system that in turn spurred Unix System Labs to sue both the university and its spin-off Berkeley Software Design Inc for copyright infringement and misappropriation of trade secrets (UX No 396).
+USL claims Net2 incorporates AT&T proprietary code.
+The university gave no reason for the temporary suspension.
+The school's Computer Systems Research Group, creators of both Net2 and the Berkeley Software Design company, said resumption of distribution is under ‘administrative review.’
+Keith Bostic of CSRG indicated that was all he was able to say.
+He was hopeful Net2 would be re-released.
+NEW SMARTSTAR 4GL LINKS DATABASE OBJECTS TO MOTIF FRONT-END
+Goleta, California-based, SmartStar Corporation, the company that years ago put the first fourth generation language interface on a relational database machine and then created the first VAX/VMS 4GL, has popped up with SmartStar Vision, a new object-oriented application development environment.
+Based on a set of built-in general-purpose database objects integrated with a GUI, another industry first, Vision is intended for mixed environments of Windows-based personal computers, Macs running X-server software and Motif-grounded X-Window systems, and allows for rapid application development of all standard GUI window styles.
+Designed around an event-driven structure, it eliminates all support-level coding through providing direct access to its databases objects from a Motif-based point-and-click front-end.
+Only the business rules of an application have to be translated into code, using an SQL object-oriented 4GL called SmartGL.
+Any 3GL functions can also be called as desired, but all object-processing is performed by SmartGL.
+Vision's predefined business objects, dubbed SmartObjects, support attribute inheritance and handle all SQL-and datatype work independently of the databases.
+The server portion of Vision contains a sophisticated heterogeneous multiple SQL database query optimiser and distributor, based on the company's VAX 4GL technology.
+Supported relational databases include an internal SQL database processor using the operating systems files or industry standards like Oracle, Ingres, Sybase and Rdb.
+First supported application servers include Sun Microsystems Inc's SunOS, DEC Ultrix and VMS, with IBM and HP versions on the way.
+Clients include X-terminals and any X system.
+SmartStar promises PC/MS-Windows and Macintosh runtime versions next year, and is also working with the object database companies.
+Minimum-code solution
+SmartStar claims Vision is the minimum-code solution available for client/server applications, estimating that the support programming needed to implement such applications absorbs at least 80% of the overall programming effort.
+Vision eliminates not only that code but all of its maintenance, it says.
+Using a real-life example that assumes it costs $5 a line to write code and that 100 lines of code can be written a day, SmartStar figures it can cut the cost of generating a trivial application to $750 compared with $12,000 using a tool kit and $7,000 using a Motif GUI builder.
+The only competitor it rates is Ingres Windows, perhaps not surprisingly as SmartStar's vice president of development is Mike Dion, ex VP of engineering at Ingres.
+The first release, in beta since February at 20 sites, is immediately available.
+Single-seat pricing for a developer system is $12,000 (£10,000) with runtime versions for end-users from $75 to $600 per license depending on quantity.
+It will be sold direct in the US and through its UK subsidiary Smart Systems Ltd in Oxford, VARs and the firm's international distributors.
+It is also expecting to sell through OEMs.
+US: +1 805 685 8000 UK: +44 (0) 865 784567.
+INFORMIX FORUM ‘92 EUROPEAN CONFERENCE, LAKE COMO, ITALY
+by William Fellows
+INFORMIX SIGNS FOR SIEMENS DATA DICTIONARY — PLANS OPEN REPOSITORY
+Although in a company official's words Informix Software Inc has managed to ‘get away without it’ so far, the Menlo Park, California-based software house has finally been brought to book by competitive and market pressures.
+It is embarking on a two-stage effort to bring a data dictionary, and eventually a repository, to its relational database management system, fourth-generation language and CASE tool environments.
+An initial foray will see Informix adopt Siemens Nixdorf Informationssysteme AG's Entity Relationship Model System (ERMS) for use with its database, which will enable users to manage development information across different project lifecycles.
+That will eventually be  superseded by what the company is positioning as an open, enterprise-wide repository embracing not only the Informix database, but its Hewlett-Packard Co-derived ToolBus Open CASE environment and 4GL products.
+Informix says it'll take around a year to productise SNI's data dictionary, even though ERMS is already implemented for versions of the database which SNI supplies to customers under an existing marketing agreement the two have.
+SNI's data dictionary is based upon the US Information Resource Dictionary System model, which is more suited to development, according to Informix, than the European Portable Common Tools Environment dictionary model, which is thought to be stronger at run-time.
+Informix is also understood to be backing CASE tools from Knowledgeware Inc and Cadre Technologies Inc which are likely to be supported by the data dictionary effort.
+Interim solution
+Informix says it recognises that implementing SNI's dictionary is only an interim technical solution to what is a much wider problem — which is its need for a comprehensive, master dictionary that embraces a full range of its products.
+Both a master dictionary (or repository) and data dictionary store meta data, definitions of data and processing, though the repository — a marketing term invented by IBM — includes the ability to store CASE objects as well as simpler definitions from 4GL or database dictionaries.
+The idea is that all meta data should be available to developers — who may be using a variety of tools — via a single, logical dictionary.
+The open repository Informix has in mind is one that embraces both the IRDS and PCTE data dictionary models which will be available across its database, 4GL and ToolBus implementation of HP's SoftBench CASE environment.
+It plans to incorporate a repository application programming interface (APIs) that'll allow users to connect to other dictionaries, such as the one Informix already has for its Storm products — see below — as well as larger third-party repository environments.
+Informix says it'll do some of the work itself, but will go to partners and other developers for the body of it.
+SNI may well be involved at this stage too — it already has a licence to HP's SoftBench as it is  implemented in Informix's ToolBus, going back to June this year (UX No 388).
+Informix expects development to take between two and three years to complete.
+As well as bringing Informix more into line with its competitors, the data dictionary products are aimed to address the demands of a growing number of users — corporate and governmental — with high-end, Unix-based development environments, as well as those downsizing proprietary environments to open systems.
+In the main, the competition looks to be well ahead of Informix already, though its plans for an open repository complete with APIs, may take it beyond what others can offer.
+Oracle Corp has CASE Dictionary 5.1, Sybase has an integrated database dictionary/catalogue and Ingres has its Ingres Dictionary.
+Whether the new alignment will firm up Informix's overall relationship with SNI is unclear: SNI has relationships with various database suppliers, but has chosen Oracle Corp as the future mainstay of its open systems strategy detailed at CeBit earlier this year (UX No 377).
+END-USER STORM WILL HIT IN FIRST QUARTER
+Informix has also lifted the veil on its graphical query and reporting tool for end users, dubbed Storm (UX No 394).
+Ron Bower, director of product management for end user tools says Informix Storm will allow users to access, extract, manipulate and present corporate data as well as share information across different applications.
+Forms, reports and queries can be created using a graphical front-end palette of tools and other components which require no programming and no knowledge of SQL, Bowers claims.
+A second version of Storm, for database  administrators and MIS departments includes modules called Storm/Dba and SuperViews, as well as the end user package.
+Storm/Dba allows management information system (MIS) department staff to create or modify all parts of the database schema from a graphical environment.
+SuperViews masks the complexity of large database structures by providing a graphical overview of database tables, which can be provided, with instructive information to end users.
+Storm supports Informix SE and OnLine database engines (and an SQL Direct Entry mechanism in the MIS version).
+Informix is positioning Storm as a means of building better relationships between users and their MIS departments.
+Currently, MIS staff have to maintain the integrity and security of corporate data as well as providing users who may not have — and who probably don't want — knowledge of the database structure, ways to access information.
+Informix says Storm means less work for MIS departments because users don't have to understand the database schema and can do more work themselves with the tools.
+Microsoft Corp Windows and some OSF/Motif versions will be available from the first quarter of next year.
+An Apple Mac implementation will follow by the middle of 1993 and an Open Look edition by the third quarter.
+Open Database Call (ODBC), Data Access Language (DAL) and Unix SQL access mechanisms will be supported under Windows, Mac and Unix environments respectively.
+A subsequent version of Storm will feature data entry  mechanisms .
+OBJECT-ORIENTED 4GL++, INFORMIX 6.0 RELEASES IN FUTURE GOODY BAG
+At its Forum 92 European user conference, held on the shores of Lake Como in Italy, Informix also began to talk about near-and mid-term plans for its current 5. x series products.
+Releases of Informix 6.0 software will begin next year, the firm said.
+First up will be 4GL++, which, the company claims, is an object-oriented development environment featuring object language functionality, mixed procedural and event-driven programming and visual class libraries for user interface independence and code reuse along with multi-media connectivity.
+4GL++ is due next year, although the company didn't say when, and will be added to its range of application development tools, which currently include Informix-SQL, Forms, Menus, 4GL/GX, Graphical 4GL, 4GL/RF and TP/Toolkit.
+Graphical 4GL is also to be enhanced next year with support for Windows and Motif: each will come with the ability to re-target applications for other environments.
+Other object-oriented products will be deployed by 1995, Informix says, including a distributed, visual programming environment for multiple relational and object databases.
+Dictionary services for tool-to-tool communication and application data sharing will be provided next year as part of Informix's framework and repository services.
+Extensions to SQL catalogues in the OnLine and SE database engines will be added, along with run-time application information and server-based repository services.
+Cooperative application development with shared data should be possible via the open repository strategy that Informix has outlined — see above.
+Application development and server support will be extended to include IBM OS/2 2.0 and Microsoft Windows NT next year — gateways to Oracle, Sybase, DB2 and object databases should also materialise.
+Informix says it will deliver a ‘mainframe calibre’ version of its database server system next year, although fully-functional, distributed parallel database solutions based upon its technology aren't expected for at least two to three years.
+Partitioned data processing and end-user development tools are also expected within that timeframe, the company says.
+FORUM ‘92 — INFORMIX SO CONFIDENT IT'S ‘RAISING PRICES’
+Philip White, president and chief executive officer of Informix is so confident about the company's financial prospects that he says it will be ‘raising prices.’
+1993 will be the ‘year of the tool,’ he said, whilst advising delegates from Europe that Informix is ‘not in the CASE business.’
+White responded to speculation raised by Informix chief financial officer Harold Graham last month, saying that the company was unlikely to make any acquisitions, big or small, by the end of the year.
+This view was qualified by other officers of the company who said in some instances Informix could provide backing for startup firms, such as those which may have developed important technology but were unable to productise it due to lack of funds.
+Europe
+45% of Informix's current revenue stream is derived from the Americas, whilst Europe generates 43% and the Asia/Pacific region accounts 12%.
+White expects Europe to turn in around $100m this year: Informix is now in its fourth financial quarter with nine month revenues standing at $188m.
+European revenues are split between value added resellers — 7%, OEMs — 25%, distributors — 48% and government and corporate sales — 20%.
+Informix has around 1,300 staff worldwide and 12 European subsidiaries employing 350 people — 450 by this time next year, it says — with 160,000 licencees in the region.
+A software migration centre will be opened in London next year.
+Informix was expecting a $22m cheque last week for its share of the 60,000-user US Army RCAS contract which is worth $1.6bn overall: it received an initial $5m payment back in January.
+Japan
+Informix plans to open an office in Tokyo next year which will take over some responsibilities currently under the charge of its Hong Kong-based Asia/Pacific regional headquarters, like local support.
+White says Informix has had a passive (inactive) wholly-owned subsidiary in Japan for some five years.
+Informix will  continue its marketing relationship with ASCII Corp and has toned down comments made in the Japanese press last month which were interpreted by observers as an intent to down-grade its ASCII relationship with a view to looking for additional partners.
+ASCII has a 5% stake in Informix, with an option to take a further 10%.
+Strategic directions
+As far as strategic partners go, Chuck House, senior vice president of research and development, says Informix is working with Microsoft on Windows NT, but not as closely as competitors Oracle Corp and Sybase Inc.
+Unix, House believes, will dominate the open systems market for the next five years.
+NT will become ‘interesting’ next year, ‘useful’in 1994, ‘widely deployed’in 1995 and ‘robust’by 1996, he says, by which time it will be gaining market share fast.
+NT and IBM's OS/2 2.0 are in any case only ‘Unix redone,’ argues House, and in NT, Microsoft ‘hasn't realised the value of a consistent user interface, both spatially and syntactically.’
+However, he sees a real threat from future object-oriented environments like IBM/Apple's Pink and Microsoft's Cairo, which will both be important, he says.
+To meet the threat that NT will pose, the Unix providers should back one thread of the operating system and unite around it, House argues.
+The big if is whether Sun Microsystems Inc would be prepared to back such an effort.
+Although, via its relationship with Unix System Labs Inc, Novell Inc can provide Unix with its first mass distribution channel that isn't controlled by a system vendor, House is sceptical of USL's binary aspirations.
+Apart from having to compete with the other half a dozen or so suppliers like Santa Cruz Operation Inc and Sun, USL has no real marketing experience.
+The advantage that it should build upon is its multiple ownership, House argues.
+The Unix community, many of whom own a piece of USL, could do worse than promote a of church/state relationship between USL (as Unix mentor) and the practitioners of statecraft (Unix providers) who are also believers.
+Relational database companies will survive the onslaught of object-oriented technologies, just as hierarchical models have lived on side by side with the relational players, believes House.
+He sees relational and object models co-existing for at least the next 30 years.
+Informix's strategy, he says, will be to maintain a strong relational database and weaker object technology as core offerings, with common tools that can access both environments.
+DATA GENERAL FITS AVIIONs OUT WITH ‘FIRST OPEN SNA’
+Data General Corp, Westborough, Massachusetts has enhanced its IBM Corp communications products its AViiON Unix systems, including what it claims is the industry's first open implementation of IBM's Systems Application Architecture Common Programming Interface — Communications.
+The company says that its version of CPI-C ensures programs run on AViiON systems can communicate with applications developed for IBM's strategic SAA environments — MVS, VM, VSE — sort of, OS/400 and OS/2 for the present.
+CPI-C is a protocol-independent application program interface that enables developers to write applications that can be driven over multiple networks such as SNA, TCP/IP, Open Systems Interconnection and others.
+Data General says its IBM Communications product suite is designed to make AViiON Systems compatible and fully interoperable in IBM networked environments.
+The enhancements include faster network throughput, NetView support and Data General-added network management and monitoring utilities.
+Data General also says that SDLC and X25 can now share the same synchronous controller, saving users the expense of buying multiple controllers for wide area communications — again the company claims to be the only Unix-based systems vendor to offer the capability.
+The IBM communications product set includes SNA/SDLC, QLLC and Token Ring environments, PU 2.1 peer-to-peer networking, and Logical Unit 6.2 Advanced Program-to-Program Communications.
+Offerings include SNA 3270 Emulation, SNA 3270 Emulation in Distributed Mode for Workstations, SNA Remote Job Entry Emulation, Applications Program Interfaces including CPI-C, APILU 6.2 Run Time for AViiON Systems, and APILU 0, 1, 2, 3.
+SNA Transport links AViiON users over local and wide area networks with mainframes and peer processors in SNA environments.
+SNA Token Ring Driver provides connections to an IBM mainframe or peer processor via 16/4Mbps Token Ring.
+The products cost $750 to $3,000 depending on CPU type; all out now.
+MAC-ON-UNIX SOFTWARE FOR RS/6000s
+San Diego, California-based, Xcelerated Systems Inc says it will port its X-Windows-based Mac-on-Unix software Liken to IBM's RS/6000 boxes, intending to make it generally available to IBM's worldwide customer base in the first quarter of 1993.
+IBM came to them with the notion, the firm says.
+It still has to be decided whether IBM sells it or how to avoid confusing users because of IBM's ties to Apple.
+Insignia Solutions Inc, of Mountain View, California, is also porting to the RS/6000, its last significant port for SoftPC 3.0, its personal computer emulation software.
+Insignia now needs to do a Windows package and 386 emulation to accommodate OS/2.
+SCOPUS AND MERCURY TEAM ON QUALITY ASSURANCE TOOLS
+Emeryville, California-based, Scopus Technology Inc and Mercury Interactive Corporation are going to start co-marketing their quality assurance tools.
+In January, the pair will integrate the ProTeam QualityTeam defect tracking system with Mercury's XRunner X-Windows test system running on Sun Microsystems Inc's Sparcs, IBM RS/6000s, Hewlett-Packard Co HP 700s and various client displays.
+The alliance is the first of a series of strategic partnerships Scopus is looking at to complement its functionality as far as automatic testing, test management, source code control, automatic phone call distribution equipment, project planning, software licence management and front-end design CASE tools.
+ODI SETS NEXT DATABASE RELEASE
+Object Design Inc is getting ready to ship ObjectStore 2.0, claiming that the enhancements made thanks to feedback from the likes of IBM, SunSoft Inc and NeXt Inc raises the benchmark by which all commercial object database products will be judged.
+It adds advanced schema evolution, enhanced heterogeneity, file database support, security authentication and CD-ROM support.
+The company say it has a 40% worldwide market share with 300 companies using its stuff.
+MINIGRAMS
+IBM previewed version 2.2 of its OSF/1-based AIX/ESA mainframe Unix offering at the AIX Expo'92 conference the week before last.
+New features include X-Windows compatibility, Motif 1.1.4, OSF/1.1, Posix compliance, new data management features to cope with up to 500Gb of file data.
+IXI Ltd says it will be supplying Motif 1.2 for USL's Unix SVR4.2 desktop when volume shipments of the operating system begin.
+Gearing up for its worldwide announcement on November 12, Hewlett-Packard Co has lowered prices on its high-end 3D graphics workstations: the HP 9000 720 CRX-24Z is $25,500, down from $36,500 — the 3D 720 CRX-24 is $23,400 from $25,400.
+Novell Inc has introduced its NetWare 4.0 Software Developer's Kit for programmers that want to produce NetWare Loadable Modules or client software for the next release of its network operating system: that release is not expected until next March.
+The first of 20,000 beta copies of Windows NT have started rolling out of Microsoft Corp: Bill Gates was showing off NT on a DEC Alpha machine last week to Wall Street people as potential buyers.
+Intel Corp has 960CF, a version of the i960 RISC that offers reversible byte-ordering so programmers don't need to write to specific big endian or little endian parameters.
+MIPS Technologies Inc crossed this hurdle with the R3000A and R4000.
+Motorola Inc's Computer Group, based in Tempe, Arizona, has released Motorola SV/88 R4, its commercial SMP version of Unix SVR4.
+The company claims it gives users a migration path for BCS/OCS SVR3.2 applications: Motorola is to resell Synchronise, a Motif-based management tool from CrossWind Technologies Inc, Felton, California, and Applix Inc's Aster*x.
+Quoting an IBM vice president, InfoWorld says portions of Taligent's object-oriented code could be incorporated into OS/2 and AIX next year.
+Apparently which modules haven't been decided.
+Companies that have won X/Open XPG4 branding include Unix System Labs, DEC, ICL, Sun, Siemens Nixdorf, NCR Corp, Olivetti, Mortice Kern Systems.
+InfoWorld's hit-or-miss gossip column, written under the Robert X Cringely nom de plume, claims Novell Inc agreed to be bought by Microsoft Corp and then backed out three months ago.
+The writer reckons Ray Noorda refused after he decided it wasn't enough money.
+The Chorus Jam Session, a two-day conference for users of Chorus Systemes SA's Chorus/mix kernel takes place at the Hotel Nikko in Paris between November 17–18th.
+DEC has new software that will allow Sun workstations to connect to its Network Application Support architecture, the middleware bridge between applications and platforms for users to access information anywhere on the network regardless of operating system or network topology.
+NAS 250 for SunOS doesn't give Suns full NAS server capabilities, but allows NAS compliant applications on Suns to be accessed.
+Simply put, 88open either has to reinvent itself or hang it up.
+Phoenix-like, it is reportedly trying to become something in the nature of a superconsortium leveraging its test suite expertise into an organisation that ports and develops test suites for the likes of Hewlett-Packard Co, DEC and the IBM/Apple Computer Inc PowerPC crowd, and probably does the branding and handles ISV recruitment.
+Naturally this kind of thing would require a change of name.
+Sources say its looking for a decision by Spring.
+Sun Microsystems Inc is reported to be readying new 3D graphic accelerators which will replace its impotent low-end GS and GT boards, further ammunition in its campaign against graphics leader Silicon Graphics Inc.
+The new boards are claimed to out perform GS and GT two-fold.
+Bundled with Sparcstation 10s, the boards will cost $30,000 and $20,000 respectively.
+One US paper says they're codenamed Leo and Spam.
+…
+And Sun says it now has PC-NFS software on a million personal computers.
+IBM Corp's Distributed Relational Database Architecture, rival to the SQL Access Group's RDA, is beginning to find its way into third party products, and Object Technology International Inc and XDB Systems Inc each announced products to provide access from their database products to IBM's relational database managers — see page two.
+In the UK, Oracle Corp's, UK marketing director, John Spiers, has defected to rival Sybase Inc to take up the position of Northern European marketing director: he will report to Vincent de Gennaro, international marketing director.
+Flush with its HP, Silicon Graphics, OSF, Intergraph, IBM and USL wins, Hudson, Massachusetts-based, Gradient Technologies Inc last week scored another hit signing the Santa Cruz Operation Inc to embed its NetLS licensing software in the next release of Open Desktop.
+Gradient already has a SCO product.
+It will be used as the basis of the development and be overshadowed by its successor.
+SNI has gone to Veritas Software Corp, for the its Veritas File System (VxFS) storage management technology which SNI will implement under its Unix SVR4-derived Sinix operating system.
+SNI says it will release a multi-processing version of VxFS next year.
+Siemens has also signed with Santa Cruz, California-based, MetaWare Inc, which will provide its Intel Corp iAPX-86 back-end C compilers for SNI's Intel platforms.
+NCR Corp reports that Objectivity Inc's Objectivity/DB object database management system is now up on its NCR System 3000 computers.
+Menlo Park-based Objectivity also announced a partners programme for vendors of object information technology to promote provision of application development tools that increase software development productivity for object database applications.
+First participants are DEC, Hewlett-Packard, NCR, CenterLine Software Inc, ProtoSoft Inc, Associative Design Technology Inc, Persistence Inc, Interactive Development Environments Inc and ParcPlace Systems Inc.
+Omri Serlin notes in his’ FT Systems’newsletter that IBM is out to establish CICS as an industry standard, positioning it to compete with USL's Tuxedo, Transarc Corp Encina and NCR Corp's Top End and clearly threatening USL which is trying to do the same for Tuxedo.
+Having recruited Hewlett-Packard Co to the CICS cause (UX No 405), Serlin bets DEC is IBM's next logical candidate.
+In the UK, Pinnacle Data Systems Ltd, Dunstable, Beds, is moving to larger premises in Leighton Buzzard, Bedfordshire, next month.
+Tatung Science & Technology Inc, San Jose has retained Bell Atlantic Corp's Bell Atlantic TriCon Leasing Corp of Paramus, New Jersey to offer lease finance in the US on its Compstation line of 20MHz, 25MHz and 40MHz Sparc workstations, and forthcoming Super Compstations.
+Computervision Corp is cutting another 700 jobs to take its payroll to 5,000.
+IBM says its RS/6000s and PowerPC computers will run Windows applications under AIX by spring next year.
+In the US, Apple Computer Inc has effected a new Unix value added reseller campaign, Quick Start, with the aim of broadening the market for its Quadra AUX 3.0 servers by getting new applications on board.
+Apple is offering a year's free technical support and will reimburse VARs to the tune of $6,000 if they buy three Quadra 700 AUX systems between now and January 31 1993 via its outlets.
+NCR Corp last week committed to making its StarSentry — global network  management system — OSF DME-compliant: its Unix System 3000s will support the OSF DCE architecture by spring 1993, it says.
+The Santa Cruz Operation last week joined the OSF DCE fray, announcing an early availability programme for its SCO DCE product at InterOp.
+However the programme, based on OSF/DCE 1.0.1 and open to major accounts and ISVs, doesn't kick off until the second quarter of 1993.
+SCO expects to put SCO DCE on general release in the fourth quarter 1993.
+In answer to questions from our readers, SunSoft Inc says, ‘yes,’ it'll be putting Solaris 2.0-on-Intel through distribution: it just doesn't know which channels yet.

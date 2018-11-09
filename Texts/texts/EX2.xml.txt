@@ -1,0 +1,1358 @@
+
+
+The Meaning and Purpose of Regulation
+Economic regulation might be defined broadly as government interference in what could be a market-based activity.
+So why does government interfere?
+In this book I pose and try to answer three questions:
+1 For what reasons does government choose to regulate certain industries?
+2 Is there a legitimate economic rationale for such regulation?
+3 On balance, does regulation work?
+Being a study in economics, the book focuses on the latter two questions.
+1.1 An outline
+Later in the chapter I provide a framework indicating how the form of regulation we shall discuss — sometimes called "economic regulation" — relates to certain other types.
+First though, by way of an overview, let us consider the parties involved.
+By definition, regulation implies there are regulators, presumably governmental agents.
+They attempt to impose their will on the firm(s) involved, that influence extending perhaps to deciding on which may be involved.
+To take an example from a related sphere, in regulating credit brokers, controls are imposed on firms in the industry, and conditions must be met by those intending to enter this line of business.
+Thus the nature of the existing industry is considered important, as well as the nature of the would-be entrant firm.
+Given that we are limiting our discussion to industries where competition is problematic, the extent of natural competition is fundamental.
+This topic is examined in the next chapter, along with important questions of how production can, and how it might best be, funded in such circumstances.
+Having seen that there is an a priori case for some governmental interference, we will pass on in chapter 3 to applications of the theory of the firm to regulated situations — how we might expect such firms to behave.
+Chapters 4 and 5 analyse in greater depth two common alternative  regulatory frameworks, state control and rate regulation, building upon the early material.
+A third, less common, alternative is covered in chapter 6.
+This involves stratagems for introducing competition where none may exist.
+Regulation can have potential societal benefits, as I shall demonstrate below and in more detail in chapter 2.
+Unfortunately it also has (actual and) potential social costs.
+This brings us to the third question: is regulation worthwhile?
+This is a question first of whether some forms of regulatory frameworks are superior to others and then of whether any form of regulation is worthwhile.
+It is in large part an empirical question, and issues and studies bearing on the topic are considered in chapter 7.
+Chapter 8 provides a brief overview and conclusion.
+This still leaves the first topic, namely why in practice government does interfere, and the question of motivations embodied in one central group of actors not so far highlighted, the regulators themselves.
+The first part of this is a more general political question which cannot be covered fully in an economics text.
+However, both this question and the regulators themselves have received attention in the economics literature and this material is treated in section 1.3 below.
+Before that, we must first delimit the area we are to consider.
+1.2 What is meant by "economic regulation" ?
+Regulation here is taken as meaning control of an industrial activity by government, in the sense of actions such as restrictions on firms entering the industry, constraints on firms actually in the industry, or both.
+We might add to these, government powers affecting substitutes and complements and direct subsidizing of activities.
+Even then, there are numerous examples to choose as illustrations of regulated industries: the postal service, electricity distribution, taxi services, opticians, asbestos manufacturing.
+These have little in common with one another, but they do illustrate particular facets of (potential) competitive market failure.
+The great claim made for perfect competition is that it leads to efficiency.
+Therefore if efficiency is a prime goal at which to aim, why not simply allow competition to do the job?
+Logically, there are three possibilities which may counsel caution.
+First, in some areas of activity there may be no competition, or even no potential competition.
+Secondly, competition may exist but, because there are some problems with the actors or actions involved, efficient results may be undesirable.
+Efficiency need not be the only goal.
+Thirdly, competition may exist but, because some assumptions are violated, the automatic link with efficiency is broken.
+Our concern essentially is with the first of these possibilities, the case of natural monopoly — no competition is possible.
+At the moment, I will be fairly casual about what is meant by "natural monopoly" , because the matter is covered in detail in chapter 2.
+But, loosely, some industries, such as letter post, water supply and electricity supply, appear to he cases where extensive and extended competition is not the norm, and where such competition may indeed be wasteful.
+What can, or should, be done in such cases?
+Notice first that I have implied a tradeoff, which should be made more explicit and later will be explored in additional detail.
+Competition is sometimes possible: two firms deliver milk in my street yet only one firm delivers newspapers.
+The former arrangement is seemingly less efficient because two vehicles and two milkmen doing the job implies some wasteful duplication.
+However, it does lead to competition, and neither milkman levies a delivery charge (at least explicitly) whereas the newsagent does.
+It would be tempting and comforting to say that the invisible hand of the market mechanism oversees such operations.
+That is, the optimal number of milkmen is two and of newsagents one.
+But why should that be?
+The standard theorems of welfare economics assume away fixed costs (increasing returns) of the sort that both milkman and newsagent incur — each additional customer costing less to supply than average cost, at least within a certain range.
+There are therefore two questions of importance to us, and we will stay with the milk/newspapers example.
+First, given there is a monopoly on newspapers, is intervention required?
+The monopolist is normally considered to exploit consumers by charging a high price and thereby destroying some consumer surplus.
+If the monopolist's position is naturally precarious, that is if there are many potential entrepreneurs looking to supply papers, then its pricing behaviour may well be tempered, so governmental intervention need not be required.
+If, on the other hand, the position is well-established, monopoly power may be considerable, leading to high prices.
+In this case, if intervention were available at zero cost, it would be desirable.
+Secondly, is the position on milk optimal?
+If there is wasteful duplication, governmental (or neighbourhood) intervention is in principle desirable to award the street's milk contract to one firm, then if necessary to control its pricing behaviour.
+Alternatively, why have private supply of milk?
+Since the industry is in any case organized in some particulars by the Milk Marketing Board, a governmental agency, why not award them the contract for nationwide milk supply?
+These are the topics that will occupy discussion in the next chapter and, to some extent, in later ones also.
+Using the milk/newspapers context has made them seen trivial: few people would find sensible the idea of a state  monolith in milk supply or rigorous persecution of small-time dealers in newspapers by some all-seeing agency.
+This serves as a very useful warning.
+In the context of giant industries such as electricity supply the questions take on considerable significance.
+Consequently, substantial efforts to intervene (or to decide whether and in what way to intervene) are desirable in principle.
+In cases like newspaper delivery, they are most probably undesirable, except perhaps along the lines of occasional forays by bodies such as the Monopolies Commission.
+Returning to the three possibilities, consider the second, where competition exists and produces tolerably efficient results, but these are deemed undesirable.
+For example, competition may dictate that supplying letter delivery service to, and maintaining"phone boxes in, remote areas, is inefficient.
+Competition in bus services may mean heavy traffic on well-used routes and no service on others.
+Such situations may or may not be efficient, but the goal of equity may also be important.
+Economists tend to shy away from equity as a goal, in the belief that if transfers are desirable they should be made on a lump sum or income taxation basis rather than being piecemeal on particular goods.
+Since none of these activities is costless, however, the situation is not quite as clear as suggested by economists who propose that efficiency should be the only goal.
+Transaction costs can be important.
+To take an example, suppose it is considered generally socially desirable (on the basis, say, of needs; Weitzman, 1977) that everyone has the chance of access to a reasonable water supply.
+This could be done by charging on the basis of marginal supply cost for water (if feasible) and redistributing income, to allow people to allocate their income between water and other goods on the basis of market prices, or charging on a basis more related to income than to use (e.g. based upon property valuations).
+The latter is less efficient in producing a water supply, leading to more consumption than otherwise, but it may be a relatively efficient way of ensuring an equal chance of access to it.
+Perhaps such arguments are beside the main point, which is to cover the natural monopoly case.
+However, it is important to appreciate that any particular case of regulation seldom arises with just a single aim.
+We are separating out one aspect for analysis, but doing this is slightly artificial.
+At this stage we should look briefly at the third and final possibility, and with it some cases we shall not be discussing in this book.
+One long-established form of regulation, which has a well-established pedigree in the economics literature, is correction for externalities which break the link between competition and efficiency.
+Many industrial activities impose external effects, usually detrimental ones, on the wider community.
+To take an example of some current interest, power stations fired by fossil  fuels emit wastes which later, it seems, create acid rain.
+Accordingly, the marginal social cost of production is greater than the marginal (private) cost to the firm.
+Nuclear powered stations also arguably create negative externalities, of course.
+A third illustration is asbestos manufacture, which is implicated in fatal illness amongst employees and others.
+Undoubtedly, left to themselves some manufacturers would feel bound to institute corrective measures in the processes, or pay compensation, but many would not.
+If, say, the acid rain falls in another country, the pressure upon a particular producer may be weak.
+Hence the long history of Factory Acts, the Alkali Inspectorate and so on, a history of regulation to correct detrimental externalities by direct or indirect means.
+Externalities could exist even with perfectly informed consumers of the final product.
+Economic Man, seeing two boxes of chocolates, of which one is cheaper because the manufacturer has not had to pay for consequential damage to some third party, would choose that cheaper box.
+Similarly with public goods: there may be many potential suppliers of television broadcasts, but funding them presents a problem.
+If it is easy for Economic Man to receive the broadcast without paying, then he will not pay.
+The better he appraises the situation, the.
+less likely he is to pay.
+If everyone thinks like that, the broadcast is not supplied and everyone is worse off.
+Hence the recourse to licensing (i.e. regulation) or indirect means of payment (advertising).
+When consumers are not perfectly informed, additional problems arise.
+If you were to fly to Athens for the first time and take a taxi to an address in the city, you would be unable to assess whether the route was circuitous, or the baggage charge was normal.
+If the owner of the insurance company covering your house contents had absconded to Fiji, you might not discover this until your house was burgled and the company would not answer the telephone.
+Hence there is another reason for regulation, to protect consumers who cannot be the best judges of their own welfare in all regards.
+Of course some cases of self-regulation would be profitable because they increase trade (an example might be the association of life insurance offices), but others might be socially desirable yet bedevilled by public good problems — who is to fund the regulatory body?
+In many areas, the state has stepped in to perform such acts.
+Examples abound in the professions, for example the question of auditors and joint stock companies, or solicitors and conveyancing.
+The latter, incidentally, illustrates another point, that concerning "capture theory" which will be raised and dealt with at greater length later in the chapter (see p. 7).
+Finally, we should note an important qualification.
+Regulation is often a political issue.
+In fact, politics may have more to say about the actual extent of a regulatory framework than does economics.
+Politicians take up views, and react to industries' actions.
+Special interests can triumph.
+Moreover, those acting for the politicians similarly have a capacity to play an active role.
+Some of these issues should be addressed, even though the book is essentially about economics.
+In fact, I shall adopt a compromise; the next section will examine theories concerning why regulation occurs, but in the way economists have analysed this phenomenon.
+1.3 Positive theories of regulation
+Essentially, formulating a theory of regulation involves imputing motives to the various bodies involved in regulation; various theories are obtained by imputing various motives.
+Leaving aside the firms (whose actions will be discussed in more detail in chapters 4 and 5), we still have to consider the politicians and the regulatory agencies.
+Some theories concern themselves more with the motives of one than the other — seldom is the whole chain of actions discussed.
+Therefore sometimes one reads into the theory more than might be there.
+A very common (but perhaps naive) view on regulation is the public interest theory.
+Here the government responds to market imperfections in proportions according with the extent of imperfection.
+Thus, industries which only occasionally are problematic would not be subject to continual regulation but rather would be liable to lightning attacks by the Monopolies Commission or whatever.
+Industries which, because of the extent of their natural monopolies and their size, impinged very extensively on everyday life would be controlled more directly.
+Thus alleged market failures in the area of advertisement hoardings would be a topic for the Monopolies Commission, whereas water supply might be expected to involve a regulatory authority or public supply agency.
+In the public interest view also, regulators perform their allotted tasks as a sacred trust.
+This, presumably one could say, maximizes their utility.
+From the societal point of view, the public interest theory presents an ideal.
+The only question left is the extent to which corrective measures should be carried out, and this can (in principle!) be solved by equating marginal benefits with marginal costs.
+Most people would agree though that there is evidence clearly inconsistent with some aspects of the public interest view.
+One facet of a critique would be that there are areas that do not fit the category of natural monopolies, and yet are subject to extensive regulation  of the type under discussion.
+The obvious example is agriculture, usually employed as an illustration in chapters on perfect competition in introductory texts.
+Yet agricultural markets are extensively distorted by governmental agencies setting quotas, purchasing at agreed prices, subsidizing certain categories of production and so on.
+In the UK it is commonly agreed that this happens at least in part because of the extent to which farming, relative to industrial, interests are "understood" in most Conservative cabinets (and even some Labour ones!).
+The other side to the critique, again a common one in the UK, is that public agencies by no means serve the public interest alone but instead indulge in many other activities which appear to benefit the regulators' Interests rather more.
+Certain daily newspapers delight in exposing wasteful practices in governmental departments, quasi-governmental agencies and soon.
+Of course, both of these are rather unfocused attacks.
+We should inquire whether there are other theories capable of giving better explanations before abandoning the one we have.
+Two theories, at least, have some claim to do this.
+One is the capture theory, which relates to the critique of agencies once set up.
+Whatever the original guidelines given them, goes the argument, the agents get drawn into doing what is in the best interest of those they are regulating — they are, wittingly or unwittingly, captured by the people they are supposed to be policing (see, for example, Stigler, 1971).
+Again, examples can be produced in favour of, and against, this hypothesis.
+There would be some truth in the assertion that traffic commissioners have the welfare of"bus operators very much at heart when fixing fares; similar things could be said of airline regulators.
+On the other hand, what if, to take Posner's example (1974), an agency is called upon to regulate two opposing groups, like the Interstate Communications Commission who deal with truckers, railroads and bargees?
+Moreover, it is very difficult to explain moves like the phasing out of the United States Civil Aeronautics Board (discussed in chapter 7) in terms of this theory.
+Arguably more powerful, since it is more general, is the Economic theory of regulation.
+This has as its main thrust the idea that regulation itself is subject to economic laws.
+The government is in a position to supply regulation and, indeed, it might commonly be eager to do so, if ministers gain utility in proportion to the size of resources they control.
+Certain industries will demand regulation if it helps to improve the position of the firms within them.
+Thus farmers may perceive benefits in bodies such as the Milk Marketing Board through gains in selling power, although other aspects of the Board's operations may be undesirable to them.
+These benefits depend upon the difference between returns under regulation and those without  it, hence, as Posner (1974) suggests, on the gains from cartelization and the ease of forming cartels.
+Interest groups that are large and diffuse will tend to be dominated by small, tightly knit groups that have a lot to gain (Peltzman, 1976); thus these will often, though not inevitably, be the producers (for a counter-example see Wenders, 1986).
+In sum, special interests of politically effective groups rather than socially desirable interests triumph.
+As has been said, some observations would appear consistent with this viewpoint.
+Much more equivocal is whether the theory has any predictive content.
+Just because an industry desires a convenient method of cartel formation, that does not mean it will necessarily get it.
+As an example from a slightly different sphere, the Lancashire cotton spinners were forced to abandon an agreement on pricing (In Yarn Spinners' Agreement LR1 RP, pp. 118–99) despite pleading the threat to employment.
+In fact, Posner (1974) points out that there is very little research indeed that can be considered as a direct test of the economic theory, and the results of these few tests are not clear cut.
+Thus there seems nothing inevitable about the process.
+What is more, such actions as imposing regulation, though they may tend to acquire a momentum of their own, are nevertheless hardly irreversible.
+Preferences can change, and if different political parties have differing views, a private rather than social interest cannot be expected to persist for ever.
+There is another strand to the Economic theory of regulation, which is that once the agency has an objective, those charged with carrying out the policies do so to the best of their ability.
+This is not because they wish to act in the public interest as exemplified in the values of their political masters, but rather because they wish to succeed in their careers and the way to do so is to appear efficient.
+This is a rather strict version of the managerial labour market theory (Fama, 1980) which will be discussed in chapter 3.
+Yet, again, it is surely difficult to test.
+Also, evidence suggesting that regulation In fact has no effect goes against this viewpoint.
+Critics of regulation from the standpoint of economic theory cannot have it both ways.
+Assuming that regulation has the potential to promote social benefits, either it is effective, but in the wrong directions, or it is ineffective; it can scarcely be both.
+We also have the paradox that (as Posner, 1972, p. 153 admits) those same people who tend to argue that the common law promotes efficiency also reject the idea that regulatory law does the same thing.
+One more positive criticism of the Economic theory of regulation is that it lacks sufficient structure to make it testable.
+Because "utility maximizing" objectives can be imputed to government or regulators, almost anything can fit with it.
+The bones of the policy-makers and their agents must be fleshed out in order to refine the theory.
+To take the policy-makers first, what do they maximize?
+One plausible self-interest goal is re-election.
+Therefore, in this variant, the politician will indulge in promoting regulatory activities that tend to do this; the MP of a farming constituency promotes tighter regulations on imported meat and so on.
+This provides the framework for a theory of why some areas are regulated and some not, albeit a partial one since it depends on the pattern of interests.
+This does not really explain how the regulation will be conducted, as this is more a feature of the regulators than of the politicians, if there is any slack in the relationship between government and regulatory agents.
+If the regulators have discretion, what will they do?
+In general, it seems sensible to suggest that any discretion will be exercised so as to improve regulators' utility (along the lines of what would be expected from a managerial utility maximization model like Williamson's, 1963).
+Thus aspects such as status, security and so on are likely to be important.
+This, however, is still not particularly operational as a theory.
+One way to move in that direction by identifying different underlying structures is suggested by de Alessi (1974).
+He points out that there are two general types of regulatory bodies — Independent agencies and government bureaux — and that performance is likely to differ between them.
+Commissioners normally have fixed-term posts at given salaries whilst civil servants move from post to post.
+Hence commissioners are likely to try to minimize conflict, in order to improve their chances of remaining in office, and they are likely to go for "quiet life" options to gain non-pecuniary income.
+Civil servants, in contrast, are likely to seek active regulation in order to increase perceived responsibilities and hence, according to de Alessi, improve their chances of upgrading the post.
+He claims some empirical support for these predictions.
+The foregoing survey does not claim to be complete; in fact only a small sample from the wide range of contributions has been considered.
+Enough has been said, however, to make it clear that regulation need not necessarily act in the public interest.
+Where do we go from here?
+Undoubtedly regulation of industry has the potential power to improve social welfare and to say we should abandon it because it may not always do so is nihilistic.
+In the same way, criticisms of the Monopolies Commission on the grounds that perceived monopoly welfare losses are low are misplaced; what matters is what would transpire in the Commission's absence.
+Few people would argue that national defence should be abandoned in favour of private armies because defence chiefs presently make decisions having regard to inter-service rivalry, relationships with defence manufacturers, and so on, rather than making socially ideal decisions.
+So, what positive lessons do we glean from a consideration of the theory?
+First, that since regulatory actions are normally costly, de minimis provisions should apply.
+It does not make sense to regulate the newsagent in the example used in section 1.2.
+Secondly, agency discretion should be limited in so far as this is compatible with efficient operational decisions.
+Thirdly, ideas as well as interests are important influences on policy.
+Governments may wish, purely for political reasons, to control various industries (or not to do so).
+One of the traditional planks of Labour Party policy in the UK has been to own the"commanding heights' of the economy, though it is never completely clear what these include.
+Similarly, French and Italian governments have sought to take some equity stake in certain industries.
+Things can go both ways, of course.
+The present UK Conservative government seems eager to remove controls even in cases where many people consider them beneficial, for equally political reasons; but it has done so far more quickly in some areas than others.
+We are equally in need of a positive theory of deregulation.
+Such actions may be perceived as regulation or deregulation and may have economic effects (as will be discussed in chapter 4 and elsewhere), but they may essentially be a response to special interests or to fashions in ideas.
+We are essentially interested here in cases where important natural monopoly industries exist and the choice is between a free market and various forms of regulation.
+If regulation is involved, those charged with performing the surveillance should be seen as responsive to consumer as well as producer interests, if they are to reflect societies' preferences.
+But that requires that both sets of interests be represented effectively.
+The question is, what sorts of models and control frameworks are best at getting round the various problems that will be encountered in designing regulatory schemes?
+1.4 An example
+In order to provide an impetus for the study, and also an introduction to the analysis of chapter 2, consider the following"very much simplified illustration.
+Assume the UK gas industry is setting monopoly prices.
+The demand for gas is approximated by a linear curve, along the lines of D in figure 1.1.
+Corresponding to this is the marginal revenue curve MR.
+Marginal costs are falling slightly, as illustrated by curve MC, so the industry is a natural monopoly.
+At present, given these assumptions, output is  and price is .
+If output could be expanded up to the point  where price equals marginal cost, there would be an extensive gain in social welfare, namely the shaded   area., Making the simplifying assumptions that there are no income effects and that any effects on the distribution of income are unimportant, this area may stand for the true change in social welfare.
+So how large is it?
+In theory, the calculation is straightforward.
+Following Schmalensee (1982) the area marked A may be written as the triangular area to which it approximates: where  is the price-marginal cost margin,  is sales revenue at current prices and  is a number somewhat in excess of one because marginal cost is falling.
+If marginal cost were constant, K would be one and the formula would be exact.
+To get an approximate feel for the size of the loss, in 1985  according to the National Income and Expenditure "Blue Book" , £4046 million was spent on gas, out of total consumers' expenditure of £213,208 million.
+Suppose the price-cost margin is one-third (this implies a mark-up of 50 per cent, which may be a bit high, but let us underestimate K, at unity).
+These figures imply A is around £670 million at 1985 prices or, to put it another way, 0.2 per cent of GDP.
+Again, to reiterate, the calculation performed here is not in any sense meant to be accurate.
+Among other things, it ignores industrial gas consumption and the effects of regulation other than direct price effects.
+The point is simply that the potential benefits from regulation can be very large.
+An agency costing £6 million a year to run could bring hundred-fold benefits.
+One that failed to capture or otherwise dissipated half the benefits would still bring social returns over 50 times its cost.
+Because the potential benefits of regulation are so large, the questions discussed in later chapters are most decidedly real and important ones.
+At the end of the day, an individual observer could conclude that the various costs of regulation exceeded the benefits and that therefore regulation should be abandoned, but such a conclusion, if warranted at all, is not warranted without a great deal of analysis.
+A guide to the literature
+There have been a great many studies of market failures which provide an a priori case for Intervention — welfare economics texts such as Broadway and Bruce (1984) or summary chapters in books such as Varian (1978) will serve.
+Stigler (1975, chapter 7) offers a provocative treatment.
+The particular case of natural monopoly will be developed further in chapter 2.
+As far as the public interest theory of regulation is concerned, this is largely an implicit rather than explicit model.
+The Economic theory in its various forms has been extensively discussed and developed.
+Stigler's paper (1975, chapter 8) is influential, and in particular Posner's paper (1974) is an important discussion of the model.
+Useful commentaries are provided by Wilson (1980)(on political aspects) and by Tomlinson (1983).
+Mitnick (1980) has an extensive analysis of the various theories, together with many other matters that will be discussed later on.
+For a more practical assessment, see Hilton (1972).
+Joskow and Noll (1983) provide a good general survey of the economics of regulation.
+Regulation and Natural Monopoly
+The previous chapter made the point that economic regulation involves controls on pricing and controls on entry.
+This chapter examines the theoretical justification for such controls, that is, the case for intervention.
+In a perfectly competitive industry, the market solves two connected problems.
+First it solves the problem of the efficient industry cost structure — the allocation of production within the industry in such a way that the desired output is produced at minimum cost.
+Output is allocated among plants so that all are producing at the lowest point on their average cost curves.
+Secondly, it solves the problem of the efficient pricing structure.
+Consumers pay prices equal to marginal costs and this brings forth exactly enough output from the industry in the sense that it makes just sufficient firms viable.
+Unfortunately from this point of view not all industries are perfectly competitive.
+Hence in such cases we cannot expect the twin goals to be met; in fact it may be that some compromise position has to be reached.
+It would appear, on the face of it, that this problem of satisfying the two goals is least likely to be achieved in a monopoly situation.
+The compromise, in this case, may therefore imply some outside regulation.
+This chapter examines these questions from a theoretical standpoint within the framework of natural monopoly industries.
+Much of what is said would be true also (in a modified form) for small-number natural oligopolies, but I shall not examine such questions here.
+Let us start with a simple and rather stark model along the lines of Peacock and Rowley (1972).
+There is a specific product which has falling average costs throughout the relevant output range as given by demand.
+Hence production by a monopolist is cheapest.
+Also, a competitive equilibrium can-not exist because at the point where price equals each firm's marginal cost, profits would increase with increasing output so each firm would wish to increase output and thereby achieve lower costs.
+Since they all do this, they all make losses.
+Monopoly equilibrium is possible.
+Specifically a monopolist in residence will equate marginal revenue and marginal cost and earn substantial profits as a result, yet (small scale) entry would be  barred because costs of producing low outputs are so high.
+The situation is depicted in figure 2.1, with the monopolist's price and output given by .
+The monopoly outcome is not socially Pareto-optimal.
+At least three potentially Pareto-superior situations may be identified.
+First, and optimally, price could be set equal to marginal costs.
+In that case, denoted (p 1 , y 1 ), losses would be made (unless it was only the marginal consumer who was paying marginal costs with others being charged differentially higher prices according to their willingness to pay — on which, see below and chapter 4).
+Hence, lump sum transfers would be required to ensure breakeven, in which case public control seems a sensible solution, with the necessary funds coming from general taxation.
+Alternatively, the industry could be in the hands of a private firm which would have its prices regulated by the state in such a way as to earn what approximates to a normal rate of return on capital employed.
+The solution here would be (p2, y,), assuming efficient regulation (and making some abstractions).
+A third alternative, proposed by Demsetz (1968), is for the rights to supply to be auctioned off to bidders whose bids would be in the form of a contract to supply at a given price (rather like bids for the construction of a motorway).
+Given sufficient bidders, price may be expected to approximate average cost, and output would be y,.
+All these solutions are the subject of further analysis in later chapters.
+But before we move on to institutional questions, we should recognize that whilst figure 2.1 illustrates a natural monopoly, it by no means exhausts the possibilities.
+Nor, it transpires, is it clearly the case that any controls are needed.
+The model must be extended.
+This is done first by examining the analytics of the cost and demand sides, the subject of this chapter, and then concentrating more on the internal structure of the firm (in chapter 3), in order to move on to the question of efficiency.
+Our path here is as follows.
+First we will examine what a natural monopoly actually is.
+Thus section 2.1 will discuss single-product natural monopoly.
+Because this does not give sufficient insights, the analysis is extended to multiproduct natural monopoly In section 2.2, which necessitates first going into multiproduct cost and pricing concepts.
+Then we will examine its effects.
+Section 2.3 covers the key ideas of contestability and sustainability (roughly, ease of entry and natural protection from inefficient entry) and section 2.4 draws the various concepts together to consider the case for regulation.
+The situation is summarized in section 2.5.
+2.1 Single-product natural monopoly
+To start with, we must address the question of the definition of "natural monopoly" .
+In the earlier example, the average cost curve fell continuously and there was a monopolist in residence in the industry.
+Perhaps surprisingly, neither of these is necessary for an industry to be a natural monopoly at some output levels, though the average cost curve must certainly have a falling portion.
+The first point to make is that the term "natural monopoly" could bear two interpretations.
+One is that there would only ever be one firm in the industry.
+But, on reflection, this depends for example on one's theory of oligopoly.
+If we take Cournot's time-honoured example of the mineral water duopoly, with the exception that we suppose developing a spring involves a fixed cost F, after which all the water desired can be extracted at a constant marginal cost (of c, possibly zero), then we have a natural monopoly in the sense that average cost is continually declining.
+However, if two firms can each make profits producing at the Cournot output levels, this will be a non-cooperative duopoly equilibrium in outputs.
+Yet if  instead of choosing outputs, the firms indulge in price-setting behaviour (on which see below), any equilibrium is likely to involve only one firm.
+Supposing in a Bertrand-type model that the industry has reached the point at which both firms are breaking even, there will still be a tendency to cut the price to drive the other firm out of business until the price reaches the level at which the victorious monopolist is breaking even.
+The alternative interpretation, now generally accepted, is that it is more efficient if there is only one firm.
+As Baumol et al.(1977) put it,"By a natural monopoly we mean an industry whose cost function is such that no combination of several firms can produce an industry output vector as cheaply as it can be provided by a single supplier' (p. 350).
+So, figure 2.1 shows a situation which is sufficient for there to be a natural monopoly, but it is not in fact necessary.
+Costs can be rising in a natural monopoly industry.
+This is because the key (necessary and sufficient) concept for natural monopoly is (strict) subadditivity.
+The cost function must satisfy the condition that: Therefore, to minimize industry costs with two firms, and with this cost structure, they must each produce half.
+We may now compare the costs of two firms producing with the costs of one.
+One is cheaper than two when: Hence we have the industry cost arrangement depicted in figure 2.2.
+It is clear that when demand is at level , the industry is a natural monopoly, and when demand is at level , as we have just discovered, the industry is still a natural monopoly.
+If demand is at level , the industry becomes a natural duopoly (and it will not cease being so until well after  units of output are demanded).
+The purpose of these calculations has been to demonstrate that rising average cost is consistent with natural monopoly.
+They also illustrate three other points of importance.
+First, as a general point, an industry may change from being a natural monopoly not only through changes in underlying technology but also through changes in demand.
+In particular, if demand is growing, an industry may move away from natural monopoly status.
+Secondly, marginal cost pricing in natural monopoly does not necessarily require a subsidy.
+With demand curve D, a natural monopolist charging marginal cost () would better than break even.
+However, thirdly, a natural monopolist may be vulnerable to entry even when charging average cost and being perfectly efficient.
+Such entry must, perforce, be inefficient, because of the subadditivity-based definition of natural monopoly.
+How, then, can it occur?
+The answer is that it must be partial entry, a firm offering to supply part of the market only at a price less than p,.
+People offered such a contract are likely to take it, but in supplying it, a firm destroys the ideal industry structure and the market of the incumbent firm.
+A natural monopoly in such a position is said to be not sustainable.
+Obviously, it is better for society to avoid such destructive competition.
+In the situation given by demand curve D 2 , the implication is that two controls would be needed to ensure that the industry engaged in socially optimal performance (see below).
+First, restraints on entry to keep the industry from having an inefficiently large number of firms would be required.
+Secondly, controls on price to keep the incumbent monopolist from raising price to monopoly levels should be employed.
+In the situation given by demand curve , restrictions on entry would appear not to serve any useful purpose.
+However, controls on price would normally be needed, assuming replacement of the incumbent through the market mechanism by a producer of superior efficiency is difficult, that is, the market is not contestable (see section 2.3).
+Before moving on, let us pause to consider what is meant by the term "socially optimal" .
+It is well known that, if subsidies are available where necessary, marginal cost pricing is the desirable objective, assuming the absence of other distortions in the economy.
+But such subsidies have to be financed out of taxation.
+If lump sum taxes are infeasible, then any such taxation (e.g. on incomes) will create distortions of its own (affecting for example work/leisure choices).
+Hence it may be considered desirable for the subsidy not to be made available, and for marginal cost pricing to be replaced by average cost pricing.
+Within our example, there is only one  way to practise average cost pricing, but this is not generally so within multiproduct frameworks.
+In order to gain further insights, we must extend the model in this direction.
+2.2 Multiproduct costs, pricing and subadditivity
+Extending the analysis to multiproduct firms creates two difficulties.
+First, we shall have to inquire into what is meant by a multiproduct natural monopoly, in particular into the cost conditions that are associated with it.
+Further precision is required, for example, in discussing what is meant by economies of scale and the relationship of these to natural monopoly.
+Second, a multiproduct firm required to break even has degrees of freedom in its pricing which are unavailable to a single-product firm.
+Setting prices on average equal to marginal cost can be done in more than one way, and some will be socially superior to others.
+Both these analyses are developed below.
+Cost concepts
+My main illustrations of cost relationships will use two outputs only, and we will not be concerned with factor input requirements.
+An analogy may then usefully be drawn between the one input-two output production function and the rather more familiar two input-one output function.
+In that case, there are three dimensions to consider, but often partial relationships are examined.
+For example, one can examine returns to scale by taking a ray from the origin.
+In this context, returns to scale may be measured as S = average cost/marginal cost with S > 1 implying economies of scale.
+But also of importance are returns to a factor, keeping the other constant.
+In a similar way we can first examine ray average costs and returns to scale along a ray.
+Define ray average costs as: where Y is a unit bundle of a particular mix of output (e.g. ) and t is the number of units in the bundle (so that when t = 3, ).
+Fairly obviously, declining ray average costs occur when multiplying all outputs by t less than multiplies costs by t, so that RAC falls as t increases.
+This links with a definition of multiproduct scale economies: where y, are output dimensions and Y is the vector of outputs, MC, being the partial marginal costs of each output.
+Thus it relates total costs (in the numerator) to attributable costs (in the denominator).
+If RAC is falling, output-weighted marginal costs are below total cost so S > 1, and vice versa.
+We can also examine the behaviour of the cost surface as we vary only one of the outputs, the analogy here being returns to a factor.
+Define average incremental costs of output 1 as: This gives rise to a natural measure of product-specific returns to scale as: There is another concept of importance for multiproduct firms, which is different from what has gone before.
+This is the idea of economies of scope.
+If: then there are said to be economies of scope at the output level concerned.
+One way to think of this is as a type of economies of joint production.
+To take an example: a car manufacturer may notice that the average cost of producing a model falls as greater numbers of the model are produced.
+All other things equal, it looks as if producing more of the model is beneficial.
+However, producing this model alongside another may give rise to benefits — perhaps they have common components, or common design and marketing costs, in which case there are shareable inputs.
+Take the component case: suppose both cars use the same gearbox, purchased from an outside source.
+It is necessary to-keep a small stock of gearboxes because there is some uncertainty about how many will be used on any day, and reordering subjects the firm to some delay.
+The firm that produces both models need not keep twice as many gearboxes in store to have the same availability as would two firms each producing one model because, unless the uncertainties are perfectly correlated, it is less likely that high production of both models will be required on any particular day than that high production of either one will.
+Two other, rather briefer, examples will illustrate the relevance to potential  natural monopoly industries.
+Economies of scope are likely to arise in (i) railways, between passenger and freight transport using the same lines and (ii) electricity generation, between peak and off-peak periods, some of the same equipment being used.
+Economies of scope do not necessarily mean that producing both models (or whatever) is better for the firm than producing one, because all other things may not be equal.
+Specifically, the products may be gross substitutes in demand: increased sales of one will detract from sales of the other.
+Therefore, producing the package rather than one product means the firm gains the economies of scope but loses some economies of scale in the product that it would have produced more intensively.
+Partly because of this problem, it is useful to define a more general concept, transray convexity, which involves considering bundles of two (for simplicity) goods consisting of different proportions.
+Let bundle  and .
+Then a cost function is transray convex if:
+To see the relationship between the two concepts, consider the special case where .
+We  then have: The left hand side of this expression involves outputs of each product smaller, respectively, than y and y,.
+Hence the meaning of the expression as a whole is that, as far as costs are concerned, economies of scope are sufficient to counteract the loss in economies of scale in each product line.
+Diagrammatically, the relationships between the concepts are illustrated in figure 2.3.
+Transray convexity involves looking at cost behaviour in the vertical plane along (say) the line AB.
+Economies of scope involve comparing costs at point C with those at A and B, whereas multiproduct economies of scale examine behaviour along OC, and product-specific economies of scale are concerned with costs as we move along AC or BC.
+There are two main uses to which we will put these concepts.
+First, they are related to subadditivity — the question of whether or not the industry is a natural monopoly.
+Secondly, they relate to sustainability — can the ideal structure, in this case a monopoly, be maintained by the established firm, or will it be vulnerable to entry?
+Pricing behaviour
+If scale economies are extensive, marginal cost pricing of each of two (say) dimensions of output would lead to substantial shortfalls.
+This is easily   seen: in S = , output-weighted marginal costs are the denominator and total costs the numerator, so when S > 1 prices fail to cover costs.
+Therefore, if the firms involved are to break even, how should they do it?
+There are at least three important possibilities: cost-based pricing, valued-based pricing and price discrimination.
+Cost-based pricing is fairly straightforward.
+The price marginal cost margin on each product is set equal to (1 — 115) where S is the degree of scale economies appropriate to the total output mix.
+The firm then just breaks even.
+To see this, observe that the suggested formula is: Aggregating over all products and comparing with the definition of S, we find  revenues are just sufficient to cover costs.
+In the single-product firm context, there are in theory solutions to the problem of marginal cost pricing being insufficient to yield a profit.
+Specifically, the firm might charge different consumers different prices.
+As a polar case, Lindahl pricing involves each customer paying according to his/her marginal benefit from the good.
+Then, if production of the good is socially worthwhile, the revenues will exceed the cost of production.
+However, as a practical scheme this is infeasible, since consumers have no direct incentive to reveal their benefit schedules, nor can they easily be encouraged to do so (Green and Laffont, 1979).
+Nevertheless, there are often Possibilities for the supplier to charge different people different amounts for the same good based approximately upon marginal value, for example a fixed charge plus an amount dependent upon intensity of use.
+Such non linear outlay schedules (sometimes, confusingly, called nonlinear pricing) are discussed in chapter 4.
+Given the way the literature has developed, we shall spend more time here on the idea of value-based pricing — charging prices in proportion to value of the service to the user on a multiproduct basis.
+Value-based pricing involves margins being different on different products, but fixed on each individual product.
+It is often called Ramsey pricing, after Frank Ramsey who first flamed this (or, rather, a similar) problem in 1928.
+The problem can be thought of as maximizing consumer surplus (here total surplus minus resource costs) arising from the set of products, subject to the breakeven constraint, i.e. choose y 1 to y n to maximize: subject to  where R(Y) is the revenue accruing from sales of all the products and x is a variable of integration.
+The single-product equivalent, which has a trivial solution — set price equal to average cost — is illustrated in figure 2.4.
+Ramsey's problem may be solved by straightforward application of the Lagrangean multiplier technique.
+Using λ for the multiplier, the Lagrangean function is: so that λ can be thought of as the weight (>0) attaching to the firm's profits   as opposed to consumer utility.
+The weight could be imposed exogenously, but here it is determined endogenously.
+From (2.2) the first order conditions yield: The interpretation of marginal cost, , has already been covered, but it is worth pointing out that the interpretation of marginal revenue, , also needs some care.
+Assuming that product i has demand-side links with other products in the set, it will involve effects both on this product and on others.
+Thus, supposing this product is a substitute for the others, an increase in its output will shift the demand curves for the other products inward.
+On the other hand, if there are no relationships on the demand side, equation (2.3) can be simplified, because we can write marginal revenue as  where  is the elasticity of demand for product (defined as a positive number).
+Then by rearrangement of (2.3): Hence, margins on goods in relatively elastic demand should be lower than those on relatively inelastic demand.
+Also, as the constraint binds increasingly more tightly, λ will rise and the margin will approximate (), which is what a discriminating monopolist faced with several submarkets would charge.
+Obviously, there are other pricing schemes a firm could employ, but none would seem on the face of it to be as compelling as the ones we have discussed here.
+So, leaving aside nonlinear outlay schedules until chapter 4, how might a societal choice be made between value- and cost-based pricing?
+The first point is that Ramsey pricing has advantages both in terms of static efficiency and also arguably in terms of equity over cost-based pricing.
+However, these advantages are unlikely to be important if scale economies are only limited in extent, and cost-based pricing is certainly easier to adopt.
+The other major point, which we are not yet in a position to discuss, relates to the state of competition and potential competition in the industry.
+Two important factors interact, one suggesting Ramsey pricing is superior, the other suggesting the contrary.
+Multiproduct subadditivity
+In discussing the single-product case, we found that subadditivity at the relevant output, the necessary and sufficient condition for natural monopoly, was not related in any close way to features of the cost function.
+The most we can say is that if there are still economies of scale unexploited, the industry is a natural monopoly.
+Therefore it will come as no surprise that in the multiproduct case there is no neat way to characterize subadditivity in terms of other concepts.
+All we can do is to find sets of conditions which are, and sets which are not, sufficient.
+In doing this, the discussion will be purely at the intuitive level.
+Because economies of scale are a sufficient (not necessary) condition for subadditivity in the single-product case, it might be thought they are sufficient also in the multiproduct case.
+They are, in a very restricted sense: decreasing ray average costs or increasing returns to scale imply ray subadditivity.
+They do not imply subadditivity in general.
+Effectively, this can happen because there might be diseconomies of scope, so that individual production is cheaper than multi-output production.
+However, just to confuse matters, economies of scale plus economies of scope do not imply subadditivity.
+The reason why this can happen is (to recall figure 2.3) that  economies of scope involve a comparison between points on the axes of a cost function drawn in output space, with an interior point.
+Their presence does not necessarily (though it will often, for smooth functions) imply anything about comparisons between various interior points.
+Now, two sets of sufficient conditions relating to cost concepts we have covered earlier can be outlined.
+First, decreasing average incremental costs of each product plus economies of scope is sufficient to imply subadditivity.
+This is fairly clear intuitively, since the first part implies subadditivity in each product line, whilst the second part means that it is cheaper to produce the set of products together.
+Second, declining ray average costs plus transray convexity along any hyperplane through the output point will guarantee subadditivity.
+Intuitively, this condition succeeds where the "economies of scale plus economies of scope" one did not because the comparison is between relevant interior points.
+We have ray subadditivity plus the fact that costs increase as we move off the ray.
+Since this second sufficient condition turns out to be of some importance, it might be useful to have an intuitive idea of what is involved.
+Looking at the behaviour of costs as we increase all outputs proportionately along the ray we have a picture like figure 2.5a.
+Taking a section (hyperplane) across the cost function, gives us a picture like 2.5b.
+Hence a cost surface which exhibited both these features everywhere would have a shoehorn-like shape, with the handle at the origin, as in figure 2.5c.
+The upshot of this difficulty in finding simple conditions relating to subadditivity is that to establish empirically that an industry is a natural monopoly is by no means straightforward (though see, for example, Evans and Heckman, 1984).
+2.3 Contestability and sustainability
+Having completed the definitional stage of the theoretical investigation of natural monopoly, we turn now to two intertwined issues of control.
+Economic regulation consists of controls on prices and on entry.
+Controls on prices are argued to reduce the extent of monopoly abuse.
+Yet intuitively, the scope for such abuse would be reduced if entry were easy.
+Why then the controls on entry?
+The effects of allowing or inhibiting entry are examined in this section first by investigating the plausibility of completely free entry, then by seeing whether firms can adopt policies to guard against entry.
+These analyses are combined in section 2.4 to assess the theoretical case for intervention.
+Contestability
+If entry into a market is barred then the market is not contestable — someone has control over it.
+The opposite of this is called "perfect contestability" — no one has any power in the market, particularly the established firm(s).
+Shepherd (1984) prefers the term "ultra-free entry" , which is certainly more descriptive, but the earlier term has become established and is the one I shall continue to use.
+In between these cases, a market is more or less contestable.
+One obvious question is, what conditions are necessary for a market to be perfectly contestable?
+This is of great interest since perfect contestability"turns out to have important efficiency properties.
+unfortunately, there is some disagreement about the answer.
+Dixit (1982) proposes the following four conditions: 1 That all producers have access to the same technology.
+2 That this technology may have scale economies which in turn may arise through fixed costs but not sunk costs.
+3 Incumbent firms can change prices only within a non-zero time lag.
+4 Consumers must respond to price differences with a shorter time lag.
+This set of conditions is sufficient for perfect contestability, but it may be over-strict.
+Baumol et al.(1982) would certainly agree that the first two are necessary.
+The exclusion of sunk costs in the second gives rise to a crucial feature of their analysis — costless exit.
+As to the others, it really depends rather crucially on the game that one has in mind.
+Before developing this point though, we should consider the effects of perfect contestability.
+Clearly, if exit is costless and entry is free, a potential entrant faces only a negligible loss if things go wrong.
+Hence the prices the established firm sets for the vector of products supplied may be expected to fall to average costs (on average) across the range, if the established firm is to remain in control.
+(In a multiproduct market this still leaves a degree of freedom, which I will analyse shortly.)
+As a result, controls on prices lose much of their appeal.
+Returning to the assumptions required, Baumol et al.have pointed out that if it is feasible and believable for entrants to write firm (but presumably secret) contracts with customers for delivery over some fixed time period in the future, then the third and fourth conditions have been circumvented yet the result is the same.
+The need for secrecy is important.
+Suppose there is an established delivery service in your area.
+A new service could set up by gaining enough contracts with major customers of the old service to take over.
+People would only switch if the new price was below the  old, but if the incumbent firm hears of these plans after (say) only one contract has been signed it may be able still to win the day by immediately offering all its other customers new terms.
+If this will always happen, potential entrants will be deterred.
+Therefore we can probably conclude that conditions (3) and (4) or some close equivalent, are in fact necessary.
+Conditions (1) and (2) alone clearly are not enough and there can only be a limited number of ways of thinking of conditions which give the same results as (3) and (4).
+The next obvious question concerns the reasonableness of such a range of conditions.
+Are they met in practice?
+The answer must be, seldom.
+In particular, there would appear to be at least one strategy by the incumbent which breaks the conditions as first laid out.
+This is the "never knowingly undersold" strategy, by which the incumbent promises to reduce the price ex post should the consumer find that the good could have been obtained elsewhere more cheaply.
+Effectively, this means that the incumbent has to give no notice of price changes.
+Turning to the consumer's view of these conditions, a customer who buys from a "never knowingly undersold" (or, indeed, any) source presumably would benefit from occasionally looking elsewhere to police the claim (though there is a free-rider problem here — if the price reduction becomes general once any one consumer has complained, why not let someone else do it?).
+If a cheaper potential supplier is discovered, a firm contract between the parties may be signed.
+It is in both the firm's and the consumer s interests that this is for some extended period: in the case of the latter because search costs (presumably) are finite and so will not be worth incurring if there is only some probability of finding low prices, unless the benefits are substantial.
+The problem for the potential incumbent is that it has to get enough customers signed up to enable the prices quoted to be profitable.
+Hence there must be many people searching in the belief that lower prices will be found.
+However, this contradicts the point that it will not be optimal to search all the time.
+Therefore either the customers must continually be changing identity (so it is sensible for them to engage in some search) and some expectation must have been built up about potential high benefits to search, or else search costs must be truly trivial, in order for the potential incumbent to stand a chance of usurping the established firm.
+This discussion has led us into the third and perhaps most important question: since the assumptions will generally be untrue, how robust are the results to minor modifications of the assumptions of the model?
+To put it another way, does "almost perfectly contestable" mean anything?
+This is partly a technical and partly a practical question, and on the practical side it is rather too soon to give any judgement.
+On the technical side, the outcome may well be some way from what would be expected of perfect contestability, even if the assumptions approximate to the conditions I have outlined.
+The example used above draws upon models of the Diamond (1971) -Stiglitz (1979) type in which arbitrarily small search costs change outcomes substantially from those that would prevail with zero search costs.
+Other examples are provided by Schwartz and Reynolds (1983).
+Yet in their reply, Baumol et al.(1983) discuss equally plausible models in which the outcome does not suddenly differ from that obtaining when their conditions hold, as those conditions are relaxed.
+All this is not to deny that perfect contestability provides a benchmark, moreover an extremely important one as we shall see shortly.
+But it does point out that "almost perfectly contestable" may not have the same status as "almost perfectly competitive" .
+This subject is raised again and treated at some length in a more empirical context in chapter 7.
+Sustainability and entry barriers
+A natural monopoly is sustainable if there is no vector of prices and associated vector of outputs which allow an incumbent's total costs to be at least covered by revenues but which make entry unattractive.
+Therefore the possibility of there being a natural monopoly is intimately related to the assumptions regarding potential entrant behaviour.
+Yet here, as Shepherd (1984) notes, there is a large divergence between the literature on barriers to entry, often assuming the Sylos postulate, and most of the literature on sustainability, which implicitly assumes perfect contestability.
+If we suppose the industry is perfectly contestable, then exit is costless and entry is free, so a potential entrant faces only a negligible loss if things go wrong.
+Hence established-firm prices for the vector of products supplied may be expected to fall to average costs on average across the range, if the established firm is to remain in control.
+Thus, for example, a single-product natural monopoly operating at output levels on the falling portion of the average cost curve is only (price) sustainable at price equal to average cost.
+The early literature on barriers to entry (e.g. Bain, 1956) emphasized structural features within the context of a specific behavioural assumption, the Sylos postulate.
+This puts the established firm in a more powerful position than the potential entrant, since the entrant believes the established firm's output is fixed.
+One consequence is that even scale economies arising through fixed costs create a substantial barrier to entry.
+in fact, in some cases fixed costs can enable the established firm to price as high as the monopoly level yet induce no entry — what Bain called "blockaded entry" (see Dixit, 1979).
+Therefore, in such situations natural monopolies will be sustainable for many different prices.
+Positions like that associated with demand curve D, in figure 2.2 will be sustainable since the established firm is assumed by the potential entrant to continue supplying its existing amount to the market.
+The point may be made more general.
+There will be a set of natural monopoly markets sustainable as natural monopolies given specific pricing policies under the assumption of perfect contestability.
+There is a wider set of natural monopolies sustainable as natural monopolies either with specific pricing policies or in some cases under a wide range of pricing policies, given alternative assumptions regarding entry.
+The former group is a subset of the latter since if outputs and prices are sustainable to "ultrafree" entry they will definitely be sustainable to less than free entry.
+Without wanting to make things complicated for the sake of it, it is also worth pointing out that a natural monopoly market may be sustainable as, say, a duopoly, in conditions of less than free entry.
+An easy way to see this is to assume each firm faces a cost structure involving a constant marginal cost plus a fixed cost.
+This fixed cost makes the industry a natural monopoly — the more firms, the more fixed cost chunks are paid, and there are no offsetting advantages.
+Assume both firms are just breaking even at prevailing prices so neither wishes to leave.
+Given a Sylos assumption by a potential entrant, entry will seem nonsensical since price is bound to fall as the entrant's output will add to industry output, and the potential entrant (with the same technology as the established firm) will therefore make losses.
+Hence the presence of entry barriers may not mean there are too few firms in the industry, there may actually be too many (von Weizsacker, 1980).
+The point of this discussion is to bring out the important link between contestability and sustainability, a topic to which we shall return.
+Making a market more contestable can have various effects on sustainability, as has been illustrated above.
+2.4 invisible or visible hands?
+So far in this chapter I have been gathering together pieces of analysis.
+Now is the time to begin fitting them together into the jigsaw, to demonstrate a powerful result extending the invisible hand beyond perfect competition to circumstances under which a natural monopoly has an efficient output  and pricing structure.
+In order that we can appreciate the result (and, ultimately, its limitations), let us first summarize the relationship between the pieces.
+The first point to note is that, unlike sustainability and contestability, subadditivity and contestability are not necessarily linked.
+A perfectly competitive market is also perfectly contestable, but a natural monopoly may or may not be contestable (a question w e shall look at shortly).
+Therefore, there is a set of natural monopoly industries and a set of perfectly contestable industries, and these sets, presumably, intersect (see figure 2.6).
+Let us now introduce sustainability.
+Of the natural monopolies that are perfectly contestable, some will not be sustainable and some will be sustainable at specific prices, as we have seen.
+Of those that are not perfectly contestable, most will be sustainable as monopolies at some set of prices, though some may also be sustainable as duopolies, or whatever.
+Increasing contestability is likely to make some natural monopolies not sustainable (e.g. the single-product rising cost cases), but in other cases the effect will be to discipline pricing behaviour more severely.
+When considering the question of natural monopoly, we found some sufficient conditions for subadditivity, one of which was decreasing ray average cost plus transray convexity.
+Therefore it is likely that some, though not all, of the industries in the set of perfectly contestable natural monopolies will display decreasing ray average cost plus transray convexity.
+Which industries out of this set will be sustainable?
+The Weak Invisible Hand Theorem states that "Under a set of assumptions — including a cost function exhibiting both economies of scale and transray convexity, Ramsey-optional price-output vectors are sufficient to guarantee sustainability" (Baumol et al., 1982, p. 209).
+By implication at least some perfectly contestable natural monopolies are sustainable with Ramsey prices though others, admittedly, are not.
+(Note that the former set need not actually display Ramsey pricing, though Baumol et al.argue that this will in fact be the most straightforward thing for them to do.)
+That set of industries which are natural monopolies, are perfectly contestable and are sustained using Ramsey prices, give rise to a socially very desirable result.
+All the advantages of natural monopoly are achieved and none of the disadvantages, because their pricing structure is optimal given the breakeven constraint.
+This provides a benchmark for evaluating natural monopoly industries, in the same way that perfect competition provides   a benchmark — something that it would be desirable to work towards as a policy goal.
+This has a rather surprising implication.
+In principle, in some natural monopoly industries outside controls are superfluous.
+No controls on pricing are required as long as entry is completely free, so that any action on behalf of policy-makers should have the aim of making entry as free as possible.
+Because this does not fit with preconceived notions of, say, electricity distribution or the postal service, we will have to qualify the result in various ways, in order to realize the extent of its truth.
+The most fundamental question is, do the two sets, namely natural monopolies and perfectly contestable industries, in fact intersect?
+Weitzman (1983) claims they do not.
+Perfect contestability, remember, assumes that any scale economies arise through fixed rather than sunk costs.
+The reason for this is straightforward, since if the established firm is in the position of already having sunk its fixed costs then it is naturally in a better position than the potential entrant, because the cost of the equipment  is irrelevant to the decision as to whether to produce.
+Broadly speaking, the established firm would rather price down to average variable cost than leave, whereas the potential entrant would want at least to cover average total cost.
+But Weitzman claims that scale economies cannot arise purely through fixed costs; that these costs must be sunk.
+The argument that fixed costs are incompatible with scale economies is as follows.
+The fact that costs are not sunk means production is timeless — nothing has been committed at any point.
+But then, there can be no difference between producing x units over a period at one site and  units for half the period at that site followed by  at another site for the rest of the period.
+The rate of production is the same, but only half the output is produced at the site in question.
+Because the rate of production is the same, the cost per unit cannot be higher.
+(If storage costs are a problem, they can be solved by switching between one site and the other more often.)
+Therefore there are constant returns to scale.
+To take an example, within this scheme it might be said that computing facilities must be subject to constant returns to scale because a consortium of firms large enough to take advantage of the optimally sized computer could buy one and then time-share its facilities.
+Baumol et al.employ an aircraft example in their rejoinder to Weitzman.
+Here, batch production is involved: the aircraft produces batches of seats travelling between city pairs, just as a bakery might produce batches of loaves.
+Really, this is another way of saying that capital is sunk, but for a short period of time, because whilst the plane is in use it is not available for alternative flights.
+Deciding to enter the airline market between two points means at minimum hiring a plane for, say, one month, and within that period costs will be sunk.
+The point Baumol et al.are really making is that this period may seem trivially small compared, say, to the sinkage of capital involved in the decision to build and operate a power station.
+Returning to the main theme, we have discovered that natural monopolies can coexist with almost perfectly contestable industries.
+To move on, within this set some industries will be sustainable, some will not be.
+We have already seen an example of a non-sustainable single-product case, involving rising average costs.
+As another (commonly quoted) example, we may take the Faulhaber (1975) case involving economies of scope.
+Faulhaber's example has the following structure: The cost of supplying any one of three communities with water, C(1), is £300 The cost of supplying any two of the three communities, C(2), is £400 The cost of supplying all three, C(3), is£650  Notice that the cost structure is subadditive, i.e.  How will revenues be collected in order to support the natural monopoly in the supply of water?
+No one of the three communities A, B and C would be willing to pay more than £300 to join in a group scheme, since they could go it alone for £300.
+Similarly, no two communities would be willing to pay more than £400, since they could obtain a scheme for themselves for that amount.
+Hence representing revenues from community X by R(X) we can say: The consequence is that the group of three communities would not be willing to go for the scheme involving supply to all three, since they would not be able to come up with an agreed method of sharing the £650.
+Faulhaber makes the point quite general.
+What we have been trying to do is to find "subsidy-free" prices which will cover the costs of the enterprise.
+Such costs are less than go-at -it alone costs, but are at least sufficient to cover the added costs of supplying the additional group or units of demand.
+Prices satisfying these costs are Pareto-superior to go-it-alone prices or prices for subgroups, so that it would seem people would be willing to pay them, yet in our example it turned out that they are not.
+It is further easy to see that there is no necessary connection between subsidy-free prices and Ramsey-optional prices.
+The former depend for their structure upon the costs of alternative means of supply, whereas the latter, as we have seen, depend upon marginal costs and upon demand elasticities.
+Ramsey-optimal prices are not concerned with alternative means of supply: hence they are in principle susceptible to competitive entry.
+A simple example (drawing on Mirman, Tauman and Zang, 1986) will make the point.
+Assume that the cost function of a multiproduct firm is completely separable (no economies/diseconomies of scope etc.).
+Then the only possible sustainable prices are average cost (not Ramsey) prices, since they are equivalent to go-it-alone prices from efficient new entrants.
+(But, as we saw in the Faulhaber example, not all average cost prices are sustainable in general.)
+Of course the Mirman et al.example does not involve  a natural monopoly, yet those authors are able to generalize it to show that certain average cost price vectors are sustainable.
+Looking at things from this viewpoint, it is perhaps surprising that the "invisible hand" theorem works at all.
+But we also gain insight into when it will work, namely in cases (unlike Faulhaber's and Mirman et al."s) where cost conditions sufficient to prevent the possibility of competitive entry are imposed.
+Hence the theorem can only be valid under rather specific assumptions on industry cost structure.
+2.5 Concluding remarks
+The efforts of Baumol et al.have resulted in substantial clarification of the theory of natural monopoly.
+Moreover, their viewpoint has had a considerable impact upon practical regulatory policy.
+Their insight that the reduction of entry barriers will, in some cases, suffice to force a natural monopoly into quasi-competitive behaviour was one element underlying the continuing experiment in airline deregulation in the United States (charted in chapter 7).
+Nevertheless, this same body of theory has also shown that it is quite possible in some cases for entry to destroy natural monopoly properties, as in the Faulhaber example above.
+Here then, there is a perfectly legitimate case for restriction of entry, in order to impose the one-supplier situation which is welfare preferred yet is not forthcoming through the workings of the invisible hand.
+We can go further.
+Supply of a set of goods within a natural monopoly framework may under some circumstances require suppression of entry into closely related areas in order to prevent competitive entry undermining the natural monopoly properties.
+Von Weizsacker (1984) gives the example of a natural monopoly transport sector with public provision being undermined by competitive entry in the area of private cars.
+Cost-based prices would prevent such entry, but would probably require a subsidy.
+The point is that the set of products which are socially relevant to the group-optimality calculation may not coincide with the set which are actually controlled by the firm in question.
+Despite recent insights then, a respectable case can be made out for some form of intervention in some natural monopoly cases.
+Apart from cases such as those we have been discussing, where the industries are nearly perfectly contestable, there are other, more traditional cases where the industry is a natural monopoly but a long way from being naturally contestable.
+Here Ramsey-optimal prices might be charged by the incumbent, but there is no particularly compelling reason to suggest  that they will be, in the absence of intervention.
+Hence there is a case for intervention in terms of regulating prices and conditions of supply.
+It should be said at this stage that the case for regulation in any situation is weakened to the extent that the institutions which will themselves be involved are imperfect.
+Thus in chapters 4 to 6 we discuss alternative institutional structures.
+Finally, and more generally, it may perhaps be worthwhile to spell out the ways in which production may not match up to ideals under either regulation or unfettered market operation.
+Prices not in line with Ramsey-optimal ones or not in line with costs are not necessarily the most important problem.
+Equally important in achieving desirable results may be attaining the correct number of products from the point of view of variety, the correct extent of vertical and horizontal product differentiation between the variants, etc.
+These matters have, unfortunately, been only little explored and prescriptions are less easy to write.
+Notes on the literature
+The key source for much of the material of this chapter, particularly the cost concepts, is Baumol, Panzar and Willig (1982).
+A somewhat easier guide to parts of it is Sharkey (1982).
+Shepherd (1984) provides a rather unfocused critique of much of this work, whilst a useful review is Brock (1984).
+Von Weizsacker's (1984) thoughtful paper clarifies some of the pricing issues.
+On Ramsey pricing itself, the classic reference is Baumol and Bradford (1970).
+A review of the cost concepts is provided by Bailey and Friedlaender (1982) and for the reader interested in the practical use of these concepts, Friedlaender et al.(1983) provides an extensive illustration for the US motor industry.
+The paper by Stiglitz (1979) provides an overview of equilibria when there is imperfect information.
+Finally, for more recent overviews of contestability theory, see Baumol and Willig (1986) and Schwartz (1986).
+Regulation and the Theory of the Firm
+Are regulated and unregulated firms likely to be equally efficient?
+Arguably not.
+In many ways, a regulated firm is just like any other.
+In any large firm the managers have considerable scope for indulging in actions which may not be in the best interests of the owners, or for allowing their subordinates a freer rein than might be in the owners' interests.
+Yet at the same time, managers face constraints on their actions.
+It seems natural to assert that the extent to which managers deviate from owners' interests will depend upon the degree of scope available to them and the degree to which they are constrained.
+Thus the firm's constraint structure can affect its behaviour on pricing and its costs.
+From this viewpoint, we have to modify our analysis of the regulatory system in certain ways.
+In chapter 2, we thought of the firm's costs as parametrically determined (and hence we focused on prices), but they are not.
+Costs are endogenously determined along with many other things within the firm.
+Hence even a specific target, say"price to cover average costs', can be met in many ways, because average costs may be high because the firm is relatively inefficient, or low because it is relatively efficient.
+Cost efficiency is a key factor.
+The message for this chapter is that the questions we are asking about firm structures have to be comparative institutional ones.
+As Spence (1975) says, "the firm, in large part, consists of non-market institutions whose function is to deal with resource allocation in the presence of informational constraints that markets handle poorly or do not handle at all" (p. 164).
+Different institutions may well have different costs and different maximands due to differing efficiencies or other strengths, but there is no absolute standard of efficiency, because of the informational constraints.
+The purpose of this chapter is to examine the comparative institutional questions concerning which types of firm structure may be relatively efficient, and which relatively inefficient.
+I shall do this by considering what mechanisms may be involved in forming the constraint structure on the firm, prior to any regulatory constraints being imposed.
+Thus although it is recognized that regulatory agencies can influence behaviour, it is also  true that the framework on to which they impose constraints is not the same regardless of the underlying institutional structure.
+It will be revealed that there is the potential for both publicly owned and publicly regulated concerns to perform less efficiently than public liability companies in the absence of external constraints.
+Essentially, there are three key features which may differ as between an open or public limited company (plc), a publicly regulated corporation and a publicly owned corporation.
+First, there is the external constraint structure.
+Secondly there is the mechanism which determines top management emoluments, implicit in which is their incentive structure.
+Thirdly, there is the internal relationship between management and employees.
+In each of these cases my method will be to discuss the effects the phenomenon has upon public liability companies, then to make comparison with the other forms in which we are interested.
+Thus the specific control structures to be discussed in chapters 4 to 6 can be put into context.
+The comparative institutional analysis outlined above proceeds as follows.
+In order to keep things manageable, section 3.1 is devoted entirely to explaining the external constraint structure bearing on a plc, while section 3.2 provides the comparisons between plc's and alternative institutions.
+The managerial emolument and incentives discussion in section 3.3 starts in general terms and then moves to questions of alternative institutional structures.
+Section 3.4 provides a rather briefer coverage of internal relationships, whilst section 3.5 contains some concluding remarks.
+An appendix demonstrates the importance of striving to keep costs to efficient levels, a topic relevant to this and to several subsequent chapters.
+3.1 Potential external constraints on a plc's managers
+One school of thought has it that managers of large private corporations are more or less their own masters (Berle and Means, 1932).
+The theoretical owners of the firm, namely the shareholders, are by and large passive and essentially dependent upon management, who know more about the firm than anyone else.
+Hence the chief executive is able to maximize his/her own utility (Williamson, 1963) as long as the shareholders get some basic, probably low, return.
+There is little doubt that there is some truth in this story, but more recently it has been recognized (see for example, Jensen and Meckling, 1976) that modelling the behaviour of the chief executive without thought as to the behaviour of other actors in the firm is naive.
+These others include the shareholders and outside interests such as banks etc., but also inside interests, junior managers and operatives, for example.
+In order properly  to analyse the performance of the firm, we must also take account of these considerations.
+Having examined the position in general terms, the insights will be used in the next section to gain a perspective on the situation in regulated and public concerns.
+To take an example, the observation that shareholders are on the whole behaving passively is consistent with the view that they know little about the firm and consequently leave everything to the manager.
+But then, we might ask, whey entrust money to the manager?
+The shareholders could also be passive because the manager is doing precisely what they require for high returns on that money.
+More sensibly, it is quite possible that the manager is not earning returns as high as shareholders would like, yet that because it is costly for shareholders to gain enough additional information to improve the situation sufficiently to make it worthwhile whilst acting rationally, they appear passive.
+This example illustrates the essential idea of modelling the behaviour of other actors associated with the firm, as well as that of the managers.
+The general framework adopted is a "principal-agent" one, the manager being the agent of principals such as the shareholders.
+There seems no particular reason to ascribe economic rationality to one group and not the other.
+But then we have to consider how each of these other groups or forces impact upon the firm.
+To return to the shareholder example, having raised the point that it is in shareholders' interests to ensure their returns are reasonable, it logically follows that there will be an incentive for them to spend a certain amount of time and money finding out about the firm's activities and performance.
+Presumably, the rational shareholder would do this up to the point at which marginal benefit was equated with marginal cost.
+However, we then have to acknowledge that the marginal benefit to any individual shareholder without a controlling interest is likely to be very small.
+The only real way that a shareholder can exercise an interest is by threatening to depose incumbent management if performance does not improve.
+But in order to do this, it is necessary to have the backing of a majority of the shareholders who would vote on the issue (not necessarily a majority of the shareholders).
+Either other people must simultaneously be gathering information, or the shareholder will have to collect enough information to convince others.
+However there is a free rider problem.
+Because all shareholders will benefit if performance improves (either through Usurping present management or by frightening them into improved performance), why should any rational individual be the one to incur the costs; why not leave it to someone else?
+The presence of this free rider problem does not mean that no resources will be devoted to shareholder monitoring  behaviour, but it does mean that the resources devoted will be sub-optimal from the viewpoint of shareholders as a group.
+So, shareholders cannot be relied upon necessarily to provide much of a constraint on managers.
+Can the firm's bankers?
+Any loan from the bank involves a risk of default, and the bank will be concerned about this even though it has sought security from the firm.
+Even if the security is ample, the bank will not want the time, trouble and loss of goodwill involved in attempting to repossess its loan.
+Hence the bank will want to keep the risk of default low.
+The bank is unconcerned, however, about how good performance could be: all it is interested in is performance being good enough to make the loan fairly secure.
+Hence, although banks provide a constraint, they do not ensure efficiency.
+In fact, if anything, the bank's constraint on managers seems the most like that modelled in Baumol (1959), Williamson (1963) etc. — that is, a minimum profit constraint.
+But this is known to lead to results that differ from profit maximization in general.
+There are other constraints on the firm's capital, however, most importantly perhaps, the takeover constraint.
+The basic idea is fairly simple; that individual shareholders, disappointed with the firm's performance, gradually decide to sell their shares rather than attempt to surmount the free rider problem discussed earlier.
+With this, the market price falls to well below potential value.
+The way is then clear for an astute outside agent to purchase shares, realizing their potential and current values are far apart, and subsequently to make a bid for the remainder, with the eventual aim either of realizing the company's assets, or putting in new management, and hence getting a return on the investment.
+If this constraint is important in reality, that is if sufficient outside individuals or firms are actively considering opportunities, then it would seem the only way to avoid takeover is to employ the company's assets efficiently.
+Yet again, things are not this straightforward.
+The mere signal of takeover intentions normally engenders a rise in the share price, hence a lessening in the advantages of selling out to another party.
+Share values are assumed to reflect the stream of future earnings obtainable from them, but the future is unknown (though shareholders naturally have expectations).
+Hence current management has an incentive to suggest that information they have (presumably private to them or not previously sufficiently appreciated) suggests a rosy future under the present regime.
+The takeover raider suggests the opposite.
+But such activities — advertising and the like — are costly, and the raider may have to improve the offer in order to get sufficient shareholders to agree, which lessens the raider's own return.
+In addition, institutional factors have an impact.
+Obviously if the potential raider can price discriminate, that is catch some shareholders unaware, at a low price, and gradually buy from others at gradually increasing prices, this will be advantageous to the raider.
+However, the Takeover Code in the UK, for example, acts to enforce equal treatment of the shareholdings to be acquired once a critical small percentage of shares has been obtained.
+The final ruling price is paid to all.
+This reduces the advantage to the raider, and so too the likelihood of a takeover.
+Therefore the view that none of the capital market constraints by itself will ensure efficiency is clearly defensible.
+What, then, about the product market?
+Specifically, it seems plausible that if there is extensive competition in the market, relatively inefficient firms will be forced out.
+In monopoly situations, where there is no competition, what has been called "Inefficiency" (Leibenstein, 1966; Crew, Jones-Lee and Rowley, 1971) can be claimed to arise without necessitating exit.
+Of course, we must recall that the textbook model of perfect competition abstracts from important aspects of reality such as imperfect information and costly monitoring by shareholders and others.
+Hence with our present framework perfect competition does not necessarily imply an efficient set of firms.
+Nevertheless, it would seem sensible to say that, given a set of firms in a perfectly competitive market, some of which (perhaps because of a more concentrated distribution of shares) face quite tight constraints on their efficiency, these relatively efficient firms are likely to provide some form of policing function over the others.
+For example, they may force the potentially inefficient firms either to join them in adopting cost-saving innovations which involve some disruption of current working practices, or to go to the wall.
+This policing function is less likely to be present in the case of a monopolist, which does not face direct product market pressure.
+Therefore there may well be something in the view that the product market imposes a constraint, though not in the extreme version that perfect competition is synonymous with efficiency.
+The last major constraint, and the one we will examine in most detail, is peer group pressure on the managers themselves, or the operation of the managerial labour market.
+Managers invest a large amount of human capital in the firms that employ them.
+Hence, arguably, they wish to see a return on that investment.
+This can come from current emoluments or some other source.
+In fact, managers could take it in non-pecuniary terms — in the (1963) Williamsonian manner.
+However, Fama (1980) would argue that this is shortsighted.
+The firm can adjust subsequent managerial salaries to reflect overconsumption of non-salary perquisites, or at least can attempt to do so based on the information available.
+Thus in principle there exist mechanisms for ex post settling up.
+I introduced above the idea of a managerial labour market in the context  of the salary package setting procedure.
+Presumably when the (outside?) directors of the company meet they will discuss the earnings of the top managerial staff, and attempt to keep them in line with the manager's worth (marginal product) to the company.
+However, the concept can be extended to cover the external as well as the internal managerial labour market, and for present purposes this is the more important aspect.
+The alternative for a manager if he does not like what is on offer in his present job is to move to a different one.
+It is here, that another strand of Fama"s argument comes in.
+How is the new firm to assess the manager's likely worth to them?
+There are bound to be factors other than visible qualifications which influence this.
+One signal of worth is current pay, another is perceived performance in the current post.
+Assuming these signals convey useful information, it is not optimal for a manager to "rip off" the current firm hoping to move on to another very shortly, because the second firm will pick up some hint of this behaviour, any subsequent firm a stronger hint, and so on.
+Moreover, the immediate benefits that the manager gains in a firm by lowering his ex post marginal product below the ex ante one are likely to be outweighed by the losses to the firm as a result, if only because this manager is a member of a team whose marginal products are interdependent.
+Therefore, if there is full ex post settling up, the manager is likely to end up worse off than if he had not deviated from the accepted behaviour.
+The managerial labour market thus has both an internal and an external dimension.
+Arguably it provides a very strong constraint on managers to act efficiently, if we may assume they are concerned about their future career path and if they believe that the firm does not systematically assess their performance wrongly.
+Before concluding the development of this framework, we should investigate the relationship between the constraints.
+Specifically, is it necessary for all the constraints to operate effectively in order for the firm's manager(s) to run the firm efficiently?
+Smirlock and Marshall (1983) take the view that each set of constraints excepting the product market is in principle a sufficient condition for efficient performance: "If any of these mechanisms [competition among managers, owners design and monitoring of incentive schemes, capital markets]…were to operate perfectly (and costlessly), then, regardless of the output market environment, profit maximisation would be coincident with utility maximisation by managers (p. 168).
+Thus, an efficient managerial labour market would be enough.
+A rather different view is given by Stiglitz (1985): "There are systematic biases associated with each of the control mechanisms…,(p. 146).
+Specifically, he notes that lenders like banks have an interest in the firm's  undertaking projects that carry little risk of default even if the expected return is low, whilst if it is true that shareholders in general hold diversified portfolios, they would want the firm to go for high expected returns.
+Therefore, banks and shareholders (or, at least the large institutional shareholders plus unit trust holders etc.) do not have the same objectives.
+They would want to constrain the manager in different ways.
+In addition, as Stiglitz points out, the managerial labour market is not necessarily the powerful constraining force many believe it to be; biases exist there also.
+In particular, reward structures are unlikely to be correlated with long-term returns; in fact managerial compensation is likely to be based on performance over a two- or three-year period.
+Yet of course many projects do not come to fruition for very many years, and large important projects lead to adverse short-term cash flows.
+Managers are naturally biased towards projects showing a quick return, if they feel there is unlikely to be ex post settling up over the longer term.
+Thus Stiglitz sees the control problem as a multiple-principal-single- agent problem with each principal having a somewhat different objective.
+There is almost bound to be incentive incompatibility between principals and agent as a consequence.
+No single control mechanism can ensure efficiency.
+Differing constraints in different institutional structures
+I have dwelt on the potential capital market and other outside constraints on the plc in order to provide a standpoint from which to view the constraints operating in those cases which are more our concern.
+Differing constraint structures, we might expect, will make for different performance.
+It is possible to devise a scheme representing (maybe, caricaturing) various institutional structures; an example is given in table 3.1.1 This deliberately covers a broad range of six types of structure, across five different possible constraints, in summary form.
+A plus indicates an important constraint, a minus the constraint's absence.
+The basis is the plc taken as a paradigm in the previous section.
+We have assumed that the product market provides very little by way of constraint in this case in order to bring out the important point that comparisons should be like-with-like.
+To pursue the point, although it is normal for regulated companies and publicly owned companies to face little competition, if they were replaced by some other   structure it is not clear that competition would develop.
+Because of the industries they tend to occupy, partnerships and "non-profits" (e.g. solicitors and building societies, respectively), also often face only limited competition.
+Moving to the capital market constraints, the takeover constraint is more or less unique to public liability companies though even then it cannot impact strongly on the very largest companies.
+Closed shareholding companies (e.g. family owned ones) are obviously not subject to(involuntary) takeovers, neither are most mutuals and non-profits.
+Nor, for practical purposes, are they a constraint for most regulated public companies given their size and their controlled returns.
+Shareholders (assuming we take the partners in a partnership to be shareholders) potentially provide a constraint in some cases; in fact this constraint may be stronger in partnerships and limited companies than in public liability companies.
+The shareholders in non-profit institutions and publicly owned companies in both cases are more or less synonymous with the customers of the firm; they provide no additional constraint apart from this, though in publicly owned companies the relevant government department will impose its own constraints (see chapter 4).
+Indeed, if the state can be thought of as acting as a single shareholder then it will be in a more powerful position vis-a-vis management than are shareholders of most private companies.
+In the case of bankruptcy, partnerships clearly feel more constrained, since their unlimited liability means the owner/managers have more to lose than in any other case; they will tend to be risk-averse.
+Bankruptcy is assumed here to be a most unlikely event in non-profits, regulated companies and publicly owned companies, though this may be influenced by the action of the regulatory agency.
+Finally, we come to the managerial labour market constraint.
+Here, assuming managers move or can move between company types, this constraint potentially bears on all cases.
+Certainly, some movement (in the UK) takes place between publicly owned and public liability companies, and one imagines there is some movement between, say, mutual (i. e. nonprofit) insurance companies and public liability insurance companies.
+Similarly, accountants, say, move between chartered accountancy partnerships and industry.
+Thus in no case can a potential manager's career path be said to lie necessarily within one column of the table.
+Therefore, in performing within an institution in one category the manager may bear in mind his/her marketability in another area.
+It will not have escaped notice that minuses predominate towards the  right hand side of the table.
+Does this imply that inferior performance can be expected in these structures?
+This at least partly depends on the relationship between the constraints.
+If one were to take Smirlock and Marshall's view (1983) that any one constraint is sufficient for efficient company performance, and if managers do perceive that career paths can involve movement between various company types, then an efficient managerial labour market constraint would suffice to promote efficiency in any structural type.
+From a policy point of view, if in any specific area regulated company and public authority company managers were not commonly recruited from outside, this line of argument would suggest that outside applications should be encouraged.
+On the other hand, if one were to take the Stiglitz line (1985), things would not be as clear-cut.
+A plus in the managerial labour market row in table 3.1 is no longer sufficient, but nor is it necessarily true that the more pluses the better; each constraint pushes the manager in a particular way.
+Because of this, it is useful to obtain a different perspective.
+We now come to the reason for including partnerships and non-profits in the table, even though these structures are not really our concern.
+The point is that they provide an institutional contrast to public liability companies which, unlike regulated and publicly owned companies, occur naturally (without governmental interference) in advanced capitalist societies.
+Therefore they shed light on the comparative institutional questions with which we are concerned.
+Specifically- one strong hypothesis is that of Fama and Jensen: Organisations compete for survival, and the form of organisation that survives in an activity is the one that delivers the product demanded by the customers at the lowest price while covering costs' (1983, p. 345)— a Darwinian view.
+Fama and Jensen's view (1983a, b) is that partnerships, even large partnerships, and various forms of non-profit organizations like mutual financial companies, survive as organizational forms because they have particular strengths.
+In general terms, within the particular situations, those structures provide economical ways of performing decision management (initiating decisions and implementing them) and decision control (ratifying decisions and monitoring them).
+In the case of the large professional partnership, Fama and Jensen argue that the shareholders in such a firm have enough knowledge about its activities to be able to protect their interests, without either the need to all be on the board, or to have recourse to external representatives.
+The board  (the managing partners) makes the decisions about who should be admitted to the partnership, who removed, what their share should be and so on, but there is complex mutual control over this group.
+Therefore the strength of the partnership as a form presumably lies in the large amount of shared knowledge about the business arising from the nature of the people employed in it, that is, in the special nature of its shareholders.
+Individual agents may be willing to submit to mutual monitoring because it is likely to reduce fluctuations in the value of their human capital.
+Turning now to financial mutuals, the key feature Fama and Jensen see here is that residual claims are redeemable on demand.
+Therefore, if people do not like the decisions management is taking, they will withdraw their funds, something which is easier in a financial firm than in most others.
+This, arguably, provides a diffuse but important form of decision control over the managers.
+The threat of liquidation by"shareholders' is far more potent than in other forms, and it brings with it the threat that management will have no assets to manage.
+In fact, this specific case is particularly relevant since in insurance two forms of companies coexist (in the UK), mutuals and public liability companies.
+Moreover, the former often outperform the latter; consumer magazines commonly suggest specific mutual companies as providing the best deal and there is some evidence that they are superior in performance more generally (see, for example, Finsinger, 1983).
+Perhaps the combination of shareholder and customer roles in one body is a source of particular strength.
+In summary, whether or not Fama and Jensen's reasoning is right, it cannot be said that more minuses in table 3.1 mean worse performance.
+Returning from our detour, what, if anything, can be said about regulated and publicly owned companies compared with public liability companies?
+First that, in the absence of special strengths, and on the basis of external restraints, we might expect such companies to perform worse than a plc.
+Secondly, if the managerial labour constraint is powerful, performance may not be very much worse.
+Thirdly, since there are additional elements of control which are germane, the question of relative performance cannot be decided on a priori grounds.
+It may, for example, vary from country to country (see Perotin and Estrin, 1986).
+One possible special factor is that in small local communities, monitoring of performance by consumers/voters may take on an important role.
+It need not take much effort to write to the local paper, or phone a councillor, with a complaint, and the effects will impact upon management.
+The direction in which management will be pushed need not be a more efficient one (for example, more money might be allocated to controlling conspicuous waste than is justified economically), but the potency of the control is fairly obvious.
+In addition to the external controls, factors internal to the firm also matter, both to the firm's overall efficiency and, therefore, also to its ability to survive.
+External bodies may be able to keep management from moving in undesirable directions, but can they also ensure that detailed internal decisions and management procedures run smoothly?
+Again, there are general comparative institutional differences which can be identified.
+Let us turn to this question.
+3.3 The firm's internal relationships: managerial emoluments
+Shareholders, banks and so on do not necessarily tightly constrain managers essentially because they lack enough information to do so, and this is either a result of some problem in the market for information (e.
+g. the public good problem amongst shareholders) or because the information is inherently difficult to obtain.
+Similar problems arise in decisions about how and what to pay managers, and how and what to pay employees.
+One of the major factors creating difficulties in obtaining information is randomness in the external environment facing the firm.
+Such uncertainty also means that risk characteristics of the actors under consideration become important.
+We now turn to examining the interlinkages between uncertainty, information and effort.
+People are normally considered to be risk-averse over amounts of the order of magnitude of their incomes.
+For example, virtually all university lecturers, if asked to choose concerning next year's pay between two deals, the first being this year's pay (adjusted for inflation) and the second a 50 per cent random chance of nothing and 50 per cent chance of double this year's (inflation-adjusted) pay, would opt for the former.
+Such people have a concave utility of income function, i.e.  Amongst them there will be people who are more or less risk-averse at any given income.
+One convenient way to represent this is by using the Pratt-Arrow concept of absolute risk aversion, .
+The larger this magnitude, the more risk-averse the person.
+Thus in figure 3.1 two individuals, A and B, are represented by utility of income functions between £0 and £1000.
+At the £500 certain income level, they are constructed to have the same slope (and the same slope as has the curve labelled C, which would be appropriate for a risk-neutral person).
+However, A displays more curvature than B at that point, and hence more risk aversion.
+We may also consider the value to A and to B of a bet, say for a simple  example a 50 per cent chance of £0 and a 50 per cent chance of £1000.
+The expected value of any bet such as this is given by the appropriate point on line C, and reading across from point X to curve A reveals that this gamble is only worth £210 with certainty to A, and £400 likewise to B. Thus suppose A were to win a lottery ticket carrying a 50 per cent chance of £1000 it could be sold to B for, say, £300 and both would feel better off (before the final outcome had been revealed).
+This brings us to the concept of risk-sharing.
+It seems clear that, because they probably do not have as much of their total assets dependent upon the fortunes of a specific firm, the firm's shareholders are less risk-averse than the manager.
+In particular, the manager has a large amount of human capital invested in the firm which is difficult to hedge against so that he will be concerned about the possibility of very low earnings.
+Suppose the firm's income consists of a 50 per cent chance of £2000 and a 50 per cent chance of nothing.
+The owners consider offering the manager (suppose like A in figure 3.1), an income of £0 if the firm does badly, £1000 if it does well, "contract 1" , pocketing the rest themselves.
+The actual business of managing involves no loss of utility (we assume for simplicity), though the owner cannot do it.
+But the manager would rather be offered £21l every year, "contract 2" , whatever the outcome rather than contract 1.
+This   would mean the owner getting either — £211 or £1789, depending on the state of the world, a mean expectation of £789.
+Assume the owner is of type B. We have extended B's utility function and drawn in the line joining — £211 and £1789 to get the expected income.
+Reading across from £789, we find B would value this at about the equivalent of £410, whilst the alternative certainty equivalent under contract 1 is £400, as we saw previously (because the owner gets £0 or £1000 under contract 1).
+Hence the owner also would find it worthwhile acceding to contract 2 rather than contract 1.
+Now it will not always be the case that it is optimal for the less risk-averse party to take on all the risk.
+Different curvatures would give different results in the sense that it would often be optimal for the more risk-averse to have some small part of the risk.
+In fact, in the case drawn, there are contracts involving some sharing which are superior.
+For example, both would appear to be better served by a contract which gave A £100 or £500, hence B — £100 or £1500 (this has not been drawn in, to avoid obscuring the main points of the figure).
+However, it will certainly be true that it is optimal for a risk-neutral party to take all risk from a risk-averse party (try A or B bargaining with C) and it would seem sensible that a more risk-averse party should optimally take on less of the risk than a less risk-averse one.
+Therefore, it seems shareholders should absorb the risks of an enterprise in preference to management doing so.
+At this stage we must introduce another complication.
+The model we used above was very simple in that the manager, in effect, had only to toss the coin to determine the outcome.
+But of course managers manage; they take decisions and control factors of production.
+Moreover, it is difficult for anyone but the manager to have available all the information he or she has taken into account at the point of decision, and hence it is difficult to monitor the manager.
+The randomness of the environment has an important influence.
+To see the impact of this, let Us consider two examples.
+In the first, suppose the firm is undertaking a particular project.
+There is a 0.5 probability of success for the project available naturally.
+However, by making further efforts to improve certain facets of the project, the manager could increase this probability to 0.7.
+Unfortunately for the shareholders, the manager's effort is unobservable; all they see is whether the project succeeds or fails.
+Therefore, assuming the manager gets paid the same whether the project is a success of not, that manager has an incentive not to try very hard.
+This problem is sometimes called moral hazard, by analogy with insurance where the phenomenon is well known.
+If you insure all the property in your flat against theft, fire etc. you have less of an incentive to make the place thief-proof and to check over it carefully before  going out or going to bed than if you were not insured.
+It can be very difficult for the insurance company, after the event, to ascertain what precautions were taken so that, in many cases, they will pay out however you behaved."
+Arrow (1984) calls the general phenomenon hidden action, since what is not observed by the principal in general is the action of the agent, be it effort or whatever.
+In the second example, suppose a specific project is under consideration and the manager, but no one else, knows there is a 0.7 probability it will yield a return of 20 per cent on the investment, with a 0.3 probability that it will yield nothing.
+If the firm's decision criterion is to go ahead if the expected return is 10 per cent, then it should go ahead.
+Another project, a pet project of the manager, has a 0.45 probability of yielding 20 per cent and a 0.55 chance of yielding nothing.
+The company should decide against this one.
+Clearly then, if the company is to choose one it should opt for the first.
+Suppose the manager instead goes ahead on the second.
+if it turns out well, the result is better for him than if the first option was followed.
+If it turns out badly, he might argue (contrary to the facts) that this was against the odds.
+The board of directors is unlikely to be in as good a position as the manager to judge on this.
+This phenomenon also arises in the field of insurance where it is known as adverse selection.
+On average, the people who are most likely to opt for health insurance are those who know themselves to be relatively unhealthy.
+More generally, Arrow (1984) calls it hidden information or hidden knowledge — the principal does not know all that the agent knows.
+Faced with these potential problems, what can be done?
+The insurance company can check ex post in some cases (after a theft) or it can screen prior to accepting risk (health insurance).
+Both are costly.
+Alternatively, it can refuse to accept the whole risk — this is common in car insurance and it happens in practice after thefts in which a considerable mess is created.
+Shareholders can likewise impose some or all of these constraints on the manager.
+A manager's pay often is not a fixed salary but contains a bonus element dependent upon performance (profitability etc.).
+The "package" may also involve stock options — rights to buy shares at a specific value exercisable at a future date, the idea being that if the firm does well the shares will be worth far more than the exercise price.
+In this case, the shareholders are passing off some risk on to the manager.
+Alternatively, or in addition, the manager's performance may be assessed against some criteria after a reasonable period has elapsed.
+It is one thing to say that individual projects failed"against the odds'; it is more suspicious if they are always doing so.
+To put this another way, the larger the sample of observations, the smaller the variance and hence the more accurately inferences can be drawn.6 And of course, firms indulge in screening prior to taking managers on, though relying upon references is probably rather a weak screen.
+Returning to our earlier theme, we notice there is a tradeoff for shareholders' representatives in employing a manager.
+Managers are relatively risk-averse when compared with them, so on this count (intuitively), risk should lie mainly with shareholders.
+When it does, however, there are relatively poor incentives for managers to perform well.
+One straightforward way of providing incentives is to push some of the risk of poor performance on to managers.
+Notice that what is being passed on is partly pure risk — the chance that, despite the manager's very best endeavours, things will go badly for the firm.
+The manager is master only of his actions, not the outcomes of those actions.
+Therefore there is a real tradeoff involved, between the need for any bonus to he relatively generous when compared with a flat salary, and the need for there to be some bonus element.
+How should, and how do, managerial "emoluments" differ between public liability companies, regulated companies and publicly owned companies?
+The scheme for managerial pay set out above essentially refers to the pay framework for a manager in a plc, but my aim is to provide a comparative analysis.
+In practice, managers of regulated companies, in the UK, have emoluments packages which appear similar to those enjoyed by purely private sector companies.
+Hence, I shall focus on pay in public concerns.
+Managers in public industries are often paid quite differently from those in private industry.
+There is a far greater emphasis on basic salary than on bonus; indeed, in the UK until recently all managers of the major nationalized industries were paid the same (low, by private industry standards) salary — see also chapter 4.
+Perquisites are probably at a relatively low level, with the exception of the pension.
+Stock option schemes are not available either.
+Finally, the contract is often a fixed period one.
+On the other hand, we might somewhat irreverently say that ex post settling  up — in the form of a higher probability of honours (knighthoods etc.) than in private industry — provides some compensation.
+Concerning the question of how emoluments should differ, the first point to make is that the reward structure in public industries should not ape that in the private sector.
+There are at least two reasons for this.
+First, the state arguably has the most widely diversified portfolio of any shareholder.8 Hence the state, if anything can, should be classed as risk-neutral.
+Consequently (Demski, 1976 and other authors) it is inefficient for it to force on to the manager any general risk if this can be avoided, though the manager should still have some reward/penalty dependent upon his or her actions.
+If the actions cannot be independently observed at all though, this might force the optimal contract to contain some element based on general risk, in order to provide incentives to efficiency.
+It is often possible, however (as in the insurance company examples), to get some independent evidence of effort or actions.
+This might be direct (inquiries into "what went wrong" which include examination of internal memoranda by the principal — it is easiest to think of the military example of courts martial) or indirect (examination of a run of decisions to assess their quality).
+This evidence can then be used to modify the contract or allow it to terminate and not to offer renewal.
+Here, the fixed period contract is very useful, if proper evaluation procedures are devised.
+The second, perhaps more important, issue takes us back to points discussed in chapters 1 and 2, and it is relevant to the work reported in chapter.
+Monopoly power can often be exercised.
+Therefore, financial performance criteria are relatively easily met by raising prices sufficiently above costs, if allowed, or permitting service to deteriorate in order to make cost savings.
+These outcomes are most undesirable, just as they are in a purely private company.
+Indeed, imposing performance-based emoluments of this sort flies in the face of one major reason for regulation or public ownership in the first place.
+This implies that bonuses or other discretionary awards should be based as far as possible on efficiency criteria — for example, the percentage by which constant service level costs have been reduced, and other productivity measures.
+Of course there are dangers here; we get into the problem that directives impose rigidity.
+If a manager is told to increase some measure of productivity, the manager will tend to distort things in just that direction.
+We all know the well-worn apocryphal stories of Soviet nail manufacturers told to maximize tons of nails produced per man and making them all large in order to do this most easily.
+Yet as we shall see in chapters  4 and 5, there has been considerable theoretical work (e. g. by Finsinger and Vogelsang, 1981) on socially efficient bonus structures, relating pay to social surplus created.
+Where management rewards in publicly owned concerns are institutionally determined, we should expect such concerns to perform less well than privately owned firms in which salaries relate to performance.
+There is another point here.
+I argued earlier that the external managerial labour market is a potentially important constraint on managerial performance in the public (and regulated) sectors.
+It cannot be so if the managers are drawn from a different pool, which can happen if emoluments in the private sector drift too far away from those in the public sector.
+But a manager who meets targets, whether or not they are financial, is increasing his or her future prospects, so the constraints of the managerial labour market can be brought to bear.
+3.4 Relationships between management and employees
+The standard way to think of the manager-employee relationship is again as principal and agent respectively though as we will see shortly, the relationship can be reversed.
+In these relationships, both parties are likely to be risk-averse, perhaps employees more so than the manager as they may have a greater proportion of human and other capital tied up in firm-specific assets.
+There are two facets to the manager/principal–employee/agent relationship.
+The first is the normal one that both manager and employees are effort- as well as risk-averse.
+The manager will want to monitor employees (because his pay or worth depends on it) in an efficient way, creating incentives for operatives to supply effort by means of specific elements in the pay scheme.
+Risk will be shared in the optimal contract.
+Again it should be emphasized that the incentives need not be based upon financial performance but might be linked to other proxies of effort; productivity measures and the like.
+Thus both management and employees would be covered by some sort of bonus scheme, maybe related to different indicators of performance.
+The other facet of the relationship is the ability to control subordinates.
+Most large firms, almost inevitably, have a number of levels in the hierarchy.
+This can make it difficult for management to exercise control because orders tend to become more distorted as they pass through more layers; 90 per cent compliance at each stage in the hierarchy implies less than 50 per cent compliance from one end to the other over seven stages (see Williamson, 1975, ch. 3).
+The diffusion of one innovation in particular, originating in the United States between the two world wars, appears to have assisted in ameliorating this problem.
+The innovation has been to abandon the unitary form of organization in favour of the multidivisional (or "M" ) form.
+Briefly, this involves recasting the company into a number of operating divisions which take day-to-day decisions concerning particular product ranges.
+Strategic decisions are kept separate, and are decided by the chief executive assisted by a small general office staff.
+Williamson (1975, ch. 8) covers this in more detail.
+Evidence for the United States and the UK on the hypothesis that efficiency is thereby improved appears fairly clear-cut (see Thompson, 1983 and references cited therein).
+How will these factors differ as between the organizational forms we are examining?
+In principle, the first — incentives should not be much affected; incentives can be made to exist in both cases.
+Nevertheless, it is possible that if in the manager-owner contract nexus the manager bears little risk, this may spill over into a lack of control over employees.
+Moreover, if in practice the employees under some organizational forms are more powerful than those under other regimes (e. g. unions have more representation in nationalized firms), then this may well lead to above normal earnings/employment conditions, and so higher costs (see McDonald and Solow, 1981).
+The second factor, the intra-organizational control problem, may differ between regimes because many publicly owned and regulated firms are not easily divisionally organized since the firm essentially operates in only one area, with others a rather small part of activities."
+— But some successfully divisionalized private companies also operate mainly in one product area.
+Let us turn to a different aspect of the manager-employee relationship.
+The employees can be viewed as a principal to the manager as agent.
+This may, to some, seem novel, but in fact there are extensive symmetries with shareholders.
+Shareholders invest their capital in the firm, whilst employees invest their human capital.
+If the firm does badly they can leave, but this will necessitate a loss of human capital assuming they have accumulated some firm-specific skills.
+If the firm does very badly, they may be forced to leave, and again lose out.
+Employees are members of the company (see Aoki, 1983) and have something at stake.
+So, from their viewpoint, management's job is to use the factors at its disposal to provide returns to the shareholders, but also to provide returns  to employees.
+The employees use the manager as an agent in gaining employment opportunities, signing an "implicit contract" with the manager."
+Implicit contract theory suggests that if the agent is risk neutral, he or she takes all the risk.
+Employees are therefore paid a fixed wage whatever the state of the world, boom or slump, and, at least in some models, compensated for being laid off, up to the point that they are indifferent between working and not.
+On the other hand, if both agent and employees are risk-averse, there is risk-sharing: employees' wages vary, being greater in good times.
+Consider the position of a risk-averse agent.
+The agent may be better off claiming times are bad when they are not, if wages are thereby greatly reduced compared to employment and output, so raising the firm's net earnings and the agent's earnings.
+Moreover, the agent is in a better position to know this than, at least, production workers.
+Hence there is an adverse selection (or hidden knowledge) problem.
+How can the employees trust their agent to report fairly the state of nature?
+As a result, some otherwise non-optimal elements may have to be built into the contractual structure, some incentive compatibility constraints.
+With the risk-neutral agent this problem disappears.
+There is no point in making the claim because there are no savings in wages given the nature of the contract we have discussed.
+Most probably it is in publicly owned concerns that the agent is more nearly risk-neutral, given what has gone before.
+Hence in such firms this particular problem is less likely to be relevant.
+3.5 Concluding remarks
+It is fairly clear from the discussion above that there is a potential for both publicly owned and publicly regulated concerns to perform less efficiently than public liability companies.
+This is so because the former quite possibly face weaker external constraints and because management may not encounter such sophisticated incentive structures.
+There are possible offsetting arguments concerning internal structure, but these are in any case not unambiguous in their directional effect.
+Nevertheless, it is only a potential.
+More importantly, there are constraints specific to the public sector and to regulated firms, as discussed in the next two chapters, which may improve their efficiency.
+Therefore we cannot make the a priori assertion that private ownership and unfettered operation is always more efficient.
+Indeed it would  be surprising were we able to do so, since there are some fairly clear empirical examples of industries where publicly owned concerns have been of superior or equal efficiency to private ones, as we shall see in chapter 7.
+It is not clear how market structure influences the comparison between institutions.
+One argument (see Caves and Christensen, 1980) is that in competitive industries, all concerns have to be of roughly equal efficiency, whereas in the absence of competition, publicly owned concerns will be inferior.
+In opposition to this, Kay and Silberston (1984) argue that competition would not necessarily lead to equal efficiency, since publicly owned concerns have the deep purse of public funds on which to draw.
+In addition they argue that the absence of external yardsticks under monopoly means that no clear tendency is likely here.
+Again, this seems an empirical question, and it is raised again in chapter 7.
+Finally, throughout this chapter we have focused on constraints.
+Constraints are not sufficient, though.
+In the textbook theory of the firm, the cost function is drawn assuming both technical and economic efficiency.
+But this simply shows the best way of producing any particular output at given factor prices; it does not say what output to produce.
+In order to do that, the firm has to be endowed with an objective, in the textbook firm case, profit maximization.
+Thus it is not enough, upon asking the chairman of a state-owned or regulated firm what his objective is, to receive the answer"To run an efficient business'.
+The supplementary is, "How do you decide how large that business should be?" .
+This brings us straight back to the earlier output comparisons in chapter 2.
+Left to itself, such a concern may adopt a senseless or ambiguous objective (like, reportedly, London Transport Executive's one-time objective of maximizing passenger miles travelled).
+Those in charge need to impose some objective, explicitly or implicitly (for example, by imposing a breakeven constraint) in order for the size of the business to be determined.
+Notes on the literature
+The principal-agent approach to the analysis of firm behaviour is laid out in Strong and Waterson (1987), and the basic theoretical results of agency theory are discussed in Arrow (1984) and Shavell (1979).
+See also Stiglitz (1985) on this question.
+Kay and Thompson (1986) apply the analysis to state ownership and privatization.
+Although it is difficult to get hold of, Lambert and Larcker (1985) is a useful source on executive compensation.
+McGuinness (1987) contains a useful brief analysis of internal organizational questions, from which other sources can be referenced if required 
+Appendix: The Effect of Cost Reductions on Welfare
+In section 1.4, we considered an example that illustrated the large potential welfare improvements which price reductions can create.
+Thus one important target for a regulatory agency is to bring prices closely into line with costs.
+But costs are not exogenously given, and more efficient firms will have lower costs, other things being equal.
+Moreover, the analysis of this chapter suggests that efficiency is likely to differ under different regulatory regimes.
+Hence another important target for the agency (or equally for profit recipients) is to keep the firm's costs under control.
+In itself, this can have a socially beneficial effect on price (though it need not).
+As a consequence, it may be that efforts to secure cost reductions actually produce greater benefits than direct price reductions of equivalent size.
+Before demonstrating this point directly, we should consider how cost reductions can arise, because different possibilities have different welfare effects.
+First, let us assume fixed proportions in production.
+Reductions in factor prices do not then engender changing factor proportions, but of course they do reduce costs.
+For example, suppose that airline pilots are paid far more than their transfer earnings, but that it always takes three pilots (pilot equivalents) to fly a plane.
+Reducing their earnings lowers the airline's cost curves and therefore will most likely cause the airline to reduce its prices.
+A simple example of a monopoly airline is shown in figure 3.2, in which constant average costs are assumed for simplicity.
+We assume price is reduced from p, top as a result of a cost reduction from  Consumers have gained consumer surplus through this price reduction, part of which (FEJN) is a transfer from firm to consumers, the other part being the area labelled FNK.
+Profits also have increased, from EFGH to JKLM.
+But part of this increase is a transfer from pilots to the firm, as a result of the lower costs, namely the cross-hatched area HGQM.
+This obviously cannot be counted as a social welfare gain (or loss).
+In fact, adding up the various amounts, the social welfare gain is the shaded area FQLK in total.
+On the other hand, a reduction in costs can come about through elimination of waste.
+For example, an input may be priced at above marginal cost in a situation where there are variable proportions in production.
+With other inputs being priced at marginal cost, this will lead the purchaser to economize on the input in question, compared with its true resource cost, using more of the relatively cheap inputs.
+But in fact it would be beneficial to all parties for the supplier to receive a lump sum in exchange for the input being priced at marginal cost, because this would lead to optimal   proportions being used (Vernon and Graham, 1971 have a demonstration).
+A more straightforward example is where a technically inefficient process is being used.
+In these cases, the reduction in the firm's cost is wholly (or, in the variable proportions example, partially) a social gain.
+In figure 3.2, suppose the move from AC, to AC2 is represented by increased technical efficiency.
+Then the cross-hatched area can now be counted as a welfare gain.
+The difference between total welfare gain in this and the previous case is quite significant, and it illustrates the importance of being clear about the underlying factors.
+Now, let us consider the options open to a regulatory agency.
+Suppose it can secure either an x per cent price reduction or an x per cent cost reduction at equal cost to itself; for which should it aim?
+Assume for simplicity that the firm was previously unregulated, charging monopoly price, and further that demand has approximately constant elasticity in the relevant region.
+We have the normal monopoly formula: where C represents a particular value for marginal and average costs and"I the absolute value of demand elasticity, invariant with i.
+From (3.2), for any two cost levels c, and c2: In other words, a proportionate cost reduction of  will lead to the same proportionate reduction in price, and so an x per cent cost reduction leads to an x per cent price reduction and therefore to the social benefits of that x per cent price reduction (which are area FGRK).
+But in addition, if the cost reduction succeeds in eliminating pure waste, the extra gain is area HRLM, and even if the cost reduction involves a pure transfer, there is still a small gain of GRLQ.
+Therefore, since the cost reduction has the same effect as the price reduction but has other effects in addition, it is more worthwhile to strive after, if it is equally easy to obtain."
+Of course, it may be the case that monitoring of costs compared to an ideal is in practice very much more difficult than monitoring prices relating to costs.
+Finally, if different underlying forms of firm differ in efficiency and so in cost, this is obviously of some importance.
+The analysis above indicates that getting the underlying structure right (i.e. having an efficient firm organization) is at least as important as having control over the firm's prices directly.
+Indeed, holding prices down to an inefficient level of costs may be inferior in its effects to a form of control in which prices are high but costs are low.
+This therefore provides a rationale for examining whether and why firm organizations might differ in efficiency, through examining constraints on the organization.
+State Control and its Enforcement
+Earlier chapters have developed the underlying theory of pricing, efficient industry structure and internal efficiency of the firm.
+The next stage is to examine in some detail specific institutional cases of types of control.
+Let us start with the case that probably involves the heaviest hand on the controls, that is, state ownership.
+In essence, the objective of a state-controlled natural monopoly could be seen as the maximization of social welfare emanating from the product in question.
+This social welfare might plausibly, in turn, be identified with the sum of consumer, producer and factor returns.
+If so, and since any rise in factor prices above alternative use values or any rise in price above marginal cost causes a potential deadweight loss, the most obvious solution is for a price fixed at the level of marginal cost.
+(An equally acceptable alternative, on the stated criterion, would be perfect price discrimination practised on all consumers down to those willing to pay marginal cost.)
+Putting it algebraically, the management's problem is: where W is social benefit as defined above and for simplicity we have assumed two inputs only, say labour and capital.
+The constraints ensure that the demand cure p(y) is correctly identified, that the firm is producing on its production function y=y (x 1 , x 2 )and that factors are priced at their alternative use values w c  and r c  .
+Thus the solution involves technical and economic efficiency in production (being on an isoquant and that the correct point on it), sales or management efficiency in identifying the correct demand curve, and allocative efficiency in choosing the correct output, , that where price equals marginal cost.
+Since this involves choosing the correct input levels from the desired isoquant, the maximization problem is written with labour and capital as the control variables.
+It goes without saying that stating the problem is not the same thing as solving it in practice!
+Equation (4.1) involves an objective (social welfare maximization in the sense outlined) and several constraints.
+In the very different world of perfect competition, the constraints are assumed satisfied given competition between firms as to who is to produce, price-taking behaviour and, lastly, the indirect result that the individual profit maximizing behaviour which would be expected from self-seeking entrepreneurs leads to social welfare maximization the "invisible hand" result.
+Here, it is a different matter; neither the objective nor the constraints arise automatically.
+It is only in the unlikely circumstance that the product market is perfectly contestable and that the factor markets are perfectly competitive, that we can be confident of extending the compass of the invisible hand result.
+All the foregoing holds true if the state does not own the business in question but simply takes responsibility for its social return.
+Here the business is regulated.
+In that case also, the state in principle sets management an objective and imposes constraints so as to achieve the result.
+However, it may be that management has its own objective, or is forced into one by its shareholders, so that the state may find it needs to impose additional constraints to mould that objective to its own desires.
+Of course, we have been discussing the problem in a very abstract manner, in both the state-owned and the state-regulated cases.
+In practice, the state or its regulatory authority is unlikely to know as much as those in the firm about the demand curve, the production function or, even, the competitive level of factor prices.
+Therefore, in order to maintain control it cannot specify the production function and so on explicitly as a constraint.
+It must tackle the problem indirectly, imposing controls which (if they are designed correctly) have an effect equivalent to the constraints in (4.
+I).
+Because there are differences in objectives between state-owned and state-regulated concerns, and also because the actual objectives and constraints have evolved in different ways, the two cases will be discussed in separate chapters.
+We will confine ourselves here to the state-owned case, leaving regulation to chapter 5.
+The framework of the chapter is as follows.
+We first provide a positive rationale for considering state ownership, by examining its advantages.
+Then in section 4.2 we consider the question of how prices should be set, focusing first upon the historically important marginal cost doctrine.
+Section 4.3 examines economists' models of constraints and objectives as practised in state-owned firms, whereas section 4.4 looks at the controls imposed  in the UK and provides some general remarks on comparisons between these and the economists' suggestions.
+4.1 Reasons for state ownership
+As we saw in chapter 3, there are fewer "natural" controls on state-owned than on state-regulated concerns.
+Therefore, all other things being equal, it would appear that more, or more extensive, controls would have to be placed on state-owned concerns than on regulated ones.
+However, there are reasons why the state may prefer to own rather than merely to regulate.
+The most obvious political reason for state ownership is to ensure social ownership of production, in the particular sense of "for the people" .
+Equally obviously this constitutes no reason at all if one does not hold this particular feature in high regard.
+Nevertheless, there are other political and economic arguments for it.
+One frequent argument for state control is that it facilitates economic planning of key sectors of the economy.
+To take a possible example, state ownership of coal, oil exploration, and gas and electricity industries may facilitate the planning of the energy sector.
+Other industries can also be influenced, and their arrangements facilitated.
+For example, the location of an aluminium smelter adjacent to a power station which is in turn adjacent to a coal mine (and a source of cooling water) seems logical but might be very much more difficult to arrange with three completely independent parties to the bargain than if the government and the smelter company alone are involved.
+However, the link between planning and state ownership should not be overstated: all companies of any size plan.
+(Thus, incidentally, planning cannot be equated with socialism.)
+Therefore planning and the market mechanism are not alternative but are complementary.
+A government can influence private company plans in a variety of ways, and thus achieve objectives which are essentially the same as those that could be reached by ownership.
+The activities of the Japanese ministry of International Trade and Industry (MITI) provide an important counter-example to the proposition that planning requires extensive state ownership.
+A third argument for state control is that it facilitates income redistributional measures.
+In particular, it may be considered desirable to have universal access to basic utilities and essential services.
+The standard economist's viewpoint on this is one of suspicion leave the firms and consumers to themselves and make any necessary corrections to income distribution through appropriate transfers.
+As has already been pointed out in section I .2, practical redistributional measures are not costless, so that it is in all probability more efficient to tell the telephone company it has to bear the  expense of maintaining rural telephone boxes than to fund these separately.
+Equally, it may be socially desirable to enforce partial abatement of the fixed charge element for small users of electricity or gas rather than having to identify a more specific form of assistance.
+Indeed, multiproduct companies will normally have a variety of means open to them for breaking even on their operation, some of which may be approximately equally efficient, so that governmental intervention to choose one amongst them, something facilitated by state ownership, is not necessarily inefficient.
+In addition, if the industry concerned creates externalities, these may be dealt with more directly if it is state-owned.
+Leading on from this, a more general point is that where the objective of the operation is rather broader than profit maximization, shareholder control is probably far less appropriate than state control (see, for example, Baumol, 1984).
+Finally, there is the distributional argument that in a state-owned firm there is less clearly an adversarial "us against them" contest between management and employees, because the profits (if there are any) do not accrue specifically to owners of capital.
+In sum, this brief discussion has demonstrated that there are positive reasons for state ownership and control; it is not self-evidently an inferior alternative to state regulation.
+Having made this point, we can move on to examine the objectives and constraints associated with such enterprises.
+4.2 Marginal cost pricing and other objectives
+Most of the literature in the area of state control has assumed that marginal cost pricing (with marginal cost at efficient levels) is the objective.
+There are two qualifications made to this view.
+First, there has been extensive discussion as to what is or should be meant by "marginal cost" .
+In particular, there is the question of short- versus long-run marginal cost, and of marginal cost differing over (say) times of day.
+Secondly, as is well known, if average cost is still falling at the relevant output, marginal cost pricing leads to deficits.
+The question then arises as to how these should be funded.
+We will consider these questions below before moving on to controls in sections 4.3 and 4.4.
+First, we may note that the rationale for marginal cost pricing in public enterprises is based upon a Paretian decision-maker operating in an otherwise first-best economy.
+If all sectors other than the state sector are competitive, the prices in that sector should equal marginal cost.
+Of course this qualification is unlikely to hold, and indeed it is also unlikely that prices differing from marginal costs in various other sectors are easily correctable.
+The general theory of the second best then provides the unhelpful result that it is not necessarily better to move prices in those sectors which  can easily be adjusted, so as to align more closely with marginal cost.
+Nevertheless, it may also be shown that, if the state sector is independent of the other sectors in consumption and production, then marginal cost pricing should still be pursued.
+More generally, optimal prices should be based upon marginal cost and also on demand factors (see e.g. Hagen, 1979), but the relevant formulae for optimal departures from marginal cost are rather complex.
+We will make the (questionable?) assumption that in most other areas prices do not deviate too far from marginal cost, in which case marginal cost in this sector is a relevant ideal.
+Furthermore, we will assume that the sector to which we are referring accounts for a sufficiently small part of consumer expenditure that income effects are unimportant.
+The benefit of this assumption (Willig, 1976) is that we may use consumer surplus, the area under the demand curve, as a measure of social benefit."
+Any policy that improves (reduces) consumer plus producer surplus then improves (reduces) social welfare.
+In other words, we may continue with a partial equilibrium framework.
+Having made assumptions sufficient to ensure that marginal cost is a desirable objective, we have the question of "which" marginal cost is relevant.
+Here, though there has been an extensive debate on the practice concerning long run versus short run, economic theory is essentially clear cut.
+There are two aspects to the firm's decision-making: what price to set now, with given resources, and what price to plan for, in deciding upon investments.
+The answer can be encompassed within the single principle that the relevant marginal cost is that concerned with varying output in the relevant period.
+Supposing, for simplicity, we are concerned only with two years, price this year should be determined by short-run marginal cost (a view not endorsed by the 1967 White Paper — see section 4.4), but investment plans for next year should be evaluated (using net present value methods) based upon long-run marginal costs.
+Figure 4.1 illustrates the principle.
+Assume that the relevant long-run marginal cost curve remains at LMC throughout.
+Planned output for this period was , but in practice demand turned out to be given by D 1 .
+The resulting price and output combination for this period (1) is  — price is set equal to short-run marginal cost SMC, and, it turns out in figure 4.1, is less than long-run marginal cost.
+In making decisions about year 2, it is conjectured that demand will have risen to .
+Hence investment plans should be based upon an output of  selling at .
+If demand turns out higher in period 2 (e.g. at ), then the actual price would be   above , at the point where  meets  (not drawn, to avoid cluttering the figure).
+The principle may also be extended to cover cases such as the peak load problem where, because plant is reaching its capacity, marginal costs rise very sharply once a given output has been reached.
+The short-run decision of a firm running such a plant (e.g. an electricity generating station) is illustrated in figure 4.2.
+Daytime demand is at level DD whilst night-time demand is at level .
+As the figure is drawn, the price  charged during the day includes some element of these capacity costs, whereas night-time price only covers running costs.
+Such a marginal cost pricing policy would fail to cover total costs if, on average, the prices were below average costs.
+This is inevitable with a declining-cost technology and correctly anticipated outcomes.
+There are two obvious solutions.
+First, any deficit could be underwritten from public funds.
+Alternatively, the prices could be adjusted somehow so that they met total costs.
+If it were decided to impose a breakeven constraint, and assuming that there is more than one product price involved, the target may be achieved in many ways.
+Confining ourselves for the moment to pricing structures   involving a constant per unit price, we found in section 2.2 that the socially optimal solution is not to raise all prices an equal proportion above average costs, but rather to practice Ramsey-optimal (value-based) pricing.
+Here, in straightforward applications, no price is below its relevant marginal cost and the discrepancy between price and marginal cost is larger, the less elastic is demand for that product (Phillips, 1980).
+However, there is no particular reason to confine ourselves to constant per unit prices, and we should also consider non linear outlay schedules, in which charges are not strictly proportional to the number of units purchased.
+One example we have already mentioned is perfect price discrimination, in which every consumer pays the maximum they are willing to pay as represented by their position on the market demand curve.
+But this is essentially of theoretical interest only, and there are far more practical examples.
+A commonly proposed and reasonably workable alternative to constant per unit prices is the two-part tariff structure.
+This involves a per unit price below average cost, plus a lump sum fee for the right to consume, which is of sufficient size to ensure at least breakeven.
+Such tariff structures are widely used (consider, for example, telephone charges) and can in principle lead to outcomes superior to straightforward average cost pricing.
+To illustrate, let us revert to the one-product firm, and consider the case represented by figure 4.3.
+Suppose first that average cost pricing is practised — price is  and quantity .
+Suppose further that at this price every consumer buys x units.
+Now, the unit price is dropped to  and a lump sum fee of  is charged to everyone who buys the good.
+No consumer is worse off, because buying x units results in the same total outlay.
+However, the marginal price of extra units falls to , so that some consumers will buy more than x and will gain consumer surplus if their marginal valuation lies between  and .
+Hence, total sales increase to y 2 , consumers as a group are better off and, since we have , so is the firm.
+Unfortunately, the situation just described where each consumer takes x units is unlikely.
+If the good is a normal one, for example, consumers on higher incomes will buy more units than those on low incomes, all other things equal.
+It remains true (as Ng and Weisser, 1974, show) that a two-part tariff with a non-negative licence fee is socially preferable to a uniform price system in the sense that the welfare of the group is improved.
+However, some consumers, and these will be the poorer ones, will be worse  off under the two-part tariff regime because they consume fewer than x units under average cost pricing, so charging a lump sum fee  makes them pay a higher effective price for their units or forces them to consume fewer or even to drop out entirely.
+These distributional consequences are not easily corrected.
+Willig (1978) has proposed an alternative scheme which can make everyone at least as well off as under the average cost regime.
+This involves an optional two-part tariff.
+Consumers can either pay  per unit or a lump sum  plus  per unit, n being the number of consumers (with ).
+Those who would buy more than  logically opt for the two-part tariff and thereby the right to buy extra units at , improving their welfare as a result.
+Total sales rise to y 2 again.
+Relatively small scale purchasers are no worse off.
+As long as the firm can organize the tariff structure (i.e. ) so that HJKL ≥ FEHG, its profits will not fall.
+Indeed, Willig suggests that by modifying the structure so as to ensure that HJKL is substantially greater than FEHG, the price p, can be lowered slightly.
+Then everyone is better off.
+One example of this type of pricing structure is the system of railcards in the UK, whereby certain groups can buy the right to relatively cheap tickets."
+Notice that figure 4.3 is drawn in such a way that , and Ng and Weisser show that this will be socially optimal as long as average consumption exceeds marginal consumption, the normal case.
+In Willig's example also, it is necessary for the workings of the scheme that marginal price exceeds marginal cost (so that HJKL > 0).
+However, Willig further demonstrates that two-part tariffs of his sort are often dominated by more complex schedules in which the largest purchaser pays a marginal price equal to marginal cost.
+One example of a more complex schedule is a "declining block" tariff (Leland and Meyer, 1976).
+Returning to our main theme, the practical choice of pricing systems in increasing returns cases lies between deficit financing, Ramsey-optimal pricing, two-part tariffs, declining block tariffs, or some other non-uniform pricing scheme.
+If lump sum taxes are straightforward to levy and cheap to administer, the first course is the best.
+However, most taxes which are a practical proposition create their own distortions in the economy and involve non-trivial collection costs.
+In this case, there is a tradeoff between distortions induced by a subsidy policy and distortions induced by some prices being above marginal cost.
+Models in the following section tend to assume breakeven along with uniform pricing.
+4.3 Modelling the constraints and objectives
+As was said in the introductory section, it is not feasible for the government to direct the firm to produce specific quantities at specific prices because the government necessarily knows less than the firm about underlying demand and cost conditions.
+Instead, indirect constraints are used.
+In order to investigate the operation of such constraints, we will first look at some theoretical models which cast light on the various problems involved in the government-management "game" , before turning to the next section to consider some features of the control structure in the UK, so as to see some practical illustrations of the points.
+Altruistic manager models
+Gravelle (1977 and elsewhere) and others have formulated the general problem of a public firm subject to a rate of return constraint, as follows: where Y is the firm's output vector, X is the firm's input vector (), w and r are the respective (fixed) factor prices equivalent to their social costs, f (Y, X) is the production relationship (implicit production function), S(Y) is consumers willingness to pay (i.e. the integral of the area under the demand curve), R (Y) is revenue and  is the required rate of return.
+To put it in words, the manager is in effect altruistic, wishing to maximize the difference between social benefits and costs.
+However, management is constrained in this not only by the technical capabilities, but also by the requirement to break even on the basis of rate of return above the norm.
+Assuming binding constraints, and taking the case where there is only one product y with price p (or independent demands), means we may write the Lagrangean function from (4.2) with multipliers μ and λ as: Then, the first order conditions give;  being ,  being , and .
+Hence from (4.3), 4.4):  But , the marginal cost of production when  is given, since  is the marginal product of .
+Rearranging:  where ν is the elasticity of demand, written as a positive number (i.e. ).
+A similar series of manipulations using (4.3) and (4.5) yields:  where , the elasticity of capital with respect to output.
+Notice that if π = 0, this collapses to the equivalent expression for the labour input.
+However, with π, since the second term in the bracket is positive, .
+Therefore , so that rewriting in terms of marginal products: ; in other words the capital to labour ratio is not what would be optimal given factor prices — capital is employed to a lesser extent and labour to a greater extent than is desirable.
+This.
+is a variant of the "Averch–Johnson effect" for regulated firms which is discussed in chapter 5 below.
+The distortion in factor usage compared with factor prices and social costs implies that marginal costs are higher than they should be.
+This is illustrated in figure 4.4, which represents a given level of output on isoquant .
+The market factor price ratio suggests A as the appropriate combination but, because the return on capital required is above normal, combination B is chosen.
+As a consequence, valuing the inputs at their true factor prices indicates higher costs of producing that output (dashed isocost line) than need be.
+Nevertheless, Gravelle (1981) shows, after some considerable manipulation, that, given the distortion, the optimal price for the product is at marginal cost.
+As we can see from (4.6) and (4.7), prices are above marginal costs.
+In fact, if we were to set r=0, the price cost margins would be exactly equivalent to those obtained from the Ramsey optimal pricing problem, precisely because the problem would then be an example of the Ramsey problem.
+In this model then, there are two distortions.
+First, marginal costs are unnecessarily high.
+Secondly, prices are high compared with marginal costs.
+The second comes about because of the breakeven requirement and is necessary if subsidies are disallowed.
+The first comes from the artificially high return on capital.
+It is an unnecessary constraint, since without it the manager would do better.
+This is surely a general result, that if the management left to itself would act in a socially optimal way along the lines represented in (4.1), it is fatuous, indeed counterproductive, to constrain it.
+Managerial utility models
+Unfortunately, it would be unwise to expect managers of publicly owned firms to act in the selfless way modelled above.
+We need to consider more carefully what they might have as their objectives.
+Then, if their maximand is not solely social welfare maximization, there is room for constraints to have an influence for the good.
+We have seen that constraints can introduce distortions, but we will also find that they can improve performance.
+If the social benefits outweigh the social costs, the constraint involved will be worthwhile.
+Let us examine a representative selection of models.
+One possible model is illustrated in a paper by Gravelle and Katz (1976).
+Their manager is "semi-altruistic" in having a utility function  where W is social welfare (willingness to pay S, minus factor costs) and E is effort, which reduces utility.
+Effort has an impact on the production side since Gravelle and Katz assume a production function:
+Let us investigate the behaviour of this model by first considering the manager's problem in the absence of a constraint imposed from above.
+Minimizing the cost of producing any output for a given level of effort E, subject to the production function, will yield a cost function C (y, E).
+The next stage is to choose the optimal level of output, for any given level of effort, the problem: Hence the manager will set price equal to marginal costs.
+However, all this is at a given level of effort; the final stage of the manager's problem is  On equating this first-order condition to zero, using result (4.8) that  we have:  hence .
+Further input of effort would lead to reduced costs at the manager's optimum.
+Therefore, if the social cost of additional effort is presumed to be zero, a socially insufficient amount of effort is supplied.
+In the Gravelle and Katz model then, there is scope for a potential improvement in performance to be induced by constraints on the firm, despite the fact that such constraints can lead to other distortions.
+They  examine the impact of an absolute profit constraint , a percentage markup constraint, , and a rate of return constraint as before, .
+A necessary (but not sufficient) condition for performance improvements is that they force the manager to lower costs.
+Unfortunately general results are elusive; it is not the case that any of these constraints will always improve performance, neither is it true that one necessarily dominates another.
+Even in the simplest case, the lump sum target, it can only be shown that the target can be used to improve welfare under the assumptions that E is neutral in its effect on production and that there are non-decreasing returns to scale.
+It may be true that people put themselves forward for managerial posts in public industry because they have a genuine desire to improve social welfare (though they dislike effort).
+If we changed "public industry" to "charitable foundations" then only a complete cynic would discount this motive.
+Nevertheless, it might be wise also to consider models in which managers are in no way altruistic, to see whether the results are different.
+Suppose then that the manager has a utility function of the form , where I is income and E is effort.
+Without going into the details of modelling procedure, it is easy to see that there are now two sources of inefficiency rather than one.
+Because altruism has disappeared, price will no longer be set equal to marginal cost (however defined), as well as marginal cost being, possibly, inefficiently high.
+Also, certain constraints have the potential to make both problems worse.
+For example, a return on capital constraint could be met by raising prices above what would have been chosen, as well as by distorting the combinations in which factors are used.
+It might be thought that combinations of restraints would help to solve the problem.
+A plausible combination is suggested by Rees (1968): link managerial rewards to the firm's profit, but impose pricing rules to prevent prices being set monopolistically.
+Here, it would seem, management concentrates on efficiency as the only way to improve pay.
+However, in his (admittedly slightly more general) model of this problem, Gravelle (1981) shows that the intuitive argument is misleading; extra effort can actually reduce profit.
+Nevertheless, this suggestion by Rees does contain one useful pointer: if managers are non-altruistic, controls on them must influence their pay in order to affect performance.
+Additionally, assuming we are interested  in social welfare, the manager's pay should be made a function of that, if possible.
+Yet social welfare would seem impossible to measure, so it seems we reach an impasse.
+It is here that the ingenious suggestion of Finsinger and Vogelsang (1981) comes in, to provide what might be called an almost ideal constraint.
+They propose that a bonus be paid which is based upon an approximation to the change in social welfare.4 Specifically, the "incentive component" of the managerial emolument package that they propose for period t is given by a function of the increase in profits and the decrease in price between period t-1 and period t: Such an area is represented in figure 4.5 by the shaded portion, as can be seen by noting that the first term represents the rectangle ABCD and the second, the area under the marginal cost curve  between  and  (i.e. the integral ).
+To see the beneficial effect of Finsinger and Vogelsang's constraint, consider the position of a manager coming in to control an industry in which price is substantially above marginal cost.
+The way to earn a bonus is to reduce price.
+Subsequent reductions in price will attract bonuses in subsequent periods, until price is driven to equality with marginal cost; a bonus is paid only if there is a change in price and (or) output.
+Thus, the bonus encourages movement of price towards the level of marginal cost.
+Moreover, the bonus is in fact a first order approximation to the true change in welfare, which in figure 4.5 is the shaded area plus the dotted area ABE.
+Hence the manager increases income by earning the incentive payment, but social welfare is also increased thereby, this to a greater extent, and permanently.
+The real merit in this suggestion is that it is based upon (in principle) easily observed magnitudes those calculating the bonus need know only about price, output and cost levels in each period; they do not need to estimate either demand or cost functions.
+Therefore it seems there is an easy, cheap and extremely efficient method for rewarding managers in such a way as to elicit efficient performance.
+Unfortunately, there are problems.
+Gravelle (1985) points to an implicit assumption which, when relaxed, gives rise to one of them: "that either no managerial effort is required to reduce costs or that such effort does not yield disutility to managers' (p. 115).
+To see the impact of relaxing this, we return to equation (4.9), but this time allow the cost curve to be pushed downwards by managerial effort in controlling costs between periods t- 1 and i.
+We then have  The extra final term shows that the incentive structure does indeed reward managerial effort in reducing costs.
+Moreover, the reward is in line with the improvement in social welfare since the total improvement in welfare is the area between the demand curve and  (the dashed curve in figure 4.5) up to y 1 minus the area between demand and  up to .
+The extra bit not captured in the previous case is the area between  the two curves up to , which is precisely what is represented in the extra term.
+However, once managerial utility depends not just on income but also on effort, and it is recognized that cost reductions require a non-trivial amount of effort, it is clear that the monetary incentive will not lead to costs falling automatically to the efficient level.
+Of course, the effort required is a true social cost (it reduces the manager's utility, and the manager is a part of society) and so it should be an offset on the social benefits, but nevertheless it is not clear that this mechanism described will lead to the socially efficient amount of effort being supplied.
+What matters here is the intertemporal aspects of effort.
+Does effort now lead to a cost reduction that lasts for ever, or must it be applied in every period for example ?
+If the latter, then (as Gravelle, 1985, suggests) it will be optimal for the manager to supply the effort in the final period of office only, since the benefit  may be obtained only once.
+In the former case the problem is rather how to reward the manager for effort, the effect of which continues to be felt after the manager has left (Finsinger and Vogelsang, 1985; see also Tam, 1985).
+The other problem that arises here is one of political tradeoffs.
+Under the Finsinger and Vogelsang scheme, the manager is able to capture virtually all the increase in social benefits for him or herself in the form of a bonus in other words the social return is very narrowly distributed.
+This may lead to huge bonuses being paid to the manager.
+Yet actually, the scheme would still work within their framework if, say, the manager received one tenth of  — the incentives would still be in the right direction.
+However, this result does not carry through in the same way to the cases we have just been discussing where managerial utility depends on effort as well as income.
+Reducing the fraction of benefits  which the manager receives will reduce the amount of effort put in, ceteris paribus.
+The price of keeping the bonus down to manageable proportions is a somewhat less efficient outcome.
+These comments should not be allowed to cloud the picture too much.
+It is fairly clear from the discussion above that, whatever the type of managerial utility"function assumed, some controls may be imposed which can improve performance.
+It is also worth noting that wherever a manager's utility"depends partly upon income, a bonus scheme of the Finsinger-Vogelsang type is likely to improve performance, whereas other controls we have discussed (e.g. rate of return on capital) need not improve efficiency.
+4.4 Controls on nationalized industries in the UK
+Having provided a theoretical framework of control, we can now examine the types of controls employed, using the UK as an obvious example.
+Essentially, there are four types of control which have been exercised for some period: first, the "White Paper" controls on pricing, investment and financial targets; secondly, external financing limits (EFLs) imposed by the Treasury; thirdly, efficiency audits by the Monopolies and Mergers Corn-mission (MMC); and fourthly, direct controls on management itself.
+The first and second of these may be thought of, roughly, as equivalent to capital market constraints implemented by the stock market and banks; the last as a form of managerial labour market constraint.
+Here, I will provide a broad overview of each control, then an assessment based upon this overview; more detailed commentaries on aspects of the controls may be found elsewhere (e.g. Heald, 1980; Webb, 1980, on the White Paper controls).
+Pricing criteria were first laid down in detail in the 1967 (second) White Paper — prices should be related to (long-run) marginal costs, without arbitrary cross-subsidization, but should be sufficient to cover full accounting costs including the opportunity cost of capital.
+This could be seen as an approximation to a Ramsey-optimal price structure, though the analogy is probably rather forced.
+The 1978 White Paper modified this by providing for greater flexibility and by linking prices in price-setting industries to the financial target set.
+Investment procedures were changed more substantially between these two White Papers.
+In the 1967 Paper, investment appraisal was to follow the net present value method, with a test discount rate (TDR) set first at 8 per cent, later at 10 per cent .
+The emphasis was on a yes/no decision regarding new investment, rather than questions of choice of technique.
+Unfortunately, much of the investment that took place was never evaluated in this way because it was regarded as "inescapable" , that is, necessary to supply a satisfactory service level, rather than the level of service supplied being part of the decision-making procedure.
+Because of these problems, the 1978 White Paper replaced the TDR by a required rate of return (RRR) procedure.
+The RRR is the ex post return (5 per cent) which each industry has to use in appraising its capital programme in entirety, taking into account non-revenue-earning items as well as direct revenue earners — this provides the guidelines for the investment programme.
+In cases of choice between techniques and decisions about when to invest, this rate is also to be used as a test discount rate.
+Leaving aside the (many important and detailed) criticisms which people  have made of these procedures, it is clear that, in principle, developing a basis for appraising investment projects is of considerable importance.
+Furthermore, the rate of return to be used in present value calculations should derive from some sort of comparison with the private sector.
+To this rather limited extent, the methods seem unexceptionable.
+Financial targets came in earlier, in the 1961 White Paper.
+They are normally in the form of a return on net assets, somehow defined, hence they imply a constraint of the type Π/K; ≥ π, such as we have considered theoretically earlier.
+Such a target can in principle help in controlling the industry's activities, though we should recall that if managers were social welfare maximizing, the constraint would be superfluous.
+In fact, financial targets might be seen as equivalent to constraints imposed by shareholders in a public company who require dividends of a certain level (or indeed as related to constraints on regulated companies who must earn no more than a certain return on capital; see chapter 5).
+In very simple models, the RRR can be seen to imply, or be implied by, the financial target, but because of the differing time periods, differing accounting conventions, the nature of existing capital stock, and so on, the relationship is unlikely to be straightforward in practice.
+Hence it is unlikely that one or the other constraint is truly redundant.
+Both these controls must be distinguished from a third, namely external financing limits.
+These act (in principle, anyway) as a constraint on the difference between borrowing this year and borrowing last year.
+Hence they are rather like the overdraft limit placed on a private sector customer by its bank.
+The societal benefits of this are akin to those arising from the imposition of general controls on financial efficiency of the firm — forcing it to think more carefully about its spending.
+On the other hand, there are costs.
+Suppose a particular nationalized firm wants to institute a project that has a very favourable rate of return but which involves heavy capital outlays prior to any revenues being generated.
+Despite meeting both RRR and financial target criteria, the existence of an external financing limit may stop such a project proceeding.
+A private sector firm in similar circumstances could issue shares to raise money or could persuade the bank to increase the overdraft, but for its own (macroeconomic) reasons, the Treasury may be less amenable.
+Hence, worthwhile projects may not proceed or may be unnecessarily delayed, and plans may suddenly have to be changed when constraints are tightened (see also Likierman, 1984).
+The 1978 White Paper also proposed that the nationalized industries should produce what are sometimes called "non-financial performance indicators" .
+These are essentially meant to be measures of productivity and of service quality, and the idea is both that targets be set, and that analysis of outcomes be presented.
+In principle this seems sensible, since for many  of the industries, particularly those with monopoly power, information on financial outcomes is of only limited relevance in indicating the value for money that society enjoys from the industries.
+However, it is obviously important that the targets are relevant (e.g. based upon international comparisons), that reasonable detail on the outcomes is available, and most importantly that clearly defined action is taken to improve poor performance.
+Only limited progress in this direction has been made so far.
+For example, in British Rail's 1984/5 Annual Report, numerous performance indicators are illustrated, mostly demonstrating improved performance, but performance against target is seldom mentioned, and only two international comparisons are given.
+An important supplement to these direct and internal controls is provided by efficiency audits.
+Efficiency audits have no real private sector counterpart since monopoly references, though they also are carried out by the Monopolies and Mergers Commission, are more limited in scope.
+One major difference is that efficiency audits mix comments on monopoly abuse and performance with a great deal of what might be called management consultancy.
+They can involve extensive interviews and investigations throughout all levels of the firm's structure, resulting in detailed recommendations concerning management structures, financial controls and so on.
+For example, efficiency audits have proposed major shake-ups in the boards (e.g. Severn-Trent Water Authority), allocation of new cost and profit centres (e.g. London Transport Executive), greater realism in investment appraisals (e.g. National Coal Board), changes in manpower practices (e.g. the Post Office), modification of pricing practices (e.g. Caledonian MacBrayne), and more use of (financial and non-financial) performance indicators.
+One of the major weaknesses is, perhaps, a lack of sufficient follow-up on the recommendations.
+Many of these management activities would occur automatically in best-practice private companies, spurred on by managers adopting broad views of their briefs, although it is not always clear what motivates the manager to behave in this way — perhaps the operation of the managerial labour market?
+This brings us to the final and least developed aspect of the controls, namely factors concerning management directly.
+There are two elements to this, first the composition of nationalized industry boards and secondly the managerial incentive package.
+Jones and O'Brien (1982) have produced a useful study regarding board composition.
+Very briefly, they discovered that public sector boards were smaller on average, had more part-time members, had a broader membership background; members had a shorter length of service, held fewer outside appointments and were paid less than private sector boards.
+In addition, they suffered from time to time through gaps in chairmanship because ministers had failed to appoint in time.
+Not  all of these differences are necessarily for the worse, but the last four mentioned clearly are.
+If the board is to take important decisions, it should be capable of doing so wisely.
+Here part-time members could take on a significant role if they were allocated specific monitoring responsibilities and duties, but their current situation and pay militates against that (Henney, 1984).
+The incentive package for management similarly differs quite substantially between the public sector and large private sector companies.
+On the one hand, tenure in top positions is normally limited through a more explicit contractual term of office than is employed in the private sector, and self-perpetuating oligarchies cannot form.
+On the other hand (at least until very recently), the "emolument package" consisted simply of a standard salary offer.
+For example, the "going rate" in 1980 for the chairmen of the major industries (gas, aerospace, shipbuilding, railways, coal, etc.) was £48,000, at a time when the top executives of BP, ICI and the like were earning between two and three times that amount, including bonuses but without accounting for various fringe benefits.
+Presumably this influences relative salary structures further down the hierarchy as well.
+The picture in 1982 shows a similar, though not quite as marked, uniformity in the state sector, and their salaries may move towards greater accord with market conditions.
+Whether executive emoluments in the major nationalized industries increasingly move apart from each other or not, one feature they cannot incorporate is a direct stake in the firm itself.
+In particular, in the private sector, following tax concessions in the 1984 budget, many large companies have introduced executive share option schemes which will provide senior employees with substantial benefits depending upon company performance.
+Indeed, privatized companies have also introduced them, e.g. British Telecom.
+The work reported on in section 3.3 suggested that there may be economic efficiency (as well as taxation efficiency) reasons for the introduction of share options, and in general it suggested that managerial emolument packages should not be in the form of a straight salary but should involve some performance-improving subtleties.
+This general approach to efficient emolument packages is markedly absent from the reward structures of public sector companies.
+Moreover, given the disparity in actual salaries, it is unlikely that the more general "managerial labour market" constraint on operation is fully effective since, as we said in chapter 3, it is likely that the public sector trawls for talent in a different pool, at least in the UK.6 On the assumption that the people  actually being appointed were (unlike their private sector counterparts) altruistic, this would be no bad thing, but it would be foolish to believe altruism were always the case.
+There seems no real reason why managerial bonus schemes of the Finsinger and Vogelsang (1981) type cannot be introduced in order to provide incentives to greater efficiency, and in fact these are more relevant than profit-based bonuses given that the firms concerned have monopoly power.
+In summary, we see that there is a range of controls on public sector concerns which, in very broad terms, corresponds to the controls on private sector firms.
+In neither public nor private cases are we assured that they all lead to greater efficiency.
+In the particular case of public sector firms' management constraints/rewards, it is fairly clear that there is room for improvement.
+Notes on the literature
+The literature in this area is very extensive and much of it is in book form, so that the list provided here is necessarily selective and omits some important studies.
+On the subject area generally, Rees (1984) and Curwen (1986) provide good modern approaches, Rees concentrating upon theoretical analysis and Curwen on controls and on privatization (one of the topics of chapter 7).
+Rees, and also Yarrow (1986), for example, discuss reasons for state ownership.
+On pricing, Brown and Sibley (1986) provide a very thorough coverage of nonlinear outlay/pricing schedules.
+An extensive theoretical treatment of issues such as those covered in section 4.3 is Sos (1986), but see in addition the debate between Tan, Finsinger and Vogelsang, and others in the Quarterly Journal of Economics for February 1985.
+Byatt (1984) is one of the best sources on the material of section 4.4.
+Finally, one area which has not received full justice in our coverage is the extensive empirical tradition of examining industries case by case to develop views on efficiency.
+Two very useful sources in this area are Pryke (1981) and Harlow (1977).

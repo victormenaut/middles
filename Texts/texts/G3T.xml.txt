@@ -1,0 +1,678 @@
+
+
+Jurisdiction
+1 The Act and the rules
+These notes deal with bankruptcy proceedings in both the county court and the High Court commenced (that is, where the petition was presented) on or after 29 December 1986.
+The Act concerned with such bankruptcy proceedings is the Insolvency Act 1986 (as amended by the Insolvency (Amendment) Rules 1987).
+References in this book to sections are to those contained in this Act.
+The rules applying to such proceedings are the Insolvency Rules 1986.
+References in this book to rules are to those contained in these rules.
+The forms contained in Schedule 4 to the rules must be used with such variations, if any, as the circumstances require (r 12.7).
+The most common of these forms together with other useful precedents are set out in Appendix C to this book.
+Any bankruptcy proceedings commenced before 29 December 1986 are still governed by the Bankruptcy Act 1914 as amended and the Bankruptcy Rules 1952 as amended.
+For notes on this Act and these rules, reference should be made to the 8th edition of this book.
+Except so far as is inconsistent with the Insolvency Rules 1986, the Rules of the Supreme Court and the practice of the High Court apply to bankruptcy proceedings in the High Court, and the County Court Rules and the practice of the county court apply to bankruptcy proceedings in the county court, with the necessary modifications (r 7.51).
+Court fees are prescribed by the Supreme Court Fees Order and the County Court Fees Order except for the requirements relating to deposits payable on the presentation of bankruptcy  petitions which are to be found in the Insolvency Fees (Amendment) Order 1990 (51 1990 No 5).
+Monetary limits applicable for small bankruptcies, a reference to an insolvency practitioner for a report on a possible voluntary arrangement etc, are set out in the Insolvency Proceedings (Monetary Limits) Order 1986.
+Bankruptcy proceedings must be commenced in the High Court (in London) if:(i) the petition is presented by a Government department, and either in the statutory demand an indication to petition in the High Court is stated or the petition is based upon an unsatisfied execution; or (ii) the debtor by or against whom the petition is presented has resided or carried on business within the London insolvency district for the greater part of the six months immediately preceding the presentation of the petition or for a longer period during those six months than in any other insolvency district; or (iii) the debtor is not resident in England and Wales; or (iv) the petitioning creditor is unable to ascertain the residence of the debtor (tr 6.9(1) and 6.40).
+2.
+High court
+The London insolvency district is defined by s 374 as being the same as that provided in the 1914 Act, namely the London bankruptcy district, and includes the districts of the inner London county courts as well as some outer London county courts.
+The full list of courts is as follows: Barnet Marylebone Bloomsbury Mayor & City of London Bow Shoreditch Brentford Wandsworth Clerkenwell West London Edmonton Westminster Lambeth Willesden  The Lord Chancellor has power to redesignate insolvency districts under s 374(1).
+Once a bankruptcy order is made, it is likely that the proceedings commenced by a Government department in the High Court under r 6.9(1) (o) will be transferred to the appropriate county court if the debtor does not reside or carry on business within the London insolvency district.
+In any other case, bankruptcy proceedings must be begun in the county court for the insolvency district in which the debtor has resided or carried on business for the longest period during the six months immediately preceding the presentation of the bankruptcy petition (r 6.9(2)).
+If the debtor resided in one district and carried on business in another, the petition must be presented in the latter (r 6.9(3)) and if he has carried on business in more than one district, the petition must be presented in the court for the district which was his principal place of business (r 6.9(4)).
+3 County court
+Many county courts are excluded from bankruptcy jurisdiction.
+The districts of such courts are attached for the purpose of bankruptcy jurisdiction to other courts specified in the Civil Courts Order 1983 as amended (St 1983 No 713).
+For the list of county court districts and the courts having bankruptcy jurisdiction over them, see Appendix A. Debtors' petitions can be presented in whichever county court is specified by Schedule 2 to the rules as being, in relation to the debtors' own county court, the nearest full time county court if it is more expedient with a view to expediting the petition (r 6.40(3)).
+For the list of courts specified in Schedule 2, see the right hand column of Appendix A.
+Where proceedings are commenced in the wrong court, the court can transfer the proceedings to the correct court, allow them to continue where they are or strike them out (r 7.12).
+Where proceedings are pending in the High Court, the court may order them to be transferred to a specified county court (r 7.11(1)).
+Where proceedings are pending in a county court, the county court or a judge of the High Court may order them to be transferred to the High Court or another county court provided that it is a court having bankruptcy jurisdiction (r 7.11(2)-(4)).
+4 Transfer of proceedings
+A transfer may be ordered by the court of its own motion, on the application of the official receiver or on the application of an interested person (r 7.11(5)).
+A judge of one division of the High Court can order the transfer of any proceedings against the bankrupt from any other division of the High Court or the county court to his division of the High Court (r 7.15(2)).
+Part of a proceeding, such as a motion, may not be transferred from a county court to the High Court with the proceedings in general remaining in the county court (Re Kouyomdjian (1956) 2 All ER 286).
+An order made by a court in any part of the United Kingdom in bankruptcy proceedings can be enforced in any other part of the United Kingdom as if made by the corresponding court in that other part except in so far as the order relates to property situated there (unless the Secretary of State and the Lord Chancellor make provision for this)(s 426(1)-(3)).
+5 Cooperation between courts
+The courts having bankruptcy jurisdiction in any part of the United Kingdom must assist the courts having corresponding jurisdiction in any other part of the United Kingdom or any other relevant territory (defined as the Channel Islands, Isle of Man and any other country designated for this purpose by the Secretary of State)(s 426(10) and (11)).
+By the Cooperation of Insolvency Courts (Designation of Relevant Countries and Territories) Order 1986, the following countries were designated: Anguilla, Australia, Bahamas, Bermuda, Botswana, Canada, Cayman Islands, Falkland Islands, Gibraltar, Hong Kong, Ireland, Montserrat, New Zealand, St Helena, Turks and Caicos Islands, Tuvalu and Virgin Islands.
+The order of one court requesting the court in another country to enforce or recognise its orders is called an order in aid.
+Issue and Service of Creditor's Petition
+1 Preliminary
+A bankruptcy order can only be made as a result of a petition for such an order being presented to the court.
+Only the debtor himself, one or more of the debtor's creditors and the supervisor of a voluntary arrangement can present a petition (s 264).
+Neither the debtor himself nor a creditor can present a petition unless the debtor is domiciled in England and Wales; is personally present in England and Wales on the day on which the petition is presented; or at any time in the previous three years has been ordinarily resident, has had a place of residence, or has carried on business in England and Wales (s 265(1)).
+For the law and rules relating to debtors' petitions, see Chapter 3.
+2 Grounds of creditor's petition
+A creditor's petition must be in respect of a debt owed by the debtor, and the petitioning creditor must be a person to whom the debt is owed (s 267(1)).
+Two or more creditors can join together to petition.
+A petition can only be presented in respect of a debt if (s 267(2)):(i) the amount of the debt or the aggregate of the debts is equal to or exceeds the bankruptcy level (defined in 5267(4) as £750 but subject to change by the Secretary of State),(ii) the debt of each of the debts is for a liquidated sum payable either immediately or at some future time and is unsecured,(iii) the debtor appears unable to pay or to have no reasonable prospect of being able to pay the debt or debts, and (iv) there is no outstanding application to set aside a statutory demand served under s 268 (see section 4 (c) below).
+3 Definition of inability to pay
+A debtor appears unable to pay a debt if the debt is payable immediately and either:(i) the petitioning creditor has served on the debtor a statutory demand in the prescribed form requiring him to pay the debt or to secure or compound for it to the satisfaction of the creditor, at least three weeks have elapsed since the demand was served and the demand has been neither complied with nor set aside (s 268(1) (a)); or (ii) execution or other enforcement action on a judgment has been returned unsatisfied in whole or in part(s 268(1) (b)).
+A debtor has no reasonable prospect of being able to pay a debt if the debt is not immediately payable and:(i) the petitioning creditor has served on the debtor a statutory demand in the prescribed form requiring him to establish to the satisfaction of the creditor that there is a reasonable prospect that the debtor will be able to pay the debt when it falls due,(ii) at least three weeks have elapsed since the demand was served, and (iii) the demand has neither been complied with nor set aside (s268(2)).
+A debt need not be unsecured if the petitioner, in his petition, states that he is willing to give up his security or petitions only in respect of the shortfall after valuing his security (s 269).
+If there is a serious possibility that the debtor's property or the value thereof will be significantly diminished during the three week period after service of a statutory demand, a petition may be presented to the court before the end of the three week period (s 270).
+4 The statutory demand
+(a) Form and content (rr 6.1 and 6.2)
+The demand must be dated and signed by the creditor himself or by a person stating himself to be authorised to make the demand on the creditor's behalf.
+If the demand is signed by the creditor's solicitors, it should be signed by an individual solicitor with details of his firm added.
+It must also state whether the debt is payable immediately or not, and the amount of the consideration for the debt.
+If the demand includes interest or any other charge accruing from time to time, the amount or rate of charge must be separately identified and the grounds on which payment of it is claimed must be stated.
+If the creditor holds any security, he must specify the nature and value of the security and the demand must be for the unsecured portion of the creditor's claim only.
+The demand must include an explanation to the debtor of the purpose of it and the fact that if he does not comply with it, bankruptcy proceedings may be commenced against him, the time within which and the methods of compliance and the right to apply to the court for the demand to be set aside.
+The demand must also specify someone with whom the debtor can communicate with a view to securing or compounding for the debt to the creditor's satisfaction or, as the case may be, establishing to the creditor's satisfaction that there is a reasonable prospect that the debt will be paid when it falls due.
+There are three forms of statutory demand set out in Schedule 4 to the rules, namely: Form 6.1 -debt for liquidated sum payable immediately Form 6.2-debt for liquidated sum payable immediately following a judgment or order of the court Form 6.3-debt payable at future date.
+Copies of each of these forms are to be found in Appendix C to this book as forms 3, 4 and 5.
+(b) Service (r 6.3)
+The demand need not be personally served on the debtor, but the creditor is under an obligation to do all that is reasonable for the purpose of bringing the demand to the debtor's attention and, if practicable in the particular circumstances, to cause personal service of the demand to be effected.
+Where it is not possible to effect prompt personal service, service may be  effected by other means such as post or insertion through a letter box (Practice Direction, 18 December 1986,(1987) 1 All ER 604).
+The demand may be advertised in one or more newspapers if the demand is for payment of a sum due under a judgment or order and the creditor knows or believes that the debtor has absconded or is keeping out of the way with a view to avoiding service and there is no real prospect of the debt being recovered by any enforcement action.
+If the demand is advertised, the time limited for compliance runs from when the advertisement first appeared.
+For the form of advertisement set out in the Practice Direction, 18 December 1986 (ibid), see Appendix C, form 6.
+In all cases where substituted service is effected, the creditor must have taken all those steps which would suffice to justify the court making an order for substituted service of a petition (see Section 10 below).
+Service is deemed to have taken place seven days after posting by first class post if this method of service is used.
+Under RSC, Ord 65, r 7, if service is effected after 4 pm on a weekday or 12 noon on a Saturday, service is deemed to have been effected the next day or on Monday as the case may be.
+If the demand is to be relied upon to found a petition, there must be filed at court an affidavit of service of the demand.
+The affidavit must exhibit a copy of the demand (r 6.11(2)).
+If the demand was served personally, the person serving it must make the affidavit and there is a form of such affidavit in Schedule 4 to the rules (Form 6.11), see Appendix C, form 7.
+If service of the demand has been acknowledged by the debtor himself or by someone authorised to accept service on the debtor's behalf, the creditor or his agent must make the affidavit of service, exhibiting a copy of the acknowledgement (r 6.11(4)).
+If neither of these provisions applies, the affidavit must be sworn by a person having direct personal knowledge of the means adopted for service, and must specify the steps which have been taken to serve the demand, the means whereby (those steps having been ineffective) it was sought to bring the demand to the debtor's attention, and the date by which, to the best of the knowledge of the person making the affidavit, the demand would have come to the debtor's attention.
+The steps of which particulars are given must be such as would justify an order for substituted service of a bankruptcy petition (r 6.11(5) and (6)).
+The date specified in the affidavit will be the date deemed to have been the date of  service unless the court otherwise orders.
+Schedule 4 to the rules contains a form of affidavit where service other than personal is effected,(Form 6.12), see Appendix C, form 8.
+If service by advertisement is effected, the person having direct personal knowledge of the circumstances must make the affidavit and must specify the dates on which, and the newspaper in which, the demand was advertised (r 6.11(8)).
+A copy of the newspaper must be exhibited.
+The court may decline to file a petition if not satisfied that the creditor has discharged the obligation imposed on him by 6.3(2).
+(c) Setting aside (rr 6.4 and 6.5)
+The debtor may within eighteen days of service on him (or first advertisement) of the demand apply to the court for the demand to be set aside.
+The court to which such an application is made is the court to which the debtor would present his own petition unless the demand was served by a Government department, the debt is the subject of a judgment and the demand indicated an intention to present a bankruptcy petition in the High Court, in which case the application is made to the High Court.
+Application for an extension of time to apply to set aside a statutory demand can be made to a bankruptcy judge in the High Court or to a registrar of the appropriate county court.
+As from the time the application to set aside is made, the time limited for compliance ceases to run.
+The application must be supported by an affidavit specifying when the demand came into the debtor's hands and the grounds on which he claims it should be set aside, and a copy of the demand must be exhibited to the affidavit.
+Schedule 4 to the rules contains both an application and an affidavit (Forms 6.4 and 6.5), see Appendix C, forms 9 and 10.
+For the additional paragraphs in the affidavit in support of an application for an extension of time to apply to set aside a statutory demand, see Appendix C, form 11.
+In all cases, three copies of the application and affidavit are required to be lodged at court — no fee is payable.
+On receipt of the application, the court can dismiss it without giving notice to the creditor and, immediately the application is dismissed, time for compliance with the demand starts to run again.
+If the application is not dismissed, the court must fix a  hearing, at least seven days' notice of which must be given to the debtor (or his solicitor if the application was made by his solicitor) and the creditor and the person named in the demand, if any, with whom communication regarding the demand can be made.
+On hearing the application, the court can determine the matter summarily or adjourn it, giving such directions as are appropriate.
+A statutory demand is not an insolvency proceeding within 13.7, and therefore r 7.55 (providing that defects or irregularities will not invalidate the proceeding) does not apply.
+A demand will not, however, be set aside as irregular if the particulars of the debt as given are incorrect or even if the wrong form (demand based on a debt not based upon a judgment) is used, provided that the debtor understood perfectly well what debt was being demanded of him (Re A Debtor (No 190 of 1987) The Times, 21 May 1988 and Re A Debtor (No 1 of 1978) The Times, 20 January 1989).
+But if the amount claimed in a demand is not wholly undisputed, the demand will be set aside (Re A Debtor (No 10 of 1988)(1989) 2 All ER 39).
+The court may set aside the demand if the debtor appears to have a counterclaim, set-off or cross claim equalling or exceeding the debt demanded, the debt is disputed on grounds which appear to the court to be substantial, the creditor appears to hold some security for the debt of sufficient value, or the court is satisfied on other grounds that the demand ought to be set aside.
+If the dispute is over the value of the security for the debt held by the creditor, the court may require the creditor to revalue his security for the purposes only of the demand.
+Schedule 4 to the rules contains a form of order setting aside the demand (Form 6.6).
+For a copy of this form, see Appendix C, form 12.
+When the statutory demand is based on a judgment, the court will not normally go behind the judgment and inquire into the validity of the debt nor will it adjourn the application to await the result of an application to set aside the judgment (Practice Direction, 6 January 1987,(1987) 1 All ER 607).
+It would seem, therefore, that the debtor will have to pay the debt, the subject of the demand, if he wishes to avoid a bankruptcy petition being issued against him later and in other proceedings.
+If the court dismisses the application, it must make an order authorising the creditor to present a bankruptcy petition either forthwith or on or after a specified date.
+5 Contents of the petition
+(a) Forms
+In Schedule 4 to the rules, there are four forms of petition, namely: Form 6.7-petition on failure to comply with a statutory demand for a liquidated sum payable immediately Form 6.8-petition on failure to comply with a statutory demand for a liquidated sum payable at a future date Form 6.9-petition where execution or other process on a judgment has been returned unsatisfied in whole or part Form 6.10-petition for default in connection with voluntary arrangement.
+Copies of these forms can be found in Appendix C, forms 13 to 16.
+(b) Identification of debtor (r 6.7)
+The petition must state:(i) the debtor's name, address and occupation (if any);(ii) the name in which the debtor carried on business if other than his own name and if the business is carried on jointly with others;(iii) the nature and address of the debtor's business;(iv) the name in which the debtor carried on business when the debt was incurred;(v) the address at which the debtor resided or carried on business at or after that time and the nature of that business.
+If the petitioner knows that the debtor has used any other names, he must state this in the petition (r 6.7(3)).
+(c) Identification of debt (r 6.8)
+The petition must state:(i) the amount of the debt (in sterling, converted from any foreign currency at the official exchange rate at the date of issue of the petition, by analogy with r 6.111), the consideration for it (or, if there is no consideration, the way in which it arises) and the fact that it is owed to the petitioner;(ii) when the debt was incurred or became due;(iii) if the debt includes interest or any other charge accruing from time to time, the amount or rate of the charge (separately identified) and the grounds upon which it is claimed to form part of the debt provided that , in the case of a petition based upon a statutory demand, only the interest claimed in the demand is included;(iv) that the debt is unsecured, and either that the debt is for a liquidated sum payable immediately and the debtor appears to be unable to pay it, or that the debt is for a liquidated sum payable at some certain future specified time and the debtor appears to have no reasonable prospect of being able to pay it.
+(d) Inability to pay
+Where inability to pay is based upon the failure to comply with a statutory demand, the date and manner of service of the demand must be stated and that to the best of the petitioner's knowledge, the demand has neither been complied with nor set aside nor is any application to set aside outstanding (r 6.8(2)).
+Where inability to pay is based upon an unsatisfied execution, the court from which the execution or other process was issued must be specified together with particulars of the return, for example, the bailiff's return to a warrant of execution or the sheriff's return to a writ of fieri facias that there were no goods to levy upon.
+(e) Completion of the petition
+A Practice Direction (18 December 1986 (1987) 1 All ER 602) has set out very useful guidance for completion of the petition and is set out below in its entirety: 1 The petition does not require dating, signing or witnessing.
+2 In the title it is only necessary to recite the debtor's name, eg Re John William Smith or Re J W Smith (male).
+Any alias or trading name will appear in the body of the petition.
+This also applies to all other statutory forms other than those which require the "full title" .
+3 Where the petition is based on a statutory demand, only the debt claimed in the demand may be included in the petition, except that interest or other charges which have accrued since the date of the demand to the date of the petition may be added…4 When completing para 2 of the petition, attention is drawn to r 6.8(I) (a) to (c), particularly where the "aggregate sum" is made up of a number of debts.
+5 Date of service of the statutory demand (para 4 of the petition):(a) In the case of personal service, the date of service as set out in the affidavit of service should be recited and whether service is effected before/after 1600 hrs on Monday to Friday or before/after 1200 hrs on Saturdays: see RSC Ord 65, r 7. (b) In the case of substituted service (otherwise than by advertisement), the date alleged in the affidavit of service should be recited.
+(As to the date alleged, see Practice Direction (Bankruptcy 4/86)(1987) 1 All ER 604.)(c) In the strictly limited case of substituted service by advertisement under r 6.3 of the 1986 rules, the date to be alleged is the date of the advertisement's appearance or, as the case may be, its first appearance: see rr 6.3(3) and 6.11(8). 6 There is no need to include in the preamble to or at the end of the petition details of the person authorised to present the petition.
+7 Certificates at the end of the petition:(a) the period of search for prior petitions has been reduced to three years;(b) where a statutory demand is based wholly or in part on a county court judgment the following certificate, which replaces the affidavit or county court search, is to be added: "I/We certify that on the day of 19 I/we attended on the County Court and was/were informed by an officer of the court that no money had been paid into court in the action or matter.
+No pursuant to the statutory demand."
+This certificate will not be required when the demand also requires payment of a separate debt, not based on a county court judgment, the amount of which exceeds the bankruptcy level (at present £750).
+8 Deposit on petition.
+The deposit will now be taken by the court and forwarded to the Official Receiver.
+The petition fee and deposit should be handed to the Supreme Court Accounts Office, Fee Stamping Rooms, who will record the receipt and will impress two entries on the original petition, one in respect of the court fee and the other in respect of the deposit (applies to High Court only).
+Cheque(s) for the whole amount should be made payable to "The Paymaster General" .
+There is no provision in the rules as there was in the 1952 Rules for searches for prior petitions in county courts to see if the debt has been paid, but the Practice Direction refers to carrying out these searches and the certificates to be endorsed on the petition of their result.
+In practice the court carries out the search and does not charge a fee for this.
+6 Court in which petition presented (r 6.9)
+See Chapter 1 for the rules relating to the presentation of petitions in the High Court and various county courts having bankruptcy jurisdiction together with the list of such courts and the areas served by them in Appendix A.  If there is a voluntary arrangement in force under Part VIII of the Act, the petition must be presented to the court dealing with the voluntary arrangement.
+7 Requirements on presentation (r 6.10)
+(i) Petition and a copy (and an additional copy for the supervisor of a voluntary arrangement unless he is the petitioner) and a further copy for the petitioner or his solicitor;(ii) affidavit verifying the petition with a copy of the petition exhibited (see section 9 below);(iii) receipt for deposit of £240 paid to the official receiver (Insolvency Fees (Amendment) Order 1990) -this sum can be paid to the court who will remit it to the official receiver;(iv) affidavit of service of statutory demand (if applicable);(v) court fee: £45.
+8 Procedure on presentation (r 6.10(4) and (5))
+If the court is satisfied that the petition and other documents presented to it are in order, the petition and all the copies will be sealed and two copies handed back to the petitioner.
+The date and time of filing the petition will be endorsed on the petition and the copies, as will the venue for the hearing of the petition.
+9 Verification of the petition (r 6.12)
+The petition must be verified by an affidavit that the statements in the petition are true, or are true to the best of the deponent's knowledge, information and belief.
+If the petition relates to debts due to different creditors, then the debt to each creditor must be the subject of separate verification.
+Thus, either all the petitioning creditors must join in and swear one affidavit or separate affidavits, each exhibiting a copy of the petition, must be sworn.
+If there is more than one petitioner, then only one need swear the affidavit verifying the petition.
+This applies, for example, where a debtor owes a single debt to two people jointly, in which  case only one of the two petitioners need swear the affidavit verifying.
+The affidavit can also be sworn by some person such as a director, company secretary or similar company officer, or a solicitor, who has been concerned in the matters giving rise to the petition, or by some responsible person who is duly authorised to make the affidavit and has the requisite knowledge.
+In these cases, the deponent must state the capacity in which and the authority by which he makes it and the means of his knowledge.
+If the petition is based on a statutory demand and more than four months have elapsed since the service of the demand, the affidavit must also state the reasons for the delay.
+Schedule 4 to the rules contains an affidavit verifying the petition (Form 6.13), see Appendix C, form 17.
+10 Service of the petition (rr 6.14 and 6.15)
+A sealed copy of the petition must be personally served on the debtor and on any supervisor of a voluntary arrangement if the existence of one is known to the petitioner.
+If the court is satisfied (by affidavit or other evidence) that prompt personal service cannot be effected because the debtor is keeping out of the way so as to avoid service, it may order substituted service in such manner as it thinks fit.
+A Practice Direction (18 December 1986,(1987) 1 All ER 604) has set out the evidence which will suffice to justify an order for substituted service:(a) one personal call at the residence and place of business of the debtor where both are known or at either of such places as is known.
+Where it is known that the debtor has more than one residential or business address, personal calls should be made at all addresses;(b) should the creditor fail to effect service, a first class prepaid letter should be written to the debtor referring to the call(s), the purpose of the same and the failure to meet with the debtor, adding that a further call will be made for the same purpose on the day of 19 at hours at (place).
+At least two business days' notice should be given of the appointment and copies of the letter sent to all known addresses of the debtor.
+The appointment letter should also state that (i) in the event of the time and place not being convenient, the debtor is to name some other time and place reasonably convenient for the purpose,(ii)(statutory demands) if the debtor fails to keep the appointment the creditor proposes to serve the debtor by advertisement or post or insertion through a letter box or as the case may be, and  that, in the event of a bankruptcy petition being presented, the court will be asked to treat such service as service of the demand on the debtor,(iii)(petitions) if the debtor fails to keep the appointment, application will be made to the court for an order for substituted service either by advertisement or in such other manner as the court may think fit;(c) in attending any appointment made by letter, inquiry should be made whether the debtor has received all letters left for him.
+If the debtor is away, inquiry should also be made whether or not letters are being forwarded to an address within the jurisdiction (England and Wales) or elsewhere;(d) if the debtor is represented by a solicitor, an attempt should be made to arrange an appointment for personal service through such solicitor…the rules provide for a solicitor accepting service of a statutory demand on behalf of his client but there is no similar provision in respect of service of a bankruptcy petition;(e) the supporting affidavit should deal with all the above matters including all relevant facts as to the debtor's whereabouts and whether the appointment letter(s) has/have been returned.
+Where the court makes an order for substituted service by first class ordinary post, the order will normally provide that service is deemed to be effected on the seventh day after posting.
+Schedule 4 to the rules contains an order for substituted service (Form 6.15) and a notice for insertion in the London Gazette (Form 6.16).
+For both these forms see Appendix C, forms 18 and 19.
+Service of the petition must be proved by affidavit, and the affidavit must have a sealed copy of the petition and, if applicable, a sealed copy of the order for substituted service exhibited to it.
+The affidavit of service must be filed at court immediately after service.
+Schedule 4 to the rules contains two such affidavits-of personal service (Form 6.17) and of substituted service (Form 6.18).
+For both these forms, see Appendix C, forms 20 and 21.
+11 Security for cost (r 6.17)
+If the petition is presented in respect of a debt payable at some future time, it being claimed that the debtor appears to have no reasonable prospect of being able to pay it, the court may, on the debtor's application, order that security for the debtor's costs be given, and no hearing of the petition can take place until the security has been given.
+Debtor's Petition
+1 Grounds
+A debtor's petition may be presented to the court on the ground that the debtor is unable to pay his debts and must be accompanied by a statement of his affairs in the prescribed form (Form 6.28 in Sched. 4 to the rules).
+Copies of this form can be obtained from court offices and the official receiver.
+2 Court in which filed
+For the rules as to jurisdiction in relation to bankruptcy proceedings including debtors' petitions, see Chapter 1, Sections 2 and 3.
+The petition must state:(i) the name, place of residence and occupation of the debtor;(ii) the names in which business is carried on, if different, and whether business is carried on alone or with others;(iii) the nature of the business, and business addresses;(iv) the names in which business was carried on, if different, and whether business was carried on alone or with others;(v) any former addresses during the period when the debts were incurred (r 6.38).
+3 Form of petition
+Form 6.27 in Schedule 4 to the rules is a debtor's petition, see Appendix C, form 22.
+The petition must contain a statement that the petitioner, that is, the debtor, is unable to pay his debts and a request that a bankruptcy order be made against him (r 6.39(1)).
+If the debtor has within the last five years been bankrupt, made a composition with his creditors, been subject to a county court administration order or entered into a voluntary arrangement, particulars must be given including the name and address of the supervisor (r6.39(2)).
+The debtor's petition must be accompanied by a statement of affairs in the prescribed form (Form 6.28) verified by affidavit (which can be sworn before an officer of the court).
+4 Statement of affairs
+When issuing a debtor's petition, the following are required:(i) the petition and statement of affairs with three copies of the petition and two copies of the statement of affairs (r6.42);(ii) receipt for the deposit of £120 (Insolvency Fees (Amendment) Order 1990);(iii) fee: £15.
+One copy of the petition is returned to the debtor endorsed with the hearing date (if the court does not hear the petition forthwith), but if a voluntary arrangement is in force, at least 14 days' notice of the hearing must be given to the supervisor.
+The other copies of the petition and the statement of affairs are either retained by the court or forwarded to the official receiver or insolvency practitioner if one is appointed under 5 273 (see section 7 below).
+5 Procedure on Issue
+The court notifies the Chief Land Registrar for registration in the register of pending actions (r 6.43).
+On the hearing of the petition, the court may:(i) make a bankruptcy order; or (ii) make a bankruptcy order and issue a certificate for the summary administration of the bankrupt's estate (where  the total debts do not exceed the "small bankruptcies level" , currently £20,000, and the bankrupt has not been adjudicated bankrupt before in the last five years nor has he entered into any composition with his creditors or scheme of arrangement)(s 275);(iii) make a bankruptcy order and appoint the former supervisor of a voluntary arrangement as trustee provided that notice of the supervisor's intention to seek appointment as a trustee was given in the petition and to the creditors;(iv) appoint an insolvency practitioner to prepare a report under s 273.
+On the hearing of a debtor's petition, the court must not make a bankruptcy order where the total of the debtor's debts would be less than the "small bankruptcies level" , currently £20,000, the minimum value of the debtor's assets would be equal to or more than the "minimum amount" , currently £2,000, the debtor has not been adjudicated bankrupt nor entered into any composition with his creditors or scheme of arrangement within the last five years and it would be appropriate to appoint an insolvency practitioner to prepare a report (s 273).
+6 Hearing of the petition
+7 Insolvency practitioner's report
+If the court appoints an insolvency practitioner to prepare a report, a copy of the order and the petition and statement of affairs must be sent to him, and the court must also fix a venue for the report to be considered with notice of this being given to the practitioner and the debtor (r 6.44).
+The debtor is entitled to attend when the report is being considered and make any representations he wishes.
+The insolvency practitioner appointed to prepare a report must inquire into the debtor's affairs and submit a report to the court within the time limited by the court, stating whether the debtor is willing to enter into a voluntary arrangement (see section 9 below) and whether a meeting of the debtor's creditors should be convened and if so, where and when.
+Upon receiving the report, the court can make an interim order under s 252 so as to facilitate the implementation of the proposed voluntary arrangement or make a bankruptcy order (s 274).
+The bankruptcy order is settled by the court, and once sealed is sent to the official receiver who must send a copy to the bankrupt (rr 6.45 and 6.46).
+The official receiver notifies the Chief Land Registrar, gazettes the order and causes it to be advertised in such local newspaper as he thinks fit (r 6.46(2)).
+8 Action to follow making of order
+The certificate of summary administration can be revoked either on the court's own motion or on the application of the official receiver (r 6.50) if it appears that the certificate should not have been issued (s 275(3)).
+Under ss 252 to 263, a debtor can obtain what is, in effect, a moratorium from the court pending the preparation of proposals to be put to his creditors via an insolvency practitioner for the payment of their debts or part of them as an alternative to the debtor's bankruptcy.
+If a 75 per cent majority of creditors present in person or by proxy at a meeting of creditors agree to the proposals, then they become binding on all creditors and the insolvency practitioner who assisted the debtor or another such practitioner nominated by the creditors supervises the implementation of the proposals.
+9 Voluntary arrangements
+Once creditors have approved the debtor entering into a voluntary arrangement the court may stay the bankruptcy proceedings and rescind the bankruptcy order.
+Interlocutory Matters and the Nearing
+1 Interim receiver
+(a) Power to appoint
+Any time after the presentation of a petition and before the making of a bankruptcy order, the court can, if it is shown to be necessary for the protection of the debtor's property, appoint the official receiver to be interim receiver (s 286(1)).
+Only the official receiver can be appointed interim receiver except in a case where the court has appointed an insolvency practitioner to prepare a report (under 5 273) in which case that insolvency practitioner can be appointed interim receiver.
+The powers of the interim receiver may be restricted by the court but, if they are not, then they are the same powers as the official receiver would have as receiver and manager (in the period between the making of a bankruptcy order and the appointment of a trustee)(s 286(3)).
+These powers are to take immediate possession of all the debtor's property but only to sell anything of a perishable nature or goods which are likely to go down in value if not sold (s 287(2)).
+(b) Application
+An application for the appointment of an interim receiver can be made by the debtor himself, a creditor or the insolvency practitioner appointed by the court to prepare a report under 5273 (r 6.51).
+The application must be supported by an affidavit setting out the grounds for the application, whether or not the official receiver has been informed of it and an estimate of the value of the assets of the debtor.
+If a voluntary arrangement has been proposed or is in force, this must also be stated.
+Copies of  the application must be sent to the official receiver in sufficient time to enable him to attend the hearing of the application.
+If an insolvency practitioner is to be appointed, his consent to act must be referred to in the affidavit.
+For form of application, see Appendix C, form 23.
+(c) Hearing and order
+The court may, if satisfied that sufficient grounds are shown for the appointment, make it on such terms as it thinks fit (r6.51(6)).
+The order must state the nature and short description of the property the interim receiver is to take possession of and the duties to be performed by him.
+After the order has been made, two sealed copies of it must be sent to the interim receiver who must, in turn, send one copy to the debtor.
+It would not appear that the debtor need be informed of the application nor be given the opportunity to attend the hearing of the application.
+Schedule 4 to the rules contains an order appointing an interim receiver (Form 6.32), see Appendix C, form 24.
+(d) Deposit
+Before an order appointing the official receiver as interim receiver can be made, the applicant must deposit with him, or otherwise secure to his satisfaction, such sum as the court directs to cover his fees and expenses (r 6.53(1)).
+If the amount of security proves to be insufficient, the court may, on the official receiver's application, increase the amount to be deposited, and if the additional sum is not paid within two days after service of the order requiring it, then the interim receiver may be discharged.
+If a bankruptcy order is subsequently made, the deposit will be returned unless the assets of the debtor prove to be of insufficient value to cover the costs of the interim receiver (r6.53(3)).
+(e) Security and remuneration
+If an insolvency practitioner is appointed as interim receiver, he must give security and if he fails to do so and keep it up, then he can be discharged as interim receiver (rr 6.54 and 6.55).
+The remuneration of the interim receiver will be fixed by the court from time to time, taking into account the time spent, the complexity of the matter, the value and nature of the property, etc and will be paid either by the debtor (if no bankruptcy order  is made) or out of the debtor's assets as a charge upon them (r6.56).
+(f) Termination of appointment
+The appointment of the interim receiver terminates when either the petition is dismissed or a bankruptcy order is made, and can also be terminated by the court on the application of the interim receiver, the official receiver (if not the interim receiver), the debtor or any creditor (r 6.57).
+2 Consolidation of petitions
+Where two or more petitions are pending against the same debtor, the court may order the consolidation of the proceedings on such terms as it thinks fit (r 6.236).
+3 Timing of bearing
+Whilst a petition, based upon failure to comply with a statutory demand, may be presented before the expiry of the three week period stipulated in the demand if there is a serious possibility that the debtor's property will be diminished in value (s 270), no bankruptcy order can be made until the three week period has elapsed (s 271(2)).
+A petition cannot be heard until at least fourteen days have elapsed since the petition was served on the debtor and the supervisor of a voluntary arrangement (r 6.18(1)) unless it appears that the debtor has absconded or the court thinks it a proper case for an expedited hearing, or the debtor consents (r 6.18(2)).
+Service after 4 pm on a weekday or 12 noon on a Saturday is deemed to have taken place on the following day or on Monday as the case may be (RSC, Ord 65, r 7).
+If the petition has not been served within sufficient time or at all, the petition creditor can apply for an adjournment but must give the reason why the petition has not been served (r 6.28).
+Adjournments will not necessarily be granted even where all parties consent.
+The courts are unwilling to adjourn a petition more than once since it must not be allowed to hang over the debtor's head indefinitely.
+If the debtor is proposing to pay the petitioner his debt by instalments, the petition should not be adjourned indefinitely to see if the proposal is implemented.
+If  an adjournment is ordered, the petitioning creditor must inform the debtor and any creditors who gave notice of intention to appear (see section 5 below)(r 6.29).
+For form of order adjourning a petition (Form 6.23 in Sched 4 to the rules) and the notice to the debtor and creditors of adjournment (Form 6.24), see Appendix C, forms 25 and 26.
+4 Opposition by debtor
+Where the debtor intends to oppose the petition, he must not later than seven days before the hearing file at court a notice specifying the grounds on which he objects to the making of a bankruptcy order and send a copy of the notice to the petitioning creditor (r 6.21).
+For form of notice (Form 6.19 in Sched 4 to the rules), see Appendix C, form 29.
+If the debtor fails to comply with this rule, there appears to be no sanction against him in terms that he would not be allowed to oppose the petition.
+If the petition had to be adjourned because the petitioning creditor needed time to consider the later objections of the debtor, the only sanction, if any, against the debtor would be in relation to the costs of the adjournment.
+5 Attendance at the hearing
+If the petition contains a request for the appointment as trustee of the former supervisor of a voluntary arrangement, a report must be filed at court (not less than two days before the hearing) stated that his intention to seek appointment was notified to creditors and what response was received (r 6.10(5)).
+On the hearing, the court must be satisfied that the debt on which the petition is founded has not been paid, secured or compounded for.
+A certificate to this effect from the person representing the petitioning creditor in the following form is normally acceptable: I certify that I have/my firm has made enquiries of the petitioning creditors(s) within the last business day prior to the hearing/adjourned hearing and to the best of my knowledge and belief the debt on which the petition is founded is still due and owing and has not been paid or secured or compounded for (save as to…
+Signed Dated This certificate is printed on the attendance slips used in the  High Court, but it should be prepared by petitioning creditor's solicitors in the county court.
+A fresh certificate is required for each adjourned hearing.
+If the petitioning creditor fails to appear at the hearing of the petition, it would seem that the petition must be dismissed and no subsequent petition by the same creditor can be presented in respect of the same debt without the leave of court (r 6.26).
+There is no procedure for the attendance of the petitioning creditor to be dispensed with on application as applied under the 1952 Rules.
+It may be that the attendance of the petitioning creditor's solicitor will suffice, at least in regard to petitions presented by limited companies by analogy with the rule that limited companies can only appear in court by a solicitor (Count Courts Act 1984, s 60 and RSC, Ord 5, r6).
+Evidence at such hearings may be given by affidavit but the court can order the attendance of the deponent for the purposes of cross-examination (r 7.7(1)).
+If, after such an order has been made, the deponent does not attend, the affidavit cannot be used without the leave of the court (r 7.7(2)).
+Every creditor wishing to attend on the hearing must give notice of his intention to the petitioning creditor not later than 4pm on the business day before the hearing.
+The notice must identify the name and address of the creditor concerned, the amount of his debt and whether he supports or opposes the petition (r 6.230.
+A person who fails to comply with this rule can only appear at the hearing with leave of the court (r 6.23(4)).
+For form of notice of intention to appear (Form 6.20 in Sched 4 to the rules), see Appendix C, form 27.
+The petitioning creditor must prepare for the hearing a list of all those creditors who have given notice of their intention to appear at the hearing and hand it in at the hearing(r6.24).
+The list must specify the names and addresses of the creditors concerned, the amount of their debts and whether they support or oppose the petition.
+For form of list of appearances (Form 6.21 in Sched 4 to the rules), see Appendix C, form 28.
+6 Substitution of Petitioner
+Where the petitioner is found not to be entitled to have presented a petition or wished to withdraw his petition or allow it to be dismissed or fails to attend on the hearing, the court  may substitute as petitioner any creditor who has given notice of intention to appear, wishes to prosecute the petition and is a creditor who would at the date of presentation of the petition have been in a position himself to present a petition against the debtor (ie is presently owed more than £750)(r 6.30).
+The form of order is Form 6.24A in Sched 4 to the rules).
+Where the court is satisfied that the petitioning creditor does not intend to prosecute his petition, either diligently or at all, by asking for it to be withdrawn or adjourned, it can, on the application of any other creditor who has given notice of his intention to appear, give the carriage of the petition to that other creditor (who need not be owed £750 or more)(r 6.31).
+The court must not make such an order if satisfied that the petitioning creditor's debt has been paid either from third party funds or from the disposition of the debtor's own property with the approval of the court (r 6.31(3)).
+The form of order is Form 6.24B in Sched 4 to the rules.
+7 Withdrawal and disc of the petition
+A petition cannot be withdrawn without the leave of the court (s 266(2)) and leave will not be given before the petition is heard (r 6.32(3)).
+A petitioner wishing to withdraw his petition or for it to be dismissed must apply to the court and file an affidavit in support of his application specifying the reasons why he wishes the petition withdrawn or dismissed (r 6.32(1)).
+If the petitioner has received any payment from the debtor since the petition was presented or the debtor has entered into an arrangement with the petitioner for the securing or compounding of the debt, the affidavit must state what dispositions of property the debtor has made so as to pay the debt or secure or compound for it, whether any property disposed of was the property of the debtor himself or some other person, and if the property was that of the debtor himself, whether the disposition was made with the approval of the court (r 6.32(2)).
+The court has a general power, if it appears to it appropriate to do so, to dismiss a petition or to stay proceedings on a petition on such terms as it thinks fit (s 266(3)).
+This power can be exercised whether or not there has been a contravention of the rules or for any other reason.
+The form of order dismissing the petition is Form 6.22 in Schedule 4 to the rules, see Appendix C, form 30.
+8 Grounds for the order
+The court must not make a bankruptcy order unless it is satisfied that the debt, or one of the debts, in respect of which the petition was presented has not been paid nor secured or compounded for, or is a debt which the debtor has no reasonable prospect of being able to pay when it falls due (s 271(1)).
+In determining what constitutes a reasonable prospect it is to be assumed that the prospect given by the facts and other matters known to the creditor at the time he entered into the transaction resulting in the debt was a reasonable prospect (s 271(4)).
+Thus, if the creditor knew that the debtor hoped to pay his debt to that creditor from a contract which the debtor was about to enter into, the creditor cannot subsequently claim that the prospect of being paid from that source is not a reasonable prospect.
+The court may dismiss a petition if it is satisfied that the debtor is able to pay all his debts or is satisfied that the debtor has made an offer to secure or compound for the debt and the offer has been unreasonably refused (s 271(3)).
+The court may make a bankruptcy order if satisfied that the statements contained in the petition are true and the debt has not been paid, secured or compounded for (r 6.25(1)).
+If there is an appeal pending against a judgment on which the petition is based or execution on that judgment has been stayed, the court can stay or dismiss the petition (r 6.25(2)).
+If a petition is based on non-compliance with a statutory demand, the petition must not be dismissed only because the amount of the debt is over-stated in the demand unless, within the time limited for compliance, the debtor has given notice disputing the validity of the notice for this reason or, no such notice having been given, the debtor pays the correct amount (r 6.25(3)).
+See also Chapter 2 section 4 on statutory demands.
+9 The order
+The bankruptcy order is settled by the court in Form 6.25 in Schedule 4 to the rules (r 6.33), see Appendix C, form 32, and the court must send at least two sealed copies to the official  receiver who must send one of them to the bankrupt and cause the order to be entered in the register of writs and orders at the land registry and be advertised in the London Gazette and local newspaper (r 6.34).
+The court may, on the application of the bankrupt or a creditor, order the official receiver to suspend action pending a further order of the court (r 6.34(3)).
+See Chapter 5 below for the procedure for setting aside bankruptcy orders.
+Rescission and Annulment of Bankruptcy Order
+1 Rescission
+Every court having jurisdiction in bankruptcy under the Act may review, rescind or vary any order made by it under its bankruptcy jurisdiction (s 375(1)).
+The court has power to rescind a bankruptcy order under this section.
+The court to which proceedings have been transferred from another court after the making of the bankruptcy order also has this power (Re A Debtor (No 2A of 1980)(1981) Ch 148).
+The circumstances that justify a court in rescinding a bankruptcy order are closely analogous to the circumstances which enable the court to annul a bankruptcy order (see below).
+A bankruptcy order should not be rescinded merely because the debtor alleges that he has no assets nor any prospect of having any assets with which to discharge his liabilities (Re Field (1978) Ch 371).
+If an application to rescind a bankruptcy order is to be made, application should be considered also, as a preliminary measure, for an order requiring the official receiver to suspend the action which he is otherwise obliged to take immediately after a bankruptcy order has been made, namely, to send notice of the order to the Chief Land Registrar, to advertise the order in a local newspaper and to gazette the order (r 6.34).
+For a precedent of an application to rescind the bankruptcy order or to require the official receiver to suspend action, see Appendix C, form 31.
+2 Annulment
+The court may annul a bankruptcy order if at any time it appears to the court that the order ought not to have been made (on any grounds existing at the time the order was made) or the debts and expenses of the bankruptcy have all been either paid or secured to the satisfaction of the court since the making of the order (s 282(1)).
+The court may annul a bankruptcy order even after the bankrupt has obtained his discharge (s 282(3)).
+An application for annulment of a bankruptcy order must specify on which of the two alternative grounds in s 282(1) it is made and in either case must be supported by an affidavit (r 6.206).
+If the application is based upon payment of all the debts, the applicant must give at least twenty-eight days' notice to the official receiver and (if other) the trustee and supply them with copies of the application and affidavit (r 6.206(4)).
+Otherwise as much notice as possible must be given.
+If the application for annulment is made because all the debts and expenses have been paid or secured, at least twenty-one days before the hearing fixed for the application to be heard, the trustee, or the official receiver if no trustee has been appointed, must file a report containing details of the assets and liabilities of the bankrupt, the circumstances leading to the bankruptcy and any other matters thought fit (r 6.207(2)).
+If the debts and expenses have not been paid but have been secured, the report must state whether it is considered that the security is satisfactory (r 6.207(3)).
+The report must be sent to the bankrupt at least fourteen days before the hearing and, if the trustee is other than the official receiver, then the official receiver must also be sent a copy of the report, and he may file an additional report which must be sent to the bankrupt at least seven days before the hearing (r 6.207(4) and (5)).
+In advance of the hearing, the court may make an interim order staying any proceedings and this order can even be made ex parte(r 6.208).
+If the application is made on the grounds that debts have been paid or secured and it is known that there are creditors who have not proved their debts, the court may direct that notice be given to them of the application and order the trustee (or official receiver) to advertise the application and, in the meantime, adjourn the application for not less than thirty-five days (r 6.209).
+Before annulling the bankruptcy order, the court must be satisfied that all proved debts have been paid in full, but if there are disputed debts or untraced creditors, the court may require security, in the form of a bond or money in court, should the creditor prove his debt or be traced ultimately (r 6.211(3)).
+The court may direct that particulars of the alleged debt be advertised, and if no claim on the security is made within twelve months, the court can, on application, order the release of the security (r 6.211(4)).
+If the bankruptcy order is annulled, the official receiver must, if he notified the creditors of the debtor's bankruptcy, notify them of the annulment (r 6.212).
+The court must inform the Secretary of State, and the former bankrupt can require the Secretary of State, at the expense of the former bankrupt, to advertise and gazette the making of the annulment order (r6.213).
+The order must include provision permitting the vacation of the bankruptcy order at the land registry (r 6.213(1)).
+Consequences of Bankruptcy Order
+1 Receivership
+Immediately a bankruptcy order is made, the official receiver becomes the receiver and manager (subject, possibly, to there being appointed a special manager under s 370) of the bankrupt's estate (s 287(1)).
+The official receiver whilst acting as receiver of the estate has the same powers as a receiver appointed by the High Court and is entitled to dispose of any perishable goods or any other goods the value of which is likely to be diminished if they are not disposed of (s 287(2)).
+He must also take such steps as are necessary for protecting any property of the estate but is not under an obligation to do anything which would involve him in expense (s 287(3)).
+2 Statement of affairs
+Where a bankruptcy order has been made other than on the debtor's petition, the bankrupt must submit to the official receiver a statement of his affairs within twenty-one days of the bankruptcy order or within such longer period as the official receiver may allow (s 288(1) and (3)) or the court may allow (r 6.62).
+If the bankrupt fails to do so without reasonable excuse, he is guilty of contempt of court and is liable to be punished accordingly (s 288(4)).
+The statement of affairs must be in Form 6.33 (in Sched 4 to the rules) and must contain all the particulars required by that form (r 6.59).
+The statement of affairs must be verified by affidavit  and together with one copy must be delivered to the official receiver (r 6.60).
+Where the official receiver thinks it would be prejudicial to the conduct of the bankruptcy for the whole or part of the statement of affairs to be made public, he may apply to the court for an order limiting disclosure of it or any specified part of it (r6.61).
+The official receiver may also release the bankrupt from the obligation to submit a statement of affairs (s 288(3)).
+If the bankrupt cannot himself prepare a proper statement of affairs, the official receiver may either employ someone at the expense of the estate to assist in its preparation (r 6.63(1)) or make an allowance out of the estate to a named person to assist the bankrupt in its preparation (r 6.63(2) and (3)).
+The bankrupt may be required to submit accounts for the previous three years and to provide additional information as may be required by the official receiver (rr 6.64–6.66).
+3 Restriction on proceedings and remedies
+After the making of a bankruptcy order, no creditor of the bankrupt in respect of a provable debt may commence any legal action against the bankrupt without the leave of the court (s 285(3)) and the court may also stay any action against the bankrupt pending in any court (s 285(1)).
+The bankruptcy order does not act as an automatic stay of all proceedings against the bankrupt.
+The court to which an application for a stay of action should be made is the court in which that action is pending and the court can either stay the action or allow it to continue on such terms as it thinks fit (s 285(2)).
+If the creditor had, before the commencement of the bankruptcy, issued execution against the debtor's goods or attached a debt due to him, that creditor is not entitled to retain the benefit of his execution or attachment unless the execution or attachment had been completed before the commencement of the bankruptcy (s 346(1)).
+An execution is deemed completed by the sale of the goods seized or by the making of a charging order under s 1 of the Charging Orders Act 1979 and an attachment of debt is completed by the payment of the debt (s 346(5)).
+If before completion of execution, notice is given to the sheriff or bailiff that a bankruptcy order has been made, the sheriff or bailiff must hand over the proceeds to the official receiver or  trustee subject to his costs of execution (s 346(2)).
+The sheriff or bailiff must not account to the execution creditor for fourteen days after sale if the judgment exceeds the prescribed sum (currently £500) because under s 346(3) the sheriff or bailiff is obliged to hand over the proceeds to the official receiver or trustee if a bankruptcy petition is presented within fourteen days of the sale of the goods and a bankruptcy order is subsequently made on that petition.
+4 Distress
+A landlord can distrain against goods and effects compromised in the bankrupt's estate but only for six months' rent accrued due before the commencement of the bankruptcy (s347(1)).
+If a landlord has distrained on the goods of the bankrupt in the three month period before the bankruptcy order, the proceeds of that distraint are charged for the benefit of the bankrupt's estate with the preferential debts to the extent that the estate is not sufficient to meet them (s347(3)).
+These rules only apply to distraints for rent.
+Distraints by Government departments for various taxes and local authorities for rates or community charge are unaffected and can even be levied after a bankruptcy order has been made (s 347(8)).
+Restrictions on dispositions of property
+Any dispositions of property or payments made by the bankrupt between the date of the presentation of the bankruptcy petition and the vesting of his assets in his trustee are void except to the extent that they were made with the consent of the court or were subsequently ratified by the court (s 284(1)-(3)).
+However, in the case of transactions before the making of the bankruptcy order, if the transferee or recipient gave value, was in good faith and without notice that the petition had been presented, he will be protected (s 284(4)).
+6 Investigation and reports
+It is the duty of the official receiver to investigate the conduct and affairs of every bankrupt and to make such report (if any) to the court as he thinks fit (s 289(1)).
+If a certificate of summary  administration is in force, the official receiver need only investigate the bankrupt's conduct and affairs if he thinks fit (s 289(5)) The official receiver must, at least once, send a report of the state of the bankrupt's affairs to all creditors and file a copy at court (r 6.73) although the court can release him from this obligation having regard to the funds available and the interests of creditors generally (r 6.77).
+If a statement of affairs has been lodged, the official receiver must also send a summary of it together with his observations on it unless he has previously reported to them and nothing material can be added, but if the lodging of a statement of affairs has been dispensed with, the official receiver must give creditors a summary of the bankrupt's affairs (amplified, modified or explained as he thinks fit)(rr 6.75 and 6.76).
+7 Public examination
+The official receiver may at any time after the bankruptcy order has been made and before the discharge of the bankrupt apply to the court for the public examination of the bankrupt (s 290(1)).
+The official receiver must make such an application if requested to do so by one half, in value, of the creditors unless the court orders otherwise (s 290(2)).
+The bankrupt must attend at court and be publicly examined as to his affairs, dealings and property (s 290(3)) The official receiver, the trustee and any creditor may attend the examination and question the bankrupt (s 290(4)).
+If the bankrupt fails to attend, he is guilty of contempt of court (s 290(5)).
+Rules 6.172 to 6:177 set out the procedure for the application for a public examination, requisitioning the official receiver to apply for such an examination, at the hearing itself and the expenses of it.
+All parties who attend such an examination, including the bankrupt, may employ solicitors or counsel to represent them.
+Where a public examination is adjourned generally, the official receiver may, there and then, make application under 5 279(3) for the automatic discharge of the bankrupt not to take place (r6.176(4)).
+8 Inquiry into bankrupt's doings
+The court can, on the application of the official receiver or trustee, summon the bankrupt, his or her spouse, or any person suspected of having any property of the bankrupt in his possession or information as to the bankrupt's dealings, affairs or property, to appear before it (s 366(1)) and, except as regards the bankrupt or his or her spouse, require an affidavit to be submitted to the court containing an account of dealings with the bankrupt or require the production of documents relating to the bankrupt's dealings, affairs or property (s 366(1)).
+If the person summoned does not appear, he may be arrested and brought before the court and the relevant books, papers or property may be seized (s 366(2) and (3)).
+Any person who appears or is brought before the court may be examined on oath either orally or by interrogatories concerning the bankrupt or his dealings, affairs or property (s 367(4)).
+9 Order against the Inland Revenue
+Where the court has made an order for the public examination of the bankrupt (under s 290) or has issued a summons to appear under s 366, the court may also order an Inland Revenue official, on the application of the official receiver or trustee, to produce to the court the relevant accounts or assessments submitted to the Inland Revenue (s 369).
+Before making such an order, the Inland Revenue must be given notice of the application of not less than twenty-eight days and if the Inland Revenue object, it must submit a written statement of the grounds and ensure that an officer of it attends court on the hearing of the application (r 6.194).
+Matters Arising After the Bankruptcy Order
+1 Official receiver's duties
+Except where a certificate for summary administration has been issued, as soon as practicable in the twelve week period after the making of a bankruptcy order, the official receiver must decide whether or not to summon a meeting of creditors for the purpose of choosing someone to be the trustee of the estate in his place (s 293(1)).
+If he decides to summon such a meeting, the meeting must be held not more than four months from the date of the bankruptcy order (r 6.79(1)), and the official receiver must inform the court and give at least twenty-one days' notice to all creditors (r 6.79(2)).
+Notice must also be given by public advertisement (r 6.79(5)).
+Where the official receiver receives a request for a meeting of creditors to be held in a case where he had decided not to summon such a meeting, he must withdraw any notices given by him that he did not intend to summon such a meeting and fix a date and venue for the meeting not more than three months from the date of the request and proceed as if he had decided to summon a meeting.
+The form of request for such a meeting is to be found in Schedule 4 to the rules as Form 6.34.
+If the official receiver decides not to summon a meeting, he must inform the court and creditors (s 293(2)).
+If a request is made for a meeting to be summoned and the request is supported by at least 25 per cent, in value, of the creditors, the official receiver must summon a meeting (s 294).
+The meeting must be held within three months (r 6.79(6)).
+It is the official receiver's duty to investigate the conduct and  affairs of the bankrupt and to make such report (if any) to the court as he thinks fit (s 289(1)).
+The bankrupt must submit a sworn statement of affairs containing the prescribed particulars (Form 6.33 in Sched 4 to the rules) within twenty-one days of the bankruptcy order or such longer period as the official receiver may allow (s 288(1)).
+2 Notice of the first meeting of creditors
+Notice of the first meeting of creditor must be given to all creditors at least twenty-one days before the date fixed for the meeting (r 6.79(3)).
+In fixing the venue of a meeting, the official receiver must have regard to the convenience of those who are to attend (r 6.86(1)) and meetings must be held between 10am and 4pm on business days unless the court orders otherwise (r 6.86(2)).
+With every notice summoning a meeting there must be included forms of proxy (Form 8.4 in Sched 4 to the rules, see App C, form 33).
+The notice to the creditors must state a time and date, not more than four days before the meeting, by when the creditors must lodge their proofs of debt (Form 6.37 in Sched 4 to the rules, see App C, form 34) and, if applicable, proxies, in order to entitle them to vote at the first meeting (r 6.79(4)).
+The official receiver must give at least twenty-one days' notice of the meeting to the bankrupt and may require him to attend the meeting (r 6.84)
+Rules governing meetings
+(i) The official receiver (or someone nominated in writing by him) is the chairman of the first meeting.
+Once a trustee is appointed, he or an employee of his or another authorised insolvency practitioner chairs meetings.
+(ii) At a meeting of creditors, a resolution is deemed to be passed when a majority, in value, of the creditors present personally or by proxy have voted in favour of the resolution (r 6.88).
+(iii) It is necessary for there to be a quorum of creditors for the meetings to be effective.
+The quorum is one creditor in person or by proxy (r 12.4A).
+If there is no quorum present within half an hour of the time appointed for  the meeting, it must be adjourned for not more than twenty-one days (r 6.91(3)) to such a time and place as the chairman thinks fit (r 6.91(2)).
+(iv) No creditor can vote at any meeting unless he has lodged with the official receiver not later than the time mentioned for this purpose in the notice convening the meetings a proof of debt, that is, a statement in the appropriate form (see Chapter 9) of the amount claimed by him as due to him and the claim has been admitted for the, purpose of entitlement to vote (r 6.93(1)).
+Acceptance by the official receiver of a proof of debt for voting purposes is not the same as acceptance of a proof by the trustee to rank for dividend.
+Creditors are not allowed to vote if their debts are unliquidated (r 6.93(3)) nor if their debts are secured (r 6.93(4)).
+For the purposes of voting, a secured creditor may value his security and vote for the excess of his debt over the security held.
+If the chairman agrees to put an estimated minimum value of an unascertained debt, the claimant of such a debt can vote for that value (r 6.93(3)).
+(v) The official receiver as chairman of the meeting can decide to reject a proof for voting purposes but that decision is subject to appeal (r 6.94).
+If the official receiver is in doubt as to the validity of a claim, he should mark the proof and allow the creditor to vote subject to his vote being subsequently declared invalid if the objection is sustained (r 6.94(3)).
+If, on appeal, the official receiver's decision to reject a proof is reversed, the court may order a further meeting (r 6.94(4)).
+(vii) Where the chairman holds a proxy requiring him to vote for a particular resolution, if no one else proposes that resolution, he must do so unless he considers that there is good reason for not doing so (r 6.89).
+4 Proxies
+(a) Need for a proxy
+A creditor may vote either in person or by proxy.
+Only a sole trader or other individual creditor can appear in person.
+If such a creditor wishes to appoint another person to attend a meeting on his behalf, he too must give the person attending his proxy.
+All other entities, that is, partnerships, companies or corporation  can only vote via representatives authorised to vote on their behalf by a proxy form.
+The court may in exceptional circumstances allow otherwise (r 6.93).
+Where a person is authorised by s 375 of the Companies Act 1985 to represent a corporation or company at any meeting of creditors, he must produce to the official receiver a copy of the resolution so authorising him.
+That copy must either be under the seal of the corporation or company, or must be certified to be a true copy by the secretary or a director of that organisation (r 8.7).
+Though there is no appeal procedure laid down if the chairman of the meeting rejects a proxy duly lodged and therefore does not allow that creditor's vote, it is open to the creditor affected to apply to the court for the chairman's decision to be reversed and for a new meeting to be held.
+(b) Form of proxy
+Proxy forms must be sent out to creditors and contributories with the notice summoning their meetings (r 8.2(1)) and no form of proxy can be used except the one sent out with the notice or a substantially similar one (r 8.2(2)).
+Schedule 4 to the rules includes a form of proxy for use in connection with meetings following a bankruptcy order (Form 8.4, see App C, form 33).
+Neither the name nor the description of the official receiver or trustee or any other person may be printed or inserted in the body of any proxy form before it is sent out (r 8.2(1)).
+A creditor may give a proxy to any person of full age (who himself need not be a creditor or contributory)(r 8.1(3)) requiring the proxy holder to use his discretion on voting (a general proxy) or requiring him to vote for or against any specified resolution (a special proxy).
+A creditor may appoint the official receiver to be his general or special proxy.
+If the official receiver has a number of general proxies given to him, it is usual for him to vote with these proxies in accordance with the wishes of the majority as expressed at the meeting itself or by virtue of special proxies lodged.
+(c) Lodging proxies
+A proxy which the holder intends to use at any meeting of creditors must be lodged with the official receiver not later than the time mentioned for that purpose in the notice convening the meeting or the adjourned meeting.
+That time must be not  more than four business days before the date fixed for the meeting (r6.79(4)).
+(d) Solicitation for proxies and voting by proxy holders
+Where the court is satisfied that any improper solicitation has been used by or on behalf of a trustee in obtaining proxies or in procuring his appointment as trustee, it may order that no remuneration be allowed to the person by whom or on whose behalf the solicitation was exercised (r 6.148(1)).
+This is so notwithstanding any resolution of the creditors' committee or of the creditors to the contrary (r 6.148(2)).
+No person acting under a proxy may vote in favour of any resolution which would directly or indirectly place him or any associate of his in a position to receive any remuneration out of the estate of the bankrupt (r 8.6(1)).
+However, where any person holds proxies requiring him to vote for the appointment of himself as trustee, he may use those proxies and vote accordingly (r 8.6(1)).
+If the proxy was signed by the proxyholder himself, he cannot vote in favour of any remuneration being paid to himself unless he produced written authorisation from his principal showing that he was entitled to sign the proxy.
+5 Business at the first meeting
+The primary purpose of such meeting is to appoint a trustee.
+In fact, pursuant to r 6.80, no resolutions can be taken at the meeting of creditors other than:(i) a resolution to appoint a named insolvency practitioner to be trustee or two or more insolvency practitioners as joint trustees;(ii) a resolution to establish a creditors' committee;(iii)(unless a creditors' committee has been established) a resolution specifying the terms of the trustee's remuneration or to defer consideration of that matter;(iv) if two or more trustees are appointed, a resolution specifying whether acts are to be done by both or all of them, or by only one;(v) a resolution adjourning the meeting for not more than three weeks; and (vi) any other resolutions which the chairman thinks it right to allow for special reasons.
+At the meeting no resolution can be proposed which has as its  object the appointment of the official receiver as trustee (r 6.80(2)).
+Thus, the official receiver will only become the trustee of the bankrupt if no nominations for the appointment of a trustee are put forward and the official receiver does not decide to ask the Secretary of State (under s 296) to appoint another person as trustee.
+The official receiver as convener of the meeting can require the bankrupt to attend the meeting (r 6.84) and so it must be presumed that matters regarding the bankrupt's activities can be raised by either the official receiver or those present.
+If there are a number of nominations for the position of trustee, then a vote is taken in accordance with the rules as set in section 3 above but if there are three or more nominees, the chairman must continue taking votes until one nominee has a clear majority with the nominee obtaining the least support dropping out each time (r 6.88(2)).
+No person can be appointed as trustee unless he is a qualified insolvency practitioner.
+Qualified insolvency practitioners are those who hold licences from the various authorised professional bodies (such as those governing chartered accountants and certified accountants, The Law Society or the Insolvency Practitioners Association) or from the Department of Trade.
+The creditors' committee is appointed (except where the official receiver is trustee) to assist the trustee generally and in particular to determine the trustee's remuneration, though this power is subject to the overriding jurisdiction of creditors generally and the court.
+See Chapter 8 for fuller details of the duties and functions of the creditors' committee.
+6 Certifying the appointment of trustee
+The official receiver or whoever is the chairman of the meeting must certify the appointment of the trustee, but not until the per son appointed has provided him with a written statement that he is a qualified insolvency practitioner and consents to act (r 6.120(2)).
+The trustee's appointment is effective from the date his appointment is certified by the chairman of the meeting (r 6.120(4)).
+The official receiver must in every case send a copy of the certificate to the trustee and file a copy at court (r 6.120(5)).
+There is no longer any requirement for the trustee to provide a separate fidelity bond for each appointment as trustee that he holds.
+7 Resignation of trustee and vacancies
+A trustee may, in the prescribed circumstances, resign his office by giving notice to the court (s 298(7)).
+Before resigning, the trustee must call a meeting of creditors and the notice of the meeting must be accompanied by an account of his administration (r 6.126).
+A trustee may only resign because of ill-health, ceasing to be a qualified insolvency practitioner or because of some conflict of interest (r 6.126(3)).
+Where two or more trustees were originally appointed, any one can seek to resign if he and the others are of the opinion that it is no longer expedient to have that number of joint trustees (r 6.126(4)).
+Notice of the meeting must also be given to the official receiver and the chairman of the meeting must inform the official receiver of the resolutions passed at the meeting, viz to accept the resignation of the trustee, that a new trustee be appointed and that the resigning trustee be or not be given his release (r 6.127(3)).
+The trustee's resignation is effective from the date the notice of it is filed by the official receiver at court (r 6.127(7)).
+If the creditors refuse to accept the trustee's resignation, the court may, on the trustee's application, give him leave to resign (r 6.128).
+If there is no quorum at the meeting summoned to receive the trustee's resignation, the resolution to accept the resignation is deemed passed.
+During any vacancy in the post of trustee (such as that caused by the death of the trustee), the official receiver is by virtue of his office the trustee (s 300(2)).
+He must then decide whether or not to summon a meeting of creditors to replace the trustee having regard to the stage in the administration reached by the previous trustee (s 300(3)).
+If one quarter, in value, of the creditors request him to convene a meeting to appoint a new trustee, he must do so (s 300(3)).
+8 Removal of trustee
+A trustee (other than the official receiver) can be removed by resolution of the creditors at a meeting duly summoned of which proper notice specifying the purpose of the meeting has been given (s 298(1)).
+Someone other than the trustee or his nominee may be elected chairman, but if the trustee is the chairman, he may not adjourn the meeting without the consent of at least half, in value, of those present (in person or by proxy) and entitled  vote (r 6.129(3)).
+If the trustee is removed, the creditors can also resolve not to give him his release.
+If the trustee does not summon a meeting to consider the resolution to remove him, the court can order such a meeting to be held and give directions as to the way it is to be conducted (r 6.130).
+However, if an application is made to the court for an order requiring the trustee to summon a meeting to consider a resolution for his removal as trustee, the court may, if it thinks no sufficient cause has been shown for the application, dismiss it but not until after an ex parte hearing of the applicant (r 6.132(2)).
+If the court considers the application should proceed, a date will be fixed.
+The court can remove a trustee on the application of an interested person and r 6.132(2) applies to such an application as well.
+The Secretary of State can remove a trustee, but before doing so must notify the trustee and the official receiver of his decision and his reasons and specifying a period within which the trustee can make representations against his removal (r 6.133).
+In all the above cases, the trustee removed from office may or may not be given his release.
+The Creditors' Committee
+1 Membership and establishment of the committee
+Any creditor (other than a secured creditor) is eligible to be a member of the committee provided that he has lodged a proof of debt and his proof has not been wholly disallowed for voting purposes nor for the purposes of distribution and dividend (r6.150(2)).
+A body corporate may be a member of the committee (r 6.150(3)) but it can only act through a representative duly authorised in accordance with r 6.156.
+This requires the representative to hold a letter of authority from the member, entitling him so to act, and signed by or on behalf of the committee-member (r 6.156(2)).
+Consent to act on the committee can be given by a proxy holder present at the meeting establishing the committee unless the proxy says otherwise (r 6.151(3)).
+The creditors' committee must consist of at least three and not more than five creditors.
+The creditors' committee does not come into being until the trustee has issued a certificate of its due constitution (r 6.151) and his certificate must not be issued until he has received the written consent to act from three members of the committee (r6.151(3A)).
+2 Functions and rights of the committee
+The main function of the creditors' committee is to determine the remuneration of the trustee (r 6.138(3)).
+It can determine that the trustee should be paid a percentage of the value of the assets realised and/or distributed, or by reference to the time spent by the trustee and his staff, and must have regard to the  complexity or otherwise of the matter, any exceptional responsibility falling on the trustee, the trustee's effectiveness and the value and nature of the assets dealt with by the trustee.
+If the committee resolves that a trustee who has used improper solicitation to obtain proxies or to procure his appointment as trustee, should nonetheless receive remuneration for acting as trustee, the court can override this resolution (r 6.148(2)).
+Schedule 5 to the Act sets out a number of powers which a trustee can only exercise with sanction.
+Where there is a committee, it is that committee from whom sanction must be sought in the first instance.
+These powers are:(i) to make any compromise with creditors or persons claiming to be creditors;(ii) to bring or defend proceedings;(iii) to carry on the business of the bankrupt so far as may be necessary for the beneficial winding up of the estate;(iv) to accept payment in the future on the sale of any property comprised in the estate.
+It is the duty of the committee to review the adequacy of the trustee's security (r 12.8).
+It is the duty of the trustee to report to the committee all such matters as appear to him or as the committee have indicated to him to be of concern to them with respect to the administration of the estate (r 6.152(1)).
+The trustee need not comply with any request for information where it appears to him that the request is frivolous or unreasonable or the cost of complying would be excessive or there are not sufficient assets to meet the cost of complying (r 6.152(2)).
+The trustee must send a report to every member of the committee setting out the position generally regarding the progress of his administration.
+Such reports must be sent not less than once every six months, or once every two months (r 6.163).
+3 Meetings of the committee
+The first meeting of the committee must take place within three months of its establishment and thereafter within twenty-one days of a request for a meeting by a member of the committee or on the date previously resolved by the committee for a further meeting (r 6.153(2)).
+Meetings are to be held otherwise when and where determined by the trustee (r 6.153(1)).
+The trustee is to chair meetings of the committee, but he may  nominate someone else to stand in for him and that person must either be an employee of his experienced in insolvency matters or another qualified insolvency practitioner (r 6.154).
+The quorum for meetings of the committee is two (r 6.155).
+A member of the committee can be represented by someone else provided that person is holding a letter of authority duly signed by the member (r 6.156).
+4 Resolutions by post
+The trustee can seek to obtain the agreement of members of the committee to a resolution by sending to every member a copy of the proposed resolution (r 6.162(1)).
+Each resolution must be set out so that agreement or dissent to each resolution can be indicated.
+Any member of the committee can within seven business days of the resolution being sent out require the trustee to summon a meeting to consider the matters raised by the resolution (r 6.162(3)).
+In the absence of such a request, the resolution is deemed to have been passed if and when the trustee is notified in writing by a majority of the members that they concur (r 6.162(4)).
+5 Termination of membership and vacancies
+A committee member may resign by notice in writing to the trustee (r 6.157).
+A person's membership of the committee is automatically terminated:(i) if he becomes bankrupt (his trustee replaces him) or he compounds with his creditors;(ii) if he is not present or represented at three consecutive meetings (unless at the third meeting it is resolved that this rule will not apply); and (iii) if he ceases to be or is found never to have been a creditor (r 6.158).
+A committee member may be removed by resolution of the creditors at a meeting of which fourteen days' notice has been given (r 6.159).
+If a vacancy on the committee exists, then:(i) it need not be filled if the trustee and a majority of the remaining members so agree:(ii) the trustee may appoint some other creditor to be a member if the majority of the remaining members so agree; or (iii) a meeting of creditors should be convened so that another creditor can be appointed and fourteen days' notice of such meetings must be given (r 6.160).
+6 Dealings with committee members
+No member of the committee, his representative or associate of them nor any person who was a member of the committee in the last twelve months must enter into any transaction whereby he receives out of the estate any payment for services given or goods supplied in connection with the administration or obtains any profit from the administration or acquires any asset forming part of the estate (r 6.165(2)) except with leave of the court, with prior sanction of the committee where full value for the transaction is given and in cases of urgency or by way of performance of a contract in existence at the date of the bankruptcy order where leave of the court is sought subsequently without delay (r 6.165(3)).
+No member of the committee, his representative or associate must vote on any resolution to sanction any such transactions (r6.165(4)).
+7 Expenses of members
+Members of the committee are entitled to receive any travelling expenses directly incurred by them or their representatives in attending at committee meetings or otherwise on the committee's business (r 6.164).
+These expenses are payable out of the estate in the order of priority prescribed in r 6.224.
+8 No committee
+Where there is no committee and the trustee is other than the official receiver, the functions of such a committee are vested in the Secretary of State except to the extent that the rules otherwise provide (s 302(2)).
+Proofs of Debt and Dividends
+1 Mode and form of proof
+Every person claiming to be a creditor of the bankrupt must submit his claim in writing to the official receiver where acting as receiver and manager or to the trustee (r 6.96(1)).
+This is called proving a debt and the document by which the creditor seeks to establish his claim is his proof (r 6.96(2)).
+A proof must be in the form known as "proof of debt" (whether the form prescribed by the rules and set out in Sched 4 to the rules as Form 6.37 or a substantially similar form, see App C, form 34) and must be signed by the creditor or someone authorised on his behalf (r 6.69(3)).
+Government departments do not have to use this form provided they give all the information required.
+Proof of debt forms must be sent out by the official receiver or trustee to every creditor who is known to him or identified in the statement of affairs (r 6.97).
+If the official receiver decides not to summon a meeting of creditors, he must nonetheless send out proofs of debt with the notice of his decision.
+If he decides to call a meeting, then the proofs of debt must be sent with the notice convening the meeting.
+If the trustee is appointed by the court, he must send out proofs of debt with notice of his appointment.
+(r 6.97(2)).
+The trustee may require a proof of debt to be verified by affidavit in the form set out in Schedule 4 to the rules or a substantially similar form (Form 6.39, see App C, form 35).
+Such an affidavit can be sworn by the creditor before his own solicitor (r 7.57).
+2 Provable debts
+All claims by creditors are provable as debts against the bankrupt whether they are present or future, certain or contingent, ascertained or sounding only in damages (r 12.3).
+Formerly unliquidated damages in tort were not provable debts but they are now covered by the wide nature of r 12.3.
+However, fines or obligations under family or domestic court proceedings and under the Financial Services Act are not provable (r 12.3(2)).
+3 Contents of proof
+The following must be stated in a proof of debt (r 6.98(1)):(i) the creditor's name and address;(ii) the total amount of the debt as at the date of the bankruptcy order;(iii) whether interest is included;(iv) whether VAT is included;(v) whether any part of the debt is a preferential debt as defined in s 386 of and Sched 6 to the Act;(vi) particulars of how and when the debt was incurred;(vii) particulars of any security held and, if so, its value;(viii) the name, address and authority of the person signing if not the creditor himself; and (ix) any documents which can substantiate the claim though these need not be sent unless the trustee requests them (r 6.98(3));(x) if the debt was incurred in a foreign currency, the sterling equivalent at the date of the bankruptcy order must be calculated and stated (r 6.111) and the rate of exchange must be the official rate, ie that fixed by the Bank of England or by the court.
+4 Debt payable at a future date and of a periodic nature
+If a creditor is owed a debt not payable at the date of the bankruptcy order, he may nonetheless prove for the same (r 6.114) but subject to an adjustment of his dividend where payment of dividend is made before the time when the debt would have become payable.
+See r 11.13 for the method of calculation of the adjustment.
+In the case of rent and other payments of a periodic nature, the creditor may prove for any amounts due and unpaid up to the date of the bankruptcy order (r 6.112(1)).
+Where at that date, any payment was accruing due, ie where payment in arrears was stipulated, the creditor may prove for the amount which would have fallen due if the debt had accrued from day to day (r 6.112(2)).
+5 Bills of exchange and promissory notes
+Unless the trustee allows otherwise, a proof in respect of money owed on a bill of exchange, promissory note or other negotiable instrument or security upon which the debtor is liable cannot be admitted for any purpose, unless the document or a certified copy is produced (r 6.108).
+6 Time for proofs
+There is no time limit for the submission of proofs but a creditor who has not proved his debt cannot benefit from any distribution of the bankrupt's assets.
+Also until such time as a creditor has lodged a proof of debt, he cannot vote at meetings of creditors.
+Before declaring a dividend, the trustee must give notice of his intention to do so to all creditors of whom he is aware or who are identified in the statement of affairs who have not proved their debts (r 11.2(1)) and advertise his intention to declare a dividend unless he has previously invited creditors by advertisement to prove their debts (r 11.2(1A)).
+The notice must specify the last date for proving which must be not less than twenty-one days after the date of the notice (r 11.2(2)).
+The notice must also state the trustee's intention to declare a dividend (specified as interim or final) within the period of four months from the last date for proving (r 11.2(3)).
+7 Admission and rejection of proofs
+The trustee must examine every proof of debt and admit it wholly or in part for dividend.
+If he rejects a proof in whole or in part, he must give his reasons in writing and inform the creditor concerned (r 6. 104).
+The trustee must within seven days  of the last date for proving (see section 6 above) deal with every creditor's proof by admitting it or rejecting it in whole or in part or by making such provision as he thinks fit in respect of it (r 11.3(1)).
+He is not obliged to deal with proofs lodged after the last date for proving but may do so if he thinks fit (r 11.3(2)).
+Acceptance of a proof of debt for voting purposes at the first meeting is not the same as acceptance by the trustee of a proof for dividend and the trustee is not bound by the earlier decision of the official receiver.
+If a creditor is dissatisfied with the decision of the trustee, the court may on the application of the creditor reverse or vary the trustee's decision (r 6.105).
+However, subject to the power of the court to extend the time under s 376, no application to reverse or vary the decision of the trustee rejecting a proof will be entertained unless notice of the application is given before the expiration of twenty-one days from the date of service of the notice of rejection (r 6.105).
+If the creditor makes application for time to be extended, the trustee would be entitled to be heard.
+8 Expunging proofs
+The court may expunge or vary a proof which has been admitted either upon the application of the trustee or of a creditor if the trustee declines to interfere (r 6.107).
+9 Interest
+(a) Up to date of the bankruptcy order
+Where a debt proved in a bankruptcy bears interest (be it contractual or statutory), interest up to the date of the bankruptcy order can also be proved for (r 6.113).
+Even if the proved debt did not include the right to interest, interest can be claimed, up to the date of the bankruptcy order in the following cases:(i) in respect of a debt due by virtue of a written instrument payable at a certain time, interest may be claimed from that time (r 6.113(2)) at judgment rate (r 6.113(4));(ii) otherwise, after demand for repayment has been made stating that interest will thereafter be charged (r 6.113(3)) then at the rate specified in the notice provided that it  does not exceed judgment rate and is only from the date of the demand (r 6.113(4)).
+Interest due on debts which are preferential under s 386 of and Sched 6 to the Act would not appear also to be preferential.
+(b) After the date of the bankruptcy order
+If there is a surplus remaining after paying all proved debts (including interest on them up to the date of the bankruptcy order), it must be applied to the payment of interest on all proved debts (including any interest thereon up to the date of the bankruptcy order (s 328(4)).
+All debts for the purpose of entitlement to interest under this section rank equally, ie preferential debts do not have preferential rights to interest.
+The rate of interest allowable is the greater of contractual and judgment rate of interest.
+10 VAT
+A creditor whose claim includes an element of VAT can either prove for the whole amount of the claim (and pay to HM Customs and Excise the VAT element irrespective of whether or not he receives any dividend) or prove for the amount of his claim net of VAT and reclaim the VAT under the Value Added Tax (Bad Debt Relief) Regulations 1978.
+When a trustee sends out a notice calling for proofs of debt, he usually also sends out a VAT Bad Debt Relief Form pursuant to these regulations, on which the trustee certifies that a claim has been submitted to him, and this allows the creditor to reclaim the VAT element.
+For a precedent of such form, see Appendix C, form 37.
+In the event that the trustee is able to pay 100p in the pound to creditors and still has funds available, creditors are not under any duty then to seek to claim, in addition, the VAT so as to pay it over the HM Customs and Excise (Re TH Knitwear (Wholesale) Ltd (1988) 4 BCC 102).
+11 Secured creditors
+A secured creditor may, with the agreement of the trustee or leave of the court, at any time alter the value which he has, in his proof of debt, placed upon his security, but if he is the petitioner for the bankruptcy order or has voted in respect of his unsecured balance, he may revalue his security only with the leave of the court (r 6.115).
+If a secured creditor omits to disclose his security in his proof of debt, he must surrender it for the general benefit of creditors unless the court relieves him on the ground that omission was inadvertent or the result of honest mistake (r 6.116).
+The trustee may at any time give notice to a secured creditor that he proposes at the end of twenty-eight days to redeem the security at the value placed upon it by the creditor in his proof.
+The creditor then has twenty-one days in which, if he so wishes, to revalue his security (subject to r 6.115).
+The secured creditor has the right to call upon the trustee to elect whether or not to exercise his power to redeem, and the trustee then has six months in which to exercise the power or decide not to exercise it (r6.117(4)).
+If the trustee is dissatisfied with the value placed on the security, he can call upon the creditor to offer the security for sale (r 6.118).
+When the security is ultimately realised, the net proceeds must be substituted for any value previously put upon it (r 6.119).
+12 Dividends
+The trustee must give notice of a dividend to all creditors who have proved their debts (r 11.6(1)).
+The notice, which can be sent out with the dividend itself, must include the following particulars:(i) amounts realised from the sale of assets;(ii) payments made by the trustee in the administration of the estate;(iii) provision for unsettled claims and funds retained for particular purposes;(iv) the total amount to be distributed and the rate of dividend; and (v) whether, and if so when, any further dividend is expected to be declared (r 11.6(2)).
+Dividends may be sent by post, held for collection or paid in some other way (r 11.6(4)).
+A creditor can assign his right to a dividend and give notice to the trustee of this, whereupon the trustee must pay the dividend to the assignee (r 11.11).
+For a precedent of such an authority, see Appendix C, form 36.
+The trustee must not, except with the leave of the court, proceed to declare a dividend whilst there is pending any application to the court to reverse or vary a decision of his on a proof or to expunge a proof or to reduce the amount claimed (r 11.5(2)).
+If the court gives leave, the trustee must make provision in respect of the proof in question as the court directs.
+If the trustee is unable to declare any or any further dividend, he must give notice to this effect to creditors, and the notice must also contain a statement to the effect that no funds have been realised or that all funds realised have been distributed or used to meet the expenses of the administration (r 11.7).
+A creditor who failed to lodge his proof before an interim dividend was declared is not entitled to disturb that interim distribution but is entitled to receive a payment in priority to other creditors from further funds as available; similarly a creditor whose proof is increased after an interim dividend has been declared.
+A partially secured creditor is entitled to receive a dividend on the unsecured part of his claim having valued his security.
+If revaluation of his security is necessary, resulting in a greater shortfall, he is to be treated as the creditors referred to in the previous paragraph.
+The trustee cannot be sued for a dividend, but if he refused to pay a dividend, the court may order him to pay it together with, out of his own funds, interest at judgment rate and costs (s 325(2)).
+The trustee when declaring a dividend must give notice stating how the dividend is proposed to be distributed and contain the prescribed particulars of the bankrupt's estate (s 324(3)).
+On a final distribution, the trustee can ignore any creditors who have not lodged proofs of debt, after receiving notice of the trustee's intention to declare a final dividend on a specified date (s 330).
+Discharge
+1 Automatic discharge
+A bankrupt is automatically discharged three years from the commencement of the bankruptcy unless a certificate for summary administration has been issued and not revoked, in which case the period is two years (s 279(2)).
+This provision does not apply where a person has been previously bankrupt in the last fifteen years (s 279(1)).
+Where the court is satisfied, on the application of the official receiver, that the bankrupt has failed to comply with any of his obligations under the Act, it can order that time shall cease to run for as long as or subject to such conditions as it thinks fit (s 279(3)).
+Where a person was adjudged bankrupt before the new law came into force, he was entitled to an automatic discharge on 29 December 1989 or, if he was adjudged bankrupt after 29 December 1986 on a petition presented under the old law, three years after his adjudication.
+This provision is subject to the bankrupt not having been bankrupt previously within the fifteen years prior to the adjudication (Sched 11, para 13(1) and (2)) and to an application by the official receiver under the equivalent of s 279(3) (ibid, para 13(3)).
+2 Discharge on application
+A criminal bankrupt and a person who has been subject to a previous bankruptcy can only apply for their discharge after the end of five years from the commencement of their bankruptcy (s 280(1)).
+On an application to the court, the court may refuse discharge, An order for discharge must not be issued or gazetted until the time allowed for appealing has expired or, if an appeal is entered, until the appeal has been determined (r 6.221).
+5 Certificate on discharge
+Where a bankrupt has been discharged, whether automatically or as a result of an application to the court, the court must on the request of the bankrupt issue him with a certificate of discharge, and the bankrupt may also require the Secretary of State to gazette and/or advertise in any newspaper in which the bankruptcy was advertised a notice of the discharge (r 6.220).
+Appeals
+Every court having jurisdiction in bankruptcy matters may review, rescind or vary any order made by it in the exercise of its jurisdiction (s 375(1)).
+In the case of an order made by a county court (judge or registrar) or by a registrar of the High Court, the appeal lies to a single judge of the High Court and an appeal from a decision of that judge on such appeal lies, with leave of that judge or the Court of Appeal, to the Court of Appeal (s 375(2) and r 7.48(2)).
+There is no appeal from the decision of a county court registrar to the county court judge; the appeal must be to a single judge -of the High Court (Re a Debtor (No 39 of 1974)(1977) 3 All ER489).
+The time limit for appeals to a single judge of the High Court is governed by RSC, Ord 55, r 1(3), namely, four weeks from the date the order was made (not the order perfected).
+For the practice on appeals from the county court to the single judge of the High Court, see the Practice Direction, 24 July 1978,(1978) 3 All ER 64.
+Appeals from the High Court to the Court of Appeal are governed by RSC, Ord 59 except that the appeal is by way of application not summons (r 7.49(3)).
+The Secretary of State can appeal against any order for annulment, rescission or discharge (r 7.48(1)).
+An appeal against a decision of the Secretary of State or official receiver must be brought within twenty-eight days of the notification of the decision (r 7.50).
+Applications to the Court and Enforcement
+1 Title of proceedings
+All proceedings relating to bankruptcy must be  entitled  "IN BANKRUPTCY" (r 7.26(2)).
+See Appendix C, forms 1 and 2 for the general title of proceedings in both the county court and the High Court.
+2 Applications
+Rules 7.2 to 7.4 set out the procedure and practice on the filing and service of originating and other applications.
+It is necessary for the respondent to an application to be served with a sealed copy of an application.
+Normally an application must be served at least fourteen days before the hearing of it, though the court has power to extend or abridge time under s 376, and under r 7.4(6) the court may hear an application immediately, with or without the attendance of the other party, or authorise a shorter period of service.
+Where the Act or the rules do not require service of an application, the court may hear it ex parte(r 7.5).
+3 Hearing of applications
+Unless allowed or authorised otherwise, every application before the registrar must be in chambers and every application before the judge may be heard in chambers (r 7.6(1)).
+All applications are to be made, in the first instance, to the registrar, unless the judge has given a general or special direction  to the contrary or the order sought is not within the registrar's power to make (r 7.6(2)).
+The registrar may refer any matter to the judge that he thinks should properly be decided by the judge, and the judge can either dispose of the matter or refer it back to the registrar (r 7.6(3)).
+Nothing in 7.6 precludes an application being made directly to the judge in a proper case (r 7.6(4)).
+4 Evidence
+Evidence may be given by affidavit, but the court may order the attendance of the deponent for cross-examination and if he does not attend, his affidavit may only be used with leave of the court (r 7.7).
+Affidavits should be filed by the applicant at least fourteen days before the hearing at which they are to be used so that the respondent can file his affidavit not later than seven days before the hearing (r 7.8).
+The court has power to extend or abridge time under s 376 as mentioned in section 2 above.
+A report may be filed instead of an affidavit by the official receiver or trustee (r 7.9).
+Such reports are to be treated as if they were affidavits.
+5 Fee on issue
+The fee on all applications to a registrar is £10.
+The fee on all applications to a judge is £15.
+These fees apply unless there is express provision for some other fee to apply.
+6 Enforcement
+Orders in bankruptcy proceedings are enforced in the same manner as a judgement and one court can enforce the order of another court (r 7.19).
+The court can make such orders as it thinks fit for the enforcement of the duty to submit a statement of affairs and similar duties (r 7.20).
+Warrants, addressed to the High Court tipstaff or the county court registrar and bailiff, can be issued to arrest a bankrupt where there are reasonable grounds for believing that he may abscond with a view to avoiding or delaying payment of his  debts or his appearance to a petition or to avoiding, delaying or disrupting any proceedings against him or any examination of his affairs (s 364(1) and r 7.21).
+Similarly warrants can be issued to arrest any person required to attend court and answer questions relating to the bankrupt under s 366 (r 7.23).
+These warrants can also be addressed to any constable (r 7.21).
+Miscellaneous
+Where the last day for doing any act or taking a proceeding is a Sunday, Christmas Day, Good Friday or Monday or Tuesday in Easter week, or on a day on which the offices of the court are closed, the act or proceeding may be done or taken on the next day afterwards which is not one of the aforesaid days.
+Where by the Act or the rules the time limited for doing any act is seven days or less, Saturday, Sunday, Christmas Day, Good Friday, Tuesday in Easter week, Bank Holidays and any other day on which the offices of the court are closed must be excluded in computing such time.
+Order 3 of the RSC (except rr 3 and 6) applies as regards the computation of time (r 12.9).
+The court may extend or abridge the time appointed by the rules for doing any act or taking any step in the proceedings either before or after the time has elapsed (s 376).
+2 Service by post
+Any document which is to be served by post is properly served If sent by ordinary prepaid post.
+Where first class post is used, the document is treated as served two days after it was posted.
+Where second class post is used, the document is treated as served four days after it was posted (r 12.10.).
+3 Access to court File
+The trustee, the debtor and any person stating in writing that he is a creditor may, at all reasonable times, inspect the file of proceedings (r 7.31).
+If the registrar of the court is not satisfied as to the propriety of the purpose of the inspection, he may refuse it.
+A judge on an ex parte application can allow inspection (r 7.28(2)).
+4 Paper, forms etc
+RSC, Ord 66, r 1 requires all documents for use in the High Court to be on 150 A4 size paper of durable quality.
+All the printed bankruptcy forms available from law stationers, whether for use in the High Court or county court, are A4 size and this size of paper should be used for all bankruptcy documents.
+The forms set out in Schedule 4 to the rules must be used in bankruptcy proceedings with such variations, if any, as the circumstances require (r 12.7).
+Where any form in Schedule 4 to the rules is substantially the same as a form used under the corresponding old law and rules, it can continue to be used with the necessary modifications until the Lord Chancellor directs otherwise (r 12.7(3)).
+Costs
+1 Costs rules
+Subject to any provisions of inconsistent effect, RSC, Ord 62 applies to bankruptcy proceedings in the High Court and CCR, Ord 38 applies to bankruptcy proceedings in a county court (r7.33).
+2 Requirement to tax costs
+There is no requirement for costs payable out of the bankrupt's estate, be they the costs of the petitioning creditor or the costs of the solicitors acting for the trustee, to be taxed (r 7.34).
+The official receiver or trustee can agree costs though if there is a creditors' committee, they can require the trustee to ask for any costs payable out of the estate to be taxed.
+In any proceedings before the court, including proceedings on a petition, the court may order costs to be taxed (r 7.34(4)).
+It would therefore seem desirable that the order for costs on the making of a bankruptcy order should be that the petitioning creditor's costs "to be agreed or taxed" be paid out of the estate.
+If an order requiring taxation of costs is made and a bill is not lodged for taxation within three months or such further time as the court may allow, the right to costs is forfeited (r 7.35).
+Unless otherwise directed or authorised, the costs of a trustee are to be allowed on the standard basis (r 7.34(5)).
+There is no scale of costs in the rules and reference should therefore be had to the fees and disbursements allowed in High Court and county court matters generally.
+There is a specimen of a petitioning creditor's bill of costs for county court proceedings in Appendix B.
+The Taxing fee when a bill has been taxed is 5p for each £ or part thereof of the total bill including disbursements and VAT.
+3 Debtor's petitions
+Any solicitor acting for the debtor must, in his bill of costs, give credit for any sum or security received as a deposit on account of the costs to be incurred (r 7.37).
+4 Costs of sheriff
+The official receiver or trustee can require the sheriff to tax his costs where the sheriff is entitled to costs as a result of insolvency overtaking an execution (r 7.36).

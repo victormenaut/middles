@@ -1,0 +1,332 @@
+
+
+APPLE ‘WORKING ON MACINTOSH SYSTEM 7.1 VERSION FOR 80486 MACHINES’
+Users of 80486-based personal computers may be able to run Macintosh System 7.1 on their machines if a project under way at Apple Computer Inc comes to fruition.
+According to MacWeek magazine, Apple has a project under way under the code name Star Trek which involves a rewrite of System 7.1 to provide users of machines built around the 80486 and above an alternative to Microsoft Corp's Windows.
+It sounds as if the project has the active backing of Novell Inc, because it is said that the software is being built atop a future release of the DR DOS MS-DOS-compatible operating system.
+Apple is said not to have made a final commitment to release the software, and the big question is where Apple sees the base of applications for it, but word is that if the go-ahead is given, the product could come to market before the end of the year.
+NOW BUNDESPOST WANTS TO PRIVATISE MAJOR USERS UNIT
+Announcing storm-damaged figures and government plundering of its profits that left nothing over for investment, Deutsche Bundespost Telekom yesterday said that following its move to set up its cellular operations as a separate company as a first step to privatisation, it was also considering privatising the unit it has created to look after large customers.
+The unit in question, for what Telekom calls Systems Customers, is part of its Business Customers division, and was established as part of the thorough restructuring Telekom has set in train; it serves 500 major companies and organisations, and its business is growing at 13% to 14% a year, against less than 5% overall growth from private customers in 1992.
+Among the arguments that had to be considered in connection with any privatisation was that the Systems division would have to compete immediately in a very competitive field, unlike the mobile business, which is still developing.
+Bundespost Telekom says that operating profit in 1992 fell 4.6% to the equivalent of $4,157m; after Telekom has made its required subvention to the federal government and its two loss-making sister units, it will be left with nothing to add to reserves — it is required by law to transfer 10 pct of its annual turnover to the federal government and to make up for losses at the Postdienst mail service and Postbank postal banking unit, Reuter notes.
+Turnover in 1992 rose 11% to $32,095m, and is forecast to grow 6.7% this year.
+SGS-THOMSON TO BUY TAG UNIT FROM  RAYTHEON CO
+SGS-Thomson Microelectronics BV is to buy Raytheon Co's TAG semiconductor on undisclosed terms.
+Assets include a factory in Zurich, and its Thyristors-Triacs product line.
+ Thyristors/Triacs /Triacs represented some 7% of the $7,610m world market for discreet semiconductors last year.
+INTEL ANNOUNCES THE PENTIUM, RATING IT AT 110 MIPS
+Intel Corp announced yesterday that it has begun shipping production versions of the Pentium microprocessor, but as the company already indicated, it will not be talking price until May, when it frees its customers to start announcing machines.
+Manufacturers — such as Compaq Computer Corp, which rushed to discuss its Pentium plans in general terms, say they expect their first Pentium machines to list for as little as $4,500, half the price set for early model 80486 machines in 1989.
+The Wall Street Journal hears that the company has listed the 60MHz version at $905 for 1,000-up, and gone as low as $850 each for its best customers; the 66MHz version is said to cost $1,000.
+Intel expects to ship ‘hundreds of thousands’ of Pentiums in 1993, and reach a manufacturing rate of 1m in 1994.
+Yesterday's edition of US PC Week says that its test lab found that the Pentium runs identical software about 80% faster than a similarly clocked 80486 in tests of an Intel-configured Pentium evaluation system.
+JAPAN FEARS CONSEQUENCES AS FOREIGN CHIPS TAKE 20% OF MARKET
+In a surprise comparable with the fall in UK unemployment for February, foreign semiconductor manufacturers took an astonishing 20.1% of the Japanese market in the fourth quarter of 1992 according to both Japan and the US — but the Japanese now worry that the system of targeting a specific foreign share of the market will be demanded for other product categories.
+There is also a fear — and expectation — that if the Japanese market begins to recover, the foreign share of the chip market will fall back again to around 16% later this year.
+The headline improvement is thought to have come about because demand for US-made microprocessors held up while demand for commodity chips for consumer products slumped.
+EVEREX CUTS STAFF BY 25% TO 500
+Fremont, California-based Everex Systems Inc cut its workforce by another 150 people, 25% to 500, less than a quarter of its size 15 months ago.
+The move is part of the company's efforts to streamline product lines to focus on higher-end systems and servers; de-emphasise some system-related peripherals; and buy in some production.
+UNIFACE CLAIMS TO BE THE FIRST TO SUPPORT IBM's DB2/6000
+Uniface Corp, Alameda, California claims to be the first proprietary language vendor to support IBM Corp's new DB2/6000 relational database for AIX Unix on the RS/6000.
+The company says it is developing an interface that links the Uniface development system with DB2/6000 servers and host databases, providing transparent read/write access to DB2/6000 databases, complete support for all DB2 features, including host and DB2 security, error handling, data integrity and recoverability.
+It will support all DB2 data types and offer the ability to develop stand-alone applications using OSF/Motif, client-server applications that link MS-DOS, Windows, OS/2 and Unix clients to DB2/6000 servers across local area networks, and will offer full support of IBM Distributed Database Connection Services/6000, the company says.
+The DB2/6000 Interface Driver will be out 60 days after IBM ships DB2/6000; no price till then.
+SUN STAKES SPARC's CLAIM FOR A PLACE IN THE RISC SUN WITH WISH LIST OF FUTURE VERSIONS
+The microprocessor wars are going to get vicious over the next two or three years, and to convince its acolytes that Sparc will be one of the survivors, Sun Microsystems has been mapping out the future of the architecture.
+Maureen O'Gara has been right there listening.
+UltraSparc-I — Sun Microsystems Inc's 64-bit Sparc implementation (CI No 2,127) is intended to carry the Sparc RISC design into the realm of 140MHz to 200MHz clock speeds, producing chips that measure between 220 and 300 Specint 92 and between 350 and 500 Specfp 92.
+First silicon of the follow-on UltraSparc-II a year later should start where UltraSparc-I leaves off, going to 275MHz with Specint 92 ratings of between 325 and 475 and Specfp 92 between 550 and 750.
+The earliest UltraSparc-III silicon is scheduled for the fourth quarter of 1996.
+The UltraSparc-III will break with the 0.5-micron CMOS technology of its predecessors and use 0.5/0.4-micron BiCMOS techniques instead.
+Like all of Sun's chips, UltraSparcs will be manufactured by one or more of its semiconductor partners.
+Flaws
+Texas Instruments Inc is a likely choice.
+The chips, offering upwards binary compatibility with preceding generations, will adhere to the Sparc V9 specification that was published by the Sparc International supporters club last year.
+Sun intends that the UltraSparc should be highly superscalar and to handle four instructions in each clock cycle.
+It will include dual-launch floating point units and be made out of a four-level metal process.
+Scalability issues have dogged the 32-bit SuperSparc, Sun's current high-end microprocessor.
+Design flaws made it hard to manufacture the thing in volume at 40MHz until recently, although it was originally targeted at high clock rates.
+Despite these serious hiccups, Sun maintains the continued scalability of Sparc and claims that simulations prove the viability of the UltraSparc.
+As a result of changes in the original masks, Sun now speaks of a SuperSparc and a SuperSparc+.
+The former is the result of its initial work and produces its current 33MHz and 40MHz Viking iterations.
+The SuperSparc+, producing early silicon now, will take it from 45MHz to an anticipated 60MHz in the fourth quarter.
+(Sun says that it is getting 50MHz parts now.)
+In the first quarter of 1994, a SuperSparc-II kicks in with first silicon clocked at around 65MHz and by the fourth quarter it should be up to 90MHz.
+Systems introductions will of course lag all silicon by some months.
+The 0.7-micron SuperSparc+ should benchmark from about 75 to 100 Specint 92 and from 108 to 135 Specfp 92.
+The SuperSparc-II will move to a 0.6-micron technology and Sun will add an enhanced integer unit, new floating point and dual-launch floating point.
+When they are combined, these enhancements are expected to increase the SuperSparc-II's floating point to a integer ratio.
+It should benchmark at between 115 and 150 Specint 92 and between 162 and 200 Specfp 92.
+Texas Instruments will manufacture the new SuperSparcs as it does the current ones.
+All SuperSparcs will follow the older 32-bit V8 specification.
+These multiprocessors will do three instructions per cycle and will be fabricated in a three-level metal process.
+Sun is also developing multiple iterations of Tsunami, its low-end low-cost high-volume single-chip MicroSparc engine.
+Sun could move the manufacture of these parts from Texas Instruments, which began it quite successfully, to Fujitsu Ltd, which has been very anxious for the business.
+Sun figures that it could have 75MHz versions of its current MicroSparc by the summer.
+By the end of the year, it should have early silicon on the MicroSparc-II part, which is designed to go from 70MHz to 100MHz by the fourth quarter of 1994.
+MicroSparc-II will get a new floating point unit, an enhanced integer unit, 4x cache and power management.
+Manufacture will move from a 0.8-micron process to 0.5 micron and from a two-level metal to a three-level.
+Voltage will shrink from 5 Volts to 3.3V.
+It should come in at around 45 Specint 92 and top out at around 60.
+The sketchier MicroSparc-III, expected to produce silicon in early 1995, will pick up at 100MHz and go to 125MHz by the beginning of 1996.
+It will use faster transistors and an external cache.
+All MicroSparcs are uniprocessors capable of one instruction per cycle, and again follow the 32-bit Sparc V8 guidelines.
+Sun reckons that its only competitors are Intel Corp and the IBM Corp-Motorola Inc-Apple Computer Inc PowerPC.
+In fact it figures that these two architectures plus its own will be the only survivors of the coming silicon shoot-out.
+Vapourchip
+To ensure its place, it is wading into the vapourchip fray from what it claims is a more defensible position.
+Its products are more seamless and easier to work with because its compilers and operating system are factored into the design.
+It wrings higher performance per clock than anybody and it has not broken compatibility the way Intel intends to do with the P6 and the way IBM has done with the Rios and its subset, the PowerPC, having apparently failed to scale the thing down to the desktop and having instead been forced to strip out 40 instructions and substitute a software emulator.
+SUNSELECT LAUNCHES VERSIONS OF PC-NFS FOR WINDOWS FOR WORKGROUPS AND FOR NETWARE
+SunSelect, the Sun Microsystems Inc personal computer-to-Unix communications and peripherals subsidiary, was due last night to launch PC-NFS 5.0 for Microsoft Corp's Windows For Workgroups and Novell Inc's NetWare.
+The new release, which begins shipping at the end of the week, includes full Windows 3.1 integration, a Windows Sockets application programming interface and NetBIOS support.
+SunSelect also announced SelectMail, an electronic mail product that enables MS-DOS and Windows users to exchange mail files with other personal computers and Unix systems.
+The new version of PC-NFS adds support for Windows For Workgroups and NetWare device drivers, enabling personal computers to share applications, files, printers and electronic mail across any TCP/IP or Open Network Computing-Network File System network, SunSelect says.
+It will provide updated device drivers for the next release of Windows For Workgroups.
+The product continues to support Windows and MS-DOS operating systems.
+NetWare support also includes Ethernet.
+According to SunSelect, the Windows Sockets applications programming interface will en-able Windows applications written to it to run unmodified over any TCP/IP network.
+Other features include enhanced terminal emulation with built-in VT52-VT320 for MS-DOS and Windows 3.0 applications — including the File Transfer Protocol and Telnet — support for international character sets and downloadable fonts.
+It also includes a PC-NFS 5.0 programmers toolkit.
+PC-NFS version 5.0 is from $560 for a single-user licence to $7,625 for a 25-user licence.
+SunSelect also introduced SelectMail.
+It comes in two editions; one for Windows-based personal computers and the other for MS-DOS.
+SelectMail 1.0 for Windows supports the Windows Sockets API and includes features such as a binary file attachment, spell checker, read and receipt confirmation and local and global addressing functions — that enable users to establish their own queuing systems for remote sites.
+Both support POP2-POP3 and SMTP mail protocols and the MS-DOS edition is a revamped version of SunSelect's PC-NFS LifeLine mail system, and includes an automated scheduler, delay delivery option, cut and paste, search and fail notification capabilities and text-attachment.
+SunSelect claims the two versions will interoperate.
+SelectMail for both operating systems will be out next month — prices are the same for both versions and start at $156, going up to $3,600.
+OPTICAL STORAGE SPECIALIST ALPHATRONIX CLAIMS TO BE FIRST WITH OPEN STORAGE MANAGEMENT
+Research Triangle Park, North Carolina-based Alphatronix — which just opened for business in Birmingham, West Midlands, has announced what it calls the industry's first open hierarchical storage management environment.
+Coming out in stages, it provides Emissary, a user-managed client-based archival application, and a separate automated system-managed hierarchical file migration application, both of which integrate with the firm's Inspire II optical jukeboxes and library management software.
+The latter is still under development and due next quarter for Sun Microsystems Inc Network File System networks, and will be followed by RS/6000.
+Emissary, which works on TCP/IP networks across DECstations, RS/6000s, HP 9000s and Suns, is out now at from $15,000.
+DEC FINALLY GETS ITS OSF/1 OUT FOR THE ALPHA AXP MACHINES
+Digital Equipment Corp has at last announced its OSF/1 Unix-based operating system for Alpha-based AXP systems, giving its Alpha hardware customers an alternative to VMS.
+OSF/1 V1.2 is its 64-bit implementation that will run applications originally designed for System V, BSD and OSF/1 Unix, according to DEC.
+It ships immediately.
+Real-time performance is the highest available from general purpose systems, claims the company.
+Software houses supporting the launch included Acceler8 Technology Corp, Crosswind Technologies Inc, Informix Corp, Ingres Corp, Micro Focus Plc, Progress Software Corp and Sybase Inc.
+Along with the operating system, DEC introduced its Polycenter advanced file system and utilities, providing high availability for large-scale storage systems, multi-disk support and performance tuning: available from May.
+DEC plans a further release of OSF/1 mid-year, adding further layered products, including the object-based Application Control Architecture Services application integration layer.
+OSF/1 V2 will support symmetrical multiprocessing and clustering, and it is due to be released between October 1993 and April 1994.
+LOTUS MOVES TO BRING UNIX INTO THE WORKGROUP WITH THIS WEEK's LAUNCH OF NOTES FOR UNIX
+Lotus Development Corp will this week announce Notes for Unix, claiming that its workgroup software is one of the key applications Unix has been missing: it was previewed at UniForum last week.
+The new product, based on Notes 3.0, will enable Unix users to communicate, share information and develop applications with users of OS/2, Windows and now also Macintosh versions of Lotus Notes.
+Unix versions for Sparc, Precision Architecture, Rios Power RISC and Santa Cruz Operation Inc Unix on iAPX-86 are due in the second half of the year.
+The Santa Cruz version will run under Open Desktop, the Sparc version under both Motif and Open Look, and the others under Motif.
+Lotus is also expected to streamline its Notes pricing, making it uniform across all systems, and comprehensible as far as multiple licences go.
+As we went to press, pricing had not been fixed, but it should be personal computer-style — that's currently $600.
+The company has lined up US distributors Merisel Inc, Ingram Micro Inc and Scan Graphics Inc to sell the products, and will back away from direct sales, it promises.
+Lotus also expects to publish the application programming interface for Notes to encourage software development.
+Notes Release 3.0 includes the Object Linking and Embedding-like LEL Link Embedded and Launch-to-edit facility.
+Despite some rave reviews, Notes, which Lotus characterises as an enterprise but with a long sales cycle, has not been a runaway best-seller for the Cambridge company.
+There are between 300,000 and 400,000 personal computer versions out there, tiny numbers for a Lotus, even though personal computer networks have been selling like hot cakes.
+NCR ANNOUNCEMENTS
+Client Server Rapid Implementation consultancy programme to provide quick prototypes
+At UniForum, NCR Corp announced its Client Server Rapid Implementation programme, a consulting service that it says develops Unix-based client-server computing prototypes for a customer in less than 60 days.
+The programme is intended to introduce users to the client-server model and offer a flexible networked solution to solve a business problem.
+Using actual data from the customer, NCR will work with the major database vendors — it names Oracle Corp, Sybase Inc and Informix Software Inc, to build a custom prototype that combines NCR hardware and software.
+The programme is pitched at Fortune 1000 companies that have embraced open systems for strategic applications and the company suggests that it could develop a prototype to consolidate financial reporting from a company's strategic business units into corporate headquarters, connecting disparate computer environments into a client-server system.
+It will first work with the customer to identify business problems to be solved, and after the design has been determined, NCR will build the prototype around an NCR 3450 or NCR 3550 symmetric multiprocessing server — it's going after people downsizing from mainframes here.
+The NCR 3450 departmental or workgroup server is available as either a uniprocessor or multiprocessor, expandable to four iAPX-86 microprocessors and the NCR 3550 is designed for use as a powerful symmetric multi-processing server for transaction processing and database applications and is expandable up to eight microprocessors.
+The application could be a combination of NCR's Co-operation and workflow automation software, with software from other independent vendors.
+Co-operation 2.1 demonstrated at the San Francisco bash
+NCR Corp has been demonstrating an enhanced version of its Co-operation environment at UniForum in San Francisco, and says that it provides enhanced scalable, enterprise-wide support, including broadened server scalability; enhanced desktop capabilities; single point, local or remote, system administration; access to object-based frameworks; updated versions of all third-party components including Windows 3.1 and Hewlett-Packard Co's NewWave 4.1; access to the Informix database; and improved diary, mail and information access.
+The new Co-operation 2.1 release scales from System 3000 uniprocessors to multiprocessors.
+Upgrades in Co-operation's Supply Cabinet, which includes drag and drop software installation, should mean a reduction in costs for an organisation, NCR reckons.
+The Supply Cabinet eliminates duplication of software and the expense of new software distribution and updates.
+A new feature provides system administration from all Co-operation domains, whether local or remote, to facilitate large installation.
+The Co-operation System Framework Libraries now gives programmer access to the framework services from Smalltalk/V Version 2.0 and Micro Focus Plc Cobol.
+There is a new Group Calendar and Mail feature to enhance workgroup working.
+No availability date was given for the new release.
+Uniprocessor models added to the 3450 multiprocessor line
+NCR Corp's decision to build its entire product line around the Intel Corp iAPX-86 chip family greatly simplifies the effort required to create new models and quickly respond to market requirements, and the company says it has added a single processor version of the System 3450 server with a new low entry-level price and the ability to upgrade to multiprocessing capabilities.
+The NCR 3450-UP is designed to enable users to add any standard feature that is released on the NCR 3450-MP unit, and supports all the software for it.
+It can be field-upgraded to a multiprocessor 3450 via a upgrade kits that include CPU board, memory board, symmetric multiprocessing bus, and firmware floppy.
+Like the current 3450-MP, the 3450-UP will be in-box upgradable to future Intel Corp technologies, such as Pentium microprocessors, and will support Unix System V.4 and Microsoft Windows NT.
+The NCR 3450-UP comes in three models, starting at $26,000.
+The first offers the base unit with 16Mb memory and a 500Mb disk, the other two each have 64Mb, the second with 1Gb disk, the third with 2.1Gb internal RAID array.
+NCR adopts Unix System V.4.2 for its workstations
+NCR Corp is now supporting Unix System Laboratories Inc's Unix System V.4.2 on its System 3000 workstations, which includes the TCP/IP Unix communications protocol and Sun Microsystems Inc's Network File System file sharing program.
+The new release enables System 3000 users to connect to multiple servers in a multi-windowed format on their screen, accessing multiple databases and applications from different sources simultaneously.
+Unix System 4.2 is modular and customers need take only the modules they need.
+These include the Client Module, which provides the functionality needed to run a Unix client with a Unix server in a local network environment.
+It includes the Unix client run-time licence, Desktop Manager, TCP/IP and utilities.
+The graphical user interface supports either Open Look or Motif applications.
+The Motif Client Module enables users to run Motif-based applications with the same tools and support as the standard client module.
+The Development Module provides development tools for a Unix client environment where System V.4.2 is the base operating system.
+The Administration Module provides for base systems administration in a Unix client-server network or multi-user installation.
+The MS-DOS Interoperability Module enables users to run Windows 3.1-based applications in a window on the client.
+There are also server and multiprocessor user modules.
+The development, administration and interoperability modules do not include run- time versions of Unix.
+The V.4.2 modules are certified for NCR AT and Micro Channel-based System 3000 work stations and support any Unix V.4 applications, and other Unix kernels such as those from Santa Cruz Operation Inc and Sun Microsystems Inc's Interactive.
+It comes either preloaded or as separate modules, at from $335 to $1,640, now.
+Unicenter up on System 3000
+NCR Corp is the latest port of call for Computer Associates International Inc with its CA-Unicenter systems management offering which is now up and running on NCR's System 3000s under Unix System V.4.
+Unicenter is designed for automated production control, security, data center administration, resource accounting and storage management.
+No prices were given.
+The IDMS and Datacom databases will also go up.
+SIEMENS' ACQUISITION OF NIXDORF ‘A DISASTER FOR THE SPANISH END’— NASKO
+The merger of Siemens AG and Nixdorf Computer AG to form Siemens Nixdorf Informationssysteme AG was ‘the worst thing in the history of the corporation’ that had happened in Spain.
+The company's vice-president, Horst Nasko, said that, before merger, Nixdorf was the second most important manufacturer in the country as regards volume sales.
+It is now seventh.
+He blamed the decline in sales on ‘the erosion of distribution channels’ and on management philosophy, which ‘must clearly undergo a radical change’.
+But he declined to comment on future plans for the Toledo-based factory, saying that managers at the Spanish subsidiary were responsible for that.
+SISTELECOM FINALLY GETS SPAIN's FIRST PAGING NETWORK OFF THE GROUND
+The Spanish Government's Telecommunications Office, having twice rejected all competitive bids for a national radio-paging licence, has finally granted this honour to Sistelcom Telemensaje, which will offer the first of three national radio-paging services that were envisaged under the National Telecommunications Plan.
+Madrid-based Sistelcom is a telecommunications consortium belonging to the Central Hispano Group, which was set up in 1991 to design and operate advanced telecommunications services within the framework marked out by the government's liberalisation of the telecommunications market.
+The group is made up of Union Electrica Fenosa SA, Dragados y Construcciones SA, Fuerzas Electricas de Cataluna SA, Banco Central HispanAmericano SA and Instalaciones y Proyectos de Telecomunicacion SA.
+More recently the group came to an agreement with Pacific Telesis International, whereby the latter took a 25% share in the company's capital.
+Sistelcom started the service on January 12, four months after signing a contract with the administration.
+It envisages covering 40% of the Spanish population initially, rising to 70% this autumn.
+Users will be able to travel as far afield as Andorra, France and Portugal with the same pager.
+To operate the service Sistelcom has set up a National Management and Operations Centre, seven regional centres, which receive the calls, process, multiplex and send them to the central system, a series of base stations, six 9,600bps tie lines to connect the national centre and the regional centres, and signal distribution tie lines via satellite.
+Sistelcom general manager Jesus Prieto said that this will be the first time that a radio-paging service has used satellite for the transmission of messages.
+ Managing director Albero Sandoval places the potential market at 100,000 users, predicting that this will rise to 600,000 subscribers over the next 10 years, of which it is hoped that some 300,000 will use Sistelcom's system.
+Sistelcom's president, Victoria Reinoso, announced that investment in the new system was running at some $3.5m per annum, and acknowledged that the system would run at a loss for the first two years.
+ALCATEL STANDARD ELECTRICA BENEFITS FROM FRIENDLY SINO-SPANISH RELATIONS
+The Spanish arm of Alcatel NV has become the most powerful telecommunications group in China after signing three contracts worth $300m with the Peking government.
+Madrid-based Alcatel Standard Electrica SA formed a consortium with the Spanish National Institute for Industry to win one of Spain's most important business coups in China since the latter embarked on its programme of economic reforms in 1978.
+The contracts were signed in the presence of Spanish President Felipe Gonzalez, and the Chinese Prime Minister, Li Peng.
+President of Alcatel Standard Electrica, Miguel Canalejo, said at the time, ‘China is our leading export market.
+The Chinese will install 4m new phone lines in 1993 — 2m home-produced and 2m from abroad.
+Of the latter 2m, 500,000 will be ours’.
+While all of Alcatel's European subsidiaries compete for business among themselves, the Spanish subsidiary had  benefited from good political relations between Spain and China, he said.
+In contrast, Alcatel France was having problems after a showdown that involved France selling Mirage fighter aircraft to Taiwan.
+This ended in the closure of the French Consulate in Canton, and a freeze on contracts to French companies — and the company's ultimate ownership does not seem to have got through to the Chinese.
+But it won't be an easy ride for Alcatel, because of China's on-going decentralisation — according to the La Vanguardia newspaper, the responsibility for payments and agreements are being transferred from Peking, which always paid immediately, to local corporations and regional administrations, which is causing great confusion.
+BARCELONA TECNOLOGICA BUILDS A BUSINESS PROMOTING INNOVATIVE TECHNOLOGY
+Barcelona Tecnologia SA is targeting 13% growth for 1993, or turnover of $2.6m, after announcing revenues of $2.1m for its 1992 fiscal year, and £180,000 pre-tax profits.
+The group supports and promotes innovative technology — over the last five years, it has marketed 46 new products, such as semiconductor module encapsulators and a product for the cryo-preservation of heart valves.
+It has also invested over $18m in helping 12 new companies to get started.
+In addition, Tecnologia has participated in various European Community projects such as the Gaudi Project.
+The first phase involved controlling access to a certain area of Barcelona during the Olympic Games by using an automatic vehicle identification system.
+Tecnologia is a mixed capital stock company, with total capitalisation of $1.5m.
+Consorcio de la Zona Franca owns 17.3%; Iniciativas SA, 14.7%, Control y Aplicaciones, Enisa, Compania General de Aguas de Espana SA each hold 11.6%; Unidad Hermetica, Banca Catalana, Comet, Barcelona Activa, Servicios de Gestion Tecnologica each have 5.8%; the University of Barcelona, the Autonomous University of Barcelona and the Polytechnic of Catalonia own 1.2% respectively; and finally, Credem has the other 0.6%.
+JUGGLING ACQUISITIONS AND DISPOSALS, P-E REORDERS ITS BUSINESS FOR RECOVERY
+Though its international activities and long term contracts business appear to offer some cause for cheer, it seems that Egham, Surrey-based consultancy P-E International Plc is not out of the woods yet.
+The company, which has been  assiduously re-structuring over the past year, saw turnover rise a slight 3.4% to £71.1m while pre-tax profit plunged 90.0% to £160,000.
+Its year end gearing fell to 32% from 22% with net borrowings up to £4m from £2.8m.
+Both gearing and borrowings have subsequently  increased , mainly because of payment of corporation tax and settlement of creditors.
+As a result, the board decided not to propose a final dividend.
+1992 has been tough.
+The third quarter proved worst of all according to chairman George Cox, though things subsequently improved.
+He noted, in mitigation, that P-E Group's share of the UK consulting market has actually increased against the backdrop of biting recession — The Management Consultancies Association recorded a £36m fall in revenues among its members.
+P-E's endeavours to become ‘more international’ were said to have progressed well.
+Around £750,000 was sunk into overseas companies to increase UK export revenues.
+As a result, the proportion of revenues originating from outside the UK rose to around 27%, with the Far East and US performing particularly well.
+A number of substantial contracts are also under negotiation.
+P-E's long term contract business, considered important for the company's longer term prospects rather than short term cash generation, has also done well.
+It won two year, or longer, contracts with DuPont Co, Southern Electric Plc; the Scottish Office, in conjunction with ICL Plc; and Standard Life.
+Others are expected to follow.
+Performance-related pay
+Its new IT Management Programme, a subscription-based service aimed at keeping corporations abreast of developments in information technology has also been successful.
+Since its launch in February, it has attracted subscriptions from J Sainsbury, the Prudential, Dixons, Glaxo and the Inland Revenue.
+Shorter term cost cutting measures by P-E resulted in the disposal of Marketing Quality Assurance Ltd through a management buyout; Marketing Intraface, which was closed down; and Applied Skills for Management Ltd, which was sold back to its former owner.
+Operating losses incurred were £427,000 with further £524,000 losses arising from the disposal of Applied Skills for Management.
+More optimistically, facilities management company Northern Computing Services, acquired in May, returned to profit as did Integrated Engineering Products Ltd, which is seeing in 1993 with healthy order books.
+The earn-out agreement for AIMS Systems Ltd was also renegotiated enabling the company to be integrated with the rest of P-E.
+The review of loss-making divisions is to continue, notably the Netherlends Westvries subsidiary which lost £394,000 last year.
+Group property costs have been reduced by sub-letting or selling UK office space.
+Staff numbers were also reduced by 47 though some selective recruitment continued — and overseas personnel increased by 20.
+A new performance-related pay scheme was introduced.
+Personnel changes have percolated right up to the boardroom.
+The company now has a new chairman in George Cox; a new managing  director of consulting in Peter Smith; and a new finance director, Mike Wale.
+Ron Price is to join as a non-executive this month and a further senior marketing appointment is to be announced this month.
+This is in line with the company's efforts to raise its public image which have already resulted in a survey of client satisfaction, increased press coverage, the production of new marketing materials and a new house style.
+The outlook remains uncertain for P-E though improvement is expected, based on the group's own performance rather than friendlier market conditions.
+Cox — co-founder of Butler Cox Plc — reckons P-E is in better shape managerially and structurally, that at least, this January ‘was better than 1992’.
+SHARE & BOND ISSUES
+Tektronix Inc filed a shelf registration with the US Securities & Exchange Commission for up to $76m of debt securities, part of a $150m offering of which $74m has already been registered.
+Net proceeds will be used to repay some debt, buy in common shares for employee benefit plans and for working capital.
+The offering may be made through J P Morgan Securities Inc and Goldman, Sachs Co.
+Xerox Corp filed with the US Securities & Exchange Commission to offer 6m new shares to raise an indicated $480m or so net; the price per share and the timing of the offering will be determined by market conditions, and no underwriters were named.
+COMPANY RESULTS
+Ciprico Inc has turned in first quarter net losses of $235,000 against profits of $66,000 last time, on turnover that rose by 79.7% to $2.5m.
+Datametrics Corp has reported first quarter net profit up 11.3% at $256,000, on turnover up 3.1% to $5.3m.
+Net earnings per share remained at $0.04.
+Delphi Information Systems Inc has turned in third quarter net up 518.2% at $204,000, on turnover down 4.1% at $11.8m; net profit for the nine months stood at $731,000 against losses of $745,000 last time, on turnover that rose 20.6% to $36.8m.
+Net earnings per share rose 200% to $0.03 in the quarter, and amounted to $0.10 in the nine months.
+Electronics for Imaging Inc has reported fourth quarter net profits of $2.6m against losses of $530,000 last time, on turnover up 253.8% at $17.3m; net profit for the year to December 31 was up 961.2% at $6.6m, on turnover that rose 226.9% to $53.7m.
+Net earnings per share amounted to $0.24 in the quarter, rose 640% to $0.74 in the year.
+IQ Software Corp has turned in third quarter net profits up 96% at $717,824, after $25,342 gains from the disposal of discontinued operations this time and $1,758 losses from discontinued operations last time, on turnover up 55% at $4m; net profit for the nine months was up 93.7% at $1.7m, after $28,850 losses from discontinued operations last time, on turnover that rose 56.3% to $10.8m.
+Net earnings per share rose 90.9% to $0.21 in the quarter, and 82.1% to $0.51 in the nine months.
+Landmark Graphics Inc has reported second quarter net profits down 79.2% at $656,000, on turnover that fell by 18% at $20.5m; mid-term net down 84.1% to $820,000, on turnover that fell by 17.3% at $38.1m.
+Net earnings per share fell 30% to $0.06 in the quarter, and 83.7% to $0.08 in the half.
+Metro Tel Corp has reported second quarter net profits of $12,750 against losses of $28,989 last time, on turnover up 0.7% at $1.1m; mid-term net amounted to $73,921 against losses of $67,711, on turnover up 13% at $2.3m.
+Net per share amounted to $0.01 in the quarter, to $0.04 in the half.
+Syntellect Inc has reported fourth quarter net profits up 124.2% at $872,000, on turnover that rose 46.5% at $12.6m; net profit for the year to December 31 stood at $221,000 against losses of $2.1m last time, on turnover that rose 39.4% to $40.2m.
+Net earnings per share rose 100% to $0.05 in the quarter, and amounted to $0.03 in the year.
+P-E International Plc has reported a £48,000 net loss for the year to December 31, struck after £524,000 extraordinary costs associated with the sale of its Applied Skills for Management Ltd subsidiary, on turnover up 3.4% to £71.1m.
+At the pre-tax level, profits were down 90.0% at £160,000.
+APPLE LAUNCHES SERVERS
+Apple Computer Inc on Wednesday launches its first full-function servers, and with them hopes to persuade small- and medium-size businesses to buy from it all the computer equipment they need; the new Workgroup servers can process data up to four times faster than Quadras, and although they will support alien machines, they are designed primarily for networks consisting mainly of Macintoshes; the Workgroup Server Models 60 and 80 cost from $3,080 to $10,000, the high-end Model 95 at $7,600 to $13,000; the 95 is out by the end of April the other two this summer; the company also has a new Release 4.0 of its AppleShare file and print sharing software, and a high-end AppleShare Pro; the company is also launching AppleTalk Connection for MS-DOS and Windows to enable cross communications between Macintosh and MS-DOS boxes in a network.
+NCR CHAIRMAN TO RETIRE IN MAY
+Just after we closed for press on Friday, news came  through that NCR Corp's chairman and chief executive Gilbert Williamson would retire from the company in May and would be succeeded by Jerre Stead, currently president of AT&T Co's Global Business Communications Systems, which he is credited with having turned around; Stead, 50, will have the title group executive-NCR, and will be succeeded by Patricia Russo, currently vice president-national sales and service for the Global Business Unit; although the switch is being presented as amicable, there are mutters that AT&T is concerned that NCR has not had a higher profile since acquisition.
+CADENCE DESIGN SYSTEMS WARNS OF LOWER TURNOVER
+Cadence Design Systems Inc warns that turnover for the first quarter will be down substantially from the same period last year and it will likely see a loss for the quarter.
+THORN-EMI SHARES JUMP AFTER GEC INTEREST
+Shares in Thorn-EMI Plc jumped 10 pence to 882 pence at the opening yesterday on reports that GEC Plc is close to agreeing to buy Thorn's defence interests for about £140m; Thorn has been trying to sell the unit for two or three years now, but the Sunday Telegraph reports that any deal will require the approval of the Ministry of Defence and of the Office of Fair Trading.
+DELL KEEPS UP THE PRESSURE
+Keeping up the pricing pressure, Dell Computer Corp yesterday cut prices by $50 to $300 on six of its Dimension systems: the cuts affect three mid-size desktops and three floor-standing systems, and move than 60 Dimension configurations.
+DEC NOTICEABLE IN THEIR ABSENCE
+Digital Equipment Corp was the most obvious absentee from the Common Open Software Environment jamboree last week (CI No 2,130): was it, as some have said, that DEC was steering clear of anything that might damage Microsoft's Windows NT?— apparently not — DEC says it was simply that no one invited to join until the day before the launch.
+MEYERSON MAY ALSO HAVE RULED HIMSELF OUT
+Morton Meyerson, head of Perot Systems Corp, appears to have ruled himself out of the vacant post atop IBM Corp according to the New York Times: it reckons that RJR Nabisco Inc chief Louis Gerstner, who does not have a computer industry background, is now the only front-runner not to have ruled himself out.
+SHORTLIST TO BUY GOVERNMENT PRIVATE TELEPHONE NETWORK
+There is a shortlist of four candidates to buy the UK government's private telephone network, the Evening Standard reports: the paper says the contenders are British Telecommunications Plc, Mercury Communications Ltd, Sprint International Inc and OTC Australia — but not all have decided to bid.
+SALE OF DUTCH STATE PHONE COMPANY IN MOTION
+The Dutch cabinet has now set in train sale to the public of a majority stake in the state phone company, Koninklijke PTT Telecom Nederland NV, starting next year.
+IDB  WORLDCOMM SIGN OPERATING AGREEMENT WITH BT
+IDB  Communications Group Inc reports that its IDB Worldcom unit, yesterday announced that it had signed a correspondent operating agreement with British Telecommunications Plc which allows it to provide international services to the UK; IDB is in process of acquiring TRT, which took over the resale of capacity on the British Post Office's phone network from National Networks Ltd.
+HP TO LAUNCH PENTIUM-BASED SERVERS
+Hewlett-Packard Co says a new line of Pentium-based file and  application servers will be launched in May.
+NYNEX PURCHASE THREE UK CABLE TV COMPANIES
+Nynex Corp's Nynex CableComms unit has bought three of the eight UK cable television companies that Pacific Telesis Group Inc's PacTel Cable UK Ltd put on the market last June (CI No 1,943): Nynex has taken the Greater Manchester, Bolton and Derby franchises and while it did not disclose terms, says it plans to invest £1,000m over the next five to six years to provide local telecommunications networks in its British franchise areas; the companies it acquired are in franchise areas where it already operates.
+HP AGREEMENT TO BUY FOUR Pi SYSTEMS
+Hewlett-Packard Co has definitive agreement to acquire Four Pi Systems Inc, a manufacturer of Automated Process Test systems using X-ray technology to test surface-mount printed circuit assemblies; its patented technology generates and analyses cross-sectional images of electronic assemblies at production-line speeds; terms were not disclosed, but on completion of the acquisition, Four Pi will become a wholly-owned unit within the Automatic Test Equipment Business.
+UNIQUE OFFER FROM SHORT TERM RENTAL SYSTEMS
+Morden, Surrey-based Short Term Rental Systems Ltd can now offer UK customers what it reckons is a unique combined hardware and software personal computer rental service, thanks to a series of agreements with WordStar International Inc, Microsoft Corp, BitStream Inc and Lotus Development Corp: users are offered a combination of Compaq Computer Corp, Dell Computer Corp and Apple Computer Inc machines ready-loaded with the software of their choice — an 80486 machine with colour monitor, inkjet printer, WordStar word processor and Lotus spreadsheet will cost £135; 24 hour support is also available from Bushey, Hertfordshire-based Professional Support Centre; the service is aimed at ‘Small-Office-Home-Office’ users, large corporates wanting to hire machines for project work, and hotels, exhibition and conference organisers wishing to hire out facilities to clients; rental, naturally, has been viewed with suspicion by software companies anxious about piracy — Short Term Rental has got round this by removing the installation commands from the software it rents so preventing users from copying.
+VMX COMPLETES RHETOREX PURCHASE
+San Jose-based VMX Inc completed its previously announced acquisition of Rhetorex Inc of Campbell, California for 1.75m new shares.
+IWERKS ENTERTAINMENT PLANS FUTURISTIC CINEMATIC CITY
+Iwerks Entertainment Inc, a Burbank, California company that includes Sun Microsystems Inc among its backers, says it plans to open movie park entertainment centres that will combine large-screen formats, simulation and virtual reality technologies to create a futuristic cinematic city: it plans to open the first Cinetropolis in August at the Foxwoods Casino in Ledyard, Connecticut, and has also signed an agreement with the Japanese trading firm Itochu Corp to launch a network of Cinetropolises throughout the Far East and Asia; Cinetropolis will be a virtual city of cinemas featuring five separate sites: an Iwerks Video 360 circular theatre an Iwerks 870 giant screen theatre, an Iwerks Virtual Reality simulation  theatre , and a live performance theatre, all built around a street scene featuring bars, restaurants, retail stores and promotional marketing space.
+ECMA ENDORSES MAXOPTIX
+San Jose-based Maxoptix Corp, joint venture of Maxtor Corp and Kubota Corp, reports that the European Computer Manufacturers Association has formally endorsed the Maxoptix 1Gb zoned constant angular velocity magneto-optical disk format as ECMA Standard £183 and that it has been accepted by the International Standards Organisation for its Fast Track procedure as a Draft International Standard; the spec is an extension of the 650Mb standard.
+GTE TO SELL NORTH AND SOUTH DAKOTA PHONE SERVICE AREAS
+GTE Corp's GTE Telephone Operations in Irving, Texas has signed definitive agreements to sell its telephone service areas in North Dakota and South Dakota for an undisclosed sum: it will sell its 10,200 access lines in North Dakota to TPC Inc, owned by United Telephone Mutual Aid Corp, Dakota Central Telecommunications Cooperative and Polar Communications Mutual Aid Corp and its 8,000 access lines in South Dakota to Golden West Telecommunications Co-operative, GTE said.
+DSC COMMUNICATIONS FENDS OFF SHAREHOLDER SUIT
+DSC Communications Corp, Dallas has seen off a shareholder suit brought against the company and some of its officers in 1991 over the problems some of the Baby Bells had with the software for the MegaHub Signal Transfer Point: the suit has been dismissed without prejudice and the motion to certify class action status for it has been declared moot.
+CRAY PROVIDES FIRST RAID LEVEL 3 CAPABILITY
+Cray Research Inc has a new disk array based on its DA-60 and DA-62 arrays and a new DCA-3 channel adaptor, providing the first RAID level 3 capability from Cray and a four-fold increase in data transfer rate; it also cut prices on its DD-60 and DD-62 disk drives, which make up the DA-60 and DA-62 arrays, by 20% and 28% respectively; DA-60 prices now begin at $190,000 and DA-62 prices begin at $120,000; the DCA-3 channel adaptor is based on the chip technology used in the Y-MP C90 supercomputer; it's $50,000.
+MOVES TO LICENSE NEW US RADIO FREQUENCIES
+Up to now the US airwaves have been free, but there are moves to license any new frequencies that become available to the highest bidder — some argue that television should go entirely by cable to free capacity for radio communications: the US Federal Communications Commission is supporting a bill in Congress to free 200MHz of government-controlled radio frequencies for commercial use, in part through auctions; the National Association of Broadcasters said it would support the bill if broadcast frequencies were exempt from the auctions; McCaw Cellular Communications Inc is also a supporter of the bill.
+NETWORK IMAGING CORP TO ACQUIRE OPTIX
+ Retson , Virginia-based Network Imaging Corp has agreed to acquire Optix SA for shares worth $39m: Optix is a document imaging and optical storage technology company headquartered in Paris; in the year to March 31 1992, it had earnings of $2.5m on turnover of some $40m.
+METROPOLITAN AREA NETWORKS MARKET COULD BE WORTH $2,000m
+Metropolitan Area Networks could form a market worth $2,000m worldwide by the end of the century, Siemens AG reckons: the company believes that hardware spending on the systems could soar, while customers using the systems could generate a further $10,000m of business: the remarks were made at a conference to announce a £3m order won by GEC Plessey Telecommunications Ltd, in which Siemens owns 40%, to supply metropolitan area equipment to British Telecommunications Plc, Reuter reports.
+NETWORTH EXPECTS LOWER SALES AND PROFITS
+Dallas, Texas-based NetWorth Inc warns that it expects lower than expected sales and net profit for its third quarter to March 31 — turnover will be about flat with the $4.4m of the second quarter, and profits down about breakeven; the company blames the fact that it is converting an element of its Series 4000 products to a new Ethernet implementation and is experiencing  unforeseen limitations of critical sole-source components.
+UNISYS ADDS TO CTOS SUPERGEN LINE
+Unisys Corp added two new workstations to the CTOS SuperGen line of networked commercial workstations: the SuperGen 3000 and SuperGen 1000 are the first CTOS systems based on Unisys personal computers using standard architecture; the SuperGen 3000 is a fully featured Intel Corp 80486SL-based client workstation at about $2,000 and available now, the SuperGen 1000 costs about $3,000 and will be available next month.
+FISERV TO ACQUIRE ASSETS OF IPC SERVICE CORP
+Milwaukee, Wisconsin-based facilities manager FIserv Inc has agreed to acquire assets of IPC Service Corp, a Denver-based provider of item and data processing services for more than 20 financial institutions in Colorado; no terms given.
+LUDICROUS EC FIGURES
+Just how does the European Commission come up with that ludicrous figure of $15,000m to build a network to link national administrations (CI No 2,128)?
+It starts with about $380m over five years to help national authorities exchange information in areas such as taxes and export controls, says national governments would have to provide at least $6,700m over five years, it said, and wants another $7,900m or so over seven years to help all the Community's backward regions to build up their telecommunications and computer infrastructures; it says helpfully that loans will be available from the European Investment Bank to help with the effort.
+NORTHERN TELECOM SIGN DISTRIBUTION AGREEMENTS
+Northern Telecom Ltd signed distribution agreements with Koninklijke PTT Telecom Nederland NV and Televerket of Sweden for its Companion wireless telephone system that supports cordless phones on its PABXs: the system will be marketed in the Netherlands as Vox Cordless Companion and in Sweden as part of the Cosmos 2000 family and will be out in both countries next  quarter .
+EASTMAN KODAK HAS TO COMPENSATE GRADUATES FOR RENEGING ON EMPLOYMENT PROMISES
+Eastman Kodak Co's Japanese unit has had to pay about $20,000 each to those eight new college graduates for reneging on its promise to employ them: the money is to compensate for the psychological damage the last-minute cancellation may have caused them, and provide some of the salary they expected.
+COMPUTER OUTSOURCING TO ACQUIRE BILLING AND PAYROLL SERVICE PROVIDER
+New York-based Computer Outsourcing Services Inc, which said it wanted to make acquisitions when it went public the other day, has signed a definitive agreement to acquire a private New York-based provider of billing and payroll  services to companies in the home health care industry on a four-year earnout.
+SIERRA ON-LINE CUTS STAFF
+Oakhurst, California-based Sierra On-Line Inc has cut its staff by about 10% and will take a $900,000 charge to cover the costs; it warns that fourth quarter losses will be substantially greater than expected, based on current revenue projections at the Sierra Network combined with the lay-off charges.
+SUNRISE LEASING GET DISCOUNT ON PENNANT SYSTEMS PRINTERS
+Brooklyn Center, Minnesota-based Sunrise Leasing Corp has signed with IBM Corp to buy new mid-range Pennant Systems printers at a discount from IBM's list price, enabling it to expand its customer base because of its enhanced ability to lease and resell Pennant printers to customers throughout the US at attractive prices, Sunrise said.
+AST CUTS POWEREXEC PRICES
+AST Research Inc cut prices for three models of its PowerExec notebook computers by up to 13%: the PowerExec 3/25SL Models 83/W and 123/W, the 4/25SL Model 203/W and the 4/25SL Color Plus Model 203/W are affected; it also cut prices on its 66MHz and 50MHz 80486DX2-based models in the Bravo line 5% to 26%.
+WHAT IF THEY DO COME IN THREES?
+Reminds you of the US Interstate Highway system and the way it instantly snarled as soon as Washington residents tried to exit en masse during the riots of the late 1960s, doesn't it…that blizzard coming on top of the New York World Trade Center bombing was just the kind of disaster the disaster recovery industry has been dreading: according to the New York Times, a heavy accumulation of snow caused the roof of the computer centre in Clifton, New Jersey that supports 5,000 automatic teller machines US-wide, 6% of the total, to collapse, putting the machines out of action — and the centre couldn't transfer its operations to the North Bergen, New Jersey site where it had disaster recovery facilities arranged — because the site was full up with work transferred by Trade Center tenants…

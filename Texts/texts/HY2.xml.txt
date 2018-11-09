@@ -1,0 +1,560 @@
+
+
+4 Futures and options
+by James Leslie and Geoffrey Wyatt
+The end of the era of stable exchange rates in 1972 coincided with the birth of a whole new class of financial instruments designed to accommodate the uncertainties of the new era.
+The birthplace of this new industry was Chicago, and Chicago is still the global centre of the financial futures and options industry, though by the 1990s virtually all respectable financial centres have local access to at least one derivative assets exchange.
+London's exchanges, the London International Financial Futures Exchange (LIFFE) and the London Traded Options Market (LTOM), are among the most important outside of the United States.
+4.1 The hedging demand for derivative assets
+Futures and options are known as derivative assets because they are based on other "underlying" assets which have volatile prices.
+It is the volatility of price of the underlying asset which makes it worthwhile to create the derivative asset.
+A fluctuating asset price exposes holders of that asset to uncertain future returns.
+While the average return may be acceptable, the element of variability could imply a risk of financial loss that is unacceptable.
+People who need to hold the asset in question for trading purposes may therefore be prepared to pay for a device that guarantees a stable price.
+Futures and options are such devices.
+Individuals and corporations hold portfolios of assets, the precise composition of which depends both on the characteristics of those assets and on the asset holder's attitude to risky outcomes.
+The characteristics of an asset include both its financial properties and the uses to which it can be put.
+A ton of wheat is an asset just as is a house.
+But if wheat prices fluctuate more widely than house prices, an investor who had no particular interest in either wheat or houses would not be indifferent between them.
+We thus turn to investors' attitudes to risk and return.
+All investors prefer a greater return, other things equal.
+In particular, if all assets were equally risky, then everyone would choose the one with the greatest expected payoff to holding it.
+Equally, we expect that if all assets have the same expected (average) payoff, then most people would choose the one with the lowest variability, that is, the smallest risk.
+But, largely for that very reason, assets do vary in both their expected returns and their riskiness.
+These financial characteristics of return and risk are, in fact, positively correlated across assets.
+Investors must therefore choose and, given the same menu, not all will choose the same combination of return and risk.
+Their choice will depend on both their objective circumstances and the strength of their subjective aversion to risky prospects.
+An investor who needs to hold a particular asset in his portfolio for trading purposes may wish to exchange some of its expected return for a reduced variance  in its return.
+He could do a deal with another investor who wishes to achieve a greater return, even if that means accepting a greater risk.
+The problem is to find the other party to the deal, which requires a "double coincidence of wants" .
+In normal economic life such bartering is made unnecessary by the use of money.
+In the world of finance the need to barter is avoided either by using a financial intermediary, such as a bank, or by the use of an impersonal medium of exchange such as a derivative asset.
+Someone who wishes to reduce the risk involved in holding an asset which is essential to his business, and takes steps to do so by purchasing a future or a call option, is referred to as a "hedger" .
+His counterparty could be someone who is prepared to take on that extra risk by selling a future or writing a call option.
+If that person has no real exposure as a concomitant of trading activity but takes on the risk as a means of generating income, he is referred to as a "speculator" .
+In essence, hedgers as a group buy insurance from speculators who take calculated gambles.
+The distinction between hedging and speculating is somewhat blurred in practice.
+It is of course difficult to appraise peoples' motives for buying or selling derivative assets, so mere observation is insufficient.
+Furthermore, a pure hedge is almost impossible to achieve, so even if hedging were the main motive for acquiring a derivative asset, the transaction would almost invariably involve an element of speculation.
+A "pure hedge" refers to a situation in which the derivative asset exactly offsets the price risk involved in holding a real asset, but this can only be attained if the real asset is identical in specification to the underlying asset on which the derivative is based.
+It is seldom so in practice.
+Despite these caveats, the essential point is that the buying and selling of derivative assets is a process by which risk bearing is transferred between individuals.
+4.2 Futures and options: what are they?
+4.2.1 Futures
+A futures contract is an obligation on one side to deliver, and on the other side to take delivery of a precisely specified quality and quantity of some commodity on a specific future date.
+The only aspect of the contract that can vary is the price at which the exchange is made, which is determined at the time of the transaction.
+The obligation to make or take delivery can be avoided by an offsetting purchase or sale before the settlement date, and normally only a small proportion of all contracts are settled by delivery.
+The concept of "delivery" is a carry over from commodity based futures.
+In view of the near perfect fungibility (i.e. financial interchangeability) of financial instruments, modern financial futures exchanges sometimes specify settlement by cash.
+Thus stock index instruments and short term interest rate instruments based on bank accounts, which are difficult or impossible to deliver physically, are settled by cash.
+A futures contract is distinguished from a forward contract by the fact that it is traded anonymously as a homogeneous product on an exchange, whereas a forward contract is one whose specification is determined in direct negotiation between a particular seller and a particular buyer, and is therefore not normally tradeable.
+Futures and forward contracts have the common feature that the agreement to transact and the transaction itself are separated in time: both payment and delivery  are made in future, unlike in the spot market where the the agreement is simultaneous with the exchange.
+Most people have, perhaps unwittingly, made forward contracts — for example when ordering some good for future delivery, with an immediate down payment of a non-refundable deposit and payment of the balance by cash on delivery.
+Clearly, someone who wishes to hedge his exposure to variations in the price of an asset in his portfolio could do so either by purchasing an appropriate forward contract — from a bank perhaps — or by purchasing exchange traded futures.
+In this sense, as alternative ways to meet the same need, the two markets can be thought of as being in competition.
+However, the relation between the forward and futures markets is more complex than this.
+The set of actively traded futures contracts is very limited in comparison to the almost infinite variety of forward contracts that are struck.
+It is therefore very unlikely that any particular uncertain prospect can be completely offset by purchasing a future.
+There will always be some residual risk due to the fact that the specification of the future does not correspond exactly to the exposure in question.
+Thus the forward market — also referred to as the "over the counter market" — has the advantage, from the point of view of the hedger, that a better match to the uncertain prospect can be obtained.
+The counterparty to this forward contract, let us say it is a bank, may for its part be willing to transact because it has a wider, more diversified portfolio than the hedger, within which it can to some extent offset the risky prospect.
+However, the bank can also use an exchange traded futures contract to further reduce its risk in taking on the forward contract.
+It could do so if price fluctuations in the asset underlying the futures contract are highly correlated with the risky prospect that is the subject of the forward contract.
+Thus there are elements of both substitutability and complementarity in the services provided by the futures and forward contracts, and the two markets, while competing up to a point can also synergistically reinforce each other.
+Markets in exchange traded futures are much more "transparent" than the corresponding over the counter markets: the prices at which a future can be purchased are publicly available, and are the same for everyone.
+Thus the inconvenience of negotiation can be avoided and a decision to purchase can be made at any time and immediately put into effect.
+But to achieve these advantages, derivatives exchanges have had to devise institutional arrangements to ensure the absence of default risk.
+In over the counter deals the transactors can appraise such counterparty risk and take steps to avoid it, for example by writing conditions into the contract.
+The institutional arrangement by which futures exchanges eliminate counterparty risk of default, and preserve the anonymity of dealing, is the establishment of clearing houses.
+The clearing house may or may not belong to the exchange, but it is the counterparty to all exchange based futures and options contracts.
+All exchanges ensure that the integrity of their clearing house is beyond question so that people may invest in their derivative products without fear of default risk.
+The clearing house holds accounts for all the clearing members of the exchange.
+When a future is bought or sold, both buyer and seller deposit a sum of money called "initial margin" into a clearing member's account at the clearing house.
+The size of this deposit varies by contract, and from time to time depending on trading conditions.
+It should be sufficient to cover one day's price movement, perhaps between one and five per cent of the face value of the contract.
+The open position of each investor is then "marked to market" every day by paying into the account, or  collecting from it, any losses or profits from that day's price movement.
+These daily payments or receipts are called "variation margin" .
+Since the cash outlay on initial margin is only a small fraction of the value of the futures contract, price movements in the underlying asset have a magnified effect on this investment compared with a straight purchase of the underlying asset.
+This effect, called "leverage" or "gearing" , increases the investor's exposure to price fluctuations.
+Exchange traded futures have their origins in the markets for agricultural products, and existed in some form already in the seventeenth century in Amsterdam and in Osaka.
+The modern form of futures exchange, with a clearing house to settle contracts, is however a development of the American commodities exchanges of the nineteenth century, and the leading centres worldwide are still Chicago and New York.
+Financial, as opposed to commodity, futures were innovated in currencies by the Chicago Mercantile Exchange (CME) in 1972 and in bonds by the Chicago Board of Trade (CBOT) in 1976.
+In many countries there is no legal recourse to defaults on gambling debts, and a futures contract may be considered to be a kind of gamble.
+Clearly, the development of futures markets in such countries has to wait until futures contracts are legally enforceable.
+The need to change the law has been an important source of delay in the establishment of futures exchanges in several countries.
+An example is the Deutsche Terminbörse (DTB) in Frankfurt.
+To be successful, a futures contract must have a liquid market with low transactions costs associated with trading in the contract.
+One of the salient features about this process is a phenomenon that might be described as endogenous economies of scale: more business is attracted to contracts with low bid-ask spreads (i.e. high liquidity), and that attracts more market makers and more arbitrage and speculative activity on the exchange, and this increased competition drives down bid-ask spreads and so on in a virtuous circle.
+As a consequence, an exchange that establishes a highly liquid contract can drive away competitors and create a monopoly position for itself.
+Other exchanges have to rely on niches that are impervious to the competition from the low cost exchange — they compete by innovating such niches.
+One consequence of the process generating endogenous economies of scale is the virtual monopolisation of global markets, for example, futures contracts in currencies, eurodollars and US T-bonds.
+These were innovated in the United States, where the innovating exchanges quickly built up a form of "first mover advantage" via endogenous economies of scale, which gave them an impregnable position in the market for their respective instruments within a very short span of time.
+Thus the main business of futures exchanges outside the US, which were not the first movers into the global markets, is in contracts for local bonds and share indexes.
+4.2.2 Options
+An option is a contract that gives its holder the right, but not the obligation, to buy or sell a specific quantity of a specific quality of a specific asset at a specific price (the "exercise price" or "strike price" ) on or before a specific day (the settlement day).
+An option contract giving a right to buy is a "call" option, while one that gives a right to sell is a "put" option.
+Traditional options are contracts written by stock exchange market makers entitling their clients to buy or sell quoted shares in some stock in the future at a  price fixed at the time the option contract is purchased.
+Such tailor made option contracts should be distinguished from the traded options we consider here.
+Another distinction is between so called European type options which can only be exercised on the settlement day, and American type options which can be exercised at any time up to and including the settlement day.
+Despite the terminology, some European type options are traded on US exchanges, and many American type options are traded on European exchanges.
+The European variety has the advantage of a simpler and better understood theory of pricing, but it is a less flexible instrument.
+An investor who holds a European call option in a stock thus has a guaranteed price at which he can buy the stock on the settlement day, if he so wishes.
+Compare this with the position of an investor who holds a forward contract in the same stock, which requires him to take delivery at the prearranged price on the settlement day.
+On the settlement day the value of the forward contract could be negative since it equals the current price of the stock minus the prearranged forward price.
+In contrast, the value of the option contract cannot be negative since it is only exercised if it has a positive value.
+It thus has a value on the settlement day which is either zero or the difference between the current price of the stock minus the option's exercise price, if that is positive.
+The seller of an option contract, or option writer, has a set of possible returns which is the exact opposite of that of the buyer of the contract.
+In particular, the option writer's possible gain is restricted to the price at which he sells the option, the option premium, while his potential exposure to loss is unlimited so long as the contract remains open.
+He can however close out the position by simply buying an option of exactly the same description as the one he had previously sold.
+Like futures contracts, options require cash guarantees in the form of margin, but unlike futures such margin arrangements differ from one exchange to another.
+On many exchanges, it is just the seller of the option who puts up initial margin, with the buyer simply paying the option premium at the outset.
+The system operating at LIFFE, called "delta based margining" , is more complex.
+It involves both buyer and seller putting up an initial margin based on the estimated sensitivity of the option price with respect to the price of the underlying asset (the option "delta" ), with subsequent marking to market on a daily basis via variation margin.
+The actual payment or receipt of the option premium is effected when the position is closed, at the rate prevailing at that time, with the difference between that and the option price at the outset having been made up by payments of variation margin.
+As with futures contracts, in most cases options are not actually exercised.
+Instead they are normally closed out by an offsetting sale or purchase beforehand.
+The option premium fluctuates over time as a function of the price of the underlying asset, its volatility and the rate of interest.
+When the current spot price of the underlying asset exceeds the exercise price of a call option, the option is said to be "in the money" (a corresponding put option would be "out of the money" ).
+The markets in options that are deeply in or out of the money tend to be rather thin, and such options are not actively traded.
+Most of the arbitrage and speculative activity on the floor of an options exchange tends to be in options that are "at the money" — i.e. those whose exercise price is approximately the same as the current spot price of the underlying asset.
+Options are more sophisticated than futures as instruments for hedging and speculation.
+Combinations of options allow investors to create a huge variety of contingent contracts: paper assets whose returns depend on the change in price of  the underlying asset in very particular ways.
+However, to benefit from the range of choice in the trade-off between risk and return that options offer, rather more is required of somebody who invests in options than is required of an investor in futures.
+He must know not only about the risks he wishes to avoid, or to take, and the price at which he is prepared to transact, but also more about the characteristics of the underlying instrument such as its volatility and the degree to which its price is correlated with the risky prospect against which he seeks a hedge (or upon which he plans to speculate).
+The recent proliferation of financial options contracts and options exchanges was led by the Chicago Board Options Exchange (CBOE), which was established in 1973 to create a market in share options.
+Two years later, the Philadelphia Stock Exchange (PHLX) also began to trade share options, and the next wave was in 1982 when CBoT introduced options on US T-bond futures and PHLX introduced options on dollar denominated currencies, followed smartly by the CME with options on its stock index future and on currency futures.
+Outside of America, the European Options Exchange (EOE) in Amsterdam and LTOM both introduced stock options in 1978, while options on bonds appeared on LIFFE in 1985.
+There has been less enthusiasm for options in the Far East where the Singapore International Monetary Exchange (SIMEX) introduced options on its CME-linked contracts in 1987.
+As indicated above, it is possible to have an option on a future — indeed all of the options traded on LIFFE are of this variety.
+LIFFE followed the lead of the CME in this, but it is by no means a universal practice.
+Of course, in order to be able to establish an option contract on an underlying futures contract, the futures contract must have a prior existence.
+But, given this condition, such options then have the advantage of a transparent, and often highly liquid, market in the underlying which is traded on the same exchange.
+Why then, it may be asked, aren't such contracts more widespread?
+Partly, it seems, because of the inherent time delay in innovating such contracts.
+This produces a trade-off between the quality of the contract and the first mover advantage that accrues to the innovator of a derivative contract.
+It is typical of options that if a particular contract does not exist in a ready made form for trading directly on an exchange, it can be manufactured from existing tradeable instruments.
+Thus the purchase of a put option is exactly equivalent to purchasing a call option at the same exercise price and simultaneously selling the underlying asset and investing a sum equal to the exercise price in a riskless bond.
+Nevertheless, we often find that both put and call contracts are available on the same exchange.
+This illustrates the importance of providing investors with products that meet their requirements at low costs.
+However, the simultaneous availability of both calls and puts may have the effect of diminishing the depth of the market in both types of instruments, and thereby reducing their liquidity.
+As a consequence, the sequence of development of a contract on an options exchange is initially to offer just a call option on the underlying, and when that is established to supplement it with a put contract.
+Option contracts, however, tend to have thinner markets than futures contracts.
+This is partly due to the greater sophistication of the instruments, but it is also due to the variety of contracts brought about by the range of exercise prices, which adds an extra dimension to contract specification.
+Just as with futures, an over-the-counter market in non-traded options exists in parallel, and synergistically, with the exchange traded products.
+Banks play an important role in providing such tailor made contracts to their customers.
+But intermediaries are often not required at all.
+The finance departments of many  companies are able to create the financial options appropriate as hedging instruments to protect against adverse price movements in their trading commitments.
+For them, the attraction of standardised exchange traded options is mainly due to the low transaction cost, flexibility and ease of trading of this type of instrument.
+4.3 London's futures and options exchanges
+In London the exchanges trading financial derivative assets, namely LIFFE and LTOM, are distinct from those trading derivatives based on commodities.
+At the time of writing there is a plan to merge these two exchanges to create a single London financial derivatives market, and we consider its implications.
+4.3.1 London International Financial Futures Exchange (LIFFE)
+LIFFE was the first pure financial futures exchange to be established outside of North America.
+It started from scratch without the prior existence of an exchange of any kind and was modelled on the successful Chicago Mercantile Exchange, which had introduced financial futures to the world a decade earlier.
+It opened for business in September 1982 with three interest rate futures contracts (eurodollar, Long Gilt and Short Sterling) and four currency futures contracts.
+Subsequently in 1985, option contracts were introduced on the interest rate futures, and in 1986 new futures contracts were introduced in US T-bonds and in the FT-SE 100.
+By this time it was apparent that LIFFE had become a firmly established feature of London's financial markets.
+a) Contract innovation
+LIFFE has pursued a policy of aggressive innovation of new derivative instruments and now has one of the most comprehensive product ranges of financial futures and options of any derivatives exchange in the world.
+This policy has been international in scope, as was presaged by LIFFE's early attempt to use its niche in the European time zone to create a market in US T-bond futures, for which the CBoT had established the world's most successful futures contract in the US time zone.
+However, the policy has not been unequivocally successful, and it is interesting to note which contracts have turned out to be successes and which failures.
+The first notable failures were the currency futures — this despite the huge global demand to hedge currency risk and the fact that London has the most important cash and forward markets in currencies.
+LIFFE simply could not establish a sufficiently liquid market in its currency futures to compete with the global centres for this business, in Chicago (CME) and Philadelphia: LIFFE's European time zone advantage was not sufficient to offset the higher cost of trading in its less liquid markets.
+This experience might have caused LIFFE to evaluate more carefully what the value of its time zone advantage actually is.
+However, the time zone niche was also the basis for LIFFE's introduction of US T-bond futures in 1986 and Japanese bond futures in 1988.
+The latter was never able to attract sufficient business to create a liquid market, and the contract in effect became moribund and had to be relaunched in April 1991 with different contract specifications, trading and  settlement procedures.
+For US T-bonds the situation looked a little more optimistic for a couple of years after the launch, but the volume of contracts traded has fallen steeply since 1988 although there has been no such decline in their home base on the CBoT, and despite the fact that LIFFE invested much effort in internationalising this contract — establishing a fungible link with the Sydney Futures Exchange (SFE) in 1986 to allow global trading in US T-bonds for 19 hours a day, and reaching an understanding with the CBoT for fungible contracts in the US T-bond and the UK Long Gilt.
+Both international links have so far come to nothing — the SFE link having been effectively abandoned for the time being, and the CBoT accord never having been implemented.
+We must conclude that the time zone niche has not delivered the benefits that were held out for it when LIFFE was established.
+By contrast, LIFFE has introduced new contracts on European interest rates, the German Government Bond ( "Bund" ) and the eurodeutschmark, which have become highly successful.
+This has been achieved despite direct competition for the German Government Bond contract from the recently created Deutsche Terminbörse (DTB) in Frankfurt, which has had considerable support from the German financial community.
+LIFFE scored here by exploiting the first-mover advantage achieved by introducing the contract two years ahead of the DTB.
+This lead time allowed LIFFE's contract to exploit the process generating endogenous economies of scale and become sufficiently liquid to attract substantial hedging demand in German long term interest rates.
+No doubt this success encouraged LIFFE to introduce other European products in 1991, including three month euro ECU and euro Swiss franc interest rate futures and an Italian Government Bond future.
+However, the competition was not asleep, and LIFFE was pipped to the post on Italian bond futures by the Paris MATIF exchange, more on which later.
+b) Trading systems
+The bulk of LIFFE's trade is conducted by "open outcry" in pits, each of which is specific to a particular type of instrument which is traded in it only during the recognised hours laid down by the Exchange.
+A large electronic price board displays current in-house information in the Exchange, which is relayed to outside agencies.
+In order to deal with increased turnover, LIFFE introduced a computerised trade registration system for all its contracts in the late 1980s.
+This provides for the rapid matching, allocation and confirmation of all trades, and at the same time supports a range of client accounting systems.
+Like other pit trading exchanges, LIFFE hosts a number of floor traders who are individual members of the exchange and who conduct business on their own account rather than on behalf of clients.
+These individuals, known as locals, are vital for the liquidity of the markets in the contracts traded in the pits.
+Their normal activity is a particular form of arbitrage, called "scalping" , in which they trade off the bid-ask spread: buying at the bid-price and selling at the ask-price.
+Of course they can only make a living in this way if they are faster than other dealers in the market.
+That is why their presence enhances liquidity.
+Locals on LIFFE may account for 20 to 25 per cent of turnover, considerably less than on the main US exchanges which tend to have more individual members than LIFFE.
+In November 1989 LIFFE commenced live operations with its Automated Pit Trading (APT) system which simulates the principles of open outcry trading on a screen after the Exchange floor has closed for trading until approximately 6 pm.
+In April 1991 LIFFE launched a new version of the Japanese Government Bond  (JGB) futures contract which trades exclusively throughout the day (7 am to 3 pm London time) on the APT system.
+This contract enables international market participants to hedge their positions during the European trading day.
+Unlike other LIFFE futures contracts, all open positions at the end of a trading day are automatically closed out at the first subsequent opening price for the respective delivery month on the Tokyo Stock Exchange's JGB futures contract.
+In this manner the TSE's JGB future can in effect be traded on LIFFE without actually being fungible between the two exchanges.
+LIFFE believes the APT system will provide an efficient and cost effective market for this new contract.
+Members have direct access to the contract from their offices, which is particularly attractive to those with a limited presence on the trading floor but an active interest in the Japanese bond market.
+c) Clearing, regulation and membership
+LIFFE uses an independent clearing house to register, clear and guarantee (via margins) all trades whether generated in the pits or by the APT system.
+The London Clearing House (LCH) performs this role.
+It is a division of the International Commodities Clearing House Limited (ICCH) which is owned by six major UK clearing banks and provides clearing facilities to a number of UK and foreign exchanges.
+The banks which own the ICCH have provided an explicit guarantee of £150 million to cover the LCH's clearing activities.
+All LIFFE's clearing members of the LCH must satisfy strict standards as regards their ownership, management control and tangible net worth.
+Both LIFFE and its members are regulated under the provisions of the Financial Services Act, 1986.
+LIFFE is authorised as a Recognised Investment Exchange by the Securities and Investments Board (SIB), the chief regulator of the UK financial services industry.
+To satisfy the requirements for authorisation, LIFFE must ensure that its rules and market practices are such that business is conducted in an orderly manner and affords proper protection to investors.
+Daily supervision is the responsibility of LIFFE's Board of Management.
+Its Market Supervision Department is charged with ensuring an orderly market for contracts at all times.
+This department monitors the financial position of Exchange members and requires them to report daily on their aggregate open positions in each contract.
+In addition, it is authorised to inspect members' accounting records.
+The LIFFE Board has the authority to raise margin requirements and to close out positions on all or specific contracts in the event of a market emergency.
+The Securities and Futures Authority (SFA) which is the Self Regulating Organisation (SRO) for the securities and derivatives industries, takes on most of the responsibility for authorising which firms can carry out futures and options business in the UK.
+In particular it monitors each firm's conduct and capital adequacy.
+LIFFE's membership is widely representative of the financial services industry.
+It includes banks, stock exchange firms, commodity brokers and discount houses, together with experienced individual traders, locals, who trade on their own account.
+Overseas firms make up a significant proportion of the membership.
+Financial deregulation, with its resultant mergers and reconstructions, has reduced LIFFE's membership to under 200 firms which between them own shares in the Exchange.
+Each share enables the holder to have one trader on the floor.
+Anticipating the merger, four classes of shares have been issued: A shares permit  full futures contract trading; B shares permit restricted futures trading in specific contracts; C shares permit options trading; and D shares permit trading in equity (share) options.
+A secondary market exists for these shares, and they fluctuate in value according to demand, which is of course determined by the profitability of the trading on the Exchange.
+Exchange turnover and the commission income it generates are key factors in the determination of profitability and hence share prices.
+d) Assessment
+Table 4.1 provides information on trading volumes for the futures and options contracts listed on LIFFE between 1987 and 1990.
+In addition to these, the following contracts were introduced in 1991: a euro-Swiss franc interest rate future, an ECU bond future, a "Eurotrack 100 Index" future, and an Italian Government Bond future.
+It is evident from this spate of new product launches that LIFFE sees an important European role for itself in the future.
+We judge the success of a contract by the volume of trades conducted in it.
+This is correlated with both the profitability for members of the Exchange who trade in that instrument, and the liquidity of the instrument, which is the relevant criterion for the hedgers and speculators who are the exchange's ultimate customers.
+Table 4.1 Trading history on LIFFE   The very strong growth of 1989 and 1990 enabled LIFFE to regain from the MATIF its position as the busiest futures and options market in Europe.
+In 1987 the Long Gilt future accounted for more than half the trades on LIFFE but, while still trading strongly, it had been relegated to third place by 1990, having been outstripped by both the new German Government bond ( "Bund" ) contract and the Short Sterling contract in importance.
+The three-month euro D-mark interest rate future, which was introduced in 1989 has been an important source of trading activity from its inception.
+These developments can be explained by the factors affecting the underlying hedging demand for these products.
+Thus the Long Gilt suffered a mild setback in 1988 and 1989 as the public sector finances moved from deficit to surplus and the Treasury instituted a "buy-back" programme for long-dated gilts.
+Partly due to this, the long end of the yield curve has been rather stable in the UK, and the need to hedge at this end of the term structure was diminished.
+However, turnover increased in 1990 due to UK entry into the European Exchange Rate Mechanism, which implied a shift in longer term inflationary expectations and a fortiori long rates of interest, combined with the fact that the public sector finances had moved back into deficit.
+The German Bund contract was strong from the outset, probably due to the previously unsatisfied demand for derivatives based on German bonds, but this has been strengthened considerably by the reunification of Germany and the resulting uncertainty about long term yields on German paper.
+The volume of trading of this contract was hardly affected by the introduction of an identical contract on the DTB in November 1990.
+The screen traded DTB Bund contract achieved only one tenth the volume of trading of LIFFE's pit traded equivalent up to October 1991.
+Thereafter the DTB received "official" support from the German banks which have re-routed Bund futures contract business through their own domestic exchange.
+This notwithstanding, LIFFE's Bund contract volumes have remained healthy at over 900,000 contracts per month and it remains LIFFE's most important contract.
+At the short end of the term structure of interest rates are the three month Sterling and the three month euro D-Mark futures.
+Both have had a strong hedging and speculative demand due to the volatility of short interest rates, and they are connected by the fact that the authorities in the UK, as well as the market participants, keep a close eye on the differential between short rates in the two countries.
+As a consequence there is considerable scope for "basis trading" on the interest rate differential by simultaneously adopting positions in both contracts.
+LIFFE's other international products, based on US T-bonds and eurodollars, have been markedly less buoyant than its European products since 1988 and 1989 respectively.
+These contracts complement their Chicago equivalents in the European time zone, and the trends on LIFFE to a certain extent mimic those in Chicago.
+But in addition, the time zone advantage is, as has been noted earlier, less valuable than was originally thought.
+It is also vulnerable to an extension of trading hours in Chicago, either in the pits or from new electronic trading systems.
+It is certain that LIFFE could not match the CBoT's or the CME's liquidity in these contracts if it came to head on competition.
+The FT-SE 100 index future is LIFFE's only foothold in UK equity derivatives.
+Its initial growth was interrupted by the subdued stock trading that followed the 1987 stock market crash, though it has since resumed to trade in reasonable volumes.
+Since February 1991 the contract has been traded on LIFFE's screen-based APT system after 4.32 pm, when share dealing on the International  Stock Exchange (ISE) stops.
+Thus, the APT system allows investors to react to market sensitive news released late in the afternoon and also to movements of New York share prices that might affect the direction of the following day's trading on the ISE.
+This contract may be strengthened by the fact that deregulation now permits the use of futures and options by pension funds and unit trusts, and also by recent changes in the tax regime as regards profits from derivative trading.
+e) Innovation competition
+The dynamic process generating endogenous economies of scale leads exchanges to compete by being first off the mark in a particular contract so as to achieve a sufficiently high level of trading, and consequently liquidity, and thereby low transactions costs for the traders in that contract.
+Once that has been achieved it is very difficult for a competitor to come from behind.
+We have compared this process to a gold rush — it is an example of the more general phenomenon of "first mover advantage" that can be found in the economics literature on innovation competition.
+The need to steal a march on the competition when introducing new contracts is illustrated by the recent history of product innovation on LIFFE.
+The German Government Bond contract was the first example of really aggressive product innovation in Europe.
+LIFFE was aware of plans to set up the DTB, and moved quickly to pre-empt its business in German long interest rates.
+It then had the good fortune of lengthy bureaucratic delays in setting up the DTB in Frankfurt, which enabled LIFFE to establish a very liquid Bund contract market.
+The lesson has not been lost elsewhere in Europe, where the competition to launch new products has become very intense.
+Thus, in February 1991 LIFFE launched a euroswiss franc interest rate contract, recognising the Swiss franc's important role as a eurocurrency and its non-ERM status.
+But SOFFEX (Swiss Options and Financial Futures Exchange) responded promptly by launching an identical contract in March 1991.
+The competition between LIFFE and SOFFEX for this business is not yet resolved.
+It will probably turn on the relative importance of being close to the cash market (SOFFEX) as against the synergistic presence of other contracts on the same exchange (LIFFE).
+LIFFE launched an ECU bond contract in March 1991, in direct competition with a contract with slightly different specifications that the MATIF had launched in October 1990.
+LIFFE had the advantage of a pre-existing ECU interest rate contract so that the pair could provide a fuller coverage of the ECU interest yield curve.
+But this synergy was not sufficient to overcome the early liquidity advantage established by the MATIF.
+In late 1991 LIFFE revised its ECU bond contract specifications in an attempt to increase its liquidity and make it a viable product rather than delisting it.
+Both exchanges are looking ahead to increased used of ECU debt instruments as the single European financial space becomes a reality.
+It was hardly a coincidence that the MATIF launched an Italian Government Bond future contract a few weeks ahead of LIFFE's similar product in September 1991.
+The attraction of this product for both exchanges is the hedging and speculative demand for a derivative product from holders of long term Italian national debt.
+The Italian national debt is the third largest in the world, but until recently the short maturity and floating rate nature of its debt has prevented the provision of a suitable futures contract.
+On 26 June 1991 LIFFE launched a futures contract on the ISE's new Eurotrack-100 Index.
+This is a GNP-weighted index of 100 European stocks, excluding UK stocks.
+The contract is denominated in deutschemarks and is expected to be used by fund managers managing their mainland Europe portfolio exposures.
+A complementary option on this index was launched by LTOM in September 1991.
+However, these novel contracts face stiff competition from the Euro-Top 100 Index contracts, which include UK equities and were launched simultaneously on 6th June 1991 by EOE and SOFFEX and later by MATIF.
+These latter are denominated in ECUs, Swiss francs and French francs, respectively, but are otherwise equivalent.
+4.3.2 London Traded Options Market (LTOM)
+LTOM was established in 1978 as one of the component markets within London's International Stock Exchange (ISE).
+It provides a market for trading in two types of options — UK equity stock options and Index options.
+All ISE members are entitled to trade on LTOM, where they can undertake a variety of different functions ranging from broking through to market making and clearing.
+The initial low volume of stock option deals gave rise to doubts as to whether demand existed in the UK for a traded options market.
+However, tax legislation changes and vigorous marketing overcame the investor hesitancy.
+An American style cash settled traded option contract on the FT-SE 100 Index was launched in May 1984, more than two years before LIFFE's complementary futures contract.
+In February 1990 a European style option was made available on the FT-SE 100 Index, and this has generated a fair degree of interest among the investing public.
+More recently in September 1991 LTOM launched a FT-SE 100 Eurotrack Index option contract which complements LIFFE's similar futures contract.
+The European style option is denominated in deutschemarks.
+It is the first joint product venture undertaken by the two exchanges in the lead up to merger.
+Dealing in traded options is by open outcry on the once busy floor of the Stock Exchange.
+When a bargain has been struck the TOPIC ( "Teletext Output of Price Information on Computer" ) price displays are altered to show the last trades made.
+No off-floor or out-of-hours dealings are permitted.
+All bargains are registered and settled at the London Options Clearing House (LOCH) a wholly owned ISE subsidiary.
+The amount of margin needed is calculated by reference to both the price of the underlying security or index and the exercise price of the traded option.
+A limited number of ISE member firms are registered market makers in options, which means that they are required to make a market in classes of ISE listed traded options.
+The volume of contracts traded on LTOM reached a peak of 12 million in 1987, since when the annual volume has declined to 7 million.
+To boost business and enhance the market's appeal to retail investors LTOM introduced firm price quotations on screen for retail orders of up to ten contracts (10,000 shares) while at the same time providing volume as well as price information.
+A major problem for LTOM is that it derives only 30 per cent of its turnover from retail investors unlike the average of 70 per cent achieved at other pure options exchanges such as the CBOE and the EOE.
+The retail business, which is essential for the maintenance of adequate market liquidity, declined after the 1987 stock market crash.
+The lack of such participants has been aggravated over the years by high commission costs and clearing fees.
+The decline in overall volume encouraged the proposed merger with LIFFE.
+Daily turnover in options has been regularly less  than the 30,000 contracts per day which it is estimated the LTOM needs to cover its costs.
+Some large securities firms have withdrawn from options market making due to inadequate returns thereby reducing market liquidity further, leading to less competitive quotes and irregular updating of prices.
+This is all in marked contrast to the DTB and SOFFEX, both of which operate screen based trading systems.
+The merger with LIFFE, and the use of a single trading floor, must result in the LTOM contemplating its own Big Bang (i.e. switching to screen trading, just as its ISE parent did in October 1986).
+Despite some resistance from independent options traders, only the index contracts are likely to be traded via open outcry on the new trading floor.
+Unless volumes pick up, stock options are destined for screen based trading as a means of cutting costs, improving market transparency and boosting overall liquidity.
+4.3.3 London International Financial Futures and Options Exchange
+In July 1990, after behind the scenes prodding from the Bank of England, LIFFE and LTOM agreed to merge into one financial derivatives market.
+A similar proposal failed in 1987 due to vested interests in both exchanges.
+Three years later competitive pressures from abroad overrode their concerns.
+By the end of 1991, all outstanding issues between the two exchanges as regards rights, clearing arrangements and operational aspects were resolved, thus making it possible to finalise the new exchange's rulebook and receive SIB/OFT approval to commence business.
+The government also helped to resolve outstanding tax problems by announcing that members of the new exchange would have stock lending relief and exemptions from stamp duty and stamp duty reserve tax.
+On 23 March 1992 the new merged market became operational under a single administration and membership with unified exchange systems and clearing arrangements.
+The new market, which preserves the LIFFE acronym, will be the most comprehensive financial futures and options exchange outside the USA.
+The operation and development of the equity derivatives market is no longer split between two exchanges, and unit operating costs may be further reduced, as enhanced economies of scope come into play.
+The move of equity options trading onto the LIFFE trading floor in the new premises at Cannon Bridge should generate trading synergy within an environment which accommodates substantial potential for growth.
+4.4 London's overseas competition
+4.4.1 United States
+Overseas competition for London's financial derivatives exchanges comes from the United States and Europe.
+Some of LIFFE's products were designed to be complementary with existing and successfully established instruments in the United States: in particular currency futures and options, and interest rate derivatives based on US T-bonds and eurodollars.
+The thinking behind this was to use London's time  difference to enable trading in these instruments while the Chicago and Philadelphia exchanges were closed, the aim being to offer complementary products rather than direct competition.
+As it turned out, the time zone advantage was insufficient to compensate traders for the higher cost of doing business in LIFFE's less liquid markets, so the bulk of the global business has thus remained in the USA.
+The upshot is that London currency derivatives have completely disappeared, currency futures are now a monopoly of the CME while currency options are split between the CME and Philadelphia.
+Meanwhile, LIFFE still trades derivatives in US T-bonds and eurodollars, but these account for less than 5 per cent of the exchange's total business.
+London is therefore not competing directly with US exchanges.
+However, the situation could change if the latter introduce electronic trading systems which would enable them to do business 24 hours a day.
+Such technology once in place may signal a new era of competition: for example, it might allow the Chicago exchanges to try to wrest some of the specifically European interest rate and index derivatives away from the Europeans.
+Within the United States the exchanges sometimes complain of over regulation by Federal agencies and excessive tax burdens.
+This combined with the common threat of over-the-counter futures and options, i.e. off-exchange activity, has encouraged cooperation between exchanges.
+The CBoT and CME, once deadly rivals, are now cooperating over the development of a screen based electronic global trading system called Globex.
+Officials from all US exchanges have thwarted further derivatives industry regulation which might have entailed higher costs and lost business to overseas exchanges.
+This cooperation has also served to strengthen the sole regulatory powers of the Commodity Futures Trading Commission (CFTC), and has reinforced the opposition to a transaction tax proposal on futures transactions.
+We now profile the main Chicago exchanges as potential future competitors for London's, and Europe's, derivatives business.
+a) Chicago Board of Trade (CBoT)
+The CBoT is the world's largest physical and financial commodities derivative exchange.
+In 1975 it launched the world's first interest rate futures contract on Government National Mortgage Association (GNMA) mortgage backed certificates.
+For the first time cash market traders could hedge interest rate sensitive investments with a near comparable futures equivalent.
+In 1977 the US T-bond futures contract was launched; it is now the world's most successful futures contract.
+Another CBoT innovation was options on futures contracts, which were initiated in 1982 with options on the US T-bond futures contracts.
+Since then the CBoT has launched various bond and stock index futures contracts though many have been delisted due to insufficient trading volumes.
+It is worth noting that only one in twenty new products introduced by US exchanges have been successful.
+By 1981 financial futures accounted for one third of total CBoT turnover, while in 1990 the 120 million financial futures contracts traded were over three quarters of total CBoT business.
+Trading is carried out in pits.
+No futures trading is permitted outside the official time.
+Throughout the trading session completed trades are cleared through the CBoT Clearing Corporation which as a separate legal entity provides a counterparty guarantee for all trades.
+US regulation of the futures industry is carried out by the  CFTC which sanctions new contracts or changes in trading practices.
+The CBoT Directors are responsible for all aspects of the Exchange's activity.
+CBoT members with access to all or some of the listed contract markets include banks, securities firms, producers and independent traders, or locals, whom the CBoT recognises as playing a particularly important role in maintaining the liquidity of its various contract markets.
+Membership is sold through a bid-ask system when a seat becomes available for sale.
+The CBoT has internationalised its futures contracts and lengthened its trading day.
+In April 1987 it introduced evening trading sessions in US T-bond contracts to enable Japanese investors to hedge their cash market positions before Tokyo opened for business.
+This strategy was an alternative to trading fungible contracts.
+Table 4.2 Recent trading history on the CBoT, main contracts  Table 4.2 provides an indication of the main contracts traded and their volumes on the CBoT.
+Though the CBoT achieved a record volume of contracts traded in 1990, it is heavily dependent on derivatives based on the US T-bond which accounted for over two thirds of total turnover.
+This situation has encouraged the CBoT to seek working arrangements with other exchanges and launch new contracts.
+Since 1988 it has had a working arrangement with the Tokyo Stock Exchange (TSE) which allows the TSE's Topix stock index and Japanese Government Bond futures contracts to be traded on the CBoT.
+So far both have traded in low volumes.
+Despite this setback to the diversification of its product range, the CBoT has received CFTC permission to trade German Government Bond futures and options contracts, and contracts on other foreign cash instruments are planned for the future.
+b) Chicago Mercantile Exchange (CME)
+The CME is the world's second largest and most diversified financial futures exchange.
+It trades over 30 futures and options on physical and financial  commodities.
+Its financial derivative contracts are distributed between two divisions: the International Money Market (IMM) trades currency and interest rate futures; and the Index and Option Market (IOM) trades stock index futures and options on a variety of futures contracts.
+The IMM commenced business in 1972 when it listed seven foreign currency futures contracts.
+These were the first exchange traded financial derivatives.
+In 1981 the IMM introduced a eurodollar interest rate futures contract, its most successful contract to date.
+In November 1991 the CME's eurodollar futures contract was the first one to exceed the one million contracts open interest, i.e. number of contracts outstanding.
+This had a dollar value of $1,000 billion, roughly one fifth of US GNP.
+As the first US cash-settled contract its success enabled the US futures industry to introduce a new array of cash settlement stock index futures contracts.
+In April 1982 the IOM commenced trading in the S&P 500 stock index futures contract, with an associated option contract in 1983.
+Foreign currency option contracts were introduced in 1984.
+With approximately one third of the CME's business generated by non-US residents, the exchange was quick to recognise the international scope of the futures market.
+It established the first international trading link with the Singapore International Monetary Exchange (SIMEX) in 1984.
+This mutual offset system involving identical contracts was a major step toward a 24 hour trading day in derivative instruments.
+The CME and SIMEX also obtained the exclusive licence to trade Nikkei stock index futures contracts outside Japan, but while this has been fairly successful on SIMEX, it has been less so in Chicago (881,000 contracts on SIMEX as against 61000 on the CME in 1990).
+The CME has extended its currency product range by launching six currency cross-rate futures such as DM/£ and ¥/DM.; l The cost of taking a position in such cross rates will be reduced if the contracts can achieve the necessary volume and liquidity.
+CME trading is by open outcry and all trades are cleared and guaranteed by the CME clearing house.
+Exchange membership, seat acquisition and regulation are similar to the CBoT.
+Table 4.3 provides an indication of the main CME contracts traded and their volumes.
+c) Chicago Board Options Exchange (CBOE)
+In April 1973 the CBoT established the CBOE for the sole purpose of trading options on a limited number of New York Stock Exchange (NYSE) listed equities.
+Now totally independent of the CBoT, the CBOE is the world's largest options exchange.
+With options now available on over 160 NYSE-listed stocks, the CBOE accounts for almost 45 per cent of all US share options trading.
+In 1983 the CBOE introduced two index options: the S&P 100 and 500.
+The former is an American option, and the latter a European option.
+Both are cash settled contracts.
+Options on various component indices, e.g. telecommunications, oil, etc., have been introduced but the lack of activity has resulted in some being delisted.
+CBOE index options are traded in the same manner as traded equity stock options via market makers and floor brokers.
+Options are issued and guaranteed by the Options Clearing Corporation.
+4.4.2 Europe
+The most intense competition that the London derivative exchanges face is from the other 23 European exchanges.
+Recently this competition has intensified as all the main exchanges introduced new products, often competing head on with London's new contracts.
+The competition between exchanges sometimes reflects official support for the "national champion" .
+A classic example is the tussle between the LIFFE and the MATIF for the ECU interest rate derivative market.
+The apparent failure of LIFFE's ECU bond contract brought about a review of the product's specifications to make it more attractive to hedgers, speculators and arbitrageurs.
+The MATIF secured a higher contract volume and more liquid market in the initial phase of this competition, but it is not clear whether this was due to more appropriate contract terms, or a larger underlying cash market, or whether it was due to a commitment by French banks to support their own derivatives market, perhaps with official support.
+By contrast, LIFFE has not received comparable backing, either moral or financial, from UK banks or the UK government.
+LIFFE is also involved in a tussle with the electronic DTB in Germany which is seeking to divert DM contract volumes from London to Frankfurt.
+SOFFEX has  also entered the fray by launching a euro-Swiss franc interest rate contract in competition with LIFFE's equivalent product.
+And with the expectation of a single European capital market, LIFFE and LTOM have launched futures and options contracts on the FT-SE 100 Eurotrack Index as a direct challenge to the Euro-Top 100 Index contracts launched by EOE, SOFFEX and MATIF.
+The main point of contrast relates in these contracts to the composition of the underlying indices used.
+The Eurotrack index excludes UK equities which can be hedged with London's established FT-SE 100 index contracts.
+Competition also exists between European exchanges on what is the most appropriate trading technique.
+Longer established exchanges such as LIFFE and MATIF use the traditional outcry method in a pit for most deals whilst more recent exchanges such as DTB and SOFFEX use electronic trading.
+Electronic trading has a number of distinct advantages: the screen price is the one at which the transaction is concluded; a large number of banks, customers and market makers have direct access to the trading system irrespective of their location; and all transactions are confirmed immediately with positions being automatically recorded.
+This notwithstanding, it is doubtful that pit culture is on the brink of extinction.
+Electronic exchanges can experience a complete collapse, sometimes for several days, which necessitates a return to open outcry trading or the creation of a telephone market.
+Furthermore, it appears that electronic exchanges have wider bid-ask spreads, which might be a reflection of inadequate liquidity due to the lack of locals (although there seems to be no inherent reason why individuals trading on their own account could not use an electronic system so long as it enables the scalping and other arbitrage trading practices typically carried out by locals).
+On LIFFE's APT system a high speed communications network links APT trader workstations in LIFFE members' dealing rooms to a central processing system based at the Exchange.
+As its name implies, the distinctive feature of this automated trading system is that it emulates physical pit trading on the screen; other electronic screen systems are order matching systems only.
+So far the APT system has proved to be a highly effective way of extending trading hours until approximately 6pm, which enables LIFFE to increase its overlap with the North American time zone.
+The APT has recorded an average turnover of 5,000 contracts per day, roughly 4 per cent of daily volume.
+It had a peak of over 31,000 contracts on 5 October 1990 when sterling joined the ERM, the announcement of which had been delayed until the main London cash markets closed.
+As traders attempted to hedge their positions that evening, the Short Sterling contract traded nearly 40 per cent of its daily turnover, and the Long Gilt futures contract 20 per cent, in just one hour on the APT system.
+This was an important demonstration of its ability to cope with high volumes.
+At the end of the day success will go to the system and the exchanges which are able to deliver the lowest costs to traders.
+That is, those able to win the battle for contract liquidity.
+At present twenty-three futures and options exchanges exist in Europe trading about 250 different contracts in either physical and/or financial derivatives.
+The European exchanges have witnessed a rise in trading volumes from one million contracts in 1980 to about 120 million contracts in 1990.
+The real danger for European derivative exchanges in the 1990s is, perhaps, not the perennially threatened Globex electronic trading system from Chicago, nor the Japanese, but the existence of too many similar products with inadequate levels of liquidity.
+Each new financial futures exchange initially concentrates on local cash market  instruments as a basis for its product range.
+But they have realised that there may be no safe national niches in the looming common European capital market, so each sooner rather than later tries to enhance turnover by introducing euro or international contracts.
+This has been the strategy of LIFFE, MATIF, EOE and SOFFEX.
+This glut of contracts can also be partly explained by the actions of some banks supporting their national exchanges, and by some governments' policies through their tax legislation and regulation actions which are aimed at establishing a presence in what is thought to be an essential requirement for each country's financial centre.
+Nationalistic sentiment may for a while distort commercial viability.
+It may even have a permanent effect due to the dynamic process generating economies of scale.
+Intervention of this kind has occurred in most countries.
+The danger is that in the ensuing artificial competition it may not be possible to establish some markets at all, and traders would then be forced to use less efficient over-the-counter markets, which are conceivably harder to regulate and thus more prone to fraud.
+However, not all interactions between exchanges are rivalrous.
+Where externalities and jointness are perceived, exchanges have begun to cooperate.
+In the UK a Joint Exchanges Committee (JEC) was established in 1982 by London's futures and options exchanges.
+It discusses matters of mutual concern and puts forward an industry view in discussions with the SIB, the SFA etc.
+It has issued papers on relevant EC Directives.
+The lobbying of MPs and Euro MPs is also undertaken to influence legislation and regulation affecting the UK derivatives industry.
+Pan-European cooperation is also evident.
+In October 1988 the European Community Options and Futures Exchanges (ECOFEX) was established to act on behalf of EC derivative markets.
+ECOFEX's prime role is the presentation of a coordinated view on regulatory matters affecting the futures and options industry.
+It has held extensive meetings with EC officials on proposed Investment Services and Capital Adequacy Directives.
+A commonality of interest ensures such cooperation takes place: the creation of a single financial space must create an environment which engenders the growth and development of derivative market activities.
+ECOFEX has shown particular concern about proposed minimum levels of capital for market members.
+If set too high these could damage the competitiveness of European exchanges by threatening the position of locals who are vital for liquidity on each exchange.
+A long term aim of ECOFEX is to unify market trading, order routing and clearing systems within Europe.
+This would enable each exchange to trade its own local products, with international or pan-European contracts being traded perhaps on screens within the EC.
+Such a development would avoid the unnecessary replication of contracts, but to implement it requires the necessary political will to exist in Europe.
+It might be that the intensity of competition at present is partly an attempt by individual exchanges to improve their bargaining positions prior to the creation of a quasi-unified European futures and options market.
+We now briefly examine the four main European rivals to the London derivative exchanges: the MATIF, the EOE, the SOFFEX and the DTB.
+a) Paris: Marché à Terme International de France (MATIF)
+French financial markets have benefited from deregulation in the 1980s, and the last  few years have witnessed an acceleration in financial innovation in France.
+This has been encouraged by developments in the international financial markets and by French aspirations to establish Paris as mainland Europe's prime financial centre.
+At the same time, an enlarged domestic bond market with monetary policy implemented through interest rate changes rather than quantitative credit controls has encouraged cash market investors to use financial futures and options to manage their interest rate risks.
+The circumstances were therefore propitious for the MATIF's establishment in 1986.
+It commenced trading with a Notional Government Bond contract in 1986.
+Traded options on this contract followed in 1988.
+Thereafter a French stock index ( "CAC 40" ) future, a short interest rate ( "PIBOR" ) future and option and a eurodeutschmark future and option have been introduced onto the MATIF's trading floor.
+MATIF trading takes place in a pit.
+All trades are channelled through clearing house members and are guaranteed by the clearing house, the MATIFSA.
+Any individual or corporation, French or foreign, may deal in financial and physical derivative contracts on the MATIF.
+The MATIFSA is owned by stockbrokers, banks and insurance companies.
+It is also charged with a regulatory function in cooperation with the principal regulatory body, the Conseil du Marché à Terme (CMT).
+The CMT regulates the MATIF, ensures its proper functioning, approves new contracts or the deletion of existing ones, and lays down the conditions that clearing house members must meet.
+To become a clearing house member a MATIF applicant must be in stockbroking, banking, money brokerage, or portfolio management.
+At present non-French institutions make up nearly one third of the MATIF's membership.
+Each clearing house member deals on the MATIF's floor for its clients and also on its own account.
+In January 1989 locals or "Nips" , as they are called, were introduced onto the exchange in order to enhance the overall liquidity of the various derivative product markets.
+New seats are made available on the MATIF as required but unlike on the US exchanges, there is no market for seats.
+Table 4.4 provides an indication of turnover growth on the MATIF.
+Table 4.4 Recent trading history on MATIF, main contracts   The Government Bond futures and options contracts account for the bulk of trading on the MATIF.
+But their success may also be due to the fact that MATIFSA appointed five designated market makers to ensure sufficient liquidity and tight spreads in the option contract.
+They must maintain a permanent presence in the pit at all times, provide continuous bid-ask quotes on the strike prices traded and be committed to buy or sell on request up to 20 contracts based upon current displayed prices.
+Out-of-hours trading is permitted by the clearing house and can account for up to a third of on-exchange trading.
+These trades are recorded the following day.
+All these factors have made the Government Bond's futures and option contracts the most heavily traded in Europe.
+The MATIF's other French products, namely the Paris Interbank Offer Rate (PIBOR) contracts and the CAC 40 index future, trade at adequate volumes, though by no means as vigorously as the Government Bond derivatives.
+The index future is complemented by traded CAC 40 Index options on the Paris Bourse which also trades stock options on over 25 companies' shares.
+The MATIF's eurodeutschmark future trades at much lower volume, and is presumably less liquid, than LIFFE's equivalent product, even though the latter is not yet supported by an option.
+Nevertheless, the MATIF sees its niche in the development of more European contracts, such as the Euro-Top Index and the Italian Government Bond futures, where again it will be vying with LIFFE for liquidity.
+b) Amsterdam: European Options Exchange (EOE)
+The EOE, which is modelled on the CBOE, began trading stock options in 1978 and interest rate options in 1981.
+It is one of the largest option exchanges outside the USA.
+Nearly two thirds of the EOE's clients are private investors who account for about half of the trading volume.
+The EOE responds flexibly to investors' needs, with new options being introduced to replace those with insufficient open interest.
+At present the EOE trades options on approximately 30 Dutch stocks, Dutch Government Bonds, Dutch florins (guilders), various stock indices and gold.
+Trading is by open outcry on the exchange floor.
+Domestic trades are cleared by the European Stock Options Clearing Corporation (ESCC), a wholly owned EOE subsidiary, which guarantees contract obligations and holds margins.
+Seats on the exchange, which carry varying rights, are owned by companies and individuals registered as EOE members.
+In August 1987 the EOE launched its most successful contract: an American style option on the Major Market Index (MMI) of US blue chip stocks.
+Fungible trading in the option is linked to a similar contract on the American Stock Exchange in New York, where the MMI is the second most actively traded index option in the US after the CBOE's S&P 100 index option.
+The MMI was the first US index option to be traded outside the US, and is specifically designed to enable European investors to deal in US stocks before Wall Street opens.
+Trading in this fungible option contract takes place for ten hours each day, with a one hour overlap between Amsterdam and New York.
+The contracts are priced in US dollars and clearing is handled by the Options Clearing Corporation in Chicago.
+A US $/DFL; option is listed but volumes are disappointing, as might be expected with the Netherlands in the Exchange Rate Mechanism and liquid D-mark contracts available in Chicago and Philadelphia.
+The overall trading volume on the EOE, which is mainly in stock options, has  fluctuated around a plateau in recent years, and in 1990 was about one third that on LIFFE.
+c) Swiss Options and Financial Futures Exchange (SOFFEX)
+SOFFEX opened for business in May 1988 as Europe's first fully computerised (automated trading/clearing system) exchange.
+It was established by the Basle, Geneva and Zurich stock exchanges together with five major Swiss banks to trade options on eleven Swiss stocks.
+SOFFEX also launched an options contract on the Swiss Market Index (SMI) in 1988 which has proved to be highly successful and accounts for over half of the exchange's annual turnover.
+An SMI index futures contract was introduced in November 1990, and is trading healthily.
+In 1990 SOFFEX traded over 9 million contracts, of which SMI options were 4.7 million.
+Thus after just two years' trading SOFFEX's turnover exceeded that of LTOM.
+A euro-Swiss franc interest rate futures contract, competing directly with LIFFE's equivalent contract, was launched in March 1991.
+So far its trading volumes and liquidity have been lower than LIFFE's.
+No long interest rate future or option contract exists at present due to the lack of liquidity in the underlying cash bond market.
+The short interest rate contract was followed up by the launch of a Euro-Top Index futures contract denominated in Swiss francs in June 1991.
+d) Frankfurt am Main: Deutsche Terminbörse (DTB)
+The DTB became operational on 26 January 1990 with traded options on fourteen German stocks.
+It is a fully computerised exchange which enables dealers to conduct their business via display screens linked to a central computer rather than by open outcry on a trading floor.
+Market entry is thus possible from any location in Germany.
+The DTB adapted the SOFFEX's computer software to suit its own needs.
+This computerised derivatives market guarantees a high level of market transparency and a rapid handling of clients' transactions.
+An electronic trading system was adopted for two reasons.
+Firstly, the absence of any kind of derivative exchange in Germany meant that it lacked the financial culture to guarantee the successful operation of a one centre open outcry market.
+Such a market might have lacked adequate liquidity for success.
+Secondly, the DTB system was born out of the political necessity to involve the small regional stock exchanges in Germany.
+The DTB is operated by a private company, DTBGmbH which is owned by seventeen major German banks, with the board of directors consisting of seven selected bank representatives.
+In 1990 the exchange had 59 members, including 13 foreign banks.
+The DTB acts as a counterparty to all trades on the exchange.
+Most of the DTB's terminals are located in Germany, as the banks have discouraged the use of trans-frontier terminals for fear of losing broking business to non-German firms.
+In November 1990 the DTB listed a Bund interest rate future and a DAX index future.
+The Bund future is in direct competition with LIFFE's identical contract.
+This situation has not arisen by chance; it represents a desire of the German financial community to see Frankfurt established as the centre for trading DM derivative products.
+Despite such "official" backing and aspirations, the DTB's Bund contract only averaged 2,500 contracts per day, about one-tenth of LIFFE's turnover, in its first few weeks of trading.
+To boost this low volume of activity the German banks who  invested over DM 10 million in the exchange announced their intention to give the DTB preference in Bund derivative trading in 1991.
+In August 1991 an option contract was launched on the Bund future.
+By mid-November 1991 Bund futures contract volumes on the DTB were matching those at LIFFE.
+However, some market participants suggested that volume had been boosted by cross-trading, that is, the to-and-fro trading of contracts between market makers to create volume artificially.
+Open interest on LIFFE, perhaps a truer indicator of contract success in such circumstances, considerably exceeds that of the DTB.
+Meanwhile the DAX 30 index contract, which faces no competition from a similar product on other exchanges, developed steadily after its launch.
+Stock options business has also expanded rapidly during 1990 and 1991, with regular monthly volumes exceeding those achieved on the LTOM and the EOE.
+The DTB's total contract volume in 1990 was approximately 6.7 million.
+However, over three quarters of this business was initiated by market makers and banks rather than on behalf of clients.
+The DTB needs to educate German investors in the benefits of futures and options trading.
+As regards international linkages, the DTB is not seeking to become a partner in the Globex system.
+Instead, its officials believe that the unification of Europe's financial markets after 1992 puts electronic link-ups between European derivative markets higher up the agenda.
+4.4.3 Global electronic trading
+If the main US exchanges put their 24 hour trading system in place, they might consider launching products in direct competition with the European exchanges.
+It is therefore worth considering the potential of global electronic trading.
+In September 1987 the CME announced an agreement with Reuters to introduce a global electronic transaction system for trading futures and options before and after regular US business trading hours.
+The Globex system, as it became known, is to complement rather than replace the open outcry system.
+The CME hopes to entice more foreign users to its product range and thus enable it to globalise its contract markets without the need for linkages or extending pit trading hours.
+In August 1988 the CME and Reuters agreed to open up Globex to other exchanges, MATIF, etc.
+This did not imply an end to the CME's fungible link with SIMEX, but it did signal the realisation that regulatory complications made it unlikely that the mutual offset system could be extended around the globe.
+In 1989 the CME suspended negotiations with other exchanges and began discussions with its local rival, the CBoT, about the latter abandoning its own automated exchange proposal (Aurora) and adopting a modified Globex system.
+Despite CBoT/CME cooperation thereafter, several launch dates for the new electronic global trading system have been missed and as a result other exchanges have lost interest in the concept or decided to develop their own in-house electronic system.
+Many industry experts have severe reservations about the Globex system.
+Firstly, it is an order matching system and thus tends to have a slower response rate than, say, LIFFE's APT system.
+Secondly, the transaction fees will need to be quite high if the investment made by Reuters and the CBoT/CME of between 40 and 50 million dollars is to yield a positive return.
+Thirdly, Globex must be accepted by non-US futures industry regulators in order to be successful, and Japanese involvement will be a key factor in the system's success.
+Perhaps ominously, the Japanese have been absent from all discussions.
+Any lengthy dispute with the  Japanese regulatory authorities could undermine the entire raison d'être for developing the system.
+Fourthly, the CME's independent traders (locals) who make up nearly three quarters of the membership feel threatened by this new technology.
+They fear an end to the open outcry system and a lack of arbitrage opportunities on the new system.
+Only when Globex becomes operational will it be seen whether an open outcry system can be successfully linked to global screen trading.
+4.4.4 Assessment
+The main threat to London's share of global futures and options business is likely to come from existing exchanges on mainland Europe.
+The world's other main exchanges are outside the European time zone.
+Only a truly successful 24-hour electronic trading system, like Globex, could compete directly for the European derivative markets.
+In the first instance this would threaten the eurodollar and US T-bond contracts.
+However, these contracts are not essential for the survival of European exchanges.
+Within the European time zone we expect competition to intensify with the creation of a single EC capital market and the possible advent of a single currency, the ECU.
+The main exchanges are already competing to establish their stake in pan-European futures and options contracts such as the ECU bond and the euro-index contracts.
+After a first phase of innovation competition to establish liquid niches in interest rate and share index markets, there is likely to be a phase of consolidation and rationalisation.
+The winners will be those that establish the most liquid markets with the lowest transaction costs, but at present the crystal ball is clouded by the coexistence of very different trading systems across Europe.
+The merged LIFFE will, however, start from a strong position with established products and an apparently successful toehold in new electronic trading.
+When the regulatory playing field is levelled after 1992, the mist should clear somewhat and the pattern of derivative trading for the rest of the decade may begin to emerge.

@@ -1,0 +1,133 @@
+
+
+they're sensitive aren't they  
+Right before we er  kick off the lecture  erm  we'll have a lecture on Wednesday right hopefully we'll finish the course then on Wednesday, we're running over a touch behind  
+Will that be the last one?
+Yes, that will be the last one .
+We may finish today but I don't think so  erm 
+ 
+Now I was talking to your Doctor  who was wondering whether  we might want to go out for a few beers at some point
+going home for Christmas or possibly after the exams
+Both
+so  are you all going home fairly sharpish?
+Oh yeah tomorrow night 
+Right  in that case its probably a better idea if we go out after the exams, if you want, I mean, don't you don't have to 
+ 
+Yeah
+right, well in that case 
+ 
+erm  we'll put a notice up or something  erm  around the exam period and let you know when we we will go out and we'll try sneak a few beers in after your exams but before the start of the second semester  so erm
+ 
+We'll have to try figure out a time when you're all available.
+Right
+Okay, so on Friday we were looking at  erm a model of agricultural supply and response that incorporated  erm, a notion that farmers take some time  er to react to changes in er in prices  erm due to psychological   acquiring fixed factors  and so on 
+and so forth.
+Although  hypothesis as a useful  er sort of description  of how farmers might erm  adjust  their supply  it's a very simple one  alright.
+If you recall, we said that the desired  level of output  S R T simply  function of last year's prices  alright or more im ,or alternatively  right, you make  erm the planting decisions on the basis  right  of current prices  right, so when that supply comes onto the market in say a years time it's now a  crop  right.
+That supply will be determined by, not current market prices but prices of a year ago when you made the planting decisions  right.
+Now if you do  recall your first year notes, this is the relationship underlines a cobweb model, right that prices were based on erm  or supply decisions were based on prices at planting  right and we showed you that cobweb model erm  farmers make systematic errors  right cos they never appreciate the cycle  there is a cycle to prices, right so they're making systematic errors  right cos prices are high this year  as a result erm erm of plant a lot so that when the supply comes on the market next year right, prices are very low and you would thought farmers would er, would learn  but prices fluctuated  right.
+So we may want to introduce a more sophisticated  mechanism  for determining what the desired level of supply is  and what we'll do  is that we'll say this is actually a special case of a much more general, er more s sophisticated .
+Right what we're going to do is to introduce the idea of expectations  right, cos what this equation's really saying  right  is that farmers expect  price prevailing in T minus one  alright  to  prevails in S T  right so that's what we're , right, in  their ex their expectation of prices in T, right  are based on er current prices in sort of T minus one  okay and that, that is what we would call erm   expectations  alright.
+But what we're going to do, that's gonna be a special case in a more general formulation that we're going to look at now  which is the adapted expectation hypothesis.
+Right this  basically  it's too simplistic, right we know that farmers are more intelligent than the cobweb model suggests that they are, let's try erm  increase the sophistication of their, their supply response.
+But we'll do that using adaptive expectations  okay   right.
+All the adaptive expectations model says  is that farmers supply, right, S T  is some function  of the expected  price  right, erm.
+When the supply comes onto the market, right so  this thing here  is the expectation of price in P T, when the supply comes onto the market  right and that expectation is formed at T minus one, right so at the beginning of the year  farmers make some  forecast or some expectation of prices when the crop will come onto the market in T, right and then they form that expectation or that prediction, right, at the beginning of the period, or at the end of the last one, T minus one.
+right.
+Let's call that equation one seven  er  in actual fact what we'll do is that we'll put a random  random error term on the end as well just to say that this is, rule is not perfect and there will be some fluctuations around it.
+Okay   Now expect ,farmer's expectations of prices are assumed to be revised, right, each year, farmers revise their own expectations of future prices so that makes some sense.
+You wouldn't expect them to  forecast the same price all the years, right.
+Now  expectations model implies that the revision in expectations, right, year on year  alright, is proportional  right, to the error last year, right, the difference between actual and forecasted last year  right, if they were way out if their forecast was way out  for last year, right, they'll revise their expectations for, for the next year  okay.
+So  symbolically  the expectation at T minus one  prices at T minus the expectation of T minus two  in prices at T minus one  i.e.  revision in expectations or how our expectations change from one year to a next  is dependent upon  gamma  into the actual price,T minus one minus farmer's expectations of it  okay.
+So the revision of expectations year on year, alright is some function, alright, proportionate to   the er, the difference between their forecast for prices of P T minus one   to track it from what actually occurred  okay.
+Now we can just rearrange that  expression to get the expectation  of prices for  the period T, right all we're doing is that we're adding  P T minus two, P T minus one to both sides, alright and we'll get gamma into  P T minus one  erm, plus  open brackets mi minus gamma  into expectation at T minus two  of prices at T minus one  okay.
+So we're just rearranging  the first expression, okay, and getting this one  right so now we've got er a decision rule to obtain a, farmers  will form their expectation of prices say next year, in T  right, on the basis of last year's price, last year's actual price  and last year's, the expectation of last year's actual price  okay.
+Right,so as you'll probably agree alright, gamma  scribble here  right, plays an important role in this model and gamma is the co-efficient of expectations, the expectations co-efficient.
+Now,when gamma equals zero then what does this model imply unde under different conditions?, alright.
+If gamma equals zero  right  what happens here?
+The expectation for next year's exactly the same as what we expected last year, alright  just turned, propped out  okay.
+Essentially there are no revisions  no revisions in expectations  if if gamma equals zero  right, this right hand side top here completely disappears and if you wanted t just leave the error turning then then any changes in expectations  there's no systematic behaviour.
+But like I, I omitted  that just for simplicity, right.
+So when gamma equals zero there's no revision to expectation.
+When gamma equals one  what happens now?
+When gamma equals one  this turn here drops out  alright, so  expected price for next year  exactly the same  as the current price, T minus one  alright.
+Right.
+Scribble that  and poverty is er  that case is called naive expectations  alright.
+Where gamma equals one we have naive expectations    so, d'you think that what that implies in the top equation, right the revision to expectations and gamma equals one  is the whole of the difference between actual predicted last year  okay.
+So  here you have no revision  under naive expectations we have four  right   Now the the closer that our expectations come to gamma, lies to one  the more weight  farmers attach to last years price  relative to prices in T minus two, T minus three, T minus four   right.
+When gamma equals one  all the weight is given to last year's price  all the weight is given to last year's price  okay  right, so past history, all past history is ignored  apart from the price at T minus one  right and the closer that gamma is our expectations co-efficient, closer gamma is to one, the more weight be attached to last year's price, relative to the previous history of prices  okay   right.
+If we play about with this expectations   model  right this is the erm, this describes the expectation of prices in T  it can also use the same as a decision rule  alright to find out what prices would expectation of prices were, right in in P T minus one, okay T minus one, right here.
+What we now want in T minus one was, cos that was the actual price  what we don't know  what was the expectation of prices in T minus one.
+Well we can use the same decision rule and just change the subscripts  by one, so you've got gamma into P T minus two  right, plus one minus gamma  the expectation of T minus three, prices  T minus two  okay, and we could substitute  right, the right hand side  here, right, into the expec , into that expectation up there.
+We then have  to er, determine the expected value of T minus three and the price of T minus two and we then use the same  rule substitute it in there, right, we could repeat, repeatedly substitute into the expected value, right in that manner  like we did in, in  the er,the symmetry between adaptive expectations and  partial adjustment type offices  .
+But we just repeat, repeatedly substitute into this unobservable term     right.
+I mean we come out with  erm  an equation that look like  so expected price and T is a function right  it's the sum of gamma into one minus gamma into J  into P T minus one minus J  and J goes to infinity.
+But we just repeatedly substitute  back  er for that unobservable expectation  right.
+So again we find out that erm, the expected price in T minus one, sorry in T, is a function of all previous prices  all previous prices, okay and it won't surprise you to find out that the weight giving to  to treating the historical prices  right becomes geometrically in exactly the same way  as the adapted, as the partial adjustment er co-efficient  or the partial adjustment model implied  alright.
+So the way it's given erm  t to previous prices decline geometrically  right.
+Trouble is you've got a bit of a problem at the moment  right, if we want to  find out what the expected price in T is, right, this derivation tells us  that it's a weighted sum of all previous prices  right.
+We won't be able to estimate that, that model  right, simply because we don't have all the previous prices  alright.
+We cannot use this  expression up here either, because we've got  an unobservable variable in there, we've got the expectation of which we don't know  alright, we don't know what that is, what number that  is  through time, so  the analysis could reach an impasse here, right, this,nice little theory,nice hypothesis about how people form expectations but  it it's not tractable, it's intractable, right we can't use it.
+However  we can apply something that will trick  known as the  quoick transformation  right, that will enable us  right, to convert  what is an infinite stream  of previous prices  into something that we can estimate, right, just has a very few number of parameters  right.
+Now   right, those parameters that we  that we will learn will get this model in the end which contains only observable variables, only those, so it will contain  prices, actual prices and actual supply  alright.
+There's no ex expectations in there, no unobservables.
+Now, what I was gonna do now was go through  this  quoick transformation right, you're not gonna be asked t to produce it in an exam or anything like that, but the reason why I'm doing it now is that you will need it for your er, your Q M exam  not er your exam, your project  right, cos there is a similar applicat , it's quite a commonly used tool  you'll find  er, where wherever we have a, erm, an expression with an infinite number of erm possibilities or an in infinite number of arguments.
+So you can go, go to sleep if you want for the next minute to erm  but because you will need to know this  quoick transformation for your Q M project, you do want, may just want to note it down.
+So this is a digression  just gonna whizz through it very quickly, we don't really need to er,spend much time on it.
+Let's think of the general model  right.
+Y T  alright, is a  of constant alpha plus beta  into erm X T  plus  lander X T Y is one  that's  lander squared, X T minus two  plus  lander cubed, X T minus three and so on and so on into infinity.
+Alright, so let's call that equation  er A  okay.
+Right, similarly at time T minus one we have  Y, Y T minus one equals alpha plus beta  X T minus one  plus  lander plus  lander X T minus two, plus  lander squared  X T minus three plus  X T minus four  infinity again  we call that B and that's just the same equation but we just  erm shifted the subscripts and right, this explains why in T, this ex explains why in T minus one  right, all the subscripts have just been  just been changed.
+Right, well if we multiply both sides, we multiply  both sides of B  right, by this co-efficient  lander alright, we get  right, lander by T minus one, lander erm   right then what we do is that we get beta into  lander X T minus one plus   lander squared, X T minus two   lander cubed, X T minus three,and  lander to four  X T minus four and so on and so s so on until infinity  right.
+No notice, right  with these  are exactly the same as those now  alright  so what we're going to do  is we're going to subtract  right, if we subtract from a, subtract b from a  all those terms that run off into infinity, we're gonna drop out, okay.
+Alright, so if we tr subtract  B from A  everything drops out apart from the following, so you have Y T minus   lander Y T minus one plus B minus A, right equals alpha into Y minus  lander plus beta X T  okay.
+If you just rearrange that in terms of Y T  we get  so we just add Y T minus one to both sides and so we get Y T into alpha into one minus   plus  beta X T  plus  lander Y T minus one  right, that's it.
+Okay.
+So you too would assume  quoick transformation  we've got  a geometric progression in here that goes off to infinity  alright  which is equivalent  to that, that little thing alright, we've got three parameters here  this one, that one and that one, alright, so we converted what is an infinite stream into a finite stream using this  er, quoick transformation.
+Right,so that's the digression over and done with  it's pretty fascinating stuff  okay, you'll you'll need that in the  in erm  in your Q M project  if you have to apply one to a particular problem.
+Anyway   so  applying the  quoick transformation back to er supply response, we apply this  quoick transformation to equation seven  alright.
+We get the following supply response model  right, apply that  quoick transformation to seven, yields S T  equals alpha gamma  plus beta gamma  P T minus one  plus, open brackets, one minus gamma, close brackets, beta S T minus one  alright, plus U T  minus open brackets, one minus gamma U T minus one  okay.
+Right, so this is  if we incorporate  expectations    in our model of supply response alright, so instead of saying that the the desired level of supply  instead of saying that, we say  it's actually this  right, if we actually incorporate expectations  specifically  alright, then we get a supply response model  alright, like this  and our hypothesis, y'know cos we don't know how expectations are formed, right, economics can't tell us anything  about how expectations are formed  are they rational, are they naive, are they adaptive, who knows, nobody knows  alright.
+But nevertheless it seems like a reasonable hypothesis the that that  er  expectations about future prices are revised in proportion, er the errors in expectations in the previous period, alright.
+If we incorporate that hypothesis we get  a supply response model of that form right, notice that we've only got observable variables, S T, P T minus one, S T minus one, we've only got observable variables in there  alright.
+So we can estimate this model although we've got a couple of problems that we'll come to later on, but nevertheless it's essentially estimatable.
+Now  the reason why we've gone through all these horrible equations  right, and looked at the adaptive expectations model and the partial adjustment model is because both of these two things are incorporated into single res erm  a single supply response model that was developed by Nerlove  Nur Nerlove in nineteen fifty eight  old model but very very popular, right.
+This Nerlove supply response model that incorporates both adaptive expectations and the partial adjustment hypothesis  alright, has been applied  so that five hundred, right, different commodities throughout the world  right.
+So it's the, the most widely used supply response model in the entire universe, alright, and as a result of it's popularity  you have to learn it as well.
+Right, as you can imagine things might get a little bit nasty, we're incorporating  two er, two hypothesis and although very simple  produce algebra  that er, that's a bit nasty.
+But never mind  never mind.
+Now this Nerlove supply response model  alright  was introduced by Mark Nerlove in nineteen fifty eight  right in a heart breaking book called the dynamics  right of  supply  right erm  estimation  of farmers  response to price  okay.
+John Watkins University Press  I think there's a copy in the library  erm, you may want to have a little look at it, but   so what we're going do is we incorporate both these two hypothesis into a model supply response  okay.
+We'll er  do these just crack handle and then we'll show what information we can obtain alright from from this model and there's an example on a sheet of paper just to er  run it home  right.
+Okay.
+Let's start, start from the top    let's suppose that the desired level of output  right, in any period  S star T  right, is simply  a function  of the expected value  of the price  so we're using our par our  well that's just a general, a general statement right.
+Decide supply  you subfunction beta of expected prices, right in T, supply in T is based on the expectation of what the price will be, in T  right.
+How are expectations formulated, right, it says nothing about how  expectations are formulated just says that  private supply will be dependent upon expected prices  alright.
+Well let's assume deducted expectations model  is a reasonable model of expectations formation  right  call that equation number one  right, so our adaptive expectations model is  E T minus one, so that's E T  right, minus E  T minus two  into P T minus one  right, so that equals  gamma  into  P T minus one, minus E T minus two  P T minus one  right so that's the same expression as we had before, right that's the our ad our adapted expectations  model, that's, that's how we're assuming that expectations are generated  right, or revised  right  so, we're incorporating expectations into this model but we also want to incorporate the fact that farmers take some time to respond  to changes in price  alright.
+Adjustment is not complete, it's partial  alright, so we're going to say  that supply adjusts in the following manner, right, according to the partial adjustment  hypothesis  alright, so changes in actual supply  alright, will be  delta  of  the difference between the desired level of output for T, right  and the actual level of  input T  minus one  alright, plus  er   alright, so that was just our partial adjustment model  that we looked at last week, right, we'll call that equation three    okay  right.
+What we're going to do now  is combine both of these hypotheses  right  into  our supply response model, alright and we come out with the following.
+Now, it may look a little nasty but don't worry it simplifies  very easily.
+So we combine those two hypothes hypotheses  right, we get S T equals alpha  delta  gamma  plus open brackets  open the second set of brackets  one minus delta  close brackets  open brackets, one minus gamma  close  brackets  into S T minus one  minus  open brackets, one minus delta  one minus gamma  into S T minus two  right,plus  beta, delta, gamma  into P T minus one  plus  E T  minus open brackets, one minus gamma  times E T minus one, right.
+U T was just that random error term  that we looked at.
+Right.
+Now, looks pretty horrendous  alright, but if we  bum data on S T, S T minus one, S T minus two and P T minus one, all actual  variables, if we bung those into the   microfit and ask them to  form the regression, it would do, right, it would just  you'd get S T equals A plus B  that's T minus one  plus C  A T minus two  plus D  A T minus one  alright, and   B T   So before we  we'll call that equation four  right, so although it looks nasty  alright  it's fairly straightforward, it's all, all we're doing is, we'd be asking the computer to regress S T on constant  like how you would yourself  T minus one  to like values  T minus two  and like prices  okay.
+Right.
+So it would actually be very straightforward to do this, although not  a couple of problems in this model that we ought to just say something about  alright, the specification of four does present a couple of problems  right.
+The first thing  and these are statistical problems that we won't spend too much time on them but just make sure they are    our error term in this equation, right, is no longer a random error term  it's dependent on it's value in the previous period right, cos B T actually represents  U T minus sumfunction of E T minus one  right.
+So  first problem  is one of serial correlation in this model  right, if we estimated this model and things were as we thought they were  this hypothes , these hypotheses were working  and farmers were behaving  erm, as we thought they might do, right, this model will automatically use serial correlation  right.
+So if you didn't get serial correlation and you estimated a model like this  you'd be a bit curious and wonder why  right.
+Secondly,we've got erm       model , we've got a  dependent variable  a  dependent variable, right, S T minus one  right, will be correlated  with the error term, right, so the  dependent variable will be correlated with the errors  alright.
+Because S T minus one  right  will be contained in the information up here.
+Right.
+Now because of these two problems  we violate  er a couple of assumptions  of ordinary lease squares  right, and as a result, the upshot of this  is that we get biased estimates  of our parameters A B C and D,right, they will be biased  and also they won't  have the minimum variants property  right, they won't be the best estimators  you, the statistics you talk about blue estimates, best linear and biased  alright.
+So if for any one of those parameters, let's just say B  right, let's just say that's the true distribution of  the parameter B  what you'll   you estimate O L S and you'll get  alright, you'll get biased estimates, this is what you would get from the computer, alright  so we'd be biased cos the, the true value is over here but not only that, is that, instead of having a nice peak distribution, distribution would be quite flat, alright we'd  we wouldn't have the minimum variants property  alright.
+So that there is a measure of the bias  and the flat distribution is a measure of er  erm  the fact that we don't have an estimator that's got this minimum variants property  right.
+So effectively what would happen all our T ratios right would be very small  cos the standard area would be very large, but don't worry too much about these ecometric problems  what I want you to do is to appreciate that  estimating a  supply response model  right, can cause problems unless we do something about it.
+Right, I think we'll, we'll leave it there for today, we'll finish off    er  this tomorrow.
+No, no
+Er, just to appreciate, erm  what, what  what it comprises, yes, so adaptive expectations what does that imply  partial adjustment, what does that imply.
+What can we get out of it and we'll do that tomorrow, we'll  derive y'know  estimates of  expectations, co-efficients and  and elasticities  and it's those sorts of things that  you might be asked to  in an exam  but, you won't need to derive anything in your exams
+Erm,I haven't, probably better to see 
+Is he in there now?
+He should be there now, yes he should.
+Right, so I'll see you all on er, on Wednesday.

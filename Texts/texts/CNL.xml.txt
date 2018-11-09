@@ -1,0 +1,353 @@
+
+
+IBM RESPONDS TO COMPAQ WITH VALUPOINT CUTS OF UP 12%…
+IBM Corp's IBM Personal Computer Co is determined to be recognised as a genuine contender in the mass market, and to demonstrate its commitment it immediately responded to the Compaq Computer Corp price cuts with cuts of its own in the US.
+It cut prices up to 12% on some of the PS/ValuePoint machines, with a 12% cut to $2,540 on the 66MHz 486DX2 model with 4Mb, 212Mb disk and 6314 Super Video Graphics Array monitor.
+Cuts on PS/2s, including the Ultimedia series, cuts are 10% to 18%.
+And monitors are cut by 11% to 20%.
+…
+AS HITACHI EYES OEM PACT
+Hitachi Ltd plans to add IBM's low-cost desktop personal computers to its product line under the Hitachi name to fill customer demand for a new generation of cheap machines.
+It has been selling IBM notebooks at a rate of some 2,000 a month since last spring but now wants to sell the PS/V models that were unveiled by IBM Japan Ltd in October.
+REUTERS BUYS 51% OF GERMAN SOFTWARE HOUSE
+Reuters Holdings Plc has bought a 51% stake in German software house Euro-FIS GmbH from Inasys GmbH, a Bonn software specialist in portfolio management and securities research applications.
+Terms were not disclosed but the sum paid was ‘not material in the context of Reuters’ net assets.’
+The company says the deal gives it the opportunity to distribute financial information to clients' branch offices by using their own hardware and networks.
+TRINZIC TO PAY $8m TO $9m FOR CHANNEL COMPUTING
+Palo Alto-based Trinzic Corp — the combination of Aion Corp and AI Corp, is to acquire Channel Computing Inc, Portsmouth, New Hampshire for $8m to $9m in new shares; Channel offers a suite of client-server products including the InfoPump middleware for building, maintaining and synchronising server databases, and Forest & Trees client-server query and reporting tool.
+CONCURRENT ADDS TRUSTED OS/32
+Concurrent Computer Corp of Oceanport, New Jersey says its OS/32 and OS/32 MTM real time operating systems passed US Defense Department criteria for Trusted status at C2.
+NOVELL AIMS FOR THE BIG TIME WITH RELEASE 4.0 OF NETWARE
+After months of informal briefings, Novell Inc launched version 4.0 of its NetWare network operating system yesterday with few surprises.
+As expected, the main thrust of the release is to tidy up the way that the system will work in large enterprises by presenting the network as a single system rather than a collection of individual servers needing separate logins.
+To this end the old NetWare ‘Bindery’ database has been replaced by NetWare Directory Services, based, wherever possible on the X500 directory standard.
+This approach was first outlined a year ago (CI No 1,878) when the product was still called NetWare 3.2.
+The new Directory holds everything from users and their privileges to file servers and printers as objects within a distributed database — the result is that a user logging onto one server gets immediate access to resources, irrespective of location on the internet.
+Administrators should find it much easier to manage large networks of servers and cope with users moving around the organisation, especially since the new release comes with souped-up Windows-based administration tools.
+To get the full benefits, all the servers will have to be upgraded, however a bindery emulation function ensures that servers running new and old versions of NetWare will interwork.
+Two notable additions will appeal to corporates first is a tightening of security, including the use of RSA public key encryption for password protection.
+Novell says that the product will be submitted for C2 security rating, and as part of this, the all-powerful Supervisor account has been removed in favour of a collection of administration accounts.
+The result is that it is possible for an auditor to check network and data usage, secure from the scrutiny of the actual system operators.
+The second feature is a protection mechanism that stops NetWare Loadable Modules from crashing the entire server, by adding memory protection.
+This hits application performance, but the company has come up with the innovative idea of letting users run NLMs in protected mode until they are proved stable, after which they can be invited into the same memory segment as the core operating system to boost performance.
+Apart from that, Novell says that it has extended and streamlined existing NetWare 3.11 code, rather than indulging in a complete re-write.
+The result is a long list of small, but nonetheless useful improvements such as file compression and ‘internationalisation modules’ that enable one user to see NetWare prompts in English, while another on the same server sees them in French or Spanish.
+New imaging interfaces and capabilities are also included, as reported in CI No 1,880.
+Who will buy it?
+NetWare 4.0 is priced only slightly higher than 3.11.
+A five-user licence for the new product costs £930 — $1,400 — and rises to £10,460 — $15,700 — for the 250 users.
+This compares with £730 and £8,330 for the older product.
+In addition NetWare 4.0 comes in 500 and 1,000 user packages, costing £17,600 — $26,400 — and £32,000 — $48,000 — respectively.
+Novell says it anticipates the majority of NetWare 3.11 sites with 100 users or more will upgrade — a sizable chunk of its user-base.
+Those already enrolled in the NetWare Update Programme or who bought their NetWare under the Premium promotion will automatically get NetWare 4.0 when it ships March 31.
+TADPOLE LANDS CONTRACT FOR EMBEDDED MICROSPARC BOARD
+Tadpole Technology Plc yesterday announced a deal with ‘a major multinational’ for the design of its first Texas Instruments Inc microSparc motherboard and an implementation of Solaris 2.1 for it.
+The deal is thought to be worth £1m over eighteen months to two years.
+MODEM MARRIAGE: DATA RACE TO ACQUIRE OMNITEL ASSETS
+San Antonio, Texas-based maker of ‘microminiature’ facsimile modems Data Race Inc is to acquire most of the assets of Fremont, California fellow modem maker OmniTel Inc.
+The aim is to expand its OEM base — all but two of the notebook computer-manufacturing customers of OmniTel are new accounts for Data Race.
+Terms, based on an initial payment plus royalties, were not disclosed.
+MICRO FOCUS MAKES ITS MARKER FOR THE AGE OF OBJECTS WITH OBJECT-ORIENTED OPTION
+Micro Focus Plc makes a very good living out of a programming language that many believed would be long dead by now yet still shows no signs of fading away — but if object-oriented programming fulfils its promise and sweeps away the  paraphernalia of the first 35 years of the computer industry, Micro Focus is going to have to be ready and waiting if it is not going to be swept away too.
+And the Newbury, Berkshire company is not unaware of the fact — last September, it slipped out an early release Object Oriented Option for its Cobol Workbench development environment.
+The first misconception to be got out of the way is that object-oriented Cobol is a new language with a spurious affinity to the ANSI ‘85 version.
+Rather the Cobol community is treating the language as an evolving standard that will embrace the object-oriented paradigm in a controlled, standardised manner.
+Retrofit
+To this end the Object-Oriented Cobol Task Group was set up by the American National Standards Institution in 1990 and will report back sometime this year with recommendations that will eventually find their way into the next version of ANSI Cobol around 1997.
+And the language will not be known as Cobol++, COOL or anything other than Cobol.
+Micro Focus can't afford to wait until 1997, and is making its marker and sounding out the market now.
+The Cobol approach to object-oriented programming will mainly be one of incremental re-engineering of venerable applications rather than a rush to write new programs, hence the need to retrofit new Cobol into old code.
+Micro Focus has been had an object-oriented research programme under way since 1989 to explore what it really means to have re-usable code in practice.
+It came to the conclusion that in many ways the object-oriented paradigm simply emphasises best practice for existing approaches to coding.
+However, the object-oriented paradigm offers increasing benefits when followed through from analysis and design to a language — that in fact the whole process becomes much more meaningful when surrounded by a software engineering environment.
+Micro Focus decided to implement the object-oriented paradigm in a product that will have many of the features of the completed standard and that will become fully ANSI-compliant when the standard emerges.
+This product is the Micro Focus Object-Oriented Option to Workbench v1.1 which is currently on an early release programme in the US and the UK for the MS-DOS Windows and OS/2 development and run-time environments.
+But how does the Cobol community move from a static, strongly typed language to the dynamic object-oriented paradigm?
+Raymond Obin, Micro Focus product development manager has many of the answers.
+To begin with, the basic unit of programming for object Cobol is the traditional Cobol program that comprises a lump of data and a lump of procedure.
+The object-oriented paradigm necessitates that programs are cut up into methods that define both the data and the procedure.
+To do this Micro Focus is building on the ANSI ‘85 standard that sub-divides procedures into Nested Programs (where a program is specified within a program and is then used in the context of the larger program).
+This definition has been modified with the addition of some syntax to turn nested programs into objects.
+In this way the object-oriented paradigm can be  accommodated in a form that continues to look like a Cobol program, combining method, local data and procedure code.
+Obin is quick to point out that this approach is simply a good starting position for the Cobol community, which can easily accept that an existing program is an object.
+For while the program is an object there are necessarily multiple small pieces of code within it.
+This, again, should be no big deal for Cobol programmers, who have already got used to the notion of writing modular code.
+It is a simple extension of that approach to then use methods to invoke pieces of procedure and function.
+He concedes that the object-oriented paradigm needs to deal with both large objects (applications) and small objects (down to characters or numbers within files), but argues that in the Cobol business context, a fine level of granularity is often not required.
+For example, he criticises the Smalltalk approach for creating a lot of work for the developer.
+In his opinion, while the Smalltalk syntax is very simple, its simplicity obscures simple programming tasks.
+With object-oriented Cobol, as with traditional Cobol, a manager should not need to understand the language to see what is happening.
+Readability will remain the first principle of Cobol, no matter what paradigm fashion dictates it must embrace.
+In other words, part of the essence of Cobol clarity is being preserved at the expense of what some would argue is object-oriented programming's inherent expressiveness at the fine object level.
+Object-oriented Cobol can be used to write as small an object as you care to write but the price paid for its  necessarily verbose clarity is reduced performance.
+That being said, if you are in the market for a pure object-oriented programming environment then Object Cobol is not going to be your first choice anyway and nor does Micro Focus expect it to be.
+Rather the company envisages the use of Object Cobol with object-oriented analysis and design, and an analyst will not go into the detail of strings and numbers, but simply view things like accounts and customers as objects.
+In the business world, it is felt that this is the degree of flexibility that is required.
+Obin takes exception to the assertion that Cobol is strongly typed, arguing that you can, for example, add ASCII format to a more optimised format.
+The ANSI Task Group is attempting to develop a best-of-both-worlds approach with both strong and free typing, and ways to move between the two approaches.
+To this end it is creating a universal type for Cobol ‘97 to enable any message to be sent or any method to be invoked.
+Internally
+However, there are obvious complications: what happens if the source code is universally typed and the target code is not?
+It seems most likely that the Task Group will go for a more strongly typed Cobol, similar in this respect to C++.
+Micro Focus, meanwhile, is offering a fully dynamic system that it claims is as polymorphic as Smalltalk in that it supports dynamic look-ups and can implement an untyped system.
+In the end the company may offer a dynamic subset for prototyping and ANSI-approved static typing for real world applications.
+To date, the early release programme in the US has found most favour in financial and academic institutions and the re-engineering of existing Cobol applications is the most popular application for the object-oriented option.
+So far Clarke says the feedback from the trial has led to enhancements in the error handling capabilities of the object-oriented option along with more work on its ability to handle a larger number of objects and a lot of message sends without damaging critical performance features.
+He is clearly disappointed with the low take-up of the early release programme in the US, but understands that this is because customers already have their hands full coping with downsizing.
+For those for whom only a pure object-oriented language will do, Micro Focus is also offering a Smalltalk/V-Cobol environment so that Smalltalk can be used as a front end to Cobol programs, offering quick prototyping capabilities.
+In summary, when Cobol ‘97 arrives, existing Cobol ‘85 programs will compile with Cobol ‘97 products.
+Users will not be forced to take up object-oriented features if they don't want to, but they will be able to can add bits of object-oriented programming as they wish, and insulate existing Cobol programs by making an object out of an existing data structure.
+And yes, Micro Focus says that it will be using Object-Oriented Cobol internally.
+SPARC INTERNATIONAL BRANDING SCHEME BACKS UNIX SYSTEM V.4 TO ROUND OUT MAXIMUM NUMBER OF APPLICATIONS
+In a burst of well-timed ecumenism, Sparc International and a number of its key members have thrown their combined weight behind Unix System V.4 in an effort to build bigger application muscle.
+Sun Microsystems Inc, one of the players, has given up the SparcWare designation used by its Catalyst independent software vendor programme to the group's new binary-compatible branding scheme.
+From now on it will refer to products validated as working with all Sparc-compliant hardware and software, not just Sun.
+SparcWare is driven by the need to lower the support costs that eat up 50% of every software engineering dollar and expand the market for independent software vendors.
+It is specifically designed to evolve current Sparc-based applications to System V.4 and acknowledges Sun's Solaris operating system only as an System V.4 subset.
+Their specification however, looks down the road and anticipates the need to provide for both Microsoft Corp NT interoperability and Windows NT SparcWare applications in future.
+The hardware vendors behind the move, only a slice of Sparc International's 34-odd ironmongers, are described as early leaders in System V.4 and include Amdahl Corp, Cray Research Inc, Fujitsu Ltd, HaL Computer Systems Inc, Matsushita Electric Ltd, Solbourne Computer Inc, Sun, Tatung Science & Technology Inc and Hyundai America's Axil Workstations.
+SunSoft Inc is also a backer.
+Their designs are on the huge non-Sparc market and the glass house on which IBM Corp has loosened its grip.
+The amount of money companies like Sun stand to save on testing and retesting applications is substantial.
+Sparc International estimates that 70% to 90% of applications can be common among system providers with no significant loss of competitive advantage.
+The enticement to independent software vendors is the range of stable Sparc systems from laptops to supercomputers coming to market.
+Initial support is coming from Accelr8 Technology Inc, Elan Computer Corp, Frame Technology Corp, Hunter Systems Inc, Lotus Development Corp, Oracle Corp, Objectivity Inc, Pure Software Inc, Quorum Software Systems Inc, SAS Institute Inc and Unidata Inc.
+Others are expected to join at UniForum.
+The goal is to have several hundred software houses rallied to the banner by the end of the year.
+However SparcWare's gaze is firmly fixed on the 42 independent software vendors responsible for 60% of the product volume worldwide.
+Sparc Compliance Definition 2
+Compliance involves writing to the Sparc Compliance Definition 2 binary interface specification written and agreed to by Sparc International members last year.
+The Compliance Definition 2 contains the application-visible interfaces common among system providers and some vendor-specific optional interfaces.
+Sparc International has developed a System Compliance Test to verify hardware and operating systems compliance and the Sparc Application Verifier to test applications.
+Both hardware and software will be SparcWare branded.
+Sparc International will promote the breakthrough with a $2m advertising and public relations campaign supplemented by direct mail, applications catalogues and a user-accessible on-line database.
+The validation tests, which cost $2m to develop, have already been shaken out.
+The consortium is using two reference systems: a Sun-made Sparcstation 2 and a Fujitsu-made DS/90-7000 server running UXP/DS, Fujitsu's version of System V.4.
+The programme will be taken to Japan in the fourth quarter.
+Efforts to internationalise the Sparc Compliance Definition 2 should bear first fruit in the autumn, initially based on X Window X11.5 before it moves to a finer degree of granularity with the proposed X11.6 standard made by SunSoft Inc and the Open Software Foundation.
+Sparc International will manage the ‘gold’ specification and its roadmap and own the Sparc brand.
+Independent software vendors will be charged nothing until the second year when a $2,500 fee per company will be levied.
+Vendors, who will recruit the independent software vendors, will pledge that they will ensure that systems will run branded software for at least three years.
+DELRINA ADDS SPEECH CAPABILITY TO ITS WINFAX
+The speech processing market continued its wander towards the commodity end of the industry last week when the Delrina Technology Inc subsidiary of Delrina Corp, Toronto said that it would be adding speech extensions to its WinFax personal computer facsimile software.
+Delrina says it will exploit the signal processing capabilities that some facsimile modem manufactures are just beginning to build into their products.
+Last June both Zilog Corp and National Semiconductor Corp announced chip sets that combined voice, modem and facsimile capabilities and already a number of board-level products are coming to market that incorporate them.
+Delrina is basing its pitch on the expected low cost of these modems relative to the cost of buying separate facsimile and answering machines, and the large installed base of Windows users with a single phone line who keep finding themselves talking to modems.
+The intended extensions sound quite powerful.
+Delrina says that it will support call discrimination, integrated voice mail, Caller ID, an audio notepad, automated dialling, and the standard Windows list is the basic requirement to distinguish between incoming speech, facsimile and modem calls.
+Delrina claims, without explaining how, that the close integration of software and hardware will mean that the detection will be more reliable than existing switches, which occasionally make mistakes.
+The integrated voicemail facility is designed to provide facilities akin to the familiar answering machine.
+All messages are saved to the computer.
+Remotely
+If the incoming call is a facsimile message, WinFax will automatically switch on to receive it.
+In addition, users can access their voice mail remotely.
+By dialling-in and pushing a series of touch-tone codes, they can play-back, save and delete messages, and change the system's announcements and their personal greeting.
+Where available, Delrina says the software will be able to take advantage of calling line identification so users can screen their calls.
+Finally Audio notepad will enable the user to recording their phone conversation at the click of a button.
+Delrina says that OEM and retail versions of WinFax with voice will begin to appear early this summer as the hardware products begin to roll out.
+APPLE's MACINTOSH-ON-UNIX PROJECT ‘IS NEARING COMPLETION’
+The Apple Computer Inc Cat-in-the-Hat project, which will see the Apple ToolBox, Apple's crown jewels and the source of the Macintosh under interface, implemented for IBM Corp, Hewlett-Packard Co and Sun Microsystems Inc systems, is thought to be nearing completion.
+Sources hear that internationalisation work is under way, which is usually the last task before release.
+Apple's own effort does not bode well for the clutch of Macintosh-on-Unix houses like Echo Logic Inc, Xcelerated Systems Inc and Quorum Software Systems Inc.
+ARTISOFT ENHANCES LANTASTIC AS IT UNVEILS VERSION 5 OF THE NETWORK OPERATING SYSTEM
+Artisoft Inc has announced that LANtastic v5.0 — which adds communications to a wider range of systems, and enhanced network administration, security and printing facilities — is to ship this month.
+As well as increasing the maximum number of users per server to 500 from 300, the new version enables them to bridge to OS/2, High Performance File System, write-once optical disks and other devices by setting up the connection as a LANtastic shared resource.
+Another new feature will be its ability to connect with Unix Network File System servers through a LANtastic server that is also a Unix client.
+A similar trick is used to enable connection to NetWare servers.
+Version 5.0 also includes a modified NetBIOS, which makes this previously  unrouteable protocol  routeable .
+The result is that different networks such as ARCnet and Ethernet can be tied together into a single LANtastic internet.
+An IPX routing option also enables the use of Novell Inc IPX-compliant routers, while a global resource feature enables users that log into one server to use multiple servers' resources, a feature designed to ease resource management.
+New network administration features will enable administrators to set up all user accounts on a single server, which can share information with other servers — something NetWare 3.
+X users could do with.
+The Tucson, Arizona company has also added a remote server management feature, enabling users to edit a remote server's accounts or resources, and a batch de-spooling feature enabling users to de-spool commands to a remote server from a local personal computer and specify when these commands should be executed.
+In the security arena, Artisoft has extended privilege assignment within an Access Control List group down to particular files on servers, so each member of an Access Control group can be assigned specific additional rights above those of the group as a whole.
+On performance, LANcache, the disk caching program included with the new version, enables users to cache multiple drives in a single personal computer, and specify different LANcache sizes for MS-DOS and Windows, while the company says it can be configured to use just 10Kb of memory.
+An ‘auto re-try on disconnect’ feature automatically attempts re-connection of broken server links for improved resilience, while deferred NET LOGIN and NET USE commands enable users to set up connections to several servers when they are not currently running: users are automatically logged in when the servers come on line.
+Print features include delayed de-spooling (enabling users to set the time and date for printing), support for COM3 and COM4 and remote de-spooling.
+For Windows users, the company has introduced the LANtastic for Windows Scrapbook (enabling users to share text, graphics and sound items), and — via the Artisoft Sounding Board — voice chat for communications between two personal computers, and LAN Radio for broadcasting messages across the network.
+In order to encourage take-up, Artisoft is offering new Starter Kits comprising the operating system, two LANtastic NodeRunner 2000/C Ethernet adaptors, cabling and documentation: these are to cost £450 for either Windows or MS-DOS users.
+Prices for the adaptor-independent operating system are to start at £80 for a single MS-DOS node, £100 for a single Windows-MS-DOS node.
+IBM FLESHES OUT THE DETAILS OF ITS RIOS 2 HIGH-END RISC, EXPLAINS ITS RELATIONSHIP TO POWERPC
+IBM Corp machines based on the forthcoming high-end Rios 2 multichip set could be on the market by the middle of this year, according to IBM sources.
+The existence of Rios 2 as a separate development from the IBM-Motorola Inc-Apple Computer Inc collaboration on Rios 1 or PowerPC, was confirmed at IBM's extension of the RS/6000 line last month.
+Two lines of development are necessary if IBM is to keep the performance of the Rios RISC competitive at the same time as extending the range downwards with the single chip PowerPC, the company says — and Rios 2 will drive forward both the integer and floating point performance of Rios, adds IBM.
+Rios 2 is described as a ‘next-generation superscalar RISC’ with single branch, dual fixed point and dual floating point units.
+It will be able to execute up to six instructions (or eight operations) per clock cycle (compared with the PowerPC's four instructions or five operations).
+There will be new instructions for floating point, SQRT and convert to integer, and improvements to increase cache and memory bandwidth and reduce transaction latency.
+Initial implementations are not expected to be 64-bit — that should first appear in the PowerPC 620 chip, expected next year.
+IBM insists that, despite the implementation differences, binary compatibility between Rios 1 and Rios 2-based systems will be maintained, although some re-compilation may turn out to be necessary to take full advantage of new performance features.
+It is not yet clear whether Rios 2 will be offered to IBM's PowerOpen partners, other than those that specifically take IBM RS/6000s as an OEM product, such as Compagnie des Machines Bull SA and Wang Laboratories Inc.
+An IBM source said it would be interesting to see how Hewlett-Packard Co, currently winning the performance race over Rios with its PA 7100 chip, will respond to the announcement — what do they say about Hubris and Nemesis…
+MASPAR PREPARES UPGRADE BOARDS FOR ITS MP-2 SYSTEM
+Digital Equipment Corp's Sunnyvale, California-based massively parallel systems partner MasPar Computer Corp is planning to introduce  upgrade boards for its MP-2 massively parallel computers next month.
+The MP-2 line uses custom 32-bit RISCs rated at 133 MIPS and are configured with as many as 16,000 of the things.
+The company plans to boost MP-2 system performance 10-fold over the next 18 months.
+FACING UP TO THE PROBLEM OF WHERE OLD COMPUTERS GO WHEN THEY DIE
+The pressure on computer manufacturers to provide for the proper disposal of used computer equipment, which goes beyond dumping it into approved landfills, continues to build from both within and without the industry.
+Northern Europe certainly leads the world in confronting the intractable problem of recycling used computers.
+A law to require any manufacturer selling computers in Germany to take back its equipment for reuse or recycling is being drafted for next year, while governments in Denmark and Sweden are considering legislation this spring for mandating some kind of electronics scrap recycling program.
+The German Ministry for the Environment says approximately 800,000 metric tons of ‘electronic waste’ is generated each year in western Germany alone.
+A report prepared in January for the French prime minister's office by Jean-Pierre Desgeorges, president of GEC Alsthom NV, says approximately 2.1m tons of electronic and electrical products will enter the waste stream ‘in the medium term.
+The market has begun to respond by sprouting independent computer recycling companies.
+While most of them are in Germany, one of the newest pioneers in the field sprang up in Brkne, Sweden last August.
+Crec (say it ‘see-wreck’ for ‘computer recycling’) is a private concern that intends to remain private, although it gets government assistance with its factory rent and worker salaries during its start-up phase.
+After breaking the computer down into its hazardous and raw materials, ‘the only thing we dispose of is between 3% and 5% of the computer's total weight,’ says founder and marketing director Peter Domini.
+He has received a number of private proposals to augment Crec's capital (now at the equivalent of about $100,000).
+He says full government sponsorship would not be ‘flexible’ enough; the ideal partnership would be with a waste management company.
+Extracted hazardous materials
+Crec charges its clients 82 cents per kilogram to dismantle computers in a factory once used to manufacture them.
+It also has a joint venture with a waste management company, which delivers Crec computers it collects from municipal waste sites and which Crec, in turn, pays to dispose the extracted hazardous materials.
+Its fee, says Domini, covers only the costs of hazardous waste disposal.
+‘The unfortunate reality is that there's not enough money in a [used]computer even to break even.
+Even though there is gold, silver and cadmium, there just isn't enough to offset the cost of disassembly and melting down,’ says Omar Khalifa, Apple Computer Inc's manager of environmental technology.
+Domini asserts that Crec is making up its costs today by selling old components and the raw materials it extracts.
+‘Our profit in this business will improve as we get better at taking out the raw materials and components, such as memory chips, that can be reused,’ Domini says.
+‘It WILL work.
+Up to now, the manufacturers had not been accounting for dismantling personal computers in their construction, so it's still a very difficult process.
+It probably won't become a lot easier until 1996 or 1997.’
+He adds that only two computer companies so far have sent manufacturing groups out to see what Crec is doing — IBM Corp, and ICL Plc, which has really turned on to ergonomics and the environment since it bought Nokia Data AB.
+— Marsha Johnston
+FRENCH BUSINESS EXPECTS TO INCREASE COMPUTER SPENDING 2.5% THIS YEAR
+French enterprises expect to increase their spending on information systems and services by 2.5% in 1993, to $47,900m, says a recent survey by Paris-based TMO Consultants.
+TMO says the survey is based on information from a study called ‘Observatoire Permanent des Etablissements,’ which is conducted every two years among 7,000 enterprises, and from annual surveys of its large and medium-sized accounts and of computer distributors.
+A bigger increase of 3.5% is expected in 1994, the study says.
+Both increases, however, are below the 6% increase for 1992, over 1991.
+Not surprisingly, spending increased on micros and workstations while it declined for mainframes.
+The number of mainframe systems, defined as machines costing over $1m, was down 1%, with 3,990 units installed compared with 4,015 in 1991.
+The installed base of ‘medium-sized’ systems, which are priced between $18,000 and $1m and include most workstations, grew 9%, to 218,000 units.
+Micros, which TMO classifies as being priced under $18,000, grew in number by 13% to 3,063,000 units.
+The number of informatics technicians remained stable, but with a slight drop, to 145,000 in 1992 from 146,000 in 1991.
+Founded in 1974, TMO achieved 1992 revenues equivalent to $13.1m, and employs 70 people.
+FRENCH UNION GIRDS TO CHALLENGE BULL ON ITS NEW ROUND OF REDUNDANCIES
+A representative from the Confederation Franaise Democratique de Travail says the union will oppose Compagnie des Machines Bull SA's plan for voluntary redundancies at the company's labour-management committee meeting scheduled for Friday, according to a report in French business journal Les Echos.
+While acknowledging Bull's need to economise in light of its losses last year, the representative said the union will insist on the usual social payments to employees leaving voluntarily.
+‘We're not laying claim to a social plan just for the pleasure of doing one, but because we believe accompanying measures must be put in place and the occasion must be seized to explore all possible avenues towards preserving the maximum employment,’ the representative is quoted as saying.
+The union intends to propose solutions including redivision of tasks, reduction of working hours and job sharing, the rep said, adding that the union will reserve the right to take its case to the courts.
+It already served a writ last week against Bull management to the Paris county court over the plan to close the headquarters office on Avenue Malakoff.
+In its complaint, the CFDT says ‘the group refuses to present a social plan even though its plan means the loss of 50 jobs.’
+The judge asked the two parties to do everything possible to reach a reconciliation of the issue.
+A meeting between the union and Bull is set for Tuesday, and the two are to meet the judge again on March 18.
+CAPRI FORMED TO DO APPLICATIONS IN C++
+Dan Ellis, ex-president of AS/400 software house J D Edwards Inc, has teamed with Pyramid Technology Corp co-founder Rob Kelly to start Capri Software Inc in Boulder, Colorado.
+The year-old firm will write financial, manufacturing and distribution client-server software in C++ for Digital Equipment Corp and Sun Microsystems Inc kit to start with.
+ICL MERGES UK, EUROPEAN AND CORPORATE HEADQUARTERS INTO SINGLE ENTITY
+To reflect what it considers its new streamlined business structure, ICL Plc has quietly merged its former UK, European and Corporate headquarters into a single worldwide operation, run jointly from its Bracknell and London offices.
+Three of its board directors have also taken on additional responsibilities and have duly been retitled group executive directors.
+UK chairman John Gardner now has  responsibility for manufacturing, logistics, mainframe development and corporate services.
+European president Ninian Eadie is continuing to manage ICL's personal products, and now includes the company's mid-range systems in his portfolio, which is considered a natural step given the movement towards client server systems.
+Finally, Richard Livesey-Hawarth, who was previously responsible for the product operations now assumed by his fellow executive directors, moves over to oversee ICL's important vertical retail and financial services operations as well as group marketing activities.
+DELL PLAYS THE FIELD LOOKING AS IT REVIEWS ALTERNATIVE SOURCES OF CASH
+Now that circumstances have conspired to make an immediate share issue an unattractive option, Dell Computer Corp is looking around for the best alternative to raise cash to finance its soaraway growth.
+Tom Meredith, the Austin, Texas company's chief financial officer told Dow Jones & Co that with long-term interest rates at historical lows, he is keenly interested in a debt deal.
+‘We are the consummate shopper.
+We are all ears in terms of ideas and innovations that may provide the company a competitive advantage from the financial side,’ Meredith said.
+‘We are working with both commercial and investment banks in terms of evaluating the alternatives available to us.’
+Dell has renegotiated an existing $200m revolving line of credit with a group of nine large banks led by Barclays Bank Plc to give it additional flexibility in using the funds.
+Dell expects fiscal 1994 sales of between $3,400m and $3,700m and net profit of between $3.30 and $3.75 a share, compared with the $2.59 on sales of just over $2,000m reported for the year just ended.
+Separately, Dell investor relations director Donald Collis told Reuter that the company planned no immediate overall price cuts in response to the cuts announced on Monday by Compaq Computer Corp.
+‘Basically we've looked and said there's no reason for any knee-jerk reaction or across-the-board actions here,’ Collis said, adding that Dell will be sticking to its own price timetable.
+‘We've seen very strong momentum and our business continues to be very strong, so we remain very confident about the quarter we're in.’
+US CHIP BOOK-TO-BILL RATIO SLIPS TO 1.18 FROM A REVISED 1.20 IN JANUARY
+Analysts had been bullish on the indicator ahead of the announcement, but in the event, the US Semiconductor Industry Association's book-to-bill ratio for February fell to a still very healthy 1.18, from 1.20 in January, the latter figure revised upwards from the 1.19 reported at the time.
+February orders in the US, based on the usual three-month moving average, rose 0.8% on the average figure for the three months to January, to $2,065m and shipments on the same basis rose 2.2% to $1,750m.
+SHARE & BOND ISSUES
+MCI Communications Corp, Washington filed a shelf registration with the Securities & Exchange Commission for up to $1,000m of debt securities.
+Net proceeds from the offering, consisting of senior and subordinated medium-term notes, will be used for working capital.
+The offering will be made through Merrill Lynch & Co, Goldman, Sachs & Co, Lehman Bros and Salomon Inc, the company noted.
+Pacific Telesis Group Inc's Pacific Bell Telephone Co said it is offering $625m of 7.125 debentures due March 15 2026 to refinance two earlier debt issues.
+Priced at 98.106% to yield 7.277%, the debentures are being offered through Lehman Brothers, Merrill Lynch & Co and Salomon Brothers Inc.
+Superconductor Technologies Inc, developing high temperature superconductor thin film for the magnetic resonance imaging cellular communications and high speed computing markets in Santa Barbara, California got its initial public offering of 1.5m new shares  away at $10.00 per share and plans to use the $14m or so net proceeds for research and development, capital equipment, repayment of capital leases and working capital.
+The managing underwriter for the issue was H J Meyers & Co Inc.
+COMPANY RESULTS
+Compucom Systems Inc saw third quarter net up 4.8% at $1.9m, on turnover up 19.4% at $174.5m; net profit for the nine months was up 25.1% at $4.3m, on turnover that rose 45.7% to $508.2m.
+Net earnings per share remained at $0.06 in the quarter, and rose by 27.3% to $0.14 in the nine months.
+Computer Outsourcing Inc has reported first quarter net profit up 64.3% at $196,512m, on turnover up 1.2% to $2.5m.
+Net per share rose 66.7% to $0.10.
+Computrac Inc saw third quarter net losses of $169,531 down from $879,508 losses last time on turnover down 31.4% at $2.3m; net profit for the nine months was $175,462 against $800,927 losses last time on turnover that fell 7.9% to $8.6m.
+Net earnings per share were $0.03 in the nine months.
+DataSouth Computer Inc has turned in third quarter net profits down 26.4% at $167,000, on turnover up 1.7% at $4m; net profit for the nine months stood at $559,000 against losses of $404,000 last time, on turnover that rose 10.6% to $11.9m.
+Net earnings per share fell 25% to $0.03 in the quarter, and stood at $0.10 in the nine months.
+The 1992 figures reflect a change in the method of accounting for certain deferred income tax benefits.
+Data Translation Inc saw fourth quarter net losses of $686,000 up from losses of $435,000 last time, on turnover up 7% at $8.7m; net losses for the year to November 30 stood at $2.5m up from losses of $1.2m last time, on sales that fell 0.9% to $33.6m.
+Intelligent Systems Corp saw fourth quarter net profits down 62.3% at $26,000, after $1.7m gains on the sale of stock this time and $1.9m gains from the payment of a note receivable, on turnover up 13.7% at $13.6m; net losses for the year to December 31 stood at $3.7m up from losses of $1.9m last time, after $3.2m gains from the sale of a subsidiary last time, on turnover that rose 4.3% to $50.8m.
+The figures include those of Intelligent Enclosures Corp from its acquisition in October.
+Supertex Inc has turned in third quarter net profits down 49.6% at $353,000, on turnover up 17.3% at $5.7m; net profit for the nine months was down 1.3% at $1.3m, on turnover that fell 9.5% to $18m.
+Net earnings per share fell 50% to $0.03 in the quarter, 47.6% to $0.11 in the nine months.
+NO SIGN OF IBM EUROPEAN MAINFRAME DEAL
+Further research has failed to turn up a single firm IBM Corp mainframe deal for this quarter anywhere across Europe, and the disk business is not going to save any IBM bacon either: word in leasing circles is that users are so averse to buying new disks that prices of used 3380Ks have risen by some 25%.
+SOFTWARE PUBLISHING ADJUST EUROPEAN PRICES
+Santa Clara, California-based Software Publishing Corp has responded to widespread complaints that US software companies rip off their European customers by adjusting the prices of its products in Europe to conform with the prices in the US.
+NATIONAL SEMICONDUCTOR AND TOSHIBA EXTEND CMOS AGREEMENT
+National Semiconductor Corp and Toshiba Corp have extended their agreement on joint development and marketing of CMOS logic chips to cover 3V as well as 5V products.
+‘UPGRADE YOUR WORLD’ WITH MICROSOFT
+Microsoft Corp has launched its largest reseller promotional campaign yet, a $7m 60-day programme dubbed ‘upgrade your world,’ which it says will reach at about 28m customers: the promotion will include an ‘unprecedented’purchase of US national print and broadcast advertising and direct mail, offering a no-cost version upgrade to each customer that spends a minimum of $350 on Microsoft software between April 1 and May 31, and is coupled with promotional sale prices of $570 against the usual $750 on Microsoft Office for Windows and users of Excel, Word or PowerPoint can receive an additional $50 rebate from Microsoft until July 15; MS-DOS 6 will be offered at a promotional price until May 31 and the upgrade to Windows 3.1 will also be on sale from now until April 30.
+GTE OFFER ENHANCED RETIREMENT PACKAGE
+GTE Corp's GTE Telephone Operations is offering an enhanced early retirement programme and voluntary redundancy incentives to all eligible salaried employees US-wide: some 26,000  salaried employees will be eligible for one or both deals.
+ALPHAMERIC SEEKS FUNDS TO MAKE RETURN
+Recovering Alphameric Plc is seeking to raise another £363,000 to bolster its return to prosperity with a placing of 1.29m shares at 28.25 pence a time via Henderson Crosthwaite Corporate Finance Ltd.
+NEW TANDY MEGASTORE IN DALLAS
+Tandy Corp broke ground in Dallas on Tuesday for its third Incredible Universe computer megastores, and says it plans to open 14 more US-wide over the next three years: the first two are in Wilsonville, Oregon and Arlington, Texas; the one in Dallas will be the biggest yet.
+ALLIED-SIGNAL CHIEF ‘FLATTERED’
+Can't be certain, but it looks as if Allied Signal Corp chief executive Lawrence Bossidy has ruled himself out of the running for the top job at IBM Corp: he says that although he is ‘flattered to be mentioned as a candidate for chairman of another company, I intend to remain at Allied-Signal to complete the job I came here to do.’
+‘MANUFACTURING VERSUS SERVICES’
+And Allied Signal Corp chairman Lawrence Bossidy has initiated the UK ‘manufacturing versus services’ debate in the US, suggesting that for those that believe that IBM Corp should be making more, cheaper rather than shuttering factories all over the place, he might have been the right man for the job: US industry ‘cannot slash its way to prosperity,’he told the new Design & Manufacturing Institute of the Stevens Institute of Technology — adding that while design innovation is a US strength, ‘we need to extend US technological excellence from the design laboratory to the manufacturing floor — American business needs to find ways to improve the speed with which we convert innovative design into high-quality, marketable product; many of our factory floors are populated by high-school graduates or dropouts, with a few engineers serving as supervisors safely ensconced behind glass walls,’Bossidy said, where Japanese shop floors are staffed much more by graduate engineers who work directly with well-trained workers, to solve problems and improve manufacturing efficiency.
+SUNCONNECT AND MCI AGREEMENT
+The SunConnect arm of Sun Microsystems Inc has an agreement with MCI Communications Corp under which MCI will incorporate the SunNet Manager  distributed network management system into its HyperStream communications service for Frame Relay and  Switched Multi-Megabit Data Services-based internetworks and future broadband ISDN-based networks — HyperStream's HyperScope network management service can be used with SunNet Manager software to monitor and control complex enterprise communications systems in high-speed, wide area virtual data networks.
+METROLOGIE REPORT TURNOVER SLUMP
+Metrologie International SA, Paris, reported yesterday that turnover for 1992 slumped 35% to the equivalent of $470m, and that turnover from continuing operations fell 23.6% in the last quarter and 15.7% in the year as a whole; it has not yet totted up its loss for 1992.
+TANDEM MOVES ASIAN HEADQUARTERS TO SINGAPORE
+Tandem Computers Inc, Cupertino is moving its Asian headquarters to Singapore from California later this month, specialising in telecommunications, banking and finance; it already has a joint software company, Twin-Soft Asia Pte Ltd, with Singapore Computer Systems Ltd which it formed last year, and it is planning to launch a screen-based smart telephone that can access host computers using a telephone handset, a small display, a programmable microprocessor and a modem, in Singapore next month.
+GTE MERGE UNITS TO FORM GOVERNMENT SECTOR UNIT
+GTE Corp's GTE Government Systems Corp unit merged its Command, Control & Communications Systems Sector and its Electronic Defense Sector to form a new Government Sector.
+TSENG DISCUSSING AUDIO
+Newtown, Pennsylvania-based graphics chip maker Tseng Labs Inc says it is in discussions that might lead to it entering the business of development and production of audio chips: ‘We're talking to a lot of people in the sound area, both engineers and companies — because we don't have any basic sound technology, we're looking to acquire that either through people or maybe an acquisition,’ Tseng vice-chairman Jack Gibbons explained to Reuter.
+OLIVETTI PAY THE SAME PRICE
+Ing C Olivetti & Co SpA's agreement with Eo Inc on the marketing and perhaps later the manufacturing of its Eo 440 and 880 handheld communicators in Europe (CI No 2,124) involves the Italian taking the same stake as everyone else in Eo — the entry fee is $10m, with which it gets a seat on the firm's board.
+NTT SHARES SOAR
+Nippon Telegraph & Telephone Corp shares have been soaring on the hope that it will be able to raise its charges, and the company says it is keen to raise rates on all inter-city telephone calls including those from pay phones, but has not decided when to apply for permission from the Ministry to do so.
+GEAC ACQUIRES CONCORD MANAGEMENT SYSTEMS
+Geac Computer Corp Ltd, Toronto completed its previously announced purchase of Concord Management Systems Inc of Florida, one of North America's biggest developers of software for construction firms, and has also bought Mentat Computer Systems Pty Ltd whose systems are installed in more than 60 firms in Australia and New Zealand; the acquisitions cost the equivalent of $4m and add some $10m annual sales.
+AT&T HAPPY FOR BABY BELLS TO GO LONG-DISTANCE
+AT&T Co is happy to have the Baby Bells enter the long-distance market in the US on condition that they give up their local monopoly: AT&T also will lobby to eliminate remaining regulation of long-distance.
+SOFTWARE AG OFFER CORE PRODUCTS UNDER SOLARIS 2.1
+Darmstadt, Germany-based Software AG is putting its core products, Natural, Adabas and Entire Net-Work, on Sparcs under Solaris 2.1, expecting them to ship by the end of the first quarter: the software is also now up under UnixWare.
+DELPHI PLANS TO TAKE ALL REMAINING CONTINENTAL SYSTEMS STOCK
+Westlake Village, California-based Delphi Information Systems Inc says it plans to acquire all of the outstanding stock of Continental Systems Inc of East Lansing, Michigan for about 446,000 shares of Delphi common stock, worth $3m.
+WICAT WIN SWISSAIR CONTRACT
+Orem, Utah-based Wicat Systems Inc won a contract from Swissair to develop an A-310 Emergency Operations Procedures Training course.
+PETROLEAS MEXICANOS ORDER C3 SERIES COMPUTERS
+Convex Computer Corp reports that Petroleos Mexicanos has ordered three C3 Series minisupercomputers to run compute-intensive petroleum exploration and production software — two compact, portable C3410/ES systems will be used by Pemex's Exploration and Production unit to run seismic processing applications at exploration sites and a four-processor C3440 at Ciudad del Carmen will be used by 200 scientists and engineers in Production Management for reservoir  modelling and database applications.
+JOHN ARMSTRONG TO RETIRE AFTER 30 YEARS AT IBM
+IBM Corp vice-president, science and technology John Armstrong will retire from IBM on March 31, after 30 years of service, the firm said.
+SAN ANTONIO EMERGENCY SERVICES CHOOSE NCR
+NCR Corp reports that the city of San Antonio, Texas, tenth largest in the US, would you believe, has gone for NCR multiprocessing servers to facilitate the flow of information through its emergency services department — two NCR 3450 multiprocessors will function as the backbone of the city's computer dispatch system; no value given.
+CHIPBOARDS PLC CALL IN RECEIVERS
+Mail order computer retailer and manufacturer Chipboards Plc has called in the receivers, Robson Rhodes, which are now trying to sell the combined or separate businesses and assets of the group as a going concern: the company comprises a Chipboards division, which sells clone personal computers, upgrades and peripherals by mail order and has a turnover of £8m; and a Chipset division, which manufactures high-end clone personal computers such as file servers, Unix machines and workstations for computer-aided design and generates £3m in revenues; Chipboards was set up in 1987, is based in Bisley, near Woking, Surrey, and claims to have a customer base of 20,000.
+ALCATEL GET $25.8m FIBRE OPTICA CABLE CONTRACT
+Alcatel NV's Alcatel Submarcom has been awarded a $25.8m contract to supply and install the fibre optic cable between Greece, Cyprus and Crete: the cable is scheduled to come into service in August 1994.
+FIRST HONG KONG — PEKING LEASED HIGH-SPEED DIGITAL CIRCUIT
+The first high-speed digital leased circuit between Peking and Hong Kong has gone into service, Hong Kong Telecommunications Ltd said: the 64Kbps circuit was commissioned as a result of co-operation between Hong Kong Telecom and Beijing Telecommunications Administration; the China Hewlett-Packard joint venture between Hewlett-Packard Co and a Chinese partner, is leasing the circuit to connect its internal voice and data network with its US co-parent's global network via its Asia-Pacific regional headquarters in Hong Kong; the computer company also gave Hong Kong Telecom an order to upgrade the leased circuit, which connects its Shenzhen plant with Hong Kong hub to 64Kbps.
+PILOT SOFTWARE REPORTS THAT LIGHTSHIP NOW SUPPORTS NT
+Boston, Massachusetts-based Pilot Software Inc says its visual information access and analysis software, LightShip now supports Microsoft Corp's Windows NT: additionally, its command Centre executive information system is now available for Digital Equipment Corp Alpha AXP and Sun Microsystems Inc Sparc.
+ADUS/UK BECOMES HP/WORKS TO REFLECT USER BASE
+Adus/UK, the Bicester, Oxfordshire-based Hewlett-Packard Apollo workstation user society, has re-christened itself HP/Works to reflect an expanding role and growing user base, the group says: the new-styled outfit will introduce itself on March 31 at its annual meeting.
+HP EUROPEAN USERS TO GATHER IN JUNE AT BIRMINGHAM
+The Hewlett-Packard Co Computer Users European Conference takes place at Birmingham's International Convention Centre between June 27 and 30: keynote speakers at the meeting include former British Prime Minister Edward Heath, ‘Father of the Precision Architecture RISC’ Joel Birmbaum, and Microsoft Corp's European managing director.
+BULL STARTS MANUFACTURING IBM RS/6000s AT ANGERS PLANT
+As it said it would eventually, Compagnie des Machines Bull SA has begun manufacturing the IBM Corp RS/6000 systems it resells as its DPX/20 line at its plant in Angers.
+TALIGENT HAS VERSION OF OPERATING SYSTEM WORKING ON MACINTOSH QUADRA
+InformationWeek quotes Taligent Inc chief executive Joe Guglielmi as saying his folks have a version of its object-oriented operating system up and running on an Apple Computer Inc Macintosh Quadra: Taligent, which intends publishing specifications this year followed by a developer's kit, has also written some low-level applications for the system along the lines of Apple's MacDraw — but the final system is not due until 1995.
+SENSE8 SIGN GERMAN AND SPANISH DISTRIBUTORS
+Sense8 Corp, Sausalito, California, signed German firm Media Systemes GmbH and Technologia Virtual SA in Spain to distribute its real-time graphics simulation development environment, WorldToolkit, in Europe.
+NCR RELEASES COOPERATION VERSION 2.1
+NCR Corp has released version 2.1 of its Cooperation integrated software environment, for client-server environments, which runs on System 3000 machines and personal computer clients; it supports Windows 3.1, Lotus Development Corp Notes and Hewlett-Packard Co's NewWave 4.1; a 10-user licence is £3,500.
+UNCLEAR IMPACT OF USL PURCHASE
+Sparc International on the Novell Inc acquisition of Unix System Laboratories Inc: ‘There is a large amount of information that is unclear regarding the impact of this purchase — initially, we anticipate that there will be more Novell NetWare content in Unix…potentially, having Novell run Unix as a ‘business’ would be beneficial to the Unix community, because it would drive for unification around a central Unix implementation.’
+OPEN SYSTEMS & CLIENT SERVER SYMPOSIUM FIXED FOR TORONTO
+Datapro Canada, Unican and UniForum Canada are holding the Fourth Annual Executive Symposium on Open Systems & Client/Server Computing at the Sheraton Centre in Toronto April 6 to 8: they've rounded up people like Doug Michels of Santa Cruz Operation Inc, Roel Pieper of Unix System Laboratories Inc, John Paul of Compaq Computer Corp, Jon Gossels of the Open Software Foundation, Bill O'Shea of NCR Corp, Heinz Lycklama of Open Systems Technology Associates and George Shaffner of X/Open Co Ltd to speak.
+VI CORP RELEASE X-DESIGNER 3.0
+VI Corp Europe is up to version 3.0 of its Motif-based X-Designer graphical user interface development tools: the new release supports Motif 1.2, C++ code generation and integrates with FrameMaker desktop publishing software and the CenterLine Inc CodeCenter 4 workbench.
+AMPERSAND TO MARKET VMARK'S PI/OPEN DATABASE
+In the UK, Bristol-based Ampersand Systems Ltd is to market VMark Software Inc's PI/Open database — formerly owned by Prime Computer Inc's Computervision outfit — to Prime 50 series minicomputer users.
+‘LAMBS TO THE SLAUGHTER’
+The impression of IBM Corp, Digital Equipment Corp and their ilk lining up like lambs to the slaughter may seem hard to credit for customers that have been driven to accept very hard bargains, but that is what appears to be happening with this  Gadarene rush by the major manufacturers to get into the facilities management business in the US: we understand that many of the savings and loans, banks and securities houses that have gratefully accepted offers by the majors to run their data processing operations for them has little to do with saving money over the term of the contract, much to do with their urgent need for cash upfront to repair their ravaged balance sheets — the key attraction of the deals being the money paid at the start of the contract for the data processing facilities; if the customers are in that much need of cash, chances are that many of them won't be around in five or seven years' time, so that having spent good money for computers they don't need, the facilities managers will be left with idle installations and contracts with no residual value.

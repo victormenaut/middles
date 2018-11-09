@@ -1,0 +1,488 @@
+
+
+SANTA CRUZ FACES THE COMPETITION WITH OPEN DESKTOP LITE
+Now faced with competition from a gamut of Unix-on-Intel contenders, Santa Cruz Operation Inc, which is also in the process of taking itself public, will this week reorganise its Unix system software lines into a more orderly collection of distinct desktop and server products.
+They are based on a new version 3.0 of its Open Desktop operating system bundle and SCO Unix system.
+The most interesting new addition is Open Desktop Lite, a cut-down version of release 3.0 that is pitched squarely at the standalone Intel workstation space also being coveted by SunSoft Inc, Univel Inc and NeXT Computer Inc.
+SCO Open Desktop 3.0 — formerly SCO Open Desktop Personal System — includes a new kernel iteration, the absurdly named SCO Unix System V/386 release 3.2 version 4.2 (single user), C2 security, X Windows X11R5, IXI X.desktop manager, 20 applications and utilities, TCP/IP, NetBIOS, NFS, Microsoft Corp LAN Manager Client and support for protected mode MS-DOS 5.0 and Windows 3.1 applications via Locus Computing Corp's Merge.
+It costs from £1,000 on CD-ROM to £1,300 on 3.5’ disk, around the same as the existing version, and requires 12Mb RAM and 120Mb disk.
+SCO Open Desktop Lite is pitched as the minimum requirement for a desktop graphical workstation with 8Mb RAM and 100Mb disk.
+It comes with the same features as the Open Desktop 3.0, minus networking and Microsoft emulation.
+SCO won't price the thing until Tuesday, but its expected to come in at around or below the price of SunSoft's Solaris x86 desktop system which is £600 — $800.
+Three servers, two desktops
+SCO's server products are now divided into three offerings.
+The multiuser SCO Open Server Enterprise System includes everything in Open Desktop 3.0, plus database tuning, Novell Inc IPX/SPX protocols, and Locus PC Interface server.
+It replace Open Desktop server system as SCO's high-end offering and costs from £1,850 for a 16 user licence on CD-ROM to £2,875 for a 512 user licence on 3.5’ disks.
+SCO Open Server Network System comes with the same basic system and networking components, but loses the graphical interface and Microsoft emulation technologies.
+It is priced at £1,570 for a 16 user licence on CD-ROM to £2,280 for up to 512 users on 3.5' disks.
+The base SCO Unix V/386 Release 3.2 version 4.2 — without graphics, Microsoft compatibility and networking — is £500 for a two user licence to £1,550 for 16 users.
+All are available from June 1.
+A software development environment and multiprocessing are extra.
+Version 3.0 of SCO's MPX multiprocessing technology — it is not multithreaded — requires 16Mb RAM per CPU and includes a new Hardware Abstraction Layer which retains system characteristics of some 22 Intel iAPX-86 multiprocessor boxes.
+The HAL allows existing MPX users with any of these systems to upgrade to MPX 3.0 without porting.
+Other system configurations will be added to the HAL as they come along.
+MPX 3.0 is £1,250.
+The new operating systems haven't been recompiled for Intel's Pentium — SCO says it'd have to support two product lines otherwise — and sales on 80386 platforms still make up half its business.
+It is offering optimised Pentium compilers for those that want to do the job themselves, however SCO claims performance increases 170% on Pentium from an 80486 without a recompile — around 230% with recompilation.
+More details below.
+CYPRESS THROWS IN TOWEL ON ROSS, WILL SELL TO FUJITSU FOR $23m
+San Jose, California-based Cypress Semiconductor Corp claims performance leadership in the Sparc world with its superscalar HyperSparc, but has been less than successful in gaining design wins against the Texas Instruments Inc SuperSparc — and Cypress has now decided to give up on the unequal struggle.
+Last week it announced that it had signed a letter of intent to sell its Ross Technology Inc subsidiary, repository of all its Sparc work, to Fujitsu Ltd for $23m.
+Fujitsu is also a licensee of the Sparc architecture, but does not currently fabricate a device in the HyperSparc class, though its ICL plc subsidiary has already announced plans to use HyperSparc in its latest series of DRS6000 servers (UX No 432).
+Cypress now plans to concentrate on static RAMs, programmable logic devices and its high-performance niche product lines.
+The 75 Ross employees in Austin, Texas will transfer to Fujitsu when the deal is completed — it should go through next month if Uncle Sam does not put up the kind of objections that thwarted Fujitsu's desire to buy Fairchild Semiconductor Corp a few years back.
+The parties also agreed continuation of a multi-million-dollar joint development programme between Cypress and Ross focused on the development of a complex logic-oriented product.
+Cypress and Fujitsu are committed to supporting current Sparc customers with both manufacturing and distribution.
+Fujitsu, which in 1990 abandoned plans for a top-end Sparc in favour of variants for embedded applications after deciding that the high-end market would be too small, says it will support future Sparc technology and work toward developing it as an industry-standard architecture.
+Cypress has no plans to develop future Sparc products but it will continue to handle distribution during the transition.
+UNISYS IS PENTIUM-READY
+The unavailability of Intel Corp's promised Pentium chip is forcing hardware vendors like Unisys Corp, much of whose product line is Intel, to scramble.
+This week Unisys will preview a far-flung range of ‘Pentium-ready’ machines, currently running 80486s but designed to be seamlessly upgraded to 60MHz Pentiums in the third quarter.
+The boxes include Windows and NetWare PCs and two new U6000 Unix SVR4-based departmental uniprocessor servers, the 100 and the 300, 8-slot EISA systems with 192Mb memory capacity and a maximum 2.1Gb disk.
+The model 100, confusingly divided into the two-slot DT1 and three-slot DT2, will use an 80486DX2 and be upgradeable to a 300 in the fall.
+The 300 will be Pentium-only.
+The company says these boxes incorporate advanced video, SCSI and cache technologies.
+The DT should be formally announced next month.
+Unisys will also make note of the fact that its anticipated PCI-based multiprocessing Unix Server Design Center, due in the fourth quarter, will house Pentiums and later P6s and that the high-end U6000/75 and U6000/85 that it OEMs from Sequent Computer Systems Inc will be field upgradeable to Pentium in the fourth quarter.
+Its 113-TPS U6000/65 multiprocessor will be upgraded to an enhanced 100MHz 80486 chip in the fourth quarter that should triple its speed while memory is expanded from 256Mb to 512Mb.
+Pricing will not be available until a month or two before first customer ships.
+More details below.
+CHORUS PACT FOR POWERPC…
+French microkernel operating system developer Chorus Systemes SA has come to an agreement with Motorola Inc's Semiconductor division to jointly develop and market a combination of Chorus Unix System V-compliant microkernel technology with the PowerPC chip Motorola is developing with IBM Corp.
+The two will offer products with the Chorus microkernel embedded on the PowerPC chip, in response, they claim, to demand from telecommunications manufacturers.
+Chorus will optimise the microkernel for the PowerPC.
+A development kit for applications developers will be available by year-end, and open microkernel on-chip products will be on the market by the first quarter of 1994.
+Chorus has a similar deal with Thomson CSF for the Inmos transputer, and plans to partner with other chip manufacturers.
+…
+CORPORATE DEAL WITH ALCATEL
+Meanwhile, Chorus has signed a $21,000m deal with Alcatel Alsthom SA for use of the Chorus microkernel technology throughout Alcatel's operations.
+Alcatel — which has been working with Chorus since 1989 on its PBX telecommunications equipment (UX No 336) will now expand its use of the microkernel to such areas as process control systems within power stations and embedded transportation control systems — Alcatel products include the high-speed French TGV train system.
+Alcatel PBXs running Chorus began shipping earlier this year, with volumes expected soon.
+Other Chorus telecomms customers include GEC Plessey and France Telecom.
+MICRO FOCUS PLUNGES INTO OPEN TRANSACTION SOFTWARE MARKET
+The new Transaction System from Micro Focus Plc (UX No 435), runs under Unix, AIX OS/2 and Windows NT, which can act as servers for other copies of Transaction System and for CICS OS/2, CICS/6000 and Transaction System thin clients.
+It supports Function Shipping, enabling access to data from a remote server, Transaction Routing, enabling a transaction to be initiated on a client and redirected for execution on another system; Distributed Program Link provides for Remote Procedure Calls.
+First announced pact is with Sun Microsystems Inc for Sparcsystems under Solaris, the pitch being that IBM Corp CICS users can move applications from their mainframes and run them on Sun distributed client-server systems with little or no modification.
+The multi-user, multi-tasking transaction system supports client-server, co-operative and distributed applications on workstations and networks.
+It supports the CICS command-level program interface and interfaces to Micro Focus Dialog System and non-CICS applications.
+It also offers communications between transaction systems and with mainframe and network-based CICS systems.
+The Transaction System for Sparc will be out in July from Micro Focus and Sun is now selling and supporting the entire Micro Focus Cobol environment for commercial software developers under Solaris 1.1 and Solaris 2; including Cobol Compiler, Toolbox, Dialog System and Operating System Extensions.
+They will integrate with the Transaction System and immediately replace all Sun Cobol products.
+Current support customers automatically get Micro Focus Cobol upgrades.
+Prices for Cobol products go from $250 for the Operating System Extensions to $1,250 for compiler, depending on configuration.
+Departure
+The system represents a major departure for the Newbury, Berkshire company that up to now has been famed for its Cobol products and development tools rather than for production system software — but the market for Unix transaction processing systems is still wide open because scarcely any have been sold as yet.
+Moreover the Micro Focus offering reaches beyond Unix to run under OS/2 and Windows NT — and MS-DOS and Windows systems can access it as clients.
+But Micro Focus is bearding its leonine partner IBM Corp in its lair, effectively going head to head with IBM's own CICS/6000 by creating an open system that can run CICS applications and offers links to mainframe CICS systems.
+The core engine of the product has been designed for scalability, flexibility, robustness, speed and CICS compatibility as well as integration with Micro Focus Dialog System and non-CICS applications, the company says, adding that it provides a high level of data integrity and security either on stand-alone workstations or as part of a client-server environment, and is available in both production and development versions.
+Micro Focus Transaction System can take advantage of multiprocessing hardware.
+Network-attached OS/2, MS-DOS, Windows/NT, Windows, AIX and Unix workstations can be used as ‘thin clients’ to a Micro Focus Transaction System in three ways — as Remote 3270 Emulators, as Remote Dialog System Terminals, and as Remote ECI Requesters.
+Different character sets
+Application debugging facilities include transaction dumps, system traces, and the famed Animator source code debugger.
+VSAM file processing can be shared between the Transaction System and batch programs, with full integrity, using Micro Focus Fileshare.
+EBCDIC and ASCII environments are supported within the same region — and suites of programs and files with different character sets can reside not only on the same hardware and operating system but actually running under the same application, the company claims.
+It features comprehensive support of the CICS/ESA command-level application programming interface, enabling programmers to use Cobol applications and BMS map sets converted from CICS or other copies of Transaction System.
+It supports a variety of relational databases and the Micro Focus IMS Option or IMS Production System under the operating systems that support them — Informix and Oracle under Unix, including AIX; Database Manager and DB2/2 under OS/2; SQL Server, XDB and SQLBase, and support for other databases is planned.
+For those that need a greater degree of DB2 compatibility with IBM Database Manager or DB2 for OS/2, Transaction System also supports the Micro Focus Host Compatibility Option.
+Programs, resource tables, configuration files and application data can be shared between multiple network-attached Transaction Systems for centralised management of system resources.
+Applications and data access can be distributed across networked workstations, servers and CICS systems including Transaction Systems and IBM CICS Systems.
+Network communications between workstations, servers and hosts are supported via LU 6.2, TCP/IP, NetBIOS, Named Pipes and Novell Inc IPX.
+Transaction System also supports batch data access.
+No prices were given.
+DEC READIES FINAL MIPS BOXES
+Digital Equipment Corp's final Mips-based Ultrix machines are due to ship next month.
+The three DECsystem servers and two DECstation workstations use the Mips R4000 Risc.
+The Personal DECstation 5000 model 50 uses a 40Mhz CPU and replaces the model 33.
+It comes with up to 40Mb RAM, 1Gb disk, two Turbochannel slots and is rated at 43.8 SPECint92 and 40.9 SPECfp92.
+It costs £6,800.
+The 60MHz DECstation model 260, rated at 58 SPECint92 and 54.7 SPECfp92 comes with up to 480Mb memory and three slots — it starts at £12,800.
+The DECsystem 5000 model 50 runs at 50Mhz, the model 260 and DECsystem 5900 model 260 run at 60MHz.
+…
+FIRST DCE PRODUCTS
+DEC last week announced its first full Open Software Foundation Distributed Computing Environment product, DCE for DEC OSF/1 software, available in July.
+It reportedly incorporates all the foundation technologies specified by the Open Software Foundation's architecture and consists of four components: Digital DCE Runtime Service, Digital DCE Cell Directory Server, Digital DCE Security Server and the Digital DCE Applications Developers' Kit.
+DEC is also providing custom DCE consulting and integration service for implementing DCE including technical training and design analysis.
+DEC anticipates adding DCE products for industry standard PCs, OpenVMS on VAX and Alpha AXP platforms and the company's implementation of DCE Distributed File System over the next 12 months.
+Pricing will vary with package components.
+TRANSARC DCE AND ENCINA FOR SOLARIS
+Transarc Corp will begin shipping its Distributed Computing Environment and Encina on-line transaction processing monitor for SunSoft Inc Solaris 2.1 and 2.2 from next month — development kits for both environments have been available for over a year.
+The UK's Protek Ltd, Investronica in Spain and Axlan in France will distribute the CD-ROM-based software in Europe.
+As part of its COSE effort, SunSoft is also expected to begin market, support and distribution of Transarc DCE for Solaris 2.2 once terms have been agreed.
+DCE Base Services which must run on every Solaris machine in a DCE environment cost $300.
+DCE Call Directory Service and DCE Security Service which must feature on at least one machine in a DCE environment cost $2,500 each.
+DCE Application Development Tools are $150 and DCE Enhanced File Services, due in the fourth quarter, are $3,000.
+DCE Media/Manula kit is $600.
+Support costs 20% of the software list price.
+NCR FORMS PAN-EUROPEAN CONSULTING AND DESIGN CENTRE
+AT&T Co's computer manufacturing company NCR Corp has formed a new pan-European consulting and design centre, with the aim of providing multi-site and multinational companies with an integrated set of services that span national boundaries.
+The European Professional Services Centre of Expertise is based at NCR's systems engineering division in Copenhagen, Denmark and is operational now.
+It employs an international group of 20 senior consultants specialising in architecture, databases, applications development, project management and networking for multi- and parallel-processor systems.
+These consultants co-ordinate the work of over 100 specialists in the professional services divisions of local NCR subsidiaries.
+The specialists, in turn, provide systems support and technical and consultancy services to local customers.
+The consultants will also implement a ‘knowledge transfer programme’ for users' technical staff.
+This consists of in-house seminars on the theory and practice of using multi- and parallel processor machines.
+O2 TECHNOLOGY TO PUT ITS OBJECT DATABASE ON ALPHA FOR DEC FRANCE
+O2 Technology SA, the Versailles-based object-oriented database start-up, this week announced an agreement with Digital Equipment France to implement O2 for the full line of Alpha AXP workstations and servers running DEC OSF/1.
+‘The interest of Alpha is its performance, and software like ours demonstrates the performance of the machine.
+A 64-bit architecture changes everything; its a super machine,’ said Francois Bancilhon, managing director of O2.
+Bancilhon says the agreement is initially for France only.
+‘The people at DEC France are very positive.
+We will be doing joint marketing; right now, we're looking at attacking some new sectors together, such as geographic information systems,’ he said.
+He added that O2 is about to finalise an agreement with Siemens Nixdorf Informationssysteme AG, for ‘some kind of commercial cooperation in Germany.’
+Siemens Nixdorf has already started implementing O2 for its remarketed version of Silicon Graphics Inc's workstations, he said.
+MIPS RALLIES ALLIES TO INVEST $150m IN JOINT T5 R-SERIES EFFORT
+The Mips Technologies Inc subsidiary of Silicon Graphics Inc has rallied all its fabrication licensees to help with development of the next generation of its R-series RISC architecture to speed the design process.
+The partners are Integrated Device Technology Inc, LSI Logic Corp, NEC Corp, Performance Semiconductor Corp, Siemens AG and Toshiba Corp.
+The group plans to invest $150m over the period of the programme.
+MIPS says the joint development includes funding for research and development, participation by partner design experts and semiconductor process development.
+The new part, code-named T5, is expected to deliver more than 200 SPECint and 300 SPECfp and to serve as the heart of the powerful desktop systems running Microsoft Corp's Windows NT and Unix operating systems.
+These efforts are expected to result in commercial availability of T5 and related software in 1994.
+T5 was first heard of here last year as the 500MHz, R10000  successor to the R4000 and R5000 RISCs (UX No 377).
+The T5 will be aimed at applications requiring high-performance audio, video and networked workgroup computing, and will be a speculative execution superscalar processor — that presumably means that it will execute the next set of instructions that come up before it knows whether the program requires them or does a branch; it will also include features for multiprocessing, multi-level caches and high-speed uniprocessor systems designs.
+Meanwhile, NEC Corp plans to begin fabricating Mips R-series RISC chips at its Roseville, California plant next year, at a claimed rate of tens of thousands a month.
+APPLE SETS POWERPC MACINTOSH FOR FIRST HALF 1994
+Apple Computer Inc last week duly announced its plans to enable users to run Macintosh applications unmodified on Unix servers, workstations and X terminals as Apple Services for Open Systems, and showed Macintosh System 7 running on a PowerPC 601.
+Its first PowerPC machines will appear in first half 1994, and the Centris 610 and 650 computers, Mac IIvx and IIvi, Performa 600 and Quadra 800 systems will be field-upgradable to the new CPU.
+…
+EXPLORES JEDI OBJECT TECHNOLOGY FOR SYSTEM 7
+Apple Computer Inc is not putting all its object-oriented eggs into the Taligent Inc basket, US PC Week reports.
+Instead, the company is investing in alternative object-based technology for System 7 and other environments.
+The company's key development is Jedi, a framework built on System 7 that is claimed will provide more comprehensive application-linking capabilities than Microsoft Corp's Object Linking and Embedding.
+The company aims to extend Jedi beyond System 7 to other environments, including Windows itself, and is expected to arrive as a product late this year or early next.
+Jedi grew out of an earlier development effort that led to Apple Events, Apple's application-messaging infrastructure, and AppleScript.
+‘A venture like Taligent is inherently risky.
+We would continue to enhance System 7 even if Taligent were a sure bet,’ said Chris Espinosa, Taligent business manager at the Apple Developer Group.
+Moreover Apple, and its partner in Taligent, IBM Corp, have been downplaying expectations for the Taligent environment.
+The Taligent offering is a 32-bit operating environment being built from scratch around a new object model.
+The full-blown Taligent operating system is not due until mid-1995 or later.
+‘Taligent won't replace 32-bit operating systems until the end of the decade,’ said Richard Guarino, IBM's assistant general manager, strategic development.
+NOW BANYAN VINES DUE ON SPARC
+With a native version of Novell Inc NetWare due on Sparc next year (UX No 423), Banyan Systems Inc's rival Vines network operating system is now being ported to the Sun RISC and is expected in the first half of 1994.
+Porting the Unix-based Vines to Sparc servers means MS-DOS, Windows, OS/2, Macintosh and Unix users will be able to share data, files, applications and print services with Sparc systems, the company says.
+Sun's Scott McNealy says the deal was forged after long-term discussions on how the two companies could work together.
+The two will integrate Vines network services with Solaris for large scale Unix-to-PC networking where it will be managed by SunNet Manager.
+NCR DEBUTS MAINFRAME CLASS PENTIUM BOX — WORKSTATIONS AND NT SERVERS
+NCR Corp claims to have the first mainframe-class system using Intel Corp's Pentium chip with the launch of its System 3555 symmetrical multiprocessor, announced today.
+According to NCR, the two to 16 processor 3555 will deliver up to 1,440 VAX MIPS and comes with up to 8Mb cache, 2Gb RAM and 112Gb of internal disk storage, increased to 2,000Gb with external disks.
+Other new systems in NCR's 3000 Series include the 3360 single or dual processor workstation — the dual processor rated at 224 VAX MIPS — the single or dual processor 3430 workgroup server, and the six processor 3455 and eight processor 3525 departmental servers.
+All run Unix System V.4 MP, while the 3360, 3430 and 3455 are also available running Microsoft Windows NT.
+Existing NCR 3450 and 3550 server users will be able to upgrade from the i486 via a board swap.
+The company hopes the workstation model will sell to both traditional RISC workstation customers, to Windows NT developers and as a customer service workstation.
+It includes a video co-processor with 2Mb of memory to boost graphics performance, and (along with the 3430 server) comes with up to 512Mb RAM, 6.3Gb internal storage and support for up to 41 SCSI devices.
+All the systems include SuperVGA, SCSI peripherals, dual-ported memory, two-way interleaving and cache memory.
+NCR expects general availability by June for the workstation, third quarter for the servers, and ‘1994’ for the 16 processor 3555.
+No prices were revealed.
+IBM ‘PLANS A SINGLE CPU FOR ALL LINES’
+As well as developing an AS/400 H-series processor around the Rios 2 RISC, IBM Corp is working on a parallel project to develop a single processor architecture that would become the basis of all its mid-range offerings in around 1995, the May issue of IBM System User believes.
+The new processor would likely come with the Taligent object-oriented operating system, which would support not only OS/400 and AIX Unix but also OS/2, Windows and NT as guest personalities.
+The drawback, and the reason for the AS/400 H-series development continuing in parallel is that OS/400 users would need to go beyond recompilation and undertake some degree of conversion to run their applications on the new processor.
+Since IBM is also downsizing the basic building block for its MVS mainframes with a view to moving to a moderately parallel mainframe architecture, it seems likely that the planned processor-Taligent combination would also succeed the CMOS ES/9000 chip that the company plans to make the basis of its future parallel mainframes over the next couple of years.
+…
+SAMPLES POWERPC
+IBM Corp significantly stepped up its efforts in the merchant semiconductor market late Monday when it announced that it is now sampling the PowerPC 601 RISC microprocessor, with production volumes shipping in the third quarter, and announced its entry into the application specific market with CMOS and BiCMOS process technologies and access to industry-standard ASIC design tools and new applications support services, aiming to deliver ASICs based on gate-array and standard-cell technologies for computer and other systems manufacturers.
+It released the 0.5-micron CMOS 5L process, which uses five metal wiring layers to achieve ASICs of up to 1.3m usable gates, and ASIC design kits supporting the tools from 20 vendors, including Cadence Design Systems Inc, Mentor Graphics Corp and Synopsys Inc.
+The PowerPC part is designed for use in low-end to mid-range desktop systems and costs $275 for the 50MHz version and $380 for the 66MHz version in quantities of 25,000 to 50,000.
+Other PowerPC products will include the PowerPC 603, targeted at laptop, portable and hand-held systems; the PowerPC 604, a high-performance processor aimed at servers and high-end desktop systems; and the PowerPC 620, a high-performance 64-bit microprocessor for workstations and servers.
+IBM Technology Products' customers will also gain access to CMOS 4S and CMOS 4LP, two of IBM's 0.8-micron processes.
+MICROMODULE DOING ALPHA ON DIAMONDs
+The Cupertino, California-based MicroModule Systems Inc management buyout from Digital Equipment Corp has been given a $1.2m US Advanced Research Projects Agency subcontract to build a series of DEC Alpha RISC-based multichip modules using diamond substrates.
+The subcontract is part of a prime contract awarded to Norton Diamond Film Inc, and calls for a two-year development programme, with an optional third year.
+The goal is a practical, affordable and manufacturable diamond multichip module capable of handling the thermal management problems of current and next-generation high-power microprocessors, which increasingly exhibit the properties of furnaces and microwave ovens.
+MicroModule Systems has two tasks under the contract — to develop a high-density  copper-polymide interconnect process on diamond.
+The manufacturing process will be used to build a functional diamond multichip module with two or more Alphas.
+D&B TRIES TO REASSURE MAINFRAME CUSTOMERS AS IT MOULDS A NEW COMPANY
+By Alison Hawkings
+At its annual user conference in Washington D.C. last week, Dun & Bradstreet Software Inc attempted to allay concerns over its move into the world of client/server and open systems by promising users a more customer-oriented business strategy.
+Hank Holland president and chief executive officer said the firm would continue to support its E and M mainframe series software for another seven to ten years, but would start to reduce research and development expenditure in favour of client/server over the next three years.
+D&B currently spends 57% of R&D funds on host based systems.
+Other user concerns included the high price of maintenance and product quality.
+Recent research carried out by the company shows that 92% of its existing 12,000 customers worldwide are reluctant to rush to open systems for the sake of fashion.
+Holland says ‘We're in the process of creating a new company and the plan is to make the transition to client/server as relevant to our customer as possible.
+If that means doing it slower than others then that's how it'll be.’
+Over the next three years D&B says its business will evolve into three different areas.
+It expects the number of mainframe customers to decrease by 44% — they'll be interested in value added software to their current mainframe solutions.
+More than 38% users will have re-engineered their IT business strategies in favour of client/server environments and 18% of users are expected to downsize operations to mid range Unix systems for price/performance reasons.
+D&B hopes its support for Microsoft Corp's Windows NT via SmartStream will pull in large corporate personal computer users looking to upsize operations.
+D&B is also developing a range of migration tools.
+Skeleton
+Key to D&B's shift to client/server strategy is SmartStream, its Windows-based decision support and transaction processing environment with add-on finance and accounting modules for Unix and Windows NT systems.
+According to Holland, SmartStream will provide users with greater productivity gains, better decision support solutions than current offerings and improved information access to other D&B credit databases and external databases, such as Microsoft Access and Sybase Inc's SQL Server.
+To support distributed computing environments D&B says SmartStream will include support for Open Software Foundation Distributed Computing and Management Environments.
+The firm is also committed to integrating object technology to improve workflow automation, systems management and decision support functionality.
+D&B is currently developing a skeleton object-based framework and is in negotiations with several object software vendors to license technology.
+SmartStream supports a variety of Unix platforms including HP-UX, DG/UX and DEC Ultrix.
+The NT version is currently in beta test and will be available by the end of the year.
+SmartStream's biggest drawback is its lack of support for IBM mid-range AS/400 and RS-6000 systems.
+D&B seems to have forgotten that IBM is its largest mainframe customer base and says there are no plans to port to these systems for another year or so.
+D&B Inc has hired Fred Newall, former vice president of NCR Europe, to head-up its European operations as vice president following the departure of Pierre Donaldson.
+D&B's European operation only reached 80% of its profit target although UK profits were up 25% in 1992 on sales that rose 17% to £32.4m.
+Newall will report direct to Hank Holland, president and chief executive officer, who replaces the retiring John Imlay.
+KALEIDA LABS SUBMITS ITS SCRIPTX TO INTERACTIVE MULTIMEDIA BODY
+Meantime the Kaleida Labs Inc joint venture between IBM Corp and Apple Computer Inc in Mountain View, California has submitted its ScriptX specifications to the Interactive Multimedia Association in response to the trade group's Multimedia Scripting Language Request for Technology.
+ScriptX is described as a fully-functional object-oriented scripting language and set of data specifications designed to enable the development and playback of a single multimedia title on a variety of personal computers and workstations, personal digital assistants and consumer electronics products.
+Kaleida has not given a release date for ScriptX.
+HP OFFERS MULTIVENDOR INTEGRATION WITH NEW OPENVIEW APPLICATIONS
+Hewlett-Packard Co is offering new management applications and a centralised systems integration component for the Unix version of its OpenView systems management environment.
+The new software leads the way towards managing IBM Corp and Sun Microsystems Inc kit as well as HP systems.
+Operations Center runs on a central system collecting and monitoring data from managed Unix clients, which may include HP, IBM and Sun Unix boxes.
+It provides tailored warning alerts and alarms for a central management system to act upon.
+Due in August, it costs $14,700 — £13,400 — for up to 32 users.
+HP PerfRX, a system performance monitoring tool is now available for OpenView, priced at £5,000, and HP is also putting its backup and print management applications up on the environment.
+OmniBack — £7,000, $7,650 — and OmniBack Turbo — £10,600 — are out now.
+OmniBack/Link, OpenSpool and OpenSpool/Link are due next month priced at from $2,700 (£2,500), $4,700 (£4,260) and $2,700 (£2,500) respectively.
+HP's automatic software distribution system, OpenView Software Distributor, formerly known as Software Distribution Utilities, which features as a component of the Open Software Foundation's Distributed Management Environment, will follow in August priced at £4,000.
+An OpenView storage management system is still under development for the second half of the year.
+HP's network licence system — also included in DME — will be available for OpenView in July and costs £4,400, a distributed network advisor due in July will cost £1,800 and a Probe Manager, expected in September, will start at £2,270.
+…
+CREATES INTEGRATED OPENWAREHOUSE
+Hewlett-Packard Co has released HP OpenWarehouse, claiming it to be the first fully scalable open system for data warehousing and contrasting it with mainframe-based and proprietary data-warehousing offerings, and saying that the open systems approach enables it to offer data warehousing at a small fraction of the cost of proprietary systems.
+All Hewlett-Packard and third-party components that make up the OpenWarehouse are evaluated, lab-tested and integrated to reduce the time it takes to implement it and ensure robust, supportable installations, Hewlett-Packard claims.
+The first set of products integrated into OpenWarehouse are Red Brick Warehouse from Red Brick Systems Inc, Prism Warehouse Manager from Prism Solutions Inc, Extract from Evolutionary Technologies Inc, Enterprise Data Access/SQL from Information Builders Inc, Open Development Environment from Open Environment Corp and Hewlett-Packard's own Information Access.
+Later releases will expand the portfolio of software vendors and the company plans in due course to support business modelling through use of its OpenODB object-oriented database, enabling OpenWarehouse users to store, retrieve and use data in a consistent manner throughout their enterprise.
+TATUNG RESPONDS WITH NEW MODELS
+Tatung Science & Technology Inc has responded to Sun Microsystems Sparcstation 10 announcements by coming out with the Super Compstation 10 Series, a line of seven MBus-based workstations.
+Three of the new models incorporate one or more 50MHz Supersparc processors, while others feature 36MHz and 40MHz versions.
+With prices starting at $15,000, the company claims to undercut Sun prices significantly, and to offer more configuration flexibility.
+The seven Super Compstation 10 models are each offered with a range of options for storage, monitors and other peripherals.
+The Super Compstation model 10/30, out now, has one 36MHz Supersparc and is rated at 86 MIPS, 44.2 SPECint92 and 52.9 SPECfp92, and the $14,790 price includes 512Mb disk 32Mb memory.
+The 10/40, set for June, has one 40MHz Supersparc and is rated at 96.2 MIPS, 52.6 SPECint92 and 64.7 SPECfp92.
+With 1Gb disk and 32Mb memory it's $16,690.
+The 10/51 has one 50MHz SuperSparc+ and 1Mb cache and starts at $21,790 with 1Gb disk and 64Mb memory, from the third quarter.
+The 10/41 has one CPU, 1Mb cache and comes in June; the 10/402 with dual 40MHz chips and the 10/512, with dual 50MHz processors and 1Mb cache are both set for the fourth quarter; a four-processor 45MHz model is planned for first quarter 1994.
+They have built-in ISDN and 16-bit audio.
+Following, it says, growing demand for its Sparc-compatibles the company has also relocated to larger offices in Milpitas, from its former San Jose base.
+SUN AMBUSHES AXIL — INJUNCTION CHARGES MISAPPROPRIATION AND THEFT
+Sun Microsystems Inc quietly filed a civil suit in Superior Court in California on March 3 against Axil Workstations and its parent Hyundai Electronics of America, charging the San Jose, California-based Sparc cloner with misappropriation of trade secrets and theft of the layout and manufacturing blueprints for an unreleased Sun-developed system board code named Ambush.
+The suit asked the court for injunctive relief and monetary damages.
+Last week the court handed down a preliminary injunction forbidding sale of Axil's Model 230 SparcStation 10 clone and a temporary restraining order on its Model 310.
+Sun said Axil had no license from Sun to the board.
+The alleged theft is reportedly related to Axil's hiring a Sun engineer who is named in the suit.
+Sun said it was bringing action over the alleged theft to keep the playing field level, claiming Axil's illegal headstart decreased potential investment in the Sparc architecture.
+Sun is believed to be keeping a low profile on the suit lest it catch flak for restricting the clone trade.
+APPLE CHOOSES INSIGNIA FOR DOS ON POWERPC/MACs
+UK firm Insignia Solutions Inc, High Wycombe, Buckinghamshire, is poised to become a key player in the evolving new power structure.
+In addition to being Microsoft Corp's front-line defence against the forces of WABI and being the MS-DOS/Windows emulator on practically everyone else's box, Insignia last week became one of only 12 companies to get on Apple Computer Inc's ‘Inside Track’ programme.
+It will be writing a native port of SoftPC for the Mac PowerPC and is due to be available when Apple first ships the machines in January or February.
+The SoftPC version that get on the Mac will be the full Windows product that Insignia just licensed from Microsoft.
+Boggles the mind, doesn't it.
+All those Windows and DOS programs legitimately running on an IBM-powered Mac.
+Insignia has  labelled the product features of souped up anti-WABI SoftPC ‘SoftWindows’ which is based on Bristol Technology's Red Baron technology.
+Insignia figures that emulation will become de rigeur on all machines by and by and that it will just become a utility house.
+SCO PROMISES ONC+, DCE AND XPG4 THIS YEAR FOR ITS ‘SVR3.95’
+Santa Cruz Operation Inc had been in discussions with Novell Inc for a NetWare client for its Open Desktop products — see front page — but those talks are more or less canned now that SCO thinks it'll be able to get the same stuff through COSE.
+SCO already has a licence to SunSoft Inc's ONC+ and says it'll deliver that on its latest Open Desktop and Server 3.0 software well before the COSE version comes along.
+SCO boasts it'll have the first COSE-compliant desktop on the market.
+As Unix System Labs hasn't yet delivered a combined Unix SVR4.2 ES/MP offering, SCO hasn't advanced its own tentative kernel ambitions in that area, describing its own system as ‘SVR3.95.’
+SCO promises SVID 3 compliance and an X/Open XPG4 update release later this year, along with an OSF Distributed Computing Environment developers kit.
+The firm has no firm plans to adopt SunSelect's Windows-on-Unix Wabi system — although it has rights to licence — saying the technology still lacks support for MS-DOS and drivers.
+SCO claims 28% of all Unixes sold on all platforms against SunSoft's 25%, though Open Desktop sales remain stuck at around 35% of its business instead of the 60% it envisaged at the launch of Open Desktop 2.0 this time last year.
+SCO wants more business at the high-end of the market — currently some 25% of its sales — and doesn't believe there is enough room in the Intel space for the four or more contenders now in line.
+SCO  claims 850,000 licencees worldwide, with 200,000 upgrades or new wins last year — it will open Spanish and Swedish offices shortly.
+INTEL's $5 BILLION CHIP — UNISYS TO OFFER 66MHz PENTIUM BY YEAR-END
+To cover the glitch Intel Corp has created with Pentium — see front page — Unisys Corp has created the marketing rationale of the customer selecting the timing of its jump to the next generation rather than being forced to it by the vendor's phasing out existing technology.
+Intel's difficulties getting yields on 66MHz Pentiums leave Unisys, who has had a close collaborative alliance on chip design with Intel for the past two years, unable to say exactly when it go to the 66MHz parts.
+It guesses in the  fourth quarter.
+It estimates that the 60MHz chips are 10% less powerful than the 66s, at least on integer performance which measures 64.5 Specint92 and 56.9 Specfp92.
+Despite these setbacks, which essentially put Intel back on the delivery schedule it first mapped out for Pentium, Unisys is quick to say how delighted it is it chose Intel's CISC over any of the RISC technologies.
+It is impressed with the amount of investment Intel proposes putting into Pentium saying that when the chip reaches the height of its production Intel will have spent $5bn on it compared to $100m on the 80386 and $1bn on the 80486.
+It's half way through that figure now.
+Unisys uses this never-before-released measure to express the technological leap it believes Pentium represents.
+It's also a way of saying that Pentiums will be with us for a while, overlapping the life cycles of both the 80486 and P6, and that it will be some time yet before they reach a competitive price/performance curve.
+The follow-on P6 will represent an even greater though unstated amount of investment.
+Unisys basically feels however that with its price/performance and coming enhancements there is a lot of life left in the 80486 and that it will not be replaced immediately by Pentium, more the meat of early adopters, than the usual customer.
+The bulk of its business, it thinks, will be in 80486 machines possibly through 1994.
+Making 80486 boxes Pentium-ready is tricky enough, making Pentium machines ready for the coming P6s which break iAPX-86 compatibility (UX No 420) is harder.
+Unisys is involved in P6 design considerations and needs to insure there is balance among the processor power, I/O and video system.
+It is also involved in P7's definition.
+Unisys also intends to offer CTOS networked workstations and servers with Pentiums in the fourth quarter.
+Its new A7 entry-level enterprise server is also Pentium-ready, with availability to be announced.
+CANON PLANS TO RESURRECT NEXT HARDWARE SIDE IN NEW US COMPANY
+Canon Inc says it plans to resurrect NeXT Computer Inc's Redwood City, California workstation business.
+The company told Reuter that it will probably set up a new company employing NeXT technicians to develop high-speed workstations.
+Canon still holds 17% of NeXT which is hoping to continue as a software company.
+Reportedly 15 engineers have left NeXT and for 20% of the new company will kick off Canon's venture.
+…
+‘SUN IS THE ENEMY’ SAYS JOBS
+Meanwhile NeXT Computer Inc chief Steve Jobs looks to still have a real hate on for Sun Microsystems Inc.
+According to UnixWorld, he wrote a memo to employees about the COSE announcement, which ignored his existence, saying: ‘Many of us watched Sun compete with Apollo using slander and lies.
+We saw some of these tactics directed against us when we were a hardware systems company.
+However, I think the stakes are much higher now, and Sun is growing more desperate.
+For those of you who thought that Sun might not be our enemy anymore now that we are a software company — think again.’
+Popular opinion believes NeXT is doomed and that Jobs should just can it.
+They say by the end of the year NeXT and Microsoft will probably be the only companies not part of COSE.
+NEC GOES AFTER THE BUSINESS MARKET WITH NEW UNIX WORKSTATIONS
+By Anita Byrnes
+In Japan, NEC Corp has announced nine new models of its NEC Superstation 4800 series of workstations and SuperServer UP4800 series of servers.
+The new models also run the new System V.4.2 release of Unix System V, a world first according to NEC.
+The machines have been priced competitively, bearing in mind the Japanese pricing of Sun Microsystem's Classic and IBM's Powerstation, and the launch was timed on the same day as the announcement of new machines in DEC's Alpha series.
+NEC has begun to differentiate the ‘48 series’ of workstations (named to distinguish but create associations with the Japanese standard PC 98 series) into three categories.
+The ‘48-Lite’ series of desktop machines comes with a colour screen and is aimed at the business market and it includes the new 78 MIPS, 27SPECint92 EWS4800/110LT which comes with NEC's own 1,024 by 768 pixel colour thin film liquid crystal diode screen and is priced in the base configuration at $12,272 and the similarly-rated EWS4800/310, which is the lowest priced Japanese version of System V.4.2 on a desktop RISC workstation, the diskless version being priced at $5,272 and the stand-alone configuration selling for $6,618.
+The ‘48 Trad’ series includes three new models: the 4800/320 — with a 1,024 by 768 pixel display screen and 30% improved cost-performance, the 130 MIPS, 42SPECint92 4800/330 — which is targeted at multimedia applications — and the 130 MIPS, 60SPECint92 4800/360; the Trad line includes the previous generation 4800 models.
+The ‘48 Server’ series includes the new models UP4800/605 and /615, low-priced servers (starting from $14,425) with 32Mb memory and 1Gb storage.
+The UP4800/625 is targeted at small to mid-size transaction processing environments such as local banking systems and on-line order processing, while the high-end model UP4800/635 is based on a 67MHz R4400 chip and is an expandable configuration.
+Modular software
+The performance of the server versions range from 98 to 130 MIPS and 32 to 60 SPECint92.
+The operating software is available in modular fashion, with Encina having been selected for the transaction processing software, on the basis of its position as the de-facto transaction processing standard, as NEC sees it.
+NEC says its new focus on the business market instead of the scientific and engineering market is down to the 36% growth in the latter market.
+Last year NEC shipped 14,200 of the EWS4800 workstations, which was 120% up on normal sales for the previous year — excluding an extraordinary order for 6,000 units from Daiwa Securities carried over from the 1991–92 fiscal year — and anticipates growth to 20,000 shipments this financial year — growth which is stable in value terms, according to NEC.
+This time NEC used a US industrial design firm, Ideo Inc, for design of the exterior of the products, but denies that this presages any move to sales of the workstations in overseas markets.
+NEC said that initially in markets outside Japan it would look to sales through OEM channels — it currently has OEM relationships with Compagnie des Machines Bull SA, and Stratus Computers Inc, whose fault-tolerant systems it buys for sale in Japan.
+SNI PICKS SPARC FOR POINT-OF-SALE CPUs
+Product line consistency is not the strongest suit of Siemens Nixdorf Informationssysteme AG — first the company becomes a founder sponsor of the Open Software Foundation and then adopts Unix System V as its standard, now its US arm, Siemens Nixdorf USA, has turned to Sun Microsystems Computer Corp for point-of-sale control processors despite the fact that Siemens' chosen RISC — versions of which it fabricates — is the R-series.
+In the US, it says it will convert its Calypso point-of-sale application to run under Solaris on Sparc processors to create ‘a complete high-performance, low-cost, in-store system for retail organisations’.
+The two will jointly market the resulting combination of Sparcstations and servers with iAPX-86-based point-of-sale terminals and applications developed by Siemens Nixdorf in the US.
+The new offering will be the first open RISC-based in-store system from Nixdorf USA, which has Montgomery Ward as a customer and claims 10 of the top 20 supermarkets in the world.
+BULL CHIEF ORDERED TO COME UP WITH A PLAN TO  SURVIVE WITHOUT STATE SUBSIDY…
+Underlining the endless uncertainty that surrounds any industrial or commercial company controlled by the state, France's loss-maker Compagnie des Machines Bull SA has been given two months to come up with a viable strategy, French Industry Minister Gerard Longuet said after a news conference where he outlined his policies after six weeks in office.
+According to Reuter, Longuet said he did not exclude the possibility that foreign shareholders could increase their share of Bull's capital or dominate it — at present, IBM Corp and NEC Corp each has about 5%.
+Longuet says he has asked Bull chairman Bernard Pache to come up with proposals so that the company can live without huge cash injections from the state.
+He does not however see Bull following ICL Plc and becoming an 80%-owned subsidiary of a Japanese company, but he wouldn't say how much of the equity he would allow to pass into foreign hands.
+Some parts of Bull's activities are viewed as more important strategically for France than others, an industry ministry official told Reuter, declining to give details, but noted that even in a nationally strategic sector like electronic components, France contents itself with owning 45% of SGS-Thomson Microelectronics NV, with Italy as an equal partner and a small private holding held by Thorn EMI Plc.
+Longuet did say that SGS-Thomson would need a link with an industrial partner to satisfy its long-term technical needs.
+…
+TURNOVER PLUNGED 10.6% IN Q1
+And now facing probably the biggest crisis in its history, Bull last week reported that turnover for the first quarter of the year crashed by 10.6%, to the equivalent of $943m.
+Sales slumped 16.5% to $422m and rentals and services fell 5.1% to $521m.
+The company did not say  anything about the level of losses, but it is hard to improve profitability against a background of falling sales.
+The company is now in a regulatory climate where no objection would be made to either of its corporate investors, NEC Corp and IBM Corp, each with around 5%, greatly increasing their stakes in the company — to perhaps 25% each — but IBM has no cash to spare even if it wanted to get more involved with a company forever at the mercy of the shifting tides of French policy and NEC Corp, which two or three years ago would have jumped at the opportunity of making Bull a European and US outlet for far more of its products, faces a price war in its cash cow personal computer business back home and faces such a hard time that it has just seen its debt ratings cut — at a time when cheap capital is no longer available in Japan.
+Sources at Bull say that in the multi-annual plan, although Pache is likely to outline further potential partnerships and cost-cutting measures, it is difficult to imagine that the new French government will refuse all further financing for Bull, letting it run the risk of receivership and the dumping of 30,000 workers, at a time when France's biggest concern is retaining and creating new jobs.
+NCD PC-XWARE X EMULATION FOR WINDOWS
+Network Computing Devices Inc has the dedicated X-terminal business pretty much sewn up, and the Mountain View, California company is now moving in on the personal computer X Window System emulation business dominated by the likes of Canadian outfit Hummingbird Communications Ltd and UK firm XVision Ltd, with launch of PC-Xware, a single software package that it claims provides full X terminal functionality on personal computers for the first time.
+Its case is that full functionality previously depended on users integrating functions from separate vendors.
+Designed for machines running Microsoft Corp's Windows, PC-Xware is a direct conversion of the company's NCDware 3.0 software.
+PX-Xware includes 32-bit X server functionality, fully integrated terminal emulation, local and remote network protocols, and multiple local window managers — at $545.
+It also offers the facility to manage and configure personal computers running X Window centrally and remotely.
+Designed for 80486- and Pentium-based machines, it is also designed to support Windows NT when it becomes available.
+Microsoft has apparently suggested that there will be a good market for NCD's product on NT — NCD dampened speculation that Microsoft might be enticed to bundle an X Window emulation product like PC-Xware in NT.
+As well as Microsoft Windows, there is the option to use NCD's Motif-like NCDwm as the local window manager, saving on network and processor bandwidth.
+It has full VT320 emulation for access to character-based applications on networks, and has the TCP/IP stack licensed from NetManage Inc, and the XRemote protocol for high-speed serial communications.
+Out next month, it can also be had with NetManage's Chameleon for $735, ChameleonNFS at $800.
+PC-Xware is £450 in the UK.
+PC-Xware replaces NCD's existing PC-Xview for Windows package that it acquired for $5m from the GSS division of Spectragraphics a year or more ago.
+NCD will continue to offer PC-Xview as its X Windows-on-DOS product.
+XCELERATED SWIPES MABI MONIKER
+We thought we were just being cute last week when we hung the tag MABI on Apple's multi-platform Cat in the Hat Macintosh Application Services (MAS) strategy (UX No 435).
+As it turned out we accidently anticipated Xcelerated Systems trademarking the expression as the name for the technology underlying Liken, its pioneering two-year-old Mac-on-Unix product.
+Xcelerated said that it is extending Liken to the PowerPC.
+Liken already runs on Sparc, HP Series 700 and RS/6000.
+Xcelerated claims to support most of the 5,000 off-the-shelf Mac apps and have 10,000 users worldwide including virtually every Fortune 500 with a Sun Microsystems Inc or Hewlett-Packard Co workstation.
+It is miffed that after struggling to get where it has, the industry suddenly seems to be rallying around an unproven — if conceptually similar — port by Apple rather than its own available technology.
+Other sources observe that HP and Sun, who came to the MAS announcement as cheerleaders, did not exactly pledge to adopt it leaving only IBM who was already involved.
+Apple's shipping dates are also vague.
+Observers reflect that what Apple is trying to do is quite difficult.
+Reportedly many of the APIs Apple embedded in ROM have been lost over the years and are undocumented.
+Its software is also heavily wedded to the 68000 chip aggravating the move to RISC.
+Sources say Apple's project to move System 8 to the PowerPC, taking what was in the ToolBox and rewriting in C, is not going well.
+Quorum, the other Mac-on-Unix pioneer, maintains that market research indicates that users are not interested in having a second platform on their machines which is what Apple is essentially proposing to do but would rather have their Mac apps available under Motif as Quorum's products offer.
+SUN PLANS RACK-MOUNT SPARCSERVER 1000
+As expected Sun Microsystems Inc unveiled its eight-way Sparcserver 1000 machine last week (UX No 434).
+UK pricing goes from £35,000 for a uniprocessor model with 32Mb RAM and 1Gb disk to £72,300 for the eight processor version.
+As expected, the Mountain View, California-based company will offer a rack-mount version of the technology combining five Sparcserver 1000 units later this year.
+The server uses XDBus — co-developed with Xerox Corp — which is also employed in the high-end eight to 20 CPU SparcCenter 2000.
+The packet-switch bus uses slight changes in voltage to determine binary 0 and 1 and operates at a sustained rate of 200Mbps on the Sparcserver 1000.
+Sun expects to ship around 1,000 of the new servers by the end of the calendar year — several hundred by the end of its financial year in July.
+Sun will continue to manufacture the existing 600MP series multiprocessors servers until the end of the year.
+The company claims that servers will account for $1bn of its business by the end of the year — they account for around a third of Sun's revenue now.
+The multithreaded, multiprocessing Solaris 2.2 operating system which is to run on these and other Sun Sparc systems is due later this month.
+Applications re-written specifically to take advantage of multithreading will begin to appear in the second half of the year, Sun says, but argues customers can derive significant performance benefits from running existing applications on multiprocessor machines with Solaris 2.2.
+Solaris x86 for Intel Corp architectures will move to release 2.2 later this year — from 2.1 now — Sun admits only to Compaq Computer Corp and AST Research Inc having taken the release for their iAPX-86 multiprocessors.
+The SunPro unit will deliver an MP Developer early access kit for developing multithreaded applications in Fortran, C or C++ for multiprocessing environments — including automatic parallelizing compilers — next month.
+…
+AS SUNPRO TEAMS WITH IDE
+SunPro is also integrating its SparcWorks Professional C and C++ development environments with San Francisco, California-based Interactive Development Environments Inc's Software through Pictures CASE tools using SunSoft's ToolTalk application integration system.
+The two claim it will allow developers to reverse- and forward-engineer C code without having to manually update information in each environment.
+SparcWorks C developers will be able to generate structure chart and data diagrams in IDE's C development environment to prototype C code, which can be analysed, debugged and compiled from SparcWorks.
+Developers can generate C++ code  from IDE's object oriented design C++ graphical editor for use in SparcWorks C++.
+The work will be complete by the second half of 1993.
+CONCURRENT REAL-TIME UNIX IS NOW SVR4.2, HAS TIME X, FT SYSTEM ARRAYS
+Concurrent Computer Corp, which recently posted better than expected third quarter results (see below), has opted to take Unix System Labs' Unix System V Release 4.2 MP as the operating system for its next generation of real-time Unix systems, due out by the end of this  calendar year (UX No 402).
+The new multiprocessors, using the MIPS R4400 chip, will initially be offered with Concurrent's existing Unix implementation, with the SVR4.2 MP version becoming available six months later.
+Concurrent is  currently working on integrating the system with its own real-time and multiprocessing technology, which goes beyond the simple symmetric multiprocessing features offered by the USL version — Concurrent customers using the machines for applications such as simulation, measurement and control, weather and aerospace and signal intelligence analysis often need more control over how applications use the multiple chips.
+Despite the extensions, Concurrent says it likes to stick to the standards wherever it can.
+It is also a leading member of the MIPS ABI initiative (along with other MIPS users such as NEC, Tandem, Pyramid and Silicon Graphics), and says it is perfectly happy with its choice of chip.
+The company has also announced a real-time version of X-Windows, which it says it is perfectly happy to licence to other interested parties.
+RealTimeX brings determinism to X applications, says the company, meaning that Windows containing high-priority information can be given ‘pop to the top’ priorities so that important warning messages are displayed.
+And the company also rolled out the second generation of its fault tolerant Redundant Array of Inexpensive Systems (RAIS) environment, which it claims extends the RAID redundant disk array to a higher level.
+Using the RAIS software, based on Sun Microsystems' ONC distributed computing and with a Motif-based front-end, users can tie VAX/VMS, Unix workstations, PC and Macintosh client systems to pairs or groups of Concurrent servers, with automatic re-routing in the event of failure.
+This provides fault resiliency at the systems, network and disk level, says Concurrent, with software intelligence to manage the resilience.
+Up to four redundant networks and ‘unlimited’ redundant systems can be supported.
+OSI networking extensions and distributed computing tools based on the NetWise/Sun ONC remote procedure call, including an X/Open compliant Distributed Transaction Recovery system, were also launched.
+…
+RIDS ITSELF OF MORE DEBT, POSTS PROFITS
+Concurrent's recovery is now well under way, according to the company's director of worldwide industry marketing and business development, Dennis Tinley.
+Third quarter net profit was up 15.2% at $1.0m on sales of $56.1m, up 2.2%, with net for the nine months at $2.7m.
+The company is still paying off the debts incurred when it simultaneously bought itself out from parent company Perkin-Elmer and acquired rival real-time vendor Masscomp, back in 1988 (UX No 191), but last week filed a public offer of sufficient new shares to raise about $60m.
+This will go towards paying off most of the senior debt, said Tinley, which currently stands at $67m.
+Interest savings will make the issue ‘anti-dilutive’, he said.
+Under the management of CEO Denis Brown, and financially re-structured (UX No 402), the company has been profitable for the last six quarters and is once again in growth mode, although margins are down and international sales weak.
+Concurrent has around 1,800 employees worldwide, compared with 3,500 at the point of its Masscomp acquisition.
+Two thirds of its business is still proprietary, and 40% comes from servicing its 30,000 system installed base.
+HITACHI DUBLIN's OPTICAL NEURAL NETWORK
+Researchers at Hitachi Europe Ltd's Dublin Laboratory and the physics department at Trinity College have co-developed the first system to combine optoelectronic semiconductor arrays with complex neural networks.
+This work could eventually lead to better machine vision systems and optoelectronic neural integrated circuits that would literally enable parallel computers to process data at the speed of light.
+The present system comprises 21 input neurons, connected by optical arrays to a single equivalent output neuron.
+Images are presented electrically to an optoelectronic array as a bit pattern which are then sent in parallel by the device to a laser beam.
+As this encoded beam passes through a second optoelectronic array, the various stages of the algorithm are executed.
+The light is then collected at a single detector and classified electrically.
+The network itself is built from optoelectronic quantum well devices.
+These contain layers of Gallium Arsenide only a few atoms thick and are supplied by Sheffield University.
+It is a so-called higher order network — a more complex mathematical model than conventional neural networks — and recognises images that are presented in different positions or are poorly defined.
+And be cause it makes use of the speed of light for complicated parallel interconnections, it can still handle the large volume of calculations — or weighting as it is called — involved in the learning process quickly.
+This has important implications for future high performance computing, according to Hitachi.
+MINIGRAMS
+DEC chief Robert Palmer's restructuring of the company into nine separate sales and marketing groups from July 1 means some 300 UK staff will be cut.
+Meanwhile, Chris Conway takes over as chief executive of DEC UK from chairman Geoff Shingles.
+DEC appears to have chosen not to publicise the fact — reported here back in February (UX No 423) that its preferred Unix implementation, OSF/1, can also run Unix SVR4 and Ultrix applications natively — the built-in compatibility framework that allows this is now being called Habitat.
+Du Pont Pixel Systems Ltd, Egham, Surrey, says it is now shipping its Sparc implementation of the Silicon Graphics Inc PX/Iris Explorer graphical application builder.
+It uses the Iris GL 4.0 graphics library, claimed to be five times faster than Sun's XGL library.
+Prices start at £4,000 or £3,000 until the end of June.
+San Diego, California-based RDI Computer Corp is to distribute IXI Ltd's Motif-based Panorama software on its range of BriteLite Sparc laptops.
+Sun assures us its WABI Windows-on-Unix software can print now (UX No 434)— a bug the system was hurriedly fixed.
+WABI will be bundled with Sun kit from August.
+Dynamic Data Exchange functionality is included, Object Linking and Embedding will follow, with OLE 2.0 due next year.
+Win32s and Win32c application programming interfaces are promised for 1994.
+Unix workstation users can now use Windows, MS-DOS and OS/2 clients to access applications running on IBM SNA and wide area network hosts via SNA and OSI LAN Gateways for Unix from Eicon Technology Corp, Montreal, Canada.
+Prices start at $1,500 for SCO or USL Unix.
++1 514 631 2592
+Denver, Colorado-based Information Foundation is offering its a Unix SVR4.2-based Enhanced Unix Desktop for Intel Corp platforms at $250, which includes a full TCP/IP implementation.
+Menlo Park, California-based Mac-on-Unix house, Quorum Software Systems, has introduced version 1.5 of its Latitude development kit for building Unix versions of Apple Macintosh applications: it includes enhanced display performance, can read and write Mac disks on Unix workstations, supports Motif on Sun and Silicon Graphics boxes and MacApp-based applications: prices start at $6,000.
+Pencom Software has written three objects to go on NeXtstep-for-Intel.
+They include an international suite of objects Pencom says provide automatic translation from one language to another as well as currency translation; a qualified fetch from a database without code and a multiuser distributed record-locking object.
+It intends to demo the stuff at NeXt World next week and then sell them separate from NeXtstep.
+IDC's European Unix Expertise Centre in Copenhagen, Denmark, has published its first report on the likely impact of Microsoft Corp Windows NT.
+It expects a slow take-up of server versions of the operating system, and forecasts NT will take a 6.5% share of all server systems sold in Europe by 1996.
+Although it will have overtaken OS/2's share by this time, Unix will still account for some 32% of servers systems sold by this time, the market research group says.
+Following its availability on Hewlett-Packard Co HP 9000 machines, NCR Corp is expected to make its Top End transaction processing monitor available next on Pyramid Technology Corp kit: the AT&T Co firm is planning versions for a variety of Unix systems.
+Bloodied but unbowed, Motorola Inc says by the year 2000 it will be delivering 120 million 680x0s annually from 10 factories worldwide.
+That's 2,000 microprocessors an hour 365 days a year.
+It also figures that by the turn of the century the geometries will be 0.1 micron and the transistor count near 100 million.
+We had a chat with SunSelect after it got back from its WABI announcement and its intentions are to make WABI an ‘integral part of every desktop’ and get it ‘bundled with every Unix desktop’that goes out.
+It was evasive about why IBM Corp and Hewlett-Packard didn't show up as licensees but it's obviously expecting their announcements by and by.
+The talk still maintains that the two are trying to get better terms and conditions from Sun.
+According to the latest FT Systems newsletter, Pyramid Technology Corp's next hardware product will be a high-end MIPS R4400 system code named Jolt that starts shipping this summer.
+It also claims Unix System Labs is interested in the company's new Visual System Manager software.
+Reflecting on COSE, market researcher Summit Strategies claims Unix has already lost the desktop wars.
+It believes Unix is unlikely to capture even 10% of the 32-bit commercial desktop market, falling way short of the 20% or 30% needed to get broad market, ISV and channel support.
+It also frets that vendors will use COSE as an excuse for promoting the client as Unix' leading entry into the market, confusing the customer and diluting their own focus from the server, Unix' real opportunity.
+Digital Equipment Corp executives remark that the Open Software Foundation better make some progress in the coming months stitching up the wounds of the old Unix wars and accommodating itself to new alliances or else it's going to have a lot of trouble getting funding from its sponsors next year.
+DEC of course is one of those sponsors and OSF thrives on the factionalism that has marked the Unix community.
+Some industry watchers espouse the theory that says Hewlett-Packard Co and IBM Corp picked on the COSE move as a way out of OSF and that OSF could eventually find itself with its funding terminated and its sponsors telling it it's a for-profit software developer.
+The Australian Unix Users Group is staging its AUUG 1993 conference and exhibition at the Sydney Convention Centre September 28–30.
+Sources note that Adobe Systems Inc did not go along to Apple Computer Inc's MAS shindig as many hoped.
+Starting this month, RISC Management spins out its benchmark supplement into a focused stand-alone publication called BENCHpress Quarterly available for $195 a year to new subscribers.
+Meanwhile, the regular newsletter notices that Sun is phasing out its non-MicroSparc/non-SuperSparc products and says the ELC, IPC and Cypress/Ross modules used in the Sparcserver 600MP series will all disappear in October.
+Unix now has a friend at that fascinating widgets start-up General Magic, haven to many an ex-Apple staffer.
+Ex-Sun/ex-Rational executive Bill Keating has turned up there as vice president, partners and licensing.
+The company is of course concerned with the operating system environment but realizes the real place to be right now is at the communications end.
+It believes its TeleScript technology will be to computers what Postscript was to printer.
+Naturally this will come to encompass Unix and Windows NT.
+Sources say Applix Inc has lost another executive.
+Vice president of sales Tony Giannelli has gone to start-up OpenBook as vice president of marketing.
+Xhibition 93 has managed to get COSE to agree to a question-and-answer session by application developers and computing managers during the Xhibition Executive Conference in San Jose.
+The session will be held Tuesday June 8 from 8:30am to 10am.
+COSE architects will also be on hand to describe application integration opportunities later in the week.
+UK Birmingham-based IMI's Uniplex Ltd office automation software outfit will next week announce the appointment of Margaret Gymer to the post of director of international services: she'll head a new service and support unit the company is starting to look after that side of the business, which is now said to account for some 20% of the company's revenue.
+Not pausing for breath, and following ports to Hewlett-Packard Co's PA RISC and Sun Microsystems Inc's Sparc — see page 3 — Banyan Systems Inc will this week reveal plans to put its Vines network operating system up on the IBM Corp RS/6000.
+Sun promises new graphics and image processing subsystems that'll take  advantage of its new-found multiprocessing prowess.
+Last month Intel Corp was reportedly still sending out Pentiums in  quantities of one via a car delivery service — and demanding the things back again once they'd been installed and tested in the prototype boxes of less favoured customers.
+Intel's problem now appears to be finding a way of getting enough good Pentiums parts off the large die to be able to make any money on it.

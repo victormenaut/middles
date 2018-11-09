@@ -1,0 +1,237 @@
+
+
+GERSTNER TAKES IBM HELM ON APRIL 1 SAYING HE SEES ‘NO QUICK FIX’
+Recklessly deciding that the appointment should become effective on All Fools' Day, April 1, IBM Corp on Friday duly named Louis Gerstner to the posts of both chairman and chief executive.
+Gerstner said at the announcement that he sees ‘no quick fix’ to turning the company around —‘I have no idea how long it will take,’he said, adding that his first priority is to listen and learn from the IBM management team.
+Over the next few months he and IBM's board will look at IBM with ‘a no-holds barred’ approach.
+‘I have the authority necessary from the board to build this company over,’ he said, adding that he was not sure that breaking the company up would be the right approach.
+‘This is going to take time,’ he said, adding that he does not yet have plans for IBM — he has to first learn the company by meeting executives, managers and employees.
+He is starting with a teleconference with 100 IBM managers around the world.
+The selection board said that Gerstner was the first person they had spoken to when they began their quest for a new chief in January.
+IBM's shares rose slightly after the appointment was announced, rising 75 cents to $51.25.
+Traders said the fact John Akers will be leaving soon was likely a contributing positive to the stock.
+Gerstner is a colleague of Akers on the board of The New York Times Co, and he is also said to know former IBM chief executive Thomas Watson Jr, who lives in the same Greenwich, Connecticut suburb as Gerstner.
+INMOS IS FINALLY READY TO SHIP T9000 TRANSPUTER
+Inmos Ltd finally launched the long-delayed T9000 Transputer on Friday and hinted at the next generation ‘Chameleon’ technology.
+Inmos admits that the year's delay lost the company several customers.
+The T9000 is rated at 200 MIPS and 25 MFLOPS and packs a 32-bit  superscalar integer processor, 64-bit floating point unit, virtual channel processor and 16Kb memory on one chip.
+Its internal communications links operate at 100Mbps unidirectionally, 200Mbps bi-directionally — 10 times faster than previous Transputers.
+The device is easily scalable — no interface or buffer logic is required to link T9000s — with communication between up to 32 indirectly connected devices possible courtesy of Inmos's C014 Packet Routing Switch.
+The Chameleon programme aims to produce a number of interconnectable modules that can be used individually, or in combination in single devices.
+The modules will include 64-bit processors and cache, programmable communications processors, high speed communications interfaces, link routers, floating point co-processor, re-configurable co-processors and dedicated Asynchronous Transfer Mode communication and graphics  and video processors.
+The modular architecture will integrate 10m transistors.
+The T9000 comes in a 208-pin CLCC and draws 3W in single chip applications; samples are $700.
+ACER LAUNCHES SET FOR BUILDING R4400 NT MACHINES
+Acer Group Inc is betting on Microsoft Corp's Windows NT by developing a MIPS Technologies Inc R4000 and R4400 six-chip set specifically for NT personal computers.
+It expects entry-level boxes built with the PICA chip set and the Acer reference design to go for under $3,500 yet offer a fivefold performance leap over 66MHz Intel 80486DX2 machines.
+Acer will introduce a line of Formula 64-bit PICA personal computers at Comdex Spring and will sell the blueprints and OEM motherboards to other vendors.
+The M6100 PICA chip set, short for Performance-enhanced Input-output and CPU Architecture, includes a high-speed 64-bit local bus to accelerate graphics and networking.
+Acer intends licensing the bus to the personal computer industry.
+The design also includes an optional AT bus slot.
+The chip set is designed to support NT's multitasking and multithreaded input-output operations.
+It will be able to handle R4000 and R4400 chips at up to 200MHz.
+PICA partitions the system into four subsystems: processor, input-output, video and memory.
+Each subsystem concurrently communicates via a 25MHz 64-bit bus and the CPU local bus running at 50MHz.
+The memory subsystem is a high bandwidth design offering 200M-bytes per second data transfer capable of addressing 8Mb to 256Mb of memory.
+The 200M-byte per second video and memory bus is exclusively shared between the 64-bit CPU and the 64-bit input-output master so it yields a high bandwidth for the 64-bit video system.
+As a result, it is claimed to support high-performance graphics that currently require more expensive technical workstations.
+The set consists of six VLSI devices, two of which are used twice in a system design.
+An optional ninth chip is the Acer M1219 Single Chip AT Controller to provide the AT expansion compatibility.
+The parts are the 176-pin M6101 cache and CPU controller, the 120-pin M6103 buffers, the 208-pin M6109  Input-Output Cache and bus controller, the 136-pin M6105 memory controller and two 144-pin M6107 data buffers.
+Under its agreement with Acer, MIPS Technologies will license, through its Open Design Center, a pre-packaged design kit based on the Acer PICA technology.
+At $5,000, the design kit will include all hardware, firmware and software  necessary to build a Windows NT-capaMIPS-based RISC personal computer.
+NEC Corp has already has contracted to make the PICA chip set for Acer, and plans to to second-source the set to systems developers worldwide.
+Acer will focus its efforts on primarily Asia.
+Acer plans an independent software vendor programme to attract software house to write to NT.
+Acer says PICA, developed by Acer Labs in Taiwan, can be modified to support other 64-bit chips running NT because of its modularity.
+The set is sampling at $200.
+KAO DOUBLES EUROFLOPPY OUTPUT
+Chemicals giant Kao Corp, Tokyo says it is expanding its floppy disk business at its Kao Corp SA subsidiary in Spain, which will double its 3.5″ output to 8m a month from April.
+The company has two new floppy disk duplication firms, Kao Infosystems Ireland Ltd in Dublin and Kao Infosystems France SA in Linas near Paris.
+Dublin is owned by Kao's UK duplication unit, Kao Protoscan Plc, and the French unit by the Kao Corp (France) SARL sales and research company.
+HEWLETT-PACKARD ANNOUNCEMENTS
+New programme to rally the smaller software vendor
+Saying that a study by the Gediman Research Group suggests that small- and medium-sized independent software vendors consider the costs of converting their software for a new architecture, and the subsequent marketing and sales expenses as potentially prohibitive to success, and Hewlett-Packard Co company has launched a new programme to ease the transition to its Precision Architecture RISC-based Unix machines.
+The programme extends the company's current vendor-recruitment efforts, and is designed to make it easy and profitable for the smaller vendors to support the HP-UX workstations.
+The first phase includes substantial discounts on equipment purchase and lease plans and technical conversion support dedicated to the programme to facilitate a smooth migration to Unix systems.
+Once the application is up on the HP Apollo 9000 Series 700 workstation family, Hewlett-Packard promises to provide marketing and sales programmes, such as promotions, through its direct sales force, resellers and distributors.
+The membership fee for the programme is $600 a year.
+To remove financial roadblocks and ensure US programme members' financial success, the company is offering 52% discounts on appropriate equipment purchases and hardware- and software-maintenance support contracts; options for equipment leasing and financing also based on the 52% discount; access to the company's East Coast and West Coast qualification centres, where access to a network of HP 9000 products and technical assistance is provided free of charge; workday telephone access to technical conversion specialists; and 24-hour electronic bulletin access to engineering notes and product details.
+On the marketing side, the company promises to foster relationships between programme members and its worldwide distributors, resellers and direct sales force.
+It will offer direct marketing and mail programmes; hold marketing conferences, seminars and special promotions; provide free listings in catalogues seen by customers; and put their products up on the HP LaserPro CD-ROM for software marketing which is delivered with every Hewlett-Packard workstation.
+They also get membership of the InterWorks workstation users group.
+The company says that the programme has already roped in SmartStar Corp, which does proprietary language applications on Digital Equipment Corp hardware;— Inmark Development Corp, which specialises in applications for the banking and brokerage community and tools for the C++ development market; Tivoli Systems Inc with its software for managing distributed computer systems; and The Digist Software Co division of the Turing Institute in Scotland, which provides shrink-wrapped spatial-data-processing applications for the AM/FM and geographic information systems markets.
+Digist will distribute and support Turing Institute's products in North America.
+Hewlett-Packard will be coming to a bookstall near you
+Hewlett-Packard Co has signed Random House Electronic Publishing and Paramount Publishing's Professional Technical Reference Prentice Hall as its associates in publishing books on Hewlett-Packard technologies and products.
+Each publisher is to produce, market and distribute books to the retail, wholesale, corporate, government, college and library markets worldwide — Random House will establish a new Hewlett-Packard Press to publish books for individual users, Prentice Hall will launch the Hewlett-Packard Professional Books series for practising and studying professionals.
+Telnet/OLTP extensions to improve transaction processing efficiency
+Customers' environments are evolving towards intensive use of commercial transaction processing servers, Hewlett-Packard Co suggests, and such users need support for high-performance commercial-grade input-output while minimising communications costs — and they need a system that is compatible with existing applications and networking equipment.
+Accordingly, the company has teamed with the Wollongong Group Inc and Datability Inc to produce an ARPA Telnet-derived system, Telnet/OLTP, which is designed to enable computer systems to support more users in large commercial transaction processing environments.
+Telnet/OLTP is claimed to provide significant gains in transaction processing efficiency by decreasing central computer processing by up to 50% and by decreasing Telnet traffic on the network by up to 90% — and existing Telnet applications are compatible with Telnet/OLTP.
+The reduction in host overhead should mean that more MIPS can be devoted to executing the transaction processing application, executing more transactions, and supporting more users and more applications.
+And the capability to cut Telnet network traffic by up to 90% should mean that the network can support additional traffic, translating into less competition for scarce network resources, and remote users should see their line-usage charges fall.
+The three companies say that they will incorporate Telnet/OLTP into a broad range of products — Hewlett plans to incorporate Telnet/OLTP into the HP 9000 series 800 business server line and into its terminal server product line.
+Wollongong, Palo Alto, California plans to use it in its open systems interconnection communications product line for the Digital Equipment Corp VAX, and Datability, Carlstadt, New Jersey plans to incorporate it for its communications server product line.
+The first products supporting the Telnet/OLTP extensions are expected to be available in the middle of the year.
+Hewlett and partners launch Earth Data System
+Hewlett-Packard Co has teamed up with Ellery Systems Inc and scientists from the US environmental community to exploit the Open Software Foundation's Distributed Computing Environment to create a computer-based system designed to make it easier and less costly to collect data about global environmental issues such as ozone depletion, deforestation and climate change.
+The new Earth Data System is designed to facilitate the collection and analysing of environmental-impact data by enabling the data to be gathered from many different types of computers that are geographically dispersed and often incompatible.
+Initial test copies of the Earth Data System, which incorporates Boulder, Colorado-based Ellery software, began shipping in October 1992, and are running on Hewlett workstations at five US locations including universities and research centres, for example enabling researchers analysing the Pacific Northwest to look at environmental data from their desktop to help forest managers to decide where to cut and replant trees without disrupting wildlife.
+DUN & BRADSTREET SOFTWARE PREVIEWS VERSION 2.0 OF ITS CLIENT-SERVER SMARTSTREAM ACCOUNTING SOFTWARE
+The UK arm of Dun & Bradstreet Corp's Atlanta, Georgia-based Software Services division yesterday previewed version 2.0 of its SmartStream client-server accounting and decision support software which will debut this summer on a range of systems.
+Enhancements over last year's initial 1.0 release include workflow activity managers that prioritise tasks for execution or delegation, the addition of Microsoft Corp Access as the query and reporting tool, a more flexible version of the Cognos Software Inc PowerPlay data analyser it already incorporates, and new batch cycle processing and TCP/IP connect functionality in SmartStream's InterQ communication application.
+Transaction processing for SmartStream will be offered in a Financial Stream application, also due this summer, with personnel, manufacturing and logistics packages following in 1994.
+SmartStream is intended to provide a means for mainframe users to move to client-server arrangements without abandoning their existing systems.
+In the SmartStream scheme, mainframes can be retained as file servers while cheaper Unix boxes assume its traditional tasks.
+Using the Sybase Inc SQL Server relational database and a Microsoft Windows front-end, SmartStream — plus its associated applications — provides information access, distribution, presentation and development functions for managing integrated purchasing, asset management and manufacturing systems, the company claims.
+Tied exclusively to Sybase
+Using InterQ, SmartStream applications can can access data from Dun's E and M series mainframe applications and from IBM Corp DB2 and CICS systems and send it to the server system.
+Although SmartStream is tied exclusively to the Sybase database at present, interoperability with other systems is being considered and other database engines can be accessed via Information Builders Inc's EDA/SQL gateway.
+In moving to a SmartStream client-server environment, most organisations would have to replace predominantly dumb end-user terminals with more expensive personal computer clients needed to run the Windows front end and other tools as well as buying a slew of different software packages, albeit from a single supplier.
+Dun says it weighed a dozen query tools before deciding on Microsoft Access, which proved more user friendly than any of the others, and doesn't need SQL programming skills.
+Dun says it has done $5m of business on SmartStream since launch last summer, has some 30 customers, with five orders over $300,000: the software is aimed at organisations doing $150m a year and up.
+SmartStream can access IBM 370 CICS/MVS VSAM, DB2, APPC LU6.2, VAX 4000 through 8000 VMS and DECnet environments.
+It supports Intel Corp 80486, Hewlett-Packard Co 9000, Data General Corp AViiON, VAX 4000 through 8000 and OS/2 servers and personal computer clients running Windows.
+The firm sees little demand for Unix front-ends yet.
+Other systems — such as Digital Equipment Corp Alpha-OSF/1 and Sun Microsystems Inc Sparc — will be supported over time, when Dun's exclusive distribution arrangements for Hewlett, Data General and VAX versions are up, though no time-scales were offered.
+Networks supported include IBM LAN Server, Microsoft LAN Manager, Novell Inc NetWare, DEC Pathworks and TCP/IP.
+D&B is also evaluating Windows NT as a host environment for its products, and has the beta NT in its labs.
+Even though Windows NT has not yet been released, 37% of the 1,000 or so participants in a Dun survey at UniForum believe NT will offer benefits not yet available under Unix.
+Kent Godfrey, director of D&B Software said ‘no single operating system’ can achieve the goal of giving users access to open systems technologies.
+BULL MOVES TO CORNER A SHARE OF THE TELECOMMUNICATIONS MARKET
+Compagnie des Machines Bull SA announced another vertical market version of its Distributed Computing Model and a new organization aimed at extending Bull's share of the telecommunications market, at the CeBIT fair in Hannover, Germany.
+DCM Manufacturing comprises four main components, the company said: a modelling framework, enabling technologies, applications and manufacturing-oriented services.
+The modelling framework enables the customer ‘to analyse the business structure and application map, identifying critical applications and information links to improve information flow,’ the company said.
+Enabling technologies include the Bull Product Data Management System, which it says applies concurrent engineering to cut down design-to-manufacturing time and reduce costs, and ‘integration enablers’, which Bull says connect two or more manufacturing applications ‘without the time and cost of customized development’.
+They also comprise Manufacturing Message Specification and Bull Open Software-Real-Time Environment for shop-floor networking services.
+Bull gave no details about the applications and manufacturing-oriented services available for DCM Manufacturing, but said they will come from Bull partners worldwide.
+Bull Worldwide Telco has been set up the ‘better to co-ordinate Bull's telco strategy and solutions, and to develop new group skills and expertise within the domain.’
+Key among the division's activities will be the development and sale of turnkey systems for telecommunications customers, particularly telephone companies in developing nations, the company said.
+Philippe Picard has been appointed director of the new division.
+NOW HEWLETT-PACKARD AND INTEL GET TOGETHER ON LOCAL NETWORK, INTERNETWORK MANAGERS
+Latest in the line of network management partnerships is Intel Corp with Hewlett-Packard Co: the two have a technology agreement intended to integrate their respective local network and internetwork management products.
+The aim of the agreement is to provide an integrated system for managing both types of network, which will be done by effectively incorporating Intel's LANDesk Manager into OpenView for Windows: the latter will receive information from LANDesk Manager subnetworks via SNMP, and then remotely access and control the desktop systems in those subnetworks.
+The companies also announced that they intend to develop additional products designed with tighter integration, enhanced functionality and multi-protocol support.
+They say that the agreement builds on their relationship developed as charter members of the Desktop Management Task Force, and both companies intend that OpenView and LANDesk Manager will support the Task Force's Desktop Management Interface when the specification is available.
+LANDesk/OpenView for Windows is planned for release around the middle of this year, and is to be co-branded for joint marketing by the two companies.
+CREDIT RATINGS
+Amdahl Corp's first quarter loss warning has done the Sunnyvale IBMulator no good at all with Moody's Investors Service Inc, which cut the company's short-term debt to Prime-3 from Prime-2 in expectation of weak earnings and and reduced cash flow at the company.
+Weak demand for Amdahl's mainframe product and severe price erosion in the mainframe computer industry should continue due to the impact of desktop computing, it said, adding on the upside that Amdahl maintains a strong balance sheet despite recent operating losses and also benefits from Fujitsu Ltd's 46% ownership stake in the company.
+IBM Corp has been hit by the backwash of Amdahl Corp's warning, and Moody's Investors Service Inc has downgraded the long-term debt and related securities of IBM and its financially supported IBM Credit Corp, IBM International Finance NV and IBM Japan Ltd by two notched to single-A-1 from double-A-2.
+About $18,000m of debt is affected by the downgrade, which left the Prime-1 rating on the company's short-term debt unaffected.
+Moody's began its review in December, and says that the move reflects its expectation of a continued slide in demand for high-margin mainframes and transitional challenges of downsizing IBM's infrastructure.
+SHARE & BOND ISSUES
+AT&T Co issued a $400m Eurobond due April 8 1998 paying 5.625% and priced at $101.305%.
+Lead manager for the issue was Credit Suisse First Boston.
+Digital Equipment Corp has shed the ‘no borrowings’ regime of founder Ken Olsen with a vengeance, and is out there raising more new cash: it issued $250m of 7.75% noncallable debentures due April 1 2023, at $98.512% to yield 7.88%, via Lehman Brothers.
+IRG Technologies Inc, Richardson, Texas distributor of computer peripherals, filed with the Securities & Exchange Commission to go public with an initial offer of up to 2.75m common shares, 2.3m of them new, at a target price of between $10 and $12 a share to raise some $25m to repay debt and for working capital; Montgomery Securities, Kemper Securities and Raymond James & Associates will co-manage.
+Microchip Technology Inc, making field-programmable microcontrollers in Chandler, Arizona got its initial public offering of 1.5m shares, 1.3m of them new, away at $13.00 a share.
+Alex Brown and Sons, Cowen & Co and Montgomery Securities co-managed.
+OPTi Inc, Santa Clara designer of a range of core logic chip sets for 80386 and 80486 desktop and notebook computers, filed with the US Securities & Exchange Commission to go public with an initial offer of 2.5m shares, 2m of them new, at a target price of between $9 and $11 per share.
+The company wants the $18m or so net proceeds for financing accounts receivable and inventory and for working capital.
+PaineWebber Inc and Needham & Co will co-manage the underwriting group for the offering.
+Software Etc Stores Inc, Edina, Minnesota software retailer, got its offering of 800,000 shares, all new, away at $15.50 per share and intends to use the $12m or so net proceeds to accelerate its store expansion programme — opening 60 to 70 new stores in each of the next two years to add to the 42 currently open.
+Managing underwriters were Robertson, Stephens & Co LP, and Montgomery Securities Inc.
+Sunrise Leasing Corp, the Minneapolis company that just did a deal on printers from IBM Corp's Pennant Systems, has filed to offer 1.15m shares, 1.05m of them new, to raise cash to finance further leases.
+Summit Investment Corp and Miller, Johnson & Kuehn, Inc are the underwriters of the proposed offering.
+SoftImage Inc, Montreal raised $14.4m before expenses for itself with a US offering of 1.22m shares, 850,000 of them new: the developer of professional three-dimensional software for the video and film production world will use use the net proceeds for working capital; the managing underwriters were Hambrecht & Quist Inc and Volpe, Welty & Co Inc.
+Teleglobe Canada Inc, Toronto says it is in the process of filing a $Can125m — about $100m — final prospectus in all provinces of Canada: the prospectus covers 10-year unsecured debentures with a coupon of 8.35%, and the joint lead managers of the underwriting group will be RBC Dominion Securities Inc and Nesbitt Thomson Ltd and will include Levesque Beaubien Geoffrion Inc and Scotia McLeod Inc.
+L M Ericsson Telefon AB is proposing to raise the equivalent of $280m with the issue of convertible debentures with a nominal value of up to 2,172m Swedish krona; the each existing share in Ericsson will give the holder the right to buy one convertible with a nominal value of 10 krona, and the convertibles will be exchangeable for Ericsson B shares until May 31 2000.
+It plans to make holders of American Depository Receipts eligible to take part in the convertible.
+The company wants the cash for acquisitions and to finance customers.
+RAMTRON RAISES $12m
+Ramtron International Corp, Colorado Springs, Colorado pioneer of ferroelectric memory chips, reports that it raised about $12m in a private placing of 1.2m shares of common at $9.80 per share to add to its working capital.
+The shares were sold to the company's two largest shareholders Oren Benton and the National Electrical Benefit Fund.
+The investment also called for the extension of some existing warrants for two years — they now expire in 1996.
+SECOND PRIVATE PLACING RAISES $5.9m FOR WORDSTAR
+WordStar International Inc, Novato, California raised $5.9m in a second private placing of 2.7m units, each of one share and a warrant for a second share at $2.50 expiring 1996.
+Brean Murray Foster Securities Inc acted as the agent for the placing.
+AW Computer Systems Inc has reported fourth quarter net profits up 630.8% at $795,667, after $84,835 tax credits this time and $58,269 tax credits last time, on turnover up 78.7% at $3.4m; net profit for the year to December 31 was down 11.9% at $1.9m, after $339,000 tax credits this time and $864,000 last time, on turnover that rose 2.9% to $9.2m.
+Net earnings per share rose 566.7% to $0.20 in the quarter, and fell by 20.3% to $0.47 in the year.
+Micros Systems Inc saw second quarter net profits up 6.6% at $1.3m, on sales up 11.4% at $13.1m; mid-term net rose 32.2% to $2.4m, on sales up 21.3% at $24.5m.
+Net earnings per share remained at $0.16 in the quarter, rose 29.2% to $0.31 in the half.
+SofTech Inc has turned in third quarter net down 42.5% at $172,000, after $144,000 gains from discontinued operations last time, on turnover down 13.5% at $11.6m; net profit for the nine months stood at $1.3m against losses of $285,000 last time, after $746,000 gains from discontinued operations this time and $285,000 losses last time, on turnover that rose by 16.2% to $32.3m.
+Net earnings per share were down 50% to $0.04 in the quarter, and amounted to $0.34 in the nine months.
+Microvitec Plc reported a net loss for the year to December 31 of £2.1m, down from a loss last time of £2.6m, on turnover that rose 35.2% at £49.9m.
+The pre-tax loss was £2.1m, down from £3.8m last time.
+GERSTNER TAKES THE PLUNGE
+Louis Gerstner received a lesson on Friday on just how tough it will be to lead IBM Corp in the midst of its economic woes, as he was showered with difficult questions about his qualifications to lead a computer company, Dow Jones & Co reports: Gerstner was also asked to explain why he left RJR to lead IBM —‘I thought this was an extraordinary opportunity,’ he said, and asked if he felt he had completed his job at RJR, Gerstner responded ‘I don't think the job is ever finished as chief of a large company.’
+IBM DEUTSCHLAND SERVE UP GLOOM FOR NEW LEADER
+IBM Deutschland GmbH greeted Gerstner's appointment by announcing that it would cut nearly 4,000 jobs this year, up from the 3,000 planned: ‘We need a cost efficient structure as soon as possible,’ chief executive Bernhard Dorn said.
+IBM JAPAN PROFITS SLIP
+IBM Japan Ltd reported net profit for 1992 down 44.8% to the equivalent of $268m; turnover slipped 1.6% to $10,750m; the company says service business including systems integration showed double-digit growth from the previous year but that hardware sales turned in a double-digit drop; ‘We are still in the midst of changing course to become a service company,’ the company said —‘Along with the severe state of the economy, that resulted in lower sales and profits;’systems integration, accounting for just 8% of sales, grew by 40% and IBM Japan plans to increase staff there by half this year; hardware sales accounted for 53% of the total, but the ratio could reverse this year; the company plans to cut operating costs per employee by about 10%, further reducing headquarters staff by a quarter, reducing the number of top executives by a quarter and slashing executive bonuses in half.
+TE ELECTRONICS TO TAKE $20m CHARGE
+The TE Electronics Inc manufacturing subsidiary that Tandy Corp plans to spin off, says it will take a $20m charge against results for the first half to December 31 to cover the cost of the proposed sale of its Micronic hand-held computer operation and a decision to close two small European offices of the Tandy/GRiD Europe subsidiary.
+NORWEGIAN POLICE FORCE STANDARDISE ON OMNIS SEVEN PLUS
+Foster City, California-based Blyth Holdings Inc says that the Norwegian Police Force has chosen to standardise on the company's Omnis Seven Plus Windows-based software on thousands of personal computers to be linked to unidentified Unix servers running the Ingres relational database management system.
+EC SEEKS DEREGULATION OF CROSS-BORDER SERVICES
+The latest draft of the European Commission's plan for telecommunications seeks deregulation of cross-border services within the Community from January 1996 and of all services, domestic and international, by the start of 1998, Reuter reports from Brussels, and phone companies expect it to press for deregulation of phone service despite the industry's reservations —‘It's far too ambitious — we're not opposed to deregulation but this is too fast,’ Charlotte Pins, a director of corporate communications at Belgium's Belgacom said; France Telecom said it backed ‘setting sights on 1998 or 2000’as a deadline for freeing the phone service, but Community-wide rules on access to national networks, costs, tariffs and public service duties would have to be agreed shortly.
+DEUTSCHE BUNDESPOST TELEKOM TALKS REACH CRITICAL PHASE
+Talks on privatising Deutsche Bundespost Telekom have entered a critical phase, with a key decision due next month, Germany's postal and telecommunications minister Wolfgang Bosch told Reuter at Hannover on Friday: ‘In a few weeks we will know whether or not there will be a change to the constitution,’ he said, noting that decision will not only affect privatisation of Telekom but also Bonn's position at the upcoming talks with the European Commission — an agreement on privatisation would pave the way for Bonn to approve the Community plan to open domestic and international telephone calls to competition; the current strategy to get agreement from Germany's opposition socialists is to win over the postal union, which so far rejects turning Telekom into a joint stock company for fear of massive job losses.
+APPLE SIGN OEM AGREEMENT WITH HONEYWELL
+In what is being seen as the first licensing by Apple Computer Inc of its Macintosh technology, the company has signed an OEM agreement that enables Honeywell Inc to use the Mac interface in avionics systems: Honeywell will use the technology to drive management information systems for commercial airline cockpits, building an Electronic Library System incorporating an adapted avionics version of Apple's Macintosh Quadra 800 high-end box.
+ERSKINE HOUSE GROUP SHARES TAKE A DIVE
+Erskine House Group Plc shares nose-dived 14 pence to land at 27 pence after it said that its final dividend for 1992 will, at most, be nominal, saying that January and February had been dire in the US.
+CLINTON ACCLAMATION FAR FROM UNANIMOUS
+So you think Silicon Valley is unanimous in its acclamation for President Clinton's economic plan and his emphasis on technology initiatives?
+Think again — T J Rodgers, president and chief executive of Cypress Semiconductor Corp told a Congressional committee on Wednesday last week that there is no monolithic support for Clinton's budget proposals — the government should not try to build information networks, but ‘untangle the morass of bureaucracy and regulations’ that prevent existing fibre optic networks from reaching homes, he said; he called for deeper cuts in the budget deficit and the end of ‘wasteful and unnecessary’government programmes; ‘Washington should stay away from the intricacies of high-tech competition…it should focus instead on the infrastructure of competition,’he said; he also presented written comments criticising the Clinton plan from officials or directors of Amdahl Corp, Cisco Systems Inc, Conner Peripherals Inc and Sun Microsystems Inc.
+NORTHERN TELECOM SHORTFALL TRIGGERS STOCK PLUNGE
+Shares in Northern Telecom Ltd plunged on Friday soon after trading began, 12% the Toronto Stock Exchange in the wake of the company's announcement that first quarter earnings would be below the 1992 first quarter and analyst estimates; the company blamed the shortfall on an increase in development expenses, lower software revenues and lower pricing on its public telephone exchanges, to be offset slightly by higher volumes and by product cost reductions.
+MICROVITEC CUTS GEARING TO REFLECT LOSSES
+Commenting on its reduced losses (see page five), Bradford-based Microvitec Plc says it has cut gearing to between 40% and 50% from approximately 80% over the past two years; profit on continuing operations before interest was £1.2m against a loss last time of £2.5m.
+SAPURA HOLDINGS LOCAL OFFERINGS
+Sapura Holdings Sdn Bhd, Kuala Lumpur will launch Malaysia's first locally designed and manufactured cellular portable telephone in August: the unit will launch two models — one for the 900MHz network followed a few months later by another for the proposed 800MHz network and the new phone could double Sapura's current 10% share of Malaysia's mobile phone market.
+SUN HAMPERED BY MOTIF AND DCE
+Sun Microsystems Inc has been closed out of a few significant contracts lately because it couldn't tick off the Motif and Distributed Computing Environment boxes on the bids: the Common Open Systems Environment will at least get it back in the running for a $20m deal at Boeing Co that requires Motif and Sun insiders reckon that the company will now include Motif in its price list almost immediately — the best guess is that SunSoft will offer reasonably priced Motif upgrades for Solaris 1.
+X and make it standard with Solaris 2.1 and 2.
+X, making those operating systems more attractive.
+WORLD BANK PLACES ORDER FOR CADSTAR
+The World Bank in Washington DC has placed an order with Reading, Berkshire-based Racal-Redac (UK) Ltd for 154 of its CadStar printed circuit board design packages and 57 advanced MS-DOS routers: the products will be used by participants in India's Impact programme, set up with the help of the World Bank, to provide the country's leading educational institutions with electronic design automation tools and other software; Racal-Redac reckons the deal gives it some 50% of the Indian printed circuit board design software market.
+WHITE PINE SOFTWARE ENHANCES X SERVER SOFTWARE
+White Pine Software Inc, out of Nashua, New Hampshire, enhanced its multi-environment line of X11.5-based X server software offering Unix support with Windows, Macintosh and NextStep to revision 5.0: White Pine says the stuff is 25% faster than competing offerings; supports new X font formats and networked X font servers; and offers enhanced DECwindows, Open Windows and Motif support; prices for the thing range from $300 to $450.
+SCO TO USE IXI NAME TO WIN ACCOUNTS
+‘We originally thought the IXI name would go away,’ says new owner, Santa Cruz Operation Inc: instead the company will use the IXI name as a brand for its front-end technologies and it will also use the IXI connection to try and win accounts that would otherwise be unwilling to buy from Santa Cruz, but don't give a damn who owns IXI.
+LATEST WORD
+The latest word has Sun Microsystems Inc's Solaris on-iAPX-86 coming to market sometime in May.
+PLAYERS CLUB TOGETHER TO CO-HOST ENTERPRISE ‘93
+The Massachusetts Institute of Technology's Salon School of Management, the Open Software Foundation, Bull Worldwide Information Systems and the European Community are pooling resources to co-host Enterprise ‘93 June 16 to 18 at the World Trade Center in Boston: the programme, aimed at top executives, aims to help them manage computing more profitably and effectively.
+QUALIX UTILISE ADOBE'S TRANSCRIPT
+Qualix Inc has picked up Adobe Systems Inc's TransScript software for distribution: the software is designed to enable Unix programs to print to PostScript output devices.
+MICROSOFT REVIEWS NT PRICING
+Microsoft Corp is said to be reconsidering the floor-level pricing it considered for NT, and is thought unlikely to go with a $100 price.
+AGE LOGIC TO IMPLEMENT XIE FEATURES
+AGE Logic Inc, San Diego, California, has been signed to implement the new features and protocols defined in the XIE draft standard version 4.12 for X Window servers on behalf of the Massachusetts Institute of Technology X Consortium.
+DB/EXPO ‘93 SPACE TAKEN
+DB/Expo ‘93, set for May 3 to 7 in San Francisco, says it's sold out of exhibitor space despite a 35% increase in size  over last year; attendance is projected at 20,000.
+UIS AND RAXCO ENTER ‘SYNERGISTIC PARTNERSHIP’
+UIS Ltd, based in Epsom, Surrey, has entered into a ‘synergistic partnership’ with fellow DEC system management software developer Raxco Inc of Rockville, Maryland: the two companies, which serve the Vax/VMS, Alpha/Open VMS and Unix market, will now operate under the Raxco Inc name; together they will offer a portfolio of 30 products, serve 25,000 customers and boast a combined $40m turnover; prime focus will be expansion of the Unix product line; the deal, said to be mutually beneficial, will expand the former Raxco's UK, European and Scandinavian coverage while bolstering UIS's support services.
+EXCALIBUR TECHNOLOGIES OPENS SAN DIEGO HQ
+Imaging software company Excalibur Technologies has opened a new headquarters in San Diego, California in addition to its existing US office in Virginia and its Windsor, Berkshire UK subsidiary: the new premises offer the best in demonstration and training facilities.
+COMPAQ TO BUNDLE WINDOWS SOUND SYSTEM
+Compaq Computer Ltd is to bundle Microsoft's Windows Sound System software into its DeskPro/i and DeskPro/M personal computers; the software provides features like ‘ProofReader’ which speaks numbers and spreadsheet terms and which is supported by Excel 3.0 and 4.0, and Lotus 1-2-3 for MS-Windows; also there is voice recognition with Voice Pilot, a number of other audio recording and manipulation features and Music Box 2.0 for compact disk access and playback.
+CeBIT ‘93 ORGANISERS CHOSE INTERVIEW
+The organisers of CeBIT ‘93 chose InterView, Fibronics International Inc's network management system, to manage NewsNet — the live FDDI network connects over 300 networking companies exhibiting in Halls 12 and 14 and is used to enable exhibiting companies to show off the functionality of their wares.
+COMPUTER ASSOCIATES TO LICENSE CHEYENNE SOFTWARE PRODUCTS
+Computer Associates International Inc, Islandia, New York, is to license Cheyenne Software Inc's local area network storage technology device drivers for its network back-up and archiving systems.
+CABLE COMPANIES OPERATING MORE EXCHANGE LINES
+The UK Cable Television Association says that in February, the number of telephone exchange lines operated by cable companies rose 10,209 to a total of 126,687: of these, 108,900 are residential lines, 17,787 are business connections.
+CENTURY SOFTWARE UNVEILS TERM FOR WINDOWS 6.3
+At UniForum, Salt Lake City, Utah-based Century Software Inc introduced version 6.3 of its Term for Windows desktop-to-Unix communications software: out now, from $200.
+FAXIMUM SHIPS FAX FOR UNIX V2.1
+Faximum Software Inc, West Vancouver, Canada, is shipping version 2.1 of its Fax for Unix software.
+CRAY RE-APPOINTED AS ICL SUPPLIER
+ICL Plc has re-appointed Cray Communications Ltd as an accredited supplier: Cray first started supplying ICL with modems and KMX low-end multiplexers in 1988, and now supplies ICL's Network Product Division with a range of products for use by the ICL sales force.
+BT GET GRANADA CONTRACT
+Granada UK Rental Ltd has signed a £5m contract with British Telecommunications Plc for a data communications network linking 400 Granada and Visionhire high street shops with the company's customer account information centre in Bedford: the network uses the Global Network Services and partially replaces Granada's existing dial-up network.
+LOTUS NOTES USER GROUP IS BORN
+An independent user group has been formed in central London covering Lotus Development Corp's Notes groupware product: the Lotus Notes User Group is to provide a forum for discussing strategic issues of using Notes in business, as well as application ideas and will maintain close links with the Worldwide Lotus Notes Users and Technologists.
+DEUTSCHE BUNDESPOST TELEKOM REVIEWS WORLD ACTIVITY
+While Deutsche Bundespost Telekom views its joint venture with France Telecom, Eunetcom, as the ‘foundation for our world activity, we think it is necessary to have a partner from the US and from the Pacific Basin,’ said Dieter Gallist, a member of the board of management for Telekom at the Networked Economy Conference in Paris: ‘We are in the middle of discussions so I won't say any more, however,’he added; Gallist added later that Bundespost Telekom is also ‘looking strongly in the direction of software alliances.’
+PARCPLACE SYSTEMS APPOINTS MARKETING VICE-PRESIDENT
+ParcPlace Systems Inc has appointed Richard Dym, formerly general manager of Autodesk Inc's Multimedia Division, marketing vice-president.
+SPIDERSYSTEMS ADDS SPIDERBROUTER R360 TO LINE
+Spider Systems Ltd, Edinburgh has added the SpiderBrouter R360 to its line of bridge-routers, as part of its Boundary Routing system: the R360 offers IP and IPX routing with simultaneous bridging of all other protocols; a Multilink feature enables load balancing across dual links to a SpiderBrouter R360 or a SpiderBridge R285; it will be out in April; no word yet on price.
+YOU KNOW THEY'RE BAD FOR YOU, BUT…
+Mainframe?
+No thanks, I'm trying to give them up: at IBM Corp, writes the Wall Street Journal, RJR Nabisco Holdings Corp chief executive Louis Gerstner ‘may find some eerie parallels between RJS's chief product, cigarettes, and IBM's leading product, mainframes — both are high profit margin products with slumping sales that are sold mostly to long-time customers who can't break the habit,’ it says.

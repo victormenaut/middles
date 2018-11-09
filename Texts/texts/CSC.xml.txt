@@ -1,0 +1,443 @@
+
+
+X/OPEN SETS XPG4 — DEC AND ICL ‘WILL BE FIRST TO BRAND’ MICROSOFT ‘PLANS CONFORMANCE’FOR WINDOWS NT
+X/Open Co Ltd has wheeled out the latest release of its XPG portability guide — version 4 — with president, Geoff Morris, claiming that end users have now procured some $7bn of systems and software based upon its open systems standards, and that over 500 branded products are now on offer from 50 or more suppliers.
+Alongside the introduction of the widely previewed XPG4, X/Open, based in Reading, Berkshire, also introduced three new tiers of membership to its organisation, which in theory will allow software and hardware suppliers — but more importantly, users — a greater say in its future technology specifications.
+The new categories may also resolve the problem of how to accommodate other industry bodies and organisations like the Open Software Foundation within its ranks, though there remain some formidable political obstacles in the way of OSF and X/Open resuming their relationship.
+If, over the last five years X/Open has been providing specifications for ‘open systems plumbing,’ bridging the gap between vendor products and user requirements, the introduction of XPG4, X/Open hopes, will see it re-cast as a ‘standards integrator.’
+The group aims to provide a kind of one-stop shop for standards and specifications in a buyer's marketplace, which it believes is replacing the vendor-dominated open systems space of the last few years.
+X/Open chief technical officer, Mike Lambert, went so far as to describe XPG4 as ‘a new direction for open systems.’
+Sources say that DEC and ICL plc will be the first to announce XPG4-branded operating systems — respectively OpenVMS and OpenVME — which may be as soon as the end of this month.
+The costs of moving from XPG3 to XPG4 at the kernel level is put at around $5m.
+Meanwhile, other sources say Microsoft Corp, which only a matter of weeks ago denied that its Windows NT offering would undergo XPG3 branding (UX No 403), is now also committed to gaining an XPG3 shield to take into its upcoming battle with Unix.
+Indeed at the launch of XPG4, Morris said he ‘couldn't imagine how Bill Gates can grow Microsoft without converging on international standards.’
+Others queuing to re-submit proprietary system software technologies for XPG3 branding apparently include Hewlett-Packard Co with MPE, Apple Computer Inc for System 7 and Tandem Computers Inc with Guardian.
+Other support for XPG4 came from Amdahl Corp, DEC, Santa Cruz Operation Inc — which says it will deliver an XPG4 version of Open Desktop in the first quarter of next year — Mortice Kern Systems Inc, Sequent Computer Systems Inc, IBM Corp, Groupe Bull SA, HP and Uniplex Ltd — which also promised XPG4 compliance at the beginning of next year.
+More details, page four.
+SUN BRINGS A TOUCH OF SELF-AWARENESS TO SPRING
+Deep down in Aspen, Colorado, Sun Laboratories Inc's engineers are working on some object-oriented language and compiler technology called Self.
+The research project is under the guidance of Sun Labs boss Wayne Rosing and involves six staff engineers and a bunch of university students.
+The idea is to develop object-oriented compiler and language technology equal to currently available optimised C and C++ products.
+The name comes from the notion of creating self-aware objects.
+Self, needs a good deal more work but eventually elements will be migrated into the Sun operating system.
+Players in that market are already figuring that Self will be right up front amongst the crop of next-generation object technologies now moving off the drawing boards.
+Self falls under the auspices of Sun's project Spring, which, as originally reported back in March (UX No 377), is not a replacement for Sun's operating system, but a collection of object technologies which the company hopes it will be able to use to short circuit the evolution of Solaris and its software development environments.
+As those technologies filter into Solaris, the operating system will gradually turn into Spring.
+The common application programming interface that it and Hewlett-Packard Co worked on with Objectivity Inc, Ontos Inc, Object Design Inc and Versant Object Technology Inc, to allow developers to write programs that could utilise any object database — work that has been turned over to the Object Management Group — is a Spring technology (UX No 362).
+All of this comes under the umbrella of project DOE, Distributed Objects Everywhere, Sun's wide-ranging object technology collaboration with HP, which is a complete environment, and will be productised.
+By way of example, SunSoft last week picked up Burlington, Massachusetts-based Object Design Inc's Persistent Storage Manager Engine, an object store technology which will run on top of Solaris.
+The engine, similar to a file system, stores and retrieves objects, and will be integrated into DOE, where an interface for attaching third-party object databases will be added.
+Early DOE development kits featuring the engine are expected early next year.
+Under DOE, Sun is also expected to add OMG's Object Request Broker Architecture specification to Solaris around the same time — stuff like object adaptors and graphical user interface object facilities will follow thereafter.
+Under the surface, just how much of the Sun's object work is done in-house is apparently causing some consternation amongst some third party players who were under the impression that they'd be getting a bigger slice of the development cake.
+FIRST CHIP OFF THE BLOCK FROM IBM/MOTOROLA
+To mark the anniversary of the IBM Corp/Apple Computer Inc/Motorola Inc alliance one year ago (UX No 354), IBM and Motorola announced last week that they had completed the design and fabrication of their first complete PowerPC RISC chip.
+The PowerPC 601, which incorporates Motorola's 88110 bus architecture into IBM's design, has 2.8 million transistors crammed into a dimension of approximately four-tenths of an inch per side, and uses IBM's 0.6 micron CMOS process.
+It's intended for low-end machines and multiprocessors.
+Manufacturing is at IBM's Burlington, Vermont facility.
+The early completion could mean that products using the 601 could be out within the 12 to 18 month timeframe.
+Aside from IBM and Apple, Groupe Bull SA is working with IBM on multi-processing, and Thomson-CSF SA subsidiary CETIA SA, are planning to launch PowerPC systems.
+Proud of the rapid development time for the 601, the two companies are nevertheless rushing on to complete work on three other promised iterations of the part, now under development at IBM's Somerset plant in Austin, Texas.
+INTEL P6 NEXT YEAR?
+As part of its Micro 2000 vision — which will take its iAPX-86 family up to the end of the millennium (UX No 289)— Intel Corp is now openly talking about announcing the P6, yes, folks, the P6 at the end of next year, three quarters after it brings on the P5.
+The P7, the first 64-bit member of the iAPX-86 family, is scheduled for 1994–1995 aimed initially, it is understood, at the supercomputer market, followed thereafter by servers and workstations and finally commercial desktop machines.
+Between times there are two other little Intel numbers that have to be accounted for: the P54, which could be a P5 in 80486 clothing but we're not sure yet, and the P67, which looks to be a 1994 transition chip between the P6 and P7.
+Intel reportedly isn't sure yet whether the P67 will be an actual product or an OEM/ISV development platform for 64-bit software for the P7.
+Apparently the P67 will have 64-bit characteristics like a 64-bit EISA extension but really still be 32-bit silicon with 64-bit simulation.
+MAINFRAME BUSINESS BEARS BRUNT OF SWINGEING NEW IBM CUTS
+by Tim Palmer
+It appears that mainframe manufacturing and that of the chips that go into them will bear the brunt of the increase in voluntary redundancies and plant consolidations announced by IBM Corp last week — and Wall Street, which typically greets news of cuts as positive, is not at all happy with the latest round.
+Worries centre on what appears to be an acceptance by IBM that its mainframe business has slipped into irretrievable decline, and as that perception becomes widespread among users the decline can only accelerate as those that had planned to grow their mainframe installations pause and reconsider the options.
+The relative beneficiary should be IBM's mid-range but growing AS/400 business and to a lesser extent the RS/6000.
+The reaction on Wall Street was encapsulated in the fact that the shares lost a dollar and slumped as low as $80 even for a 10-year low in early trading on the day.
+In July the company had said that it then expected 32,000 people to take redundancy this year, up from the 20,000 forecast at the beginning of the year: now it says it expects 40,000 to go, 8000 of them in Europe — of which the UK share is 600, and 4,000 of them in Asia.
+The rate at which its expectations have been rising strongly suggests that by the end of the year, the figure will be even higher than 40,000, which is already 12% of the 344,000 with which it started the year.
+The peak was 407,000 in 1986.
+The news of the additional departures was accompanied by a new capacity-reduction programme focussed primarily on physical assets, such as equipment and buildings, with some employee relocations involved.
+The company is also taking a $415m hit for faster depreciation of software, which again underlines the deterioration in the company's perception of its mainframe business.
+IBM said that the cost of the actions will be approximately $2,100m net, on top of the $2,100m that it will take to cover the cost of the voluntary redundancies, the $4,200m total to be offset by adoption of Financial Accounting Standard 109(a), which will allow the company to write back to the profit and loss account about $1,900m in money set aside for deferred taxes.
+Including the capacity-reduction actions — which will primarily involve closing of buildings rather than abandonment of entire sites, IBM will have reduced its total manufacturing space by about 40% since 1985.
+The benefit of all this is estimated to be a saving on annual costs of about $4,000m beginning in 1993 — but all the cost-cutting that the company already has under its belt has done no more than enable it to stand still, which is why several analysts question whether even the latest cuts will prove sufficient.
+NEXT WAVES THE FLAG FOR NEXTSTEP OBJECTS WITH BIG ORDERS
+NeXT Computer Inc has been banging the drum for its forthcoming NeXTstep 486 object-oriented operating environment for 80486-based personal computers, reporting that Chrysler Financial, a wholly owned subsidiary of Chrysler Corp, will buy 2,500 copies of NeXTstep 486.
+NeXT characterises the deal as ‘the largest-ever single commitment to object-oriented software’.
+The Southfield, Michigan-based company Chrysler Financial will use NeXTstep 486 in a client-server environment to support its 100-branch organisation.
+The company's first application developed with NeXTstep will be for retail autofinancing.
+NeXT says it also has a $3m contract for 400 NeXTstation computers over the next 18 months from Mobil Oil Corp's Mobil Sales & Supply Corp, which wants them to serve as traders' workstations.
+And McCaw Cellular Communications Inc, Kirkland, Washington, has signed a contract for NeXT hardware and services to be used to develop and deploy custom applications throughout the company, with a tentative commitment for ‘several thousand’ NeXTs over five years.
+SUNGATE UPDATE: WHAT WERE OSF's REASONS?
+Why, we've been asked, did the Open Software Foundation put out that press release about Sun Microsystems Inc funding the Addamax Inc anti-trust action against OSF, HP and DEC (UX No 404)?
+Well frankly we don't know.
+It didn't win it any friends in the Sun Microsystems Inc camp, where they could stand a few friends.
+It made at least one of their co-defendants uncomfortable and risked ticking off the judge by appearing to play fast and loose with the legal system.
+One is forced to ask what OSF had to gain and wonders if it wasn't some kind of supralegal manoeuvre to put pressure on Addamax and Sun because they've got something on the OSF contingent.
+But how can you pressure Sun when it's locked in with what the judge himself considers an irrevocable letter of credit to cover the legal bills if Addamax loses?
+It was that very irrevocability that caused him to lift his own confidentiality order leading to OSF spilling the beans.
+He apparently reckoned any pressure wouldn't be effective.
+The OSF press release and its mock shock horror surprise also doesn't allow for the fact that Addamax voluntarily revealed Sun's involvement to  defendants' counsel in October of 1991 and that OSF itself has known about it since at least May of this year.
+The point is that Sun's kind of sugar daddy is neither uncommon, illegal or even fattening.
+SUNPICS ‘WANTED NO PART OF ADOBE DEAL’
+Sources say SunPics was ‘dragged kicking and screaming’ into the brand new Sun Microsystems Inc and Adobe Computer Systems Inc alliance,(UX No 404), orchestrated by SunSoft Inc president Ed Zander, one of the first of the Sun mafia to come to grips with the slippery notion of standards — prodded no doubt by the coming onslaught of Microsoft Corp's Windows NT.
+Perhaps one of the reasons SunPics resisted the idea, other than the fact that it jeopardises the planet's whole raison d'etre, is that the deal was reportedly sprung on them a week before it was signed.
+It's obvious News is dead and NewsPrint is going the same way, though how long it takes remains to be seen.
+SunSoft is expected to have product ready by mid ‘93.
+SunPics, which still has to go over to SVR4, should take longer, say the second half of 1993.
+Sun got Adobe's source code in the deal, a reasonably rare  occurrence , but Adobe figures it'll get back a lot of implementation improvements.
+The pair also apparently worked out a new business model whose pricing is sensitive to the constraints placed on a software only company.
+OBJECTIVITY ADOPTS HP SOFTBENCH
+Objectivity Inc, Menlo Park, California, is going with Hewlett-Packard Co's SoftBench framework as its solution for integrating multiple applications into a single environment.
+The agreement follows Objectivity's shipment a year ago of the first ODBMS development environment to integrate HP's C++ SoftBench tools.
+Objectivity is the first company to license HP's generic framework for developing object-oriented apps.
+It has not been used outside of CASE before.
+Last summer HP decided to proliferate its SoftBench framework source code beyond CASE and stripped out the CASE-specific utilities, getting down to a core communications technology known as the Broadcast Message Server which can coordinate messages among different software applications in a common environment.
+PROGRESS EXPECTS FIRST PRODUCTS BY Q1
+Bedford, Massachusetts-based Progress Software Corp says the first products from its collaboration with Object Design Inc, Burlington, Massachusetts, will be available at the beginning of 1993.
+Although Oracle and Ingres have declared a commitment to object oriented technology, especially in the database market, Progress is more sceptical.
+John Wark, vice president of marketing, believes the future of the market lies in the merging of relational and object oriented techniques: ‘the move from relational to object oriented would be more of a sideways move than from hierarchical to relational.
+Relational will not just be phased out.
+Oracle will be delivering products when the market does not need them.
+People are hardly beating down the door’.
+Version 7 of the Progress Application Environment will be available before the middle of 1993.
+Although 70% of the company's revenue was from Unix in the last fiscal year, Progress defended its support of the AS/400: IBM is refocusing it as an open platform and database server which means it can be combined with Unix, commented Wark.
+The Progress/400 Server is now shipping with tools to follow in three months.
+MASPAR DEBUTS SECOND GENERATION MASSIVELY PARALLEL SYSTEM
+Sunnyvale, California-based MasPar Computer Corp will this week debut its second generation massively parallel system, the MP-2, claiming it delivers up to five times the performance of its existing MP-1.
+The MP-2 comes with from 1,000 to 16,000 of MasPar's ‘32 by 32’ custom RISC chips — that's 32-bit RISCs packaged 32 to a chip each using 0.8 watts of power and rated at 133 MIPS.
+Overall system performance runs to 68,000 MIPS and 6.3 GFLOPS (in 32-bit mode) or 2.4 GFLOPS (in 64-bit operation).
+Like the MP-1, the air-cooled MP-2 is front-ended by DEC's MIPS-based RISC/Ultrix workstations, and is priced from $260,000 to $1.6m, available in five configurations.
+The 14-month old MP-1 is reduced a further 32% in price to $75,000.
+MasPar says some 130 MP-1s are now installed — the systems have clocked an average 8,000 hours between failures.
+A typical MP-1 site would have a 5,000 CPU setup, costing between $300,000 and $400,000.
+DEC has extended its OEM agreement with MasPar to cover the MP-2.
+PYRAMID TO DELIVER ES LINE ON 13th
+Pyramid Technology Corp will unveil its latest generation of commercial multi-processing RISC-based servers on the 13th of this month in the US — the 15th in the UK.
+The ES family follows the company's series T and S machines, and ships initially with up to 24 MIPS Technologies Inc R3000 RISC processors (UX No 393).
+Ing C Olivetti & Co SpA, a Pyramid OEM partner, has already stolen some of the Mountain View, California-based company's thunder by previewing the things at its annual fair back in May (UX No 386).
+The ES servers double the capacity of the previous top-end MIServer which came with 12 CPUs.
+The company will move to MIPS' latest R4000 technology over time and claims a performance rating of 659 TPC-A for the 24-way ES running Oracle version 7.
+HEWLETT-PACKARD LICENSES CICS/6000 FROM IBM
+IBM Corp is to license a version of its CICS/6000 CICS overlay for the Encina transaction processing monitor to Hewlett-Packard Co, which says it will offer it on its HP9000 Precision Architecture RISC-based Unix machines — but conversion of the IBM product will not be a simple task — it won't be ready to ship until the second half of 1993.
+The deal is a considerable win for CICS users who have been locked into IBM platforms.
+HP and IBM are promising full peer-to-peer interoperability between their boxes and will be co-marketing.
+HP will able to extend it.
+IBM meanwhile is looking for other vendor customers and is working with the Open Software Foundation to see how CICS fits in with DCE.
+…
+BUYS LEASAMETRIC IN FRANCE AND GERMANY
+Hewlett-Packard Co has bought the French and German subsidiaries of Leasametric, which leases personal computers, workstations and test instruments, according to La Tribune de l'Expansion.
+The French subsidiary is doing about $17.8m a year and the two subsidiaries claim about 5,000 customers in Europe, who lease equipment for periods of from one week to three years.
+The two organisations, which Hewlett-Packard says will continue to market and finance multi-vendor equipment, are to be integrated into its finance and remarketing division.
+CA SNAPS UP GLOCKENSPIEL
+Computer Associates International Inc has just about run out of available US software products companies to snap up, and now it has crossed the Atlantic, making landfall in Dublin, where it has bought the assets of C++ object-oriented C specialist Glockenspiel Ltd.
+It says it plans to embed Glockenspiel Common View class library technology into its Aspen project to provide portable application development across Windows, OS/2 and Motif — Aspen will produce an object-oriented, graphical user interface-based, high performance compiler for CA-Clipper, CA-dBFast and other dBase-compatible languages.
+The purchase price was not disclosed but all Glockenspiel employees have been retained and the Islandia, New York company will also market CommonView and Glockenspiel C++ compiler as separate products through a worldwide distribution network.
+Development continues in Ireland.
+ICL WILL TAKES VIKING ORDERS FROM THE END OF OCTOBER
+ICL plc says it will begin taking orders for its Texas Instruments Inc SuperSparc-based DRS6000s from the end of this month, with deliveries — despite the well-documented chip famine — still scheduled for year-end.
+The things are still in-house only, with no beta sites as yet, according to the firm.
+Prices have yet to be set.
+ICL says sales of the new boxes — a two-processor model 460 and four CPU 764 — will kick into its predicted sales of 2,850 DRS6000 systems this year.
+Orders to the end of August stood at 1,423: 708 in the UK, 325 in Europe and 390 elsewhere — whilst the total number of DRS6000 installations will stand at 6,000 by the end of the year, according to the company.
+WEITEK ‘HAS UPGRADABLE SPARC’
+The Microprocessor Report says ‘Weitek is rumoured to be working on a new Sparc processor that would extend the chip-level upgrade concept to workstations.
+By putting a faster CPU core and some on-chip cache in the same package as the processors used in Sun's Sparcstation 1 and Sparcstation 2 lines, Weitek potentially could sell an upgrade chip to most owners of today's Sparc-based systems.’
+There's no telling how significant an upgrade we're talking about here but the idea sounds nifty and Weitek has to redeem its Sparc investment somehow.
+Sun is reportedly not in cahoots.
+HEWLETT-PACKARD ADDS 742rt, HP-RT OPERATING SYSTEM, HARD HAT 700s
+Hewlett-Packard Co has put a hard hat onto its HP Apollo 9000 Series 700 workstations and brought out a new Posix-compliant HP-RT 1.0 real-time operating system for them for factory-floor and control applications.
+The new HP 9000 Models 745i and 747i industrial workstations and HP 9000 Model 742rt board computer systems are based on the 50MHz version of the Precision Architecture 7100 RISC.
+All are targeted at the manufacturing, aerospace, telecommunications and commercial-electronics industries.
+They come in standard rack-mount configurations and offer durable design and application-specific input-output capabilities for factory-floor and real-time control, including VMEbus, IEEE.488 and EISA.
+The HP 9000 Models 745i and 747i workstations run the HP-UX 9.0 Unix, and are compatible with the rest of Series 700.
+The HP 9000 Model 742rt board computer is a real-time system for HP-RT 1.0 and is compatible with Series 700 workstations and Series 800 servers for cross-development.
+HP-RT is based on Posix, the System V Interface Definition and Berkeley 4.3 Unix with fast deterministic response time and X-Window System and Motif user interface.
+It also supports TCP/IP, ARPA-Berkeley services and Network File System services.
+Complete integration of HP-RT and the SoftBench development environment is expected in 1993.
+Available now; the HP 745i starts at $13,390; the HP 747i at $15,990 and the HP 742rt at $8,000.
+The real-time board computer is presumably intended to supersede the company's HP1000 technical and industrial minis, though it doesn't say so.
+ICL SPINS OUT TRAINING OPERATIONS AS A WHOLLY-OWNED SUBSIDIARY CALLED PERITAS
+As from last week, ICL plc's Training Services division transformed itself into Peritas Ltd, a wholly-owned, but independent subsidiary.
+The move fits in with ICL's strategy, begun three years ago, of developing ‘arms-length’ businesses; basically setting up joint ventures and autonomous companies.
+The idea behind this policy was to try and expand the software and services side of ICL's business, which has now grown to £600m a year.
+However, it is the first time that ICL has split off part of its business to the extent of actually forming a new subsidiary.
+The former training division is an established one of some 25 years' standing.
+Training 40,000 delegates a year and with annual revenues of £20m, Peritas will henceforth be the UK's largest independent information technology training company, ICL claims.
+It is also said to be the largest UK supplier of Unix and open systems training, and ICL says it is the first company to receive accreditation from Unix International Inc for its portfolio of Unix courses.
+Obviously enough, it is to be Europe's largest ICL-specific trainer for both ICL staff and other members of the public too.
+According to the UK government, the total UK training market is worth some £33,000m, of which £400m is for information technology.
+X/OPEN ROUNDUP
+by William Fellows
+X/Open Co Ltd currently derives some 20% of its revenues from royalties: it wants that figure to rise to 100% within five years, though that doesn't mean the group won't have any paying shareholders by that time, because some organisations will always want to pay upfront for a participation and package of services, it believes.
+Last week it launched version 4 of the XPG portability guide and laid out some of its plans for the future.
+XPG4 — 22 components, 7 technologies
+Although a range of XPG4 specifications have been available for a while now, X/Open says the fact that vendors will bring XPG4-compliant products to to market as soon as the end of this month (see front page), demonstrates the measures it has taken to make the latest XPG release more flexible and structured.
+It says vendors took around eighteen months to bring out the first XPG3-branded products after its introduction.
+As well providing a more comprehensive set of guidelines for specifying open systems than XPG3, X/Open says the newly structured XPG4 is designed to make it easier for users to incorporate XPG requirements into their procurement policies.
+In its initial guise, XPG4 has 22 components — the smallest brandable entities in XPG4 — falling into seven  technology areas: operating system and languages, data management, user interface (X-Windows and terminal interfaces), general, mainframe and personal computer interworking and media formats.
+Each component is additionally defined — where appropriate — by attributes that specify its relationship to the human computer interface, interchange formats, portability, interfaces and communications protocols.
+Users can mix and match components for use in procurement processes.
+The first iteration of XPG4 comes with five profiles, to which others will be added: base, server, workstation, communication gateway and database.
+Each combines sets of components appropriate to those technology areas.
+A distributed computing profile will follow next year, based upon the Open Software Foundation's Distributed Computing Environment technology that X/Open recently endorsed.
+Prices for the profile specifications go from around $35 — £20 — to $400 — £225 — for combined sets.
+The complete set runs to some 7,500 pages and weighs a daunting 16Kg on paper, but will also be available on CD-ROM.
+XPG4 will be updated constantly over the next five years before the introduction of XPG5, which is expected, by that time, to  specify fully functional, object-oriented technology from the kernel level upwards.
+As well as specifications defined by its own workgroups, X/Open will adopt de jure and de facto standards from other organisations, vendors and consortia already doing relevant work including ISO, IEEE, the Object Management Group (objects), SPAG (interoperability), SQL Access Group (database access) and the Network Management Forum (Omnipoints distributed network management).
+Plans OLTP testing method
+In conjunction with the National Physical Laboratories, X/Open is also applying for funding under the UK Department of Trade and Industry's ‘Prost’ initiative (for testing open systems conformance), to develop a method for testing on-line transaction processing solutions.
+At the high level, X/Open already has its XA transaction processing interface but, at the nuts and bolts level, an evaluation mechanism needs to be established for the OLTP technologies now being productised.
+Indeed, with embryonic OLTP products like Unix System Labs's Tuxedo, Transarc Corp's Encina and now IBM's CICS/6000 already struggling for mind and market share, X/Open will be under pressure to avoid the problems that it faced — and to some extent still does — over the lack of a standard for graphical user interfaces, GUIs.
+The fact there was, and still is, no X/Open standard or specification guaranteeing interoperability for applications across different GUIs means that two of the most widely used interfaces — Sun Microsystems Inc's Open Look and the Open Software Foundation's Motif — fought a bitter war for market share and the support of the software developer community, leaving the user little recourse but to leap blindly for one or the other.
+In its defence, X/Open says it has already identified how and where OLTP products need to interface, though it doesn't specify them and wouldn't put a timeframe on when the first X/Open-branded OLTP product would be available.
+Technical and requirement members get voting rights, OSF membership ‘still a problem’
+The new tiers of membership, which  become available this month, are intended to add some teeth to the X/Open's existing system vendor, independent software vendor and user councils, described by X/Open chief technical officer Mike Lambert as pure ‘talking shops.’
+Now, each member at the Technical or Requirements level — be they shareholder, vendor, ISV or user — will get to cast a single vote in the respective workgroups.
+The new categories are intended to complement, not  supersede the councils, and to give participants the chance to influence future X/Open specifications.
+Technical membership has been created for suppliers, and costs from £3,000 to £15,000.
+The price of the ticket includes participation in one or more technology workgroups, input into X/Open specifications, the roadmap and Xtra Process.
+X/Open expects the likes of Sequent Computer Systems Inc and Tandem Computer Inc to take advantage of membership at this level to influence specifications, for example, on commercial  multi-processing and fault tolerance.
+Requirements membership, a means for users and X/Open customers to have their say in defining future requirements via another tier of working groups, costs £13,000 and includes participation in the Xtra workshops, X/Open's conferences and ‘access’ to the technical workgroups.
+An Affiliate membership will also be available to those concerned with following the  progress of specifications and getting early access to X/Open publications and guides, though no price was given.
+Shareholder dues remain at £350,000, which includes membership of one of the councils — £10,000 to others — participation in all working groups and a royalty waiver for using the X/Open brand.
+Technical membership, which carries a vote in the technology working groups, is touted as the most likely vehicle for X/Open to admit other industry groups and consortia.
+That includes the Open Software Foundation, which, having given up its board seat at the beginning of this year, currently has no formal relationship with X/Open, even though the standards body has endorsed its Distributed Computing Environment technology.
+Unix International, which, like OSF, says it can no longer afford the $1m annual cost of membership (UX No 404) will also be looking for a new role within the organisation come the end of 1992.
+There needs, however, to be a significant movement of political will before, in the first instance, OSF could be re-admitted to the fold.
+The fine print says that to become a technical member, the organisation or company in question must already be a member of one of the councils.
+Moreover, candidacy for technical membership has to be proposed and endorsed by council members.
+And here lies the rub.
+It appears that X/Open's ISV council has thus far been unwilling to admit OSF to its ranks — political reasons notwithstanding — because, X/Open president Geoff Morris says, that its members don't feel happy about granting OSF an X/Open ticket for a mere fraction of the price that it was originally paying.
+However, there are discussions with the ISV group underway — it's the only council category OSF is qualified to join.
+Morris says the ISV council ‘knows it is a problem.’
+Works with oilmen on POSC branding
+X/Open chief technical officer, Mike Lambert says X/Open says is also providing support for the Petrotechnical Open Software Corporation, which is trying to get its own POSC branding scheme off the ground with the aim of harmonising IT standards within the oil industry.
+POSC's open systems platform specification embraces XPG, as does MIA, Japanese giant NT&T's embryonic open systems architecture, to which X/Open is also providing support.
+CLARIFY CLAIMS BEST OF BREED IN SERVICE MANAGEMENT SOFTWARE
+Clarify Inc is the latest newcomer on the turnkey customer service management scene, a firm cut from the same cloth as ProActive Software Inc, Scopus Technology Inc and Aurum Software Inc, a noticeably popular fashion in start-ups this season.
+Clarify, however, is positioning itself against the others as the most ‘haute couture’ of the breed, the kind of house that could easily mushroom into a $100m enterprise in just a few years.
+The business is the brainchild of chief executive officer, David Stamm, a co-founder of Daisy Systems and the Intel Corp veteran who designed the first single-chip 8-bit microprocessor.
+With Stamm acting as chief engineer, the San Jose, California start-up has been readying its line for the last two years financed by a $3.5m first-round investment from venture capitalists Institutional Venture Partners, Matrix Partners and Menlo Ventures.
+Though it says it still has $1m in the bank, it is currently out for a second round, believed to be in the neighbourhood of $4.5m, which would make it the most heavily backed venture in the field.
+It ascribes that fact to the scarcity of potential $100m niches right now.
+With its packages yet to hit the street, Clarify figures its technology will cop the leadership position.
+It reckons its nearest competitor is AST, a successful pioneer whose big iron software is less appealing in these days of client/server machines.
+Lower down the totem pole is ProActive, the Roger Sippl start-up (UX No 394), whose offerings and style of market entry Clarify derides as ‘dribbleware.’
+Below ProActive are Scopus and then Aurum, each increasingly limited in expertise and scope.
+Clarify can immediately lay claim to the widest breath of platforms since it runs client/server fashion on PCs, Macs and Unix workstations supporting Windows, MacOS and Motif, all in native mode, along with Sybase.
+Oracle and other databases become available next year.
+Clarify is also more tightly focused than the rest, targeting the industry itself as its initial customer base pursuing hardware, software, networking, telecoms, test equipment and medical systems suppliers who desperately need to improve the homegrown support offered their customers (very often dependent on the ubiquitous yellow Post-It note) and realise this issue is increasingly becoming a vendor selection mechanism as well as a revenue generator.
+Eschewing a broad-based beta programme, Clarify went instead with only two sites, both willing to pay and give Clarify the kind of corporate  commitment needed to validate the concept.
+They are Silicon Graphics and Xyplex.
+Both are replacing minicomputer-based systems with Clarify's ClearSupport technical support management system, shipping this month.
+Next month Clarify will add its ClearQuality defect tracking system and in the first quarter ClearLogistics, a field service and inventory management system intended to support companies with hundreds of engineers, thousands of customer calls a week and millions of dollars of field service inventory.
+SGI, which Dataquest ranks as first in service among workstation vendors already, is also beta testing the latter.
+The user-tailorable technology offers workflow management and a proprietary knowledge-sharing case history-oriented Diagnostic Engine using keyword search and CASE-based reasoning for identifying and matching problems and solutions.
+It can be integrated with third-party finance and manufacturing systems.
+Clarify estimates its immediate universe at 331,000 seats and will be selling direct.
+A typical ClearSupport configuration averages $5,000 per concurrent user which includes the database licences.
+ClearQuality will average $4,000 per concurrent user.
+ClearLogistics has no price yet.
+QUME PORTS X-SERVER CODE TO AIX
+Qume Corp's Milpitas, California-based Qume Peripherals Inc is porting its QX15 ASCII/ANSI X-Windows terminal server code to AIX and has cut a strategic deal with IBM RS/6000 reseller Dickens Data to distribute the QX15 as the Dickens MAX-Terminal.
+Qume's architecture allows the server code to reside on the host, eliminating costly licence fees.
+Dickens denies it ever had a distribution deal to handle the X terminals promised by the troubled Athenix Corporation (UX No 403).
+Meanwhile, Qume added a new low-cost $480 QVT82 Unix Console display to its Series II line.
+The widget, covered by new free five-year warranty policy applying to all Series IIs, includes Wyse 60, ADDS A2 and PC Term emulation.
+SCO AND COMPAQ EDGE CLOSER
+The Santa Cruz Operation Inc is  sidling up even closer to Compaq Computer Corp, following the signing of a worldwide OEM agreement which will see Compaq putting all SCO products through its marketing channels for the first time.
+Although Compaq has long-favoured the SCO brand of Unix on its machines — the two have an existing joint integration agreement — resellers have always had to go to SCO for product.
+With the signing of the agreement it would appear Compaq has overcome the reservations it had about IXI Ltd's X.desktop manager — included in Open Desktop — which Compaq  steadfastly refused to accept as a part of ACE's Open Desktop offering: it preferred instead HP's Visual User Environment.
+Under the deal, initially two year, Compaq gets to distribute SCO's whole Unix product line, and will offer them on CD or tape.
+Compaq is also working on enhancements to SCO's multi-processing and networking stuff on the server side and will release enhancements at the beginning of next year.
+TEXAS HAS DELIVERED 20,000 VIKINGS
+Texas Instrument Inc's chest is all puffed out because it managed to make and deliver 20,000 Viking SuperSparc chips by the end of the third calendar quarter last week.
+What's going to surprise a lot of people is that the ‘vast majority,’ 80%, were 36MHz and 40MHz.
+Plans are to double the quantity in the fourth quarter.
+Of course the bulk of what TI produced has gone to Sun, something in excess of 80%.
+However, TI is very bullish on what it thinks it's going to be able to sell to the Far East and American Sparc cloners and reckons the ratio will change dramatically.
+Cloners outside the Sparc International Executive Committee have been able to place orders since August and get at least sample quantities, but they reportedly have had to wait the ‘industry average’ of fourteen to eighteen weeks to get volumes.
+The long-promised higher frequency Vikings that would go a ways to proving Sparc's scalability are supposed to be producible by the end of the fourth quarter or the first part of the new year, according to TI.
+But even TI isn't sure it'll have volumes or only samples by then.
+PALMER ‘PLANS MAJOR SHAKE-UP AT DEC’
+It seems that incoming president Robert Palmer intends to instigate sweeping changes at Digital Equipment Corp, with plans to cut costs by $1,000m and shake up sclerotic procedures in an effort to speed product development and delivery.
+The changes were outlined in a 14-point initiative distributed to top employees last week.
+As well as cutting costs by $1,000m, substantial further divestments are planned to reduce assets by another $1,000m.
+He also wants to rationalise the company's hardware engineering groups into a single unit, under a new vice president of engineering; put the separate networking products into one network communications group; disinvest on proprietary hardware and software; and follow the IBM Corp model by creating individual business units that have more autonomy.
+Palmer's first priority is to ‘reduce unnecessary expense’, and further staff cuts and scaling down of manufacturing facilities worldwide are expected.
+Palmer also mapped out DEC's plans to work more closely with its major partners Ing C Olivetti & Co and Microsoft Corp, as well as building up its systems integration side of its business.
+‘Our products are difficult to understand and sell,’ the New York Times quotes Palmer, ‘it is difficult for customers to do business with us.
+Overall, our business practices, processes, services and products are not competitive and are not satisfying our customers’ requirements.’
+AFTER A SHAKY START, RDI ‘GETS REAL’
+Sparc laptop house, San Diego, California-based, RDI Corp, is finally getting around to telling us that it's out of the kidding around stage and trying to become a real company.
+Its three founders are no longer connected with the firm and its new president Roy Wright, who reportedly came by his job complements of Sun president Scott McNealy, has a business plan that says, the company will grow from $10m to $100m — he also has plans to take RDI public.
+His first port of call after coming on board was to insure RDI's financing which meant going to the company's strategic partner, the Korean firm $380m-a-year TriGem Computer Corp.
+This was done in the early part of the summer and was just disclosed.
+The firms aren't saying how much is involved other than multi-millions, and TriGem now owns between 40% and 50% of the San Diego concern.
+Meanwhile, Wright has been transforming his management team, which has recently been completed with the additions of Reg Broughton from ICL, functioning as vice president of OEM sales and marketing and Carl Baldini, a founder of server start-up Enterprise Technology, as vice president of engineering.
+DATA LOGIC SPILLS THE BEANS ON CICS/6000
+by William Fellows
+Turns out IBM Corp is using Raytheon Co's UK software development and services  division , Data Logic Ltd, as the prime development partner on its AIX CICS/6000 and Encina on AIX/6000 products which were announced at Unix Expo last week (UX No 404), and are due next June and this December respectively.
+The Harrow, Middlesex-based firm has been responsible for designing, re-engineering, coding and implementing IBM's Customer Information Control System, CICS, on top of the Open Software Foundation's Distributed Computing Environment and Transarc Corp's Encina transaction processing services to run on RS/6000s under AIX Version 3.2.
+Much of the work is being carried out at IBM's UK Labs in Hursley Park, Hampshire.
+Despite its role, Data Logic hasn't shied from voicing some concerns over its employer's attitude to transaction processing-on-Unix, concerns lodged not on the technology side, but at IBM's marketing approach.
+Offering both a vanilla implementation of Encina as well as CICS on its RS/6000s offers users ‘more confusion than choice,’ Data Logic muses — though probably even more than that, given that IBM is also offering a different OLTP technology, Unix System Labs' Tuxedo under AIX on its ES/9000 mainframes (UX No 403).
+Offering Encina as a single OLTP environment offering on the RS/6000 would've been better, argues Data Logic, as 90% of Encina is in the CICS/6000 product in any case — CICS/6000 sits on top of the Encina toolkits — and only the monitor that is different.
+‘Whether you buy Encina or CICS/6000 for an RS/6000, you buy Encina,’ Data Logic observes.
+However, despite the commonality between the two, CICS/6000-to-Encina application programming interfaces, APIs, are not available.
+Although it is possible, according to Data Logic, to build OLTP systems that straddle the two technologies, you end up with software that may be interoperable, but won't be portable between the two.
+That said, in its work to bring CICS over to AIX, Data Logic has provided the capability for CICS/6000 to be migrated to other platforms, meaning that, at least in theory, IBM could make the the environment available for other vendors' machines, following the example set last week by Hewlett-Packard Co's announcement — see page three.
+CICS/Open anyone?
+This is the route that Data Logic thought IBM was originally treading, a CICS/Open strategy in which the OLTP environment, plus the wealth of CICS applications already available, could be brought to the open systems market which has only a handful of fledgling OLTP technologies to offer, and few software packages.
+‘There are no engineering obstructions to IBM putting it [CICS/6000]on other platforms’, Data Logic says.
+In addition, it believes Encina could have quite conceivably gone on to the ES/9000 mainframe instead of Tuxedo, but thinks IBM's deal with USL for that technology is effectively a spoiler for Amdahl Corp's Tuxedo TP system offering on its IBM-compatible Unix mainframes.
+Given the portability of CICS/6000, IBM could even have — or could still — offer CICS running over Tuxedo on its mainframe line.
+Encina already encompasses OSF's X/Open Co Ltd-endorsed DCE technology — USL will incorporate DCE into Tuxedo over time.
+Despite the fact that all of the currently available OLTP systems on offer come with proprietary APIs, each of the vendors is quietly pressing the X/Open standards body to adopt its particular TP methodology — see page four.
+Both Encina and Tuxedo could interoperate with CICS/600-based systems, though neither provide for a direct and easy migration route to it, according to Data Logic.
+That said, Tuxedo and Encina are aeons away from each other too, while CICS/6000 is at least an open systems migration route for standard CICS skills and applications.
+Race
+Without a CICS/Open product on the market, Data Logic casts the race for Unix-based OLTP solutions outside the IBM world as a Tuxedo versus Encina affair where ‘the market will decide whether they get pushed into interoperability.’
+The embryonic Encina, it believes, with far fewer users than Tuxedo, certainly has a lot more to do to win the mindshare it needs.
+Meanwhile, USL is setting up  infrastructures which will allow Tuxedo to interoperate with CICS-based systems and Unix International has, with Data Logic's help, published a guide for integrating Tuxedo with mainframe CICS (UX No 404).
+It's the same kind of impetus that is needed to allow Encina and CICS/6000 to work together, argues Data Logic.
+CICS/Open is certainly one of the double-edged swords IBM is currently wielding.
+Whilst a CICS/Open strategy would likely furnish it with a lead position in the Unix OLTP market by dint of the number of CICS applications available for it, CICS/Open could also open the way for traditional CICS users to move not only to Unix, but away from IBM hardware platforms altogether.
+However, Data Logic says it is more than willing to show how a CICS/Open port could be achieved, and is prepared to support companies willing to undertake the work.
+CICS/6000 is a good product, Data Logic argues, but falls down because it is now caught up in the world of IBM marketing strategy.
+Highlighting the client/server benefits of CICS/6000 would have made Data Logic feel better about Blue's intentions, but then the event at Unix Expo a couple of weeks ago (UX No 404), was owned by IBM's Personal Systems Division.
+IBM will probably have two sales teams, one peddling Encina, the other CICS/6000, but the main problem, Data Logic envisages, is one of kicking over statues.
+CICS has traditionally been a tool for selling IBM mainframes.
+To help CICS/6000 succeed, supporting software and application availability will have to become selling points, the firm believes.
+Doing its part, Data Logic says it will sell software and education services for the environment and help IBM market it through channels.
+Reliable queuing
+Data Logic is still working on the CICS/6000 port, which isn't due for another nine months, a project that is engaging around one third of its workforce.
+Meanwhile, the next challenge for OLTP technology is the management of distributed of OLTP systems, the company argues, because the emerging DCE and Distributed Management Environment-type technologies are aimed primarily at managing distributed systems of the conventional sort.
+The next generation of OLTP technologies now coming out of the labs are based upon reliable queuing mechanisms — messaging services which allow distributed OLTP systems to be linked together but which maintain the integrity of transactions.
+Transarc has a reliable queuing mechanism in the works — which like Encina, is being developed on DEC platforms — whilst USL has /q for underway for Tuxedo.
+USL, STERIA FORMALLY ANNOUNCE UNIX SYSTEM TECHNOLOGIES
+Unix System Laboratories and Steria SA, France's 15th largest software and systems integration company, have now announced their joint venture to establish Unix System Technologies SA, which will provide products and services tied to USL technologies (UX No 385).
+Michael De Fazio, USL's executive vice president, said the French subsidiary is the ‘first of what will be a number of Unix System Technologies throughout the world.
+By this time next year, we should have about 12 UST's operational worldwide.’
+That number would include between four to six operations in Europe, he added.
+De Fazio denied that USL has already set up a UST subsidiary in Australia, saying that ‘we've been negotiating, but nothing is finalised.’
+However, Roel Pieper, chief executive officer of USL, speaking at the AUUG'92 conference in Sydney two weeks ago, was enthusiastically doing the rounds talking to prospective candidates.
+Each of the UST operations are to be joint ventures with local Unix systems houses, with ownership split in favour of USL.
+Meanwhile in France, Robert Mitze, general director of USL Europe Ltd, said, ‘We're having other discussions with potential partners in Europe, but we haven't yet reached the point where we can announce them.’
+The initial joint venture with Steria, will be held 51% by USL and 49% by Steria.
+LETTER TO THE EDITOR: Why object-oriented programming is not the whole answer.
+In the 1980s, we thought we'd found salvation to our problems in artificial intelligence and expert systems.
+We were mistaken.
+In the 1990s, again we are jumping to a new technology — object-oriented programming — as the answer to developing and delivering quality software on time.
+We hear much about the supposed benefits of object-oriented technology: shorter product development times, easier maintenance, better portability, all purportedly resulting in better quality products.
+We've heard about object-oriented technology for 20 years, but it's only just now beginning to take hold.
+I question whether we've seen the results we expected.
+Perhaps we are too gullible.
+Perhaps we are reaching for object-oriented technology as our great-grandparents used to reach for the ‘cure-all’ medicines sold by the travelling salesmen of the 19th century.
+A closer look at the supposed benefits of object-oriented technology reveals that we still have a long way to go to realise them fully.
+Until we make the requirements of a system very clear upfront, building software for reuse, a key feature of the object-oriented approach, will fail to deliver the results we expect.
+Each object must have a clear identity.
+Each must have clearly defined product specifications so that resulting objects are well planned and appropriate for subsequent reuse.
+In addition, the process must also include determining from a business standpoint which C++ objects should be reusable.
+Building reusable code can take more time initially, so it has to make good business sense to invest the extra time on a particular object.
+To date, our Procase development team has rewritten several systems several times and has yet to achieve any significant reusable code.
+In discussions with companies across the United State, it appears we are not alone.
+We're still in the business of disposable code, that is, use once and throw it away.
+When I look at the results of other development efforts, I have also not seen improvements in cost of maintenance.
+I did not find any improvement in actual dollars spent on maintenance when I compared an object-oriented system written in 350,000 lines of C++ with a comparably complex product written in 1.25 million lines of C code.
+Finally, I have also not seen portability improvements as a result of using C++.
+Porting a 1.24 million-line C code CAE application to different machines and operating systems, including rewriting the graphics drivers, seems to have taken only about two to three man-months per port for development, and a few man-months to test before shipping.
+I've seen comparable cost per port and maintenance costs for an equivalent C++ application in spite of the theoretical portability benefits of C++.
+Programming in C++ does not impart object-oriented characteristics to the product naturally.
+Brian Gill-Price, Founder and vice president of research and development Procase Corp.
+DDE CLAIMS FIRST 50MHz R4000MP BOXES
+Copenhagen, Denmark-based, Dansk Data Electronik A/S, the parallel processing systems builder, has launched MIPS Technologies Inc R4000SC-based upgrade boards for its R3000 SuperMax machines.
+When it gets the parts, DDE claims it will be the first manufacturer to produce a multi-processing system based upon the 50Mhz R4000 — it's aiming for deliveries by year-end.
+The R4000 SuperMax comes in an eight CPU configuration and incorporates up to eight disk controllers, 20Gb disk and can support up to 1,000 workstations — prices start go from £30,000 to £300,000.
+All applications running on existing SuperMaxes will run on the R4000 systems.
+SuperMax is a loosely-coupled parallel arrangement, which, unlike tightly-coupled affairs, doesn't channel all transactions into the same memory space.
+This allows for linear power increments, depending on the number of CPU's configured in the system, says the firm.
+DDE is also reported to be working on a SuperMax system based on the multi-processing version of the R4000 for the beginning of next year.
+The next-generation MIPS R5000 and R10000 architectures will also likely be supported in future SuperMax releases.
+DDE, which is targeting the traditional mainframe market, claims to have 2,500 SuperMax sites in Europe.
+ONE YEAR ON AND CLARITY IS STRUGGLING
+Clarity Software Inc, the Mountain View, California-based company that when born promised to be the Unix version of Lotus Development Corp, is only limping along, a year after it first started shipping product.
+It has recently suffered its second round of layoffs, trimming staff to 15 from a high of 31 some months ago, so it can achieve profitability by the end of the fourth quarter.
+Sales in the product's first year of deliveries amounted to only $1m, a drop in the bucket for a firm that's been through two rounds of venture capital  totalling $7.5m provided by Aspen Partners, Menlo Ventures and Matrix.
+Clarity, which anticipated becoming that magical $100m company, has been criticized for putting in a $100m company's infrastructure complete with six vice presidents long before it could financially justify it.
+There are now only three.
+President Howard Smith maintains the problem has been one of long sales cycles by large accounts considering bulk purchases of up to two or three thousand units rather than the impulse buying originally anticipated by Clarity's business plan.
+Former insiders, however, say the problem's really a case of ‘sizzle without the steak.’
+As good as Clarity's base technology is, they say, the product lacks the basic features and functionality users need to solve their problems.
+Clarity is anticipating a major new release in the new year but according to Smith its emphasis doesn't seem to be added features but rather providing the means for customers to integrate Clarity with their other applications, or letting third parties do it.
+Some word processing functions will apparently be bucked up and international versions are due soon, including localizing it for the company's new exclusive Japanese distributor Sumisho Electronics.
+The company has consolidated sales and marketing as well as domestic and international activities and is expecting to announce a new sales and marketing executive soon.
+TOLERANCE OFFERS FAULT-TOLERANCE FOR PCs
+Tolerance Computer SA, Paris, has launched a range of fault tolerant plug-in boards for Unix-based Intel Corp 80486 systems.
+The Twinix kit comes with two boards, incorporating the company's own direct connect architecture (DCA), bus-to-bus high speed links and feature the Chorus Systemes SA Chorus/Mix Unix SVR4 microkernel.
+The board solutions offer automatic re-start and dual synchronisation facilities.
+According to the firm, Twinix's increased security and fault tolerance will allow an 80486 system to behave as a multi-processing box, offering linear power increases depending on the number of CPUs.
+The company is hoping to cash in on a niche — fault-tolerant personal computing — that has been largely overlooked by traditional players like Tandem Computer Inc and Stratus Computer Inc, by offering low cost PC-based fault-tolerant systems to the market.
+The company is targeting financial and medical markets.
+Twinix two-board kits will begin shipping by the end of the fourth quarter, priced at $10,000.
+Tolerance says a four board configuration based upon Intel's P5 CPU will be launched in the first quarter of 1993.
+The company, which was to have introduced a mid-range, 80486-based TC1000 series of fault-tolerant systems earlier this year (UX No 378), says they'll also be out in the first quarter of 1993.
+It attributed problems to setting up sales  channel , not technology.
+IDE ADDS OBJECT TOOLKIT
+San Francisco, California-based, Interactive Development Environments Inc, has introduced OOSD/C++, an object-oriented design toolkit for its Software-through-Pictures family of CASE tools.
+The company claims that for the first time C++ developers will be able to reuse existing non object-oriented applications, by re-engineering C and Cobol code into objects.
+Initially, OOSD/C++ is integrated with the ObjectCenter C++ programming environment and with the FrameMaker and Interleaf publishing systems.
+With re-useable C++ libraries and browsers, developers will be able to modify and extend software components from multiple libraries.
+OOSD/C++ also features a graphical editor that automates the object-oriented structure design notation for C++, as well as programmes for impact analysis and ensuring the consistency of diagram information.
+IDE also has a generator which produces C++ code for all programme objects including classes, templates and notations for data types.
+Out on Sun Microsystems Inc Sparcstations now, OOSD/C++ will be available on Hewlett-Packard Co's HP 9000 series 700 workstations by the fourth quarter.
+No prices given.
+MINIGRAMS
+DEC has decided to withdraw from exhibiting at the London Open Systems Show the first week in November, saying that it is worried about lack of support for the event.
+Others not exhibiting include Sun, Hewlett-Packard and the Santa Cruz Operation, although these companies will be involved in a series of vendor-led seminars.
+DEC had the prime position on the Show floor, a spot which has now been handed down to IBM.
+DEC says it will be attending the Open Forum show in Utrecht, later in November.
+Tadpole Technology plc, lost its chairman Bill Gilkes last week: George Grey, Tadpole chief executive officer and founder said a replacement will be named within 90 days.
+From this week, as part of SunSoft Inc's Solaris for X86 Early Access Programme, computer and software companies will receive Solaris for X86 on a single compact disk with a suite of development tools and documentation.
+SunSoft also demonstrated its multi-processing capabilities on a Compaq Computer Corp Systempro at Unix Expo.
+It also announced a new version of Interactive Unix and offered a trade-in promotion allowing Santa Cruz Operation Inc Xenix, Unix and Open Desktop users to switch to the new Interactive Unix at a 50% discount.
+Tsunami, the long-awaited low-cost/high-volume Sparc chip, has been officially re-christened MicroSparc in preparation for its debut Friday October 9.
+Producer Texas Instruments Inc, is expected to announce immediate availability and it's bound to show up in portables and X terminals down the road.
+But don't anticipate any hardware announcements this week.
+It's a chip only kind of thing.
+Following the collapse of Novell Inc's latest negotiation for a bigger piece of Unix System Labs, folks close to the fire are saying that Roel Pieper's outfit should decide one way or the other whether it wants to be a binary player or a research and development outfit (UX No 404), because it isn't big enough to be both.
+Last week, DEC picked Tuesday November 10 as the day for its Alpha launch.
+Reportedly, the list of things that could pop fills two pages single-spaced, a melange of hardware, software, services and ISV testimonials.
+However, as we went to press they were still sorting out what stays and what goes.
+Sun Microsystems Inc, is also looking over the November calendar trying to pick an appropriate date for a combined low-end Tsunami/high-end Sun Dragon rollout.
+Sun Dragon, the company's bow to mainframe-capacity servers, is expected to be initially available in configurations of two to twenty processors starting at $100,000.
+Apparently, Dragons will be buckled together two-by-two.
+Of course the Viking/Mbus-based Dragon needs Solaris 2.0 SMP — which is supposed to come out by the end of the year.
+Versions of Hewlett-Packard Co's Snake workstations based upon its latest PA 7100 are now due early November (UX No 397), reliable sources say.
+Unix System Laboratories has a new marketing programme it's calling Flood Gates that will see it knock on end-user doors on behalf of Destiny with OEMs in tow.
+It will also be passing leads on to OEMs.
+Another similar programme, christened Starship, as in approaching the Enterprise, will be put into effect for systems integrators and ISVs.
+The mobile93 conference and trade show is scheduled for the San Jose, Convention Center in California February 16–18, 1993.
+The conference portion is directed at the industry and investors as a step to standards.
+MIPS Technologies Inc refugee Chet Sylvestri, now over at Sun Microsystems Inc and responsible for putting Sparc over the top as an architecture, reckons a key step could be getting the otherwise anathema Windows NT operating system ported to the chip.
+Word from inside says the intent is there on both Microsoft Corp's and Sun's part.
+It will happen.
+How it happens is another matter, and apparently undecided.
+It could be a joint development or a pricey investment by a third party.
+There is talk, still unconfirmed but reasonable enough, that Sparc cloners anxious to finally turn their allegiance to profit are pushing for the port.
+Hewlett-Packard, on the other hand, has no intention of porting NT to its PA-RISC chip in the foreseeable future.
+It will take real customer demand to convince it to do otherwise, it says.
+There is an 88050 RISC chip already on the drawing board from Motorola Inc, say sources close to the company, who also continue to talk about convergence with the IBM Power family which Motorola are also collaborating on.
+Such a convergence would at least involve the surrounding software.
+Sounds like 88Open might have IBM and Apple high on its list for the 880pen testing technology its been touting of late (UX No 402).
+Sun Microsystems Inc planet SunPro, has licensed MetaWare Inc's iAPX-86 code generation technology for a new family of compilers called ProCompilers, to developing applications on Solaris-for-Intel: they are now available in the Solaris-for-Intel early access kit.
+Meanwhile, SunPro has made its ProWorks development environments available on the same early access kit.
+Sun is chuckling over a recent robbery in Silicon Valley: seems the thieves broke into a place and ripped off five Sun workstation, bypassing the new HP 700s and using a 705 as a door stop.
+Employees at Echo Logic Inc, the AT&T-owned start-up, which is making it possible for Apple Computer Inc to run Mac programs on PowerPCs (UX No 385), are reportedly negotiating with Mama to get a 20+% chunk of the company as sweat equity.
+Start-up Japanese consulting and systems integration firm, Open Technologies Corporation, run by the man who founded one of the country's largest Unix software developers, is going to be marketing and distributing Tenon Computer Systems Inc's Mach-for-Macs exclusively.
+It will be helping with localisation and pushing it on Apple Computer Inc's Power Book line.
+Although SunPro's Russian boffins are working on technology that will optimise the performance of Sparc compilers, allowing applications to run faster, it doesn't look like any of their developments will benefit SuperSparc users for some time.
+Under US export restrictions, only technology up to the Sparcstation 1+ level can be shipped out East, and although Sparcstation 2s will be allowed over ‘within a couple of months,’ there's no green light for Sun's superscalar boxes in the offing.
+Doesn't a single Unix source technology sound like a good idea?
+Apparently it does to others too, though they're finding a couple of monolithic organisations holding up the flow.
+A year ago at Unix Expo time we said IBM Corp was interested in moving AIX on to PC platforms other than its own to dispel its proprietary air (UX No 359): true to the promise, Blue turned up at this year's Expo with AIX PS/2 Version 1.3 supporting non-Micro Channel boxes and running on Dell Computer Corp, AST Research Inc and Compaq Computer Corp.
+Reportedly, there are still other platforms in the IBM labs.
+It plans to move the stuff through distribution points such as Dickens Data Corp and MicroAge Inc, priced at $714 for one to sixteen users.

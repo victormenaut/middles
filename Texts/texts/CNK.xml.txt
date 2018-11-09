@@ -1,0 +1,255 @@
+
+
+WANG, HEWLETT IN UNIX HARDWARE-IMAGE SOFTWARE TIE
+In what looks like a remarkable commentary on the nature of its agreement with IBM Corp for the RS/6000, Wang Laboratories Inc is to market Hewlett Packard Co's Unix machines under a deal announced yesterday.
+Wang is re-writing its imaging and office integration software to run on the HP 9000 Series 800 business servers, and in a technology swap, Hewlett-Packard will be reselling this software to its own customers.
+Hewlett says that it expects the pact to generate around $100m of sales over three years.
+There have already been suggestions that Wang's deal with IBM to sell the RS/6000 has not lived up to expectations — in June 1991 IBM took a stake in the financially troubled company, in return for which Wang agreed to sell the AS/400 and RS/6000 machines (CI No 1,697), but late last year said that it would not be adding to its stake as it had the right to do under terms of the agreement.
+Yesterday Wang UK's Freddie Cook admitted that RS/6000 sales were initially slow, adding that demand was now picking up nicely.
+The poor start, he suggested, was partly due to a dearth of applications for IBM's AIX Unix implementation.
+Cook characterises Hewlett-Packard's Unix as being closer to standard Unix than IBM's and the company's boast of being the worlds largest supplier of Unix systems is an obvious attraction.
+Hewlett will be actively selling Wang's Open/Image, Pace for Open Systems; Open/Office and Cobol Resource software to its own customers, where IBM took nothing.
+Cook said that IBM was aware of the announcement and is relaxed about the deal, despite its potential to diminish Wang RS/6000 sales.
+Wang Laboratories says it plans to file its Chapter 11 reorganisation plan with the US Bankruptcy Court on March 16, promising then to reveal its ‘vision of the future.’
+SHARP TO MAKE ARM RISC AS NIPPON INVESTMENT BUYS INTO ADVANCED RISC
+Advanced RISC Machines Ltd, Cambridge, UK has licensed Apple Computer Inc's partner on the Newton personal digital assistant, Sharp Corp to to manufacture and market its ARM processors and associated products on a worldwide basis.
+Newton of course uses the ARM RISC.
+Advanced RISC has also won a new shareholder, Nippon Investment & Finance Co of Tokyo, which is putting up £650,000 for an undisclosed stake in the company alongside Acorn Computer Group Plc, Apple and VLSI Technology Inc.
+The cash will be used to support the newly-opened Tokyo office.
+NETWORK EQUIPMENT TECHNOLOGIES ABSORBS ADAPTIVE OFFSHOOT
+Network Equipment Technologies Inc, Redwood City, California is to buy the 20% of its Adaptive Corp affiliate that it does not already own for about $1.5m in cash and 600,000 new shares.
+It says it expects to incur a one-time charge of about $8.0m in its fiscal fourth quarter to March 31 to cover the extra costs and charges related to restructuring the integrated operations of the two firms.
+The local and wide area networking company says that it intends to merge Adaptive with its Network Applications Division, which is to focus on the development and manufacturing of local area network, internetworking and broadband products.
+OLIVETTI CONFIRMS THAT IT WILL TAKE EO COMMUNICATOR FOR EUROPE
+Ing C Olivetti & Co yesterday confirmed its rumoured alliance with Mountain View, California-based personal communicator developer Eo Inc,(CI No 2,061) which also has partnerships with AT&T Co in the US, and Matsushita Electrical Industrial Co and Marubeni Corp in Japan.
+Olivetti is to handle the European distribution for Eo's new Hobbit RISC-based EO 440 and 880 hand held personal communicators, which combine cellular telephone, facsimile, modem and Go Corp's pen computing technology.
+Olivetti will also adapt the communicators for the European market — for DECT and Groupe Speciale Mobile cellular networking compliance, for example.
+The new devices, currently under beta test in the US, will first ship to the UK in May.
+Prices have not been agreed as yet though US prices of $2,000 to $2,800 for the EO 440 and $3,000 to $3,300 for the EO 880 provide a hint on pricing.
+IBM's ADSTAR OFFERS 3.5″, 2.5″ DISKS, SERVER, OEM
+IBM Corp's AdStar storage systems business unit has extended its disk drive product line with five new models, and is also offering its Rios RISC-based network server as an OEM product.
+The new 0662 family is a line of 1.0Gb 1″ high, 3.5″ disk drives claimed to be the first anywhere to store 1Gb in a 1″ high unit using a second generation magneto-resistive head for areal density of 354M-bytes per square inch.
+It follows the company's 1.6″ high 0663, 250,000 of which were shipped last year according to IBM.
+The new one has three platters, and ship next quarter at $1,330 in evaluation quantities.
+The new 0632 is a line of double-density erasable optical disk drives that come in Models C2A, C2B, C2C, C2D and C2G and conform to the new ECMA standard 184.
+Designed for optical library and workstation environments, the 5.25″ drive provides up to 1.3Gb of removable storage and is downward-compatible with 650Mb media; samples are out now at $2,950.
+The company also added low cost 133Mb, 171Mb, 256Mb and 342Mb 3.5″ drives at $240 for the smallest, $450 for the biggest.
+Evaluation units will be available in April for the AT interface model, and 3Q93 for the SCSI interface model.
+The company has expanded its 2.5″ line with 85Mb and 171Mb low-profile models with evaluation units available now at $275 and $375 respectively.
+And the new 7051 Power Network Dataserver high-performance, high-capacity Network File System server developed with the help of Auspex Systems Inc, Santa Clara, is offered as an OEM product from May.
+It is designed for workgroups requiring fast performance and large amounts of on-line data, and attaches up to eight Ethernet local area networks with storage capacities of 8Gb to 144Gb.
+It does over 2,000 input-output operations per second, three to five times better than the average Unix server, IBM says; it costs $170,000 with 28.8Gb disk.
+GLEAMS OF HOPE AMIDST THE THE GLOOM OVER GALWAY AFTER DEC's DEPARTURE
+Plants are closing all over Europe as recession deepens on the continent and particular industries make the painful adjustments to their own private new world orders, but the announcement that Digital Equipment Corp was to close its venerable 22-year-old manufacturing plant in Galway has drawn international attention that far exceeds anything generated by threatened closures such as the even more venerable truck plant that is almost the only employer in the Lancashire town of Leyland, and involved a threat to many more jobs.
+That played big in the UK press but caused scarcely a ripple beyond the shores of Britain.
+‘Galway's worst economic nightmare came true when US computer group Digital decided to close its manufacturing plant in this thriving city on Ireland's Atlantic coast,’ wrote Reuters reporter Paul Majendie.
+‘For the 780 workers to be thrown out of their jobs by a global business giant grappling with international recession, it was the death of a dream.
+‘This is undoubtedly Galway's darkest hour,’ said Mayor Padraig McCormack as the city looked like being transformed into an economic blackspot.
+Almost a quarter of Galway's manufacturing workforce are being put out of a job and local business leaders say that up to 2,000 more could be made redundant by the ripple effect hitting Digital's contractors and suppliers.
+Cloying
+Economists estimate that Galway's unemployment rate will soar above its present level of 34% — already twice the national average.’
+Exactly the same could be said of Leyland — and indeed it was, in the British press.
+But this one played internationally: why?
+One of the reasons is clearly the cloying sentimentality with which all things Irish are viewed by so many Americans: DEC after all is a Boston company, and Boston has a large population that traces its roots back to Ireland.
+How could the company treat its own in such a shabby fashion?
+The outrage was piqued further by the fact that the final play-off was between Ireland and Britain, and sentimentality about a mythical Ireland — a sentiment that does no service to the modern industrial state that Ireland is striving to become — goes hand in hand with staunch anti-British feelings.
+The subtlety that when Irish people express their antipathy to the British, the real target of their hatred is the English, and that Ayr, the rival plant, is actually in Scotland, where a substantial proportion of the population feels just as strongly about the English as do surrogate Irish nationalists, was quite lost on the protesters across the water.
+From a wider perspective, the restless tides that govern world trade and industry make plant closures as well as new plant openings inevitable and healthy, and only the neanderthals that believe that it is management's function to provide jobs for life, and the workers' function to make management's life as hard as possible would argue otherwise.
+None of which is to say that Galway's anguish is not fully justified.
+‘Galway has been devastated.
+People are in shock.
+Digital was the backbone of Galway.
+You were set up for life with them,’ Olive Fitzgerald of the Samaritans, bracing for a flood of calls over the next few months on their telephone helpline, told Reuters' man.
+‘But the real reaction won't set in until the money becomes scarce.
+Where is the work?
+There just isn't any,’ she said.
+Brusquely
+Yet there have been any surprise at the decision, dismissed brusquely by DEC chief executive Robert Palmer with a curt ‘Nothing personal.
+It is simply a matter of business.’
+A glance at the map of Ireland immediately raises the question ‘Why was the plant there in the first place?’
+It's near the international airport at Shannon is the first thought that  springs to mind — but Galway isn't close to Shannon.
+Most of the high-tech inward investment in Ireland is concentrated around Dublin and in Cork, and it seems to have been remiss on the part of the Industrial 7Development Agency that having enticed DEC to Galway, it was not able to turn the town into a centre of high-tech inward investment so that if DEC — or others — pulled out, there was every chance of attracting new ones.
+After all, Wang Laboratories Inc and Prime Computer Inc are just two of a string of companies that have opened and later closed in the south of Ireland, but Amdahl Corp is still there, Intel Corp is investing heavily and expanding, 3Com Corp and Cabletron Systems Inc are among the new arrivals, and several other chipmakers are still doing assembly and Sun Microsystems Inc has just followed ICL Plc and Sema Group Plc in establishing software development operations in the Dublin area.
+And a handful of critics is beginning to wonder whether Ireland has not concentrated a little too hard on attracting inward investors at the expense of building a strong home-grown computer and electronics industry: after all, the policy of rallying all centres of higher education to turn out highly-skilled hardware and software engineers has been a great success, but shouldn't more of those people be working for Irish companies?
+After all, at the most basic level, Ireland should be a superb base for establishing a rock-bottom high volume personal computer manufacturing business that could knock spots off Tulip Computers NV with its lower costs and be challenging Elonex Plc and the tartan Americans led by Compaq Computer Corp and IBM Corp, not to mention Ireland's own foster-sons Dell Computer Corp in Limerick, and Apple Computer Inc in Cork.
+Nor are the prospects, even for Galway, as bad as they appear at the moment: workers reportedly wept openly in the Digital canteen when told their jobs were being phased out over the next 12 months, but the fear that most of the subcontractors that served DEC will have to close as well is not likely to be realised: where a company has a good relationship with a subcontractor, there are good reasons for maintaining that relationship even after a plant closes, and work should start flowing across the Irish Sea all the way to Galway from Scotland.
+Business leaders have moved into Galway to repair the damage with task forces to help create replacement jobs.
+The Bank of Ireland group has set up a special support unit to assist DEC employees eager to start their own businesses with their redundancy money.
+German worker
+And a much more substantial prospect is to be found in continental Europe, where the German worker is assiduously pricing himself out of the market — and far from the Ossies pricing themselves into jobs lost by the Wessies, the former East Germans are insisting on even more uneconomic wages in relation to their skills and capabilities.
+The deepening recession in Germany makes it more and more certain that German companies will have to transfer manufacturing overseas, and so long as the former Comecon countries remain outside the European Community, Ireland will be one of the most cost-effective places to site new plants.
+Things look very black for Galway today, but there is every reason to believe that even before DEC finally shutters its factory in about a year from now, a new tenant will be poised to move in and occupy it.
+MAJOR OPEN SYSTEMS SHAKE-UP AT BUNDESPOST TELEKOM TO COLLAPSE 36 GERMAN DATA CENTRES INTO SIX
+By 1995, Deutsche Bundespost Telekom intends a root-and-branch reorganisation of its data processing activities, by consolidating its 36 existing computer centres into six, and condensing its 45 applications development centres down to five.
+According to Computerwoche, Telekom also aims to provide its 100,000 computer users with standardised operating systems, databases, development methods, and network products.
+Although each of the 11 new operational units will be organisationally independent, they will, nonetheless, be directly answerable to Telekom's general management.
+The first development centre has already opened in Darmstadt.
+A second is being set up in Berlin, and three others are planned for the north, the Rhein-Ruhr area and the south west.
+Each will focus on its own area of specialisation.
+VL Info, the German post office union magazine, reported that Telekom will establish the strategic computer centres in Bamberg, Bielefeld, Goppingen, Kiel, Krefeld, and Magdeburg.
+Furthermore, Telekom is reportedly keen that its 108 existing data processing departments, including the 36 computer centres, provide local information processing services.
+But, it has given no indication of whether it intends to acquire or dispose of any data processing activities.
+According to Computerwoche, it will need to buy a standardised office communications system, however.
+While head of the Darmstadt development centre Jurgen Wegner would provide no further details, Siemens Nixdorf Informationssysteme AG is said to be one of the hot favourites to win the multimillion dollar contract.
+The deal would involve supplying the company with standardised data processing technology, and a network to link up all of its 100,000 users.
+Siemens Nixdorf has the edge because it is currently working closely with Telekom to develop the Ocis office communication software, which is already installed in several sites.
+PROTEON TAKES ON 3COM BOUNDARY ROUTER WITH INTEGRATED HUB FOR SMALL OUTPOSTS OF LARGE ORGANISATIONS
+Westborough, Massachusetts-based Proteon Inc continued its foray into smaller sites last week when it launched its Series Office BOSS Branch Office SolutionS integrated hub.
+The company is aiming squarely at the market targeted by 3Com Corp with its boundary router: small outposts of large organisations, which lack local network support.
+But Proteon has gone one stage further than 3Com by bundling both router and hub into a pre-configured chassis.
+The approach is essentially a cut-down version of its existing Series 90 — an eight-slot chassis that combines the company's DNX 300 router with Token Ring or Ethernet hub boards.
+The BOSS 90 cuts the eight slots to three — one router and two hub boards.
+The really innovative side to the new BOSS then, is the marketing strategy.
+Customers simply specify whether they want Token Ring, Ethernet or a combination of the two and the thing arrives in a single cardboard box.
+Fool-proof, says Proteon: the most complex part is configuring the DNX 300 router, which the company claims anyone can get up and running in under 15 minutes.
+The box costs £8,000 and runs the same multiprotocol routing software as its big brothers.
+At the product's launch, the company took time out to damn 3Com's boundary routing scheme with faint praise.
+Yes, 3Com is trying to solve the right problems, says Proteon, but no, it doesn't believe that 3Com will ever make the technology a widely implemented standard.
+The main accusation levelled against boundary routing is that the technology does not actually decrease overall complexity of the network, it merely shifts it from the periphery to the central hub.
+SIPPL SPELLS IT OUT TO UNIX CROWD — UNITE NOW OR THE END IS NIGH
+Informix Corp founder Roger Sippl went as a speaker to New Orleans to the Unix International members meeting last month to deliver a simple message.
+Wake up and smell the coffee, guys.
+There's no time left.
+The sand has run out of the hourglass.
+At best the Unix business has three more months to get its act together, maybe 12 months at the outside, before irreversible damage sets in.
+A few weeks later and he's not very hopeful.
+Microsoft Corp has the edge and the key Unix players continue to overestimate the power of their own strategies, which continue to lack the  homogeneity that the market wants.
+A case in point is the lingering issue of a consistent user interface — Sippl's advice to all of those that continue to nitpick over this is radically simple: ‘throw it all out,’ he counsels, ‘and go to the Macintosh.’
+IXI TO LAUNCH PANORAMA VIRTUAL WORKSPACE WINDOWING SYSTEM THAT EXTENDS BEYOND CONFINES OF THE MONITOR
+Now a UK division of the Santa Cruz Operation Inc, Cambridge-based IXI Ltd will launch latest desktop tool, Panorama, at next week's UniForum trade show in San Francisco.
+IXI describes the software as a virtual workspace — the product enables users to operate and work in a windowing environment that extends well beyond the physical space constraint of their monitor, as if they were sitting at a huge screen.
+Panorama will enable users to keep windows open and processes going off-screen that would otherwise have to be closed down for lack of space.
+Effectively an OSF/Motif window manager, Panorama provides a map of the entire system similar to location grids used in many video games.
+The difference is that the IXI map is interactive — the user can go to any part of the system by pointing and clicking at a required position on the map.
+Panorama also employs the concept of ‘sticky’ windows; windows that are dragged around with user wherever he or she moves in the system.
+This feature is intended for users that depend on constant information feeds, such as financial trading houses, IXI says.
+Panorama is available from April on Sun Microsystems Inc workstations running Motif.
+Digital Equipment Corp Alpha and R, Hewlett-Packard Co Precision Architecture RISC and IBM Corp RS/6000 versions will follow, with an Santa Cruz Open Desktop version due for Open Desktop 3.0 later this year.
+IXI's X.desktop manager is not required to run Panorama; Motif is.
+Pricing hasn't been finalised, but the firm says it shouldn't be much more than the cost of the Motif implementations it supplies.
+A section of the US military has already signed for Panorama, according to IXI, and will run the software on some 400 small screen Sparc laptops it has.
+ELECTRONIC DATA SYSTEMS CLOSE TO $100m BUY IN ITALY, AND IS LOOKING IN FRANCE
+Electronic Data Systems Corp is ‘very close’ to acquiring an Italian software and information services company with revenues in excess of $100m, said Robert McCashin, corporate vice-president and director for EDS Southern Europe, in an interview.
+The aim is to expand its business in Italy this year four- or five-fold, he said.
+‘Through one acquisition or a combination of acquisitions, I would like to be in excess of $100m in revenue in Italy when we go into next year, but that will only happen if we find the right match.
+The company we are very close with is in excess of $100m,’ McCashin said.
+‘But we are looking at others too; there are lots of candidates out there and we need to conclude something this year.’
+Although no exact figures on EDS' Italian revenues in 1992 were available, an EDS spokesman estimated them to be $20m, most of which are General Motors Corp-related.
+While Finsiel SpA, Italy's leading software and services company whose business depends heavily on the Italian government, is much larger than $100m, it could be a candidate, McCashin acknowledged.
+‘If the government is going more and more toward privatisation,[acquiring Finsiel]shouldn't be a problem,’ he noted.
+Finsiel reported 1991 revenues of $1,020m.
+McCashin, who is relocating to Europe as part of last November's corporate reorganisation that placed three vice-presidents in charge of European operations, says he is authorised to spend up to $10m without consulting the company's finance committee.
+1993 could hold several acquisitions for EDS Europe, as Jacques Tordjman, president of EDS-GFI, EDS's French subsidiary, said yesterday that EDS-GFI intends to ‘relaunch’ its acquisitions activity in France this year.
+It wants to be among the top three software-systems integration houses in France by the end of 1994, where it is among the top five today, Tordjman said.
+In reporting EDS-GFI's 1992 revenues of $342m, 25% of EDS's European business of $1,370m, Tordjman indicated the company is particularly interested in acquiring telecommunications expertise.
+‘Our clients are asking more and more for us to integrate their telecommunications infrastructure into their information systems,’ he noted.
+Facilities management
+Within the next five years, Tordjman said, EDS wants its European revenue to comprise one third of its total.
+He said the French subsidiary was profitable but declined to give a figure.
+‘It's not yet up to the standard of EDS, of 12% (of revenue) pre-tax, but we aim to get there within the next few years.
+For 1993, I think we will be able to increase net profit by three or four points,’ Tordjman said.
+EDS-GFI's revenue was up 7.7%.
+He expects to sign a facilities management contract within a few weeks that is ‘bigger’ than the $53m seven-year contract it signed with Mory-TNTE in December.
+In total, EDS-GFI signed $150m of facilities contracts in 1992.
+‘Facilities management contracts in France are beginning to become contracts in which the client decides to hand over the complete information system,’ he noted.
+EDS/GFI's 1992 revenues derived 51% from facilities and systems management, up 7%, 32% from engineering and systems integration, up 6%, and 17% from software products, up 14%.
+Tordjman expects software products to grow faster this year than engineering and systems integration, but he would like to maintain the same division of revenue for the next few years.
+By industrial sector, EDS/GFI earns most of its revenue from manufacturing (39%), followed by distribution (23%), banking and finance (21%), energy (10%) and public administration (7%).
+While EDS/GFI boasts expertise in six different hardware environments — IBM Corp, Digital Equipment Corp, Hewlett-Packard Co, Compagnie des Machines Bull SA, Unisys Corp and Tandem Computers Inc, 58% of its revenue comes from contracts involving IBM systems.
+Tordjman noted that 9% of business came from IBM AS/400 systems, up from nothing only a couple of years ago.
+Work on Bull kit comprised 23% of revenues, followed by 10% for DEC-HP-Unisys-Tandem systems, 9% for open systems —‘heterogeneous, usually Unix-based.’
+SHARE & BOND ISSUES
+Bell Atlantic Corp's New Jersey Bell Telephone Co, will on April 7 redeem its outstanding 40-year 8.75% debentures due June 1 2018 at 103.59% of principal amount plus accrued interest, it said.
+MCI Communications Corp says that on April 1, it intends to call for redemption $148m of its 10% subordinated debentures due April 1 2011, at 108% of the principal amount.
+The redemption will be funded using cash from operations and earnings in the quarter ended December 31 1992 and the company says it intends further redemptions of the 10% debentures throughout 1993 — after April 1, some $427m of the 10% debt will remain outstanding.
+Software Etc Stores Inc, Edina, Minnesota filed with the Securities & Exchange Commission for an initial public offering of up to 800,000 common shares, all new at a target price of $15.50 a share and says it wants the $12m or so net proceeds to finance expansion.
+Managing underwriters are Robertson, Stephens & Co and Montgomery Securities.
+3DO Inc, the San Mateo, California start-up that revealed its licensable standard for a multimedia system of the future last month and has specified the Advanced RISC Machines Ltd RISC as the core of the Interactive Multiplayer (CI No 2,082), wants to capitalise on the excitement generated by making an initial public offering of about 2.5m shares at between $10 and $12 a time to raise $30m or so; 3DO and its chief executive, Trip Hawkins, have already raised some $20m from from partners including Matsushita Electric Industrial Co, its MCA Inc, Time Warner Inc, AT&T Co, Electronic Arts Inc and Kleiner Perkins Caufield & Byers. 3DO has signed Morgan Stanley & Co, but the prospectus is not out.
+CREDIT RATINGS
+Martin Marietta Corp has damaged its credit rating with Standard & Poor's Corp with its decision to buy General Electric Co's aerospace unit for about $3,050m, most of it in the form of new debt: the agency cut its rating on the senior debt to single-A from single-A-plus, and affirmed its A-1 commercial paper rating.
+The ratings outlook is stable.
+COMPANY RESULTS
+Dell Computer Corp has reported that fourth quarter net profits soared 102.9% at $31.3m on turnover that leaped 117.1% at $620.3m; net profit for the year to was up 99.6% at $101.6m on turnover up 126.3% to $2,014m.
+Net earnings per share rose 88% to $0.77 in the quarter, 85% to $2.59 in the year.
+Information International Inc saw third quarter net losses of $2.6m up from losses of $459,487 last time, on turnover down 16.5% at $5.2m; net losses for the nine months stood at $3.7m up from losses of $2.6m last time, on turnover up 25.7% to $20.1m.
+Lam Research Corp has reported second quarter net profits up 71% at $4m, on turnover up 42.5% at $59.4m; mid-term net rose 61.1% to $7.1m, on sales up 33.8% at $108.5m.
+Net per share rose 38.9% to $0.25 in the quarter, 28.6% to $0.45 in the half.
+System Industries Inc has reported a second quarter net loss of $890,000, down from a loss last time of $1.7m, on turnover that crashed 26.3% at $13.0m; the mid-term net loss was $2.0m, down from a loss last time of $4.7m on turnover down 19.2% at $26.9m.
+MR Data Management Group Plc, formerly Microfilm Reprographics, has reported net profits for the six months to December 31 up 6.9% at £2.7m on turnover up 14.0% at £18.6m; pre-tax profits rose 5.5% at £4.0m.
+Earnings per share rose 7% to 4.89 pence.
+WALL STREET FIRMS UP FIRST QUARTER IBM FORECASTS
+Wall Street is beginning to firm up its  forecasts for IBM Corp's first quarter figures, with the consensus at around 20 cents a share and the more bearish going for 50 cents — but if Technology News of America's straw poll of the market around the US and Europe is anywhere near right, the loss is going to be a whole lot worse than that: the returns suggest that the company will have sold at best between 25 and 30 mainframes this quarter, where the Wall Street forecasts assume it did nearer 50 machines.
+GRADUATE EMPLOYMENT HIT IN JAPAN NOW
+Japan turns out a vast number of graduates every year, but it begins to look as if the unthinkable in Tokyo, graduate unemployment, is about to become a serious problem: Fujitsu Ltd says it plans to slash the number of new hirings next spring to less than a seventh of this year's figure — just 300 engineers, and, for the first year since its founding in 1935, will take on no staff in its sales and administrative departments; it will add 2,200 new staff to its 52,000 base this year compared with 3,000 in 1992 and nearly 4,000 in 1991.
+DELL FINANCES
+Commenting on its fiscal 1993 figures, which saw the company soar through the $2,000m sales mark for the year (see page five) Dell Computer Corp said cash and investments totalled $95m at January 31, down from $155m at the beginning of the fiscal year, but the company added a new $200m revolving line of credit with nine multinational banks; it invested $47m in capital expenditures over the course of the year, primarily in telecommunications, facilities expansion and systems.
+EVERYTHING COMING UP ROSES AT GATEWAY 2000
+North Sioux City, South Dakota-based Gateway 2000 Inc reports net sales the year to January 31 were $1,100m, up about 76% on the 1991 figure; pre-tax profit was up some 77% to $106m, the company said, adding that it expanded its workforce 43% to 1,847 in 1992 and intends to hire more people and to expand its product line and geographic reach.
+HITACHI DENSHI TO MARKET HARRIS NIGHT HAWK SYSTEMS
+Fort Lauderdale, Florida-based Harris Corp reports that Hitachi Denshi Ltd has signed to market Harris Night Hawk 4000- and 5000-series systems in Japan integrated into a range of simulation applications, and the Advanced Electronics Products Division of Hitachi Denshi has sealed the deal by buying a Night Hawk 4400S and 4800 to develop and integrate visual systems for flight and driving simulators.
+SIEMENS AG DISPUTE SENSITIVE ARTICLE
+Siemens AG is disputing a politically-sensitive article carried in The Wall Street Journal Europe on February 16, which claims that, for the first time, a top Siemens manager, Heinrich von Pierer, said he was looking for a strategic partner for ailing Siemens Nixdorf Informationssysteme AG (CI No 2,117): Pierer allegedly stated that he was not interested in a ‘one-sided partnership’, rather in one that involved ‘real co-operation’; according to Computerwoche, Siemens denied any claim that it was seeking shelter for Siemens Nixdorf under the umbrella of Japanese or US competitors, ‘like the other three European computer firms’; the Journal's London office says the paper is sticking by its story.
+PARIS LAUNCH FOR ICL PERSONAL COMPUTERS
+ICL Plc chose Paris for the launch of what it called its biggest ever collection of personal computers and related products yesterday: the new ErgoLite desktops and notebooks and Ergo-Pro notebook to ErgoView terminals which come with a variety of ‘personalities’ or emulations — no prizes for guessing that the company is pushing the new product line's ergonomic design.
+WESTERN DIGITAL FILES PATENT INFRINGEMENT SUIT AGAINST CONNER PERIPHERALS
+Irvine, California-based Western Digital Corp has filed a patent infringement suit against Conner Peripherals Inc over a patent relating to intelligent disk drives — last year Conner and Alps Electric USA Ltd bought the patents of the bankrupt PrairieTek Corp and Western Digital said it expected Conner to sue it based on two of these PrairieTek patents and on two patents developed by Conner, and its own suit is a pre-emptive strike.
+MICROSOFT AND TIME WARNER TO EXPERIMENT WITH TWO-WAY TV
+Microsoft Corp chairman Bill Gates says he is working with Time Warner Inc to bring experimental two-way television to some 5,000 Florida homes by early 1994, the Orlando Sentinel reported, adding that the two companies are working toward making such two-way systems more user-friendly; Gates said that he studied several other experimental two-way television systems but chose the Orlando project because it seemed to offer the best interactive possibilities of ordering movies, making financial transactions and ‘creating a computer window into the world of information’.
+SPRINT COMPLETE CENTEL ACQUISITION
+Sprint Corp yesterday completed its acquisition of Centel Corp in a share exchange worth some $4,700m.
+OVERCROWDED LAN HUB AND ROUTER MARKET
+It is pretty clear that while big business is being done in local area network hubs and routers, the market is very overcrowded, and in those circumstances, the outcome is usually that the rich get richer and the poor get taken over or go bust: observers reckon that in that context, the richest of the rich is Cisco Systems Inc, Menlo Park, which did $340m in the year to last July and is estimated to have at least 45% of the market and maybe as much as 50%; Wellfleet Communications Inc is thought to be number two, with anything from 12% to 20%, with 3Com Corp third at around 10%, but in the hub sector alone, SynOptics Communications Inc is thought to have about 33% and Cabletron Systems Inc 15%, although the latter says the two are neck and neck.
+WORDPERFECT CHASES OBJECTS
+Orem, Utah-based WordPerfect Corp is chasing objects: it says WordPerfect Presentations 2.0 for Windows will support Object Linking and Embedding, the Twain image acquisition standard and direct CD-ROM sound; and it has done a deal with IBM Corp's IBM Programming Systems for a joint development agreement to provide users with consistent object interaction and data interoperability across multiple workstation products and operating systems — the agreement encompasses WordPerfect for OS/2, WordPerfect for Windows, WordPerfect for MS-DOS and WordPerfect for IBM's AIX Unix.
+WORDSTAR TO TAKE MACINTOSH PLUNGE
+Novato, California-based WordStar International Inc is plunging into the Macintosh word processing market by acquiring all rights to WriteNow from T/Maker Co in return for  undisclosed cash and royalties; development of the $250 WriteNow will stay at T/Maker in Mountain View, California under WordStar.
+SCHLUMBERGER AND MOTOROLA FORM JOINT VENTURE
+Schlumberger Ltd says it has formed a joint venture, Advanced Meter Reading Technologies, with Motorola Inc to develop wireless electronics technology for remote and automated reading of water, gas, heat and electricity meters: starting next second quarter, Motorola will manufacture the products, and Schlumberger will provide, market and sell the products and service them.
+ICPI RECKON ON 5% OF GERMAN MARKET BY YEAR END
+As from February 1, ICPI Ltd, a wholly-owned IBM Corp subsidiary, began selling its personal computers under the Ambra name again in Germany: according to Computerwoche, at the end of last year, the company's German distributors were instructed to take the IBM-compatible boxes off the market because the Ambra tradename was protected, and the company has only now been able to regularise the situation; ICPI reckons it will command a 5% share of the German market by the end of 1993; sales will now be expanded into other countries, including the Far East and Africa.
+IBM AND MOTOROLA POWERPC RISC NEXT CANDIDATE FOR SOLARIS
+According to SunSoft Inc president Ed Zander's view of the microprocessor world, the IBM Corp-Motorola Inc PowerPC RISC microprocessor would be the most likely candidate for Solaris' next port of call.
+DELTA SOFTWARE UPGRADE APPLICATION DEVELOPMENT TOOL
+Uxbridge, Middlesex-based Delta Software International Ltd has introduced the latest version of its application development tool, Delta/AD3.1; new features include multi-lingual interfaces, it said.
+KOMIX TO MARKET SUPERNOVA BY FOUR SEASONS SOFTWARE
+Bilthoven, Netherlands-based Four Seasons Software BV signed Czech distributor Komix of Prague to market and support its SuperNova applications development environment.
+WNDX SIGN RTS TO MARKET TOOLS
+Douglas, Isle of Man-based RTS Ltd has been signed by WNDX Corp, Calgary, Alberta to market WNDX Portable Development Tools in the UK.
+BAAN INTERNATIONAL INTRODUCE TRITON EIS
+Amsterdam, Netherlands-based Baan International BV has introduced Triton EIS, an executive information system for selecting and presenting management information, and a multimedia toolkit designed for systems integration: both products are scheduled for release in May and will be available through UK distributor Agility Business Software Ltd, based in Bristol, Avon.
+PACIFIC SEMICONDUCTOR INTRODUCE LASERBOOT BOARD
+London-based controller developer Pacific Semiconductor (Europe) Ltd has introduced its new Laserboost board that it says can radically improve the performance of Canon Inc SX, RX and TX-based laser printers like the LaserJet II and III, Brother HL8E and Canon LBP8II for a fraction of the cost of a new machine: the board takes only 15 minutes to install and costs just £380; it features Hewlett-Packard Co PCL 5 printer language, eight scalable fonts, a 20MHz 68020 processor, proprietary ASICs and Direct Memory Access through the parallel port; it also has from 2Mb of memory, one independent and two parallel ports, offering HP7475A plotter emulation.
+ADMIRAL TO DISTRIBUTE Z-CODE MAIL PRODUCTS
+San Rafael, California-based Z-Code Software Corp has signed quoted UK company Admiral Plc's Admiral Software Ltd, based in Camberley, Surrey, to distribute its line of graphically oriented electronic mail products, Z-mail and Z-mail Lite.
+ICL AND HOSKYNS BEAT COMPETITION FOR DSS CONTRACT
+ICL Plc and Hoskyns Group Plc have beaten the competition from IBM (UK) Ltd and Digital Equipment UK Ltd to win a prestige contract to provide the UK's Department of Social Security with an Analytical Services Statistical Information System — Assist: the system, which is designed to enable users to extract, analyse and tabulate data for modelling and forecasting, will be based on a variety of ICL's Openframework hardware and software products, running under Windows 3, and includes data analysis tools from Berkshire-based SAS Software Ltd; Hoskyns is to provide bespoke development effort where required.
+LOGICA AND FINSIEL SET UP ITALIAN JOINT VENTURE
+Software house Logica Plc, London W and software and services company Finsiel SpA, have set up a new joint venture company in Italy called Logicasiel SpA, following Finsiel's  acquisition of the controlling shares in Data Management, Logica's original joint venture partner in Italy: Logica owns 40% of Logicasiel, while Finsiel, via Data Management, owns 60%; Logicasiel is made up of Logica General Systems, the original Logica-Data Management joint venture set up in 1985, and GSO Informatica, which is now wholly owned by the new company; Logicasiel has 240 staff and turnover of approximately £15m; it operates in finance, local government and industry, but intends to focus on developing further trade links with the European Commission and pan-European organisations.
+X/OPEN USER COUNCIL ATTRACTS THREE NEW MEMBERS
+Three new members have joined X/Open Co Ltd's User Council: UniForum Sweden, Logica Plc in the UK, the French government's Permanent Group for Market Studies in Informatics and Communications and the Interministerial Committee on Information Technology and Office Automation in Government; the X/Open's User Council membership now numbers 63.
+SCO APPOINTMENT
+Long-time open systems advocate, Bernard Hulme, former vice-president of worldwide marketing — more lately director of vertical marketing programmes in Europe — for Santa Cruz Operation Inc has been appointed vice-president, field operations, Europe, Middle East and Africa at the Unix software firm.
+OBJECT DESIGN TO OPEN UK OFFICE
+Object Design Inc, Burlington, Massachusetts, will open a UK office on March 16: managing director of the Swindon, Wiltshire-based Object Design UK Ltd will be James Beagle.
+CLARIFICATION OF APPLICATION BROWSER
+HyperSoft Europe Ltd, Hassocks, West Sussex, says the Alan Cohen Consultancy Ltd AL/1 pack it markets as Application Browser is not a Cobol-to-C converter, but a code analyser and transformer that can prepare Cobol programs for migration from any system (CI No 2,103).
+ACT TO SUPPLY QUASAR TO TWO SLOVAKIAN BANKS
+ACT Group Plc's London-based finance system division ACT Financial Systems Ltd is supplying its Quasar investment management system to two major Slovakian banks, the IRB — or Investment and Development Bank, and VUB Invest, the investment service division of the VUB Bank; on both projects, the prime contractor is Digital Equipment Corp with ACT providing the software and support.
+MANUFACTURING SOFTWARE PORTFOLIO TO MARKET PROSPER
+Sheffield, Yorkshire-based Prophecy UK Ltd says it has signed Manufacturing Software Portfolio Ltd to market Prosper, its financial and business management software.
+D J LONG TURNS UP AT ROSH INTELLIGENT SYSTEMS
+D J Long, the vice-president of marketing who left Applix Inc two weeks ago, has turned up in a similar capacity at Rosh Intelligent Systems Inc, the Aurum-like turnaround former Uniplex chief Jeff Waxman is now heading up.
+INITIATIVE TO ADDRESS UNIX SOFTWARE PRIVACY
+Informix Software Inc's UK managing director, Malcolm Padina, has called for a new initiative to purge the Unix market from software pirates: Padina, a board member of the Federation Against Software Theft aims to establish a Federation subcommittee to address the problem.
+SIEMENS NIXDORF TO SELL FRAME TECHNOLOGY
+Siemens Nixdorf Informationssysteme AG is to sell Frame Technology Inc publishing software on its systems.
+SUMMIT GROUP INTRODUCE SUMM/IX SERVER
+UK firm Summit Group Ltd, Colchester, Essex has introduced a 50MHz Intel Corp 80486-based graphics workstation, called the summ/ix server: the base configuration has 16Mb RAM, 1Gb disk, CD-ROM and Santa Cruz Operation Inc's Open Desktop 2.0, and it costs £8,000.
+BULL PROGRESS ON IRON CONTRACT
+Bull Information Systems UK Ltd says it has now installed 700 DPX/2 Unix servers and 15,000 diskless workstations at the UK's Inland Revenue Office as part of the four-year £50m 1991 Iron contract: by 1994, Bull says a further 300 servers and 10,000 stations will be in.
+AT&T ISTEL HAS RS/6000 VERSION OF WITNESS
+AT&T Co's AT&T Istel Ltd has a version of its Witness simulation modelling software for the RS/6000.
+HOSKYNS INSIGHT RE-NAMED HOSKYNS APPLICATION PRODUCTS
+London-based Hoskyns Group Plc has re-named its former AS/400-based Hoskyns Insight division Hoskyns Application Products; the new division has taken on staff from Hoskyns' former Open systems division and is to market Unix and open systems products as well as its predecessor's original portfolio, including the Hoskyns' Financial Management System and the AS/400 Advanced Management Information Systems range; the move underlines Hoskyns' growing interest in supplying packaged software; it also reflects the company's decision to align its business operations into five major lines — Consulting, Project Services, Information Systems Management, Education and Training and Software Products.
+IBM KEEPING UP WITH FASHION
+Clear seems to be all the rage in the US these days, what with Miller Brewing coming out with a beer that not only tastes watered, but actually looks like water, a Clear Tab from the Coca Cola Co and Pepsico pushing something called Pepsi Crystal, so it's nice to see that IBM Corp being right up there with the trend — enter one of those hallowed and long-standing computer rooms these days and like as not you'll be able to see right across it with no Big Iron to impede the view — the transparent mainframe.

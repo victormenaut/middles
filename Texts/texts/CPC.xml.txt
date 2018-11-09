@@ -1,0 +1,327 @@
+
+
+AT&T CALLS BRITISH TELECOM, UK BLUFF WITH LICENCE APPLICATION
+AT&T Co yesterday said that it had filed an application with the UK regulatory authorities to challenge British Telecommunications Plc by offering communications services within the UK, and between the UK and the US.
+US government approval is also required.
+AT&T said its decision follows British Telecom North America's request to the US Federal Communications Commission for permission to offer international service between the US and several other countries, including the UK.
+It said it would support British Telecom's request ‘once AT&T has the same practical access to the UK market as that currently sought by BT North America in the US,’ and has filed comments urging the US to deny British Telecom's request until US carriers have comparable access to the UK market.
+AT&T aims initially to offer UK business customers virtual network services and digital private lines for high-speed data and voice communications, and business customers with bases in the UK and the US a variety of ‘competitively-priced, seamless services between the two countries’.
+It also wants to provide these services between the UK and Australia, Canada and Sweden, as permitted under UK regulation.
+AT&T complains that US carriers wanting to enter the UK market not only have to invest substantial time and money in building their own networks, but also have no alternative but to negotiate with British Telecom for local access to customers.
+British Telecom told Reuter it would be happy for AT&T to resell international communications services in the UK.
+‘We would welcome it, it's competition.
+We know that customers want competition and that's why we're all for it, provided that it's equal on both sides of the Atlantic’ it declared.
+TIME WARNER BUYS ATM SWITCH FOR CABLE SERVICE
+Time Warner Inc's Time Warner Cable has bought an AT&T Co GCNS-2000 Asynchronous Transfer Mode switch as a key component of its Full Service Network electronic superhighway it is constructing in the Orlando, Florida area.
+The network will provide video-on-demand, interactive games, full-motion video, distance learning, personal communications and data network services.
+ICL UNLEASHES BLITZ OF DRS 6000s, UNIX PRODUCTS
+ICL Plc almost doubled the the number of Unix servers it now offers by adding seven new models to its Sparc RISC-based DRS 6000 line yesterday.
+The announcement also included a new bundle of ManageWare middleware applications designed for client-server implementations, and version 7 of its OfficePower office automation suite.
+Alongside a new Level 300 Series of ‘compact’ DRS 6000 servers, most of which use Texas Instruments Inc's SuperSparc processor, the company, as expected (CI No 2,138), unveiled three new high-end multiprocessors that use Cypress Semiconductor Corp's rival, but plug-compatible HyperSparc RISC.
+Mike Coote, managing director of ICL's mid-range systems division cites ‘tactical’ reasons such as price-performance for the decision to use HyperSparc, and not any inability on the part of Texas to deliver SuperSparc in sufficient quantities or at suitable performance levels.
+ICL has filled out the top end of its DRS 6000 range with new multiprocessing models 780 and 782 in the 700 series.
+The 780 uses two 66MHz HyperSparcs on a single board, the 782 is configured with two boards.
+The 780 and 782, which come with up to 512Mb RAM and 103Gb disk, will cost around £100,000 and £150,000 respectively when configured for around 200 users.
+The 400 series has a new high-end model 480 which again uses a pair of 66MHz HyperSparcs on a single board.
+With up to 256Mb RAM and 60Gb disk, it starts at around £65,000.
+IBM FORMS PERSONAL SOFTWARE PRODUCTS ARM IN BASINGSTOKE
+IBM Corp yesterday announced from Paris the formation of the IBM Personal Software Products Europe company, based in Basingstoke, Hampshire, which aims to become a premier client-server provider with the responsibility for developing and marketing OS/2, Workplace OS, PC-DOS, speech, pen and multimedia extensions to current operating systems, AIX on Intel Corp iAPX-86, multimedia development tools, local networking products, extended services for OS/2 and object technology.
+It will also undertake European marketing for DB2 for OS/2, and provide marketing support for other OS/2-related products such as Communications Manager, NetView DM/2 and CICS for OS/2.
+The new business has been split off from IBM Personal Systems Business Europe, and is claimed to be one of the world's largest software businesses; operations are currently being formed in individual European countries.
+Product development will continue to be  centred in Boca Raton, Florida and Austin, Texas.
+Worldwide marketing and brand management will continue to be co-ordinated from Somers, New York.
+500 JOBS MUST GO AT IBM's ESSEX JUNCTION
+Up to 500 employees at IBM Corp's Essex Junction, Vermont plant — it is the state's largest private employer, will lose their jobs by the end of June.
+The company wants to buy out 300 to 500 permanent, full-time administrative, production and engineering workers at the plant.
+There are almost 6,600 workers at the plant, roughly 300 more than at the end of last year, after transfers from East Fishkill, New York.
+SIEMENS NIXDORF, EPSON, NEC ALSO DANCE THE NEXTSTEP
+The roster of companies signed up to offer or make available the object-oriented NeXTstep environment grew still more impressive late on Wednesday when Siemens-Nixdorf Informationssysteme AG, Epson America Inc and NEC Technologies Inc all said that they would offer NeXTstep on 80486 and Pentium personal computers from May 25; NeXTstep, $800, the development system, $2,000 will be distributed by Ingram Micro Inc, integrated by SHL Systemhouse Inc.
+SEGA GAMES VIA CABLE IN US
+Time Warner Inc, Sega Enterprises Ltd and Tele-Communications Inc have teamed to develop the Sega Channel, and will launch it in test markets this autumn.
+The venture will enable subscribers to receive games for 16-bit Genesis players via an adaptor; games will be wiped when the player is switched off.
+ACT FINANCIAL EXPLAINS HOW OBJECT-ORIENTED PROGRAMMING GIVES IT UNRIVALLED MOMENTUM
+The ACT Financial Systems arm of ACT Group Plc, Birmingham is basing its entire strategy for future growth on the success of its Momentum object-oriented modular software for the international financial services market.
+According to technical director Peter O'Connell, ‘Momentum is not an option, but something we must do to maintain growth’.
+Managing director Paul Newton goes one stage further.
+Momentum, he says, is a long term strategy —‘it is an entire product strategy, technology strategy, and business strategy’.
+His aim is to make ACT number one supplier for the international finance sector, and although he admits he couldn't have said such a thing three years ago without being laughed at, he now feels confident that it is a realisable goal.
+ACT decided to go down the object-oriented route for several reasons.
+Firstly, over the past few years, it has acquired various software businesses with related but incompatible products.
+Momentum, therefore, is an attempt to provide customers with a standardised and integrated product line.
+A centralised product development team generates core objects in C or C++, using personal computer-based standard software engineering tools.
+Seamless
+Application programming interfaces provide single, seamless integration between each module, meaning that ACT only has to develop each core object once.
+Every object is self-contained, so the company doesn't have to change or re-write basic code.
+It simply re-uses core objects as necessary.
+According to O'Connell, this saves on both development time and costs for ACT and its customers, and makes it easier to manage complex applications.
+Development time is, in fact, he says, cut from years to months.
+Because each application programming interface is open and published, a customer also has the option to add on different objects or modules as required, without needing to buy source code.
+And not just ACT's code, but modules developed internally or by a third party.
+This is important, O'Connell says, because a priority for every supplier these days is to defend its native markets and work with others to satisfy customer needs.
+ACT can also generate additional objects to create customised products — the group will ‘effectively make up a bespoke product, assemble a bespoke suit to fit each client’.
+O'Connell attests that this is a much more elegant way of offering bespoke software, formerly a high revenue earner for the company.
+It also means that other staff are free to concentrate on what he calls ‘business logic’— or a customer's business requirements.
+In fact, he reckons that Momentum is the ‘businessman's solution to the businessman's problem’.
+The second advantage of object-oriented software, according to business development director, Duncan Paterson, is that it can meet the demands of an increasingly global market.
+Many of ACT's customers, he says, have now become serious global players, so they need integrated products that can be used worldwide.
+Also, he says, because ACT is now dominant in the UK financial services marketplace, it has to continue expanding internationally to maintain growth, moving into new niche markets and new geographical locations.
+Areas of interest include South America, the Far East, especially China, and Eastern Europe.
+The company reckons it has a major advantage over its competitors because it does not have to develop a new product for each market — it simply adds a local user interface, which also cuts down on development and maintenance costs.
+Furthermore, Paterson says, unlike rival offerings, the various modules that make up Momentum will cover all aspects of a customer's business rather than just certain elements.
+The software also runs in a variety of environments from mainframes to client-servers to personal computers, and, he added, can, therefore, be used on a company-wide basis.
+It currently supports MS-DOS, OS/2, VMS, and various versions of Unix, including Hewlett Packard Co's HP-UX, Santa Cruz Operation Inc's Unix and Ultrix.
+It can run Oracle Corp and Sybase Corp databases, and graphical user interfaces such as Microsoft Corp's Windows 3 and Presentation Manager.
+Motif will follow in the third quarter.
+O'Connell says the company was proud to say that it had won Posix-compliance and it now hopes to gain X/Open's XPG branding.
+The third benefit of object-oriented software, O'Connell claims, is that ACT can respond quickly to changing market conditions at minimal cost.
+Momentum, he says, will be able to conform to new standards coming onto the market as well as take advantage of any new technology, such as cheaper and faster hardware or more sophisticated system software, especially relational databases.
+In the past, he says, the company was at a disadvantage because of its dependence on system software suppliers for information on databases, graphical user interfaces and operating systems.
+A commodity
+Now, however, he says, ACT owns source code rights to every element of Momentum and so ‘can no longer be held to ransom’.
+Moreover O'Connell believes that the commoditisation of the computer hardware industry means it is only a matter of time before software becomes a commodity too.
+As this will inevitably lead to a drop in prices, the group intends to defend its position by offering a product that can be sold in high volumes on a global scale.
+At the moment, it has two products under development: OpenLimits, a global risk management product, developed with the help of Hewlett-Packard, and due for release in September; and Market-Making.
+This was developed in conjunction with Stratus Computer Inc, and should start shipping in November.
+ACT intends to pursue such partnership agreements more and more as time goes on.
+It expects to release a total two or three products this year, but O'Connell reckons that the company's entire range should be covered within about three years.
+It intends to concentrate on its main markets first, but also intends to provide migration tools for those customers that want them.
+No decisions have yet been made as to pricing, but O'Connell says ACT intended to make it as easy for existing customers as possible.
+As for licences, Momentum's price will be based on the number of users and the number of objects purchased.
+INTERNET TASK FORCE APPROVES ELEMENTS OF VERSION 2.0 OF THE SIMPLE NETWORK MANAGEMENT PROTOCOL
+The Internet Engineering Task Force has now approved Version 2 of the Simple Network Management Protocol.
+The new network management protocol will now become a Request for Comment.
+SNMP v2 extends the existing protocol, adding new Management Information Bases, Protocol Data Units and Object Types, to make SNMP-based management more efficient and easier to use.
+Security issues and authentication have taken longest to finalise.
+Effectively SNMP2 changes Object Identifiers, OIDs, replacing community strings with ‘parties’, Access Control Lists and the Modified Management Information Base viewing mechanism.
+This means that an SNMP entity can grant limited access to another SNMP entity, and two SNMP entities can exchange private information as well as authenticated data.
+The MD5 algorithm will handle authentication and the Data Encryption Standard is likely to be used to implement security.
+This structure will make it possible for an SNMP agent to grant one SNMP manager read-only access to that agent's objects, while granting read-write access to another.
+There are doubts, however, as to whether users will choose to implement encryption, believing that authentication measures are adequate.
+In addition, sending encrypted data over international boundaries represents a thorny issue: it is still illegal in some countries.
+The communication strings now declare that other devices are accessible from the manager, although the number of parties on the network is limited for reasons of network efficiency.
+(Every party on the network has to have its own space, which can quickly use up available network memory).
+Many elements of SNMP2 have already been finalised.
+The most important of these are the new Protocol Data Units.
+A new GetBulk PDU facilitates the retrieval of large amounts of data, such as tables, by making it possible to bundle a series of GetNext requests into a single request-response operation, improving performance.
+An InformRequest Protocol Data Unit and a new trap Protocol Data Unit have also been added.
+Cause of many problems
+Other changes are the refinement of the set operation, the cause of many problems experienced with SNMPv1, and the incorporation of many of the unwritten rules of SNMP.
+A variety of practices are universally accepted but have never been documented.
+The new Management Information Bases are designed to support manager-to-manager communication.
+The Management Information Base semantics have been clarified so that MIB I and MIB II extensions, which typically reside at different locations in the MIB tree, can be given private parameters and object associations, allowing them to be recognised by a single Management Information Base browser.
+Managers can also be configured to view parts of an MIB.
+The ease of use of SNMP2 is likely to speed up its rate of adoption by communities other than the local area network world.
+SNMP is extending out of its traditional local area network environment into the wide area and telecommunications strongholds.
+Recently carriers such as MCI Communications Corp have announced that they are to adopt SNMP for management and agents.
+Meantime source code producer, Epilogue Technology Corp, which has its UK base in Marlborough, Wiltshire has announced plans to upgrade its entire line of SNMP products and services to support SNMP2.
+It says it expects its OEM customers to implement the new standard in their products by the end of the year.
+Although SNMP2 will offer no real backward compatibility with version 1, Epilogue recognises that SNMP users will need to have both versions resident on their systems, and it will therefore incorporate elements of both versions in its next release.
+SAS INSTITUTE LAUNCHES PROMISED SAS SYSTEM 6.08
+As promised last June (CI No 1,934), SAS Institute Inc has begun shipping version 6.08 of its cross-system application development system: the SAS System for Information Delivery.
+The new release sees the System climb off the mainframe for the first time and there are the expected implementations for OS/2, Microsoft Corp Windows and Digital Equipment Corp's OpenVMS.
+The other change is support for object-orientated technology within the application development environment.
+At the same time the Executive Information System has been bumped up from its ‘experimental’ status to a full product.
+The Executive Information System is just one of several new products being bundled with the new version; the others include a gateway with IBM Corp's CICS, which, the Cary, North Carolina company claims, enables mainframe-based CICS users to tap into all of the SAS features and SAS/LAB, previously an experimental release, which provides data analysis tools, designed to aid users without vast experience in the area.
+WIND RIVER SYSTEMS PUTS ITS VXWORKS UP ON iAPX-86
+Wind River Systems Inc, Alameda, California, is putting its VxWorks software development environment up on Intel Corp's iAPX-86 family.
+It will enable embedded systems designers to write applications on personal computers or under Unix.
+VxWorks on iAPX-86-based workstations starts at $23,500 for a 10-user licence in June, MS-DOS editions are due in September at $13,500.
+BRITISH TELECOM INTRODUCES ITS FIRST END-TO-END SPEECH ONLY INTERNATIONAL CIRCUIT, LONDON TO PARIS
+British Telecommunications Plc has introduced its first end-to-end speech only international private circuit with the announcement of the International DealerLinkplus service running between London and Paris.
+The 32Kbps service is intended to provide banks and other financial institutions — as well as other speech only private circuit customers — in the two capitals with reliable voice communications.
+The service is claimed to use voice techniques that are significantly less compressed than those of competing offerings, which should lead to enhanced transmission quality.
+Although other services are able to provide 32Kbps transmission, they choose to provide more lines per pipe.
+British Telecom believes that its target customers for the service will be more interested in line quality than in multiplicity of lines.
+COMMON OPEN SOFTWARE ENVIRONMENT
+X/Open accepts lead role as keeper of COSE standards
+The Common Open Software Environment's systems management technology will be determined by X/Open Co Ltd's existing systems management workgroup, a committee that will include all the current the Common Open Software Environment companies.
+The decision was made last week at a planning process review the COSE people and the Open Software Foundation held on April 7 at the X/Open offices in Menlo Park, California, one of many meetings that have been taking place lately.
+However, the meeting also established the desktop as COSE's first priority, something that already seemed clear at COSE's announcement last month.
+Much of the meeting was apparently given over to the specific role that X/Open will play.
+X/Open in turn explained the inner working of its fast track process: a specification that's very clean and well-written takes at least six months, changes after review tack on another 10 weeks.
+A normal X/Open process takes 12 to 18 months.
+Motif is a prime candidate for the fast track, although it will require minor work to integrate it into the X/Open Portability Guide.
+X/Open is expected to do the Portability Guide integration work on all COSE specifications.
+An X/Open spokesman said that COSE now better understands the task, resources and overall timeframe.
+COSE continues to resist any designation as a group or collective appellation as the COSE companies, ostensibly because it expects to expand its membership.
+DEC prepares for talks but is reviewing the situation
+Maynard, Massachusetts-based Digital Equipment Corp indicates that it is expecting to have conversations with friends at Hewlett-Packard Co in the next few weeks about its participation in the Common Open Software Environment.
+Like NCR Corp, it needs to collect more data on what the gang is really doing, figure out the structure and find out how COSE would want DEC to participate; also like NCR, if the effort is primarily concerned with the desktop, then DEC would not be very interested.
+Vague feelings of unease start to grow around mechanics, true agenda of the COSE founder companies
+NCR Corp is being cautious about giving the Common Open Software Environment its endorsement.
+On the surface it has no problem with it — it either has or is moving towards the technologies at issue, but it wants more information before it lends any support.
+Everything, it says, is not exactly crystal clear.
+For instance, it would like to know whether an endorsing company has to adopt everything COSE ratifies or whether it can pick and choose.
+It also wants to know what the position of Unix International Inc, which it strongly supports, is going to be.
+Then too, it would like COSE to indicate exactly what it would like a company such as NCR to say.
+It will be a few weeks and several meetings before it has established an official position.
+It has to pick its way through the minefield of NT and Unix and estimate whether COSE is bigger than just the desktop.
+How cosy (or cozy) is COSE?
+Not yet a month old and apparently there is concern in some quarters of the industry that Hewlett-Packard Co and IBM Corp (Sun Microsystems Inc to a lesser extent) may kidnap the promised system and twist it to their own advantage.
+Hewlett-Packard and IBM seem to be taking a vanguard position in this thing and are pretty cosy themselves.
+There are apparently many meetings going on, COSE having been divided into technology, product management and business sectors.
+However, there is word that not everyone knows what meetings are scheduled or is being asked along.
+It could be altogether innocent but suspicions have been raised.
+Companies outside COSE's inner circle also fret about how it is selecting technologies.
+Members of Unix International have approached it to suggest that the true blue Unix club get a piece of the COSE requirement process, and word is that Unix International is having informal discussions with the COSE crew.
+If there is a twist to the plot, then it is nowhere more apparent than at the window management level where, it seems, Hewlett-Packard is determined to make its Visual User Environment stick.
+We know Hewlett-Packard and IBM Corp are working on an early sample version of the Common Open Software Environment code, which will include interface widgets, and VUE look and feel dominated the COSE desktop shown at the  original announcement.
+The VUE desktop manager lost out to IXI Ltd's X.desktop manager in the failed Advanced Computing Environment initiative and Hewlett is said to be determined not to lose this time around.
+Icons and bars
+It will be offering a COSE-compliant version of VUE to the other COSE founders.
+Indeed, SunSoft Inc is said to have taken VUE's virtual workspace — though not the icons and bars themselves — and is thought to have hired Motif experts from the Open Software Foundation and elsewhere to help it build a Common Open Software Environment desktop toolkit.
+At least one other COSE firm is worried that with Hewlett having the ear of the larger COSE companies, its own technology won't get a look in.
+It believes that unless the final COSE specification is very tight, and goes right down to things such as icons and bars, then there is certain to be a wide variety of very different COSE interfaces on the market.
+Trying to stay ahead of the game now that Unix System Laboratories Inc is soon to have the weight of Novell Inc behind it, Santa Cruz Operation Inc — in conjunction with its IXI division — says it will begin to offer a fully integrated Common Open Software Environment system as soon as possible, something it believes few outfits have the resources to do.
+It will obviously buy in many ready-made COSE components — including networking and the Software Foundation's Distributed Computing Environment — and use the interfaces that will be made available through the COSE specification.
+As with its intended role in the failed ACE initiative, Santa Cruz says it will do all the required integration work to become a one-stop COSE shop.
+Products — announcements are promised over the next few months — will ship direct and to OEM customers.
+Santa Cruz doesn't admit to be working on a COSE version of Microsoft Corp's Windows NT, but says it is technically possible to make NT look like a COSE implementation.
+SunSoft now has three different tool kits for building user interfaces on its list.
+Development of the old NeWS toolkit has been frozen ahead of its metamorphosis into Adobe Systems Inc's Display PostScript.
+Development of XView, the SunView-to-Open Windows transition toolkit, has been halted, although the firm will continue to bug-fix and support it.
+Likewise, further development of Open Look as presently constituted is being discontinued, although there will be a new release in the autumn incorporating the COSE specifications and X Window 11.5.
+INTEL's GROVE WARNS ON PERSONAL COMPUTER PRICE WAR, SEES JAPAN A WINNER IN PORTABLE ASSISTANTS
+Intel Corp president and chief executive Andy Grove was in Japan last week speaking at the Downsizing Japan conference in Makuhari, near Tokyom, and delivered a few comments about the future of the industry in which Intel is such as major player, and about semiconductors as a trade issue.
+The fact that this was the first downsizing show to be held in Japan is in itself an indication of the major change taking place in the Japanese computer market, which has been even more mainframe-centric than the US and Europe, and indicates the strong power of the economics of small computing.
+Regarding developments on the Pentium chip front, Dr Grove said he expected that Pentium-based machines would become as ubiquitous as the 80486 machines, and that the chip would be offered not only in servers but in desktop machines.
+He emphasised the investment which Intel is making in the production of the Pentium — the re-tooling of the two plants and the construction of the new plants in Ireland and Albuquerque.
+While not giving details of the pricing, he said that the price-performance curve on the 80486 is the basis for pricing of the Pentium and that he expected the sort of dynamic that applied to the 80486 to apply to the Pentium as well— the 80486 being introduced at $900 to $1,000 and falling to $200 over a period of four years — at a rate of 30% per year.
+Grove expects Intel to invest $1,600m on capital equipment this year.
+Polarisation
+Looking back over the years at the relative strengths of Japan versus the US in the semiconductor industry — a polarisation that will always make the news in Japan — during the 1970s, the US had an advantage, Grove said, which faded in the 1980s when Japanese manufacturing disciplines, just-in-time and its clearly superior semiconductor manufacturing equipment led to the Japanese gaining the upper hand, particularly in memory chips.
+Initiatives such as Sematech helped US industry to catch up, but Grove sees this as having only held the advance of Japanese manufacturers.
+Little has changed at the components level, Grove said.
+‘All microprocessors are from the US, all memories are from Asia, all displays come from Japan.
+‘I go into my office and the single product name that stares at me is NEC on my monitor,’ he said.
+While the current situation in chip fabrication capability appears to be parity, the next frontier for the industry will be the portable devices known as Personal Digital Assistants; since miniaturisation is a skill of Japanese manufacturers, these can be expected to be made in Japan, and all the strategic alliances made to date reflect this.
+Software will come from the US however, Grove believed.
+The more interesting challenge to Japanese manufacturers is posed by the arrival of personal computer vendors such as Compaq Computer Corp and Dell Computer Corp — good customers of Intel — into the Japanese market.
+Dell has begun a direct marketing operation in Japan similar to its operation in the US, and this, to Grove, is a more fundamental threat to the traditional Japanese multi-tier distribution system.
+The speed at which direct marketers such as Dell can move is unparalleled, thanks to their knowledge of the customers' wants and needs, and has resulted in the development of a whole class of computer-literate users.
+It will be interesting to see if the same thing will happen in Japan; the Japanese manufacturers belief in the preference of the client for service over a cheaper product is already being tested in the marketplace — to their chagrin, according to contacts within the Japanese manufacturers.
+Intel's business in Japan comprises only 8% of its total worldwide revenue of $5,840m, compared with 24% for Europe and 16% from the rest of Asia.
+According to Intel Japan president Bill Howe, Intel's business in Japan has not been affected by the strong yen, and any bad effect from the recession is more than counteracted by the movement to the high-speed 80486 currently going on in Japan.
+— Anita Byrnes
+FUJITSU CLAIMS SPEED RECORD FOR NEW GENERATION OF GaAs ARRAYS
+Fujitsu Ltd says it has successfully implemented of the world's fastest Gallium Arsenide gate array.
+The chip, manufactured in 0.5 micron process technology, has a propagation delay of  50ps per gate.
+It is intended for use in supercomputers and high-speed optical communications, such as in broad-band ISDN, multimedia and high-definition television.
+Orders will be taken for the new series of chips from June this year.
+The new series, called the GG11 series, will replace the Fury series, which Fujitsu has been fabricating under licence from Vitesse Semiconductor Corp, Camarillo, California and consists of six types, with between 10,000 gates and 25,000 gates.
+Fujitsu says it expects to sell 100,000 units per month.
+HITACHI HAS SEVERAL NEW VERSIONS OF ITS DECISION SUPPORT SOFTWARE
+Hitachi Ltd has released new versions of its Exceed3 Decision Support system.
+Exceed3/W-EUR is a version for the Hitachi 3050 workstations, and supports the X Window System and Motif.
+In terms of function, it supports an end-user forms creation function, under which the user can create his or her own forms using cut and paste and sample forms.
+A new mainframe version, Exceed3/H builds on the basic functions of the previous version Exceed2/H, providing improved memory support, through 31-bit addressing and re-entrancy.
+Other new versions of the software provide a simulation analysis — Exceed3/W-SIM, while Exceed3/W-DAI provides links with Oracle Corp databases.
+Related application products for the analysis of point-of-sale data — MRSAS/PA — and for use by financial institutions — PP-21 are also available.
+The prices of the new products are from $3,000 for Exceed3/W-EUR and from $2,630 per month for the mainframe product.
+CANON, FUJITSU, SONY TEAM ON NEW FIRM TO BUILD CD PICTURE LIBRARY
+Three major Japanese computer manufacturers are jointly investing in a new business for the manufacture and sale of Compact Disk-Read Only Memory optical drives.
+Canon Sales Inc, Fujitsu Ltd and Sony Corp have joined forces with the Japan Photo Research Centre to create a new company called Image Library Ltd.
+The initial products from the new company will be digital images of colour photographs covering a wide range of subjects, to be sold as part of the ImageCD series.
+The computer manufacturers hope that this will lead to increased sales of their workstations and personal computers that have CD-ROM drives installed, and in the future hope to develop the multimedia side of the business.
+SHARE & BOND ISSUES
+Quad Systems Corp, Horsham, Pennsylvania maker of surface mounts for printed circuit boards, filed with the US Securities & Exchange Commission to go public with an initial offer of up to 2.0m shares at a target  price of $7.00 to $8.50 a share.
+The company will use the $14m or so net proceeds for capital expenditures, debt repayment and working capital.
+The offering will be made through Unterberg Harris and  Pennsylvania Merchant Group Ltd.
+Media Vision Technology Inc, making multimedia products in Fremont, California got its initial public offering of 1.75m shares, 1m of them new, away at $26.25 a share; it did not give its plans for the $25m or so net proceeds.
+The lead underwriters were Montgomery Securities and Cowen & Co.
+Megatest Corp, San Jose maker of test equipment for integrated circuits, filed to go public with an initial offer of up to 1.8m common shares at a target price of $10 to $12 a share, and will use the $18m or so net proceeds to repay debt and for working capital; Robertson, Stephens & Co and Montgomery Securities will be the underwriters.
+OTHER FINANCINGS
+Blyth Holdings Inc, Foster City, California, says it has closed a private placing, raising $3m from General Reinsurance Corp, representing a 2.7% equity stake on a fully diluted basis at the time of closing.
+Blyth offers the Omnis Seven client-server application development software for Windows and the Macintosh desktop systems, and says the capital infusion should assure customers of Blyth's ‘long-term commitment to meeting a growing array of needs for client-server applications development.’
+OTHER FINANCINGS
+Commodore International Ltd says it repaid a loan of $13m to the Prudential Insurance Co of America rather than accept the terms that were proposed.
+OTHER FINANCINGS
+Interactive Network Inc, pioneering interactive television services from its Mountain View base, pulled its offering of 2.5m shares due to market conditions, and has turned to four of its shareholders, National Broadcasting Co Inc; Gannett Co Inc; Rainbow Programming Holdings Inc and Paul Kagan, which together provided a short-term loan to enable it to continue its current operations.
+In return for the loan, the company issued warrants for 300,000 shares of Common Stock exercisable by the lenders within 90 days at $9.00 per share.
+The loan is secured and is convertible, at the option of the lenders, into common at $9.00 per share.
+OTHER FINANCINGS
+Mannesmann Mobilfunk GmbH, operator of the D2 digital cellular network in Germany, has secured an eight-year $700m credit facility to help it fund the planning, establishment and operation of the mobile phone network, which has some 200,000 customers at present.
+The consortium is led by Commerzbank AG, Deutsche Bank, DG Bank Deutsche Genossenschaftsbank and Westdeutsche Landesbank Girozentrale.
+The facility expires on December 31, 2001.
+CREDIT RATINGS
+Matsushita Electric Industrial Co Ltd has found disfavour with Moody's Investors Service Inc, which downgraded its long-term debt rating to double-A-2 from triple-A.
+Moody's also cut the ratings of Matsushita's financially supported subsidiaries MCA Funding Corp, Panasonic Capital Corp, and Panasonic Finance (Netherlands) BV, to double-A-2 from triple-A, and of MCA Inc to A2 from A1.
+The move reflects expectations that Matsushita's debt-protection measurements will remain depressed relative to its historical levels over the intermediate term due to weakening fundamentals in the core business.
+COMPANY RESULTS
+Anacomp Inc has reported first quarter net profit down 57.5% at $2m, after $363,000 losses from discontinued operations this time and $467,000 losses last time, and $700,000 tax credits this time and $1.4m last time, on turnover that fell 3.7% to $141.2m.
+Net earnings per share fell 60% to $0.04.
+Brooktree Corp has reported second quarter net profits down 28% at $2.9m, after $900,000 gains from the sale of technology, on turnover up 20.8% at $26.8m; mid-term net fell 19.7% to $5.6m, on turnover up 20.2% at $51m.
+Net earnings per share fell 25% to $0.18 in the quarter, 16.7% to $0.35 in the half.
+The 1993 figures include the results of Base2 Systems Inc, acquired in January 1993.
+Executone Information Systems Inc saw fourth quarter net profits up 48.4% at $812,000, on turnover up 1.8% at $71.3m; net profit for the year to December 31 was up 227.6% at $3.3m, after $1.3m gains from the payment of debt, on turnover up 4.9% to $279.6m.
+Net per share stayed at $0.02 in the quarter, and rose 166.7% to $0.08 in the year.
+Identix Inc has turned in second quarter net losses of $727,000 down from losses of $990,000 last time, on turnover that rose by 314.8% at $2.6m; mid-term net losses amounted to $1.2m down from losses of $1.9m last time, on turnover that rose by 161% to $3.7m.
+The 1992 figures include the results of Anadac Inc, acquired on October 23, 1992.
+Microsoft Corp has reported third quarter net profits 35.7% ahead at $243.0m on turnover that rose 40.7% at $958.0m; nine-month net profit rose 38.1% at $688.0m on turnover that rose 39.6% at $2,714m; net earnings per share rose 33% to $0.80 in the quarter, 34% to $2.28 in the nine months.
+Network Computing Devices Inc reported first quarter net profits up 99.6% at $3.1m after a $573,000 gain from an accounting change, on turnover up 48.5% at $35.0m.
+Net per share rose 67% to $0.20.
+Officeland Inc has reported net losses of $331,079 for the year to November 30 against profits of $148,135 last time, on turnover that rose 38% to $2m.
+Comparisons are made with restated figures.
+Amounts converted at $0.80 to the Canadian dollar.
+Optek Technology Inc saw first quarter net losses of $1.1m up from losses of $951,000 last  time , on turnover up 4.6% to $13.3m.
+The 1993 figures were released at 13 weeks, the 1992 figures at 14 weeks.
+Proteon Inc has reported fourth quarter net profits down 88.5% at $252,000, after $89,000 tax credits last time, on sales up 10.8% at $31.6m; net profit for the year to December 31 was up 2.7% at $6.5m, after $274,000 tax credits last time, on turnover up 27% to $120.3m.
+Net per share fell 85.7% to $0.02 in the quarter, 6.5% to $0.43 in the year.
+Software Toolworks Inc saw third quarter net up 240.5% at $4.3m, on turnover up 21.4% at $49.7m; net profit for the nine months was up 161.9% at $4m, on turnover that rose 15.4% to $91.8m.
+Net earnings per share rose by 220% to $0.16 in the quarter, and by 150% to $0.15 in the nine months.
+Star Technologies Inc saw third quarter net losses of $222,000 down from losses of $960,000 last time, on turnover down 30.2% at $5.1m; net losses for the nine months stood at $713,000 up from losses of $389,000 last time, on turnover down 36% to $16.7m.
+Texas Instruments Inc has reported first quarter net profits up 102.5% at $81.0m after a $4m charge for an accounting change, on turnover that rose 11.2% at $1,884m; net per share rose 143% to $0.85.
+MICROSOFT COMMENTS ON THIRD QUARTER EARNINGS
+Commenting on another storming quarter — figures, page seven — Microsoft Corp, whose third quarter earnings of $0.80 a share were above consensus analyst estimates of $0.78 for the period, warned that fourth quarter growth in profits would be less impressive —‘One of the things that's different in this fourth quarter is we don't have this kicker product, the icing on the cake,’ said Microsoft investor relations chief Raymond Ferguson; Microsoft said it shipped a record-breaking 2m MS-DOS 6 retail upgrade copies in the two weeks since it hit the market, but the company said they would be pleased if fourth-quarter revenues rose by half the roughly 20% sequential quarterly rate of recent years, when Microsoft has  benefited from upgrade versions of Windows 3.0, MS-DOS 5 and then Windows 3.1; it is still likely to see its first billion dollar quarter this time; during the fiscal third quarter, sales of applications, which accounted for 61% of total revenues in the period, leaped 63% over year-ago levels to $580m, and Microsoft ended the quarter with $2,000m in cash; shipment of Windows NT is on schedule for late June following a late May unveiling, the firm said.
+SIEBE PAYS £25M FOR TWO CONTINENTAL CONTROLS COMPANIES
+Siebe Plc paid £25m all told for two continental controls companies, Eberle GmbH, of Nuremberg, Germany, with annual turnover of £56m, and Schmidt Amaturen GmbH, Villach, Austria which is doing £12m a year.
+TEXAS INSTRUMENTS PLANS $650M CAPITAL SPENDING
+Dallas-based Texas Instruments Inc says it plans 1993 capital spending of $650m, a rise of $220m from a year ago, in anticipation of double-digit growth in the world semiconductor market this year, including 25 pct in the US market; it expects the Japanese semiconductor market to grow at 5% this year, with the Japanese economy beginning ‘slow recovery’ in the second half; it said it has shipped more than 100,000 of its new SuperSparcs in a year, and expects to release several client-server products this year; commenting on first quarter figures (page seven), it added that software revenues for the first quarter were lower than expected, leading to a small loss in its information technology business; it continues to see strong demand for notebook computers and printers.
+COLORADO MEMORY SYSTEMS STARTS PRODUCTION IN BRISTOL
+Hewlett-Packard Co's Colorado Memory Systems Inc subsidiary says it has now started production in its Bristol, UK manufacturing facility.
+DEC COMMENT ON FIGURES
+In the conference call that followed Digital Equipment Corp's announcement of its figures (CI No 2,148), news of which didn't reach us until after close of play on Wednesday, company executives said that their outlook for the rest of the year continues to be cautious given the current economic environment, and they declined to forecast profits: Bill Steul, chief financial officer, said that during the third quarter, DEC's US business showed a decline of just under 5%, and that total product revenues were flat, while services grew at about 12% in the quarter; business was a little soft in Germany and France and continues to be down in Japan, but that there are some signs of improvement in Japan; DEC, in its final quarter of fiscal 1993, does not expect much in revenues from its Alpha-based systems running Microsoft Corp's new NT operating system before next fiscal.
+SEQUOIA SYSTEMS REACHES AGREEMENT TO SETTLE LAWSUIT
+Sequoia Systems Inc, Marlborough, Massachusetts reached preliminary agreement to settle that shareholder class action lawsuit it could very ill afford, paying $2m, $1.5m to come from its insurer, and $2.8m of a new class of preferred stock.
+ALCATEL CABLE SIGN CONTRACT TO INSTALL SUBMARINE CABLE
+Alcatel Cable SA reports that a consortium led by its Alcatel Submarcom venture, in which AT&T Co and Pirelli SpA are the other members, has signed a $53m contract to install a submarine cable between Argentina, Brazil and Uruguay: the team will run 1,071 miles of optical fibre cable in two pairs from Florianpolis in Brazil to Las Tolinas in Argentina and Maldonado in Uruguay to create the Unisur system, which will have capacity of 560Mbps and will link South America to the global optical fibre network via the existing Americas I and Colombus II systems; the new system is due to be completed next year.
+COMPAQ RESTRUCTURE WILL COST 150 JOBS
+Compaq Computer Corp says that the restructuring of its field and reseller support operations in the US to increase interaction with its broadened customer base and provide enhanced support to its resellers (CI No 2,148), will cost about 150 field employees their jobs, but the loss will be partially offset by an as-yet-undetermined number of employees to be hired at the company's Houston headquarters as part of the reorganisation; the 150 to go are the last of the 1,000 jobs that it said it planned to cut in October.
+COMPANIES JOIN NYNEX SERVICE WITH NEW PRODUCTS
+All Wednesday evening and into the night, companies trickled in with announcements that their kit was being used as part of Nynex Corp's new Nynex Enterprise Services high capacity digital private line service (CI No 2,148): the system will use more than 100 Sparcserver systems from Sun Microsystems Computer Corp to provide the services, and they will use Tivoli Systems Inc's software to manage the services; Dynatech Corp's Parallax Graphics unit supplied its XVideo system to display digital video coming from up to two channels of live video display and one-channel video output, and Synernetics Inc, based in North Billerica, Massachusetts says it will supply a switching hub for the Enterprise Fibre Distributed Data Interface part of the system.
+PACIFIC TELESIS GROUP EXPECTS TO REPORT LOSS
+Pacific Telesis Group Inc expects to report a net loss for full year 1993 after estimated charges of $2,000m related to accounting changes and other restructuring and disposition reserves: the accounting change on future retiree health benefits will reduce first quarter pre-tax profit by $2,600m and first quarter net by $1,600m, and an accounting change on post-employment benefits, such as long-term disability and workers' compensation, will reduce first quarter net by $151m; it will also establish reserves that will lower net profit by about $260m — some $210m of this is related to the recent decision to dispose of its property portfolio over the next three to five years, the balance to withdrawal from or restructuring of cable and equipment businesses, and costs following spin-off of the cellular operation; its Pacific Bell subsidiary will recognise employee benefits liability over 20 years, consistent with a decision by the California Public Utilities Commission.
+BT PLACE £4M ORDER WITH CHUBB SAFE EQUIPMENT
+British Telecommunications Plc has placed contracts worth over £4m with Chubb Safe Equipment Co for the supply of high security cash compartments for its payphones: Chubb says it has added a dedicated production line at its Wolverhampton plant for their manufacture.
+ITALTEL TO SHED 1,000 JOBS
+State-controlled telecommunications equipment supplier Italtel SpA will shed 1,000 jobs this year, as part of its four-year restructuring plan and expects to save $22m in labour costs this year as a result; Italtel is also planning to lay off a total of 16,500 people temporarily for five weeks at a time this year.
+TURKMENISTAN PLAN UPGRADE ON PHONE SYSTEMS
+The former Soviet Republic of Turkmenistan is planning several projects to modernise its telecommunications system and agreement has been reached with Turkey for the installation of a 200-line telex exchange, and NEC Corp and Mitsui & Co are working to modernise existing telecommunications in the country; the Ministry of Posts & Telecommunications is also looking into buying in payphones that will be able to handle international calls.
+WELLFLEET COMMUNICATIONS ADDS TWO NEW BRIDGE REUTERS TO ITS RANGE
+Marlow-based Wellfleet Communications Ltd has added two new bridge-routers to its range: the Access Feeder Node is a single-board design providing one local network interface — Ethernet or Token Ring — and two synchronous interfaces; and the Access Link Node is a fixed-configuration bridge-router supporting one Ethernet, one Token Ring and two synchronous interfaces; both support multiple interfaces and multiple protocols; no prices.
+AT&T SIGN AGREEMENT WITH CHINA NATIONAL POSTS & TELECOMMUNICATIONS INDUSTRY
+AT&T Co has signed an agreement under which the China National Posts & Telecommunications Industry Corp will market its telephones, facsimile machines and other items.
+KAZAKHSTAN SIGNS AGREEMENT WITH SPRINT
+The Communications Ministry of the former Soviet Republic of Kazakhstan has signed a series of agreements with Sprint International Inc and its Russian joint venture, Sprint Network, to develop general purpose communications networks in the republic: subscribers will be able to direct-dial to 110 countries via the network, which will be constructed around 19 communications centres in the major cities.
+TURKEY INVITES RE-BIDS ON CELLULAR SYSTEM
+Turkey's state-owned Posts, Telegraphs & Telephone Administration is inviting rebids for the contract to set up a Groupe Speciale Mobile digital cellular system: bids had already been received to set up the system on a revenue-sharing basis, but the tender was withdrawn after the PTT decided to set up the system on a concession basis instead.
+MOBILE DATACOM APPLIES FOR SATELLITE LICENCE
+A new satellite company has been set up to offer low-cost satellite-based mobile positioning and data communications across the US: Mobile Datacom Corp has filed applications with the Federal Communications Commission and is testing and demonstrating the system.
+DATRONTECH SHIPS KINGSTON COMMUNICATIONS NEW BOARD
+Aldershot, Hampshire-based Datrontech Ltd's new Networking Division is now shipping Kingston Communications Ltd's new EtheRx 10Bbase-2 and KNE2100 two-in-one combination network interface board: based on Advanced Micro Devices Inc's PCnet-AT Advanced Ethernet Controller, both boards use bus mastering direct memory access technology and support either twisted pair or a 10Base-2 coaxial connection; the 10Base-2 board costs £145 and the combination board sells for £158.
+TELESMART LAUNCH NEW PC SYSTEM TO CHANGE DIRECT DEBITS
+For those that actually trust people like the electricity and the gas company and the local council sticking grubby little fingers into their bank accounts without let or hindrance, Finchley, North London-based Telesmart Ltd has launched ADDACS Connect, an MS-DOS software package designed to process changes to those iniquitous direct debit transactions automatically: direct debit originators can link their computers to the Automatic Direct Debit Amendment and Cancellation System provided by the UK Bankers Automated Clearing Service, to retrieve direct debit changes; the £1,000 package is available now.
+UNITED ARAB EMIRATES OPENS MARKET ON FAXES AND MODEMS
+The United Arab Emirates opened up its market for telephones, facsimile machines, modems and other equipment on April 1 but the state operator, Etisalat, is retaining its monopoly in telephone services.
+CANADA SIGNS UPDATE AGREEMENT WITH CHINA
+Canada's Ministry of Posts & Telecommunications has signed an agreement with China's Hubei San Gao to update cellular telephone systems in Hubei province: the Canadian holds 51% of the venture, with Hubei San Gao the remaining 49%.
+SIEMENS FORMS JOINT VENTURE WITH CHINESE
+Siemens AG has formed a joint venture with the city of Shanghai and the Chinese Ministry of Posts & Telecommunications to produce digital mobile phones and base stations: it aims to make 300,000 phones and 500 base stations each year.
+NORTHERN TELECOM WINS $8M CONTRACT FROM CZECH REPUBLIC
+Northern Telecom Ltd, Mississauga, Ontario has won an $8m contract with the Czech public telecommunications operator, SPT Telecom: the deal covers the upgrading of operator services for the international and trunk phone network in Prague.
+TAIWAN'S TELECOMMS INDUSTRY OBJECT TO FOREIGN BIDS ONLY CLAUSE
+Taiwan's telecommunications industry is objecting to a plan by the Directorate General of Telecommunications to invite only foreign bidders for its Intelligent Network project: domestic companies claim to have 80% of the necessary capabilities for the $285,000N project, and are arguing that agreements with foreign partners would enable them to fulfil the conditions.
+DEUTSCHE BUNDESPOST TELEKOM ORDERS 75,00 MOBILE PHONES
+The Deutsche Bundespost Telekom has ordered 75,000 hand-held mobile phones and 75,000 portable and fitted phones from Motorola Inc for use on its D1 digital network, and will be on the market from May.
+‘BUY BACK’ BRAND NAMES?
+Aw, c'mon, it was just like that in Australia not long ago: one of the wire services reports in a condescending way that under local law, the National Institute of Industrial Property of Brazil recognises only the principle of priority in brand names, so that companies like IBM Corp, Xerox Corp and Sony Corp have had to ‘buy back’ their names before they could do business under them in Brazil; the US is pressing Brazil to change the law to protect internationally recognised brand names — but it is not so long ago that, legend has it, an enterprising travelling Australian spotted that car hire was becoming big business, so when he got home, he registered the names Hertz and Avis, sold the Hertz name back to the company when it wanted to set up in Australia — and then used the cash he got from Hertz to set up the Avis concession in Australia.

@@ -1,0 +1,332 @@
+
+
+SIEMENS NIXDORF EXTENDS OEM PACT WITH SILICON GRAPHICS TO CHALLENGE
+Siemens Nixdorf Informationssysteme AG has extended its OEM agreement with Mountain View, California-based Silicon Graphics Inc to cover the Challenge and Power Challenge server lines, on undisclosed terms.
+The German will add the Challenge network resource server to its line as the SC800 and the Power Challenge ‘supercomputing’ servers as the SC900.
+The Challenge starts at $20,000, the Power Challenge at $100,000.
+ICL LAUNCHES ERGOCLIENT MULTIPERSONALITY TERMINAL
+ICL Plc aims to bridge the gap between personal computers and dumb terminals with its new network terminal, ErgoClient, for client-server computing, which acts as a half-way house and is claimed to be the only product capable of filling a gap in the market by combining the price-performance of a terminal with the flexibility of a personal computer.
+As a result, users have ‘the best of both worlds’ and ICL claims ErgoClient reduces the hidden costs of owning a personal computer by 75%.
+ErgoClient is a more advanced version of the ErgoView terminals, launched in April (CI No 2,141), which enable users to access different environments from the same terminal by adding personality modules.
+The ErgoClient takes on the characteristics of a personal computer by means of a similar personality module, which incorporates an Intel Corp 80486 processor and simply slots into the machine.
+The module provides up to 16Mb of memory and will boot from LAN Manager, NetWare and Unix environments.
+It also connects into Ethernet networks, and Token Ring will be available by the end of the year.
+Moreover a PCMCIA slot enables the user to upgrade his terminal to a personal computer running under MS-DOS or Windows by inserting a hard disk or Flash memory card.
+ErgoClient is aimed at large networked enterprises that intend to migrate from one computing environment to another.
+This includes customers downsizing their mainframe applications to a distributed Unix or client-server environment.
+Available from June, the new ErgoClient starts at £1,000.
+ALDUS TO BUY AFTER HOURS SOFTWARE
+Aldus Corp signed a letter of intent to acquire After Hours Software Inc, a privately held 33-employee Los Angeles developer of personal information management products — TouchBase, Datebook — for Apple Computer Inc's Macintosh.
+Terms were not disclosed.
+VOCALIS BORN IN LOGICA BUY-OUT
+Logica Plc is letting the Callserver Unix-based speech and call processing activities developed at its Cambridge research lab go in a management buyout for £187,000 and up to £1.3m over the next five years.
+The new Vocalis Ltd starts life with 13 employees.
+INDIA TO SELL SHARES IN PHONE COMPANY TO PUBLIC
+Except in France, where the idea is still regarded as politically incorrect, and in Germany, where it appears to be politically impossible, floating shares in the phone company is part of fiscal orthodoxy these days, and India proposes to raise about $32m by selling a 16% stake in the New Delhi-based telephone company Mahanagar Telephone Nigam Ltd to the public this year to help finance India's five-year telecommunications development plan, Reuter reports.
+‘Apart from floating the shares, we are also seeking loans at reasonable interest rates from the World Bank,’ Minister of State for Communications Sukh Ram announced at the Asia Telecom trade show in Singapore yesterday.
+The five-year plan — despite liberalisation, India is still locked into the shackles of state planning — which runs until March 1997 calls for investment of $12,900m for telecommunications.
+The Indian government currently owns 80% of the company with the balance held by Indian unit trusts and institutions.
+The 22 foreign financial institutions licensed since September to buy shares on Indian stock markets will be eligible to buy shares in the company.
+The government will announce in two to three months a short list of eight foreign companies and Indian partners from 30 candidates bidding to provide cellular service in Bombay, Delhi, Calcutta and Madras.
+AT LAST— IBM ADDS ETHERNET TO THE 3174 CONTROLLER
+In one of those announcements that trigger a double take in observers who find it hard to believe the function had not been available for years, IBM Corp this week finally added Ethernet support for the 3174 cluster controller, long after most users must have given up on the idea and made other arrangements.
+There are three new 3174 Networking Server models, an Ethernet Adaptor for existing 3174 models, new Configuration Support-C Release 4.0 Licensed Internal Code — which is only for Ethernet users — and an upgrade package consisting of the new code, the Ethernet Adaptor, 4Mb of extra memory and a 20Mb disk at a discount price.
+The new 3174 Models 14R, 24R, and 64R with Ethernet, and the Ethernet Adaptor for current 3174 controllers make it possible for attached dependent terminals — ASCIIs as well as 3270s — to access SNA and TCP/IP hosts via an Ethernet.
+There are TCP/IP enhancements such as TN3270, TCP/IP host printer support, and SNMP MIB-II to be made available as a Request Price Quotation item in March next year for both Configuration Support-C Release 3.0 and 4.0.
+Ethernet support makes it feasible to use 3270 and ASCII terminals to access both traditional hierarchical SNA environments and TCP/IP environments using a single network, IBM says.
+Supported Ethernet gateway configurations are similar to those currently supported by 3174 Token Ring gateway configurations.
+The Ethernet adaptor costs $4,045 and IBM is in no hurry to get it out — it does not arrive until December.
+The upgrade package is $9,755, and the new 3270 models cost $9,160 to $14,580, also in December.
+Release 3 of the internal code is also new, and supports connections to SNA, APPN and TCP/IP environments, adding 3174 APPN Network Node compatibility in environments where the host is a Low Entry Networking node, APPN End Node, APPN Network Node, Migration Data Host or Interchange Node; support for multiple links into a LEN subarea from an APPN network comprised of 3174s and other APPN nodes; and support for the transfer of 3270 and APPN datastreams across a single SDLC or Token-Ring link between a 3174 and an AS/400 running OS/400 2.2 up.
+Release 3 is out in June.
+DUN & BRADSTREET TRIES TO REASSURE MAINFRAME CUSTOMERS AS IT MOULDS A NEW COMPANY
+By Alison Hawkings
+At its annual user conference in Washington DC last week, Dun & Bradstreet Software Inc attempted to allay concerns over its move into the world of client-server and open systems by promising users a more customer-oriented business strategy.
+Hank Holland, president and chief executive, said the firm would continue to support its E and M mainframe series software for another seven to 10 years, but would start to reduce research and development expenditure in favour of client-server environments over the next three years.
+Dun currently spends 57% of research and development funds on host-based systems.
+Other user concerns included the high price of maintenance and product quality.
+Recent research carried out by the company shows that 92% of its existing 12,000 customers worldwide are reluctant to rush to open systems for the sake of fashion.
+Holland says ‘We're in the process of creating a new company and the plan is to make the transition to client-server as relevant to our customer as possible.
+If that means doing it more slowly than others then that's how it'll be.’
+Over the next three years Dun & Bradstreet says its business will evolve into three different areas.
+It expects the number of mainframe customers to decrease by 44% — they'll be interested in value added software to their current mainframe solutions.
+More than 38% users will have re-engineered their information technology business strategies in favour of client-server environments and 18% of users are expected to downsize operations to mid-range Unix systems for price-performance reasons.
+Dun hopes its support for Microsoft Corp's Windows NT via SmartStream will pull in large corporate personal computer users looking to upsize operations.
+Dun & Bradstreet is also developing a range of migration tools.
+Key to D&B's shift to client-server strategy is SmartStream, its Windows-based decision support and transaction processing environment with add-on finance and accounting modules for Unix and Windows NT systems.
+According to Holland, SmartStream will provide users with greater productivity gains, better decision support than current offerings and improved information access to other Dun & Bradsteet credit databases and external databases, such as Microsoft Access and Sybase Inc's SQL Server.
+To support distributed computing environments, Dun & Bradstreet says SmartStream will include support for the Open Software Foundation Distributed Computing and Management Environments.
+The firm is also committed to integrating object technology to improve workflow automation, systems management and decision support functionality.
+Dun & Bradstreet is currently developing a skeleton object-based framework and is in negotiations with several object software vendors to license technology.
+SmartStream supports a variety of Unix systems including HP-UX, DG/UX and Digital Equipment Corp Ultrix.
+The NT version is currently in beta test and will be available by the end of the year.
+SmartStream's biggest drawback is its lack of support for IBM Corp mid-range AS/400 and RS/6000 systems.
+D&B seems to have forgotten that IBM is its largest mainframe customer base and says there are no plans to convert to these systems for another year or so.
+Dun & Bradstreet Software Inc has hired Fred Newall, former vice-president of NCR Europe, to head-up its European operations as vice-president following the departure of Pierre Donaldson.
+The European operation reached only 80% of its profit target although UK profits were up 25% in 1992 on sales that rose 17% to £32.4m.
+Newall will report direct to Hank Holland, who is successor to the retiring Management Science America founder John Imlay.
+THE DEUTSCHE BUNDESPOST TELEKOM GIVES THE NETWORK MANAGEMENT FORUM's OMNIPOINT A FURTHER BOOST
+The Deutsche Bundespost Telekom has joined the swelling number of service providers officially endorsing the Network Management Forum's OmniPoint network management specification by incorporating it into its procurement strategy.
+Its decision comes as the Forum, which sponsors OmniPoint, nears agreement on conformance testing.
+The OmniPoint Procurement Guide, which aims to enhance interoperability between products and systems based on different standards, is to be incorporated into Telekom's procurement guidelines for all its data services, including packet- switched, Frame Relay and Metropolitan Area Networks, and leased line services.
+Telekom it plans to buy products wherever possible, as opposed to making them internally, in order to encourage competition — to bring prices down — and to take advantage of applications programming interfaces to increase the reusability of software.
+At the CeBit show in March, Peter Delfs, executive manager for network management systems, indicated his intention.
+‘We feel that the Forum's goals are in line with ours.
+There are many groups dealing with standardisation, but each deals only in a specific area.
+As an industry-wide co-ordinating force, the Forum's specifications and views have a greater impact than those of a single carrier,’ he said.
+As yet, OmniPoint is still in its first release, with OmniPoint 2 set for the end of 1994.
+In its existing form, OmniPoint contains no procedures for conformance and interoperability testing, although Beth Adams, the Network Mangement Forum's managing director says these are near completion.
+‘With anything new, testing technology typically lags by a small amount,’ she said.
+Deutsche Bundespost Telekom joins AT&T Co, British Telecommunications Plc, Stet SpA, France Telecom and Telefonica de Espana SA in in supporting OmniPoint.
+TRANSARC DISTRIBUTED COMPUTING ENVIRONMENT AND ENCINA FOR SOLARIS
+Pittsburgh, Pennsylvania-based Transarc Corp will begin shipping its Distributed Computing Environment and Encina transaction processing monitor for SunSoft Inc Solaris 2.1 and 2.2 from next month — the development kits for both the environments have been available for over a year.
+The UK's Protek Ltd, Investronica SA in Spain and Axlan SA in France will distribute the CD-ROM-delivered software in Europe.
+As part of its Common Open Software Environment effort, Sun Microsystems Inc's SunSoft is also expected to begin marketing, support and distribution of Transarc Distributed Computing Environment for Solaris 2.2 once terms have been agreed.
+DCE Base Services which must be running on every Solaris machine in a DCE environment, costs $300.
+DCE Call Directory Service and DCE Security Service, which must feature on at least one machine in a DCE environment cost $2,500 each.
+DCE Application Development Tools are $150 and DCE Enhanced File Services, which are due in the fourth quarter, are $3,000.
+DCE Media/Manula kit is $600.
+And support costs 20% of the software list price.
+CONCURRENT MOVES ITS REAL-TIME UNIX UP TO SYSTEM V.4.2 LEVEL, HAS REALTIME X, FAULT-TOLERANT SYSTEM ARRAYS
+Oceanport, New Jersey-based Concurrent Computer Corp has has opted to take Unix System Laboratories Inc's Unix System V.4.2 MP as the operating system for its next generation of real-time Unix systems, which are due out by the end of this calendar year.
+The new multiprocessors, using the MIPS Technologies Inc R4400 chip, will initially be offered with Concurrent's existing Unix implementation, with the System V.4.2 MP version becoming available six months later.
+Concurrent is  currently working on integrating the system with its own real-time and multiprocessing technology, which goes beyond the simple symmetric multiprocessing features offered by the Unix Labs version — Concurrent customers using the machines for applications such as simulation, measurement and control, weather and aerospace and signal intelligence analysis often need more control over how applications use the multiple chips.
+Despite the extensions, Concurrent says it likes to stick to the standards wherever it can.
+It is also a leading member of the MIPS Application Binary Interface initiative (along with other MIPS users such as NEC Corp, Tandem Computers Inc, Pyramid Technology Corp and Silicon Graphics Inc), and says it is perfectly happy with its choice of chip.
+The company has also announced a real-time version of X Window, which it says it is perfectly happy to licence to other interested parties.
+RealTimeX brings determinism to X applications, says the company, meaning that Windows containing high-priority information can be given ‘pop to the top’ priorities so that important warning messages are displayed.
+And the company also rolled out the second generation of its fault-tolerant Redundant Array of Inexpensive Systems environment, which it claims extends the RAID redundant disk array to a higher level.
+Edinburgh Portable Compilers
+Using the RAIS software, based on Sun Microsystems Inc's Open Network Computing distributed computing and with a Motif-based front-end, users can tie VAX/VMS, Unix workstations, MS-DOS and Macintosh client systems to pairs or groups of Concurrent servers, with automatic re-routing in the event of failure.
+This provides fault resiliency at the systems, network and disk level, says Concurrent, with software intelligence to manage the resilience.
+Up to four redundant networks and ‘unlimited’ redundant systems can be supported.
+Open Systems Interconnection networking extensions and distributed computing tools based on the NetWise-Sun Open Network Computing remote procedure call.
+Its RTnet-OSI V 3.0 networking software suite has been enhanced to include expanded support for a larger number of X25 wide area and Ethernet local area connections.
+The enhanced Distributed Transaction Recovery System-based distributed computing application that provides ensured integrity for distributed computing transactions.
+The application is based on X/Open's Transaction Demarcation technology and supports transactions with X/Open XA interface-compliant databases.
+The company has gone to Scotland, to Edinburgh Portable Compilers Ltd, for compilers: Edinburgh will put its ANSI C, C++ and Fortran 77 compilers and tools on the new MIPS R4400-based systems.
+Concurrent also launched the AD16V, a 16-channel simultaneous sampling analogue input board that delivers 16-bit resolution with sampling rates up to 150KHz per channel; and the DA16V four-channel digital-to-analogue module for analogue control and signal generation, with 16-bit resolution and update rates of 100KHz per channel.
+The products, combined with Concurrent's Intelligent Bus Interface Module for VMEbus provide an intelligent data movement subsystem that gives a Concurrent data acquisition system ‘enormous’ data capture capability.
+MOTOROLA SIGNS CHORUS FOR MICROKERNEL ON POWERPC…
+French microkernel operating system developer Chorus Systemes SA has come to an agreement with Motorola Inc's Semiconductor division for joint development and marketing of a combination of the Chorus Unix System V-compliant microkernel technology with the PowerPC chip Motorola is developing with IBM Corp.
+The two will offer products with the Chorus microkernel embedded on the PowerPC chip, in response, they claim, to demand from telecommunications manufacturers.
+Chorus will optimise the microkernel for the PowerPC.
+A development kit for applications developers will be available by year-end, and open microkernel on-chip products will be on the market by the first quarter of 1994.
+Chorus has a similar deal with Thomson CSF SA for the Inmos Transputer, and plans to team with other chip manufacturers.
+MOTOROLA WINS BIG CORPORATE DEAL WITH ALCATEL
+Chorus Systemes SA has also signed a $21m deal with Alcatel Alsthom SA for the latter to use Chorus microkernel technology throughout its operations.
+Alcatel — which has been working with Chorus since 1989 on its PABXes, will now expand its use of the microkernel to such areas as process control syst ems within power stations and embedded transport control systems -Alcatel products include the French Train a Grande Vitesse.
+Alcatel PABXs running Chorus began shipping earlier this year, with volumes expected soon.
+Other Chorus telecommunications customers include GEC Plessey Telecommunications Ltd and the state-owned France Telecom.
+SGS LAUNCHES 1M FLASH CHIP, PLANS HIGHER DENSITIES
+SGS Thomson Microelectronics BV has a new 1M-bit M28F101 Flash memory device and says it is planning to sample a series of multi-megabit EPROM Flash memories this year.
+The 128Kb by 8-bit M28F101 is compatible with Intel Corp's Flash architecture.
+It is built with proprietary 0.8 micron CMOS technology, and follows the 1.2 micron 256Kb and 512Kb Flash memories that were introduced last year.
+It is available now but supplies are not huge and priority will be given to prized customers.
+Despite the excitement over Flash memory, SGS Thomson is not convinced that it will replace EPROMs, which remain a cheaper alternative.
+To prove its point, it has announced new 1M-, 2M-, 4M- and 8M-bit EPROMs which are to be built using the 0.6 micron process developed in the company's facility in Agrate, Italy, as part of the Joint European Sub-micron Silicon Initiative programme.
+SGS Thomson says it intends to sample the devices by the year end.
+STANDISH REPORT CLAIMS VENDORS ARE COOKING THEIR TPC-A FIGURES AGAIN
+In a new report, the Standish Group claims that Oracle Systems Corp and other suppliers have conspired to run the TPC-A Benchmark with results ‘which are, in our opinion, seriously misleading.’
+The report deals with recently audited TPC-A and TPC-B benchmark results offered by IBM Corp, Hewlett-Packard Co, Digital Equipment Corp and others using Oracle7 with the ‘discrete transaction’ option.
+It says Oracle7 implements a poorly documented, special transaction model option known as the discrete transaction.
+Discrete transactions bypass many of the integrity features and general functionality of Oracle7 and significantly cuts the processing ‘path length’ of the transaction.
+The integrity features remaining in the discrete transaction are those just sufficient to execute the TPC-A benchmark test —‘a notoriously undemanding test,’ according to the group.
+It says this limited functionality option could be used ‘by very few, if any, users developing production applications.
+This being the case, the Standish Group believes that ‘the discrete transaction option was implemented in Oracle7 solely for the purpose of running the TPC-A benchmark as efficiently as possible.’
+SANTA CRUZ OPERATION UNDER FIRE FOR GOLDEN HANDSHAKE TO MICHELS
+On the threshold of going public, The Santa Cruz Operation Inc is now catching flak for paying co-founder Larry Michels a $354,000 golden handshake after he was forced to leave the Santa Cruz, California company in December because of sexual harassment charges.
+The San Jose Mercury News, which reported the story, citing documents filed this month with the US Securities & Exchange Commission, noted that it was unclear whether the settlement was triggered by an existing employment agreement or was offered by Santa Cruz in an attempt to get the case out of the way so the stock offering could be pursued without controversy.
+The paper quotes an irate lawyer, accustomed to representing women pursuing harassment claims and incensed over the double standard, as saying Santa Cruz could have fired him for misconduct, employment agreement or no, and paid him nothing.
+‘This shows the company didn't learn anything from this lesson.
+It's absolutely outrageous.’
+The Commission filing indicates that Michels, whose Santa Cruz shares would be worth around $51.1m with the offering, is receiving $16,667 a month in salary until June 1994, a total of $300,000, provided he doesn't work for a competitor or try to get back on Santa Cruz's board, and $3,000 a month for expenses.
+He is allowed to pick his successor on the board so long as the person is ‘reasonably acceptable’ to the other directors.
+As Santa Cruz's landlord, the partnership in which Michels is a principal gets $104,000 a month in rent.
+Santa Cruz has also agreed to pay the four women suing Michels on the harassment charges a total of $1.25m to settle the complaint.
+SEQUENT PRICES ITS NT WINSERVERS AT £24,000 TO £200,000 IN THE UK
+Unveiling its new WinServer multiprocessors running Microsoft Corp Windows NT, Sequent Computer Systems Inc says the home-grown WinServer 5000 comes with up to 16 Intel Corp 50MHz 80486 parts — scalable to 30 CPUs — 2Gb memory, 384 disks and 32 SCSI channels.
+It costs £197,620.
+There are three Tricord Systems Inc-developed boxes.
+The Winserver 1000 uses two 66MHz 80486 chips, comes with 512Mb memory, nine disks and two SCSI channels.
+It is priced at £24,000.
+The WinServer 1500 uses two 80486s, has 512Mb RAM, up to 21 disks and 4 SCSI channels — it costs £31,500.
+The WinServer 3000, with up to six 66MHz 80486 processors has 1Gb RAM, up to 192 disks, 16 SCSI channels and optional fault-tolerant data protection and redundant power supplies.
+List price for it is £62,300.
+All will ship with the Windows NT Advanced Server.
+Sequent is now a Microsoft Solutions Channel Partner and says it will license other Microsoft communications and system management tools for the WinServers.
+UNGERMANN HAS EIGHT-PORT DRAGONSWITCH
+Tandem Computers Inc's Ungermann-Bass Inc announced a new smaller eight-port model of its DragonSwitch for Ethernet product.
+The new model joins the previously-announced 16-port model, although it has an earlier availability date: the company is aiming for late this quarter for the eight-port model, while the 16-port version is not expected until the third quarter.
+Field-upgradable to 16 ports, the new model gives the eight Ethernet ports dedicated 10Mbps performance, and switches traffic across the high-speed PlusBUS backplane in the Access/One Enterprise Hub.
+A single Access/One hub enclosure supports up to five DragonSwitch modules, which can be either eight- or 16-port.
+Pricing will begin at $900 per port for both versions of the product.
+COSE TO SET OUT ITS CASE AT XHIBITION
+The next public outing for the Common Open Software Environment crew could be at Xhibition, June 7 to 11 at the San Jose Convention Center in California.
+It will host an executive panel on distributed computing that will argue the Distributed Computing Environment versus Sun Microsystems Inc's Open Network Computing versus a COSE hybrid case for developers and presumably tackle issues such the proposed COSE-compliant Motif and whether the application programming interface will stick.
+COSE has also agreed to do a plenary-style panel a la UniForum that should attempt a general statement of intent, an update and try to clear up any COSE confusion.
+And it will do a session on the desktop, defining the components and, it is hoped, taking us past its St Patrick's Day position.
+Apparently the un-group is getting skittish about its voice being heard at Comdex Spring over the din the Big Green Machine, Microsoft, will be making.
+Meanwhile, Xhibition has rounded up three keynote speakers: DEC's vice-president of research Sam Fuller will speak on ‘Unix and Microsoft Windows NT, Friends or Foes?;’
+Novell vice-president Robert Davis will talk about ‘Trends in Network Computing’ and the issues raised for local network and Unix integration caused by Novell's acquisition of Unix; and Microsoft's Corporate and Network Systems Business Unit group product manager David Thacher will talk Windows NT.
+AUSPEX ADDS HIGH-END NS 6000 NETWORK FILE SYSTEM SERVER
+Auspex Systems Inc, Santa Clara, California, has introduced a new model in its Network File System server line, the NS 6000, claiming it supports database or back-up applications running alongside Network File System input-output operations without one activity impacting the performance of another.
+The NS 6000 can support up to 200 workstation users and replaces the existing NS 5500.
+It runs version 1.5 of the company's NetServer System software, which includes on-line back-up, partition support and performance management.
+The NS systems, which separate network input-output processing from Unix processing, use an Mbus-to-VMEbus interface controller chip to provide direct memory access to the host 40MHz Sparc CPU.
+Auspex says the NS 6000 functional multiprocessing architecture eliminates input-output bottlenecks by separating network, file and disk management functions  usually performed by the host CPU.
+The controller chip, co-designed with Fujitsu Ltd, can access the host CPU at 40Mbps compared with the 5Mbps to 10Mbps of a Sun Sparcserver 690MP, Auspex claims.
+The system supports Delta Microsystems Inc's FreezeFrame back-up software, which can load up to 120Gb data using standard Unix utilities.
+Version 1.5 of the Auspex software supports the export of tertiary file systems and connection, via the host processor, to mass storage subsystems.
+The NS 6000 supports up to eight Ethernet ports and delivers a claimed 1,703 SPECnfs operations per second while maintaining a performance rate of 20 SPECint92 for applications.
+Running Solaris, the NS 6000 comes with up to 640Mb RAM, 120Gb disk, one or two file processors and three storage processors and five SCSI-2 drives.
+Auspex says it will upgrade the box to higher performance Sparc Mbus modules over time.
+Prices start at $140,000 and a base configuration is bundled with $25,000 of software.
+The existing NS 3000 and NS 5500 systems can be upgraded to a 40MHz Sparc and MVIC processor for $20,000.
+READY SYSTEMS LAUNCHES XPERT PROFILER FOR REAL-TIME ANALYSIS OF APPLICATIONS, SETS NETWORK EXECUTIVES
+Ready Systems Inc, Sunnyvale, California, has introduced Xpert Profiler, an application performance and execution analysis tool for real-time embedded systems.
+According to founder and president Jim Ready, Xpert enables users to monitor the behaviour of code as its being written.
+It tracks system flow, ISR nestings, task switching and identifies bottlenecks.
+Design failures are displayed graphically, as are statistical tables and execution timelines.
+It also includes a profiling library, which stores samples of code as an application is being developed.
+Xpert is out now and runs on a host Sun Microsystems Inc Sparcstation — support for Hewlett-Packard Co HP 9000/700s will follow later this year.
+Ready also launched SNX, a set of network executives supporting multifarious protocols including TCP/IP, FDDI, SNMP, SLIP, ARP, Ethernet, Telnet and FTP.
+SNX, based on the Streams networking standard, enables developers to prioritise tasks across both target and host machines; it will ship by year-end.
+SANTA CRUZ FACES UP TO THE GATHERING COMPETITION WITH OPEN DESKTOP LITE, PRODUCT REORGANISATION
+Now faced with competition from a gamut of Unix-on-iAPX-86 contenders, Santa Cruz Operation Inc, which is also in the process of taking itself public, is reorganising its Unix system software lines into a more orderly collection of distinct desktop and server products.
+They are based on a new version 3.0 of its Open Desktop operating system bundle and Santa Cruz Unix system.
+The most interesting new addition is Open Desktop Lite, a cut-down version of release 3.0 that is pitched squarely at the stand-alone iAPX-86 workstations also being coveted by SunSoft Inc, Univel Inc and NeXT Computer Inc.
+Santa Cruz Open Desktop 3.0 — formerly Santa Cruz Open Desktop Personal System — includes a new kernel iteration, the absurdly named Santa Cruz Unix System V/386 release 3.2 version 4.2 (single user), with C2 security, X Window X11.5, IXI Ltd X.desktop manager, 20 applications and utilities, TCP/IP, NetBIOS, Network File System, Microsoft Corp LAN Manager Client and support for protected mode MS-DOS 5.0 and Windows 3.1 applications via Locus Computing Corp's Merge.
+Server products
+It costs from £1,000 on CD-ROM to £1,300 on 3.5’ disk, around the same as the existing version, and requires 12Mb RAM and 120Mb disk.
+Santa Cruz Open Desktop Lite is pitched as the minimum requirement for a desktop graphical workstation with 8Mb RAM and 100Mb disk.
+It comes with the same features as the Open Desktop 3.0, minus networking and Merge emulation.
+It is expected to come in at around or below the price of SunSoft's Solaris x86 desktop system which is £600 — $800.
+Santa Cruz's server products are now divided into three offerings.
+The multi-user Santa Cruz Open Server Enterprise System includes everything in Open Desktop 3.0, plus database tuning, Novell Inc IPX/SPX protocols, and Locus PC Interface server.
+It replace Open Desktop server system as Santa Cruz's high-end offering and costs from £1,850 for a 16 user licence on CD-ROM to £2,875 for a 512 user licence on 3.5’ disks.
+Santa Cruz Open Server Network System comes with the same basic system and networking components, but loses the graphical interface and Microsoft emulation technologies.
+It is priced at £1,570 for a 16-user licence on CD-ROM to £2,280 for up to 512 users on 3.5' disks.
+The base Santa Cruz Unix V/386 Release 3.2 version 4.2 — without graphics, Microsoft compatibility and networking — is £500 for a two user licence to £1,550 for 16 users.
+All are available from June 1.
+A software development environment and multiprocessing are extra.
+Version 3.0 of Santa Cruz's MPX multiprocessing technology — it is not multithreaded — requires 16Mb RAM per CPU and includes a new Hardware Abstraction Layer which retains system characteristics of some 22 Intel iAPX-86 multiprocessor boxes.
+The HAL enables existing MPX users with any of these systems to upgrade to MPX 3.0 without conversion.
+Other system configurations will be added to the Hardware Abstraction Layer as they come along.
+MPX 3.0 is £1,250.
+The new operating systems haven't been recompiled for Intel's Pentium — Santa Cruz says it would have to support two product lines otherwise — and sales on 80386 systems still make up half its business.
+It is offering optimised Pentium compilers for those that want to do the job themselves, but Santa Cruz claims performance increases by 170% on Pentium from an 80486 even without recompiling — and around 230% with recompilation.
+SCOTTISH ENTERPRISE SOFTWARE GROUP PULLS OUT ALL THE STOPS TO MAKE THE HIGHLANDS A HOTBED OF COMPUTING
+The Scottish Enterprise Software Group which, as reported earlier (CI No 2,158), is looking to make Scotland a top European computing centre is looking to encourage take up of high performance computing with its Forum for Open Systems, launched in April.
+The Forum is a special programme set up to bring Scottish information technology vendors and users together.
+It is part funded by membership subscription, and part government funded at present, and has also won a European Community grant.
+Full membership costs £250 per annum.
+It boasts 71 members representing Scottish business users, software producers, management consultants, technical consultants and systems integrators, the academic community, government and training.
+It is also affiliated to X/Open Co Ltd, UniForum, Unix International Inc and the UK National Computing Centre alongside the Department of Trade & Industry, European Commission and the Scottish Local Enterprise Companies.
+The Forum is taking a number of strategic directions to get its message across.
+These include the introduction and partnering scheme ‘matchmaker’, which operates within Scotland and outside; information provision over a range of issues from development to funding; training and accreditation; and collaboration with manufacturers and standards bodies.
+Already it has a conference programme under way for members and pilot Open Systems Information Centre for members.
+It is planning an Open Connections Programme to forge links between users and vendors to begin late summer, and is now undertaking a feasibility study into setting up an Evaluation Laboratory to provide a showcase for users.
+It has a number of clearly defined aims to pursue over the next three years.
+For instance, it is hoping to stem the flow of computer spending out of Scotland.
+Less than 40% of the country's £500m annual expenditure is reckoned to be channelled into Scotland's domestic industry, a proportion that the Forum intends to increase by around 50%.
+It also plans to implement an annual Scottish IT Spend review.
+Scottish graduate placement in computing will be monitored, with a view to increasing numbers by up to 50%, and there are also hopes of increasing the total of training days in Scotland by 50%.
+Open systems
+Quality also is to be addressed with efforts made to increase the number of accredited companies and to introduce a Scotland-wide individual-consultant accreditation scheme.
+It is hoped the Forum will broker an average of £1m new projects a year in the first three years and will seek to raise the profile of the industry through international events and through press coverage.
+Open systems are also likely to play a part in the Highlands economy which is set to be revitalised thanks to the ISDN telecommunications system recently installed by British Telecommunications Plc in the area.
+Improved communications are considered to be an asset both to traditional local industries such as oil, fish and drink and important for new investment.
+The new telecommunications backbone comprises high capacity fibre optic cables and microwave links rather than copper cabling, which means that voice lines are sharp and clear — and that high capacity data links are also available for the businesses that need them.
+Around 70% of the area's population and business are linked to digital exchanges and BT is already considering upgrading the remainder so that soon anyone in the Highlands can be ISDN-linked.
+The predicted demand for ISDN — consultancy Prognos reckons it will be the basis for business networks by the year 2000 — and the  likelihood that it will become cheaper over time bodes well for the Highlands.
+Teleworking is one area for example which is now open for exploitation.
+A company has set up recently in Crossaig, Strathclyde for instance that makes use of the ISDN system to distribute abstracts from medical journals to its customers.
+It uses optical scanning to store information on computer and then networks it to scattered staff who index, abstract and compile the material for an on-line database in Amsterdam.
+At BT's Thurso help desk in Caithness, 30 staff provide on-line help to BT computer users in London and a further four in a tele-service centre provide desktop publishing and video conferencing to other departments and non-BT companies.
+As Calum Davidson of Highlands & Islands Enterprise put it at a recent Open Forum conference, ‘In the south of Scotland, in Silicon Glen, the Scottish workforce use their skills to produce IT equipment for their world.
+In the North of Scotland, in Telecom Glen, the Highland workforce use their skills, unleashed by the Telecom and IT infrastructure of the area to process knowledge for the rest of the world’.
+CONCEPT SA SAW GREATLY REDUCED LOSS FOR 1992
+Paris-based Concept SA, one of Credit Lyonnais's software and services companies, has reported a reduced net loss on lower revenues in 1992, the opening of a Swiss subsidiary and the availability of Tresorerie Manager, a European cash management application.
+Comparing like with like, Concept says that consolidated 1992 revenues were down to $62.5m from $71.5m; its net loss of $11.9m was only a fraction of 1991's whopping $107.3m deficit.
+In 1992, Concept sold its 51% stake in CCMC to Credit Lyonnais, the French state-owned banking and financial group.
+The losses in 1992 were due to non-recurrent factors, such as its share of then-subsidiary CCMC's losses, losses on disposal of assets during restructuring and exceptional provisions for amortisation of goodwill.
+The company noted that its sales of application software were up 12%, while sales in other areas such as its engineering systems business, were down.
+By the end of 1992, Concept said it was free of debt, and has net cash of $2.5m after its acquisition of Action Systeme SA, a service bureau.
+The company's new Swiss office in Zurich aims ‘to increase Concept's share of the financial management software market in Switzerland, Austria and Germany,’ said its managing director Dietger Kruger, in a statement.
+Picasso
+Charles Picasso, Concept's chairman and chief executive, said also in a statement that the opening of the new subsidiary is ‘in line with Concept's aim to double sales outside France by 1995.’
+Concept also announced that the first version — needless to say the French language one — of its new Windows-based Tresorerie Manager cash management software went on sale on April 27.
+Versions for Italy and the Benelux countries are expected to be ready later in the second quarter and a Spanish version in the last half of 1993, the company said.
+The application manages financial instruments, including treasury bills, short-, medium- and long-term loans and interest rate hedges.
+Based on a client-server architecture, the application operates with Oracle and Gupta Corp's SQLBase database management systems on Intel Corp 80486 processors.
+It will be available in the future under Unix with the Open Software Foundation's Motif and Unix International Inc's Open Look interfaces the firm said.
+WORLD CHIP MARKET SEEN GROWING 20% THIS YEAR, BUT FORECAST LOOKS OPTIMISTIC
+The worldwide semiconductor industry is expected to reach $71,900m by the end of 1993 and grow to $96,000m by 1996, according to a forecast prepared by World Semiconductor Trade Statistics Inc for the San Jose-based Semiconductor Industry Association.
+‘The projected 20% growth in the world semiconductor market this year is due to increased demand for chips used in personal computers and related applications,’ according to Doug Andrey, Director of Industry Statistical Programs for the Association.
+‘The semiconductor market also is being helped by the gradual global economic recovery that began in the US in the fourth quarter of 1992’— remark that seems to ignore the fact that continental Europe is plunging into ever deeper recession while the jury is out on whether recession has bottomed in Japan.The North American market should reach $23,600m in shipments in 1993 for a growth rate of 28.1%.
+North America is expected to reach $31,200m by 1996.
+The European market, with $11,500m in shipments in 1992, is controversially forecast to grow 18.1% to $13,500m this year and to reach $17,600m in 1996.
+The Japanese market, with $19,400m in shipments in 1992, is seen growing 11.6% in 1993 to $21,600m, and to hit $28,500m in 1996.
+And the Asia Pacific is is expected to rise 24.3% to $13,200m, and to reach $18,700m in 1996.
+In the past, the forecasts for the Semiconductor Industry Association have turned out to be over-optimistic, and this one appears to follow the same trend.
+SHARE & BOND ISSUES
+CompUsa Inc, which operates a chain of computer stores, filed with the US Securities & Exchange Commission for a public offering of $85m senior subordinated notes due 2000.
+Proceeds will be used primarily to repay revolving credit borrowings, to finance new store openings and for working capital.
+The joint underwriters are Kidder, Peabody and Co Inc, First Boston Corp and Salomon Brothers Inc.
+Megatest Corp, San Jose builder of semiconductor test equipment, got its initial public offering of 2.6m shares, 1.8m of them new, away at $12 per share.
+The managing underwriters were Robertson, Stephens & Co LP and Montgomery Securities.
+OTHER FINANCINGS
+Blyth Holdings Inc, Foster City, California developer of client-server software, raised $4.45m in a private placing with a group of three investors led by Amerindo Investment Advisors.
+The new shares represent about 3.9% of the enlarged equity on a fully diluted basis at the time of closing.
+‘With these capital infusions, we offer our customers added assurance of Blyth's long term capability to meet the growing needs for product and market development,’ the company commented on the placing.
+Mylex Corp, Fremont, California processor board and disk array controller maker, has raised $1.54m in a private placing of convertible subordinated debentures paying 8% per annum, and convertible into common at any time during their life at $5.00 for each share of common.
+The purchasers were primarily existing major shareholders of the company.
+The funds raised will be used by Mylex for working capital and to assist in the Company's transition to more technologically-advanced computer systems products — further enhancements on its disk array controllers, servers and subsystems and further design on the company's planned Pentium products.
+COMPANY RESULTS
+Ampex Inc saw first quarter net losses of $20.7m, after $1.8m restructuring charges, up from losses of $10m last time, on sales down 18.5% to $88.6m.
+IDB Communications Group saw first quarter net profit up 237.2% at $4.4m, on turnover up 121.5% to $64.4m.
+Net per share rose by 92.3% to $0.25.
+Information Display Technology Inc saw first quarter net profit of $10,000 against losses of $60,000 last time, on turnover that fell 1.8% to $10.7m.
+KnowledgeWare Inc has turned in third quarter net losses of $30.4m, after $22m restructuring charges, against profits of $1.5m last time, on turnover that fell by 5.3% at $25.8m; net losses for the nine months stood at $28.6m up from losses of $2m last time, on turnover that rose 7.7% to $88.3m.
+Comparisons are made with restated 1992 figures.
+Loral Corp has turned in fourth quarter net profits down 2.1% at $39.6m, after $17.8m charges due to the early payment of debt, on turnover that rose 22.7% at $974.1m; net losses for the year to March 31 stood at $92.1m, after 4233.4m charges due to the cumulative effect of an accounting change, against profits of $121.8m last time, on turnover that rose by 15.7% to $3,335.4m.
+Net earnings per share fell by 22.1% to $0.95 in the quarter.
+ Micrografix Inc saw fourth quarter net losses of $4.3m, after $1.4m non-recurring charges, against profits of $2m last time, on turnover down 36.8% at $11m; net losses for the year to March 31 stood at $2.8m, after $1.9m non-recurring charges, against profits of $5.1m last time, on turnover up 8.2% to $56.5m.
+Comparisons are with restated figures.
+MilTope Group Inc has reported first quarter net profit down 29.2% at $730,000, on sales down 31.2% to $20.2m.
+Net per share fell by 27.8% to $0.13.
+Superconductor Technologies Inc has reported first quarter net losses of $207,000 down from losses of $656,000 last time, on turnover up 83% to $1.5m.
+Symbolics Inc has reported a third quarter net loss of $1.1m, up from a loss last time of $389,000 on turnover that declined by 38% at $3.2m.
+The company, which is trading under  Chapter 11 bankruptcy protection, did not give the nine month figures.
+Trinzic Corp has reported fourth quarter net profits of $143,000 against losses of $1.1m last time, after $1.2m non-recurring charges related to the write-off of software last time, on turnover down 7% at $11.1m; net losses for the year to March 31 stood at $8.9m down from losses of $11.7m last time, on turnover that rose 4% to $41.3m.
+Net earnings per share amounted to $0.01 in the quarter.
+Comparisons are made with restated figures.
+Rogers Communications Inc has reported first quarter net profit up 1,037.1% at $35.5m, after $42.7m gains from the sale of stock, on turnover up 14.7% to $242.5m.
+Net earnings per share amounted to $0.20.
+Comparisons are with restated figures.
+Amounts converted at $0.80 to the Canadian dollar.
+TeleGlobe Inc has reported first quarter net profit of $9.8m against losses of $4.5m last time, after $7m non-recurring charges last time, on turnover up 25.7% to $112.9m.
+Net earnings per share amounted to $0.16.
+Comparisons are with restated figures.
+Amounts converted at $0.80 to the Canadian dollar.
+Sapiens International Corp has reported first quarter net profit down 37.9% at $402,000, on sales up 26.7% to $8.7m.
+Net per share fell 50% to $0.04.
+The Israeli company reports figures in US dollars.
+MINIGRAMS
+IBM Corp is leaving launch of the new top-end  mainframe disk drive to its AdStar unit in San Jose, and it now appears that the introduction has been brought forward to tomorrow — perhaps in an effort to steal Hitachi Data Systems Inc's thunder.
+Lotus Development Corp president Jim Manzi says that the company's flagship 1-2-3 spreadsheet may account for less than 50% of total revenues this quarter, for the first time in the company's history — it accounted for 74% in 1991; he also says that lower marketing and development costs should allow the company to deliver an operating margin of 15% to 18% next year.
+Cray Research Inc says it could sell 30 to 40 massively parallel systems in 1994 ‘if we do things correctly’: Derek Robb, director of sales, told Reuter that Cray's massively parallel systems cost several million dollars at the low end, and run up to the multi-millions; they link together hundreds or thousands of Alpha RISC processors and in 1994, Robb said, he ‘could see’ its parallel revenues reaching 25% of the Cray total; at the very top end, customers' budgets are now topping out at about $50m to $60m, he said, meaning the most processors it would likely offer on its T3D  system is 2,048.
+Digital Equipment Corp chief executive Robert Palmer expects to see some ‘modest reductions’ in the company's workforce next fiscal, adding that the company could conceivably downsize to 85,000 to 90,000 employees — but ‘The emphasis right now has to be on growing the business;’DEC now employs some 98,000, down from 137,000 at peak.
+Austin, Texas-based Dell Computer Corp keeps them coming — yesterday added seven new 80486-based Dimension personal computers at from $1,400 including colour monitor and enhanced graphics built in through an integrated local bus video system: the systems also include 4Mb, 170Mb disk, 3.5’ and 5.25’floppies, 512Kb video RAM MS-DOS 6.0 and Windows 3.1 installed, and mouse.
+Hewlett-Packard Co — shares up $5.125 on those sterling second quarter figures (CI No 2,171)— may be doing very well with its Unix computers (it is), but its out-and-out winner is of course the printer business: printer orders in the quarter were up a phenomenal 33% on the 1992 second quarter at $4,100m.
+IBM Personal Systems Business Unit Europe/Middle East/Africa says it had record volume of sales in the first quarter of this year, and points to Dataquest figures suggesting that it outshipped its nearest competitor by 66% during the last quarter of 1992 and the first quarter of 1993 — gaining 4% in market share over the previous six months; the company also said it reorganised its manufacturing and distribution operations at its Greenock, Scotland, plant, cutting distribution costs for its ValuePoint and ThinkPad brands by more than 65%, cutting its inventory by 17% since the end of 1992; this magnitude of savings will also be realised for the PS/2 and PS/1 lines this year.
+The long arm of Mani Pulite has now reached out and grasped the head of Siemens AG's Italian subsidiary, arresting Giorgio Scanavacca, president of Siemens Telecomunicazioni and managing director of Siemens SpA, on suspicion of corruption: the arrest was reportedly linked to alleged kickbacks to political parties paid to secure contracts with the state telephone company, ASST.
+Cable & Wireless Plc says it does not accept those claims made against it by its local partners in Digitel Telecommunications Philippines Inc (CI No 2,171) and will defend against the allegations: ‘We have received no official notification of this claim and we do not accept the validity of the allegations as we understand them from the press, and would expect to defend our position robustly,’ it said; Reuter reports from Manila that the local Cable & Wireless office says that it advised the company last September that it could not invest further in the country until a court case involving another local affiliate, Eastern Telecommunications Philippines Inc, was resolved — Eastern is locked in a legal battle with Philippine Long Distance Telephone Co and appealing a Supreme Court order denying it the right to operate an international gateway; an industry source said Digitel is tapping another major local partner and British Telecommunications Plc as new shareholders in the company.
+Needham, Massachusetts-based Cognex Corp has won an OEM contract from Tokyo Seimitsu Co Ltd, a manufacturer of semiconductor processing equipment for machine vision systems worth $2m over two years.
+The old order changeth, and how — back at the end of the 1970s, Ted Dexter and Honeywell Information Systems Ltd got together to propose to the British Broadcasting Corporation that television coverage of cricket could be enhanced with a little judicious computer intervention and the age of computer-aided sports broadcasting was born: for a decade and more a Level 6 minicomputer or successor followed the cameras and trundled around the cricket grounds of England and Wales in the back of a truck as Honeywell and successor company Bull HN Information Systems Ltd maintained the tradition — but with the first one-day match of the current series against Australia at Old Trafford yesterday, what was the legend at the bottom of the caption but ‘Intel processing’.
+Judge Vaughn Walker has dismissed three of the surviving claims in Apple Computer Inc's suit against Microsoft Corp and Hewlett-Packard Co: Apple had originally alleged infringement in 189 elements of Windows, claiming they duplicated the look and feel of the Macintosh; the judge has now removed the remaining three Microsoft Windows features — overlapping windows, animation of windows and icon movements — from the suit and reaffirmed his earlier decision that the jury shall apply a virtual identity standard in comparing the works as a whole; a pre-trial conference has been set for June 28 in the suit.
+NCR Corp is to provide third-party service for Everex Systems Inc personal computers under warranty, in the US, later worldwide; Everex is now under Chapter 11 protection.
+Sounds as if the guy is suffering from Hemingway Syndrome: ‘computers may see their silicon lives flash before their eyes, so to speak, just before they die,’ Prodigy Services Co suggests, reporting that physicist Stephen Thaler of McDonnell Douglas Corp has been playing with neural networks as a way to speed diamond crystal growth but while by day, he created and trained the neural nets, by night, he began annihilating them to see what would happen, randomly severing links, and when between 10% and 60% of the links were destroyed, the network regurgitated nonsense, but as it approached death, 90% of the connections severed, it generated distinct values that had been trained into it, and at times even output ‘whimsical’states, where it would generate values that were neither trained nor ones that would appear in a healthy net, says Thaler, who thinks it may say something about near-death experiences for humans —‘It may not just be fancy biochemistry,’he suggests.
+FIVE YEARS AGO…
+On May 19 1988, Computergram Number 932 reported that Gene Amdahl's Andor Systems planned supercompact CMOS ‘3090’ * * * IBM enlisted Los Alamos lab for second generation vector processor * * * Computer Corp of America won buyout * * * Sybolics laid off 225 people to cut its costs.

@@ -1,0 +1,315 @@
+
+
+The relevance of reformulations
+Diane Blakemore, University of Southampton, UK
+Abstract
+Some of the phenomena in this paper are traditionally classified as loose appositions.
+This classification is shown to be too restrictive to provide an explanatory analysis of all cases of reformulation in discourse.
+Following Sperber and Wilson's (1986) suggestion that style arises out of the pursuit of optimal relevance, it is argued that deliberate reformulations are a stylistic device designed to achieve particular contextual effects.
+The analysis of a range of both literary and non-literary examples shows that there is a variety of ways in which a reformulation may achieve relevance.
+In a technical text a reformulation may constrain the interpretation of the original for the purpose of ensuring a more accurate understanding of a particular concept and hence a greater understanding of the surrounding text.
+In other cases the hearer is rewarded by an array of weak implicatures, in which case we may say the reformulation achieves poetic effects comparable with those achieved through repetition.
+Keywords: apposition; discourse; implicature; poetic effects; reformulation;(optimal) relevance; style
+1 Introduction
+In an unplanned discourse the decision to reformulate an utterance may be based on the speaker's recognition that the original formulation was not an appropriate means of achieving communicative success, or, in relevance theoretic terms, on his or her recognition that the original utterance did not, in fact, achieve optimal relevance.
+For example, in [1]Mr Micawber's paraphrase could be analysed as a change of tactics in accordance with the aim of optimising relevance:2 However, speakers and writers also reformulate utterances in planned discourses.
+Such reformulations cannot be analysed in terms of a change of plan, since they themselves are part of a plan.
+This article is concerned with the question of what this plan might be, or in other words, with the relevance of reformulations.
+As I have just illustrated, a speaker may signal that an utterance is a reformulation explicitly.
+The expression in other words is just one example of a range of expressions which have been classified as apposition markers.
+However, this classification is illuminating only to the extent that apposition is well understood, and it is not clear that it is, or even can be.
+As the following examples indicate, there is considerable divergence among the relationships indicated by expressions which have been classified as apposition markers: Burton-Roberts (forthcoming) comments that the differences between these expressions shows that apposition is "an extremely loose kind of relation subsuming such functions as gloss, elucidation, reformulation, exemplification, and even correction" .
+At the same time, he suggests that a unified description could be given in terms of a theory of discourse.
+However, he does not explain just how apposition might be accommodated in a theory of discourse.
+My aim in this article is to show that given a relevance theoretic approach to utterance interpretation, it is possible to develop a better understanding of what some of these so-called apposition markers indicate.
+It will be argued that the decision to put something in other words is essentially a decision about style, a point which is, perhaps, anticipated by Burton-Roberts when he describes loose apposition as a rhetorical device.
+However, he does not justify this suggestion by giving the criteria for classifying a mode of expression as a rhetorical device.
+Nor does he specify what kind of effects might be achieved by a reformulation or explain how it achieves those effects.
+In this paper I follow Sperber and Wilson's (1986) suggestion that rhetorical devices like metaphor, irony and repetition are particular means of achieving relevance.
+As I have suggested, the corrections that are made in unplanned discourse are also made in the pursuit of optimal relevance.
+However, these are made because the speaker recognises that the original formulation did not achieve optimal relevance.
+In contrast, deliberate reformulations are designed to achieve particular contextual effects, and they should not be taken to indicate a failure to communicate any more than, for example, repetition.
+2 Reformulations as interpretations
+According to Burton-Roberts (forthcoming), the most frequently cited criteria for apposition are: B Taken together, these criteria distinguish apposition from both subordination and co-ordination.
+Criterion B implies that apposition resembles co-ordination in that the units in apposition are constituents of the same level.
+However, apposition is distinguished from co-ordination by criterion B, since the conjunction of co-referential elements is unacceptable.
+Burton-Roberts also argues that these criteria distinguish apposition from non-parenthetical phenomena, as in [7]and from parenthetical phenomena like the one in [8]: Criterion A implies that both of the juxtaposed elements are referential.
+This is clearly not the case in [8], where a tall man has an attributive function.
+Burton-Roberts argues that it cannot be the case in [7]either, since in the philosopher Locke "one or other of the juxtaposed elements is not a referend, but has an attributive function" (1975: 395).
+Example [7]will be recognised as an example of close or restricted apposition.
+Like [2–6], it contains two juxtaposed elements.
+However, in contrast with these examples, the second of these is not parenthetical or interpolatory.
+Moreover, it has been claimed (e.g. by Burton-Roberts forthcoming) that whereas the phenomenon in [7]is restricted to the juxtaposition of NPs, the phenomenon of loose apposition extends to the juxtaposition of other categories.
+Recall [3]and [6]for example.
+Indeed, Burton-Roberts suggests that loose apposition extends to the juxtaposition of sentences.
+He does not simply have in mind here cases like [9], which is an expansion of the phrasal juxtaposition in [10].
+His examples include [11], which is not so obviously related to an apposition of phrases: If [11]is an example of apposition, then the assumption that cases of loose apposition are reductions of non-restrictive or appositive relative clauses cannot be maintained.
+For clearly, they cannot have non-restrictive relative counterparts.3 But what makes us so sure that it is an example of apposition?
+And does it matter?
+Intuitively, it would seem desirable that whatever account we give for the role of an expression like in other words in a phrasal apposition like [10]we give the same account for its role in a reformulation involving complete sentences, for example[9].
+The question is, to what extent does the notion of (loose) apposition, as it is defined by these criteria, play a role in such an explanation?
+As Burton-Roberts suggests, criterion A (the requirement that elements in apposition refer to the same entity) would have to be extended if it is to apply to sentential and other non-nominal appositions.
+His (1975) solution is to require that the two opposed elements have the same extension.4 However, this solution is too strong for phrasal appositions like the ones in [12].
+The set of individuals who sprint could be said to be included in the set of individuals who run.
+But it is not co-extensive with it: And it is certainly too strong for reformulations in discourse where segments which are presented as paraphrases are not always strict paraphrases.
+Consider, for example,[13–16]which all involve the so-called apposition marker in other words.
+This problem also arises in reformulations which do not involve apposition markers as such.
+In [17]the author writes that he had been saying that Gardner looked very square: But of course Carver had not actually said that Gardner looked very square, at least not in the Gricean (Grice 1981) sense of the word.
+The italicised utterance is not so much a paraphrase as a summary.
+The same point can be made about each of the examples in [13–16]: in each case in other words introduces a summary rather than a paraphrase, and, not surprisingly, in each case it could be replaced by in short.
+Reformulations are not always strict paraphrases.
+In Sperber and Wilson's (1986) framework, a summary is an example of an utterance which is relevant as an interpretation of another utterance (or block of utterances).
+In each of these examples the speaker is producing an utterance which is relevant not as a description of a state of affairs but as a representation of another utterance which it resembles.
+All sorts of phenomena can be used as representations in this way.
+For example, if you want to know how big a kiwi fruit is, I can outline its shape with my fingers, or show you another object which I believe has similar proportions.
+Obviously, no two phenomena are exactly alike, and communicators expect their audiences to identify the respects in which the resemblance holds.
+Speakers who intend their utterances to be understood as an interpretation cannot be creating expectations of truthfulness, since their utterances do not purport to be a description of a state of affairs.
+They can only be taken to be creating expectations of faithfulness.
+No speaker who produces an utterance which is relevant as a representation of another can be guaranteed to reproduce the original word for word.
+Consider, for example, reported speech.
+In fact, the optimally relevant interpretation may be a summary rather than an exact paraphrase.
+Sperber and Wilson's (1986) principle of relevance entitles the hearer to expect adequate contextual effects for the minimum necessary processing effort.5 This means that a speaker who is asked to say what, for example, was said in a lecture would not satisfy the principle of relevance if he or she read out the entire content word for word.
+The hearer would obtain adequate contextual effects but for very much less processing effort from a summary.
+The suggestion here is that an utterance is an interpretation of another to the extent that it shares logical and contextual implications with it.
+The degree of resemblance, and hence the degree of faithfulness which is appropriate varies from case to case, but is always under the control of the principle of relevance.
+As Sperber and Wilson have shown, there is a variety of reasons why a hearer who was not in a position to process an utterance or block of utterances might want to be presented with a summary of it, and correspondingly, a variety of different sorts of summaries that a speaker might provide.
+For example, a speaker might provide a summary for someone who wished to know what the intended relevance of the lecture was but who was only familiar with the subject at an elementary level.
+In this case, the summary might consist of what Sperber and Wilson (1985) call an elaboration of the original.
+For example, the speaker might make explicit assumptions which had been left implicit in the original, or have contrasted the lecturer's position with one with which the hearer is more familiar.
+But we are concerned with utterances which are presented as summaries — or interpretations — of utterances that the hearer was in a position to process.
+Indeed, they are utterances which are interpretations of utterances which have only just been processed by the hearer.
+What is the point of producing such an utterance?
+3 Reformulations as constraints on interpretation
+In the case of examples like [15], in which the reformulation is an interpretation of another speaker's utterance, the answer is fairly straightforward.
+Given the appropriate contextual assumptions both [15b]and [15c]are relevant answers to the initial question.
+They both convey information from which the hearer could work out how well B got on with semantics that week.
+However,[15b]is less direct than [15c]in the sense that the hearer would have to derive the contextual implication conveyed explicitly in [15c]in order to establish how well B got on.
+There are all sorts of reasons for giving the less direct answer: B may want to establish that the fact that the reading was not done was not due to laziness.
+But why would someone who recognised that they were expected to derive the contextual implication that B didn't do the reading go on to produce the utterance in [15c]?
+The point is, of course, that B might not have intended to communicate the assumption expressed by [15c].
+The recommended books might have been borrowed from a fellow student, or bought, or there could have been some alternative reading.
+In the light of this, A's utterance might be taken simply as a request for confirmation that the assumption in [15c]is indeed the one B intended to convey, or, in other words, that the utterance in [15c]is indeed an adequate representation of the one in [15b].
+Alternatively, A might be reformulating B's utterance in order to let the hearer know that from A's point of view this is the most relevant representation (interpretation) of the utterance: A is more interested in the fact that the reading has not been done than in excuses.
+In either case the relevance of the reformulation lies in the way it narrows down, or constrains, the interpretation of the original.
+As [15]and [16]show, there are all sorts of reasons for constraining the interpretation of another speaker's utterance.
+However, in [13]and [14]the speakers/writers reformulate their own utterances.
+What is the point of this?
+The extract in [13](repeated below) is a segment from the final chapter of Sperber and Wilson's book Relevance.
+It might be said that the reformulation in [13b]is simply a more theoretical version of the more concrete description of style in [13a].
+However, the reformulation appeals to theoretical notions which the authors discuss in the first chapter of the book, and it is unlikely that what was said about mutual cognitive environments in the first chapter is accessible for use for the interpretation of a passage about style in the final chapter.
+In fact, without segment [13a]the reader would find segment [13b]difficult, if not impossible, to understand.
+This suggests that in this example the role of the first segment (the original) is to provide assumptions which facilitate the understanding of the second (the reformulation).
+In contrast, it seems that in [14]above it is the reformulation which facilitates the hearer's understanding of the original.
+It is most unlikely that without the reformulation a hearer would have even understood what the first segment was about.
+But why did the speaker deliberately produce an utterance which required reformulation?
+If that was what the speaker intended to say, why didn't he just say it?
+It is not difficult to see why in unplanned discourses speakers interested in successful communication should modify or correct the interpretation of utterances they have already made.
+But why should speakers or writers actually plan to say something in one way and then put it in other words in order to ensure the intended interpretation?
+Surely, speakers and writers aiming at optimal relevance would formulate their utterances in a way that guaranteed the intended interpretation in the first place.
+In the following section I shall show that planned reformulations can be justified in terms of style.
+In the case of texts like [13]the justification appeals to those dimensions of style which derive from the speaker's estimation of the hearer's processing and contextual resources.
+Here, then, the discussion will simply be an elaboration of what Sperber and Wilson are talking about in the very text I have cited.
+In the case of [14]we shall need to examine those aspects of style more usually associated with poetic texts.
+4 Reformulations and style
+Talk of style normally occurs when a writer or speaker is perceived as having done something special, to have put a certain amount of time and effort into the formulation of their message.
+It is not clear to what extent reformulations would count as special.
+Compared with poetic devices like metaphor, they are probably rather mundane.
+However, the view of style adopted here implies that it has many mundane aspects, and that style is not simply a property of poetic or even just literary texts.
+According to this view, style consists in the choices that speakers and writers make in communicating their thoughts.
+Since, as Leech and Short (1981) point out, every writer (and speaker) necessarily makes choices of expression, there is, on this view, no neutral style.6 However, in contrast with Leech and Short (1981: 19–24, 38), I do not have in mind simply those choices made from amongst the modes of expression made possible by the language.
+Styles may also vary along purely pragmatic dimensions.
+For instance, every speaker must make a decision about what to make explicit and what to leave implicit.
+Moreover, as Sperber and Wilson (1986) have shown, all stylistic choices, whether they be choices among linguistically determined possibilities or decisions about degrees of explicitness, are governed by the aim of optimising relevance, and cannot help but reveal the speaker's assumptions about the hearer's contextual resources and processing abilities.7 Consider the difference between [18a]and [18b]: There is no difference in import.
+The difference lies in the extent to which the speaker helps the hearer in recovering it.
+In [18b]the hearer is not trusted to supply the contextual assumption about house-warming parties for him or herself.
+However, the first segment would have given a British hearer immediate access to the contextual assumption about house-warming parties, which means that the extra processing entailed by making these assumptions explicit would not have been rewarded by any contextual effect.
+To say that [18a]and [18b]are simply alternative ways of communicating the same message might be taken to suggest that the decision whether to make the assumption about house-warming parties explicit conveys nothing at all.
+However, the decision to make this assumption explicit in [18b]does convey something — something about the speaker's assessment of the hearer's processing resources, and hence something about the speaker's assessment of their relationship.
+Where this assessment is incorrect, the result might be described as a ponderous or patronising style.
+Of course, no speaker interested in successful communication will deliberately adopt such a style.
+To involve hearers in gratuitous processing effort is to risk losing their attention.
+Equally, no speaker will deliberately adopt a condensed style when it is evident that the hearer is unable to access the required contextual assumptions.
+The very act of communication implies that the speaker believes that the hearer can obtain adequate contextual effects for no gratuitous processing effort.
+In Sperber and Wilson's terms, it creates an expectation of optimal relevance.
+In this way, the speakers' style is a consequence of the pursuit of optimal relevance.
+Success in communication is important to every communicator.
+But clearly, some speakers invest more effort in the communication process than others.
+Speakers and writers who are presenting arguments in favour of a particular theoretical position, or teachers who are teaching students about a phenomenon or theory, have a particular interest in the hearer's and reader's ability to understand their utterances, a particular interest in the ability to derive the right (intended) contextual effects.
+Failure to communicate successfully will have far-reaching consequences — bad reviews, the need to repeat a class.
+Moreover, although such communicators may expect a relatively high level of attention from their audiences, the complexity of the material and arguments may require extra attention and effort.
+Hearers and readers whose processing effort is not being rewarded by adequate contextual effects will "turn off" .
+But as we have just seen, so will hearers and readers who feel that they are being patronised.
+I doubt whether any reader of Relevance will feel patronised by the reformulation in [13].
+Whether readers/hearers feel patronised by the reformulation in [9](repeated below) will depend, for example, on whether they are John Searle or a first year student of pragmatics.
+The speaker's aim here is not simply to communicate the proposition that the hearer must identify the speech act performed by an utterance.
+The utterance also communicates information about terminology — that the term speech act is equivalent to the term illocutionary force in this context.
+This information may be relevant as a reminder or it may be presented as new information.
+Depending on the intonation or presentation (the use of italics for example) either, or indeed both, of the terms could be new.
+The same kind of point is illustrated by (19), except here it is more likely that it is the notion of full luminescence which is explained in the more familiar terms given in the reformulation: In these examples, the speaker's aim in reformulating an utterance is to enrich the hearer's encyclopedic entries in order to ensure a greater understanding of the surrounding discourse or text.
+In other words, they are examples of Sperber and Wilson's notion of elaboration.
+Elaborations are characteristic of what might be called a pedagogical style, which itself can be explained in terms of the principle of relevance.
+However, as the extracts in [14]and [17]show, planned reformulations are not restricted to technical or theoretical texts.
+For the analysis of this sort of example we need to turn to the more poetic dimensions of style.
+According to the classical view, poetic style is purely decorative, playing no part in communication other than to please the hearer's aesthetic sense.9 However, this view implies that figurative utterances may be paraphrased without loss of meaning, and as, for example, Coleridge (1906: 263) points out, once it is recognised that "language is framed to convey not the object alone, but likewise the character, mood and intentions of the person representing it" , then it should not be surprising that the test of a "blameless style" is its "untranslatableness in words of the same language without injury to the meaning" .
+If this is right, then it seems that there is, as Butler (1984) puts it, "no point at which interpretation may reasonably stop" (1984: 20).
+But if the interpretation of poetic texts is condemned to indeterminacy, then how can we have an explanatory account of the role of figurative language in communication?
+As Sperber and Wilson (1986) show, the fact that there is no single interpretation for a text or utterance does not mean that interpretation is not constrained at all.
+They argue that poetic aspects of style, like the more mundane ones just discussed, are a consequence of the speaker's search for relevance.
+Consider the construction in [20], classified by classical rhetoricians as zeugma: The linguistic form of the utterance, in particular the use of gapping, encourages hearers to find matching parallelisms in interpretation.
+That is, they are encouraged to find a set of contextual assumptions in which the facts that Mary came with Peter, Joan with Bob, and Lily with a sad smile on her face have identical or directly contrasting implicatures.
+However, although the linguistic form of the utterance suggests a specific processing strategy, this strategy may yield a variety of acceptable interpretations.
+There is a whole range of ways in which a hearer could recover the required parallelisms.
+Is Lily sad because, in contrast with the others, she had no-one to accompany her?
+Does Lily make a point of appearing alone and sad?
+Is Lily's sad smile as familiar as the sight of the other couples?
+Do the others have anything to do with Lily's sad smile?
+Clearly, the hearer is left with a great deal of responsibility in the interpretation process.
+It is not that the hearer has to decide which of a range of possible interpretations the speaker intended.
+Indeed, it seems that a hearer who interpreted this utterance as conveying a specific proposition or set of propositions would miss out on much of its intended relevance.
+A hearer who interpreted [20]as conveying [21]would have not have captured the full meaning of the utterance: On the other hand, it is rather difficult to say what exactly it fails to capture.
+An impression?
+An attitude?
+The problem is that impressions and attitudes are very vague things, and cannot be explained by a traditional approach to communication, which assumes that the hearer's task in utterance interpretation is to identify a proposition or set of propositions specifically intended by the speaker together with the speaker's attitude towards those propositions.
+However, as Sperber and Wilson have shown, this traditional approach to communication cannot be maintained even in the most ordinary, non-poetic cases.
+Some speakers do indeed produce utterances in the expectation that hearers will recover a specific set of propositions.
+In such cases hearers have relatively little responsibility in the choice of contextual assumptions and contextual effects, which are said to be strongly communicated.
+At the other extreme, a speaker may produce an utterance with no expectation at all about the way in which it will be understood and hearers will have total responsibility for its interpretation.
+And in between these two extremes is a whole range of intermediate cases in which hearers are expected to derive an array of implicatures and decide which are true for themselves.
+The more responsibility hearers are given, the weaker the communication.
+The point about [20]is that it seems to achieve most of its relevance through this range of weak implicatures.
+Sperber and Wilson suggest that the effect achieved by such an utterance can be termed a poetic effect.
+This is not to suggest that such effects can be achieved only by poets.
+The speaker of [14]was a newsreader on Radio 4: In a Gricean framework (Grice 1981), a speaker who produces an utterance knowing in advance that the hearer will not be able to establish its relevance would be said to be deliberately flouting the maxim of relation in order to achieve a special effect.
+Applying this to [14], we could say that the point of producing [14a]was to deliberately mystify the audience and thereby capture their attention.
+But why chose this as a means of capturing the hearer's attention?
+The newsreader would have achieved the same effect if he had suddenly broke into song.
+Sperber and Wilson's principle of relevance, in contrast with Grice's maxim of relation, is not a norm which may be followed or violated, but a generalisation about the nature of communication (ostensive-inferential communication).
+Every act of (ostensive-inferential) communication communicates a presumption of relevance.
+This means either that the utterance of [14a]was not a case of genuine communication or that it did in fact achieve relevance.
+Surely, this was a genuine act of communication.
+So how does it achieve optimal relevance?
+In fact, the newsreader did succeed in capturing my attention.
+Guided by the speaker's slightly theatrical tone of voice, I recognised that the utterance was a less than literal interpretation of a thought.
+I also recognised that I was expected to take responsibility for the interpretation of the utterance, exploring a wide range of contextual assumptions (about hospitals, illness, operations, and convalescence) and deriving a wide range of contextual implications — not only a wider range than I would have derived had the newsreader just produced [14b], but a wider range than I would have derived if I had realised that the speaker was talking about the pound.
+For at that stage I had no idea which of these contextual implications were implications of, and hence shared by, the speaker's thought.
+On the assumption that the speaker was engaging in genuine communication, I would not have undertaken the processing involved unless I assumed that I would be able to sort the implications into those endorsed by the speaker and those which were not.
+And, of course, the mystery was soon solved by the following utterance.
+The point of [14b]was not simply to provide a paraphrase: it is in no sense a literal representation (interpretation) of the utterance in [14a].
+Nor is it a literal representation of the speaker's thought.
+Rather its relevance lies in the way it constrains the interpretation of [14a]so that hearers can see it as an interpretation of the speaker's thoughts about the state of the pound.
+This means that they will recognise that they are not intended to commit themselves to all of the implicatures they had derived.
+Nevertheless, the overall result is richer than it would have been had the speaker just produced [14b], and, I believe, richer than it would have been had the speaker produced an alternative metaphor in which the pound was actually mentioned.
+The first utterance contributes to the relevance of the text in two ways.
+First, it contributes through its very vagueness a richness of interpretation that would not have been achieved otherwise.
+Second, combined with the second segment, it achieves relevance as an interpretation of a particular thought or body of thought.
+This second point suggests that the interpretation of the two utterances is bound together in the sense that they are each part of a text which is, as a whole, consistent with the principle of relevance.
+In other words, the speaker of [14]could be said to be optimising relevance over the whole text.
+In [17](repeated below) the author is recalling his initial impressions of the writer, John Gardner.
+The first segment (a) contains a description of Gardner's appearance which, although it may list the respects in which Gardner deviated from Carver's idea of a writer, does not necessarily communicate an accurate impression of Carver's initial reaction.
+However, the reformulation in [b]is not more accurate because it is more specific.
+The slang term square might convey an impression which includes the suit, crew-cut and tie.
+But it conveys much more.
+Some would say it has derogatory connotations.
+Sperber and Wilson would say that it conveys a range of weak implicatures recovered on the hearer's own initiative.
+The exact range will, of course, depend on the reader's familiarity with the attitudes and behaviour of those who used the term.
+Such a disrespectful term might seem surprising in this essentially respectful essay.
+But this, surely, is the point.
+It is a term which Carver would have used as a young man to dissociate himself and his peers from others, and its use here encourages the reader to share Carver's memories of his own surprise and, perhaps, disappointment at Gardner's appearance.
+That is, the relevance of the reformulation lies in the way it constrains the interpretation of the first segment so that it matches Carver's own initial impressions.
+5 Phrasal appositions: repetitions and reformulations
+The phrasal appositions in, for example,[22]and [12]involve a violation of a syntactic pattern in much the same way as the epiphora in [24], and would on these grounds be classified as a rhetorical device in a classical account.
+It is usually said that repetition is used for emphasis.
+However, it has to be explained why this should be so, and what an emphatic effect is.
+Indeed, it seems that in some cases an interpretation in terms of emphasis is quite inappropriate.
+Consider Sperber and Wilson's example in [24]: Here the repetition does not achieve a striking stylistic effect, and, not surprisingly, it may be paraphrased without loss of import (here are two red socks).
+Even when repetition is used for emphasis, the effects seem to vary in different examples.
+Compare the following (Sperber and Wilson's examples): In [25]the speaker can be taken to be emphasising the length of the walk.
+That is, the emphasis is on an element of the propositional content of the utterance.
+However, in [26]the emphasis is on the speaker's commitment to the propositional content of the utterance.
+According to Sperber and Wilson (1986), the effects of repetition can be explained in terms of the principle of relevance.
+The hearer's task in [23–26]is to reconcile the fact that an expression has been repeated with the assumption that optimal relevance has been aimed at.
+This means that the extra processing effort incurred by the repetition must be outweighed by an increase in contextual effects triggered by the repetition itself.
+However, in different examples this increase can be achieved in different ways.
+For example, Sperber and Wilson suggest that in [25]it would be consistent with the principle of relevance to assume that the speaker wanted to indicate that the walk was longer than the hearer would have otherwise thought.
+In other words, the repetition achieves extra contextual effects by modifying the propositional form of the utterance.
+In [26]they suggest that the extra contextual effects are derived by assuming that the speaker attaches a higher confirmation value to the proposition expressed than the hearer would have otherwise thought.
+According to this analysis,[25]is equivalent in import to [27]: Perhaps there are contexts in which a speaker of [25]would intend nothing more than this.
+However, it seems to me that in most contexts the utterance of [25]would yield effects not produced by [27].
+The difference is particularly marked when each utterance of "long" is lengthened.
+However, the problem is that although the difference may be marked, it is difficult to say exactly what it is.
+The difference is one of nuance, and does not lie in any specific contextual effect.
+In contrast with [27], a hearer who is presented with the repetition in [25]is encouraged to dwell on what he or she knows or imagines about long walks — the physical discomfort perhaps, or, alternatively, the exhilaration derived from the freedom.
+Obviously, the exact direction will depend on clues such as the speaker's facial expression or tone of voice.
+But the point is, it is only a direction.
+The extra relevance is achieved by a deeper exploration of the hearer's contextual assumptions about long walks, and the result is a wide range of weak implicatures and a closer understanding of the speaker's attitude or emotions.
+In other words, I believe that the repetition in [25]achieves the same kind of non-propositional stylistic effects which Sperber and Wilson argue are yielded by [23].
+In this case, they suggest, the hearer is encouraged to think of all the implicatures that the speaker could reasonably have expected someone to have derived from the proposition that his childhood days are gone, and then assume that there are still further implicatures that the speaker wants to back.
+However, there is no specific set of contextual assumptions which the hearer is expected to supply.
+The hearer is being trusted to take a large share of the responsibility in imagining what it may be for the speaker to be past his youth, and the result is a wide range of weak implicatures.
+In this way, suggest Sperber and Wilson, the speaker's use of repetition may communicate that the speaker is experiencing a torrent of memories which hearers are being trusted to imagine for themselves.
+Phrasal appositions, like repetitions, require extra processing which must be outweighed by an increase in contextual effects if they are to be justified under the principle of relevance.
+The problem is that the effects of apposition, like those of repetition, vary, and consequently it is difficult to identify the difference in terms of a single classification.
+Compare the effects of the appositions in [22]and [12]with that in [28]:[12]The reformulation in [28]can be analysed in terms of Sperber and Wilson's notion of elaboration (introduced in section 2).
+The extra processing it requires is rewarded by an improvement in the hearer's encyclopedic entries which ensures a greater understanding of the surrounding discourse or text.
+In contrast, the effects of the reformulations in [22]and [12]are much more like the effects of the repetitions in [23].
+That is, they have a poetic dimension.
+However, it seems that the effects triggered by repetition must be distinguished from those triggered by reformulation, and it may be interesting to examine the differences between each of the following pairs: A repetition directs the hearer to the same concept and hence the same encyclopedic entry (for example, the entry for RUN in [29].
+The point of this may be to draw the hearer's attention to the way they kept on running, perhaps against considerable odds.
+In this way, the repetition may achieve extra contextual effects by modifying the propositional form of the utterance.
+Alternatively, the hearer may be intended to reconsider this entry, to expand the context made accessible by run to in order to recover further contextual effects.
+As we have seen, the speaker may not have any specific idea of the extra contextual assumptions that the hearer will supply and the extra relevance may be achieved by a wide array of weak implicatures.
+For example, the hearer may be expected to access a range of contextual assumptions about the effort of running up hills.
+In contrast, a reformulation directs the hearer to a different (albeit related) encyclopedic entry.
+Thus in [12]the hearer is given access to the entry for SPRINT.
+Some people may sprint when they run, but I have seen people running for the bus who could not be described as sprinting.
+In other words, the speaker's use of run does not necessarily give the hearer access to the entry for SPRINT.
+The reformulation ensures that the hearer does access this entry, and thereby derive contextual effects which would not have been gained otherwise.
+For example, a hearer might derive a range of implicatures about athletes and races, in which case you could say that the use of sprint conjures up an impression of athleticism not suggested by run.
+The proposition that they sprinted up the hill is not equivalent to the proposition that they ran up the hill, but it is an interpretation of it in the sense that it shares certain contextual implications.
+One could say that it is a more specific interpretation of the original proposition since it is about a particular kind of running.
+At the same time, however, it allows the hearer to derive a range of contextual effects — perhaps a very wide range of weak implicatures — which would not have been derived from the original formulation.
+This analysis raises the same question addressed in the previous section: if the speaker wanted the hearer to recover these effects, why didn't he or she simply say that they sprinted up the hill?
+Why say that they ran and then say that they sprinted?
+A repetition is justified under the principle of relevance because the hearer would not have recovered the extra contextual effects without it.
+But surely, a speaker could have conveyed an impression of athleticism simply by saying that they sprinted up the hill.
+If this reformulation is to be justified, then we need to show that [12]yields contextual effects not yielded by [31]: It seems to me that in contrast with [31],[12]draws the hearer's attention to the fact that this wasn't ordinary, plain running.
+That is, the reformulation draws the hearer's attention to the range of contextual assumptions which distinguish sprinting from ordinary running.
+As a result, the fact that they sprinted up the hill receives an emphasis which is not part of the interpretation of [31], but is more like the one conveyed by [32].
+A similar analysis can be given for [30].
+In contrast with the repetition in [23], the reformulation directs the hearer to a different, but related encyclopedic entry.
+If something has vanished, then it has gone.
+But not vice versa.
+To vanish is to disappear suddenly, or mysteriously — in the manner of a magician's rabbit.
+Hence the suggestion in [30], but not in [23], that the speaker feels that the disappearance of his childhood has no explanation, that he has been tricked out of his childhood.
+Thus although the reformulation is a more specific interpretation of the original, it yields a wide range of weak implicatures not conveyed by the original formulation.
+But if the speaker wished the hearer to recover these effects, why did he not simply produce the utterance in [33]?
+Again, the answer seems to lie in the way that the reformulation draws the hearer's attention to the differences between just being gone and having vanished.
+As in the previous example, there may be a wide range of these implicatures.
+And, as before, the result is an emphatic tone which is lacking in the example which does not involve reformulation.
+This analysis might be taken to suggest that examples like [12]and [30]should be analysed as self-corrections.
+Thus in [30]the speaker might be taken to suggest that he did not mean that his childhood days had just gone: what he really meant was that they had vanished.
+In other words, while the original does not communicate what the speaker wished to communicate, the reformulation does.
+However, if this reformulation was part of a planned text, then this suggests that the speaker was deliberately failing to produce an optimally relevant utterance.
+My suggestion is that taken together the original and the reformulation are optimally relevant, and hence that the original does contribute towards the relevance of the text.
+If the speaker made a "mistake" in uttering gone rather than "vanished" , then it was not just any "mistake" .
+The "mistake" was made for the purpose of emphasising those properties which distinguish a vanished childhood from one that is simply gone — the mystery, lack of explanation, for example.
+In this way, the original formulation contributes to the overall relevance just as much as the reformulation does.
+This suggests that even when writers explicitly indicate that they are correcting themselves, as for example in [34], the original formulation contributes to the overall relevance of the text.
+(The reformulations have been italicised for the purpose of the present discussion).
+In this passage, in which the narrator is recalling his father's days as a medium and healer, there are three segments which might be described as reformulations, but only one is presented as a correction.
+In each case the reformulation suggests a line of processing different from the one suggested by the original.
+However, it seems that whereas in the first and last instances the hearer is expected to endorse both the implicatures derived from the original and those derived from the reformulation, in the second (the correction) the reader is expected to endorse the implicatures derived from the reformulation instead of those derived from the original.
+For example, the description of the occasion as a ceremony might be taken to suggest a certain solemnity or reverence, that it was an occasion divorced from everyday life.
+By further describing it as a ritual, the author might be taken to suggest that it was also part of an ongoing practice governed by unalterable rules.
+In recovering these implicatures, readers will draw on their own experience of ceremonies and rituals, and consequently may draw different conclusions.
+However, all readers are entitled to assume that the conclusions they draw lie within a range shared by the narrator's thoughts.
+Obviously, these implicatures are not yielded by the description of the occasion as a performance.
+But is this to say that the author deliberately chose a means of expression which did not communicate what he wanted to communicate?
+On the contrary, by correcting himself in this way the author is making a particular point: that although the occasion might have been regarded as a performance by some, that although it might have in time become a performance, this description is not an accurate representation of the narrator's memories.
+In this way, both the original and the correction contribute to the overall relevance of the text.
+6 Conclusion
+This article has shown that Burton-Roberts' instinct that apposition is a discourse phenomenon, or, more particularly, a rhetorical device was correct as far as reformulations are concerned.
+As we have seen, there is a variety of ways in which a reformulation can achieve relevance, and consequently, a variety of effects it may achieve.
+This variety cannot be captured by the notion of loose apposition, and it cannot, therefore, provide the basis for the analysis of the phrasal phenomena discussed in the final section or the discourse phenomena discussed in the preceding sections of this article.
+I have not attempted to assess the extent to which the notion of loose apposition is useful in the analysis of other so-called apposition markers — for example, namely, in particular .
+My point is simply that the decision to put something in other words is a decision about style, which like all decisions about style, is constrained by the search for relevance.

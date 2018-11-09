@@ -1,0 +1,296 @@
+
+
+PINNACLE IS CYPRESS SEMI'S FIRST CUSTOMER FOR HYPERSPARC
+Pinnacle Data Systems Inc, one of the Sparc system manufacturers that plans to build a workstation compatible with Sun Microsystems Inc's Mbus-based Sparcstation 10 (UX No 392), is set to become the first customer for Cypress Semiconductor Corp's 64-bit HyperSparc RISC chip, a CPU which has garnered no discernible industry support since its launch back in May (UX No 385).
+Pinnacle, based in Columbus, Ohio, had originally planned to use the Texas Instruments Inc 64-bit SuperSparc that Sun is using in its latest workstations, but realised some time ago that it was waiting at the back of a long line of manufacturers queuing for a trickle of SuperSparcs being thrown their way.
+At last week's Orbit trade show in Switzerland, Pinnacle was showing off the first in what will be a family of Mbus PDS-3 systems that'll house Hypersparc and be followed by PDS-10, Sparcstation 10-compatibles next year.
+The initial PDS-3 offering uses the Mbus SparcSet chip set designed for Cypress by Santa Clara, California-based start up Nimbus Technologies Inc for Sparc builders, which will take HyperSparc when it is ready (UX No 383).
+With one Mbus slot and two Sbus slots the workstation currently houses a standard 40MHz Cypress Sparc and offers Sparcstation 2-level performance — 32 MIPS and 28.5 SPECmarks.
+With 32Mb RAM and 500Mb disk housed in a Sparcstation 2 enclosure, 16″ colour screen and a year's warranty it comes in at $13,500.
+It's expected to be available in the UK by the end of next month.
+Cypress' superscalar CPU plugs into its Nimbus-designed motherboard and Pinnacle is shooting to deliver four HyperSparc models by the end of the year.
+The first will use a 55.5MHz iteration of the chip, deliver up to 110 MIPS, 58 SPECmarks, 55 SPECfp and 26 MFLOPS: it's being pegged at $17,300.
+A dual-processor model will go to 203 MIPS, 107 SPECmarks, 101 SPECfp and 42 MFLOPS the company says.
+PDS-3s with 66.7 MHz HyperSparcs will also appear in uni and dual-processor configurations.
+The first is rated at up to 133 MIPS, 70 SPECmarks, 64 SPECfp and 32 MFLOPS; the second, with two processors will go to 245 MIPS, 129 SPECmarks, 118 SPECfp and 50 MFLOPS.
+There's even a 100MHz dual-processor penned for the second quarter of next year using Cypress' promised three-layer, 0.5 CMOS technology, touted at up to 320 MIPS, 162 SPECmarks, 142 SPECfp and 77 MFLOPS.
+The PDS-3 machines, which the company says it is pitching between Sun's Sparcstation 2 and Sparcstation 10 offerings — will be available in the UK from Pinnacle Data Systems Europe Ltd, Dunstable, Bedfordshire — formerly known as Unix Solutions and now trading under the Pinnacle name — with European distributors being lined up.
+A Sparcstation 10-compatible series — PDS-10 — will follow next year, the company says, complete with a new motherboard to house four Mbus slots.
+It will also use HyperSparc if its role in the PDS-3 pleases, Pinnacle says.
+IBM TO MAKE ITS MOVE ON CICS/6000 AT UNIX EXPO
+IBM Corp is expected to make its long-awaited move to extend the widely used CICS — Customer Information Control System — transaction processing environment to Unix on September 22nd, the first day of the Unix Expo trade show in New York.
+But, said competitors, IBM is likely to announce dates rather than products.
+Once expected by the end of last year, and the subject of technology demonstrations earlier this year, the exact scope of CICS/6000 is still not clear, but it is expected to include a number of technology elements from other vendors, including MicroFocus Cobol, parts of the Open Software Foundation's Distributed Computing Environment (DCE) technology, and Transarc Corp's Encina transaction processing software, developed with IBM's backing.
+While waiting for these elements to become commercially viable partly accounts for the delay, IBM also has reason to be cautious about allowing its mainframe customers to run existing transaction processing applications on smaller — and far cheaper — RS/6000s.
+Already a number of companies, including Bull's Integris division and Dallas, Texas-based VISystems Inc are doing just that, as well as offering the facility on non-IBM kit.
+VISystems marketing manager John Phillips claims IBM's product is unlikely to allow migration from current VSAM (virtual storage access method) files, used by 60% of IBM Cobol applications, or from RDBMS (DB2) files.
+‘IBM will say it has the same API everywhere, and that users can retain code’, he says, ‘But it's not promising that it will work unchanged’.
+(VISystems — see page 5).
+SUN LABS WORKING ON NEW NFS FOR DRAGON MP
+Sun Microsystems Inc's Network File System, which is now into its seventh year with no changes, is set for an overhaul, according to Electronic Engineering Times.
+It says Sun's Colorado Springs-based SunLabs research unit is working to improve NFS file-handling and add multi-threading capabilities as part of a project called Medusa, which appears to be anticipating a need generated by the company's anticipated high-end multi-processing servers and the SunDragon (UX No 369).
+Improved NFS performance also lies at the heart of the company's desire to recapture ground in the market for heavily networked NFS systems and software which has been all but hi-jacked by the likes of Auspex Systems Inc, Legato Systems Inc, Interphase Corp and Ceram Inc.
+The new NFS should eliminate performance bottlenecks which have restricted performance on Sun Sparcsystems.
+The paper reports the protocol works well on systems with up to four CPUs, though when it will roll into the Solaris operating system isn't known.
+Reportedly there are continuing internal struggles between Sun's hardware unit — which wants the new NFS as soon as possible for its next generation multi-processing servers — and SunSoft, which has already promised multi-threading for NFS, but wants the new features to be part of Solaris 2.1 or higher, and 2.1 isn't expected until mid-1993.
+Latest reports on SunDragon pitch a 64 CPU multi-processor being around by next summer.
+Dragon is thought to draw on technology from Sun's collaboration with Cray Research Inc to develop the non-massively parallel Sparc technology that Cray adopted with Floating Point Systems Inc (UX No 369), and may use Fujitsu Ltd CPUs.
+NEW SPARCSTATION 10 ‘MODEL 20’
+Meanwhile, in response to Texas Instruments Inc's latest 33MHz iteration of the SuperSparc (UX No 401), sources say Sun Microsystems Inc is almost ready to hit the streets with a further Sparcstation 10 workstation — the Model 20 — using the 33MHz parts.
+Yields of Texas' 36MHz SuperSparc implementation, due to feature in the Model 30, haven't been as high or as good as yields on a 33MHz part, so Sun, under pressure to get Sparc 10 systems out of the door, is thought to have put together the Model 20 to take advantage of this opportunity.
+No word on pricing.
+Other gossip has Sun's low-end Tsunami box — due imminently — cast as Sunrgy.
+X-TERMINALS IN THE SPOTLIGHT; C ITOH REVEALS TALKS WITH SUN ON THE SUBJECT
+Anita Byrnes reports from Tokyo
+C Itoh Electronics, the trading house subsidiary which is one of the players in the Japanese X-terminal market has shed some light on last month's story that Sun was considering building its own X-terminal (UX No 399).
+A spokeswoman claimed that Itoh had been involved in discussions with Sun regarding OEM supply of the X-terminal built by C Itoh, but Sun had decided to go its own way.
+C Itoh Electronics claims sales of 3,000 units since its release of CIT-XE series of X-terminals in September last year.
+The market leader in Japanese X-terminals is Japan Computer Corp, with aggregate sales of 10,000 units.
+It is selling internationally through distributors in both Europe and the US.
+At SunWorld in Tokyo a couple of weeks ago it was displaying a new range of X-terminals based on the MIPS R3000 chip and proprietary ASIC chip called XSA (X-server accelerator).
+The high-speed monochrome GlobalXM is built around a 25MHz R3000A chip and has a performance of 130,000 Xstones and price of $4,016 for a 17″ monitor with 4Mb memory; GlobalXG is a similar model with 256 shade grey-scale functionality and 80,000 Xstone performance at from $5,475); GlobalXP is built around the 40MHz R3000A and offers 256 colours and 130,000 Xstone performance at $8,048, while Global PEX is a similar colour model with floating point accelerator to support PEX, and GlobalXC is the lower 25MHz clock speed with colour and 80,000 Xstones performance, priced from $6,040.
+Japan Computer's X-terminals have to date been based on MC68020 and MC68030 technology, including two models of the Xface terminal with an  electroluminescent screen.
+A number of Japanese independent software vendors were exhibiting at SunWorld show, including developers such as Technology Fukui, a regional company already developing in the computer-integrated manufacturing field and now to offer a building blocks system for a flexible manufacturing control system (called F-Macs) for control of incoming and out going shipments, production line control and automatic warehousing — the system will cost upwards of $10,000 once it is realised in March next year.
+Japanese company Dit Co Ltd was showing some preliminary versions of two products developed by itself in the network field — software yet unnamed that enables a Unix machine to be used as a Macintosh back-up device over a TCP-IP network, and an FTP protocol engine which is ready for use in Macintosh applications.
+Dit also distributes products such as K-Spool from Mt Xinu Inc.
+Another tool on display was Easy-Call 3.0 from Japanese company Alumex — this provides a database engine for applications coded in C. Since its release three years ago, 1,000 copies have gone to some 200 companies.
+Sparcsystems were on display from a number of vendors: Ace K Computer is the sales arm of MicroHelios Ltd of Osaka, which recently announced a Sparcstation 10-compatible machine under the name HelioStation 1000 — this adds to its current Sparc-based Heliostation 400 series and both machines are imported and sold under an agreement with Axil Technology Inc, of San Jose, California, a relatively new player in the compatible market; the prices are about 40% of the Nippon Sun retail price and the company looks to sell 1,500 of the things annually.
+Laptop workstations Brite-Lite (from RDI Computer Corp of San Diego) and Tadpole (from Tadpole Technology of Cambridge, UK) are being distributed by Daishin Electric Co of Tokyo, which also carries a desktop compatible DSSUN Station II based on a 40MHz Sparc, built by US company EOS Technology Inc and released in Japan in October last year; the Tadpole machine just announced arrived at the Daishin booth on the first morning of the show; its beautiful active matrix thin film transistor colour screen, 256 colours, external VGA and Super VGA, manufactured by Sharp Corp attracted attention.
+ACER's ALTOS DEBUTS 80486 UNIX SYSTEMS
+Taiwanese Acer Group's Altos Computer Systems has introduced two high-end multi-processing Unix system running version 2.0 of Santa Cruz Operation Inc's MPX multi-processing extensions on top of SCO Unix V.3.4.
+The EISA-based System 10000 supports up to 128 users and is rated by the firm at from 27 MIPS to 70 MIPS.
+It comes with from one to four 33MHz Intel Corp 80486 processors, from 16Mb to 256Mb RAM, 2.5Gb disk and Altos' 64-bit data path I/O FrameBus device, which it says performs transfers at 264Mb per second.
+The System 15000 uses up to four 50MHz CPUs, is rated at from 41 MIPS to 160 MIPS and supports up to 200 users.
+Both are built upon the base hardware technology developed by Acer for the 3000MP AcerFrame box.
+The Altos operation is now headed by Ronald Chwang and housed within one of Acer America Inc's business units in San Jose, California — the Altos name retained for its profile in the Unix marketplace.
+Acer does all the hardware  development and manufacturing, whilst the Altos unit adds Unix software (and some hardware) functionality.
+Acer UK Ltd's Christopher Hay says the company is ‘comfortable’ with SCO's recently declared intention to edge towards Unix SVR4 and says Acer's collaboration in the ACE initiative has provided the firm with the experience of RISC and Microsoft NT should that be required in the future, though it only has Intel's P5 part in its sights at present as far as chip technology goes.
+Indeed the AcerArc1 ACE box which was built around interchangable MIPS R4000 RISC and Intel 80486 parts and shown earlier this year running NT is now very much on hold, with the only users being Microsoft and Acer internally.
+Altos systems are now distributed by Leeds-based Computer Services Technology Ltd and Metrologie UK: Altos' relationship with Microvitec's Logitek plc came to an end a few months ago.
+Out now, prices for the System 10000 go from £23,000 for 32 users to £39,000 for a 64 user configuration.
+The System 15000, due for delivery by the end of the year, will sell at around £10,000 more than a base 10000 system.
+TETRA ROLLS OUT CHAMELEON 2000
+In the UK, Maidenhead, Berkshire-based Tetra Ltd is releasing Chameleon 2000, its business, accounting and manufacturing software package in three phases between now and the end of the year.
+Phase one — out now — includes a new user interface, report writer, data dictionary, multi-language support, access to Informix-SE, Informix-OnLine or C-ISAM databases and 23 modules.
+Phase two, due next month, adds a new distribution module — purchase order requisitions — and a capacity planning module for manufacturing.
+Phase three, promised by the end of the year, will add other accounting and configuration functionality.
+Chameleon 2000 is available on ICL DRS6000, IBM RS/6000, HP 9000 and SCO Unix-based systems.
+Prices start at from £2,750 per module except for the payroll — which depends upon the number of employees — though the minimum charge is £3,000 for 100 employees.
+Separate licences are required from Informix for the database elements.
+Tetra: +44 628 770939.
+SGI TO MAKE INDIGO IN CHINA
+Silicon Graphics Inc has signed a joint venture contract with five investors through its Hong Kong subsidiary to create Shenzhen Chess Computer Co Ltd, which will manufacture Silicon Graphics' Iris Indigo RISC personal computer and develop applications for it in Shenzen Special Economic Zone, China.
+The partners are Yunnan Electronic Equipment Factory; Shenzhen, Shekou, Jingshan Technology Development Co Ltd; Asia Simulation & Control systems Engineering Corp Ltd; Unison Pacific (USA) Investment Co Ltd; Synergie International Ltd; and Silicon Graphics Ltd.
+Chess is initially capitalised at $3.3m and will assemble the entire MIPS R3000A Indigo line for China and export markets, starting at the end of 1992.
+SUNSELECT HAS NETWARE FOR SPARCs
+Sun Microsystems Inc's personal computer integration unit, the Billerica, Massachusetts-based SunSelect, has launched NetWare SunLink for Sparc RISC systems, enabling Sun users to link up to Novell Inc NetWare-based MS-DOS, Windows and OS/2-based computers.
+SunSelect says it is aiming the long-promised software at personal computer users who want to integrate their existing Novell local area networks with Sun Sparc systems and those wishing to upgrade the capability of their Intel-based networks with the addition of a host Sparc system.
+NetWare SunLink will allow PC users to share applications data, file and print services across based Unix networks — with no changes required in the client software — but most importantly, it provides a Novell NetWare gateway to NFS, Sun's Network File System which is used widely in the industry.
+NetWare SunLink is based upon Novell's NetWare for Unix version 3.11.
+Supporting the announcement, Oracle Corp says it will offer the Oracle 7 database and SQL*Net V2 for NetWare SunLink immediately, whilst Ingres Corp is to add compatibility in version 6.4 of its database from the first quarter of next year.
+Supplied on compact disk, NetWare SunLink runs on SunOS 4.1. x operating systems and above, under the Open Look graphical environment, though it is also supplied with a command line interface.
+US prices go from $2,000 for a 12 user licence to $12,000 for a 250 user copy.
+UK pricing will be announced this week.
+SunSelect will push the software through Sun Microsystems Computer Corp's distribution network initially — the parent hardware company will sell it too — but says it will build a channel of its own outlets in future.
+That'll include both Novell resellers and third parties used by the database partners.
+SunSelect has already signed ComputerLand and Access Graphics to peddle its wares in the US.
+UK outlets include London-based Business Systems Group, Morse Computers Ltd and Birmingham-based Specialist Computer Centres Ltd.
+Warrington-based Technology plc, Sun's UK master distributor (now owned by ICL Plc) won't carry the product, although Merisel-DNS, the company's master distributor in Germany, will.
+SUN UK CLAMPS DOWN ON BOX-SHIFTING VARS
+In the UK, Sun Microsystems' drive to flush out some of the value-added resellers which it says don't actually offer any value-add (UX No 399), will take the form of a new contract which they'll have to sign to become authorised VARs.
+The new agreement is expected to give Sun new teeth to strike off those which don't meet its mark.
+At least one of Sun's satellite businesses last week voiced concern over how a VAR would be defined under the agreement whilst resellers Unigram.X spoke to expressed dissatisfaction with Sun's ‘get-tough’ policy.
+The idea is to ‘discourage box-shifting,’ says Sun UK channels marketing manager, Alistair Huston.
+COMPUTERVISION AGREES TO SELL PRIME INFORMATION/OPEN TO VMARK
+Computervision Corp so wants to put its sad ownership by Prime Computer Inc behind it that it is remaking itself in the pure computer-aided design software image of the company Prime acquired as quickly as it can.
+The Prime hardware side is now closed and the company has a letter of intent to pass on what is left of the Prime Information Pick-derived database system to Pick-under-Unix specialist VMark Software Inc, Framingham, Massachusetts on undisclosed terms.
+The latest iteration is the PI/open Unix version, which was launched by Prime a few months before its effective demise.
+The proposed agreement also would establish a strategic alliance whereby Computervision will resell VMark products, and its Service Business Unit will provide worldwide support for PI/open and VMark's uniVerse products.
+The Service Business Unit is what was originally Prime's in-house maintenance operation for its 50-series minicomputer users, which now touts for third party maintenance and support business as well as continuing to support the dwindling PrimOS base.
+The support agreement will have an initial term of five years.
+PI/Open is object-code compatible with Prime Information which is installed on an estimated 6,000 Prime 50 Series minis and adds SQL support.
+FUJITSU BUILDS VPP500 OF 1.6 GLOPS VECTOR PARALLEL NODES
+As promised this July, Fujitsu Ltd has released its new VPP500 series of vector parallel processors — claiming them to be the most powerful supercomputers in the world.
+The VPP500 system features a series of 1.6 GigaFLOPS vector processors, in parallel configurations of from seven to 222, offering performances of 11.2 to 355 GFLOPS — the nodes can be added one at a time.
+The VPP500 features virtual global memory space to offer the user maximum system memory capacity of more than 50Gb.
+The individual processing elements are fabricated using Fujitsu's 25,000-gate Gallium Arsenide arrays — Fujitsu makes GaAs arrays under a second-source pact with Vitesse Semiconductor Corp — and 72,000-gate BiCMOS arrays.
+Each element combines large capacity vector units and long instruction word RISC processor scalar units and boasts up to 256Mb of static RAM.
+A crossbar network connects the processors at 800Mbytes per second.
+The activities of all the processing elements are handled by up to two 128Mb control processers, with long instruction word RISC processors and transfer rates of 2.1Gbps.
+The VPP500's operating system, Fujitsu's UXP/VPP, is based on Unix System V.4, and supports Fortran 77, Network Queuing System and floating point IEEE format, for compatibility with other mainframe and supercomputers.
+It also has a built-in fault detection system which effectively off-lines defective elements, while the remainder continue operations.
+The VPP500 is aimed specifically at ‘grand challenge’ scientific and technical applications such as oil exploration, engine design aerospace, environmental analysis, and molecular design where, Fujitsu claims, it will help to realise hitherto impossible tasks.
+Prices start at £5m for the entry-level seven-processor model — high-end models will be priced on a bid basis, although $125m is suggested as the price for a 222-processor models.
+Commercial shipments start in one year's time.
+Its target is 20 Japanese and 30 international sales over three years.
+It claims to be number two in supercomputers with more than 160 machines installed.
+BORLAND BRINGS ENHANCED INTERBASE INTO THE PARADOX WORLD
+The real prize that persuaded Borland International Inc to buy Ashton Tate Corp was not the fading dBase product line but the InterBase relational database, and last week, the company brought Interbase into the fold with the launch of Interbase server and Paradox SQL Link, which combined, enable the first connection between InterBase and Paradox 4.0.
+As well as support for Paradox SQL Link, InterBase 3.3 adds new language driver technology for international usage and precompiler support for Fortran and Cobol.
+InterBase 3.3 and Paradox SQL Link for InterBase are set to be out by year-end.
+MS-DOS and Windows requesters supporting TCP/IP networks have been added to InterBase for third parties and developers interested in SQL access to InterBase.
+The extended character support being added to the InterBase kernel allows for local sorting, as well as SQL access of 8-bit international character sets.
+Cobol has been added specifically for Data General Corp AViiON, HP 9000/700, IBM Corp RS/6000 and Sparcsystem users, and Fortran for RS/6000 users.
+InterBase currently runs on most Unix machines and under VAX/VMS and versions for Solaris II and Alpha VMS are planned.
+Paradox 4.0 adds a Windows-like user interface to the MS-DOS relational database, power and performance gains, enhanced network performance and expanded Paradox Application Language; it includes Query By Example for fast interactive database querying and can also store and retrieve Binary Large Objects in memo fields.
+Paradox SQL Link provides automatic translation of Paradox QBE and menu commands to the appropriate dialect of SQL.
+Using Paradox SQL Link, native SQL statements can be embedded within programs written in the Application Language, and passed through to the database server.
+Upgrades to InterBase 3.3 are free for existing customers on support contracts.
+Paradox SQL Link for InterBase is $400 and requires Paradox 4.0, which costs $800.
+And to make clear that it is ready to unleash an Interbase onslaught, Borland appointed directors of Interbase operations in the UK for Northern and Germany for Southern and Eastern Europe, and one back home in Scotts Valley for the Pacific Rim.
+SHOW PREVIEW: UNIX EXPO ‘92, NEW YORK, SEPTEMBER 22–24
+SunSoft Inc is likely to announce that is finally ready to send out developers’ kits for its Solaris 2.0-on-Intel operating system to the personal computer manufacturers it has lined up.
+(Though sources say it won't be able to run SCO Xenix binaries and doesn't include a C compiler.)
+SunSoft will also reveal some details of how initial object-oriented offerings from its closely-guarded Project Spring effort are to be rolled into Solaris (UX No 377).
+NCR Corp will be showing-off its Disk Array Plus software, which, the company says, allows users the benefits of RAID — redundant array of inexpensive disks — technology without the need to purchase new disks, because it works with existing disks.
+The software supports RAID models 0, 1, 4 and 5, requires no modification of existing applications and runs on the Unix SVR4-based AT&T/NCR StarServer E with versions planned for NCR's own System 3000 series and Novell Inc NetWare platforms in 1993.
+Prices start at $3,500.
+The company will also preview a new multi-processing StarServer E model 660 at the show, which uses multiple Intel Corp 66MHz 80486 DX2 microprocessors.
+With up to 512Mb RAM, a dual-CPU Model 660 costs from $62,000.
+Its smaller cousin, the Model 330, which originally housed 33MHz 80486DX parts, can also accommodate the 66MHz iteration — with two processors it is priced from $53,000.
+Culver City, California-based Quality Software Products Inc is to debut an X-Windows version of its project management software, Masterplan 1.1X, which starts at $700.
+The company has also developed an SQL connection to the Ingres database from eXclaim! v1.1, its spreadsheet which runs under X-Windows and Motif.
+Prices for the spreadsheet go from $700 — the Ingres Add-In is $350.
+Austin Texas-based Alliance Technologies Inc will introduce TextMachine, a set of tools for indexing, storing and accessing large volumes of documents over client/server architectures.
+Alliance claims TextMachine can handle text that hasn't been stripped of word processor formatting codes and comes with X-Windows and character-based user interfaces.
+Prices go from $50,000 to $300,000 from October on a range of Unix systems.
+Alliance: +1 512 794 9856.
+Ann Arbor, Michigan-based Sextant will introduce a Motif-based reverse engineering tool for C called Sextant 1.0 for C which ships from November.
+Sextant: +1 313 973 8888.
+Shuss Systems Inc, Edison, New Jersey, is to debut Caveman — CApture and ViEw MANagement — a development environment for creating SCO Open Desktop applications that can capture colour images from a range of devices, including VCRs and camcorders, which can be stored, retrieved in a window or printed.
+Aimed at inventory and medical record management markets, prices go from $400 in October.
+Shuss: +1 908 225 2424.
+Digital Information Systems Inc, Rancho Cordova, California, will introduce version 3.3 of its Synergy application development environment that turns out programmes which will run under Windows, MS-DOS, VMS and Unix, with Motif support promised for next April.
+MS-DOS versions start at $1,250 — Unix copies go from $3,800.
+DIS: +1 916 635 7300.
+Performance Awareness of Raleigh, New York, is to unveil version 3.4 of its 3 PreVUE performance analysis tools, which include new Motif-like graphical user interfaces built with public domain software.
+Virtual PreVUE can emulate a system with thousands of users, PreVUE-X tests for bugs in X-Windows applications.
+Prices go from $9,250 on Sparc, IBM RS/6000  and Motorola Inc 88000-based systems.
+The company will also debut XShow ‘n Tell 1.0, an environment for creating automated demonstrations of X-Windows applications which starts at $5,000.
+Performance: + 1 919 870 8800.
+Island Graphics Inc, is to release an Open Look version of its Write, Draw & Paint 4.0 package for Sparcstations, and an OSF/Motif version of IslandPresents for Hewlett-Packard Co Unix systems.
+Trirex Systems Inc, Westport, Connecticut, will debut DocApprover — a network utility package that tracks and routes Email documents on NeXT computers — and AlertManager, a fault detection alarm for NeXT, Sun and HP systems.
+Trirex: +1 203 221 4600.
+SAS Institute Inc's contribution to the proceedings will consist of five new component modules that will sit upon its base analysis and reporting software package, most already previewed at its European User conference in Vienna back in June (UX No 387).
+First of those is SAS EIS, an executive information system that turns numbers into graphs and simple pictures.
+Running under Open Look or Motif, users can go to systems running Ingres, Sybase, Oracle and Informix for their data, which can be extracted without the need to know specific SQL commands via SAS English, which translates statements into SQL.
+SAS Calc is a two- and three-dimensional graphical spreadsheet which can read data from other spreadsheets like Lotus 1–2-3.
+SAS Insight is a three-dimensional data analysis facility, whilst SAS Lab is an introductory statistical analysis package for non-experienced users.
+Prices go from $400 per module — plus $900 for the base SAS software — though they won't be available until the second quarter of next year.
+SAS: +1 919 677 8000.
+Mini-Byte Systems Inc, Avenel, New Jersey, will unveil MBS 486/smp, an Intel Corp-based 66MHz 80486 system with a SCSI-2 RAID disk subsystem.
+With up to 10 CPUs the EISA-bus machine uses Corollary Inc's Extended C-bus, comes with up to 256Mb RAM and runs Santa Cruz Operation Inc's MPX 2.0 and Unix System Lab's SVR4.0MP.
+The disk array has five SCSI-2 channels and the whole system starts at $35,000.
+The company will also introduce an RS/6000 version of NetCon, its connectivity package that allows Novell Inc NetWare-based personal computers to access applications running on Unix servers and access files and printers.
+NetCon provides NetWare emulation for Unix platforms so that they appear as just another NetWare server to the NetWare MS-DOS client.
+Prices start at $500.
+Mini-Byte: +1 908 855 9660.
+Campbell, California-based Specialix Inc, will debut its I/O 8+, eight-port intelligent input/output board for Unix-based personal computer systems — prices start at $500.
+Specialix: +1 408 378 7919.
+French graphical user interface outfit, Non Standard Logics Inc, will introduce version 2.0 of XFaceMaker, its Motif-based GUI builder.
+It includes WidgetMaker, for building custom widgets, the ability to edit menus via a dialogue box and to print the interface and widget tree in PostScript.
+Prices start at $3,000.
+Also new is NSL's WidgetLibrary, a collection of custom and general purpose icons for use with its Motif toolkit.
+NSL: +1 617 482 6393.
+Pencom Software Inc, Austin, Texas, will announce a new version of co-Xist, its X-Windows implementation for NeXT Computer Inc boxes: the new version — which runs under NextStep 3.0 — supports Motif 1.2 and X11R5.
+Samsung Software America, Andover, Massachusetts has three new versions of its fax management software for SCO Unix, IBM RS/6000 and HP 9000 systems — Replix starts at $2,400.
+Samsung: +1 508 685 6550.
+Z-Code Software is to introduce Z-Mail Lite a character-based interface for its Z-Mail Email package which will mirror the look and feel of its standard Motif offering.
+Priced at from $240 it ships next month.
+Z-Code: +1 415 499 8649
+Shared Financial Systems Inc, Dallas, Texas, will step beyond its traditional Stratus Computer Inc market and reveal a version of its Shared on-line transaction processing software engine for IBM's RS/6000: the engine is an electronic payment application used by banks and other retailers.
+Shared: +1 214 233 8356.
+Los Altos, California-based Pure Software Inc and Mercury Interactive Corp, Santa Clara, California, will announce an agreement to integrate their respective software testing tools.
+Pure's Purify checker detects run-time errors, whilst Mercury's XRunner — unveiled earlier this year at UniForum — is a set of tools for testing X-Windows applications during development.
+COOPERATIVE SYSTEMS TO MAKE UNIX MOVE, TI DEAL ON THE CARDS
+Cooperative Solutions Inc, the San Jose-based developers of Ellipse, a combined development and run-time system for developing transaction-processing applications on local-area networked workstations and servers, is gearing up to announce Unix support for its products at Unix Expo next week.
+Already available for Windows 3 and OS/2, and with an on-going deal to develop a Novell NetWare version, the company regards Unix as a highly important part of its strategy — but is remaining tight-lipped about what exactly will be announced at the Show.
+Other sources, however, claim that Cooperative also has a deal lined up with mainframe software engineering specialists Texas Instruments Inc, known to be highly interested in expanding its operations beyond the dwindling mainframe base for its IEF product.
+TI is also thought to be working with Sybase, another Cooperative partner.
+Cooperative was set up in 1989 by old hands from Tandem Computers Inc, including VP of research Kim Worsencroft and CEO Dennis McEvoy, so Ellipse is inherently resilient to errors and failures.
+It is one of a number of new-generation client-server application development tools — others include Primrose from San Francisco-based Tesseract, a forthcoming toolset from Oakland, California-based Forte Software Inc, and less-complex tools from Powersoft and Gupta.
+It is likely that many of the older-generation model-based mainframe CASE tools from the likes of Anderson, Intersolve, KnowledgeWare and Seer will be looking at migrating their own products towards a client-server architecture.
+VISYSTEMS GEARS UP FOR BIG CICS DOWNSIZING MOVE
+VISystems Inc, the Dallas, Texas-based company founded back in 1987 to help with the migration of IBM CICS transaction processing software over to Unix-based systems, is set to announce a tie-in with Sony Corp for its VIS/TP transaction processing system family of products.
+And, says the company, it has a joint marketing agreement with Hewlett-Packard in Germany, and in the US is working with both DEC and Motorola Computer Systems in its quest to pick up on the expanding downsizing trend.
+As for real customers, VISystems cites Motorola itself as ready to throw out some thirty IBM mainframes, says it has an ISV that has downsized 12 sites onto Data General kit, and in the UK has a production user in the shape of Trafalgar House Construction, which has committed the heinous sin (in the eyes of IBM) of transferring its 200 plus existing TP applications from an IBM mainframe to an RS/6000.
+The project took three months, and was organised through IBM software and services company Synapse, of Berkhampstead.
+VISystems marketing manager John Phillips claims that 99% of the source code can be retained using VIS/TP, which he says is faster than Bull's competing Unikix product (UX No 390), which emulates CICS.
+In fact, VISystems has added Bull to the legal proceedings it instigated back in April 1991 against Unicorn, the original developers of UniKix, acquired by Bull earlier this year (UX No 368), to protect its patents.
+In the future, it plans to integrate the OSF's DCE technology ‘once it becomes commercially viable’, and would also like to do a deal with Transarch Corp, which John Phillips views as ‘the best of the Open OLTP designs’ currently on the market.
+For the moment, though, VISystems is content to move away from‘the bleeding edge’ of new-generation Open OLTP and focus its resources on ‘the market that's there today — moving existing applications across.’
+VISystems now has a European support office in Darmstadt, Germany, and distributors in both Germany and France.
+VI: +1 214 960 8649.
+STRUGGLING CONCURRENT PLANS REAL-TIME R4000 BOX NEXT YEAR
+Staying loyal to the MIPS RISC architecture, Concurrent Computer Corp based in Oceanport, New Jersey, is to develop an R4000-based Unix real-time system for shipment next year.
+The R4000 multiprocessor will replace the company's R3000-based Series 8000 and 68040-based Series 7000 Unix machines, according to Denis Brown, Concurrent's chairman and CEO.
+He also hinted at a release of a new machine next year.
+The 1993 shipment plan for the R4000 depends on the availability schedule of the multiprocessing version, delayed for a year and now in final testing, Brown said.
+Although Concurrent's Series 3200 proprietary machines provide about two thirds of sales, the company expects its Unix line to take over.
+Concurrent is also restricting its sales focus to seven vertical markets to maintain its profits.
+Anticipating the R4000 roll-out, Concurrent plans to upgrade the 7000 from 25Mhz to 33Mhz.
+88OPEN OFFERS ITS TEST SUITE TO OTHER VENDORS, CONSORTIA
+The 88Open Consortium has announced its plans to license its compatibility test technology to other vendors and consortia — at a price (UX No 401).
+The test software, including the system software ITS/88 and AVS/88, and applications test software, ACT/88, are all ‘immediately available’ for licensing, the price being ‘under one million dollars’, according to 88Open president Tom Mace.
+Justifying the price, Mace said that the software was the result of a $6 million development at 88Open and would save others years of development time.
+88Open test technology verifies that systems and applications conform to source, binary and object standards, but is currently confined to software for Motorola 88000-based systems.
+Mace claims that 450 software packages certified by the test suite are guaranteed to run on the 80 or so different systems using the 88000 chip.
+This compares, he says, to only 12 applications that will definitely run on all Sparc-based systems, all of which have had to be tested and tweaked for each individual system.
+Tests include stack checking (ie file formats), identifying system calls, portability issues and dynamic parameter tests that run with the software's own quality assurance suite.
+Motif-specific tests are also being added.
+The addition of other vendors using the same process would help applications portability between different architectures, said Mace, and generally increase the quality of software.
+Consortia, in various stages of maturity, but none as far advanced as 88Open, have been set up for Sparc, IBM, DEC, HP and Transputer architectures.
+However, to port the software over will mean replacing the database, recompilation and optimisation — an effort likely to take ‘less than two man years and cost $200–250,000’ says Mace.
+But he is confident that some announcements will be made by year-end on those who have decided to take up the offer.
+…
+HAS NEW UK OFFICE TO SUPPORT ITS EUROPEAN CUSTOMERS
+Meanwhile 88Open, which boasts that some 80% of its business comes from Europe, has set up an office in the UK, under the charge of Steve Heath, previously from Motorola's semiconductor operation.
+He will be based in Aylesbury, Bucks.
+Porting centres are already available in the UK, France, Germany and Norway.
+88Open now has over 100 members, and is estimated to be fourth in the software league for ‘open’ architectures with around 1,000 packages, behind IBM (Rios) and Sun Sparc with 4,000 or so each, and MIPS with 1,800.
+Heath: +44 296 392611.
+RAIMA TO SET UP UK OPERATION THROUGH SYSTEMSTAR
+Database developer Raima Corp, of Bellevue, Washington, is talking to its UK distributor, Systemstar Ltd of Hertford, with the intention of setting up a direct presence in the UK market.
+Raima UK is likely to be joint-owned by the two companies, and is said by Systemstar's David Turley to be ‘the inevitable consequence of our selling the product for the last five years’.
+While Raima's database — now called the Raima Data Manager, but previously known as Db-Vista — is one of the least widely publicised of PC and Unix databases, it has carved out a niche for itself amongst C programmers.
+It has a network architecture for high-performance and referential integrity, but also allows purely relational systems to be built where required.
+There is also the Raima Object Manager set of class libraries.
+Raima's appeal is to technical users writing complex applications rather than the packaged market, and Unix sales now account for 20% or so of business in the UK.
+Systemstar ties in the product in with Liant Software's C-Scape screen interface package, originally developed by the Oakland Group, a company acquired by Liant in May of last year.
+Systemstar already has a full-time employee from Raima working in the UK, but has not yet worked out the details of its joint venture: a separate Systemstar operation could well continue to handle the distributor's other product lines, which include a competitive product, the KnowledgeMan extended network database from Micro Data Base Systems Inc of Lafayette, Indiana.
+Systemstar: +44 992 500919.
+MINIGRAMS
+The University of Edinburgh has installed its seventh Meiko Scientific Ltd parallel computer — the latest is a 1GFLOPS Computing Surface MPP system worth £500,000 which comprises 12 Intel 80860 CPUs, each with 32Mb RAM.
+And Meiko reminds us that its next-generation massively parallel system (UX No 401), uses no transputers — the UK, Bristol-based research and development operation, has designed its own communications processor which will operate alongside the Fujitsu Ltd vector processor and Texas Instruments Inc's Viking Sparc.
+Whether Meiko will ever employ the Cypress Semiconductor HyperSparc ‘depends upon availability,’ the firm says — even Viking ‘isn't falling off trees.’
+Meiko is still planning to use the low-cost Tsunami Sparc (which it helped design) in a future generation of systems.
+In the UK, Richmond, London-based NBA Computing Ltd has introduced a utility package for SCO Unix called RTG7, a  character-based interface with menus, help screens, a dynamic tree view, which allows users familiar with MS-DOS — but unfamiliar with Unix — to perform all kinds of file management operations and to launch applications: prices start at £250.
+NBA: 44 81 392 1245.
+Santa Monica, California-based Quarterdeck Office Systems Inc is now  shipping a 32-bit development kit for Desqview/X, its MS-DOS implementation of X-Windows which features in Unix System Labs' Destiny desktop Unix: the kit is priced at $50.
+Plasma, a CASE tool for Cobol originally only available in Japanese from its developer, Computer Applications Co, is now being offered in English, German and Chinese by Munich, Germany-based InterFace Computer GmbH and its Hong Kong-based subsidiary: Plasma takes Cobol code as its input and automatically generates a graphical overview of it.
+Pyramid Technology Corp has penned October 15th as the day it plans to make a ‘significant’ announcement of new hardware and software: one of the two next-generation MIPS R4000-based systems already promised (UX No 393), will likely figure.
+The OSI Network  Management Forum has delivered its Omnipoint 1 reference model for builders of integrated management products: Omnipoint is a set of standards, specifications and technologies that were created by a broad coalition and it is referenced in the US government's Network Management Profile, soon to be included in government procurement guidelines in the UK; among the technologies lurking in there are CMIP/X.700, SNMP, work from X/Open Co Ltd and the Object Management Group; the specifications are due to be published formally in October, and the idea is that systems that conform to the Omnipoint specs will be able to interwork.
+Unix System Labs' integrated multi-processing, secure, desktop, SVR4 offering — a single pack of code (UX No 397)— is being touted as Mozart.
+The third Russian Unix conference is being arranged by the Soviet Unix Users Group and will be held in St Petersburg between September 22 and 24: representatives of the European association of Unix users, EurOpen, and the US organisations Usenix and UniForum were all invited to take part in the proceedings.
+According to a report In ComputerWorld IBM is now saying that it'll have a single micro-kernel-based operating system for OS/2 and AIX within two years, allowing users to run Unix or OS/2 applications in either environment.
+The future operating system will be based upon Carnegie Mellon University's Mach3 and although the two will use the same kernel, they will operate as separate operating systems, the primary difference being in their front-ends.
+Object language specialist ParcPlace Systems is slated to be ready with a new ‘Smalltalk-like’ product that will propel it into more business accounts, as well as a new C++ release.
+Ken Olisa, who left his position as head of Wang's European operation shortly after the company filed for Chapter 11 is blaming the company's problems on its failure to get on the Unix bandwagon in time: ‘We missed the PC revolution and, having missed it, we missed everything else’, he says in an interview with the UK's Computing.
+Database technology, interoperability and network integration and open systems and industry standards are the key technological issues facing HP Unix and MPE users in the US, Canada and Mexico according to a survey of MIS managers by Interex, the International Association of Hewlett-Packard Computer Users, based upon 820 replies.
+Databases remain the number one concern for the second year running, whilst Unix standards are listed as the 8th most important issue, compared with their showing at 19th position last year.
+Samsung Electronics Co is expanding its tie with Hewlett-Packard Co and last week announced a two-year order for $50m of Precision Architecture RISC workstations.
+Samsung will resell the workstations under its own and Hewlett-Packard's logo in Korea, and use them internally for software development and in computer-aided design and engineering applications.
+It will immediately begin reselling the HP Apollo 9000 Series 700, to complement its own Precision Architecture stations, which are under development.
+Meanwhile, Samsung says it will release a workstation based on Hewlett-Packard Ltd's 7100 Precision Architecture-Risc microprocessor in October.
+The 60 MIPS box, priced under $60,000, will be badged individually by HP and Samsung.
+HP is to add it to an extension of its Apollo 9000 series 700 workstation family, code-named Scorpio.
+Science Applications International Corp has finally introduced the ruggedised version of RDI Computer Corp's BriteLite portable Sparc workstation, which was planned more than a year ago (UX 339).
+Dubbed the RSC-1X ruggedised portable workstation, SAIC has added a  removable 535Mb disk, three-button trackball and a high output power supply, plus a 64Mb memory and 1.2Gb disk expansion options.
+It's available through Sun Microsystems Inc's Federal Third Party offerings programme.
+SAIC +1 619 552 3767.
+Micro Focus plc began ships of upgrades for its Cobol development tools for Unix this week.
+The upgrades include a compiler, Cobol 3.0 for Unix, operating system extensions providing common features across platforms and a character or graphical user interface builder.
+The Unix upgrades are aimed at IBM Corp's AIX and the Santa Cruz Operation Inc's SCO Unix platforms with additional platform support added fourth quarter 1992.
+Silicon Graphics Inc's Laboratories are piloting a 50Mhz R4000 microprocessor, with two other system vendors following suit in a few months, according to Electronic News.
+Silicon for a 75Mhz R4000 microprocessor, the R4000A, is also expected by the end of October, according to Andy Keane, microprocessor manager at SGI's MIPS Technologies unit.
+R4000A shipments are expected through SGI's semiconductor vendors this year as well as a 67Mhz R4000A iteration.

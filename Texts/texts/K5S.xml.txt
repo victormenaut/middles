@@ -1,0 +1,71 @@
+
+
+Thermodynamic stability and drug-binding properties of oligodeoxyribonucleotide duplexes containing 3-deazaadenine:thymine base pairs
+ABSTRACT
+We have used ultraviolet melting techniques to study the effect on stability of incorporating the nucleoside analogue 2'-deoxy-3-deazaadenosine (d 3C A) into the duplex 5'-d(CGCAATCG).3'-d(GCGTTAGC).
+Our results demonstrate that the successive replacement of dA by d3CA increasingly destabilises the duplex.
+The destabilising effect of this analogue is considerably enhanced as the pH is lowered and the results are consistent with protonation of 3-deazaadenine (probably at N -1) contributing to duplex destabilisation.
+Surprisingly, the incorporation of d3CA does not significantly affect the binding of distamycin-A.
+INTRODUCTION
+Oligodeoxyribonucleotides containing heterocyclic base modifications have been extensively used to investigate DNA recognition processes, particularly DNA-DNA and DNA-protein interactions.
+Whilst many base analogues (1) have been developed to investigate interactions in the major groove of the DNA helix 2'-deoxy-3-deazaadenosine (d 3C A, Figure 1) is one of the few nucleosides that is useful in probing for sequence-specific interactions in the minor groove.
+This analogue is ideally suited for this purpose since it removes a hydrogen bond acceptor (adenine N-3) from the minor groove, but maintains the essential Watson-Crick hydrogen bonding scheme.
+Oligodeoxyribonucleotides containing 3-deazaadenine have been used to investigate the interaction of DNA with restriction endonucleases (2-5), a modification methylase (4),Salmonella Hin recombinase (6) and to study the bending of DNA in d(A) n tracts (7,8).
+Despite the increasing use of this analogue to investigate DNA recognition processes there has, to our knowledge, been no detailed study on the effect of this base analogue on duplex stability.
+It is established that the minor groove of dA-dT sequences is occupied by a spine of hydration formed by water molecules which bridge adjacent bases in opposite strands of the duplex through hydrogen bonds with thymine O-2 and adenine N-3 (9,10).
+The spine of hydration narrows the minor groove and helps to stabilise the B-form of the DNA helix (11).
+Indeed, the particular conformation (A, B or Z) of a DNA duplex depends directly on the degree of hydration and changing the water activity can shift the equilibrium to favour one duplex conformation over alternatives (12).
+On the basis of this knowledge the replacement of adenine by 3-deazaadenine would be expected to disrupt hydration in the minor groove and therefore destabilise a B-type DNA helix.
+However, the situation is not quite so clear as it initially appears to be: in some earlier studies poly 3-deazaadenylic acid was shown to form unusually stable 1:1 and 1:2 duplexes with poly U (13).
+In the present study, we now report the results of detailed investigations on effect of d 3C A on the stability of oligonucleotide duplexes and show that our findings have important consequences for researchers that use d3CA for probing DNA-protein and DNA-drug interactions.
+EXPERIMENTAL SECTION
+Synthesis and characterisation of oligonucleotides
+Oligonucleotides were prepared using phosphoramidite chemistry on an Applied Biosystems 381A automatic DNA synthesiser and 3-deaza-2'-deoxyadenosine residues were introduced using 6- N ,N -Dibenzoyl-5'- O -(4,4'-dimethoxytrityl)-3-deaza-2'-deoxy-adenosine-3'- O -(2-cyanoethyl)- N ,N -diisopropylphosphoramidite (3).
+The synthesis and purification of all oligonucleotides and their characterisation by enzymatic digestion was performed as previously reported (3).
+Thermal melting studies
+Thermal melting temperatures were measured using a Perkin Elmer Lambda 15 ultraviolet spectrophotometer equipped with a Peltier block and controlled by an Amstrad PC 2086/30 microcomputer.
+The hypochromicity factors (F )[d(CGCAATCG) F = 0.7; d(CGATTGCG) F = 0.7; d(CGCXXTCG) F = 0.8; d(CGXTTGCG) F = 0.7]were calculated as previously described (14) and used to calculate concentrations of the single strands using published (15) extinction coefficients of the nucleosides (ε 260 d 3C A = 11.1 10 3 mol -1 lcm -1 ).
+The oligonucleotides were dissolved in buffer consisting of aqueous sodium dihydrogen orthophosphate (0.1M), EDTA (1mM), sodium chloride (0.1M) and sodium cacodylate (20 mM) adjusted to the required pH (normally 7.0) using sodium hydroxide.
+The change in absorbance at 260 nm, as a function of time, was recorded whilst increasing the temperature of the solution at a rate of 0.9 °C/min (Figure 2).
+All melting curves were measured in triplicate.
+The data were collected and processed using the PECSS2 software package (Perkin Elmer).
+The absorbance versus temperature data were converted to the first derivative and the melting temperature was defined as the temperature at which the derivative curve attained its maximum value.
+All of the melting temperatures measured in this way were reproducible to within 0.45 K and most were reproducible to within 0.2 K.
+Thermodynamic data for the duplexes shown in Table 1 were obtained from concentration-dependent melting curves (5 concentrations between 5 and 70 µM).
+The data points were fitted to a van't Hoff plots of T m -1 vs ln (C T /4), and the thermodynamic parameters calculated from the following equation (16):
+One, two or three modifications (Table 1, duplexes 2-4).
+As anticipated melting curves for duplexes 1-4 showed a single transition (Figure 2) and T m values were measured over a 14-fold concentration range in order to determine thermodynamic parameters (Table 1).
+The successive replacement of dA by d ystems3C A resulted in a considerable drop in the T m values of the duplexes, 317.6 K for the unmodified duplex (duplex 1) as compared to 304.2 K for the duplex containing three d 3C A residues (duplex 4) and the thermodynamic parameters clearly demonstrate that d 3C A destabilises the duplexes.
+Helix destabilisation induced by d 3C A is almost certainly the result of a combination of effects and those that are likely to be significant include:
+(i)
+The high basicity of 2'-deoxy-3-deazaadenosine (pk a 6.80) in comparison to that of 2'-deoxyadenosine (pk a 3.62)(13) may lead to destabilisation of the helix through protonation of the 3-deazaadenine base at N -1 and the resultant loss of a Watson-Crick hydrogen bonding interaction.
+(ii)
+Loss of the stabilising spine of hydration from the minor groove.
+The significance of base protonation in the destabilisation effect of d 3C A was investigated by measuring the T m values for duplexes 1 and 4 over the pH range of 5 to 8 (Figure 3).
+A plot of T m vs pH clearly demonstrates that the melting temperature of duplex 4 is strongly dependent on pH and the destabilising effect of d 3C A is significantly enhanced as the pH is decreased.
+The results are consistent with protonation of 3-deazaadenine occurring, probably at N -1 and interfering with the Watson-Crick hydrogen bonding.
+In contrast, the melting for the unmodified duplex is, as expected, essentially independent of pH over the range 5 to 8.
+It is difficult to compare the relatively large destabilising effect observed for the octamers in this study, to the smaller effect noted when single d3CA residues were incorporated into the d(GACGATATCGTC) 2 duplex, since the T m measurements were not performed at the same pH (4).
+However, it is not surprising that the destabilising effect is greater in the shorter oligomers.
+Examination of the minor grooves reveals that the unmodified duplex (duplex 1) can accommodate three first-layer water molecules hydrogen-bonded with thymine O -2 and adenine N -3, whilst duplex 4 can accommodate one such water molecule.
+It would appear unlikely that a difference of two water molecules could account for the large destabilisation observed and it is therefore probable that minor groove hydration is not the singularly most important destabilising effect the sequence currently under investigation.
+We have investigated hydrogen bonding interactions in the minor groove through T m studies performed on duplexes 1 and 4 in the presence of distamycin-A (Table 2).
+The drug distamycin-A is known to bind in the minor groove of d(A-T) rich sequences using the same hydrogen bond acceptor sites (O -2 and N -3) as water, although other stabilising effects including electrostatic and van der Waals interactions are also important (18).
+Complex formation ideally encompasses several contiguous A-T base pairs (19,20) and is characterised by a marked increase in the T m value for the duplex.
+The data presented in Table 2 show that the addition of distamycin produces a very similar increase in T m values for both duplex 1 and duplex 4 i.e. the drug exerts a very similar stabilising effect on both duplexes.
+These results indicate that removal of N -3 from the minor groove does not prevent the binding of distamycin-A in the minor groove of A-T-rich DNA.
+This surprising observation has implications for the application of d 3C A to the study of DNA-protein interactions since it is possible that DNA duplexes containing this analogue may still bind proteins in the minor groove and therefore, the results from such studies need to be interpreted with care.
+However, it should be noted that this themodynamic data provides no information relating to the geometry of the bound distamycin which will require examination using other techniques.
+CONCLUSIONS
+The results presented clearly demonstrate that the incorporation of d 3C A has a destabilising effect on oligonucleotide duplexes and the pH dependence of the T m values is consistent with protonation of 3-deazaadenine (most probably at N-1) contributing significantly to this effect.
+It appears to be unlikely that reduced hydration in the minor groove plays a major role in destabilising the duplexes used in this study, although removal of bound water may be more significant in sequences containing more contiguous A-T base pairs.
+It is also likely that other effects, in particular the altered  -system and its effect on base stacking, contribute to d 3C A induced destabilisation.
+We believe that these results have important consequences for the use of d 3C A as a probe for studying DNA-protein interactions.
+Figure 2.
+Ultraiolet melting curve and first derivative for the 5'-d(CGCAATCG) .3'-d (GCGTT 3C AGC) duplex.
+See experimental details for the conditions.
+Figure 1.
+Structural comparison of dA and d 3C A.
+Figure 3.
+Plot of T m vs pH for duplexes 1 and 4.
+T m measurements were made using total single strand concentrations of 18 and 8µM for duplexes 1 and 4 respectively.

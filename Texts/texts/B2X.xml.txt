@@ -1,0 +1,851 @@
+
+
+Description Types and Method of Conjoining as Factors Influencing Plural Anaphora: a Continuation Study of Focus
+A. J. SANFORD and F. LOCKHART University of Glasgow
+Abstract
+An experiment is reported which investigates the impact of two variables on the likelihood of obtaining plural pronoun anaphors in a continuation task.
+The first variable is syntactic: the use of and versus with as a means of relating two singular characters.
+Use of and enhances the likelihood of obtaining a plural anaphor in continuations, but the incidence of plural is never as high as 60%.
+The second variable is description type: whether the characters are introduced through proper names (e.g. Harry ), or through a simple definition noun phrase (e.g. the doctor ).
+When two descriptions are of the same type, plural reference is enhanced, regardless of syntactic condition, and regardless of whether the two descriptions are names or noun phrases.
+This effect is traced in part to the special status afforded to characters which are introduced through proper names.
+A discussion is presented within the framework of an account of plural anaphora based on singular individuals mapping into common role-slots in background knowledge (scenario).
+INTRODUCTION
+Establishing the conditions under which plural reference is possible or even preferred has received relatively little attention until recently.
+The present paper is concerned with the conditions under which individuals introduced separately become available for reference by means of plural pronouns.
+Plural anaphors may be used to refer to collections or sets of things which are introduced in a variety of different ways.
+One major subgroup comprises collections or sets introduced through a single description, as in the class , or through a plural description, as in horses or hot days .
+In these cases, pronominal reference is naturally plural, as with they ,them ,these , and so on.
+Generics and conceptual anaphora (Gernsbacher 1986), and subsets resulting from quantification (Moxey & Sanford 1987) may be included in this group, although they present their own problems for anaphoric interpretations.
+A second major subgroup for which plural anaphora may be appropriate is collections or sets introduced through descriptions which, in fact, identify the individual elements out of which the sets are formed.
+The most obvious of  these is the use of connective and , which offers direct syntactic support for grouping, as in (1):
+(1) Jack and Jill went to the pictures.
+They…
+Sometimes the basis for grouping may be somewhat more tenuous, although plural reference remains entirely possible, as in (2) and (3):
+(2) Donald went to the village with Margaret.
+They…(3) Donald chased after Margaret.
+They…
+Our concern in the present paper is with the conditions which license or favour plural reference when individuals are introduced in such ways.
+With (1)–(3), it is clear that reference with he ,she , or they is possible.
+What variables determine a preference for one form of reference over another?
+How are such preferences to be understood in terms of underlying processes?
+Our questions are thus more concerned with preferences than with boundary conditions in which plural references may become impossible.
+Two variables have been mooted as possible determinants of success in making plural reference.
+One variable, ontological sameness, holds that plural pronominal reference becomes possible when two mentioned individuals (henceforth ‘atomic individuals’) are of the same ontological type (Herweg 1988).
+On this line of reasoning, two humans mentioned separately might be good for plural reference, while a human and an animal will be less good (although plural reference is by no means ruled out in many cases).
+This is closely related to the more general idea of a common association base (CAB): the argument is that some sort of conceptual link has to be formed between individuals which have been introduced if they are to be referred to by a plural pronoun.
+A CAB is viewed as necessary for the licensing of plural reference (Eschenbach, Habel, Herweg & Rehkämper, 1989).
+A second variable is the syntactic relation which holds between individual atomic descriptions, so conjoining atomic individuals through the use of and , for instance, is taken as a very strong influence in bringing about felicitous plural reference.
+Accounts of plural reference and the context of the present experiment
+The present study was conceived of in the context of a theory that what licenses plural reference is the possibility of mapping atomic individuals into a common role-slot in some interpretative structure (work in progress).
+We are assuming that when a sentence is understood, it is understood by mapping its constituents into background knowledge structures (a central notion in the framework  devised by Sanford & Garrod 1981, and some other theories).
+One example of such a structure might be a main verb-schema (e.g. Rumelhart & Ortony 1977), with the mappings representing cases.
+For example:
+(4) John asked Mary out.
+might be represented by mappings in which John → Agent and Mary → patient in the verb schema.
+In a number of theories of text comprehension, such mappings are assumed to be made (potentially) at a number of levels.
+For instance, if someone knew that John and Mary always talk a lot when they go out, then that inference might be made in the face of example (4), leading to a further set of mappings in which both John and Mary map into the same role-slot (both are agents in a talking schema).
+Within the framework which we are currently developing (an extension of the framework of Sanford & Garrod (1981; Garrod & Sanford 1982) a plural reference is possible if two (or more) atomic elements map into a common role-slot.
+If they do not map in this way, then plural reference with the atomic individuals is not possible.
+However, the mapping may be in terms of representations which are close to the utterance in question, such as the verb-schema type of representation, or to structures based on more elaborate inferences, such as the one described above.
+With this conception, it is possible to explain why, in a continuation task, some examples, like (5), produce a very low incidence of plural continuations:
+(5) John showed Mary how to mend a car.
+The two characters play different roles in the conception suggested by the sentence, and it is likely (though not inevitable), that they will continue to play different roles in any future development of the discourse.
+In contrast, we would expect an example like (6) to produce a relatively high rate of plural continuations, since it is likely that the two meet in order to carry out joint activities.
+Thus in an elaborated set of mappings, the two atomic individuals will play a common role in some of them:
+(6) John met Mary at the station.
+Some verbs, like ‘meet’, are likely to be highly associated with events where people play a common role in some developing story.
+Full discussion of this model is outwith the scope of the present paper, and we are leaving vague the discussion of types of role-mapping which might be important: for the present purpose, by role-mappings of atomic discourse elements, we mean any mapping between a description and an underlying knowledge structure which has been invoked during the understanding process (and, of course, there may be more than one).
+This line of reasoning is intended to provide a means for felicitous plural and  singular pronominal reference under appropriate circumstances.
+Provided atomic individuals are mapped to the same role-slot in one representation, then plural reference is possible, and provided they map to different role-slots in another (simultaneously), then singular references are possible.
+However, one set of mappings may predominate over others, thus producing a bias in the availability or accessibility of plural or singular referents.
+Approaching the same problem from a different perspective, Eschenbach, Habel, Herweg & Rehkämper (1989) introduce the notion of a complex referential object (complex ref-O).
+They suppose that the presence of a suitable CAB allows the formation of a complex ref-O from the atomic objects related through the CAB.
+The complex ref-O is that which enables plural reference to take place.
+Much of the work of these researchers is concerned with the conditions which either favour or result in the formation of a complex ref-O (hence enabling plural reference), or preclude complex ref-O formation.
+There is at least one similarity between the two approaches: there has to be some mechanism by which something corresponding to a complex ref-O is represented.
+In an account based on the Sanford-Garrod framework, we take it that plural reference is possible if more than one atomic entity is mapped into a single role-slot in an elicited representation.
+ In a sense, two or more pointers from atomic descriptions to a common role-slot constitute a condition for plural reference, like a complex ref-O, while pointers from atomic objects to different role-slots constitute the condition for singular reference, like simple ref-Os.
+If multiple mappings are allowed, then the equivalent of both simple and complex objects can co-exist.
+Constraints on plural reference
+Although use will be made of the concepts discussed above, the experiment reported below does not in any way test various theories of plural reference resolution.
+Rather, it is an examination of constraints which militate for or against plural reference.
+The first type of constraint examined here is the use of and or with as a means of linking two individuals, as in (7) and (8):
+(7) Mary and John went to the shops.
+(8) Mary went to the shops with John.
+It is generally assumed that the use of and will enhance plural reference in this example.
+The second constraint is the form of description of the atomic individuals.
+Two important ways of referring to individuals (characters) is by means of proper names such as Henk , or by means of fuller, definite noun phrases such as the plumber .
+This latter type of description specifies a typical role which a character plays in a scene, but the term role will be reserved for the role-filler  notion discussed already, to avoid confusion.
+We will call these descriptions noun, and the first type name.
+Consider the following pair of examples:
+(9) Mary and John ran into the house.
+(10) Mary and the plumber ran into the house.
+Intuitively, it seems to the authors that (9) would lead more readily to continuations in which Mary and John are referred to by they or them than would be the case with (10).
+The validity of this intuition awaits the report of the experiment, but if this were the case, what foundation could it have?
+There are several possibilities.
+First, proper name and noun are different description types, serving different functions.
+Indeed, their different uses have been investigated by Sanford, Moar & Garrod (1988; Garrod & Sanford 1990), who showed that pronominal references in continuations are more likely to be made to proper-named characters, and that characters introduced by proper name are more easily accessed for anaphoric reference, as indexed by self-paced reading time.
+The argument is that proper name is an important signal to the processor to treat the referent as a main character, which tends to separate that character from others in terms of the roles they play in interpretative scenarios (see also Garrod & Sanford 1988 for a fuller discussion of the concept of main character).
+So, one reason for getting less plural continuations with (10) might be that the proper name serves as a strong cue for treating the named character as special and separate from other individuals.
+Another possibility is that the noun descriptions suggest a particular set of activities which become dominant in addressing schemas for interpretation.
+For example,plumber might suggest the set of activities such as getting pipes mended , etc.
+So, given a sentence like
+(11) Mary and the plumber talked.
+we may expect continuations to have to do with plumbing, in which the plumber is offering advice to Mary, and so they are playing different roles.
+Another case of interest is that of two characters introduced through noun phrases:
+(12) The doctor and the plumber talked.
+Here there are many opportunities for the two individuals to be mapped into different roles.
+The plumber is ill, the doctor's pipes have burst, and so on.
+The authors' intuitions are to the effect that in (12), a plural continuation would be preferred, however.
+If experimentally it is shown that there is no difference in the number of plural continuations which occur with two names and with two roles, then we would conclude that common description type (rather than description content) is a major force in controlling the likelihood of plural reference.
+Whether any of these intuitions are valid depends on the data yet to  be reported.
+It is possible to analyse possible interactions between the syntactic cue and description type also, but these are best understood on the basis of the data.
+There are several possible methods to use to address the problem of whether plural or singular reference preferences exist.
+For example, reading time and related on-line measures can be used to determine the relative speed of reference resolution (cf Garrod & Sanford 1982 for an application to plural anaphora).
+Alternatively, subjects can be invited to write continuation sentences after a sentence of interest, and the incidence of plural or singular anaphoric pronouns in the continuations can be used as an index of preference.
+These two methods are not equivalent, since the time-scales over which reading time integration and generation of a continuation take place are different.
+In the experiment below, we use the continuation method in order to see which variables lead to preferences for singular or plural reference.
+EXPERIMENT
+Method
+Design and materials
+Forty one-line materials were devised depicting two characters in easily imagined  situations .
+The characters could either be introduced by using proper names (name ) for one or both, or by a definite NP (noun ) for one or both.
+Two types of sentence structure were used.
+In the first (the ‘&’ condition), the two characters were conjoined using and , followed by a verb-phrase.
+In the other (‘with’ condition), the characters were separated by a verb phrase and conjoined by with .
+Thus, eight versions were possible for a given material.
+A typical material, showing the eight versions, is:
+(13) Aileen/The girl and Steve/the boy ran into the cinema.
+(14) Aileen/The girl ran into the cinema with Steve/the boy.
+Following the discussion made earlier, in making up the examples, care was taken to eliminate any action where there was a clear role-asymmetry between the characters.
+Thus the interactions were all things which did not clearly put one of the protagonists in an agent position and the other in a patient position.
+This was done by examining the name cases.
+if there was any obvious possibility of separate role-mappings predominating at the level of sentence-based case, the material was not used.
+This was done to maximize the possibility of detecting contrasts over conditions, since an asymmetry would be expected to lead to high proportions of singular continuations which might make differences between conditions hard to detect.
+A given subject saw a sentence of 40 materials, each material appearing in only one of its eight possible versions.
+So that each material could appear in every version in the complete design, there were eight separate sequences.
+If material 1 appeared in its condition 1 form in sequence 1, then it appeared in its condition 2 form in sequence 2, and so on to sequence 8.
+In a given sequence, five of the materials appeared in condition 1 form, five in condition 2 form, and so on, so that a given subject, receiving one sequence, saw 40 materials, five in each of the eight conditions.
+However, a subject did not see the same material in more than one of its forms.
+Since there were 32 subjects, four subjects saw a given sequence.
+The order of the sentences was randomized within a sequence, and a further 20 sentences, unrelated to the present design, were introduced as fillers.
+Subjects
+Thirty-two subjects were tested.
+They were students at the University of Glasgow, and had no knowledge of the point of the experiment.
+Procedure
+Each subject was given a booklet consisting of seven pages.
+The first contained written instructions.
+The remainder each had ten sentences with a line underneath where a continuation was to be written.
+Subjects were told to add a continuation sentence to each of the sentences presented, so as to continue the ‘narrative’ in a sensible way.
+The need to produce complete sentences was emphasized.
+Results and discussion
+Simple plurals
+The continuations were classified as to whether or not a plural description was used which referred to the target individuals, or whether singular references were used.
+In the case of singular references, the target individual referred to was noted.
+The proportion of occasions on which a plural reference (they, them, both, etc.) was made is shown in Figure 1.
+Two effects are striking.
+First, syntactic grouping through the use of and increases the probability of a plural reference being used in continuations, as expected.
+Second, similarity of description-type raises the probability.
+whether both individuals are described by role descriptions or proper names, the enhancement is much the same.
+Plural references are less likely to be elicited by mixed description-types.
+Analyses of variance by subject and by materials support these observations.
+Figure 1 Proportion of continuations using plural pronouns co-referential with the protagonists in the stimulus sentence.
+For the and/with contrast, subject  materials .
+For the description contrast, subject ; materials .
+The interaction did not approach significance by either subjects or materials.
+The results show that simply conjoining characters with and serves to facilitate plural reference relative to the ‘with’ condition, although this tendency is only a relative facilitation: under no condition does the proportion of plural reference get as high as 60%.
+If the same types of description are used (name or NP), there is a greater likelihood that plural references will be made than if mixed descriptions are used.
+The impact of both descriptions being names is marginally greater in this respect than the impact of both being NPs, but the difference is not substantial or reliable.
+Thus, while conjoining with and serves as a powerful cue to put the atomic individuals together, it can be offset by mixing the description types of the atomic descriptions.
+Figure 2 Mean number of singular continuations co-referential with either the named or the role-described character in the mixed description conditions.
+Influence of names in mixed conditions
+Turning first to the tendency to produce relatively less plural references under the mixed condition, it is possible to analyse the effect in terms of the different effects which name and noun descriptions might have.
+One argument given earlier was that the processor might treat a proper name as signalling the status of main character, and so bring about a relatively high proportion of singular continuations made to this character.
+The other argument was that different description types might merely reduce the tendency to group the atomic elements together without any prediction regarding which singular continuation would predominate.
+Figure 2 shows the distribution of reference to name and noun descriptions in the case of singular pronominal anaphors to the name-noun and noun-name conditions.
+It is clear that there is a strong  tendency to continue with the named individual, the only exception being the noun-with-name condition.
+(The discrepancy could perhaps be explained if it is assumed that there is also a weak preference to continue with the first-named character.)
+Statistical analyses using Tukey's method by subjects and by materials showed that the incidence of singular continuations to the name noun contrasts shown in Figure 2 were reliable at at least the 0.05 level.
+It is therefore arguable that the tendency towards singular reference with the mixed-descriptions is at least in part due to a strong tendency for named characters to be used as thematic subjects or main characters in continuations, although there is a small first-mention effect.
+Thus, part of the story must be that the name/noun contrast puts the two individuals in different roles with respect to situation, with the asymmetry resulting from the thematic subject component.
+Occurrence of ‘both’
+In some cases, plural continuations were complex in that constructions included the term both , as in Both …,
+They both …, and Both of them .
+Although the incidence was not high, an attempt was made to discover when such constructions might be likely to occur.
+One possibility relates to the many cases where plural reference is made under conditions which our results show to be relatively unfavourable.
+It seems possible that the occurrence of both in they both and related expressions might serve to reinforce the plural grouping which is required by the presence of the pronoun alone.
+Thus, in conditions where to continue with a plural may produce some kind of strain,both may serve to ameliorate the strain.
+If this conjecture is at all sound, then the distribution of occurrences of both in conjunction with a pronoun should be more prevalent in just those cases where plural references are in the minority, i.e. in the ‘with’ condition, and in the mixed description condition.
+The distribution of occurrence of both is shown in Table 1.
+The numbers are collapsed by same description types, since the absolute incidence of both in plural conditions is not that great.
+The only reliable difference in Table 1 is that between the pooled combining conditions,and versus with : by a chi-square test,.
+Thus, using a plural in a continuation based on the verb + with conditions, where we might expect some sort of strain, does indeed produce a reliably higher number of continuations using both .
+However, it might be supposed that the poorest conditions of all for producing plural continuations (mixed conditions, especially in the ‘with’ condition) would show the highest proportion of use of both .
+This is not the case, as can be seen from Table 1, even in terms of simple numerical trend.
+It is difficult to interpret this without further purpose-designed experimentation, but it is still possible to speculate about possible reasons for the observed pattern.
+One possibility is that the  tendency to use both is restricted to reducing strain induced by unfavourable syntactic constructions (i.e. verb-with as against and ).
+An alternative is that under conditions which are maximally unfavourable for plural reference, when a plural reference is made, it is made only because no strain exists in those (rare) cases.
+Table 1 Occurrence of ‘both’ in plural references as a function of condition
+The first numbers refer to the percent of occasions on which both is included, conditional on a plural reference being made anyway.
+The numbers in square brackets are the absolute numbers, given to illustrate the incidence of both in the data.
+Since base rates of plural description vary over condition.
+proportions do not bear a simple correspondence to numbers.
+Because of the relatively small number of cases, when two description types are the same.
+they are pooled under the Same group.
+The two orders of mixed descriptions are likewise pooled under the Mixed group.
+the only statistically reliable effect is on the Overall difference between combining conditions.
+CONCLUSIONS
+The results of this study reveal a number of factors which vary the likelihood of plural references being made in a continuation task.
+In particular, homogeneity of description-type and direct conjunction through the connective and produce the most favourable environments for plural production.
+First consider the overall incidence of plural references.
+The experiment was designed using situations and events which do not clearly put individuals in different major roles.
+For example, if John ran into the cinema with Mary , then it is quite possible to read this as them both taking some action together.
+Other types of interaction can be much more marked in cueing individuals into major roles.
+The situations chosen were so chosen in order to achieve a reasonable level of plural continuations.
+In other studies where two individuals have been introduced, plural anaphora in continuations have typically been far below 10%.
+For instance, in the study of the effect of using proper names (Sanford, Moar & Garrod 1988), individuals were introduced through such interactions as:
+(15) Mr. Bloggs was dictating a letter.
+Mary was taking shorthand.
+Now there is nothing to prevent plural continuation here (e.g. They had been working hard for hours ), but the incidence of such continuations was less than 5%, and continuations mostly were confined to singular references with individuals being in relatively stereotypical roles with respect to each other.
+Even though the actions in the present experiment were specifically designed to eliminate any overt suggestion of role differentiation, singulars still accounted for nearly half of the continuations under the best condition for plurals (same description type, use of and ).
+While it has been widely recognized that both plural and singular references are possible under many circumstances (Eschenbach, Habel, Herweg & Rehkämper 1989; Garrod & Sanford 1982), the present results reveal just how prevalent singulars can be, even given a grammatical grouping cue like and.
+In terms of the role-mapping model of plural reference, we would suppose that the use of and imposes a constraint which specifies the two individuals as playing the same grammatical role.
+However, in terms of formulating what happens next (as required by a continuation study), the constraint is soft in that it only raises both the probability of the two characters playing the same role in an elaborated representation.
+The second major observation is that mixed description types result in a low incidence of plural continuations.
+Two possible reasons were identified for this.
+First, different description types (noun/name) may suggest that the individuals depicted in the descriptions concerned are to be contrasted.
+A possible basis for the contrast was suggested: proper names single out principal protagonists in narratives, and so, even in the simplest of materials, will tend to put the named character in a role which is likely to be different from that played by a character introduced through a noun.
+Indeed, it is plausible that in looking for a way to relate a proper-named individual to one introduced by a noun, the processor would be dominated by stereotypical associations.
+Thus, if Jack and the girl go to the cinema , the descriptions and setting may suggest that Jack is wooing the girl, for instance.
+This possibility may be less prominent if it were Jack and Jill who went to the cinema.
+A second possibility is that noun descriptions are always contrasted, and so will lead to the atomic individuals being mapped into different roles in possible scenarios.
+So, if an actress and a doctor are having coffee, say, the processor may use the different stereotypical activities associated with these sorts of character to specify a contrast between them.
+In the present study, the noun-noun combination does not produce any more reliable plural continuations than does the name-name combination, so such a contrast mechanism is not operating in the present study.
+However, since, in the mixed condition, the high incidence of singular references is associated with continuations based on the named-character, support is gained for the idea of contrast over mixed description types, influenced or driven by a tendency to isolate a named character through its elevation to status of ‘principal character’(cf.
+Garrod & Sanford 1988; Grimaud 1988).
+The observation of expressions using both is intriguing.
+It is possible that this  expression is sometimes used to reinforce a plural reference pattern in circumstances where such a reference pattern may be overshadowed by the potential for singular reference.
+In the present study, the expression was used more frequently in the pooled with conditions than in the pooled and conditions, and thus corresponded to conditions in which plurals were less frequent.
+We tentatively suggest that these observations support our working hypothesis, although there is no monotonic inverse relationship between incidence of plurals and incidence of use of both, as one might suspect.
+While it is possible to produce ad hoc arguments for non-monotonicity, it is probably wiser to design a study aimed at investigating the functions of both specifically.
+In much the same way, there are situations where all seems to be a candidate for reinforcing certain patterns of plural reference.
+For instance, given (16), the inclusion of all may make (16') sound better.
+The use of such additional reinforcing terms deserves attention:
+(16) Jack and Pauline met Richard and Liz at the station.
+(16') They (all) went out for dinner.
+Finally, the sentence production task used in the present study is an easy way of determining preferences for plural or singular reference patterns.
+However, it is recognized that other tasks may well tap other aspects of plural reference.
+For example, while the present data show how soft constraints affect preference (and thus the state of the comprehension system), they cannot address the question of how the preferences develop over time on reading a stimulus sentence.
+Self-paced reading time, for instance, may show that different constraints have different time courses.
+For example,and may have an effect as soon as the noun phrase it appears in is encountered, and the effect may be counteracted by what is suggested in a later part of the sentence.
+It remains an empirical issue to track the time-course of the constraints uncovered in the present experiment.
+Acknowledgements
+Mental Models as Contexts for Interpreting Texts: Implications from Studies of Anaphora
+ALAN GARNHAM and JANE OAKHILL University of Sussex
+Abstract
+One of the major tenets of the mental models theory of text comprehension is that the model of the text so far provides (part of) the context for understanding the current sentence.
+Using two sets of findings on the comprehension of anaphoric expressions, we attempt to provide a more specific interpretation for this statement.
+We first consider the linguistic distinction between deep and surface anaphors, and the proposal that they are interpreted with reference to mental models and to representations of surface form, respectively.
+Although the linguistic distinction is reflected fairly directly in considered judgements, in on-line processing both aspects of representation are implicated in the interpretation of both kinds of anaphora.
+The second set of findings shows that the interpretation of texts containing pronouns can be incomplete — only part of the information in the model is used to interpret the anaphor.
+Readers may effect mappings between role fillers in different clauses of a text or they may effect mappings between names and role fillers.
+We discuss evidence that these two types of mapping can be carried out separately and that, in certain circumstances, role-to-name mapping in particular may not take place at all.
+INTRODUCTION
+The ‘mental models’ approach to language processing, and thinking and reasoning (see especially Johnson-Laird 1983) has two principal aspects.
+It provides a general framework within which theories of cognitive abilities can be formulated and it suggests the form that specific theories of those abilities should take.
+The best example of a specific theory developed  within the framework, Johnson-Laird & Bara's (1984) account of syllogistic reasoning, clearly illustrates these two aspects of the approach.
+In its application to language processing (Johnson-Laird 1983; Garnham 1987), the mental models approach derives in part from the earlier ideas of Bransford (e.g. Bransford & Franks 1971; Bransford, Barclay & Franks 1972).
+In particular, it accepts his claim that comprehension is both an integrative and a constructive process.
+However, it is also informed by more rigorous approaches to language — those of generative linguistics and formal semantics — and this greater leaning towards formalism can be seen both in its treatment of integration and construction, and in the attention it pays to aspects of language processing such as parsing.
+Bransford's ideas about integration were imprecise.
+However, the Bransford & Franks (1971) experiment illustrates one point very clearly.
+The integration of information from different sentences into a single representation, for example one corresponding to:
+The ants in the kitchen ate the sweet jelly which was on the table.
+relies on taking different occurrences of an expression such as the table in
+The ants were on the table.
+AND The table was in the kitchen.
+to be co-referential.
+However, in ordinary texts, expressions with the same meaning (either same reference or same sense) typically have very different forms, for example the table and it in:
+I walked over to the table and put the book on it.
+or tee-shirt and one in:
+Jackie is wearing a red tee-shirt and I am wearing a blue one.
+A major problem in integrating information from different parts of a text is, therefore, identifying anaphoric expressions, such as it and one , and assigning meanings to them.
+In the context of the mental models theory of comprehension a specific account of anaphor interpretation must be developed.
+Over the past few years we have been working on such an account, and in this paper we focus on the implications of this account for a central tenet of the mental models approach: that the mental model of the text so far provides (part of the context for the interpretation of the current sentence or clause.
+In particular, we consider two sets of findings.
+The first relates to the idea, taken from linguistic theory, that there are two main types of anaphoric expression: those that are interpreted with respect to the surface form of a text and those that are interpreted with respect to its meaning.
+Since a mental model forms only part of the context for interpreting the current sentence, a representation of surface form might well comprise another part of the context.
+However, we will show that the mental model plays a role in the interpretation of anaphors that ought, according to the linguistic theory, to be interpreted with reference to a superficial representation only, and vice versa.
+The second set of findings suggests that, when the information in a clause containing an anaphoric expression is integrated into the existing mental model, the interpretation of that clause is often incomplete, in a sense that we will define below.
+The model may be the context for interpreting the clause, but the interpretation need not be a full one.
+Neither set of findings shows that this tenet of the mental models theory is incorrect, but both show that, in a fully  specified theory of text interpretation, it must receive a more specific formulation.
+REPRESENTATIONS USED TO INTERPRET ANAPHORS
+An account of anaphoric processing based on the idea that there are two broad classes of anaphoric expression was suggested by Sag and Hankamer (1984), whose ideas were already known to, and tentatively endorsed by, Johnson-Laird (1983) in his most complete account of the mental models framework.
+Hankamer & Sag (1976) had previously proposed a division of anaphoric expressions into deep and surface anaphors.
+In their later paper they suggest that these two types of anaphor are interpreted with respect to two aspects of text representation that are well-established within psycholinguistics: a superficial or surface-based aspect and a content-based one.
+Surface anaphors typically involve the omission of a second occurrence of material that has recently occurred in a text, for example:
+Someone else has been invited.
+I wonder who.
+Sag & Hankamer rename them ellipses and argue that they are interpreted by ‘copying over’ a piece of superficial representation.
+For technical reasons, they argue that this representation is Chomskyan logical form.
+Deep anaphors, on the other hand, take their meaning directly from an element of the content-based representation, or mental model, and are renamed model-interpretive anaphora .
+A straightforward, attractive, and testable interpretation of Sag & Hankamer's suggestion is that ellipses are interpreted with reference to only a representation of the superficial features of a text, while model interpretive anaphors are interpreted with reference to only a mental model.
+Much of our recent research has been directed to testing this idea, which we have shown to be incorrect.
+Although Sag & Hankamer's theory provides the basis of an excellent account of the considered judgement of literate people, it does not fare so well in explaining their ordinary language comprehension.
+By saying that the account explains considered judgements we mean the following.
+If a literate person is asked whether the use of a surface anaphor is acceptable, they will tend to say ‘yes if it can be interpreted by Sag & Hankamer's copying in process and ‘no’ if it cannot.
+For example,
+The children asked to be squirted with the hose, so they were.
+is judged to be acceptable, because it can be ‘completed’ by squirted with the hose , and that exact phrase occurs in the first part of the sentence.
+The continuation  …so we did is less acceptable because the elided material (squirt them with the hose ) is not literally present.
+However, the continuation …so we did it , which substitutes a deep anaphor,do it , for a verb phrase ellipsis, is usually judged to be good.
+If the deep anaphor can be assigned a suitable interpretation from a content-based representation it does not matter, at least as far as a considered judgement of acceptability is concerned, if the previous expression of that content does not parallel the one that would have to be substituted for the anaphor to make a full second clause.
+Indeed, model-interpretive anaphors, unlike ellipses, do not require linguistic antecedents at all.
+This phenomenon is explained by the fact that elements can be introduced into mental models without being explicitly mentioned.
+So it is possible to refer to a contextually prominent woman as she, the first time she is mentioned in a conversation.
+Or a child can say to its mother, angry at finding a valuable vase broken,the dog did it .
+However, a contextually prominent action cannot justify the use of a surface anaphor, such as I did, yesterday .
+Despite the ability of Sag & Hankamer's ideas to account for considered judgements, several lines of evidence suggest that they do not provide any simple basis for a theory of comprehension.
+Some of this evidence comes from a corpus of anaphoric expressions from published material that we have been collecting for several years (for a preliminary report see Garnham & Oakhill 1989).
+In this corpus we find that it is very rare for an ellipsis to occur without a linguistic antecedent, and in those cases where one does, it is usually for special effect.
+For example,The Independent , a British daily newspaper, recently ran an advertising campaign with posters that read It is, are you ?
+The interpretation of these posters, at least on first reading, required a certain amount of problem solving activity.
+However, we have many examples of ellipses with antecedents that do not parallel the elided material, for example:
+In theatres all over the rest of the country The Tart and the Vicar's Wife packs them in, and has been ever since it opened in Preston in February 1986.
+(The Sunday Times Magazine , 22 January 1989)
+Alan Yentob, controller of BBC2, said last night: ‘It is fantastically important that these issues are debated.
+If one cannot — and that is happening in some cases — it only means that…’
+(The Sunday Times , 3 March 1989)
+Car hire: don't.
+The traffic jams are appalling.
+(Article on Tokyo in The Sunday Times , 9 April 1989)
+This modulator allows the 1040-STFM to be plugged directly into any domestic TV set, and comes complete with a lead to allow you to do so.
+(Advertisement for a computer in Practical Computing , May 1989)
+The vast majority of our examples do not seem to cause comprehension problems for the ordinary reader.
+Indeed, we ourselves often have difficulty in finding new examples for our corpus, unless we are specifically looking for them.
+Furthermore, when we do not notice an example, we often begin with a  vague feeling that the text is poorly written and have to work quite hard to say just what is wrong with it.
+Nevertheless, in line with Sag & Hankamer's suggestions, once the attention of a literate person is directed to the examples in our corpus, they often appear less than fully acceptable.
+This intuition was confirmed in a study in which we asked graduate students and other members of staff in our department to comment on short passages derived from examples in our corpus.
+The subjects were asked to make two judgements about each passage: Was it hard to understand?
+Was it badly written?
+If they decided it was badly written they were asked to rewrite it.
+There was no time pressure, so the data should reflect considered judgements, rather than on-line processing.
+The following is an example of a passage from the study, based on an extract from a newspaper report It contains a surface anaphor that does not conform to Hankamer & Sag's criteria.
+It is surprising how many people in this capital are critical of the regime, though anyone who did so openly would be promptly advised to book their plot in the  cemetery .
+Here, do  so means ‘criticized the regime’, but its antecedent-containing clause expresses this content in a different way.
+Do so cannot be replaced by a ‘copy’ of part of the first clause.
+Of 13 subjects, only one claimed that the passage was difficult to understand.
+However, 11 stated that it was poorly written, and all but one of those 11 rewrote the passage so as to make it conform to Hankamer & Sag's parallelism condition — some changed the antecedent from are critical of to criticize , others changed the form of the ellipses (e.g.…anyone who is …) or eliminated it (e.g.…anyone who was openly critical …).
+So, at least according to off-line judgements, the message conveyed by this passage was not difficult to extract, but it was expressed in a way that was not fully acceptable to focused critical judgement
+The conclusion that we have drawn from these observations, which is supported by independent experimental evidence to be discussed below, is that although people expect ellipses to take their meanings from the preceding text, they do not derive that meaning solely from a representation of the superficial features of the preceding text.
+Indeed, in many cases it appears that the ellipsis is interpreted with reference to a content-based representation.
+Provided that this interpretation seems reasonable in the context and provided that it is not in conflict with other possible interpretations suggested either by the mental model or the superficial representation, it is accepted without difficulty.
+Experimental evidence supporting this conclusion was reported by Garnham & Oakhill (1987).
+In this study subjects read passages such as:
+The new houses had been left in an untidy state.
+The plumbers had been blamed by the contractors (for leaving such a mess).
+The electricians/estate-agents had too.
+Reading was self-paced and the primary focus of attention was on reading times for the elliptical clause and on answers to following yes/no questions such as:
+Did the contractors blame the electricians/estate-agents?
+Did the electricians/estate-agents blame the plumbers?
+The choice of electricians or estate-agents in the elliptical clause affected the plausibility of its interpretation in the following way.
+With electricians the linguistically correct interpretation of the ellipsis — the one that satisfies Hankamer & Sag's parallelism criterion — is a plausible one.
+The elliptical clause means the electricians had been blamed by the contractors .
+With estate-agents not only is the linguistically correct interpretation less plausible, there is a more plausible scenario suggested by the context, one that might be described by saying the estate-agents had blamed the plumbers .
+Indeed, if the preceding part of the passage had been worded differently (The contractors had blamed the plumbers ), the linguistically correct interpretation of the elliptical clause would be that the estate-agents had blamed the plumbers.
+Our results showed that this interpretation, suggested by a content-based representation, but at odds with the one licensed by linguistic criteria, did affect the interpretation of ellipses.
+First, the number of ‘incorrect’ answers to the yes/no questions was a very high 25% following the short versions of the passages and an even higher 39% when the additional phrase (for leaving such a mess ) was included.
+These figures compared with 8 and 11% for the corresponding conditions in which the linguistically correct interpretation was the only possible one.
+Second, the reading times for the elliptical clauses were greatly increased when the two interpretations were at odds (2433 versus 1800 ms for the short version and 3299 versus 1991 ms for the longer versions).
+When the linguistically correct interpretation of the elliptical clauses in the passages in this experiment was not in conflict with any other more plausible interpretation those clauses were understood comparatively easily.
+However, when there was a conflict it appears that both interpretations were considered, and that it took a considerable amount of time to resolve the conflict.
+Furthermore, in these cases the final interpretation was sometimes derived from a representation of the superficial aspects of the preceding text and sometimes from a content-based representation.
+We would, of course, expect people to judge that the passages in which there was a conflict were badly written.
+However, it is not true that only a superficial representation determines the interpretation of a surface anaphor, or that the final interpretation is always the one that the superficial representation licenses.
+This finding that the interpretation of surface anaphors is not determined solely by a representation of the superficial aspects of the preceding text prompts the corresponding question: are deep anaphors interpreted only with reference to a mental model?
+In other words: is ‘model-interpretive anaphora’ really a good name for such expressions?
+It is quite hard to obtain direct evidence against this claim in English, for reasons that will become apparent below.
+However, we have obtained some indirect evidence for the involvement of a superficial representation in the interpretation of deep anaphors in a study that addressed a quite different issue (Garnham & Oakhill 1988).
+In this study we investigated whether a definite pronoun,they , was easier to interpret when its referent was introduced directly by a plural noun phrase than when that referent was only implied by the use of a cognate verb, together with an adverbial phrase suggesting a repeated event.
+For example, we compared
+Little Billy always tells lies to his mother, but they are never convincing.
+with
+Little Billy always lies to his mother, but they are never convincing.
+The subject's task was to judge as quickly as possible whether the second clause was a sensible continuation of the first.
+The main findings were that the continuations were judged less acceptable when the pronoun's antecedent was introduced by the verb (54 versus 92%) and that even when the continuations were judged to be acceptable the judgements were made more slowly (2281 versus 1871 ms).
+The finding relevant to the present argument is one that arises from a comparison of the results of the experiment reported above with those from a minor variation of this study, in which the passages were changed to the past tense.
+Little Billy always told lies to his mother, but they were never convincing.
+Little Billy always lied to his mother, but they were never convincing.
+The important point in the present context is that the change from present to past tense destroys the identity of the plural noun (in this example lies ) and the third person singular verb (again lies ).
+In this study the acceptability of the continuations following the introduction of the antecedent by a verb fell dramatically (29 versus 93% following the introduction of the antecedent by a noun phrase).
+However, when positive judgements were made, the difference in the time to make such a judgement between the two conditions remained at just over 400 ms.
+It therefore appears that in the first experiment a match between parts of the superficial representation of the passage was influencing the way that a deep anaphor, the pronoun they , was processed.
+The reason why it is difficult in English to obtain direct evidence for the involvement of a superficial representation in the interpretation of definite  pronouns (the most common kind of deep anaphor) is that the form of a pronoun does not usually depend on how its antecedent was (or might be) described.
+Although the form of English pronouns reflects their number and gender, it almost always depends on the semantic number and gender of what they refer to, rather than to any linguistic property of the names of their referents.
+However, the situation is completely different in languages with non-semantic gender (many European languages, for example), and the relevance of this fact for theories of anaphora has been brought to the fore in a recent debate between Bosch (1987; see also 1988) and Tasmowski & Verluyten (1985).
+One pertinent observation is that a pronominal reference to an inanimate object will have the gender of the noun that would be used to describe the object in that context.
+For many contexts this noun will name the basic level category, in the sense of Eleanor Rosch (see Rosch, Mervis, Gray, Johnson & Boyes-Braem 1976), under which the object falls.
+For example, if some men are struggling to get a large cupboard (German der Schrank , masculine) into a small van, a bystander might comment
+Er ist zu gross It (masc.) is too big.
+Thus, the choice of a pronoun in language production (and also a comprehender's judgement of whether the pronoun is appropriate) depends not simply on a representation of the object in a mental model, but on how that object would be linguistically labelled.
+Examples such as the one above suggest that the linguistic label for an object is part of the representation of a scene containing that object, even if the scene has not been described.
+However, if the scene had been described, and the noun phrase der Schrank used, it would be natural to regard the encoding of the fact that it had been used, as part of a representation of the text's superficial characteristics.
+If the fact that the label is encoded there helps in the interpretation of a pronoun referring to that object, the other half of Sag & Hankamer's hypothesis — that deep anaphors are interpreted with respect to only a mental model — will be shown to be false.
+The example just discussed does not suggest an obvious experiment but other, related, phenomena do.
+For example, in languages with non-semantic gender it may happen that the syntactic gender of a noun is different from the natural gender of the object it refers to.
+In German das Mädchen (neuter, the girl) is the most common example.
+It is a neuter because it has the diminutive ending -chen , though in modern German it has replaced the non-diminutive (feminine) form die Magd .
+Indeed, any German diminutive that refers to a person will produce a gender clash.
+A slightly different type of case is illustrated by the French feminine noun la sentinelle (the guard), which usually refers to a man, and the masculine noun le ministre (minister in the government), which may refer to a woman.
+As Bosch and Tasmowski & Verluyten have shown, pronouns following such words may agree with the syntactic gender of the noun or with the natural gender of the person referred to.
+Very roughly, the closer the pronoun is to the noun the more likely the pronoun is to agree with the syntactic gender.
+This phenomenon again suggests that the interpretation of a pronoun is influenced by a representation of superficial aspects of the preceding text It also lends itself to experimental study.
+If a match between the gender of the pronoun and the formal gender of the noun introducing its antecedent facilitates the interpretation of the pronoun, at least under some conditions — as we suspect it will — our hypothesis about the involvement of a superficial representation in the interpretation of deep anaphors will be supported.
+We are conducting an empirical investigation of this issue on a NATO supported project in collaboration with Daniele Dubois and Marie-France Ehrlich in Paris, Uli Glowalla in Marburg, and Manuel Carreiras in Tenerife, and preliminary results suggest that information about non-syntactic gender can speed pronoun resolution.
+Within the mental models framework, we therefore propose a more complex account of anaphor interpretation than that suggested by Sag & Hankamer.
+On this account, several types of information influence the on-line interpretation of anaphors, though for any particular kind of anaphor one type of information predominates in determining considered judgements.
+In particular, although Sag & Hankamer's theory suggests that a mental model might form part of the context for interpreting model-interpretive anaphors, but not for interpreting ellipses, it actually forms part of the context for interpreting both.
+A representation of the superficial aspects of the immediately preceding text is also used in the interpretation of both kinds of anaphors.
+The first part of our proposal, therefore, is that information in the mental model is used rather indiscriminately as part of the context for the interpretation of the current clause — even when linguistic considerations suggest that discrimination is in order.
+In the next section we will argue that there are circumstances under which people selectively pay attention to certain kinds of information in a mental model, even though other information in the model might be used to interpret the current sentence.
+Our observations are related to an issue that we believe has been unduly neglected — the question of how completely we interpret texts.
+INCOMPLETE INTERPRETATIONS OF ANAPHORS
+There are a few well-rehearsed cases in which all the information provided by a text is not used to interpret it For example, people often fail to see what is wrong with asking of an air crash on a national frontier ‘where were the survivors buried?’ or they fail to see why saying that a book ‘fills a much-needed  gap’is an insult to its author.
+In such cases two principal factors are at work.
+First, context suggests the sort of thing that might be said (the crash was on a border, so the question of which side of the border something will happen on is appropriate).
+Second, the sentence itself provides semantic elements that can be assembled into a plausible message, for example there is a gap (something that usually needs filling), the gap is being filled and there is something that is much-needed (the gap-filler?).
+However, if on hearing or reading these sentences people computed their structures, which conform to standard rules of English syntax, and used their knowledge of the semantics of English to interpret these structures, they would not be misled by them.
+In a clear sense, people apparently do not use all the information available to them to interpret these sentences, at least in certain contexts.
+Together with Wietske Vonk (Oakhill, Garnham & Vonk 1989) we have suggested that the phenomenon of incomplete interpretation is a much more common one than these contrived examples suggest.
+In particular we discuss two aspects of the interpretation of definite pronouns, which we call role mapping and name mapping , and suggest that either one of them may not occur in the interpretation of any particular sentence.
+Consider a sentence such as:
+Shirley questioned Diane because she had seen what had happened.
+This sentence mentions two events, one of questioning and one of seeing.
+Questioning involves two roles: a questioner and a person questioned.
+Likewise seeing involves a seer and a person or thing seen.
+Part of understanding the sentence is to decide that the person questioned in the questioning event is the same person as the seer in the seeing event.
+To make this connection is to perform role (or role-to-role) mapping.
+Another part of understanding the sentence is to decide that the person doing the seeing is called Diane.
+In this particular sentence there is no basis for (role-to-) name mapping other than the role(-to-role) mapping, but in a similar sentence with a gender cue:
+Larry questioned Diane because she had seen what had happened.
+it is clear that the name and role mapping can take place independently.
+In understanding isolated sentences (for example, the ones above, presented in a psycholinguistic experiment) role mapping is more important than name mapping.
+The names of the people are arbitrary labels, but the point of the sentence cannot be grasped unless it is realized that the reason for the questioning was to find out what had happened from someone who had seen it.
+Where there is a gender cue, role mapping can be indirectly affected via name mapping (she is Diane, so the seer was the person questioned), but when there is no such cue role mapping must be brought about in some other way.
+Very generally, role mapping requires the use of world knowledge in such cases.
+More specifically, in sentences such as those above, in which an event  mentioned in the first clause is explained by a reason or cause stated in a following because clause, that world knowledge includes information about what Garvey & Caramazza (1974) call the implicit causality of the verb in the first clause.
+Use of the verb question , for example, implies that the cause of the action (of questioning) is to be located in the questioner.
+Although Garvey and Caramazza describe implicit causality as a property of verbs, it is, as we have already implied, best regarded as an aspect of world knowledge and, as such, its effects can readily be accommodated within the mental models framework, particularly if one assumes with Ladusaw & Dowty (1988) that generalizations about roles associated with verbs lie in the domain of world knowledge rather than linguistic theory.
+A verb such as question denotes a kind of event that our knowledge of the world tells us is typically prompted by something about the questioner (usually their wanting to find something out).
+Therefore, if a clause giving a reason for such an action has a pronominal subject, we expect it to refer back to the questioner.
+This intuition is supported by sentence completion data.
+If subjects are asked to complete a sentence such as:
+Shirley questioned Diane because she…
+they typically make she refer to Shirley.
+The ending we gave above,…because she had seen what had happened , makes she refer to Diane.
+Therefore this sentence, although it is perfectly grammatical, does not conform to the ‘bias’ associated with the verb in its main clause.
+Experimental evidence (e.g. Caramazza, Grober, Garvey & Yates 1977; Vonk 1985) suggests that such sentences are harder to understand than those with verbs that do conform to their biases, for example:
+Shirley questioned Diane because she wanted to find out what had happened.
+As we have seen, congruence with ‘verb bias’ can facilitate role mapping directly, but it can only facilitate name mapping indirectly.
+A gender cue, on the other hand, facilitates name mapping directly.
+Experimental evidence suggests that, under certain circumstances, role mapping but not name mapping occurs.
+In these circumstances, the mental model of a text is, in a clearly defined sense,incomplete , since links between names and participants in actions are not included in the representation.
+Indeed, the names themselves may not be included in the representation.
+An experiment that produced role mapping, but not name mapping, was conducted by Vonk (1985), who presented (Dutch) sentences similar to the ones above, followed by a related sentence for verification.
+She included difficult filler items without pronouns to divert the subjects' attention from the  anaphoric expressions.
+In this experiment congruity with bias, but not gender cue, affected reading time, though both factors affected verification time.
+It appears, therefore, that role mapping, but not name mapping, occurred as the original sentence was read.
+Using similar sentences, Garnham & Oakhill (1985) found an effect of gender cue on reading times, but under conditions in which it was much clearer that name mapping was crucial — every sentence contained a pronoun and each one was followed by a question that required role-to-name mapping for its answer.
+We also found, surprisingly, that the effect of congruity with verb bias was largely restricted to the condition in which there was a gender cue.
+Recent work in our laboratory by Hannah Cruttenden has confirmed that, for English at least, both gender cue and congruity with bias have effects on reading time, but that the effect of gender cue, although usually larger in absolute size, is usually statistically less reliable.
+Cruttenden's data also tend to confirm that congruity has a greater effect when it is paired with gender cue, which is the condition in which it would seem,a priori , to be less useful.
+Again, our conclusion is that name mapping does not always occur during reading and that the mental representation of texts is, in that sense, often incomplete.
+We believe that it is the failure to map from roles to names that accounts for the difficulty in keeping track of who is doing what to whom in certain complicated texts with many characters — some Russian novels, for example.
+It is not that we cannot remember characters' names, but that minor characters are often not important enough to bother about.
+Of course, a literary scholar may not be satisfied with such an incomplete understanding of a text, but the ordinary reader often will be.
+In interpreting the studies by Vonk and by Garnham & Oakhill we have taken an effect of gender cue to indicate name mapping and one of congruity with bias to indicate role mapping.
+However, it would be wrong to assume any simple connection between these effects and types of mapping.
+In particular, either type of mapping can be established using (other kinds of) world knowledge, and in some cases it must be.
+For example, although the reason for an act of questioning usually rests with the questioner, it need not, as some of our examples have illustrated.
+If you are told that someone ‘had seen what has happened’, that person is more likely to be having questions addressed to them than to be posing questions themselves.
+In some recent studies we have been investigating how factors that have a simple theoretical relation with name and role mapping, gender cue and congruity with verb bias, interact with the difficulty of other world-knowledge based inferences needed to establish the referent of a pronoun.
+For example, the ‘questioned’ sentences above require relatively complex inferences compared with 
+Shaun questioned Elaine/Guy because he was inquisitive.
+(congruent with the bias of the verb) Alan/Gwen questioned Brian because he was a suspect.
+(not congruent with the bias of the verb)
+We presented both types of sentence in two parts and asked people to judge as quickly as possible whether the because clause was a sensible continuation of the main clause.
+The because clauses that required the more complex inferences were, in general, longer than those that required simple inferences, so the combined reading and judgement times were longer overall for these sentences.
+More interestingly, the effects of gender cue and congruity were reduced when more complex inferences were required.
+In one experiment the effect of congruity was found primarily in the number of positive judgements made.
+For example, for the simple inference sentences congruity increased the proportion of positive judgements from 0.65 to 0.89, whereas for complex inference sentences the respective figures were 0.72 and 0.85.
+In another experiment, with a different set of materials that were less complex overall and, therefore, more clearly sensible in all the conditions, we found effects on judgement times.
+For example, congruity with the bias decreased the time to make positive judgements — that the because clause was a sensible continuation of the sentence — by over 300 ms for the simple inference materials (1667 versus 1998 ms), but had no effect for the complex inference materials (2117 versus 2105 ms)
+Our explanation of these findings is as follows.
+Although a gender cue gives an unambiguous cue to name mapping and the bias of the verb in the main clause suggests a plausible role mapping in such sentences, a proper understanding of the sentences requires a full processing of the content of the subordinate clause.
+This processing, which is relatively complicated in the case of the complex inference sentences, can also produce role- and name-mapping.
+Presumably, this relatively protracted use of world knowledge masks effects of simple factors such as gender cue and congruity with bias on the interpretation of the pronouns.
+CONCLUSIONS
+In this paper we have outlined two lines of research that address the question of exactly how the mental model of the text so far provides (part of) the context for interpreting the current sentence.
+In the first we considered the linguistically motivated division of anaphoric expressions into two broad classes and its possible relation to a theory of how anaphoric expressions are interpreted.
+The division is reflected rather straightforwardly in considered judgements about  the acceptability of sentences containing anaphoric expressions, but not so straightforwardly in on-line processing.
+The theory suggests that one type of anaphor, ellipsis, is interpreted with reference to a superficial representation of a text, while the other, model-interpretive anaphora, is  interpreted using a content-based representation.
+However, we have shown that mental models have a role in the interpretation of ellipses, and that a surface representation is used to interpret pronouns.
+The second line of research relates to the completeness of the interpretation of anaphoric expressions.
+In the case of definite pronouns, we have shown that mapping from roles to roles and from roles to names can be influenced by manipulating the experimental task and, presumably subjects' perception of it.
+Our research on this topic is much less complete.
+For example, we have yet to explain why congruity with a verb's bias has a bigger effect when it is paired with gender cue, since the availability of a gender cue would appear to make congruity a redundant cue.
+More generally, if we are to incorporate our results into a theory of ordinary language comprehension, we must explicate the relation between experimental task and the ‘tasks’ that people set themselves in ordinary reading and listening.
+This last observation allows us to speculate on an underlying principle that might link our two sets of findings.
+Readers do not just read, they read for a purpose.
+Their purpose in reading a text may, therefore, determine how they use a mental model as part of the context for interpreting the current sentence.
+Generally, it will make sense to use whatever information is available to develop an interpretation — use both mental model and representation of surface form to work out the meaning of both deep and surface anaphors.
+However, if a person does not want to remember names of minor characters in a novel, or does not have to remember arbitrary names to perform an experimental task, a representation of content from which that information is omitted — an incomplete mental model — will suffice.
+Acknowledgements
+Control Issues in Anaphor Resolution
+DAVID M. CARTER SRI International Cambridge Research Centre
+Abstract
+Much research in computational linguistics has concentrated on treating the individual phenomena of natural language rather than on how these treatments can be made to work together.
+This paper discusses four respects in which processes embodying individual treatments must be made to co-operate with one another if anaphoric expressions are to be interpreted correctly.
+These are the co-ordination of (1) treatments of anaphoric and non-anaphoric ambiguity in a sentence;(2) treatments of different kinds of knowledge relevant to interpretation;(3) the resolution of several anaphors in one sentence; and (4) candidate referents arising from several sources.
+It is argued that a flexible control structure based on numerical scoring allows the required co-operation to take place, whereas a more limited depth-first architecture seems not to allow this.
+The discussion is grounded in comparisons between two very different implemented systems that resolve anaphors.
+The first, SPAR, is an experimental system embodying the control structure argued for.
+The second, the SRI Core Language Engine, is a wide-coverage system intended for practical applications.
+Its control structure is, at the time of writing, depth-first, but planned enhancements will allow the problems discussed in the paper to be tackled, resulting in the development of a powerful and widely applicable natural processor.
+INTRODUCTION
+To derive appropriate interpretations for its input, a natural language processing (NLP) system must take account not only of absolute constraints on possible structures and meanings but also of preferences that serve not to rule out individual readings as inherently unacceptable, but to give priority to more acceptable readings over less acceptable ones.
+Such preferences operate at every linguistic level.
+Some instances are:
+context-derived preferences for one sense of a word over another, as modelled, for example, in script-based processing (Schank & Abelson 1977) and systems using marker passing or spreading activation (Alshawi 1987; Hirst 1987);
+syntactic preferences for one structure over another, such as right association and minimal attachment (Frazier & Fodor 1979; Wilks, Huang & Fass 1985);
+semantic preferences in the form of the expectations of some predicates for certain kinds of arguments (Wilks 1975 and much subsequent work);
+preferences for more focused or salient entities as the referents of pronouns and other anaphors (e.g. Sidner 1979a; Alshawi 1987).
+In NLP it is important not only to implement solutions to the individual problems that arise (parsing, semantic interpretation, reasoning, etc.) but also to co-ordinate the application of those solutions.
+It is probably not an exaggeration to say that far more work has been published on the first type of task than on the second.
+However, in a non-trivial system it will often happen that one reading of a sentence will be preferable on, say, syntactic grounds, but another will allow easier pronoun resolution.
+In such situations, the system needs to make an intelligent choice; and the fact that preferences as well as absolute constraints must be considered makes this problem far from trivial.
+The aim of this paper is therefore to examine the way in which the need to take account of preferences and co-ordination of solutions should influence the design of an NLP system.
+(Throughout this paper, the word ‘co-ordination’ is used to refer to this aspect of the control structure of a system and not to the linguistic phenomenon of co-ordination by means of conjunctions.)
+I will concentrate on the problem of anaphor resolution, showing how preferential phenomena complicate the task of co-ordinating the activities of various resolution subprocesses, and suggesting solutions to four specific co-ordination problems.
+In each case, the solution involves balancing the competing claims of each subprocess, thereby ensuring as far as possible that each subprocess is allowed to contribute to the overall interpretation task as fully as it is able to, while not being forced to make decisions for which it, on its own, has insufficient evidence.
+I will argue that such a balance is best achieved by a staged processing architecture in which a numerical score is associated with each alternative reading.
+Each stage of processing is able to contribute to the score of each reading.
+To achieve efficiency, pruning of low-scoring readings may take place at certain points without greatly affecting the accuracy of the system.
+An example of a system with such an architecture, which also implements solutions to the co-ordination problems mentioned above, is the SPAR system (Shallow Processing Anaphor Resolver; Carter 1987a, b).
+To provide a specific context for the discussion of NLP system design that follows, I will contrast SPAR with the current version of the SRI Core Language Engine (CLE; Alshawi et al .
+1989; Alshawi & van Eijck 1989; Alshawi 1990), whose architecture, with respect to anaphor resolution and other problems, is  at present quite different.
+An overview of each of these systems will therefore now be presented.
+SPAR: SHALLOW PROCESSING ANAPHOR RESOLVER
+The SPAR system was not intended for use in practical applications, but was written to test a specific version of the hypothesis that a shallow processing approach to NLP, of relying heavily on linguistic knowledge and limiting the  extent and use of world knowledge, can usually achieve accurate results in ambiguity resolution.
+The specific version of this hypothesis tested by SPAR was for the problem of anaphor resolution in the task of paraphrasing simple English stories.
+SPAR processed stories sentence by sentence, resolving the ambiguities in each sentence, integrating the information in them into context, and outputting a paraphrase of the sentence, before moving on to the next one.
+For example, for a story beginning
+(1) John promised Bill that he would mend his car.
+He took it to his friend's garage.
+He tried to persuade his friend that he should lend him some tools.
+the system generated a paraphrase beginning
+(2) John promised Bill that John would repair Bill's car.
+To John's friend's garage, John conveyed the car.
+John attempted to convince John's friend that that friend should loan John some repair implements.
+The paraphrase is intended to show not only what referents have been assigned to the anaphors, but also, by using near-synonyms and varying the syntactic structures, what lexical and structural choices have been made.
+SPAR was tested mainly on a corpus of 23 texts averaging nine sentences in length.
+About 93% of the 242 pronouns in these texts were resolved correctly.
+Much of the accuracy that SPAR achieved was due to its use of a staged, score-based, processing architecture.
+The SPAR system and the issues it addresses are described in detail in Carter (1987a).
+However, its operation can be summarized as follows.
+SPAR's input was processed initially by a syntactic and semantic analyser (Boguraev 1979) that resolved as much non-anaphoric (word-sense and structural) ambiguity as possible, leaving anaphors untouched, and constructing alternative case-labelled dependency structures when non-anaphoric ambiguities depended on contextual information for its resolution.
+For example, for the sentence ‘He picked up a jack’, two structures would be produced, differing in the sense of ‘jack’ they contained (playing card or repair implement), but both containing a substructure representing the unresolved pronoun.
+One of them might be as follows:
+(CLAUSE (TYPE DCL)(TNS PAST)(V (PICK-UP2 GRASP (@ AGENT (N (HE1 MAN)))(@ OBJECT (N (JACK2 THING (@@ DET (A1 ONE))))))))
+Here, PICK-UP2, HE1, and JACK2 are word senses, GRASP, MAN, and THING are additional definitional information, and AGENT and OBJECT are semantic cases.
+The readings output by Boguraev's analyser did not have any scores associated with them, although some preferential information was used internally in constructing interpretations.
+However, each stage of SPAR's processing could change the score of a reading, and readings could sometimes be discarded at intermediate stages.
+The processing stages for each reading of each sentence in a text were as follows.
+The dependency structure representing the reading was converted into a network form, and enriched by conflating it with definitional information associated with the word senses it contained.
+Points were awarded for where information was repeated; for example, for the sentence ‘I saw a man with a telescope’, the reading where the prepositional phrase attaches to the verb would score more highly because ‘telescope’ was defined as a thing for seeing or looking with.
+In the network fragment for each reading of ‘He picked up a jack’, there would be a node for each of ‘he’, the jack, and the specified action of picking up, and the links between these would be labelled by case names.
+Information such as givenness and anaphoric type was stored within nodes.
+A set of anaphor resolution rules, based closely on those of Sidner (1979a), were applied to each possible anaphor in the reading.
+These rules suggested a sequence of candidate referents, arising from the context or the current sentence, according to the contents of a set of focus registers representing the current discourse focus, potential foci, and other items.
+Candidates might be suggested either one at a time or in batches.
+In either case, candidates were assessed for syntactic agreement and for semantic plausibility in the anaphor's sentential context.
+Points were deducted for every failed candidate or batch of candidates.
+As soon as one or more candidates were judged plausible, processing of that anaphor was suspended.
+Configurational restraints based on those of Reinhart (1983) were applied to the set of candidates delivered by the preceding stage.
+This could result in one or more candidates surviving for each anaphor.
+Rarely, all the candidates for an anaphor were ruled out, when this occurred, more candidates were generated, as above.
+At this point, all but the highest-scoring reading(s) were discarded.
+This produced a significant efficiency gain with negligible, if any, loss of accuracy.
+If any ambiguity remained, either because multiple readings survived or because some anaphor had several surviving candidates, common sense inference rules were invoked to look for a causal or other link between a proposition in the current sentence and one in an earlier one.
+Such a link, if  found, would bind the anaphor to one of its candidates.
+Scores were awarded for links, with shorter (simpler) links scoring more highly.
+If anaphoric ambiguities still remained, a set of very general, shallow heuristics, not described here, were invoked to resolve them.
+Similarly, a selection was made between multiple readings corresponding to non-anaphoric ambiguities by applying the syntactic preferences of Frazier & Fodor (1979).
+Anaphor resolution in the last four phases of processing was controlled by an arbitrator which compared the predictions made and decided what candidates were no longer plausible and when processing should terminate.
+A key point to note is that every stage of processing was able to affect the score of a reading; thus, for example, a reading that scored more highly during the first (semantic conflation) phrase could later be overtaken by another which allowed easier reference resolution.
+THE SRI CORE LANGUAGE ENGINE
+The CLE is a domain independent system under development at SRI International's Cambridge Research Centre.
+The first version of the system, which will be referred to as CLE-I, was developed under the Alvey initiative between 1986 and 1989.
+A follow-on project is under way to develop a new version, CLE-2, having capabilities for reasoning and for co-operative response.
+The goals of the two stages of the work are significantly different, as well as incorporating reasoning, more attention will be paid to issues of control, coordination and robustness in CLE-2, building on the strengths of CLE-I while tackling the inadequacies discussed in this paper.
+CLE-I is written in Prolog, and translates English sentences into formal representations of their literal meanings which are capable of supporting reasoning.
+These representations are in the form of a first-order logic augmented with generalized quantifiers and operators for tense and other phenomena, as described in detail by Alshawi & van Eijck (1989).
+Unlike SPAR, CLE-I is not self-contained, but is designed to be used as a major component of interactive systems such as interfaces to database management systems and diagnostic expert systems.
+The main contribution of CLE-I is substantial coverage of English constructions in both syntax and semantics that is well motivated and hence extensible; in contrast to SPAR, it was not built mainly with anaphor resolution in mind.
+CLE-I has a modular architecture with well defined interfaces between the various stages of linguistic processing.
+The system's linguistic knowledge is expressed by means of declarative rules and lexical entries.
+These  are compiled from the human-readable form in which they are written to an internal form, allowing Prolog unification to be used as the mechanism for passing information and rule application in each of morphology, parsing, interpretation, and selection filtering.
+Since unification is the fundamental operation in Prolog, considerable speed advantages result, in addition to the usual pay-offs of declarativeness in terms of modularity, extensibility, and reversibility.
+A compact representation of local ambiguities is applied systematically in syntax and semantics, allowing the adoption of the modular staged approach without sacrificing computational efficiency.
+In this representation, local alternatives are ‘shared’ by higher-level structures which themselves are not duplicated.
+Thus, very roughly, the cost in both space and time of parsing a sentence containing m independent n -fold syntactic ambiguities is more nearly proportional to m times n than to n m , the number of possible parses.
+The processing stages are as follows.
+Segmentation and morphological analysis.
+CLE-I has a 1300-word core lexicon and includes a component that allows non-linguistic domain experts to add new entries.
+Syntactic analysis.
+Information about the syntactic and semantic properties of linguistic constituents is represented in CLE-I using complex categories that include a principal category symbol and specifications of constraints on the values of syntactic and semantic features.
+During parsing, these constraints operate by means of Prolog unification.
+The end result of syntactic analysis is the set of all parses of the sentence, held in a structure-shared representation that localizes ambiguities.
+Semantic analysis.
+This follows the constituents identified by syntactic analysis, building up ‘quasi’ logical forms (QLFs) in which quantifier scope and anaphora are not resolved.
+One QLF for ‘He picked up a jack’ would be
+[past, quant (exists, A,[event, A],[pick-up2, A, a—term (ref (pro, he, sing, I ([])), B,[and,[male, B],[personal, B]]), qterm (a, sing, C,[jack2, C])])]
+where the tense operator past and the existentially quantified variable A are bona fide logical form, but the a_term and qterm structures represent unresolved references and scopings.
+Sortal filtering.
+The logical representations constructed by the CLE contain no explicit sortal information.
+Nevertheless, in the system's lexicon, absolute constraints are specified on the sorts of constants and predicate arguments.
+During sortal filtering, sorts are associated with variables by applying these constraints, any logical form structures containing a variable to which no consistent sort can be assigned are ruled out.
+Thus the QLF structure above survives if and only if the constraints on the third argument of pick-up2 and on the only argument of jack2 are consistent.
+Quantifier scoping.
+The scope of quantifiers is made explicit using a set of rules that describe the relative strengths of English quantifier expressions.
+These rules depend on quantifier order.
+In some cases, preferences are relatively weak, so that two ordered results are produced; in others, the preferences are so strong that a second result is not produced.
+Reference resolution and plausibility checking.
+CLE-I allows the application to take part in both of these phases, which are interleaved, as follows.
+Reference resolution consumes a scoped QLF produced by the quantifier scoping phase and generates, through both CLE-I and application procedures to finding possible referents, a fully resolved LF which is passed to the plausibility phase.
+This phase tests whether the proposed LF obeys a set of constraints, both linguistic and non-linguistic.
+If the proposed LF fails to pass these tests then reference resolution will generate other resolved LFs for the QLF; if all such proposed LFs fail the tests, reference resolution consumes another scoped QLF, and so on.
+Once a resolved LF is accepted, CLE-I updates its model of currently salient discourse entities used for resolving intersentential references.
+The representational and linguistic aspects of CLE-I's reference resolution are discussed in detail in Alshawi (1990).
+If the constant john1 is salient when ‘He picked up a jack’ is input, the resolved LF might be
+quant (exists.
+C,[jack2, C],[past, quant (exists, A,[event, A],[pick-up2, A, john1, C])])
+stating that there is a jack C such that in the past, there was an event A of John picking up C.
+The control structure from the sortal filtering stage onwards is a relatively simple depth-first one, implemented directly by means of Prolog's built-in backtracking mechanism.
+The system constructs a logical form by making a number of decisions in a fixed order, and if the result is unacceptable, it is always later decisions that are altered first.
+Thus, for example, in reference resolution, if the first complete set of resolutions of the anaphors in a QLF is  deemed implausible, other possible referents will be tried exhaustively for the last anaphor to be processed before any other changes are considered; and the second QLF, if any, will not be considered at all unless no plausible set of resolutions can be derived for the first.
+See section 4 below for further discussion of this.
+CLE-I has far wider coverage than SPAR in almost every respect, and in general implements far more thorough and well-defined solutions to the individual problems of language interpretation.
+However, the emphasis in the project so far has been on formulating these individual solutions rather than on co-ordinating them.
+The depth-first control structure of the later phases of the system is a consequence of this, and has some disadvantages, as we will see.
+From the point of view of an application system carrying out final plausibility checks, CLE- I logical forms emerge one at a time, with no scoring information attached, and the application must decide which one to accept using an essentially binary, absolute plausibility test.
+The ordering of the logical forms is therefore very important However, within CLE-I, later processing stages have no opportunity to reverse an ordering between readings imposed by an earlier stage.
+The development of CLE-2 will therefore involve attempting to solve the co-ordination problems by making the control structure more flexible, incorporating numerical scores so that the different components can contribute fully without being overstretched.
+The result should be a language processing system that combines breadth of coverage and representational power with the ability to weigh up different factors in selecting interpretations.
+As we have seen, this is important not just in anaphor resolution but in all aspects of language interpretation.
+The need for a more balanced architecture, with readings being ordered not as a result of depth-first search but according to numerical scores to which all system components can contribute, will now be argued in more detail by looking at four types of co-ordination problem occurring in anaphora resolution.
+They are: co-ordinating the interactions of multiple types of ambiguity, co-ordinating processes that encode different sources or types of knowledge; co-ordinating the resolution of several anaphors in one sentence; and co-ordinating the consideration of possible referents arising from the current sentence and from elsewhere.
+MULTIPLE TYPES OF AMBIGUITY
+Both SPAR and CLE-I treat word sense, and structural and anaphoric ambiguity.
+CLE-I, but not SPAR, also deals with quantifier scoping.
+All these  kinds of ambiguity can interact We look here at the interaction of anaphor resolution with word sense and with structural ambiguity resolution.
+In CLE-I, as we have seen, non-anaphoric ambiguities give rise to an ordered list of scoped QLFs.
+Reference resolution accepts these QLFs one at a time, inserts possible referents, and backtracks to another set of referents if the result is deemed implausible.
+The second QLF, if any, will only be considered if none of the reference resolution possibilities for the first is deemed acceptable.
+This effectively gives a much smaller ‘weight’ to reference resolution than to other parts of the system; two interpretations that differ only in the referents they assign to anaphors will be much closer together in the sequence of structures presented to the plausibility checker than two interpretations that differ only in some other respect, such as an alternation of word senses.
+In SPAR, however, reference resolution is able to overturn any preferences applied at an earlier stage.
+SPAR uses a variant of Crain & Steedman's (1985)‘principle of referential success’, which states that a reading that succeeds in referring to an entity already established in the hearer's model of the domain of discourse is favoured over one that does not.
+Consider the processing of the two contrasting texts
+(3) John put a bowl on the floor.
+He picked up some biscuits.
+He put the biscuits in the bowl on the floor.
+(4) John picked up some biscuits.
+He put them in a bowl.
+He put the biscuits in the bowl on the floor.
+The last sentence of each of (3) and (4) is structurally ambiguous between putting some biscuits into a bowl which happens to be on the floor, and putting some biscuits, which happen to be in a bowl, on the floor.
+Boguraev's analyser therefore produces two structures for it.
+In each text, the first two sentences set up a context that makes a different one of these two structures more plausible by allowing fully referential success only for that one structure.
+In (3), SPAR is able to identify both some biscuits and a bowl on the floor, allowing both definite noun phrases to be fully resolved; but it cannot find any biscuits that are already in a bowl.
+In (4), there is a complementary difference.
+The failure to find a referent results in a numerical penalty being awarded to the reading for which it occurs.
+In each case, this results in the correct reading being selected.
+Context, mediated by anaphora, can affect the resolution of lexical as well as structural ambiguity.
+SPAR is sensitive to different degrees of referential success, in that a reference to a focused entity is deemed to be more ‘successful’ than a reference to an unfocused one.
+Consider the text
+(5) John put the dog on the table.
+He examined its legs.
+Here, the word ‘leg’ is (in SPAR's lexicon) represented as lexically ambiguous between the ‘body part’and ‘furniture component’senses.
+This results in the analyser producing two readings for the second sentence.
+In each case, SPAR's focusing algorithm suggests first the dog and second, if necessary, the table as referent for ‘its’.
+The ‘body part’ sense of ‘leg’allows the first suggestion to be accepted, but the other sense does not.
+The ‘body part’ reading therefore escapes being given a penalty point, and is accepted as being referentially more successful (see Carter 1987a for a fuller discussion).
+However, a depth-first architecture like that of CLE-I does not allow reference resolution to determine the resolution of other ambiguities in this way.
+In each of the examples in this section, the incorrect reading is plausible (although, obviously, less plausible than the correct one).
+Thus, although it is preferable for a definite noun phrase to be assigned a referent, a failure to do so does not justify rejecting the reading altogether (if that were done, then, for example, the initial sentence ‘John put a bowl on the floor’ would be rejected as incoherent).
+Similarly, it is perfectly possible for John to have examined the legs of the table.
+This means that in CLE-I, choices of structure and of word sense in situations like this are determined purely by grammar rule orderings and lexical entry orderings respectively, and not by any referential factors.
+It is, nevertheless, possible for the application back end to which CLE-I is connected to override this ordering.
+If all possible resolved logical forms are deemed implausible, CLE-I finally hands to the plausibility checker a special symbol denoting that there are no more interpretations available.
+The application can, at this point, hand back any structure it chooses to, to serve as the final output of CLE-I.
+It is therefore possible in principle for the application to keep track of the structures it is handed and to assign a score to each one behind the scenes, telling CLE-I that each one is implausible.
+Then, when the special symbol arrives, it could hand back the resolved logical form with the highest score.
+However, this ‘back door’ method places all the burden for scoring on the application, which is far from ideal.
+Since much of the information relevant to scoring is linguistic in nature, it is really best dealt with by the CLE.
+MULTIPLE KNOWLEDGE SOURCES
+For successful anaphor resolution, it is important to co-ordinate the contributions of system components embodying different types of linguistic and non-linguistic knowledge, such as configurational constraints in (‘He examined him’, the two pronouns cannot co-refer), sortal restrictions (in ‘She drank it’, ‘it’ must refer to some liquid if ‘drank’is interpreted literally), focusing (as in ‘He examined its legs’above), and reasoning (as in the second sentence of ‘John told the waiter he had no money.
+He made him wash dishes.’).
+Of the four co-ordination problems identified in this paper as important to anaphor resolution, that of co-ordinating multiple knowledge sources is certainly the one to which most attention has been given to date.
+One can identify two broad types of approach, which I will call the democratic and the consultative .
+In a democratic approach, all sources of knowledge are given similar roles in the control structure.
+When an anaphor is being resolved, each source can, at least in principle, propose new candidate referents, contribute, positively or negatively, to the score of each candidate referent, and in some cases rule candidates out altogether.
+In a consultative approach, one knowledge source, typically encoding some kind of focusing information, is given a special role.
+It alone can propose candidate referents; other knowledge sources are consulted as to the appropriateness of those referents, and the first proposed candidate to be judged appropriate is accepted.
+The two types of approach are qualitatively quite different, because in the consultative case, the proposing knowledge source imposes a partial ordering on candidates, and other sources cannot alter this ordering, and must evaluate each candidate (or set of candidates) in order, without knowing what other, from their point of view better, candidates might be proposed later.
+A consultative approach is therefore inherently more restricted and theoretically more committed concerning the relationship between knowledge sources in anaphor resolution.
+Naturally, however, the more partial the ordering imposed by the proposing process, the closer a consultative approach comes to being democratic.
+This will be discussed below in terms of the interaction between the focusing and inference components of a system.
+The democratic approach is closely related to the more general idea of a blackboard architecture, as used in speech recognition (see, for example, Erman and Lesser 1980 on the HEARSAY-II system) and other tasks.
+A blackboard architecture is characterized by a number of distinct knowledge sources which interact by proposing and evaluating hypotheses stored in one or more common areas.
+The complexity and quantity of these hypotheses tends to make it impractical to define the control regime fully in terms of the knowledge sources alone; instead, the pattern of activity can be quite complex and unpredictable, with sources being invoked and suspended repeatedly on different parts of the problem, depending on the characteristics of the data being processed.
+In the case of anaphor resolution, matters are in some ways simpler.
+The hypotheses tend to be more uniform, taking the form of information on the suitability or otherwise of particular candidate referents or sets of candidates.
+Also, the scale of the problems tends to be smaller; for example, there are, typically, far fewer anaphors than phonemes in a sentence, and fewer focused  candidate referents for a pronoun than (in a large-vocabulary application) candidate words to be considered for a given portion of speech.
+These factors may account for the fact that the blackboard metaphor has not usually been used for anaphor resolvers, whose control structures are very often relatively simple, with different knowledge sources brought to bear in something like a predetermined order.
+In work on anaphor resolution, the democratic approach seems to have originated with the non-computational work of Kantor (1977), who defined ‘concept activatedness’ as the net effect of a variety of different factors.
+Alshawi (1987) implemented a system that resolved anaphors (and other types of ambiguity) along similar lines, considering a wide range of different ‘context factors’, work which seems to subsume that of Carbonell and Brown (1988).
+Rich and LuperFoy (1988), observing that no individual theory of anaphor resolution is complete, present a blackboard-like architecture (with a relatively simple control structure) into which implementations of different partial theories, each normally corresponding to one knowledge source, can be plugged for the purposes of evaluation.
+This flexibility is a consequence of the relative theory-neutrality of the democratic approach.
+Consultative approaches are represented by those of Grosz (1977) and Lockman & Klappholz (1980), each of which used global discourse structure as the basis for tracking global focus and hence locating possible candidate referents for evaluation.
+Sidner (1979a, b) concentrated on local rather than global focus, arguing that a local focus-driven approach could significantly reduce problems of inference, and providing a detailed set of algorithms for applying focus in this way.
+Later work in this tradition, where the rules of application seem much less complex, although specified in less detail, includes that of Grosz, Joshi & Weinstein (1983) and Brennan, Friedman & Pollard (1987).
+SPAR and CLE-1 are both in the consultative camp as far as anaphor resolution is concerned.
+In both, it is an essentially focus-based component that suggests referents, and the other components that assess or choose between them.
+However, the ways in which this is done differ significantly in the two systems.
+Let us consider here just the relationship between the focusing and reasoning components in a system of this general type, and restrict our attention for the moment to the case of one pronoun in a sentence in the absence of any non-anaphoric ambiguity.
+With these restrictions, anaphor resolution will consist of an alternation in which the focus process suggests one or more candidates at a time and the reasoner evaluates them, deciding whether they are plausible and, if there is more than one, which is the best.
+If the focus process suggests one candidate in an earlier ‘batch’ than another, we can say that it is imposing a strong preference between those candidates; so strong that the second one will  only be considered at all if the reasoner decides the first is completely implausible.
+Correspondingly, between two candidates in the same batch there exists (at most) a weak preference ; the reasoner can choose either, and focusing criteria will only determine the choice, if at all , when the reasoner expresses no preference.
+Sidner (1979a) refers to the inference required to approve or reject a single candidate as ‘normal’ mode inference, and to that required to select between several candidates as ‘special mode’.
+It is certainly the case that normal mode inference is computationally more tractable.
+However, for accurate results, it is important to achieve the right balance between focusing and reasoning.
+If all preferences are strong, so that only normal mode inference is ever performed, wrong choices will be made.
+Consider the resolution of the pronoun for each choice of verb in the second sentence of
+(6) The monkey picked a banana.
+The  elephant (ate/attacked) it.
+If a strong focusing preference is imposed in either direction between the monkey and the banana then the wrong referent will be obtained for one of the alternative second sentences.
+If the monkey is strongly preferred, then the reasoner will need to evaluate the plausibility of elephants eating monkeys.
+While monkeys are not normal elephant food, it is conceivable that such an event could occur (or at least, it is hard, at the current state of the art, to envisage a reasoner that could reject this possibility without rejecting other, similar ones incorrectly).
+Conversely, if the banana is strongly preferred, the reasoner will have to decide whether elephants can attack bananas.
+This, too, seems conceivable.
+However, for both choices of verb, one of the reference candidates is much more acceptable than the other, and so it seems that in this case, only a weak preference should be imposed, with reasoning expected to make the decision.
+There are, however, cases where strong focusing preferences are appropriate.
+For the text
+(7) John left the window and drank the wine on the table.
+It was brown and round.
+Hirst (1981:p. 55) reports that informants agreed that ‘it’ could only refer to the wine, and not to the table.
+Clearly, though, the description of being brown and round fits a table much more easily than it does wine.
+In this case, to model human institutions, a strong focusing preference of wine over table (or, more generally, of theme over optional sentence participants) seems to be required.
+SPAR, as noted earlier, uses a modified version of Sidner's focusing algorithm, which embodies both strong and weak preferences in ways appropriate for the examples discussed here.
+CLE-1, however, always imposes  strong preferences, because of the way that reference candidates are tried one at a time in a depth-first fashion, with backtracking to the next candidate taking place when, and only when, the logical form involving the current one is deemed implausible.
+The system is therefore liable to suffer from inaccuracies of the type discussed above.
+Again, we see the need for flexibility in the control structure, with each component being given enough free rein to contribute fully, but not so much as to force it to take decisions for which it, on its own, has insufficient evidence.
+MULTIPLE ANAPHORS IN A SENTENCE
+The appropriate interaction of different system components becomes even more crucial for sentences that contain more than one anaphor.
+When a set of bindings of anaphors to possible referents is deemed implausible, the plausibility checker should be able to say, where appropriate, which binding (or subset of the bindings) is causing the problem, and the rest of the system should react to this information intelligently and make relevant changes.
+However, interaction between anaphors can be a help as well as a complication.
+Typically, the reasoning component of the system will be more expensive and less reliable than the linguistic components, and constraints between anaphors can sometimes allow the system to avoid doing any non-linguistic reasoning at all.
+An example of this is the second sentence of
+(8) I took my dog to the vet on Friday.
+He bit him in the hand.
+It would be possible to resolve the pronoun here by reasoning that a dog biting a vet is much more likely than a vet biting a dog (or, indeed, of either of them biting himself).
+However, as long as a system can recognize that this use of ‘in the hand’ implies that the hand is part of ‘him’, it can avoid this kind of reasoning altogether and adopt a constraint propagation method to resolve both pronouns.
+Since dogs have paws and not hands, ‘him’ can only refer to the vet; and since, on configurational grounds, ‘he’and ‘him’cannot co-refer, ‘he’must refer to the dog.
+In SPAR, as we saw earlier, no common sense inference is carried out until the focusing rules (with sortal constraints) have been applied to all anaphors, and configurational constraints have been applied.
+In our example, when configurational constraints are applied, both the dog and the vet have been provisionally approved as suitable candidates for ‘he’.
+If anaphors were to be resolved one at a time and left to right, nothing would yet have been done about ‘him’, so the configurational contribution would be missed and reasoning would be inevitable.
+However, by propagating constraints as just outlined, SPAR is able to reduce the number of surviving candidates per anaphor to one before reasoning becomes necessary.
+Because strong focusing preferences are applied only when appropriate, there is no need even to check that the dog biting the vet is a plausible event, since on linguistic grounds, no other possibilities exist.
+This is in contrast to the case of CLE-1, where a set of bindings must be judged plausible (typically involving reasoning) even when no alternative exists.
+Of course, the appropriate behaviour here depends on what is likely to be going on when no set of bindings seems plausible to the reasoner.
+SPAR's behaviour seems better if two conditions apply: that the reasoner is known to be less reliable than the  linguistic part of the system, as it might be if the texts processed describe a relatively open domain; and that, as for example, in a machine translation task, no further non-linguistic processing will be carried out on the reading accepted.
+In other cases, e.g. for a closed domain and/or for a non-linguistic task such as database query, CLE-1's behaviour is probably preferable.
+Nevertheless, the principle of initiating reasoning only about readings that are linguistically acceptable seems sound in all cases.
+SPAR's constraint propagation approach, where all anaphors are treated equally, contrasts with CLE-1's depth-first control structure.
+Let us modify text (8) slightly to
+(9) I took my dog to the vet on Friday.
+He bit him in the leg.
+The pronoun ‘him’ may now refer to either candidate, since both humans and animals have legs.
+In SPAR, common sense reasoning would need to be invoked, since there are no firm resolutions for configurational constraints to propagate.
+SPAR's reasoner would look for explanations for either the dog or the vet biting himself or the other.
+In the case of CLE-1, suppose that the focus ordering placed the dog before the vet.
+Then the first set of bindings that the reference resolver would hand to the plausibility checker would involve the dog biting itself.
+This resolver would be thrown out on configurational grounds, causing backtracking.
+The reference would then alter the binding of ‘he’ from the dog to the vet, purely because the structure for the ‘he’pronoun comes first in the logical form.
+The plausibility checker would then have to assess the idea of the vet biting the dog in the leg.
+While unlikely, this is not in principle altogether implausible, and so the wrong answer would be reached.
+The problem is that there is no good a priori reason to alter the binding of one pronoun before the other; both options should, ideally, be handed to the reasoner at once.
+Even when wrong answers are not accepted, the ‘blind’ alteration of bindings in response to implausibility is likely to lead to inefficiency, as reasoning can be expensive.
+Consider the text 
+(10) John took Bill's dog from Fred's house to the vet on Friday.
+He bit him in the hand.
+and suppose this time that the part-whole nature of the ‘in the hand’ modification is not detected by semantic rules, but only by plausibility checking.
+Then the rejection of a reading where ‘him’ is bound to the dog will cause CLE-1 and the reasoner to cycle through all of John, Bill, Fred, and the vet as candidate referents for ‘he’before a change to the ‘him’binding is considered.
+This will happen even though the reasoner would, in principle, be capable of stating why it was rejecting each reading.
+Clearly, what is needed is a control structure where the plausibility checker either is allowed to say what part of a logical form it objects to, or (more preferably, given our remarks earlier about strong and weak preferences) is given a set of bindings for each anaphor and is allowed to weed out implausible ones.
+MULTIPLE SOURCES OF CANDIDATE REFERENTS
+The referent or antecedent of an anaphor may arise from the sentence in which the anaphor occurs or from an earlier sentence in the text.
+It is important to co-ordinate the consideration of candidate referents from these sources.
+Some existing treatments of anaphor resolution ignore this problem by only considering one of the sources of candidates; for example, the algorithms of Sidner (1979a) and the work of Grosz, Joshi & Weinstein (1983) seem to treat only intersentential anaphora, while much work in theoretical linguistics does not venture beyond sentence boundaries.
+Other treatments adopt an over-simple solution to the problem, always preferring one source to another; thus the algorithm of Hobbs (1976) looks at all intrasentential candidates before earlier sentences are considered at all, while Brennan, Friedman & Pollard (1987) prefer all candidates from the most recent sentence to ones from the current sentence.
+The default set of reference resolution rules in CLE-1 follows Hobbs' pattern, but this set can easily be respecified to reflect the ordering argued for below (or, indeed, to deal with the special circumstances that may arise in particular applications).
+It is easy to show that no algorithm that always prefers one source to another can be adequate.
+There are situations when, at most, only a weak focusing preference exists between intrasentential and intersentential candidates.
+Consider the following text, from Sidner (1979b):
+(11) I want to have a meeting this week.
+Bruce will be the guest lecturer.
+He will speak on slavery in ant colonies.
+Mike wants to read his report before the talk.
+Here, the pronoun ‘his’ refers to the intersentential referent, Bruce.
+However, if the last sentence is replaced by
+(12) Mike wants to invite his friends to the talk.
+then Mike becomes more plausible as the referent.
+That the focusing preference here is at most a weak one is shown by the fact that in both cases, the wrong reading is still plausible, so the decision must be made on comparative, not absolute, grounds.
+An attempt was made in SPAR to reflect these factors by temporarily, during the application of the focusing rules to each anaphor, augmenting the existing focus registers with intrasentential candidates, ordered according to Hobbs' algorithm.
+The alternative approach of defining one or more new registers was rejected because of the complexity it would have added to an already complex set of algorithms.
+The effect of augmentation was essentially to impose the following set of preference levels on candidates:
+1
+Discourse focus (from earlier in the text) if any.
+2
+Intrasentential candidates occurring before the current anaphor.
+3
+Potential discourse foci (candidates from the previous sentence other than the discourse focus).
+4
+ Intrasentential candidates occurring after the current anaphor.
+5
+Other contextual candidates (former, now stacked, discourse foci).
+The preference between candidates at the same level or at neighbouring levels was weak, while that between candidates at more distant levels was strong.
+This augmentation seemed to give the right behaviour on the texts that SPAR processed.
+However, a more thorough evaluation of some aspects of it is provided by Walker (1989).
+Walker compared hand simulations of the predictions of the algorithms of Hobbs (1976) and Brennan, Friedman & Pollard (1987: BFP) on a set of naturally occurring texts.
+In all cases, focus preferences were taken to be strong, so that a binary plausibility check, rather than‘special mode’ inference, was assumed.
+The performances of the two algorithms were roughly the same; of the 281 pronouns examined, Hobbs' algorithm correctly resolves 21 pronouns that the BFP algorithm does not, and BFP gets 11 that Hobbs does not.
+However, Walker found that if the BFP algorithm was altered to reflect the first three levels of SPAR's ordering given above, correct results were obtained by eight of the 21 pronouns resolved correctly by Hobbs but incorrectly by the original BFP.
+It is likely that many of the remaining 13 cases could also have been resolved if focusing preferences had been applied weakly when appropriate; in these cases, the discourse focus is typically a plausible referent, but is less plausible than one of the intrasentential candidates.
+Walker also found that none of the 11 pronouns resolved correctly by the original BFP but not by Hobbs were made to fail when the alteration was made.
+This was because in all 11 cases, the referent was an established discourse focus.
+These results strongly suggest the appropriateness of the relative ordering of the first three levels.
+One consequence of augmenting the focus registers as in SPAR is that it becomes more common for candidates to be separated only by a weak focusing preference.
+This is perhaps unfortunate, because it throws more of a burden onto plausibility checking (and makes evaluations such as Walker's rather more difficult to carry out).
+However, it seems likely that this burden cannot be lightened without forcing too much of the decision-making task onto the focusing component of a system, with consequences such as those we saw earlier.
+SUMMARY AND CONCLUSIONS
+I have discussed four problems of co-ordination that must be solved in any attempt to develop a reasonably comprehensive anaphor resolver: those of co-ordinating ambiguity types, knowledge sources, multiple anaphors, and multiple sources of candidates.
+Of these, only the problem of knowledge source co-ordination has to date received significant attention in terms of implemented systems.
+The SPAR system seems to represent the first explicit attempt to work out solutions to all four problems.
+The ways in which SPAR and CLE-1 tackle the problems were compared, leading to pointers for the development of CLE-2, which is intended to combine CLE-1's wide coverage of individual linguistic phenomena with a more robust architecture that is sensitive to the interaction of different processes.
+This architecture will involve the use of numerical scores to encode the preferences of different system components, while still remaining ‘consultative’ in the realm of anaphor resolution so as to achieve the right balance between focusing and other types of knowledge.
+Acknowledgements
+I am grateful to Hiyan Alshawi, Steve Pulman, Lyn Walker, and an anonymous referee for insightful comments on this work.
+The SPAR system was developed at Cambridge University Computer Laboratory while I was supported by the British Library and King's College, Cambridge.
+The Core Language Engine was developed as part of a research programme in natural-language processing supported by the UK Department of Trade and Industry under an Alvey grant and by members of the NATTIE consortium (British Aerospace, British Telecom, Hewlett Packard, ICL, Olivetti, Philips, Shell Research, and SRI).
+DAVID CARTER 

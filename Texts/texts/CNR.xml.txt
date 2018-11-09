@@ -1,0 +1,246 @@
+
+
+IBM's LAUNCH OF DB2 3.0 IS MORE LIKE A PREVIEW
+As well as the new DB2/6000 relational database for the RS/6000 described on Monday (CI No 2,128), IBM Corp yesterday duly announced DB2 Version 3 for the mainframe — but the thing will only go into customer testing under the Quality Partnership Programme in June, and availability and ordering information will not be given until that process is complete.
+The new release is designed to enhance availability and faster faster recovery with support of partition independence and data compression and there are new multi-site update capabilities for use in client-server environments using Distributed Relational Database Architecture.
+Query performance is enhanced by support of query input-output parallelism.
+Buffer management enhancements and hiperpool support are designed to enable customers to make better use of large processor storage as a means of reducing input-output calls and improve DB2 performance.
+DB2 Version 3 will support the DRDA extension for the two-phase commit protocol, which manages commit for multiple relational database systems in a single unit of work, enabling IMS/ESA Transaction Manager, IMS batch and CICS applications to update remote databases.
+It will also support the DRDA new machine type extensions that enable application requestors on Digital Equipment Corp floating point systems and Unix systems to request database services from DB2.
+DB2 Version 3 will enable users to work on one partition of a table space or index space without locking the other partitions.
+Partitions are independent of each other.
+A DB2 Version 3 server can support 10,000 distributed connections but only 2,000 of those can be active concurrently.
+The new DB2 will support the use of Data Propagator Release 2, which automatically updates IMS/ESA Database Manager or DB2 data when corresponding information in the other database management system is updated.
+As for pricing on the new DB2/6000, this is tied to the number of concurrent use connections, and starts at $2,000 for up to two users on a baby RS/6000 to $57,600 for over 256 users on a top-end machine.
+TAIWAN-FUNDED NUTEK LAUNCHES MAC-COMPATIBLE BOARD, DUET
+After years of anticipation, the Taiwanese-backed NuTek USA Corp in Cupertino, California has finally come down to the wire with its Macintosh-compatible technology: the company claims that it has developed the first machine that emulates the Macintosh without requiring installation of Apple Computer Inc's proprietary ROMs.
+The company claims that its system software and hardware is functionally compatible with applications software written for the Macintosh — only some of the most widely used ones have been tested, and the company provides a list of these — but it uses OSF/Motif as the graphical interface rather than a direct copy of the Mac screen.
+The machine also supports ‘most’ standard Macintosh peripherals.
+The NuTek motherboard and system software are available now to dealers and other resellers at $900 and the company says it has accepted initial orders from dealers in Europe and will sign dealers in the US this month.
+The company also brought out a finished dual-standard machine, the Nutek Duet, which includes both 33MHz 80486 and 33MHz 68030 processors to run both its emulation of Macintosh System, and MS-DOS and Windows; no price was given for it.
+NuTek is delivering operating system software on disk and in ROM, and offers a chip set consisting of three application-specific integrated circuits and a video controller chip to provide the principal logic functions of the Macintosh; like Apple, it has licensed the NuBus from Texas Instruments Inc.
+In designing the system, NuTek says that it has been very careful to avoid any contact with former Apple employees, and kept under constant review the status of Apple patents and copyrights throughout the world.
+ORACLE UNVEILS OBJECT-ORIENTED CO-OPERATIVE DEVELOPMENT ENVIRONMENT
+Oracle Corp this week launched its Co-operative Development Environment, CDE, an integrated set of tools designed to enable organisations to create, deploy and maintain client-server applications.
+Applications built with it will be portable across different graphical user interfaces and automatically run under Microsoft Corp's Windows, the Apple Computer Inc Macintosh, OSF/Motif and other environments without changing any of the code, Oracle claims, automatically conforming to the native look-and-feel of each graphical environment in which it is run.
+This is achieved via a software library called the Adaptable User Interface Toolkit, which enables the same version of the tool to run under Windows, Macintosh System, Open Look and Motif.
+Co-operative Development Environment applications incorporate multimedia objects — image, sound and video, and these are also portable between environments, and they can access data stored in most databases, including DB2 and SQL Server as well as Oracle7 databases.
+They are created diagrammatically using high-level software engineering modelling tools, and the environment can interoperate with other tools, such as Texas Instruments Inc's IEF and KnowledgeWare Inc's IEW, by exchanging model information stored in the CDE Repository with models stored in their repositories.
+Co-operative Development Environment is built using application programming interfaces such as Open Data Base Connectivity and Distributed  Relational Database Architecture.
+Oracle notes that its $1,200m turnover for fiscal 1992 included $240m in tools sales, making it the leading independent vendor of application development tools, and Oracle claims that Co-operative Development Environment coupled with the Oracle7 Co-operative Server Database enables its installed base to upgrade existing applications to a graphical client-server environment.
+The Environment comprises three classes of tools — system modelling, application building, and end-user.
+The first and third are out now, and all components will be available by June; no firm price.
+SIEMENS GETS CERIDIAN's EMPROS
+Ceridian Corp has sold Empros Systems International, Plymouth, Minnesota electric power management systems developer to a Siemens AG unit.
+BIG BLUE MOVIES, OR HANG THIS FOR A LARK, IBM's GOING TO THE PICTURES
+Last month, IBM Corp teamed up with the writer, director and producer of Terminator 2: Judgment Day, James Cameron, Academy Award winning character creator Stan Winston, and celebrated special visual effects studio executive Scott Ross to form Digital Domain Inc, a new visual effects and digital production studio.
+The aim is to address the fact that while seven of the 10 highest-grossing films of all-time are ‘effects’ films, effects and synthetic characters are challenging and often frustrating to produce.
+Hesh Wiener here delivers his thoughts on the new alliance.
+Having liquidated one in four employees during the past few years and having promised to treat its workforce to more of the same during 1993, IBM should have surprised no one by investing some of the money it has presumably saved in an organisation formed by the people who produced the most recent Terminator film.
+Exploiting
+Although Big Blue has said that its interest lies in exploiting computer technology and developing digital film ‘software’ rather than creating movies, we cannot imagine IBM buying half or more of an enterprise and then remaining a passive investor.
+The company's interest in content is likely to emerge slowly, rationalised at first as a willingness to make suggestions in the event a product of its new venture, Digital Domain, contains salacious material.
+Some years ago, IBM bought into the videodisk business only to withdraw after it was tweaked by the press for backing a recording that purported to explain healthful massage but actually featured the kind of body rubbing one wouldn't show to anyone young enough to be dramatically influenced, Woody Allen's romantic inclinations notwithstanding.
+We are confident that IBM is indeed primarily interested in the morphing business even as it metamorphoses itself into a new and presumably reinvigorated enterprise.
+Yet we are equally certain that IBM's creative urges will ultimately be expressed in the form of cinematic accomplishments of great merit and cultural value, to say nothing of bankability.
+As part of our mission requires this publication to keep its readers alert to the future of IBM and the wonders the company will doubtless work, we will — begging your understanding and forgiveness in what we feel is a justifiable revelation of inside information — part the cloak of secrecy that surrounds Hollywood's dreams and IBM's intentions in the interest of preparing you for tomorrow.
+IBM, despite its initial disavowals, clearly intends to make movies.
+Among the features it hopes to bring to theatres and also to the instructive world of television are:
+The Terminal Hater: A pair of charming, morally upright and brilliant scientists — one male, one female — discover that computers running MS-DOS and Windows cause dental caries.
+They risk their careers to bring this information to a sceptical world, barely averting attempts by evil secret agents working for unspecified personal computer hardware and software companies to kill the protagonists.
+But virtue eventually triumphs and by the finale the world is saved, thanks to the rediscovery of the good old punch card.
+The Determined Potater: This children's film tells of a spud with an eye for advancement.
+He escapes from a fast food outlet and makes his way to the City of London where he gets a job as a securities analyst.
+Through hard work and other traditional virtues, the vegetable ultimately becomes the head of business news for the BBC.
+On a trip to Idaho, the spud falls in love with the state's most alluring potato and, by writing clever mash notes, wins her heart.
+But the stepfather of the Idaho beauty objects to his daughter's running off with a commentator.
+Nonetheless, our hero prevails and the villainous stepfather ends up as pommes frites on an Amsterdam pushcart.
+The Interminable Akers: Scientists in the research facility of an unnamed high-technology company discover the secret of perpetual vigorous life…or think they do.
+As their amazing work in the lab progresses, side plots examine the philosophical problems and implications of immortality, an issue that is ultimately debated by the United Nations.
+In the end, the world decides to give the miracle drug to only one person, selected by a committee of great thinkers, and closely watch the consequences.
+A well-qualified man named Akers is selected on the basis of his impressively durable character, after which the plot takes surprising twists we dare not reveal.
+The Torment Takers: A select group of information processing executives from the world's leading corporations are challenged to take an unspeakably difficult test: they will purchase equipment they absolutely must have at whatever price is offered by its vendor and then attempt to balance their budgets.
+After many hair-raising adventures, most not only survive but emerge wiser and stronger as a result of their harrowing ordeal.
+ICL HAS SOLARIS-COMPATIBLE UNIX SYSTEM V.4.2 FOR DESKTOPS AND SERVERS…
+ICL Plc has incorporated Solaris compatibility within its new Unix System V.4-compliant operating system, which is due to be launched at UniForum.
+DRS/NX version 7, its implementation of Unix System Laboratories Inc' System V.4.2 desktop operating system for iAPX-86 and Sparc systems, includes X/Open Co Ltd XPG4-compliance, multiprocessing support, and support for both OSF/Motif and Open Look interfaces.
+ICL promises compatibility with SunSoft Inc Solaris 2.
+X applications, and says that Solaris users will also be able to access ICL System V.4.2 applications.
+Version 7 comes with disk striping, disk mirroring and file management functions, a set of graphic monitoring and administration tools and C2 level security.
+Other features include print, restore and back-up facilities and support for Novell Inc's NetWare, TCP/IP, SNA, X25 and Open Systems Interconnection protocols.
+Details of pricing for the Sparc server version will be released when it ships in April.
+Support for Pentium machines will be available by the end of the year.
+DRS/NX version 7 for iAPX-86 is priced from $500 to $1,600.
+DRS/NX will become ICL's mainstream Unix implementation on both desktops and servers, and there are upgrade paths for current System V.4 users.
+It will be sold through ICL's existing direct and indirect sales channels and in Europe by Technology Plc — its personal computer and peripherals subsidiary.
+ICL says it is also encouraging independent software vendors handling Solaris to market the product.
+…
+AS IT INTRODUCES ACCESS SECURITY SOFTWARE FOR CLIENT PERSONAL COMPUTERS
+ICL Plc will also introduce Access Manager 200, which enables users secure single point of log-in to enterprise-wide networks from personal computers.
+The Windows-based client environment supports Microsoft Corp's LAN Manager/X.
+It includes workstation security — which can restrict users' access to specific applications — multiple secure window options and personal ID passwords.
+Sparc-based DRS 6000 and Intel Corp iAPX86-based DRS 3000s are supported as hosts, with Sparc client support by the end of the year.
+Available next month, it costs $200 per licence.
+SANTA CRUZ PENTIUM COMBINATION ‘HAS NOT BEEN RECOMPILED’
+At the Cebit computing fair in Hannover towards the end of this month, the Santa Cruz Operation Inc, Santa Cruz, California is expected to launch its Santa Cruz Unix and Intel Corp Pentium combination under the banner Power Now.
+Does this mean that Santa Cruz has re-compiled its operating system to take full advantage of Pentium's performance?
+Not according to our sources at the company.
+That means that the product has not been optimised for the 80486 or for Pentium, and won't take account of new Pentium features such as the dual pipeline, or work around some of the clock cycle quirks that emerged in the behaviour of the 80486 post technical documentation.
+It all sounds as if the compiler technology — an essential element of the Pentium's claimed performance benefits over the 80486 — isn't quite there yet.
+Watch this space.
+QUORUM's EQUAL MAC-UNDER-UNIX ADAPTOR GETS ITS FIRST SHOWING
+Mac-on-Unix house Quorum Software Systems Inc, a hit at last year's UniForum, this week will stage the first public, albeit belated, showing of its Equal end-user product at the Silicon Graphics Inc and Sparc International booths.
+Equal, originally due in December, is now scheduled to ship in the second quarter.
+Quorum, which says some of the blame for Equal's delay has been on the legal hassle it had last year with Apple Computer Inc, which held up financing and staffing, will position the product as a Mac application adaptor rather than an emulator.
+The Menlo Park, California-based company's market research has found that users are interested in running Mac programs native under Motif out of performance considerations and have little truck with bulky emulators.
+Luckily Equal is not an emulator.
+Quorum also found 80% to 85% of its potential audience are interested simply in running off-the-shelf Mac packages of Word and Excel: this is what Quorum is currently polishing up and will be showing.
+It says other programs run, but the company will have to ward off criticism that it does not have a significant inventory of tested packages.
+Quorum will also announce a long-awaited deal with Adobe Systems Inc to license its software developers' Latitude for converting its Macintosh programs to the Unix system under Display PostScript, Motif or Open Look.
+INFORMIX FOUNDER SIPPL IS READY TO RETURN TO THE FRAY WITH NEW CLIENT-SERVER SOFTWARE VENTURE
+Roger Sippl, the departed founder of Informix Software Inc, wants to be back doing what he's good at — running a software company.
+So he's building another one, hoping to call it Very Visual Software.
+It's not a unique product plan, as Sippl himself is first to admit.
+He's watched the success of companies such as PowerSoft Corp and aims to cut himself off a slice with a new cross-system client-server graphical desktop development environment to build database applications.
+It will use object-oriented proprietary language technology, but his differentiator in this mature market will be the extremely visual part, the goal being practically to force developers to write friendly software.
+Naturally, stuff like that would find a home among large corporations with their huge staffs of determined computilliterates.
+Applications can be like teaching machines, coaxing users to the right choices without penalties, says Sippl.
+The next stage is shopping for components, such as forms software, and raising an initial $2m to help with the funding over the next couple of months.
+Depending on how well Very Visual does, it will probably need $5m to $10m before its cash-flow is positive.
+Windows, MS-DOS, NT, Motif and Mac on the client side and Unix and NT on the server side are likely to be encompassed.
+Beta versions are not in the plan before the end of the year.
+Sippl, who rues the fact the Unix industry can't agree on a common desktop interface, reflects that it's ‘scary that one vendor [Novell Inc]is about to take over what we spent a decade building’ largely because he offers the customer homogeneity.
+Sippl is also involved in groupware start-up ProActive Software Inc.
+GRASEBY ACCOMPANIES PLUNGING PROFITS WITH NEWS THAT IT PLANS TO FLOAT ITS GRASEBY ANDERSON BUSINESSES
+Graseby Plc has proposed an initial public offering to list the common stock of its wholly-owned environmental products subsidiary, the Graseby Andersen Group, on the NASDAQ National Market System in the US.
+The aim is to ensure that Graseby Andersen has adequate resources to fund further growth, possibly by the acquisition of complementary companies or product lines.
+At the time of offering, the company will comprise Graseby's UK and US environmental businesses, Graseby Andersen Inc and Graseby Andersen Ltd, as well as two new additions in the form of wholly-owned subsidiaries, Graseby Specac Inc and Graseby Specac Ltd.
+For the year ending December 31 1992, total turnover at the Graseby Andersen Group was $39m or £22m.
+Operating profit stood at $4.7m or £2.6m.
+Andersen will issue and sell new shares, while Graseby will also sell some of the equity held in the Specac firms.
+Andersen has a net book value of $14m, and the listing is expected to raise at least $25m, or approximately £17m at current exchange rates.
+Graseby will retain the controlling share.
+The Cambridge-based group intends to use the cash it receives to increase group shareholder funds and reduce borrowings, which increased £600,000 to £20.8m due to exchange rate movements.
+The company reckons that the cash injection will give it enough ‘flexibility’ to further develop its other profitable product monitoring and medical businesses.
+Since it acquired Tace Plc and Goring Kerr Plc in 1991, it has focussed less and less on its former core defence activities due to the near collapse of the defence industry.
+Staff numbers here have been pruned back to 250 from 580, and chief executive Paul Lester reckons that the division can make money at that level.
+He added that there was no point in trying to sell it because noone wants defence activities any more.
+Nonetheless, both operating profit from continuing operations — down 23.4% to £9.5m — and earnings per share — down 85.1% to 1.3 pence, or 32.8% to 8 pence, if restructuring costs aren't taken into consideration — have suffered as a result of a significant downturn in performance of the defence business.
+Profits  generated from defence fell to £300,000 in 1992 from £6m in 1991, not even including redundancies.
+Turnover likewise dropped to £14.7m from £36.6m because, Lester said, virtually all major orders were delayed.
+Heavy restructuring
+Heavy restructuring has also taken its toll.
+For the year ending December 31, pre-tax profits  plummeted 86.5% to £1m, while turnover fell 5.9% to £102.6m.
+Pre-tax figures were hit by £5.8m losses on the disposal of non-core activities — machine tool maker, Ajax, industrial controls firm, Controls UK, and flexible circuits manufacturer, Flexitech — as well as the closure of DMS.
+This included £3.6m written off to reserves in earlier years.
+Similar charges amounted to £1.6m in 1991.
+But the group made £1.5m on the sale of properties — a site in Enfield went to J Sainsbury Plc for net proceeds of £8.6m, and a site in Newmarket, occupied by Roxboro Ltd, was sold for £1.4m.
+While this added £5.5m to distributable reserves, Graseby also felt compelled to make a £2.9m provision against the land and buildings revaluation reserve, given the depressed state of the UK property market.
+Still, ‘taking into account all relevant factors’, the board is recommending that the dividend be maintained at 1991 levels.
+The final dividend will stay at 7.6 pence per share, which when added to the interim dividend of 3.3 pence, makes an unchanged total of 10.9 pence.
+Unfortunately, the cost of this dividend — £6.9m — has led to a deficit of £6.1m, which will be taken from shareholders funds.
+This has helped to increase gearing to 99% now from 67% in 1991.
+Performance at the rest of the business, excluding defence, was mixed.
+While sales at the medical businesses grew 11% to £13.4m, profit fell by £200,000 to £2.4m due to increased expenditure on product development and international marketing — various offices have been opened in Europe and Hong Kong.
+The French medical company also suffered because of a three or four month disruption in the supply of the only product it does not design and manufacture itself — a plantable port, manufactured by a US company, which is used to control the amount of drugs given to a patient undergoing chemotherapy, met with quality problems.
+Both the controls and manufacturing services businesses were adversely affected by recession in their markets.
+Combined sales here fell year to £16.9m this from £17.5m last, while profits dropped to £200,000 from £800,000.
+Turnover from the instruments division, including a full year's contribution from Goring Kerr and a seven month's contribution from Goring Kerr Interest, increased 62% to £32.2m.
+Profits were also up by £2.9m to £4.2m, due mainly to ‘an excellent performance’ from the product monitoring business and a much improved performance from the US electro-optics activities.
+The New Jersey site has now been closed and merged with the Orlando, Florida-based one.
+This resulted in the loss of about 20 staff, bringing the total headcount here to 100.
+Finally, sales from the environmental companies, including a first full year contribution from Tace, increased by £9.9m, with profits up £1m.
+Graseby reckons its not all doom and gloom, however.
+While Europe is still suffering the effects of recession, it believes there are signs of upturn in the US economy.
+The devaluation of sterling should also make things easier for UK firms heavily involved in the export trade.
+In addition, it cites ‘an encouragingly strong order intake’, including three major defence contracts.
+According to the company, these deals had been in the offing for some time, but were finally concluded in December and January.
+Jointly valued at £5m, Graseby believes they should provide a good base for improved performance in this area.
+WANG FILES REORGANISATION PLAN: 3,300 MORE JOBS TO GO
+Ownership of Wang Laboratories Inc will pass to the most prominent classes of creditors under the company's reorganisation plan filed  yesterday .
+The reorganised Wang's common shares will be issued to general unsecured creditors, including debenture holders, while the holders of its current class B and C common will be issued with seven-year warrants to buy back 20% of the reorganised company's common shares.
+The exercise price for the warrants will enable creditors issued with common to recover 95% of their claims before the exercise price equals the trading price.
+The company says it believes the reorganisation plan will lead the company out of Chapter 11 protection and to profitability in fiscal 1994 to June 30 that year.
+Creditors holding priority claims, such as pre-petition wage claims, some customer claims, set-off claims and secured claims will be paid in full or as agreed upon by the parties, or otherwise remain outstanding; it appears that the shares now traded on the American Stock Exchange will be essentially worthless.
+The new Wang will not invest in development, design and manufacture of open systems hardware so that capital investment, inventory and warehousing requirements will be substantially reduced.
+It will continue to assemble and test VS computers and secure systems products.
+The two strategic businesses — integrated imaging and office software, and value-added network services — will be managed through five business units — North America, Federal Systems, Europe , Asia and Latin America South Pacific.
+It sees fiscal 1994 turnover of $1,000m, compared with $1,300m this year; 3,300 more jobs will have to go over time.
+COMPUADD TO CLOSE ALL 110 STORES AND FIRE OVER 600
+CompuAdd Computer Corp, the Austin, Texas personal computer manufacturer and retailer, is taking the drastic step of closing all 110 of its stores at the cost of over 600 jobs.
+‘In the final analysis, we realised that our core competency is direct marketing,’ the company explained.
+Retail sales accounted for about 30% of privately-held CompuAdd's $524.4m turnover last year, but lost money; sales per store averaged about $1.4m, against $36m per store generated by CompUSA Inc.
+Turnover this year is expected to fall by 43% compared with 1992, to between $300m and $350m.
+Datum Inc has reported fourth quarter net losses of $1.8m against profits of $125,000 last time, on turnover down 14.8% at $6.6m; net losses for the year to December 31 stood at $2.2m against profits of $697,000 last time, after $158,000 gains from the cumulative effect of an accounting change last time, on turnover that fell by 13.4% to $27.3m.
+Graseby Plc has reported net profits for the year to December 31 down 81% at £844,000, after £1.5m profits from the sale of investment properties, £2.2m losses from the disposal of discontinued operations, £3.6m losses from goodwill write-downs this time and £1.7m restructuring charges and £1.6m losses from the disposal of discontinued operations last time, on turnover that fell 5.9% to £102.6m.
+At the pre-tax level, profits were down 86.5% at £1m.
+Earnings per share fell 85.1% to 1.3 pence.
+DEC ANNOUNCE ALPHA SECOND SOURCE
+Rather sooner than expected, Digital Equipment Corp duly announced yesterday that its first second source for the Alpha AXP RISC microprocessor would be Mitsubishi Electric Corp, which will manufacture and sell DEC-designed versions of the Alpha AXP chips along with its own designs based on the Alpha AXP architecture from next year.
+SOFTWARE DEVELOPER CO CUT STAFF BY 20%
+Software Developer's Co Inc, Hingham, Massachusetts is cutting its workforce a swingeing 20% or 71 employees and will take a one-time charge of about $450,000: as part of the reorganisation, the company accepted the resignation of Peter Brumme, executive vice-president and chief operating officer and Robert Brennan, vice-president of worldwide sales, and neither will immediately be replaced; it says it plans to enter technically-oriented software markets for engineers, scientists and mathematicians.
+ANOTHER BACKS AWAY
+Another one has taken a quick look and walked away: Motorola Inc chairman George Fisher said the chief executive position at IBM Corp did not interest him: he wrote to employees saying that speculation about the post had been building in the news media and that his name had been mentioned —‘though IBM is a fine company, I am not interested in the position; I plan to stay at Motorola where my work is challenging, exciting and rewarding.’
+DATA GENERAL AND ORACLE TEAM UP
+Data General Corp has entered a joint development programme with Oracle Corp to implement Oracle Parallel Server for its AViiON computer systems and servers: the product enables multiple systems to access a single database providing separate, redundant data access for Oracle users; it is planned to ship in the fourth quarter and the pricing for a 48-user dual AViiON system configuration, with CLARiiON disk array and Oracle Parallel Server, will start at $120,000.
+CHILEAN INTEREST IN HONDURAN PRIVATISATION
+Senior executives of Compania de Telefonos de Chile SA told the Honduran President, Rafael Callejas, that their company was interested in becoming involved in a future privatisation of the telecommunications company in Honduras, Reuter reports from Santiago.
+CAP SESA LUXEMBOURG TRANSFERRED
+Cap Gemini Sofeti SA, Paris has transferred Cap Sesa Luxembourg SA to its majority owned Volmac Software Groep NV Dutch affiliate.
+REWARDS OF FAILURE
+The rewards of failure…
+IBM Corp reveals in the proxy statement for the annual meeting that total pay and benefits for chairman and chief executive John Akers fell 17% in 1992 to $1.3m — Akers' variable incentive payout, which is based on operating results, was $375,000, a decline of 42% on 1991, reflecting both IBM's performance against targets and relative performance from year to year; IBM said for the past two years, Akers' annual pay declined over $1.3m, a fall of 50%; it proposes to elect John Akers to the board after quits the top job.
+TECHNOLOGY PLC ENTERS DIRECT SALES ARENA
+Technology Plc, the UK distributor now owned by ICL Plc, has entered the catalogue or direct sales business with the launch of its Open & Direct catalogue, which features such goodies as Alpha AXP machines from Digital Equipment Corp, RS/6000s masquerading as DPX/20s from Bull HN Information Systems Ltd, Hewlett-Packard Co machines and sundry peripherals and other products for use with the machines.
+HITACHI AND TOSHIBA TO INCREASE CHIP PRODUCTION
+Hitachi Ltd and Toshiba Corp say they will step up their production of 4M-bit memory chips shortly in response to recovery in the US market: Hitachi intends to boost monthly output by July to 8m from the current 7.5m and as it is near capacity will have to get more of them from Goldstar Co; Toshiba said it would raise monthly output to between 6m and 7m by September from the 5m or so it is doing right now.
+JUST THE NAME DIFFERS
+One day after the announcement from Comparex Informationssysteme GmbH, Hitachi Data Systems Ltd has announced that it too will be selling Hitachi Ltd's new mainframes: the main difference between the Hitachi Data Systems machines and those reported yesterday (CI No 2,128) is the name — HDS will fit them into its existing GX line of mainframes.
+BORLAND TO DEVELOP INTERBASE AS A NLM
+Borland International Inc is to develop the InterBase relational database server as a NetWare Loadable Module for NetWare 4.0: it will offer a fully multi-threaded SQL relational database server that takes advantage of NetWare 4.0's features including the direct file system input-output services, memory protection options, memory management services, and the file and module compression feature.
+DTI LICENSES NEW TRANSATLANTIC OPERATOR
+The UK Department of Trade & Industry on Monday licensed a new transatlantic telephone operator on Monday, and the company has now begun operating: Swiftcall Ltd is using lines that it leases from Mercury Communications Ltd with calls to be delivered in the US by Sprint Corp, and will charge between 25 pence and 28 pence a minute plus tax, with a sign-on fee of £1,000 for companies, £50 for residential subscribers, the fee to be set against call charges until it runs out; Swiftcall founder Tom McCabe told the paper that even at 30% capacity, he could reach annual turnover of £10m and make a substantial profit; he plans a £2m investment in the first three years and will run the service with a staff of four from the World Trade Centre, near the Tower of London.
+APPLE OPENS COMPANY STORE TO THE PUBLIC
+Apple Computer Inc is opening its Company Store, previously accessible only to Apple employees, to the public, but only for buying Apple-logoed merchandise, computer accessories and software — not for buying Macintoshes or peripherals.
+POOR DEMAND DELAYS NEC CIRCUIT BOARD PRODUCTION
+NEC Corp's NEC Akita Ltd subsidiary has put off production of circuit boards at a new factory in Akita prefecture, northern Japan, because of poor demand for home appliances and computers: according to Reuter, NEC Akita completed construction of the new factory at the end of 1992, and it now hopes to start production at the plant later this year.
+VIETNAM ENLISTS JAPANESE HELP
+Japan's Ministry of Posts & Telecommunications will send a group of telecommunications experts to Vietnam on April 10 to hold a seminar about infrastructure development in Japan: Vietnam's Minister of Transport and Telecommunications asked for Japan's co-operation in developing the country's telecommunication networks when he visited Japan in February, the Ministry noted.
+JOINT RESEARCH INTO  COMMON TELECOM SERVICES SOFTWARE
+Kokusai Denshin Denwa Co Ltd, Nippon Telegraph & Telephone Corp and other overseas telecommunication companies are studying the possibility of joint research to develop next-generation common software for use in providing telecommunications services, a Kokusai spokesman said, responding to a story in the Nippon Keizai Shimbun that said AT&T Co, British Telecommunications Plc, IBM Corp and others would form a consortium shortly to begin the work.
+EMPLOYEE CRIB SHEETS
+We hear that Intel Corp has written up a bunch of Q&As for its people to use answering questions that touch on Digital Equipment Corp's rival Alpha chip, while Microsoft Corp has written up a similar document on Unix compared with NT.
+REZA MIKAILLI JOINS UNIFY FROM INFORMIX
+Unify Corp has appointed Reza Mikailli as senior vice-president of product development: he joins from Informix, where he was in charge of development of Informix On-Line.
+WILES FINALLY CHARGED OVER MINISCRIBE AFFAIR
+These things grind exceeding slow, but in Denver, Colorado, charges have finally been brought against Q T Wiles, the former chairman of MiniScribe Corp, accusing him of a scheme to inflate the figures in books of the disk-drive maker: the US District Court indictment alleges that Wiles reaped $1.7m in profits from the sale of MiniScribe stock using inside information about the now-defunct disk company.
+INTEL HAS PENTIUM-COMPATIBLE CHIP FOR PERIPHERAL COMPONENT INTERCONNECT
+Ahead of the Pentium processor launch on March 22, Intel Corp has a Pentium-compatible chip set for its Peripheral Component Interconnect specification: the new set reportedly supports a 64-bit data path and speeds of up to 66MHz.
+BORLAND HAVE NEW RELEASE OF DBASE IV READY
+Borland International Inc is ready with a new release of its dBase IV database management system for MS-DOS and will announce the release of a MS-DOS compiler for dBase for the end of the month; according to US PC Week, dBase IV 2.0 is designed to run up to 10 times faster than the previous release and the compiler will enable developers to create dBase III, dBase III Plus and dBase IV executable files that can be distributed to end users.
+NOTEBOOK NEWTONS
+Apple Computer Inc's second batch of Newtons will be notebook-sized versions of the device which it expects to ship at about the same time as the small first model, according to MacWeek: the notebook will have a landscape-mode screen with a resolution of 640 by 480 pixels; the notepad, in contrast, has a small portrait-mode screen; Apple will also deliver its first PCMCIA slot in the Newton this summer, but a slot for the PowerBook laptops may be further away.
+BKS SOFTWARE BECOMES POETIC
+BKS Software Inc, developing C++ and object oriented tools for MS-DOS, Unix and VMS, has changed its name to Poet Software Corp: the firm also relocated its principal US offices to Santa Clara, California from Cambridge, Massachusetts.
+US SEMICONDUCTOR INDUSTRY DENIES JAPANESE CLAIMS
+The US Semiconductor Industry Association has denied those claims by Japan that US companies cancelled semiconductor shipments to Japanese firms after orders had been placed.
+MICROPOLIS CUTS RAIDION PRICES
+Chatsworth, California-based Micropolis Corp is cutting the price of RAIDion fault-tolerant disk array subsystems for NetWare 3.11 networks by up to 20%, bringing the cost as low as $2.83 per Megabyte.
+MICROSOFT LAUNCHES COLLECTION OF TRUETYPE FONTS
+Microsoft Corp has launched the Microsoft TrueType Master Set, a collection of 102 high-quality TrueType fonts for the Apple Computer Inc Macintosh computer running System 7.0 and higher: the TrueType Master Set is $100, now.
+MITAC TO MERGE US UNITS
+Mitac International Corp, Taipei, Taiwan is to merge its US units in order to strengthen its operations there: Compac Electronics Inc, American Mitac Corp, Mitac Research Corp and Microelectronics Inc will be merged under the Compac name: Mitac bought an 80% stake in Compac, which should not be confused with to Compaq Computer Corp but no doubt will, in 1991; it says it has no current plans to buy the remaining 20% from independent investors; the merged company is expected to have turnover of $240m in 1993, rising to $500m in 1996, Mitac said.
+IBM AND SYBASE TOGETHER ON RS/6000-BASED DEAL
+IBM Corp and Sybase Inc have cooked up a co-development and co-marketing deal revolving around the RS/6000 to be announced this week.
+PROSPECT OF UNIX FAIR ‘93/TOKYO
+IDG World Expo is trying to pull together a Unix Fair ‘93/Tokyo for December 8 to 10 at the Pacifico Yokohama and has been touting for prospects for the show at UniForum.
+LDI OFFERS RENTAL TERMS ON DELL PCs
+Cleveland-based LDI Corp's LDI Computer Rentals is now offering short term rental terms on personal computers made by Dell Computer Corp.
+XEROX INTRODUCES 8812 PLOTTER
+Xerox Corp's Xerox Engineering Systems in Rochester, New York has come out with the Xerox 8812 plotter, which Adobe Systems Inc says is the first computer-aided design desktop output device equipped with PostScript: the 400dpi 8812 can be used as a laser plotter for engineering and architectural renderings, and as a PostScript Level 2 desktop printer for documents that combine CAD drawings, text and graphics; it is bundled with 51 resident Type 1 fonts, Adobe Type Manager font scaling software, and print drivers that support both Macintosh and Windows systems; it costs $7,000 with the PostScript software and with one paper tray.
+AMDAHL LAUNCHES CONSULTING SERVICE
+Amdahl Corp, Sunnyvale has launched a consulting service and data storage feature to facilitate the migration of customers to Escon Architecture: the company accompanies the new service with a new Serial Channel Feature for next quarter for use with its 6100 Storage Processor, which attaches to parallel channel adaptors on the 6100 and enable it to support serial Escon channel connections; a 6100 with the feature will support up to 32 Escon serial channels or a mixture of serial and parallel channels; native serial channels cost $62,560 for the first four and $32,280 for each additional pair; the Serial Channel Feature start at $21,000.
+SCO WIN XEROX OEM CONTRACT
+Santa Cruz Operation Inc has won an OEM contract with Xerox Corp to supply its Unix as the standard operating system component of the Xerox DocuTech Publishing Series Extended Storage product: it will run on a Compaq Computer Corp Systempro/LT 486/33 with 8Mb internal memory and two 1Gb disk drives.
+FOOLS RUSH IN
+Merisel Inc has found that it's easier to rush a catalogue out than to make sure that everything in it is correct, and in a series of schoolboy howlers in the current edition, the name of Conner Peripherals Inc is misspelled, many of its hard disks are described as floppies — and their access times of between  19ms to  1ms are rendered as 19Microsoft to 12Microsoft.
