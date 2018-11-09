@@ -1,0 +1,35 @@
+
+
+Pyrgic Puzzles.
+By Christopher Maslanka
+1.
+Kugelbaum came across a football lying on the pavement.
+‘Clearly,’ he said to himself, ‘Each T on this ball is regular and of the same dimensions as each and every other T. Clearly also, each and every pentagon is regular and the same size as each and every other pentagon.’
+How many T's are there on the surface of the ball?
+ILLUSTRATION: IAN ANDERSON
+2.
+What regular body would be obtained if the centres of all neighbouring pentagons were joined by straight lines and all other lines were erased?
+3.
+The word cuboid has six letters and represents a solid figure with six plane faces.
+Can you think of another solid figure with the same number of plane faces as letters in its name?
+4.
+‘I cannot think,’ remarked Russell, ‘Why laziness should have had such a bad press.
+The whole progress of mankind ought to have consisted in this: the elimination of unnecessary work.
+I have tried to inculcate in my pupils an attitude of intelligent laziness.
+As an exercise in this practice, I invite your answer to this calculation: 81,624,324,048,566,472,808 x 12.5.
+You have one minute to give an answer.’
+Well?
+Solutions
+1.
+It is easy to see that there are 12 pentagons on the ball.
+Each is surrounded by a ring of five Ts but each T is shared between three pentagons.
+So there are a third of 12 x 5 Ts: i.e. 20 Ts in all.
+2.
+A regular icosahedron: a solid having 20 plane faces, all of them equilateral triangles.
+3.
+Dodecahedron will do.
+Note that if you take Kugelbaum's football and let all the pentagons expand at the same rate and at the expense of the Ts until every T has shrunk to a point you will be left with a regular dodecahedron, having 12 pentagonal faces.
+4.
+Multiplying by 12.5 is the same as multiplying by 100 and dividing by 8.
+The number is easy to divide by 8 as it consists for the most part of successive multiples of 8.
+The answer is seen to be: 1,020,304,050,607,080,910,100.
