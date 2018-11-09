@@ -1,0 +1,149 @@
+
+
+[COURT OF APPEAL]
+ATTORNEY-GENERAL'S REFERENCE (NO. 1 OF 1991)
+1992 June 16
+Lord Taylor of Gosforth C.J.,
+Macpherson of Cluny and Turner JJ.
+Crime — Computer misuse — Unauthorised access — Person using one computer to obtain from it unauthorised benefit — Whether unauthorised use of single computer within statute —‘Access to any program or data held in any computer’— Computer Misuse Act 1990 (c. 18), ss. 1(1), 2(1)
+The respondent, without authority, keyed commands into a computer and thereby obtained by means of the same computer a discount, to which he was not entitled, on goods being purchased at a supplier.
+He was tried on, inter alia, a count charging an offence contrary to section 2(1) of the Computer Misuse Act 1990by securing unauthorised access to a computer, in contravention of section 1(1) of the Act of 1990, with intent to commit a further offence of false accounting.
+On a submission of no case to answer the trial judge ruled that, on a true construction of section 1(1) (a ) of the Act of 1990, a second computer had to be involved, so that section 2(1) was inapplicable to the facts, and he upheld the submission.
+The Attorney-General referred to the Court of Appeal under section 36 of the Criminal Justice Act 1972 the question whether, in order for a person to commit an offence under section 1(1) of the Act of 1990 the computer which the person caused to perform any function with the required intent had to be a different computer from the one into which he intended to secure unauthorised access to any program or data held therein.
+On the reference:—
+Held , that, in the opinion of the court, in section 1(1) (a ) of the Act of 1990 the words ‘causes a computer to perform any function with intent to secure access to any program or data held in any computer,’ in their plain and ordinary meaning, were not confined to the use of one computer with intent to secure access into another computer; so that section 1(1) was contravened where a person caused a computer to perform a function with intent to secure unauthorised access to any program or data held in the same computer (post, pp. 437A–B, C–D, 438A, E–F).
+No cases are referred to in the judgment or were cited in argument.
+REFERENCE by the Attorney-General under section 36 of the Criminal Justice Act 1972.
+The Attorney-General referred a point of law for the opinion of the Court of Appeal in the following terms:
+‘1.
+Point of law
+‘The point of law referred for consideration by the court is: in order for a person to commit an offence under section 1(1) of the Computer Misuse Act 1990 does the computer which the person causes to perform any function with the required intent have to be a different computer to the one into which he intends to secure unauthorised access to any program or data held there?
+‘2.
+Facts
+‘(a)Allegations.(i) The allegation in this case was that the respondent had obtained a 70 per cent.
+discount on goods being purchased at a supplier, by dishonestly operating a computer used by the sales staff and entering a false discount.
+(ii) The respondent had formerly been employed by the supplier, a wholesale locksmith, between 11 October 1989 and 24 August 1990.
+The respondent had been employed as a warehouseman/sales assistant in the key department.
+He was experienced in operating the computer used by assistants when making sales to customers.
+(iii) On 17 September 1990 the respondent attended the key department together with his new employer, Mr. A. The only assistant on duty at the time was Mr. S. with whom the respondent had previously worked.
+While Mr. S. went to deal with a request made by Mr. A., the respondent entered the storeroom and helped himself to a key-cutting machine from stock.
+Mr. S. returned to see the respondent carrying the goods towards the main exit.
+Mr. S. contacted the warehouseman about what had happened.
+By this time the respondent had loaded the goods into a van and rejoined Mr. A. in the key department.
+He was challenged by the warehouseman but he assured him that he was going to pay for the goods.
+Mr. S. was instructed to transact the sale as normal and accordingly began to enter the sale on the computer.
+Part-way through entering the sale, Mr. S. had to go into the store-room to check a detail regarding the [number of the]machine that had been selected.
+The respondent took this opportunity to add an entry on the computer which gave a 70 per cent.
+discount on the sale.
+The resulting invoice was printed out at the payment counter where Mr. A paid £204.6 plus VAT instead of the proper sum of £710.96 plus VAT. (iv) The respondent was arrested on 19 October 1990.
+In interview, he denied having interfered with the computer.
+He acknowledged that such a discount could not have been entered by error.
+He maintained that Mr. S. was responsible for the operation of the computer and producing an invoice with the discount recorded upon it.
+The respondent was charged on 19 October 1990.
+Mr. A. was also interviewed by the police but was released without charge.
+‘(b)Indictment.
+The indictment contained two counts as follows: ‘Count 1.
+Statement of Offence:Securing unauthorised access to a computer with intent to commit a further offence, contrary to section 2(1) of the Computer Misuse Act 1990.
+‘Particulars of Offence [The respondent]on 17 September 1990 secured unauthorised access to a computer in contravention of section 1(1) of the Computer Misuse Act 1990 with intent to commit a further offence, namely, false accounting contrary to section 17(1) (a ) of the Theft Act 1968.
+‘Count 2.
+Statement of Offence:False accounting, contrary to section 17(1) (a ) of the Theft Act 1968.
+‘Particulars of Offence:[The respondent]on 17 September 1990 dishonestly and with a view to gain for himself or another, or with intent to cause loss to another, falsified a document required for an accounting purpose, namely, a computer generated sales invoice, by making an entry therein which was or may have been misleading, false or deceptive in a material particular in that it purported to show that a discount of 70 per cent.
+had been afforded to him by [the supplier]on the sale of a GT40 key cutting machine.’
+‘(c)Proceedings.(i) The case was tried before Judge Aglionby and jury between 3 and 4 July 1990. (ii) At the close of the prosecution case a submission of no case to answer was made by the respondent in respect of both counts.
+(iii) In respect of count 1 it was submitted that section 2(1) did not apply to the facts of this case; in particular it was submitted that in order to contravene section 1(1) and therefore in turn section 2(1) it was necessary to establish that the offender had used one computer with intent to secure unauthorised access into another computer.
+The judge upheld the submission.
+The judge held: ‘It seems to me, doing the best that I can in elucidating the meaning of section 1(1) (a ), that a second computer must be involved.
+It seems to me to be straining language to say that only one computer is necessary when one looks to see the actual wording of the subsection: ‘Causing a computer to perform any function with intent to secure access to any program or data held in any computer.’’
+(iv) A submission of no case to answer was also made by the respondent in relation to count 2.
+This was rejected by the judge, however the jury returned a verdict of not guilty on this count.
+‘3.
+Argument
+‘It is submitted:(i) the judge erred in law in his ruling on count 1;(ii) for an offence to be committed under section 1(1) of the Act there does not have to be the use by the offender of one computer with intent to secure unauthorised access into another computer;(iii) there is no ambiguity in the wording of section 1(1) (a ) of the Act which clearly refers to an intent to secure access to any program or data held in any computer;(iv) section 17(2) and (3) are applicable to the alleged actions of the respondent in this case;(v) the Act has been drafted so as to deal with the person who misuses a computer to which he has direct (but unauthorised) access, as well as a computer into which he is able to secure indirect access by operating another computer.’
+Alan Moses Q.C.
+and Mark Dennis for the Attorney-General.
+Lionel Lassman for the respondent.
+Lord Taylor of Gosforth C.J. gave the following opinion of the court.
+This is a reference under section 36 of the Criminal Justice Act 1972, which permits Her Majesty's Attorney-General, when a person tried on indictment has been acquitted, to seek the opinion of this court on a point of law which has arisen in the case.
+The point of law which is raised by this reference is stated in these terms:
+‘In order for a person to commit an offence under section 1(1) of the Computer Misuse Act 1990 does the computer which the person causes to perform any function with the required intent have to be a different computer from the one into which he intends to secure unauthorised access to any program or data held therein?
+The allegation in the case was that the respondent had obtained a 70 per cent.
+discount on goods being purchased from a supplier by dishonestly operating a computer used by the sales staff and by entering a false discount.
+The respondent had formerly been employed by the supplier, which was a business of wholesale locksmiths, between October 1989 and August 1990.
+He had been a warehouseman/sales assistant in the key department.
+In that role he was experienced in operating the computer used by sales assistants when making sales to customers.
+On 17 September 1990 the respondent attended the key department together with his new employer.
+The only assistant on duty at the time was Mr. S., with whom the respondent had previously worked.
+Whilst Mr. S. went to deal with a request made by the respondent's new employer, the respondent entered the storeroom and helped himself to a key cutting machine from stock.
+Mr. S. returned just in time to see the respondent carrying the goods towards the door.
+Mr. S. accordingly contacted the warehouseman.
+By that time the respondent had loaded the machine into his van and had rejoined his employer in the key department.
+When he was challenged by the warehouseman, he assured him that he was going to pay for the goods.
+Mr. S. was instructed to transact the sale in the normal way and accordingly he began to enter the sale on the computer.
+Part way through that exercise he had to go into the storeroom to check a detail regarding the number of the machine which had been selected.
+In his absence the respondent took the opportunity to add an entry on the computer, which gave 70 per cent.
+discount on the sale.
+In the result when Mr. S. came back and resumed his use of the computer, the invoice it printed out charged the sum of £204.76 plus VAT, instead of the proper sum of £710.96 plus VAT.
+When this was discovered the respondent was arrested on 19 October 1990.
+In interview he denied having interfered with the computer.
+He acknowledged that a discount of this kind could not have been entered by error.
+He maintained that Mr. S. was responsible for the operation of the computer and for producing an invoice with that discount recorded upon it.
+The respondent was charged and the matter went to trial.
+The indictment charged him with two offences.
+[His Lordship set out the indictment, ante, pp. 433F — 434A, and continued:]It is necessary to refer to the terms of the relevant sections of the Computer Misuse Act 1990.
+Section 1(1) provides as follows:
+‘A person is guilty of an offence if —(a ) he causes a computer to perform any function with intent to secure access to any program or data held in any computer;(b ) the access he intends to secure is unauthorised; and (c ) he knows at the time when he causes the computer to perform the function that that is the case.
+Section 2(1) creates another offence.
+Whereas the offence under section 1 is a summary offence, a charge under section 2 is an either way offence.
+Section 2 provides:
+‘(1) A person is guilty of an offence under this section if he commits an offence under section 1 above (‘the unauthorised access offence’) with intent —(a ) to commit an offence to which this section applies; or (b ) to facilitate the commission of such an offence (whether by himself or by another person); and the offence he intends to commit or facilitate is referred to below in this section as the further offence.
+(2) This section applies to offences —(a ) for which the sentence is fixed by law; or (b ) for which a person of 21 years of age or over (not previously convicted) may be sentenced to imprisonment for a term of five years…
+Section 3 creates a further either way offence.
+It is headed ‘Unauthorised modification of computer material,’ and provides:
+‘(1) A person is guilty of an offence if —(a ) he does any act which causes an unauthorised modification of the contents of any computer; and (b ) at the time when he does the act he has the requisite intent and the requisite knowledge.
+(2) For the purposes of subsection (1)(b ) above the requisite intent is an intent to cause a modification of the contents of any computer and by so doing —(a ) to impair the operation of any computer;(b ) to prevent or hinder access to any program or data held in any computer; or (c ) to impair the operation of any such program or the reliability of any such data.
+Section 17 is an interpretation section, and it is necessary to refer to parts of that.
+The section provides:
+‘(2) A person secures access to any program or data held in a computer if by causing a computer to perform any function he —(a ) alters or erases the program or data;(b ) copies or moves it to any storage medium other than that in which it is held or to a different location in the storage medium in which it is held;(c ) uses it; or (d ) has it output from the computer in which it is held (whether by having it displayed or in any other manner); and references to access to a program or data (and to an intent to secure such access) shall be read accordingly.
+(3) For the purposes of subsection (2)(c ) above a person uses a program if the function he causes the computer to perform —(a ) causes the program to be executed; or (b ) is itself a function of the program.
+…(7) A modification of the contents of any computer takes place if, by the operation of any function of the computer concerned or any other computer —(a ) any program or data held in the computer concerned is altered or erased; or (b ) any program or data is added to its contents; and any act which contributes towards causing such a modification shall be regarded as causing it.…
+At the close of the prosecution case before the trial judge, a submission of no case to answer was made by the respondent in respect of both counts.
+In respect of count 1 it was submitted that section 2(1) did not apply to the facts of this case and it was particularly submitted that in order to contravene section 1(1), and therefore in turn section 2(1), it was necessary to establish that the offender had used one computer with intent to secure unauthorised access into another computer.
+The judge upheld that submission.
+The relevant part of his ruling reads as follows:
+‘It seems to me, doing the best that I can in elucidating the meaning of section 1(1) (a ), that a second computer must be involved.
+It seems to me to be straining language to say that only one computer is necessary when one looks to see the actual wording of the subsection; ‘causing a computer to perform any function with intent to secure access to any program or data held in any computer.’
+A submission of no case to answer was also made in regard to count 2.
+That was rejected.
+But in the outcome the jury returned a verdict of not guilty on that count.
+The submissions made on behalf of the Attorney-General are that the judge erred in law in his ruling on count 1.
+It is submitted by Mr. Moses that, for an offence to be committed under section 1(1) of the Act, there does not have to be use by the offender of one computer with intent to secure unauthorised access into another computer.
+The words used are not ambiguous.
+The vital phrase is ‘any computer’ at the end of section 1(1) (a ) and the Act has been drafted, it is submitted, so as to deal with someone who misuses a computer, whether he accesses it indirectly by using another computer, perhaps in other premises, or whether he accesses it directly, as happened in the present case.
+It may be that the major mischief at which the Act was directed was the mischief which has become endemic of persons using one computer to hack into another computer.
+But, submits Mr. Moses, the scope of the section is not confined to that form of access to any computer.
+The ordinary canons of construction require this court to look at the words of the section and to give them their plain and natural meaning.
+Doing that, we look again at the relevant words.
+They are, ‘he causes a computer to perform any function with intent to secure access to any program or data held in any computer.’
+Mr. Lassman argued successfully before the judge, and sought to argue before this court, that that final phrase, ‘held in any computer,’ should really be read as ‘held in any other computer,’or alternatively should be read as ‘held in any computer except the computer which has performed the function.’
+To read those words in that way, in our judgment, would be to give them a meaning quite different from their plain and natural meaning.
+It is a trite observation, when considering the construction of statutes, that one does not imply or introduce words which are not there when the plain and natural meaning is clear.
+In our judgment there are no grounds whatsoever for implying, or importing the word ‘other’ between ‘any’and ‘computer,’or excepting the computer which is actually used by the offender from the phrase ‘any computer’at the end of the subsection (1)(a ).
+Mr. Lassman sought to suggest that this offence was aimed solely at hacking, and hacking, which is a word that finds no place in the Act, he says, means using one computer to access another.
+He submits that the true purpose of this Act was to meet the mischief of hacking as he defines it.
+Moreover he argued before the judge that if any of these three sections applied to what was done by the respondent in the present case, the relevant one was section 3 and not section 1.
+However, if one looks at section 3 it is — we do not need to decide the point — at least doubtful whether it would apply to the circumstances of the present case, because the requisite intent which has to be present before section 3 is breached is the intent under subsection (2) of section 3, ‘(a ) to impair the operation of any computer’— that clearly does not apply to what the respondent did here —‘(b ) to prevent or hinder access to any program or data held in any computer’— that again clearly does not apply to what the respondent did here — and ‘(c ) to impair the operation of any such program’— that does not apply here.
+The only part that might apply would be the final words ‘or the reliability of any such data.’
+That would involve giving the word ‘reliability’ the meaning of achieving the result in the printout which was intended by the owner of the computer.
+It may not necessarily impair the reliability of data in the computer that you feed in something which will produce a result more favourable to a customer than the store holder intended.
+However that may be, we are satisfied that the plain natural meaning of section 1(1) was that contended for by the Attorney-General.
+In support of that Mr. Moses pointed to the surprising, and indeed unlikely, lacunae which this Act would have left in the field of interference with computers if the construction for which Mr. Lassman contends were correct.
+He pointed out that there would be nothing in the Act to meet what is itself a mischief frequently encountered today, namely, industrial espionage or obtaining information as to security details or other confidential information which may be stored on a company's computer.
+In none of those cases could it be said that, if one entered the premises and caused a computer to exercise a function so as to reveal information, there had been access via one computer into another.
+Accordingly, if Mr. Lassman is correct, that kind of activity of going straight to the in-house computer and extracting confidential information from it could be committed with impunity so far as the three offences in this Act are concerned.
+We find that a persuasive argument, should we need any further persuasion beyond the plain wording of the Act.
+We were referred by Mr. Lassman to certain commentaries in Current Law Statutes (6) –12 (1990) 18/2 and also in Blackstone's Criminal Practice , 2nd ed. (1992), p. 639 which, when he began referring to them, he believed would afford some assistance to his argument.
+He is sufficient of a realist to concede at the end of his argument that in fact they did not support him, but supported the argument on behalf of the Attorney-General.
+For the reasons we have endeavoured to state, we give our opinion on this matter that as to the question of law raised by the Attorney-General, which we have cited at the beginning of this judgment, the answer is ‘No.’
+Opinion accordingly.
+Respondent's costs from central funds.
+Solicitors: Crown Prosecution Service, Fraud Investigation Group; Whitelock & Storr.
