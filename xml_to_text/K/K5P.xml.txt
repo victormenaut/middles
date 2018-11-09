@@ -1,0 +1,861 @@
+
+
+c-Jun is phosphorylated by the DNA-dependent protein kinase in vitro ; definition of the minimal kinase recognition motif
+ABSTRACT
+The DNA-dependent protein kinase (DNA-PK) phosphorylates a number of transcription factors.
+Here, we show that the DNA-PK modifies c-Jun in vitro and that serine residue 249 (Ser-249) is required for phosphorylation to occur.
+This residue corresponds to one of three sites of c-Jun that are phosphorylated in vivo and which negatively regulate c-Jun DNA binding in vitro .
+However, we find that phosphorylation of c-Jun by the DNA-PK does not interfere with DNA binding, indicating that phosphorylation at other sites is required for this effect.
+Mutagenesis of the phosphorylated region of c-Jun reveals that the primary amino acid sequence recognised by the DNA-PK consists of the sequence Ser-Gln, and that adjacent acidic residues potentiate kinase activity.
+Furthermore, when this site is placed within the context of a second protein, it confers DNA-PK directed phosphorylation upon that protein.
+Our findings will facilitate identification of DNA-PK phosphorylation sites in other transcription factors.
+INTRODUCTION
+In recent years, it has become clear that phosphorylation plays a pivotal role in modulating the activity of sequence-specific transcription factors (1, 2).
+It is therefore of great importance to identify and characterise the kinases that bring about these events.
+One kinase that appears to be ideally placed to modulate transcription factor activity is the DNA-dependent protein kinase (DNA-PK) that has been shown to phosphorylate a wide variety of transcription factors in vitro .
+These include Sp1, CTF/NF-1, Oct-1, Oct-2, c-Myc, SRF, p53, and the chicken progesterone receptor (3-9).
+The DNA-PK is a relatively abundant nuclear serine/threonine kinase that displays the interesting property of being itself a DNA-binding protein (4, 6, 9, 10).
+Indeed, the DNA-PK does not become active until it has bound to DNA.
+Furthermore, for Sp1, we have shown that the kinase has a strong preference for DNA-bound substrate, due to the fact that efficient phosphorylation only takes place when the kinase and Sp1 are bound in cis on the same DNA molecule (4, 11).
+To date, the functional consequences of DNA-PK-mediated transcription factor phosphorylation are not known.
+However, studies have revealed that phosphorylation has no measurable effect on the DNA binding properties of Sp1, suggesting that its function is to regulate the transcriptional activation potential of this factor (4; T.Gottlieb and S.Jackson, unpublished data).
+Thus, DNA-dependent phosphorylation of Spl might be an effective mechanism for generating an active transcription factor only when and where it is needed.
+Consistent with this possibility, preliminary mapping studies have indicated that the sites of Sp1 phosphorylation lie outside of the DNA binding domain but within the N-terminal portion of the protein that contains the transcriptional activation domains (4).
+One obvious approach to elucidate the function of DNA-PK-mediated phosphorylation will be to define sites of phosphorylation on transcription factors and determine whether mutation of these sites affects factor activity.
+For Sp1, this has proved extremely difficult because multiple, and heterogeneous phosphorylation appears to occur in more than one region of the protein (S.Jackson, unpublished data).
+A mapping/mutational approach would clearly be much easier if a transcription factor with a more simple DNA-PK phosphorylation pattern was identified.
+Analysis of known DNA-PK substrates suggests that one such factor is the product of the c-jun proto-oncogene, since it is phosphorylated by the DNA-PK less strongly than other factors that are believed to be multiply phosphorylated (9).
+c-Jun is phosphorylated in vivo in two regions.
+One of these lies towards the N-terminus of the protein.
+Here, phosphorylation of two serine residues by MAP kinases occurs in response to mitogenic signals and results in potentiation of the transcriptional activation properties of c-Jun (12-14).
+The other phosphorylated region of c-Jun lies just upstream from the C-terminal bZIP domain that specifies dimerisation and DNA-binding.
+Here, phosphorylation by casein kinase II (CKII), and/or glycogen synthase kinase 3 (GSK3), interferes with the DNA-binding potential of c-Jun and appears to occur on three residues; Ser-243, Ser-249, and Thr-239 or Thr-231 (15, 16).
+In this report, we describe a GST-protein fusion strategy that can be used to define sites of protein phosphorylation by the DNA-PK and, potentially, by other kinases.
+Using this approach, we show that the DNA-PK specifically phosphorylates the C-terminal region of c-Jun.
+Furthermore, by point-mutagenesis, we define the DNA-PK recognition site to be centred around Ser-249.
+This is one of a cluster of three phosphorylated residues that, together, negatively regulate the DNA-binding potential of c-Jun in vivo .
+We therefore investigated the effect of DNA-PK mediated phosphorylation on c-Jun DNA binding.
+In addition, by mutagenesis of the residues surrounding the site of phosphorylation, we define a minimal primary amino acid sequence motif that serves as a DNA-PK recognition signal, and which directs phosphorylation by the DNA-PK when introduced into another protein.
+These findings should greatly facilitate the identification of DNA-PK recognition sites on other proteins.
+The possible implications for DNA-PK-mediated c-Jun phosphorylation are discussed.
+MATERIALS AND METHODS
+Bacterial expression vectors
+Fusion of test proteins to the GST protein coding region were generated using the pGEX vector system described by Smith and Johnson (17).
+The Jun-Core domain (residues 239-322 of Jun P; ref. 18) was cloned into pGEX-2T (a gift from E.Laue).
+A BglII fragment containing the Fos-Core 7 domain (19) was cloned into the BamHI site of pGEX-2T.
+A SmaI/EcoRI fragment (encoding c-Jun amino acid residues 1-193; J.Sutherland and T.K., unpublished) was cloned into pGEX-2T.
+An NcoI/SacI fragment encoding Fos-Core (amino acids 127-223; ref 19) was cloned into pGEX-KG (20).
+A SmaI/EcoRI DNA fragment encoding GAL4 (amino acid residues 1-147) was cloned into pGEX-3X to generate pGEX-3XGAL4.
+An EcoRI fragment encoding c-Jun (amino acids 1-193) was cloned into pGEX-3XGAL4 to generate pGEX-3XGAL4Jun1-193.
+Mutagenesis
+To carry out mutagenesis, fragments were cloned into pING vectors, which are derivatives of pSP64T (21), containing a polylinker and an F1 origin of replication (S.Inglis and I.Brierley, unpublished).
+To generate the Jun-Core series of mutants, and the Fos-Core-ESQE mutant, the coding regions were subcloned into pING14.
+For mutagenesis, the relevant pING clone was transformed into E.coli RZ1032 and single stranded ‘uracilated’ templates were prepared after rescue with phage R408 (22).
+Single-stranded oligonucleotides describing the desired changes were synthesised and used in a mutagenesis protocol described by Kunkel (23).
+The mutants were identified by sequencing and subcloned into the relevant pGEX vector.
+Jun DNA binding assays
+Gel retardation assays were performed as described previously (24).
+The c-Jun DNA binding site used was a 27 bp double stranded oligonucleotide containing the ‘fat specific element’(FSE; refs 24 and 25).
+To determine the effect of c-Jun DNA binding sites on c-Jun phosphorylation by the DNA-PK, two FSE sites were cloned into the plasmid pLSO.CAT (26).
+The recombinant and parental pLSO vectors were then used as source DNA in an in vitro kinase assay.
+E.coli expression and purification
+The procedure used was an adaptation of the method of Smith and Johnson (17), and has been described previously (27).
+Before kinasing, the fusion proteins were cleaved with thrombin and purified away from GST (27), except for the GST-GAL4 fusions, which were not cleaved.
+In vitro kinase assays
+In vitro kinase assays were performed in a 30 µl reaction which contained the following; 10 µg HeLa nuclear extract (28) or 200 ng of purified DNA-PK (a gift from C.Anderson), 250 ng substrate protein, 25 mM Hepes pH 7.5, 12.5 mM MgCl 2 , 20% glycerol, 0.1% NP-40, 100 mM KCl, 50 µM ATP (containing 10 µCi [γ 32 P]ATP; 6000 Ci/mmol) and 1 mM DTT. 200 ng of linearised DNA template was added to the appropriate reaction as indicated in the text.
+Reactions were incubated at 30°C for 10 minutes after which they were mixed with 10 µl 4 SDS sample buffer, boiled for 5 minutes and resolved by SDS-PAGE.
+The gel was then subjected to autoradiography.
+For large proteins (GST.GAL4 or GST.GAL4.Jun1-193), the GST fusion was left ‘on the bead’.
+After the kinase reaction the beads were washed 2 with kinase buffer and the products resolved by SDS-PAGE.
+Purified human Sp1 protein was produced by over-expression in HeLa cells using a recombinant vaccinia virus vector (4).
+When Jun-Core mutants were assayed as DNA-PK substrates, low substrate concentrations were used (approximately 30 ng per reaction).
+This enabled differences in phosphorylation, due to differing Km values, to be observed.
+RESULTS
+A DNA-dependent kinase phosphorylates c-Jun
+It has been reported that the c-Jun oncoprotein is a substrate for the DNA-PK (9).
+We set out to establish which region(s) of c-Jun is phosphorylated by this kinase.
+To address this question, we expressed in bacteria the biologically important regions of the human c-Jun protein for use in in vitro kinase reactions.
+We chose the pGEX GST-fusion expression system (17) because it allows the large-scale production of highly purified, soluble fusion proteins.
+Two regions of c-Jun were expressed, which together encompass the majority of the c-Jun protein (Figure 1A).
+The first region consists of amino acid residues 1 to 193 and corresponds to the A1 activation domain (29).
+Deletion and mutagenesis of c-Jun has identified two motifs within the A1 activation domain (HOB1 and HOB2; Figure 1A) which are essential for transcriptional activation (30).
+Moreover, HOB1 contains MAP kinase phosphorylation sites that are important for transcriptional activation (13, 14).
+The second region of c-Jun that we expressed, Jun-Core (amino acid residues 239 to 322), contains the A2 activation domain and the bZIP region that specifies DNA binding and dimerisation (29).
+The two c-Jun derivatives were then tested for an ability to be phosphorylated by kinases present in a crude HeLa cell nuclear extract.
+To do this, and to ascertain whether any phosphorylation might be due to the DNA-PK, Jun 1-193 and Jun-Core were incubated with nuclear extract and [γ 32 P]ATP either in the presence or absence of DNA.
+Samples were then analysed by SDS-PAGE followed by autoradiography (Figure 1B).
+These studies revealed that Jun-Core is strongly phosphorylated only in the presence of DNA (compare lanes 3 and 4).
+By contrast, Jun 1-193 is not detectably phosphorylated either in the absence or presence of DNA (compare lanes 1 and 2).
+As a control, the bZIP region of the c-Fos protein (which contains homology to the c-Jun bZIP region) was also analysed.
+This protein did not display DNA-dependent phosphorylation (lanes 5 and 6).
+Taken together, these data indicate that a DNA-dependent kinase present in crude HeLa nuclear extracts specifically phosphorylates the bZIP region of c-Jun.
+Previous studies have shown that the DNA-PK recognises preferentially DNA-bound substrates (4, 11).
+Therefore, the lack of Jun 1-193 phosphorylation in Figure 1B might not be due to lack of DNA-PK recognition sites per se but, instead, might reflect the fact that this protein does not bind DNA.
+To address this issue, we expressed in bacteria a GST fusion protein consisting of Jun residues 1-193 attached to the DNA binding domain of yeast GAL4.
+This protein was then purified and tested for an ability to be phosphorylated in a crude HeLa cell nuclear extract (Figure 1C).
+The recombinant protein was phosphorylated extremely inefficiently as compared to the c-Jun bZIP region (the exposure time in Figure 1C is over 20-fold longer than in Figure 1B).
+Furthermore, no stimulation of phosphorylation was observed by the addition of DNA.
+From this, we conclude that residues 1-193 of c-Jun are not recognised effectively by the DNA-PK even when tethered to DNA.
+DNA-PK phosphorylates c-Jun
+We have shown previously that DNA-dependent phosphorylation of transcription factor Sp1 in HeLa nuclear extracts is catalysed by the DNA-PK (4).
+This kinase has been purified and shown to be a multicomponent complex consisting of an approximately 350 kDa catalytic subunit and a heterodimeric DNA-binding subunit (6, 10, 11).
+Given the DNA-dependent phosphorylation of Jun-Core in crude nuclear extracts, we were interested to determine whether it could serve as a substrate for the DNA-PK.
+When Jun-Core was incubated with a highly-purified DNA-PK preparation, it was found to be phosphorylated strongly, in a DNA-dependent manner (Figure 2, compare lanes 1 and 2).
+Indeed, the level of Jun-Core phosphorylation compared favourably with that of Sp1 (lanes 3 and 4).
+In contrast, the bZIP region of the Fos protein was not phosphorylated (lanes 5 and 6).
+Phosphorylation often causes proteins to migrate more slowly on SDS-polyacrylamide gels.
+For Sp1, it has been found that multiple phosphorylation events generate a large number of electrophoretic variants of the protein (4).
+Following phosphorylation by the DNA-PK, Jun-Core also migrates more slowly in SDS gels as judged by Coommassie Blue staining (data not shown).
+However, in this case, only one slower-migrating species is observed, suggesting that a single phosphorylation event might be taking place.
+Previous studies have identified sites of phosphorylation by the DNA-PK in hsp90 and SV40 large T antigen (9, 31, 32).
+Comparison of the sequences surrounding these phosphorylation sites suggests that the DNA-PK recognises serine or threonine residues that are flanked on their C-terminal side by a glutamine residue.
+Interestingly, examination of the amino acid sequence of Jun-Core identified a single site, Ser-249, that conformed to this consensus (ESQE motif in Figure 3A).
+To determine whether this site might correspond to the site of phosphorylation by the DNA-PK, we mutated Ser-249 to an alanine residue to generate Jun-Core S  A (Figure 3A).
+This mutant protein was then expressed and compared as a DNA-PK substrate with wild-type Jun-Core protein (Figure 3B).
+This revealed that, in marked contrast to Jun-Core, the Jun-Core S  A protein is an inefficient target for the purified DNA-PK (compare lanes 1 and 2).
+The Jun-Core S  A protein also failed to display DNA-dependent phosphorylation when assayed in nuclear extracts (data not shown).
+These results indicate that Ser-249 forms part of the DNA-PK recognition sequence.
+Determination of a minimal DNA-PK recognition site
+Next, we determined which residues flanking Ser-249 in the Jun-Core protein are required to direct hosphorylation by the DNA-PK.
+To do this, single mutations (to alanine) were introduced into Jun-Core at the following positions: Glu-248, Gln-250 and Glu-251.
+The resulting proteins were then expressed and tested for an ability to serve as DNA-PK substrates (Figure 4).
+The most severe effect was obtained with the Gln-250 mutation, which dramatically impaired DNA-PK-mediated phosphorylation relative to the wild-type Jun-Core protein (compare Q 250 A and WT).
+Less severe was the Glu-251 mutation (E 251 A) which caused a lesser reduction in the amount of phosphorylation by the DNA-PK.
+In contrast, the Glu-248 mutation (E 248 A) had only a very small effect on phosphorylation.
+Since the core Ser-Gln sequence is flanked on both sides by acidic residues it seemed possible that there may be some degeneracy in that one Glu residue may be sufficient to maintain recognition by the DNA-PK.
+To test this, we made a mutant in which both Glu residues were mutated to Ala.
+Strikingly, this mutant was severely deficient as a substrate for the DNA-PK (Figure 4, compare E 248 , E 251 A to WT).
+Taken together, these results demonstrate that the optimal DNA-PK recognition motif in c-Jun is the sequence Glu-Ser-Gln-Glu.
+The results described above strongly suggested to us that Jun-Core is phosphorylated by the DNA-PK on Ser-249.
+At this stage, however, it remained a possibility that, although this residue formed an essential part of the DNA-PK recognition motif, phosphorylation might actually be occurring elsewhere.
+If Glu-Ser-Gln-Glu did indeed correspond to the minimal DNA-PK phosphorylation site, we reasoned that this region of c-Jun might serve as a phosphorylation site when placed in the context of another protein.
+Since we had shown previously that the bZIP region of the Fos protein is not phosphorylated by the DNA-PK (Figure 2, lanes 5 and 6), we introduced into it the Glu- Ser-Gln-Glu motif of c-Jun that contains Ser-249 (Fos-Core-ESQE; Figure 5A).
+Strikingly, when the Fos-Core-ESQE protein was incubated with purified DNA-PK, it was found to be strongly phosphorylated (Figure 5B).
+Taken together with the fact that this region is required for DNA-PK directed phosphorylation of c-Jun and, since Ser-249 of c-Jun was initially identified because it contains homology to sites of DNA-PK phosphorylation in other proteins, these data strongly suggest that the DNA-PK phosphorylates c-Jun at Ser-249.
+Jun DNA binding sites enhance DNA-PK activity but phosphorylation does not affect c-Jun DNA binding
+Efficient phosphorylation of Sp1 by the DNA-PK requires both a functional DNA binding domain within the Sp1 protein and Sp1-binding sites on the DNA (4).
+If the DNA-dependent phosphorylation of c-Jun is of physiological significance then one might expect that the presence of Jun binding sites (FSEs; refs. 24 and 25) within the activating DNA would increase kinase efficiency.
+To test this, we introduced two FSE elements into a plasmid.
+Both the parent and recombinant plasmid were then used as cofactors for the DNA-PK in in vitro kinase assays (Figure 6A).
+By comparing lanes 2 and 3, it is clear that the presence of the FSE elements in the plasmid DNA dramatically increases the level of c-Jun phosphorylation.
+(The low level activation by the parent plasmid alone may be due to cryptic weak Jun-binding sites in this DNA).
+From these results, we conclude that DNA-bound Jun-Core protein is the preferred substrate for the DNA-PK.
+Previous studies have implicated Ser-249 in regulating the DNA binding potential of full-length c-Jun and Jun-Core proteins (15, 16).
+The conclusion from these studies was that DNA binding by c-Jun is severely inhibited when this protein is phosphorylated at Ser-243, Ser-249, and either Thr-239 or Thr-231.
+However, for practical reasons, these workers were unable to assess the individual contributions of the three phosphorylation sites towards the inhibition of c-Jun DNA binding.
+Our results strongly suggest that the DNA-PK specifically phosphorylates Ser-249 of c-Jun, and therefore we asked whether this phosphorylation could inhibit c-Jun binding.
+In the DNA binding assay shown in Figure 6B, Jun-Core protein phosphorylated by the DNA-PK demonstrates identical DNA binding properties to the unphosphorylated Jun-Core protein.
+Thus, we conclude that, in isolation, phosphorylation of c-Jun by the DNA-PK is unable to inhibit DNA binding under our assay conditions.
+This suggests that other phosphorylation events, either exclusively or in combination with phosphorylation of Ser-249, are required for the inhibition of DNA binding.
+DISCUSSION
+In this report, we have shown that a DNA-dependent kinase in HeLa nuclear extracts phosphorylates human c-Jun in the vicinity of its DNA binding and dimerization domain.
+A highly-purified preparation of the DNA-PK derived from HeLa cells (6, 10, 11), and free of other kinase activities, also phosphorylates c-Jun in a DNA-dependent manner.
+Since previous fractionation studies have indicated that only a single DNA-activated kinase exists in HeLa cells, we are led to the conclusion that it is the DNA-PK that phosphorylates the c-Jun bZIP region in crude cell extracts.
+Through primary amino acid sequence analysis we have identified an evolutionary conserved serine residue (Ser-249) in Jun-Core which contains homology to known sites of DNA-PK phosphorylation in other proteins.
+By mutagenesis we have shown that this residue constitutes part of the DNA-PK recognition site and is required for DNA-PK phosphorylation of the Jun-Core protein.
+Furthermore, when a tetrapeptide containing this sequence is placed in the context of another protein, it confers DNA-PK phosphorylation upon that protein.
+Taken together, these results strongly suggest that the DNA-PK phosphorylates Jun-Core at Ser-249, although at this point, we can not rule out the possibility that the kinase phosphorylates a flanking residue(s).
+Though the physiological relevance of the DNA-PK phosphorylation of Jun-Core is still unproven, several lines of evidence suggest that DNA-PK catalyses c-Jun phosphorylation in vivo .
+First, the site on c-Jun which appears to be phosphorylated by the DNA-PK in vitro is known to be phosphorylated in vivo .
+Second, both c-Jun and the DNA-PK are nuclear DNA-binding proteins, and therefore are likely to have access to one another inside the cell.
+Third, DNA-PK-mediated phosphorylation of c-Jun is potentiated by c-Jun binding to its cognate DNA recognition sequence.
+Thus, it is likely that c-Jun protein engaged in active transcription complexes within the cell can be recognised by the DNA-PK.
+Fourth, under our assay conditions in the presence of DNA, the dominant c-Jun kinase in unfractionated crude nuclear extracts is the DNA-PK.
+Two other kinases have been shown to phosphorylate Ser-249 of c-Jun.
+Glycogen synthase kinase 3 (GSK3) can phosphorylate c-Jun at Thr-239, Ser-243 and Ser-249 and thereby inhibit c-Jun DNA binding in vitro (15).
+However, this enzyme is predominantly cytoplasmic and thus is thought unlikely to phosphorylate c-Jun in vivo .
+More recently, it has been demonstrated that casein kinase II (CKII) phosphorylates c-Jun at Thr-231 and Ser-249 both in vitro and in vivo (16).
+As with GSK3, phosphorylation by CKII also inhibits c-Jun DNA binding in vitro and it is thought that this is a mechanism by which the cell can maintain c-Jun in an inactive state until it is activated by dephosphorylation.
+We have shown that the DNA-PK phosphorylates c-Jun more efficiently when both proteins are bound to DNA.
+For c-Jun to be accessible to the DNA-PK, therefore, it must be dephosphorylated at Thr-231 and Ser-249.
+Thus, it seems unlikely that the DNA-PK and CKII will compete for phosphorylation of Ser-249 in vivo .
+Instead, we speculate that the DNA-PK and CKII both phosphorylate Ser-249 in vivo , but do so when c-Jun is present in different subcellular locations.
+The site we have defined as the recognition site for the DNA-PK in human c-Jun is conserved in c-Jun proteins of other species and is also present in murine JunD (15).
+This suggests that this site plays an important role in regulating c-Jun activity.
+Interestingly, previous studies have shown that site-specific dephosphorylation in the C-terminal region of c-Jun in response to mitogenic stimuli converts the protein from a form that cannot bind DNA to a form that can (15, 16).
+Our studies reveal that phosphorylation of c-Jun by the DNA-PK is not sufficient to inhibit DNA binding.
+This suggests that phosphorylation of c-Jun by the DNA-PK may instead regulate the transcriptional activation potential of c-Jun.
+Indeed, such an activation mechanism has been suggested previously for DNA-PK-mediated phosphorylation of Sp1 (4).
+It is known that phosphorylation of the c-Jun A1 activation domain increases transcriptional activity of the protein (13, 14); perhaps phosphorylation of Ser-249 has a similar effect on the A2 domain (amino acid residues 238-257; ref. 29).
+However, recent studies have shown that mutation of Ser-249 of c-Jun to Ala does not inhibit transcriptional activition by this protein in vitro (33).
+Although it remains possible that phosphorylation of c-Jun at Ser-249 by the DNA-PK activates its transcriptional potential in vivo , the body of evidence therefore suggests that it is involved in regulating some other aspect of c-Jun function.
+Besides affecting transcription, transcription factors are also known to influence other events such as DNA replication and repair (34, 35, 36).
+In light of this, it is perhaps worthwhile noting that we have demonstrated recently that the DNA-PK requires DNA breaks in order to become activated efficiently in vitro , suggesting that it might be involved in mediating a response to DNA damage (11).
+In this report, we have used site-directed mutagenesis to establish the sequence requirements for DNA-PK mediated phosphorylation.
+We demonstrate that the main determinant for a DNA-PK recognition site is the sequence Ser-Gln.
+Recently,in vitro peptide phosphorylation assays have suggested that basic residues close to potential DNA-PK sites can inhibit the activity of the enzyme (9).
+However, in c-Jun, Ser-249 lies immediately N-terminal to the basic DNA binding region but it is still an excellent substrate for the DNA-PK.
+In this regard, it is intriguing to note that both Glu-248 and Glu-251 of c-Jun are required for optimal phosphorylation efficiency by the DNA-PK.
+Perhaps the acidic nature of these residues overcomes the negative effects of the adjacent basic region.
+Interestingly, we have noted that many known and potential DNA-PK recognition sites in other factors are also flanked by acidic residues.
+Although we have identified a recognition sequence for the DNA-PK, this does not necessarily mean that the kinase is unable to recognise other types of sequence.
+Indeed, it has been shown recently that the carboxy-terminal domain (CTD) of the largest subunit of RNA polymerase II lacks Ser/Thr-Gln motifs and yet can be phosphorylated by DNA-PK in vitro (37).
+A number of other transcription factors are known substrates for the DNA-PK, including Sp1, Oct-1, Oct-2, c-Myc, SRF, c-Fos, p53 and the chicken progesterone receptor (3-9).
+Our results now make it relatively straightforward to predict where phosphorylation might be occurring in these proteins.
+Indeed, each of these proteins contains one or more Ser-Gln motifs.
+In addition, our findings should help identify other DNA-PK substrates.
+For example, we have noted that many other transcription factors contain Ser-Gln sequences, including E2F, BZLF1, MyoD, TFE3 and Oct-4 (38-42).
+Although we predict that many of these sites are DNA-PK phosphorylation sites, we do not expect all Ser-Gln motifs to serve as DNA-PK recognition elements.
+For instance, since the DNA-PK appears to be restricted to DNA-bound substrates, non-DNA-binding proteins that bear Ser-Gln motifs are unlikely to be recognised by the DNA-PK in vivo .
+Furthermore, as discussed above, basic residues in close proximity to Ser-Gln sequences may sometimes render these sites inaccessible to the DNA-PK.
+In addition, protein structure, post-translational modification, or interaction with other proteins may affect site recognition.
+Indeed, such mechanisms might actually be employed by the cell in some cases to regulate the accessibility of sites to the DNA-PK.
+Figure 1.
+Jun-Core is phosphorylated by a DNA-dependent kinase in HeLa nuclear extracts.
+A. Schematic representation of the c-Jun protein.
+The previously defined in vivo activation regions of c-Jun are indicated.
+These consist of the HOB1 and HOB2 motifs (30) and regions A1 and A2 (29).
+Also shown are the regions of the c-Jun protein which were expressed in E.coli and assayed in this report.
+B. Phosphorylation of bacterially-synthesised proteins.
+The bacterially-synthesised proteins, as indicated, were incubated with HeLa cell nuclear extract and γ 32 P-[ATP] in the presence (+) or absence (-) of DNA, then subjected to SDS-PAGE followed by autoradiography.
+The position and sizes of molecular weight standards are indicated.
+The apparent molecular weight of the bacterially produced proteins in SDS gels are as follows; Jun1-193, 17 kDa; Jun-Core, 14 kDa; Fos-Core7 (Fos, amino acids 124-200) 12 kDa.
+Equal amounts of each protein (250 ng), as judged by Coommassie Blue staining, were used in each reaction.
+The high molecular weight proteins phosphorylated in this experiment are proteins endogenous to the nuclear extract (lanes 7 and 8).
+The low level of phosphorylation observed in the absence of DNA in lane 3 could either be due to the presence of trace DNA in the extract or Jun protein preparation, or may be due to non DNA-dependent kinases in the extract.
+C. Jun residues 1-193 are phosphorylated inefficiently even when tethered to DNA through a heterologous DNA binding domain.
+Bacterially-synthesised proteins GST-GAL4[1-147] (lanes 1 and 2) and GST-GAL4[1-147]-Jun [1-193](lanes 3 and 4) were incubated with HeLa cell nuclear extract and γ 32 P-[ATP] in the presence (+) or absence (-) of DNA, then subjected to SDS-PAGE followed by autoradiography.
+The fact that the GAL4-Jun derivative is phosphorylated more efficiently than the GAL4 derivative is presumably due to the presence in the extract of kinases, such as MAP kinases, that phosphorylate the N-terminal region of Jun.
+Figure 2.
+Purified DNA-PK phosphorylates Jun-Core.
+Highly purified DNA-PK was used in the standard kinase assay with the following substrates; Bacterially-expressed Jun-Core (lanes 1 and 2), Sp1 (lanes 3 and 4: ref. 4) and Fos-Core (lanes 5 and 6).
+The reactions were performed in the absence (-) or presence (+) of DNA and then subjected to SDS-PAGE with subsequent autoradiography.
+The expected position of each protein is indicated.
+Figure 3.
+Ser-249 of c-Jun is required for phosphorylation by the DNA-PK.
+A. Amino acid sequence comparison of wild-type Jun-Core and the mutant Jun-Core S  A .
+The open box indicates the Ser-Gln motif.
+The underlined amino acid corresponds to the change introduced into Jun-Core.
+B. Mutation of Ser-249 severely reduces the DNA-PK phosphorylation of Jun-Core.
+Bacterially-expressed Jun-Core and Jun-Core S  A were used in a kinase assay with purified DNA-PK.
+Both reactions were performed in the presence of DNA and then subjected to SDS-PAGE with subsequent autoradiography.
+Figure 4.
+Characterisation of the DNA-PK recognition motif.
+Bacterially-expressed Jun-Core and Jun-Core mutants (mutated to alanine at the positions indicated) were used in a kinase assay with purified DNA-PK.
+All reactions were performed in the presence of DNA and then subjected to SDS-PAGE.
+The positions of the proteins were determined by autoradiography, the bands excised from the gel, and 32 P incorporation determined by liquid scintillation counting.
+Figure 5.
+The DNA-PK recognition motif in c-Jun functions in the context of a different protein.
+A. Amino acid sequence comparison of wild type Fos-Core and the mutant Fos-Core-ESQE.
+The underlined amino acids correspond to the changes introduced into Fos-Core.
+B. Introduction of a Glu-Ser-Gln-Glu motif into Fos-Core converts the protein into an efficient DNA-PK substrate.
+Bacterially-expressed Fos-Core and Fos-Core-ESQE were used in a kinase assay with purified DNA-PK.
+Both reactions were performed in the presence of DNA and then subjected to SDS-PAGE with subsequent autoradiography.
+Although previous studies indicate that DNA binding by the substrate potentiates DNA-PK mediated phosphorylation (4), it is clearly not essential because the non DNA binding proteins hsp90 and casein are DNA-PK substrates in vitro (4, 6, 9-11).
+Furthermore, though the Fos-Core region does not bind DNA effectively alone, it does contain a basic region and has been shown to bind DNA non-specifically.
+These considerations may explain the relatively efficient phosphorylation of Fos-Core-ESQE by the DNA-PK.
+Figure 6.
+Jun DNA binding sites enhance DNA-PK activity but phosphorylation does not affect c-Jun DNA binding.
+A. The presence of c-Jun DNA binding sites stimulates DNA-PK activity.
+Bacterially-synthesised Jun-Core was used in a kinase assay with purified DNA-PK.
+The kinase reactions were performed in the absence or presence of linearised DNA as indicated.
+Plasmid pLSO.CAT has been described previously (26).
+Plasmid pLSO.CAT; 2FSE is pLSO.CAT containing two copies of the Fat-Specific Element to which c-Jun binds (24, 25).
+Following incubation, the reactions were subjected to SDS-PAGE with subsequent autoradiography.
+B. Phosphorylation of Jun-Core by the DNA-PK does not inhibit DNA binding.
+Bacterially-synthesised Jun-Core was mixed with kinase buffer containing 200 ng of linear DNA.
+Reactions were incubated in the presence or absence of the DNA-PK and/or ATP.
+After incubation a 32 P-labelled double-stranded oligonucleotide containing an FSE site was added and the reactions incubated further.
+Samples were then subjected to an electrophoretic mobility shift assay as described previously (24).
+The specific Jun/DNA complex (SC) and a non-specific complex (NSC) are indicated.
+Kinase reactions were perfomed such that the DNA-PK phosphorylated over 50% of the Jun-Core protein as judged by a kinase-induced mobility-shift of phosphorylated Jun-Core as observed by SDS-PAGE and Coommassie Blue staining.
+Visualising the kinetics of dissociation of actinomycin from individual sites in mixed sequence DNA by DNase I footprinting
+ABSTRACT
+We have investigated the kinetics of dissociation of actinomycin D from DNA by a variation of the footprinting technique.
+Complexes of actinomycin with a radiolabelled DNA fragment (tyr T) were dissociated by addition of a large excess of unlabelled calf thymus DNA and the mixture subjected to DNase I footprinting at subsequent intervals.
+The rates at which the footprints disappeared varied between the different binding sites.
+The dissociation was temperature dependent with average time constants of 30 s, 10 mins and 2 hours at temperatures of 37°C, 20°C and 4°C respectively.
+The dissociation from a DNA fragment containing the synthetic insert T 9 GCA 9 was significantly faster, with a half-life of about 1 min at 20°C.
+In contrast, the dissociation of distamycin was too fast to measure (<5 s) even at 4°C.
+INTRODUCTION
+The antitumour antibiotic actinomycin D binds to DNA by intercalation of its phenoxazone chromophore, unwinding the helix by 26° [1,2].
+Various footprinting studies have shown that it is selective for the dinucleotide GpC [3-5].
+This is confirmed by both NMR [6,7]and X-ray crystallographic studies [8,9]which have revealed that the specificity arises from the formation of hydrogen bonds between the carbonyl oxygens of the threonines and the 2-amino group of guanine.
+The kinetics of the interaction are less well understood and are known to be a complex process.
+The association reaction requires up to five exponential terms for its complete description, the longest of which has a half life of several minutes [1,10-12].
+The dissociation reaction from natural DNAs can be described by up to three exponential terms with half-lives ranging between 10-1000 seconds [1,12-14].
+The origins of the slow association steps remain obscure; several suggestions have been made including slow intramolecular conversions in the antibiotic [1]or the polynucleotide backbone [10]or a mechanism involving shuffling of the antibiotic between available DNA binding sites [12,15].
+In contrast the complexity of the dissociation reaction originates from parallel dissociation of the drug from different binding sites on the heterogeneous DNA lattice [13,14].
+These studies have shown that dissociation from synthetic DNAs, such as poly(dG-dC), is described by a single exponential [14-16]whereas dissociation from natural DNAs is a complex function in which the proportions of the various time constants vary according to the input ratio of drug and DNA [13].
+At low drug concentrations most of the ligand is bound to its preferred sites and the dissociation profile is dominated by the slow component.
+At higher drug concentrations more of the drug is bound to weaker sites and the dissociation profile contains a greater proportion of faster components.
+The dissociation from synthetic oligonucleotides containing single or identical GC sites is also described by a single exponential function [16-19].
+A similar pattern has been observed with the CG-selective quinoxaline antibiotics [20,21].
+Although the faster dissociation steps must represent dissociation from weaker sites it is not clear whether these correspond to non-GpC sites or a weaker subset of GC sites.
+Indeed the single exponential dissociation from poly(dG-dC) is faster than the slowest component from natural DNA species [13].
+Several studies have shown that the base pairs surrounding its GC-binding site affect the binding of actinomycin.
+In vitro transcription studies showed strongest inhibition by actinomycin at XGCY, where X and Y can be any base except G and C respectively [22].
+Similarly our own footprinting studies have suggested that actinomycin binding can be potentiated by flanking regions of (GT)n .
+(AC)n [23].
+In a series of studies with synthetic DNA fragments Chen has shown that actinomycin dissociates very slowly from TGCA in the sequence ATATGCATAT (), about four times slower than from similar decamers containing AGCT and CGCG sequences and over 100 times slower than from GGCC [17].
+In general GC sites which are preceded by G or followed by C (such as GGCT/AGCC, GGCA/TGCC, and GGCG/CGCC) exhibit dissociation times which are an order of magnitude faster than those from sequences such as AGCA/TGCT.
+AGCG/CGCT, CGCA/TGCA [18,19].
+In this paper we investigate the dissociation of actinomycin from each of its binding sites on a natural DNA fragment (tyr T DNA) by a modification of the footprinting technique.
+Previous DNase I footprinting studies with this DNA fragment have shown that actinomycin binds to all the potential GC sites with similar affinity and that it modifies the structure of surrounding regions of DNA [3].
+In this method the drug is dissociated from a radiolabelled DNA fragment by addition of a vast excess of unlabelled DNA.
+By footprinting the reaction mixture at various times after this addition it is possible to visualise the dissociation of the antibiotic from each of its binding sites on a heterogeneous DNA lattice.
+These results are compared with one other natural DNA fragment and a synthetic fragment containing the insert T 9 GCA 9 as well as the minor groove binding ligand distamycin.
+MATERIALS AND METHODS
+Drugs and enzymes
+Actinomycin D and distamycin were purchased from Sigma and stored as solutions in 10mM Tris-HCl pH 8.0 containing 10mM NaCl.
+Actinomycin was stored as a 1mM stock at 4°C; distamycin was stored as a 2mM solution at -20°C.
+Both antibiotics were diluted to working concentrations immediately before use.
+Calf thymus DNA was purchased from Sigma and dissolved in 10mM Tris-HCl pH 8.0 containing 1mM EDTA at a concentration of about 4mg/ml; this was stored at -20°C.
+DNA concentrations were determined on the basis of ε 260 = 13200 litre.mol -1 .
+cm -1 (base pairs).
+DNA fragments
+The 160 base pair tyr T DNA fragment prepared from plasmid pKMΔ-98 as previously described and labelled at the 3'-end of the Eco R1 site [3].
+Ptyr 2 DNA was prepared from plasmid pMLB1045 as previously described [24]and labelled at the 3'-end of the Eco R1 site.
+The pUC19 polylinker containing a dimeric insert of T 9 GCA 9 , cloned into the Sma I site, was prepared as previously described [25]and labelled at the 3'-end of the Hin dIII site.
+The labelled tyr T DNA fragments of interest were separated from the remainder of the plasmids on 6% polyacrylamide gels.
+Kinetic footprinting
+Samples for footprinting were prepared by mixing 9µl of radiolabelled DNA (about 50pmol base pairs) with 9µl of actinomycin, dissolved at an appropriate concentration (typically 40µM) in 10mM Tris-HCl pH8.0 containing 10mM NaCl.
+Since the association reaction of actinomycin has been shown to contain several slow steps [1,10-12]this mixture was left for at least 30 minutes to ensure equilibration of the drug and DNA.
+Dissociation of the antibiotic from the DNA was initiated by adding 10µl calf thymus DNA (6mM base pairs).
+4µl aliquots were removed from this mixture at various times and digested with 2µl DNase I (150units/ml dissolved in 2mM MgCl 2 , 2mM MnCl 2 , 20mM NaCl).
+The digestion reaction was stopped after 12 seconds by addition of 4µl formamide containing 10mM EDTA and 0.1% (w/v) bromophenol blue.
+The footprinting pattern of the mixture at equilibrium was determined by mixing the radiolabelled DNA with calf thymus DNA before addition of the antibiotic and digesting in the same manner.
+Digestion patterns of the native DNA and the complex before dissociation were obtained in the usual manner by mixing 1.5µl radiolabelled DNA with 2µl drug and digesting for 1 minute with 2µl DNase I (0.03 units/ml).
+Electrophoresis
+All samples were heated to 95°C for 3 minutes prior to electrophoresis.
+The products of digestion were resolved on 8% 40cm long polyacrylamide gels containing 8M urea.
+Gels were run at 1500V for about 2 hours.
+These were then fixed in 10% acetic acid, transferred to Whatmann 3MM paper, dried under vacuum at 80°C and subjected to autoradiography at -70°C with an intensifying screen.
+Bands in the digests were assigned by comparison with Maxam-Gilbert dimethylsulphate-piperidine markers specific for guanine or by comparison with previously published cleavage data.
+RESULTS
+TyrT DNA
+Figure 1 presents the time course of dissociation of actinomycin from tyr T DNA measured at three different temperatures.
+The DNase I footprinting pattern has previously been described [3]and shows 5 clear regions of protection, each of which is centred around one or more GpC sites.
+This fragment contains 10 GpC steps, which are numbered in the sequence presented in Figure 2.
+Sites 2, 3 and 4 overlap to yield a single footprint between positions 68-79, as do sites 5, 6 and 7 (positions 90-105) and sites 8 and 9 (positions 112-122).
+The last lane of the data for 4°C and 37°C show the footprinting pattern obtained when the radiolabelled tyr T and unlabelled calf thymus DNA are mixed before adding actinomycin.
+This pattern is essentially the same as that seen in the absence of actinomycin and confirms that at equilibrium insufficient actinomycin is bound to tyr T to produce a footprint.
+The other lanes show the time course of the dissociation from which it can be seen that there are time dependent changes in the footprinting pattern which eventually becomes like that of the control.
+This must reflect the rate of dissociation of the drug from the unlabelled DNA.
+Looking first at the data obtained at 37°C a clear footprint can be seen around site 1 (positions 32-38) in the sequence CGCA, which is still apparent 30 seconds after adding the unlabelled DNA.
+One minute after mixing this footprint is no longer evident and the pattern resembles that in the control.
+A similar effect is seen for the large footprints corresponding to sites 2, 3 and 4 and sites 5, 6 and 7.
+A similar pattern is seen at 20°C except that the pattern changes more slowly.
+DNase I digestion products within site 1 reappear after 5 minutes.
+The kinetic profile at sites 2-4 is slightly different.
+The uppermost strong band, towards the 5'-end of the footprint (position 77), is protected by the antibiotic (time 0), and reappears 1 minute after adding the cold DNA.
+In contrast other bands within this large footprint are only apparent at the longest incubation times (positions 69-73).
+This footprint contains three potential overlapping actinomycin binding sites which must therefore be characterised by different dissociation parameters.
+This will be considered further in the Discussion.
+The profile at sites 5-7 is similar to that at site 1 though a little slower since digestion products are only visible 10-30 minutes after initiating the dissociation.
+The footprints at sites 8 and 9 disappear very slowly; digestion products are barely visible even 30 minutes after mixing.
+The footprints obtained at 4°C show a similar, though slower, rate of change.
+In general the footprints are less clear at this lower temperature, possibly because of weaker drug binding as noted in some footprinting studies with some synthetic DNA fragments [25].
+The footprint at site 1 is no longer evident 60 minutes after mixing, whereas that at sites 2-4 requires 2 hours before the pattern returns to that of the control.
+As noted at 20°C bands towards the upper (5') -end of this site (position 77) reappear earlier than those towards the lower end.
+The pattern at the other sites returns to that of the control between 1 and 2 hours.
+Ptyr2 DNA
+Figure 3 presents the kinetics of dissociation of actinomycin from pTyr 2 DNA, measured at 20°C.
+Actinomycin produces four clear regions of protection each of which are centred around one or more of the 9 GpC sites.
+Sites 2, 3 and 4 overlap to yield a single footprint between positions 36-49, as do sites 6, 7 and 8 (positions 94-107).
+The last lane shows the footprinting pattern obtained when the radiolabelled DNA fragment is mixed with the unlabelled calf thymus DNA before adding actinomycin.
+This pattern is essentially the same as produced in the absence of actinomycin and confirms that at equilibrium insufficient drug is bound to the DNA to produce a footprint.
+The other lanes show the time course of the dissociation.
+Once again the control cleavage pattern reappears very slowly so that at several sites the reaction is not complete even after 30 minutes.
+This is especially noticeable for the large footprint produced by the overlapping of sites 2-4 and the isolated GC at site 5 (positions 76-82).
+Within the footprint between 36-49 the two strong bands at positions 46 and 47, immediately above site 4, begin to reappear between 10 and 30 minutes, whereas the remainder of this large footprint is unaffected even after 30 minutes.
+This may suggest that dissociation from site 4 is faster than sites 2 and 3.
+Dissociation from the isolated sites 1 and 5 is also very slow; the DNase I footprints are only slightly reduced at the longest time point (30 minutes).
+In contrast the drug appears to dissociate much faster from sites 6-8, although this region is not well resolved on the gel.
+Indeed the footprint at site 6 (95-100) is weak even before dissociation and the bands in this region have resumed their original intensity and pattern by 5 minutes.
+Cleavage products from the upper part of the footprints from sites 7 and 8 are also visible by 10 minutes, though the central part of this region has not returned to the control pattern even after 30 minutes.
+For this fragment the rates of dissociation in order of decreasing rate appear to be 6>8>4 = 1 = 5>7 = 3 = 2.
+T 9 GCA 9 
+The studies with tyr T and ptyr 2 DNA suggest that actinomycin dissociates from each of its GC binding sites with rates that vary according to the surrounding sequences.
+We have therefore begun a series of experiments, using synthetic DNA fragments containing isolated GC sites, to investigate the precise effect of local DNA sequence on the dissociation rate.
+Figure 4 shows the dissociation of actinomycin from a DNA fragment containing the sequence T 9 GCA 9 performed at 20°C.
+This insert was cloned as a dimer within the Sma I site of the pUC19 polylinker and has previously been used for studying the effect of actinomycin on the structure of the surrounding blocks of A n .
+T n [25].
+DNase I cleavage of the naked DNA is poor within the A n .
+T n tracts; the only strong bands correspond to cleavage of the central TTGCA.
+In the presence of actinomycin a clear footprint is evident around the central GpC with enhanced DNase I cleavage on both sides within the A n and T n tracts as previously reported [23].
+Addition of unlabelled DNA causes the footprint to disappear in a time dependent fashion.
+The five good cleavage products evident in the conrol have reappeared with similar intensity and pattern within 5 minutes of beginning the reaction.
+This suggests that the dissociation half life from this sequence is between 1-2 minutes, faster than that seen at any of the sites in the natural DNA fragment under similar conditions.
+This will be considered further in the Discussion.
+The intensity of the enhanced bands also varies in a time dependent fashion, but surprisingly this is slower than the disappearance of the footprint, so that some enhanced products are still evident even after 30 minutes.
+This effect will be considered further in the Discussion.
+Distamycin
+We have also attempted to use this method to investigate the dissociation of the minor groove binding agent distamycin from DNA.
+Although there are no SDS-sequestration data on the dissociation of the minor groove binding drugs, since they do not have suitable absorbance spectra, NMR exchange rates suggest that they are in rapid exchange with the DNA [26].
+The results of such an experiment, performed at 4°C to slow the reaction, are presented in Figure 5.
+The DNase I footprinting patterns of this antibiotic on tyr T DNA have been previously described [3]and are located within each of the AT-rich regions.
+Figure 5 shows that the cleavage pattern has returned to that in the control by the first time point (20 seconds) and confirms that this antibiotic dissociates from DNA much more rapidly than actinomycin.
+DISCUSSION
+The results presented in this paper demonstrate that the footprinting technique can be successfully used to visualise the dissociation of actinomycin from individual sites on a mixed sequence DNA.
+As previously suggested by SDS sequestration techniques [1,12-19], the dissociation reaction is slow, with a half-life of about 20 minutes at 20°C.
+The dissociation from each GC site is not the same but varies in a manner which must reflect the nature of the surrounding base pairs.
+Comparison with SDS sequestration
+Muller and Crothers [1]measured the dissociation of actinomycin D from calf thymus DNA by SDS-sequestration at a drug/phosphate ratio of about 0.006 (25°C) and resolved the decay into three time constants of 12 s, 44 s and 570 s.
+Fox and Waring [12]also showed that at low drug/DNA ratios the dissociation from calf thymus was characterised by two time constants with values of 86 s (32%) and 1800 s (68%).
+At higher drug/DNA ratios the proportion of the decay represented by the longest species decreased and a third intermediate component was evident.
+Similar values for the dissociation from natural DNAs have been found by other workers [13,14].
+How do the data presented in this paper compare with these values?
+The dissociation times that we observe at 20°C vary between about 60 s (from T 9 GCA 9 ) and 30 mins (from several sites in natural DNA fragments), each of which is from a GC site.
+The slowest time constant, measured by SDS sequestration, is similar to the slowest dissociation rate seen with DNase I footprinting.
+However it seems that the slowest time constant represents only a subset of the GC sites since we observe dissociation from some GC sites at rates closer to the faster species.
+We are therefore of the opinion that the faster two components seen in the SDS-sequestration technique correspond to a weaker subset of GC sites and possibly other non-GC sites as well.
+DNase I enhancements
+The observation that the DNase I enhancements seen in the A n .
+T n tracts of T 9 GCA 9 persist for a relatively long time adds further weight to the suggestion that these are caused by ligand-induced alterations in local DNA structure, rendering it more susceptible to attack by this nuclease.
+If these were merely caused by a redistribution of the enzyme away from the bound sites onto these regions, as suggested by Ward et al .
+[27,28]then addition of the vast excess of unlabelled DNA should cause them to disappear almost immediately.
+In addition these dissociation profiles appear to demonstrate that the enhanced DNase I cleavage disappears more slowly than the actual footprint.
+This suggests that the DNA structure relaxes back to its native form more slowly than the dissociation of the drug.
+Although this may seem surprising it is similar to some of the dissociation profiles seen with poly(dG-dC) [13].
+Krugh et al .
+[13]showed that although the dissociation from poly(dG-dC) is completely described by a single exponential, the time constant varies according to the starting ratio of drug to DNA so that the dissociation becomes slower at higher occupancy.
+This is difficult to explain since when a fully saturated complex is half dissociated it will have the same occupancy as a complex generated at half saturation.
+Nevertheless the two apparently identical complexes behave in different ways.
+Krugh et al [13].
+suggested that this might be because actinomycin had induced a change in local polynucleotide structure which in some manner slowed the dissociation of further drug molecules.
+If relaxation from this perturbed structure is slow, compared with the drug dissociation time, then the dissociation should still be a single exponential with a time constant characteristic of the starting conditions.
+This suggests some form of hysteresis in the DNA structure so that its exact behaviour depends on its history.
+Effect of local sequence on dissociation parameters
+These dissociation curves reveal that the rate constants for dissociation from each GC site are not identical but vary according to the surrounding sequences.
+The fastest dissociation that we observe is from TGCA in T 9 GCA 9 , despite the fact that studies using synthetic polynucleotides of the type (AT)n GC(AT) n revealed that dissociation from TGCA was slower than from all other sites [17].
+Our previous work has shown that actinomycin binding to T 9 GCA 9 is different to (AT)n GC(AT) n since the footprinting with the former cannot be detected at 4°C [25].
+The precise values for the dissociation constants may therefore not simply be a function of the tetranucleotide context within which the GC site is located, but will be determined by long-range DNA structure.
+Previous SDS-sequestration studies using synthetic oligonucleotides have suggested that a proximal G or distal C increases the rate of dissociation from GC sites by as much as an order of magnitude [19].
+Do our results confirm this hypothesis?
+Ptyr 2 DNA contains only one such site, position 6 (TGCC), from which actinomycin does indeed dissociate more rapidly than the other sites.
+The situation is more complicated with tyr T since although this fragment contains three such weaker sites: site 3 (GGCG), site 6 (CGCC) and site 9 (GGCC) each of these is contained within a cluster of two or three GC sites.
+This overlap of potential sites complicates the analysis for two reasons.
+Firstly Chen [18]has shown that binding to GGCC in CATGGCCATG is slower than to TATGGCCATA and suggested that this might be because actinomycin molecules, stacking at the ends of the former duplex, can alter the DNA structure so as to facilitate further drug binding.
+Since each of the supposedly weak sites in tyr T DNA is adjacent to a much better site the weaker binding might be removed by this cooperative interaction.
+This also means that it is not possible to compare the dissociation from isolated GC sites with that from clusters of such sites which may be stabilised by cooperative interaction.
+Secondly when potential actinomycin binding sites are in close proximity (for example in GCGC) only one of the potential sites can be occupied at a time.
+Although some NMR studies have shown that it is possible to bind two actinomycin molecules to the tetranucleotide GCGC [29], binding of the second molecule is highly anticooperative and it is generally believed that the exclusion site size for actinomycin, under normal conditions, is at least 4 base pairs [1].
+Sites 2-4 are clustered together in the sequence AGCGGCGCGT so that binding to the central GC (site 3) will preclude binding to the other two.
+The optimum binding configuration permissible should therefore place the ligand molecules on sites 2 and 4, excluding binding at the supposedly weaker site 3.
+The lack of any faster dissociation species from this large footprint does not necessarily mean that each of the 3 available sites have long dissociation times, but that binding to site 3 may be excluded for steric reasons as well.
+A similar explanation means that binding to site 5 may occlude binding to site 6.
+For these reasons we intend to perform future studies on DNA fragments containing isolated actinomycin binding sites.
+Nonetheless it is possible to make some observations concerning the relative dissociation rates from some of the sites.
+Within the cluster of sites 2-4 cleavage at position 77 reappears earlier than any of the lower bands suggesting that dissociation from site 4 is faster than from site 2 (site 3 is occluded as described above); i.e. actinomycin dissociates from CGCG faster than from AGCG.
+Similar comparisons for ptyr 2 DNA reveal that dissociation from site 4 is faster than site 2 (site 3 will be occluded due to site overlap).
+The difference between these two sites is surprising since they contain the same tetranucleotide sequence (CGCA/TGCG) and may suggest that longer range structural factors play a role in the dissociation rate.
+The upper part of the footprint at sites 7 and 8 reappears faster than the lower portion, suggesting that actinomycin dissociates from site 8 faster than site 7.
+This analysis is complicated by the overlap between these two sites meaning that only one GC can be occupied at a time.
+However in this instance there is no a priori reason for binding to one rather than the other, so we assume that both sites are equally occupied.
+The faster reappearance of bands at the upper (5') side of this footprint therefore suggests that actinomycin dissociates from CGCG faster than CGCT.
+Chen [17,18,20]has measured actinomycin dissociation kinetics from a series of oligonucleotide sequences of the type ATAXGCYTAT and ATAXGCYATA and shown the following time constants CGCT/AGCG, 600 s; CGCA/TGCG, 1000 s; CGCG 850 s.
+By comparison we find that actinomycin dissociates from CGCG faster than ACGCA/TGCG at two different locations.
+This may serve to emphasise the effects of local sequence and structure on the dissociation parameters since those that have been rigorously determined with synthetic oligonucleotides are all flanked by short regions of alternating A and T residues.
+Groove binders
+The observation that distamycin dissociates from its preferred binding site at a rate too fast to observe by this footprinting technique is not surprising, but serves to emphasise the different means by which the groove binders achieve specific sequence recognition.
+We estimate that the dissociation time for distamycin at 4°C (<10 s) must be at least 500 times faster than that of actinomycin under similar conditions.
+Since the measured equilibrium binding constants for distamycin to DNA are approximately 10-fold higher than those of actinomycin [30], the groove binders must have faster association rate constants.
+This may not be surprising since distamycin binds by displacing a spine of hydration within the DNA minor groove whereas intercalators necessarily require some distortion of the DNA helix before complete binding.
+Figure 1.
+DNase I digestion patterns of actinomycin- tyr T DNA complexes at various times after the addition of an excess of calf thymus DNA.
+The temperature is shown at the top of each set of lanes.
+Tracks labelled ‘con’ correspond to digestion of DNA in the absence of the antibiotic, those labelled ‘0’correspond to digestion in the presence of 20µM actinomycin without addition of the unlabelled competitor DNA.
+Other lanes show the time (in minutes) after addition of unlabelled calf thymus DNA to a complex containing 20µM actinomycin.
+The lanes labelled ‘eq’ were obtained by mixing the labelled tyr T DNA and the unlabelled calf thymus DNA before addition of the antibiotic and correspond to the pattern at equilibrium.
+The tracks labelled ‘G’ are Maxam-Gilbert dimethylsulphate-piperidine markers specific for guanine.
+Figure 2.
+Sequence of tyr T and pTyr 2 DNA fragments.
+The sequence is presented reading from 3'-5', the GpC sites are underlined and numbered as described in the text.
+The numbering scheme shown under each sequence corresponds to that previously described [3,24].
+Figure 3.
+DNase I digestion patterns showing the dissociation of 20µM actinomycin from p tyr 2 DNA at 20°C.
+All other details are as for Figure 1.
+Figure 4.
+DNase I digestion patterns showing the dissociation of 20µM actinomycin from the Hin dIII- Eco R1 pUC19 polylinker fragment containing a dimeric insert of T 9 GCA 9 .
+The square bracket shows the position of the insert.
+The arrows indicate the positions of the guanine residues in each half of the dimer.
+The experiment was performed at 20°C.
+All other details are as for Figure 1.
+Figure 5.
+DNase I digestion patterns showing the rapid dissociation of 10µM distamycin from tyr T DNA, performed at 4°C.
+All other details are as for Figure 1.
+Duplicated KOX zinc finger gene clusters flank the centromere of human chromosome 10: evidence for a pericentric inversion during primate evolution
+ABSTRACT
+Two related zinc finger (ZNF) gene clusters from the pericentromeric region of human chromosome 10, defined by cDNAs of the KOX series, have been cloned in yeast artificial chromosomes (YACs).
+The two clusters evolved by duplication of an ancestral gene cluster before the divergence of the human and great ape lineages.
+Included in cluster A are the ZNF gene sequences ZNF11A ,ZNF33A , and ZNF37A , while cluster B comprises the related sequences ZNF11B ,ZNF33B and ZNF37B .
+Genes from both clusters are expressed: cDNAs KOX2, KOX31 and KOX21 derive from ZNF11B ,ZNF33A and ZNF37A , respectively.
+Further YACs have been isolated which link ZNF11A and ZNF33A to another gene,ZNF25 , defined by cDNA clone KOX19.
+Therefore ZNF25 also forms part of cluster A, but has no counterpart in cluster B. Surprisingly, the KOX ZNF gene clusters are located on opposite sides of the centromere: cluster A maps to 10p11.2, while cluster B is in 10q11.2.
+This suggests the occurrence during primate evolution of a previously undescribed pericentric inversion subsequent to the cluster duplication.
+The evolution of this subset of KOX ZNF genes has therefore involved three types of genetic event: local gene duplication, gene cluster duplication, and chromosome rearrangement.
+INTRODUCTION
+The pericentromeric region of human chromosome 10, 10p11.2-q11.2, has aroused considerable interest since it was shown to contain the genes for the inherited cancer syndromes multiple endocrine neoplasia (MEN) types 2A and 2B (1,2).
+To facilitate the cloning of the MEN 2 genes, physical mapping and cloning projects in the pericentromeric region of chromosome 10 were initiated.
+Relatively few cloned genes have been assigned to 10p11.2-q11.2, but these include several zinc finger (ZNF) protein genes (3-5).
+ZNF proteins contain ‘finger’ motifs consisting of approximately 30 amino acids which coordinate a zinc ion, and were first described in the Xenopus transcription factor IIIA (6,7), but have been shown to be present in species as diverse as Drosophila and man.
+The ZNF gene family may consist of several hundred members in the human genome (8,9), and includes examples which have been implicated in the control of cell growth and differentiation (10,11).
+We have begun to characterise several of the ZNF genes located in the region 10p11.2-q11.2 which are defined by the KOX series of cDNAs (9).
+The KOX2 cDNA clone has been shown to hybridise to two loci in the pericentromeric region of human chromosome 10, one of which (ZNF11A ) was assigned to 10p11.2-q11.2, while the second (ZNF11B ) could be mapped more precisely, to 10q11.2 (5).
+Because both loci hybridise with the KOX2 probe under stringent conditions, it was hypothesised that ZNF11A and ZNF11B are highly related and have arisen by an evolutionarily recent duplication.
+This hypothesis was tested and confirmed here by cloning both ZNF11 loci and comparing their sequences.
+Furthermore, we have also explored at the molecular level the question of clustering of ZNF genes, since many such genes have been shown to share similar chromosomal locations using somatic cell hybrid and cytogenetic mapping (eg. refs. 12-14).
+Finally, we have shown that our results have implications for the evolution of human chromosome 10 and for the organisation of genes around its centromere.
+MATERIALS AND METHODS
+Yeast artificial chromosomes (YACs)
+The Washington University YAC library (15) was screened by hybridisation of high density filters with the KOX2 (9) cDNA probe.
+Primary pools of the CEPH MkI YAC library were screened by PCR using primers K19A and K19B for ZNF25 , and primers 4113 and 4114 for ZNF33 sequences (see below).
+Secondary screens were performed by CEPH.
+Protocols for yeast handling, including agarose plug preparations and PFGE, have been described previously (16,17).
+PFGE was carried out using a BioRad (Richmond, CA) CHEF DRII system as described (18).
+YAC yA136E7 (∼400 kb) probably contains a co-ligated insert, since FISH experiments (see below) initially gave signals on 18q11.2 in addition to those on 10q11.2.
+In subsequent experiments, a signal on 1q25 was also observed, which probably indicates the presence of a second YAC in the yeast clone.
+Clone yA4C5 (220 kb) maps to 10p11.2, but the yeast isolate also contains a second contaminating YAC (∼330 kb) which gives FISH signals on 3q21.
+Polymerase chain reaction (PCR)
+All novel oligonucleotide primers were designed to amplify target DNAs under standard cycling conditions of 94°C 1 min, 55°C 1 min, 72°C in the buffer of ref. 19.
+For KOX2-related sequences, these primers were AK2A (5' AAATGCTGACTAAGGAACAAGGT 3'; positions 110-132 in Figure 2a) and AK2B (5' CCCTGTGTGTGTTCTCTGATG 3'; positions 1086-1066 in Figure 2a) giving a fragment of 977 bp; for KOX31-related sequences, 4113 (5' GCCATAAGTCAGCTCTAATTG 3'; positions 55-75 in Figure 2b) and 4114 (5' GCTTTACATTCCACAATATACATC 3'; positions 904-881 in Figure 2b) giving a fragment of 850 bp.
+For KOX21-related sequences, the oligonucleotide primers used were K21FOR (5' TGAAAAGTCAACCCTTACTCAAC 3'; positions 56-78 of the KOX21 cDNA sequence: accession number X69115) and K21REV (5' GGCAAAATGTTTCCTATATTCAT 3'; positions 974-952 of X69115) giving a fragment of 919 bp.
+Sequencing
+The United States Biochemical (Cleveland, OH) Sequenase kit was used throughout.
+The cDNA clones were sequenced from both ends using standard forward and reverse primers.
+Subsequently, specific primers as follows were used to complete the full length sequence: for KOX2, primers 748 (5' CAAGGTAATGTAATAGGAATA 3'; positions 127-147 of Figure 2a), ED1/K2 (5' GCATGATGAAACTCATAC 3'; positions 318-335), ED4/K2 (5' TATAATGAATTTGGGAGA 3'; positions 520-537), and ED7/K2 (5' AAGTTCTTATGTGTGAAG 3'; positions 619-636); for KOX31, primers 4113 NEST (5' ATTGTACATCAGAGAACCC 3'; positions 72-90 of Figure 2b), ED2/K31 (5' GTGGAAAAATCTTTTACC 3'; positions 292-309), ED5/K31 (5' TGGATATTAGAAATTTCC 3'; positions 454-471); for KOX21, primers K21NEST (5' TTACTCAACATCAAAGAACG 3'; positions 70-89 of X69115), ED3/K21 (5' GGAAGTCATTCTCTGAGA 3'; positions 295-312), and ED6/K21 (5' GAAAATCATTCTATGTTA 3'; positions 631-648).
+For direct sequencing of PCR fragments derived from YACs and cDNA clones, a biotinylated 3' PCR primer was used (AK2B for KOX2; 4114 for KOX31; K21REV for KOX21).
+The biotinylated fragments were purified with Dynatech magnetic beads coated with avidin, made single stranded, and sequenced using the above-listed primers, while attached to the beads as described (20).
+Gel readings were assembled into contigs using the IBI AssemblyLign program on Apple Macintosh computers.
+Sequence analysis was with the Macvector (IBI) and GCG packages.
+A partial sequence for the KOX2 cDNA was published previously (accession no.
+X52333) which contains two errors, corrected in this paper.
+The sequences presented in this paper have the accession numbers X68684-X68689, and X69115-6 (EMBL database).
+Divergence between related pairs of ZNF11 and ZNF33 sequences was calculated according to the two-parameter method of ref. 21.
+Somatic cell hybrids
+Hybrids TG3 and TK2 have been described (22).
+The subclones R342A4-B14, R342A4-B15 and R342A4-C3 were obtained from the human chromosome 10-only hybrid R342A4 (23) following spontaneous deletion or BUdR-induced mutagenesis (24).
+They were analysed by chromosome painting (Figure 4), and by PCR-based marker analysis which showed them to lack all 10q markers tested.
+Hybrid JF1-23B13 (25) was obtained from a fusion of hamster cell line Ade6 (CHO proline auxotroph) and human lymphoblasts carrying a balanced t (10; 21)(p11.2; q22.3) translocation (cell line GM06135; NIGMS Human Genetic Mutant Cell Repository, Camden, NJ).
+Cytogenetic analysis showed the hybrid to carry the translocation chromosome containing region 10pter-p11.2 and no other chromosome 10 material, although other human chromosomes were also present.
+Filter hybridisations
+Standard protocols (26) were followed for restriction digests, agarose gel electrophoresis and Southern blotting to nylon membranes (Zetaprobe, BioRad; or Hybond N, Amersham Life Sciences, Amersham, UK).
+Hybridisations resulting in the autoradiographs of Figures 1 and 5 were carried out in 3 saline sodium phosphate (SSPE), 10% dextran sulphate, 0.5% sodium dodecyl sulphate (SDS), Denhardt's and 100 µg/ml sonicated salmon sperm DNA at 65°C overnight.
+The final filter washes were in 0.2 saline sodium citrate (SSC), 0.1% SDS at 65°C.
+Probes were labelled according to ref. 27: inserts from KOX cDNAs (9) were excised and purified by two rounds of agarose gel electrophoresis before labelling.
+For the zoo blot of Figure 3, some DNAs were obtained from cell lines: human (4502), chimpanzee (GM03452; NIGMS, Camden), orangutan (EB185(JC)); ECACC, Porton Down), African green monkey (CV-1), dog (MDCK) and mouse (Rag).
+Other samples were purchased from Clontech (Palo Alto, CA): cow, pig, rabbit and chicken.
+The remainder were gifts from Drs W.Amos and J.Pemberton (Genetics, Cambridge).
+Chromosome painting/FISH
+Human metaphase chromosome spreads were obtained from PHA-stimulated normal lymphocytes using standard procedures (28).
+5-Bromodeoxyuridine (10µg/ml) was incorporated during the final 5 hours of culture.
+Biotinylated YAC and hybrid DNA was obtained by Alu-PCR using BK33 (29) or 517 (19) primers.
+The PCR products were ethanol-precipitated and 1 µg of DNA was digested with DNase I to produce fragments of 200-500 bp.
+The recovered pellet was dissolved in 10 µl TE buffer.
+Biotinylated probe DNAs were localised on R-banded normal male metaphase chromosomes by FISH according to procedures described elsewhere (Leversha et al., in preparation).
+The probe mix consisted of 0.5-1 µl labelled DNA, 1.5 µl sonicated placental DNA (10 mg/ml, Sigma) and 13 µl hybridisation buffer.
+Hybridisation was performed at 42°C overnight and the hybridised probe was detected using avidin-FITC, amplified by biotinylated anti-avidin and a further layer of avidin-FITC (30).
+The slides were counterstained with a mixture of 0.8 µg/ml DAPI and 0.4 µg/ml propidium iodide in buffered glycerol (31) and viewed with a Nikon Optiphot epifluorescence microscope.
+Images of banded chromosomes with superimposed FITC signal were collected using a MRC Lasersharp 600 confocal imaging system (BioRad).
+RESULTS
+Two unlinked clusters of related ZNF genes in chromosome region 10p11.2-q11.2
+Two ZNF11 loci, which both hybridise to a cDNA probe KOX2 (9), are located on opposite sides of a translocation breakpoint in 10q11.2 (5).
+They have been separated in a pair of somatic cell hybrids (TG3 and TK2; 22), each of which carries one of the reciprocal translocation chromosomes.
+Figure 1a shows the hybridisation pattern after Southern blotting of DNA from hybrids TG3 (containing 10pter-q11.2) and TK2 (containing 10q11.2-qter), compared to controls.
+ZNF11A , mapping above the translocation breakpoint, is represented by a 4.0 kb EcoRI fragment, while ZNF11B is seen as a band at 1.75 kb which maps below the breakpoint.
+In order to investigate the relationship of these genes to each other, yeast artificial chromosomes (YACs) were isolated by screening with the KOX2 cDNA probe.
+Two YACs, yA136E7 and yA4C5, were analysed in most detail.
+Digests of YAC DNA, probed with KOX2, show that yA4C5 contains the 4.0 kb EcoRI fragment from the ZNF11A locus, while yA136E7 contains the 1.75 kb EcoRI fragment corresponding to ZNF11B (Figure 1b).
+KOX2 also hybridises to a large but distinguishable BamHI fragment in each YAC (Figure 1c).
+Since yA136E7 and yA4C5 only contain a single KOX2-hybridising fragment in each case, it is unlikely that the two ZNF11 loci are closely linked in the genome.
+Four further ZNF cDNAs (KOX15, KOX19, KOX21 and KOX31; 9) have been cloned whose genes map to 10p11.2-q11.2 (3,5,12), and the possibility arises of a cluster of related genes in this area of the genome.
+The respective cDNAs were therefore hybridised against yA136E7 and yA4C5 DNAs.
+No hybridisation was detected with KOX15 (gene symbol ZNF22 ) or KOX19 (ZNF25 ) probes.
+However, both YACs contain sequences homologous to KOX21 (ZNF37 ) and KOX31 (ZNF33 )(Figure 1d, e), showing that there are linked ZNF37 and ZNF33 sequences at each ZNF11 locus, and suggesting clustering of ZNF genes.
+As with the KOX2 probe, the hybridisation patterns obtained with KOX21 and KOX31 are clearly different for each YAC, implying that although each ZNF37 and ZNF33 sequence is related, they in fact represent distinct genes.
+To distinguish these sequences, we have provisionally termed those linked to ZNF11A in 10p11.2-q11.2 ZNF37A and ZNF33A , while those linked to ZNF11B in band 10q11.2 are named ZNF37B and ZNF33B .
+These KOX ZNF gene clusters are, in turn, called cluster A and cluster B, respectively.
+The KOX31 cDNA hybridises to genomic BamHI fragments of identical size to those detected with the KOX2 probe (Figure 1c, e), suggesting close linkage of the ZNF11 and ZNF33 sequences in each YAC.
+The ZNF11 and ZNF33 sequences are clearly distinct, however, since other enzymes give different fragment sizes (12; and unpublished results).
+The long-range restriction map of one of the ZNF gene YACs, yA4C5, was constructed by pulsed field gel electrophoresis (PFGE), and is consistent with a close association of ZNF11A and ZNF33A sequences, since they are not separated by the restriction enzymes used (Figure 1f).
+In contrast,ZNF37A sequences are separated from ZNF11A and ZNF33A sequences by at least 35 kb in yA4C5.
+In summary, there are clearly two distinct loci in the pericentromeric region of chromosome 10, both containing sequences which hybridise to three ZNF gene cDNAs.
+These sequences are organised as clusters: cluster A consisting of ZNF11A ,ZNF33A and ZNF37A , while cluster B comprises ZNF11B ,ZNF33B and ZNF37B .
+Ths implies that an ancestral duplication event occurred during the recent evolution of the chromosome which encompassed a ZNF gene cluster in a region of at least several tens of kb.
+Genes from both KOX ZNF gene clusters are expressed
+The cDNA clones KOX2, KOX31 and KOX21 have been completely sequenced: KOX2 maintains an open reading frame throughout its length (1136 bp) which includes four complete ZNF domains and half of a fifth, represented in the 3' half of the cDNA (Figure 2a); KOX31 (972 bp) contains an open reading frame from its 5' end which encodes five ZNF domains before terminating (Figure 2b); KOX21 (1007 bp) also contains an open reading frame from its 5' end which encodes eight ZNF domains before terminating (accession number X69115).
+To determine the relationship between the cDNAs and their corresponding genomic loci, portions of the ZNF11 ,ZNF33 and ZNF37 sequences from both YACs yA4C5 and yA136E7 were amplified by polymerase chain reaction (PCR) and sequenced directly.
+For comparison, the cDNAs were also amplified and sequenced in the same experiments.
+In each case, PCR primers were chosen which gave products of identical size from both the cDNA from which they were derived and from genomic or YAC DNA.
+This avoided the problem of amplification of introns.
+For the KOX2-related sequences, a PCR fragment of 977 bp was generated from all three DNA sources (corresponding to positions 110-1086 of the KOX2 cDNA; Figure 2a).
+Sequence comparison of PCR fragments was carried out over 669 bp (positions 193-861; Figure 2a) using four specific sequencing primers (see Materials and Methods).
+There was an absolute correspondence of KOX2 cDNA and yA136E7 sequences, demonstrating that the ZNF11B gene in 10q11.2 is expressed.
+The ZNF11A sequence, as amplified from yA4C5, contains base changes at 26 positions (3.9%), which result in 18 amino acid replacements (8.1%).
+This confirms that, although ZNF11A and ZNF11B are closely related, they are clearly different genes.
+For the KOX31-related sequences, a PCR fragment of 850 bp was generated from all three templates (corresponding to positions 55-904 of the KOX31 cDNA; Figure 2b).
+Direct sequencing of PCR fragments over 255 bp (positions 348-602; Figure 2b) demonstrated identity of KOX31 cDNA and yA4C5 sequences, and therefore that ZNF33A is expressed.
+The ZNF33B sequence amplified from yA136E7 differed at 10 positions and also contained a single base insertion (position 439; Figure 2b).
+This changes the reading frame and truncates the corresponding protein, relative to that encoded by ZNF33A , due to a stop codon shortly after the insertion.
+For the KOX21-related sequences, a PCR fragment of 919 bp was generated from the cDNA and yA4C5 (corresponding to positions 56-974 of the KOX21 cDNA; accession number X69115).
+Sequence comparison of PCR fragments was carried out over 496 bp (positions 144-639) using specific sequencing primers.
+KOX21 cDNA and yA4C5 sequences are identical, demonstrating that the ZNF37A gene in 10p11.2 is expressed.
+The ZNF37B sequence from yA136E7 was not sequenced, but presumably would represent a variant of that seen in yA4C5.
+The KOX ZNF gene cluster duplication occurred before the divergence of human and great ape lineages
+The above experiments demonstrated that both ZNF clusters contain similar but distinct genes, and that both loci contain expressed sequences.
+The existence of two clusters of related genes implies a duplication event covering an ancestral cluster: the degree of divergence of the comparable related sequences in each cluster can be used to estimate the evolutionary distance of the duplication.
+Using the alignments shown in Figure 2, the divergence between the ZNF11A and ZNF11B , and between the ZNF33A and ZNF33B , coding regions was calculated (according to the two-parameter model of ref. 21) to be ∼4% in each case.
+This figure is greater than the overall sequence divergence between man and the great apes (32,33), which suggests that the cluster duplication event occurred before these species diverged.
+It might therefore be expected that sequences corresponding to ZNF11 would also be duplicated in the apes, but not necessarily in species more distantly related to man.
+To test this, EcoRI digests of DNA from a number of species were probed with the KOX2 cDNA under stringent hybridisation conditions (Figure 3).
+As before, two EcoRI fragments are detected in human DNA, corresponding to ZNF11A (4.0 kb) and ZNF11B (1.75 kb).
+Remarkably, exactly the same pattern was seen with chimpanzee DNA, indicating not only a duplication of ZNF11 genes in this ape but also a conservation of sequence at all four EcoRI sites defined in man.
+Multiple bands were also clearly seen in orangutan (Pongo pygmaeus ) and the old world monkey Ceropithecus aethiops , but not in more distantly related species, such as pig or cow, where only a single hybridising band is seen.
+It can be concluded from these data that a ZNF11 gene duplication event occurred relatively recently in the evolution of the human lineage.
+It seems certain that this took place at least before the divergence with chimpanzee, and since multiple KOX2-hybridising bands are also present in other apes and monkeys, the duplication event may have been prior to the branch points of most simian primates.
+However, duplication events, independent of that in the human-chimpanzee ancestor, cannot be ruled out in these other primate lineages.
+The two related KOX ZNF loci are located on opposite sides of the chromosome 10 centromere
+Although the KOX ZNF locus defined by YAC yA136E7 (cluster B) has been located definitively in band 10q11.2 (5), the exact band location of the related locus defined by yA4C5 (cluster A) was not known.
+ZNF11A was mapped previously to the interval 10p11.2-q11.2, above the translocation breakpoint in 10q11.2 defined in the TG3 and TK2 somatic cell hybrids (5).
+This breakpoint probably occurs within a large block of simple sequence satellite III DNA located close to the centromere (34).
+This suggests that ZNF11A and associated sequences either lie in close proximity to the centromere on 10q, amongst highly repetitive satellite DNA families, or that they are located on the short arm of chromosome 10.
+Either location would be surprising, since the simplest model of a ZNF gene cluster duplication would place the genes of cluster A contiguous to the highly related sequences of cluster B in 10q11.2.
+The map location of cluster A was therefore determined more precisely using somatic cell hybrids.
+A number of human-hamster somatic cell hybrid subclones were derived from a parent clone R342A4 (23) which contains chromosome 10 as its sole human genetic component.
+Three of these subclones (R342A4-B14, R342A4-B15, and R342A4-C3) were found to contain only the short arm of chromosome 10, as shown by chromosome painting (Figure 4a, b) of normal human metaphase spreads with DNA fragments derived from the hybrids by Alu-PCR (19).
+The 10p-containing hybrids were tested for the presence of ZNF33 sequences by PCR using primers 4113 and 4114, which allow amplification from both ZNF33 loci, as demonstrated by the results of Figure 2.
+A PCR fragment was obtained with all three hybrids (Figure 4d), demonstrating the presence of ZNF33 sequences on the chromosome 10 short arm.
+A result consistent with this was obtained with a further unrelated somatic cell hybrid, JF1-23B13, which contains a t (10; 21) translocation chromosome with 10pter-p11.2 as its only portion of chromosome 10 (25): JF1-23B13 is also positive for ZNF33 sequences (Figure 4d).
+In both types of hybrid, these sequences must represent the ZNF33A locus, whose map position, along with those of ZNF11A and ZNF37A which form KOX ZNF cluster A, can now be localised to 10p11.2.
+Fluorescence in situ hybridisation (FISH) experiments performed with Alu-PCR fragments from yA4C5 and yA136E7 confirmed the presence of distinct ZNF loci in 10p11.2 and 10q11.2.
+Indeed, in some FISH experiments, cross-hybridisation of the related sets of ZNF sequences flanking the centromere was seen.
+This is visible in Figure 4c, where a probe prepared from yA136E7 gave a signal at its cognate locus on 10q11.2, but also on 10p11.2.
+Physical linkage of KOX ZNF gene cluster A to the ZNF25 (KOX19) gene
+Provisional PFGE data had indicated that sequences from KOX ZNF gene cluster A might be physically linked to the ZNF25 (KOX19) gene (L.Papi et al., unpublished data).
+Therefore, since YAC clone yA4C5, which contains the cluster A genes, did not contain ZNF25 sequences, new YACs were isolated from the CEPH library by PCR screening with oligonucleotides derived from the KOX19 cDNA sequence.
+A library screen was also carried out by PCR with the KOX31-derived 4113 and 4114 primers, which should identify YACs containing either ZNF33A or ZNF33B .
+Eight YACs containing ZNF33 sequences were isolated, and four of these were also positive in the ZNF25 (KOX19) screen (Figure 5a).
+All eight YACs also contained KOX2-related sequences as determined by hybridisation of EcoRI-digested DNA with the KOX2 cDNA probe (Figure 5b).
+This is a further demonstration of close linkage of ZNF11 and ZNF33 sequences at each of the duplicated ZNF gene loci.
+Five of the eight YACs contain the 4.0 kb EcoRI KOX2-hybridising fragment indicative of ZNF11A in 10p11.2, and therefore contain cluster A sequences.
+The remaining three YACs contain the 1.75 kb EcoRI KOX2-hybridising fragment from the ZNF11B locus in 10q11.2.
+Four of the five cluster A YACs are those which were also positive for ZNF25 by PCR and by hybridisation with the KOX19 probe (Figure 5).
+That ZNF25 ,ZNF11A and ZNF33A sequences should all be present in four independently isolated YACs is strong evidence for linkage.
+ZNF25 had previously been assigned to 10p11.2-q11.2 (5), but its physical linkage to cluster A genes refines its map location to 10p11.2.
+Consistent with this is the presence of ZNF25 in somatic cell hybrids R342A4-B14 and JF1-23B13, which contain only the short arm of human chromosome 10 (data not shown).
+The KOX19 probe hybridises to two EcoRI fragments in both genomic DNA (5) and in YACs (Figure 5b).
+It is not yet clear whether this represents a ZNF25 gene duplication, but since both EcoRI fragments are present within the same YAC clones, all KOX19-hybridising sequences are located in 10p11.2.
+DISCUSSION
+The ZNF genes corresponding to the KOX cDNA series (9) all encode ZNF proteins of the C 2 H 2 Krüppel type (Class I, according to the nomenclature of ref. 35).
+In Drosophila, Class I ZNF genes are involved in body-plan formation (36-38) and the discovery of similar genes in higher organisms led to hypotheses that ZNF genes may also be important for mammalian development (39).
+Indeed, at least two examples of inherited syndromes with developmental defects are known to involve mutations in ZNF genes: GLI3 in Greig cephalopolydactyly syndrome (11) and WT1 in Denys-Drash syndrome (12).
+Other ZNF proteins have been shown to bind DNA at specific promoter sites (40,41), and they probably act by regulating gene activity (42-44).
+The KOX series of ZNF proteins therefore represent a set of potential gene regulators which deserve detailed characterisation.
+One factor complicating the analysis of ZNF genes in mammals is their remarkably high number; several hundred are known to exist in man (8), and 60-70 of these are expressed in a single cell type (T cell; 9).
+Important for the identification of GLI3 and WT1 as candidate genes for their respective diseases was knowledge of their map location.
+We and others have therefore engaged on mapping projects which may give information on ZNF gene function and evolution.
+The results of these studies reveal a tendency for ZNF genes to map near fragile sites (45) or in subtelomeric locations (13).
+In addition, at the level of somatic cell hybrid and FISH mapping, they seem to cluster in certain regions of the genome, and one such cluster was proposed for human chromosome 10 (12) in the pericentromeric region (5).
+The molecular cloning data presented in this paper not only confirm the existence of clusters of related ZNF genes on chromosome 10, but also demonstrate duplication of an entire cluster: part of cluster A (ZNF11A, ZNF33A, ZNF37A)in 10p11.2, and cluster B (ZNF11B, ZNF33B, ZNF37B)in 10q11.2, obviously derive from an ancestral cluster.
+Of the other KOX-related ZNF genes in the chromosome 10 pericentromeric region,ZNF22 in 10q11.2 (5) seems not to be closely linked to cluster B (this paper; and unpublished data).
+However,ZNF25 , defined by cDNA clone KOX19, forms part of cluster A in 10p11.2, as demonstrated by YAC cloning and PFGE experiments.
+At present, it is not clear whether ZNF25 is also duplicated.
+If it exists as a single copy in the genome, then the YACs linking ZNF25 to the cluster A genes must contain one boundary of the cluster duplication event.
+[A gene TCF8 encoding a ZNF protein transcription factor which inhibits expression of the interleukin-2 gene has recently been mapped to 10p11.2 (46), but its relationship to KOX-defined ZNF genes is at present unclear.]
+Thus most of the ZNF genes in this region of the genome may be organised in clusters.
+Although not previously described in the literature at the molecular level, ZNF gene clustering is probably a common phenomenon in mammalian genomes.
+For example, mouse chromosome 17 contains a cluster of at least five ZNF genes in a region of approximately 500 kb (47; P.Little, personal communication).
+Clusters of related genes are thought to arise during evolution through duplication events, but clustering can also be exploited for coordinated regulation of the gene group, with the β-globin genes being the mammalian paradigm (48).
+It will therefore be of interest to determine whether the clustering of ZNF genes in 10p11.2-q11.2 is significant for their expression.
+The location of homologous ZNF clusters on opposite sides of the centromere is unexpected since duplicated loci are usually contiguous in the genome.
+The duplication encompasses at least several tens of kilobases and is likely to extend beyond the immediate boundaries defined by the YAC clones yA4C5 and yA136E7.
+Other work in this laboratory has led to the isolation of further YACs containing duplicated sequences from 10p11.2-q11.2, including novel expressed genes (J.Kwok et al., unpublished data).
+Therefore, the duplication may extend over several hundred kilobases.
+As outlined in Figure 6, the most parsimonious model for the evolution of this region is a process involving first the build-up of a ZNF gene cluster by local gene duplication events, followed by a duplication of at least part of this cluster, and finally a pericentric inversion which distributed a portion of the duplicated region to the other chromosome arm.
+This sequence of events may represent a model for the dispersal of gene family members throughout the genome.
+Sequence divergence and cross-species hybridisation studies suggest that the cluster duplication event occurred, and was fixed in the human lineage, before the separation from chimpanzee, and probably other great apes.
+Certainly this event postdates the mammalian radiation, since species more distantly related to man than the old world monkeys do not possess multiple copies of KOX2-related sequences.
+About the time of the pericentric inversion we can be less certain, although it must have occurred after the ZNF cluster duplication event.
+A pericentric inversion between 10p11.2 and 10q11.2 has not been described during human chromosome 10 evolution, but this would be difficult to detect cytogenetically.
+A similar inversion may have disrupted the immunoglobulin χ (IGK) gene complex on chromosome 2.
+Most IGK gene segments are located at 2p11-12, but some V χ segments are found at 2w12-14, perhaps as a result of a pericentric inversion (49,50).
+Intriguingly, such an inversion has occurred during the recent evolution of human chromosome 2, being present in the chimpanzee precursor chromosome, but not in the related chromosomes of gorilla and orangutan (51).
+For the case of chromosome 10, in situ hybridisation studies on primate chromosomes with XACs from the duplicated region should provide information on the time of occurrence of the pericentric inversion.
+Finally, the existence of a large duplicated region flanking the centromere of chromosome 10 has implications for genes located in 10p11.2-q11.2.
+If a gene maps within the duplication, it may well have a highly related counterpart on the opposite side of the centromere.
+It will be intriguing to investigate whether these related genes, such as the KOX ZNF genes described here, have identical functions, or whether they have diverged sufficiently to develop distinct functional capacities.
+Figure 1.
+Southern hybridisation analysis of ZNF genes.
+a) -e) are filter hybridisations where genomic (a) or YAC (b-e) DNAs are probed with the indicated cDNAs.
+In (a), hybrid TK2 contains 10q11.2-qter, and hybrid TG3 contains 10pter-q11.2.
+In (b)-(e), marker positions (23, 9.4, 6.6, 4.4, 2.3, 2.0 and 1.3 kb) are represented by horizontal lines.
+(f)represents a PFGE-constructed long-range restriction map of YAC yA4C5 with regions hybridising to cDNA probes indicated.
+R and L denote right and left ends of the pYAC4 vector.
+Figure 2. (a)Sequence of the KOX2 cDNA (top line) and part of the related sequence at ZNF11A in 10p11.2 (bottom line).
+(b)Sequence of the KOX31 cDNA (top line) and part of the related sequence at ZNF33B in 10q11.2 (bottom line).
+Nucleotide sequence is shown in lower case, with corresponding predicted amino acid sequence denoted in upper case (single letter code).
+The first two cysteines of each ZNF motif are shown in outline.
+Nucleotide matches are given as vertical bars.
+Figure 3.
+Zoo blot hybridised with KOX2 cDNA.
+EcoRI-digested DNAs were hybridised with KOX2 and washed to high stringency (0.2 SSC, 0.1% SDS, 65°C).
+Under these conditions, only KOX2-related sequences hybridise, with no cross-hybridisation to other ZNF genes observed (inferred from human pattern).
+Figure 4.
+Localisation of ZNF33A to 10p11.2. (a)and (b)are chromosome paints where labelled Alu-PCR fragments from 10p-only hybrids R342A4-B14 and R342A4-B15 have been hybridised to normal human metaphase spreads.
+The chromosome 10 homologues have been shown in each case.
+(c)shows a FISH experiment demonstrating cross-hybridisation of yA136E7 (10q11.2) Alu-PCR fragments with the related ZNF locus on 10p11.2 of both chromosome 10 homologues. (d)is a PCR experiment where primers amplifying sequences from both ZNF33 loci are used to demonstrate the presence of KOX31-related sequences in hybrids R342A4-B14, R342A4B15, R342A4C3 and JF1-23B13, and hence on 10p, since these hybrids contain no 10q sequences.
+Figure 5.
+Physical linkage of ZNF25 (KOX19) with cluster A genes in YACs. (a)PCR experiments detecting KOX19 (ZNF25 ) and KOX31 (ZNF33A or ZNF33B ) sequences in CEPH YACs.
+Markers are a 100 bp ladder (GibcoBRL).
+(b)Filter hybridisations of CEPH YACs with KOX2 and KOX19 cDNA probes.
+Band sizes are indicated.
+Four YACs (167G1, 30C1, 173D12 and 254B4) contain ZNF25 (KOX19).
+These YACs also contain ZNF11A and ZNF33A from 10p11.2, as does clone 22D11.
+Three YACs (153B10, 244D2 and 236A11) contain ZNF11B and ZNF33B from 10q11.2.
+YACs 229C7 and 223E11 do not contain DNA from this region of the genome.
+Figure 6.
+Model for evolution of the ZNF gene clusters in 10p11.2-q11.2.
+Three types of event are postulated: local gene duplications, which formed a cluster of related ZNF genes, A, B and C, after sequence divergence; a locus duplication, whereby at least part of the cluster of ZNF genes was duplicated on one chromosome arm (portrayed as genes B and C giving rise to their counterparts B' and C'); and finally a pericentric inversion which separated the duplicated clusters, positioning them on opposite sides of the centromere.
+The breakpoints of the pericentric inversion are represented by twin vertical bars.
+X, Y and Z are sequences outside the duplicated region.
+As shown, the inversion breakpoint which disrupted the duplicated region coincides with a boundary of the cluster duplication event, but this need not have been the case.
+Only part of the duplicated region may have been transposed to the other chromosome arm.
+Tissue-specific and developmentally regulated alternative splicing of a visceral isoform of smooth muscle myosin heavy chain
+ABSTRACT
+Previous work demonstrated that the rabbit smooth muscle myosin heavy chain gene showed sequence divergence at the 25kDa/50kDa junction of the S1 subfragment when compared to chicken gizzard and chicken epithelial nonmuscle myosin.
+RNase protection analysis with a probe spanning this region detected two partially protected fragments which were not present in RNA from vascular tissue and only found in RNA from visceral tissue.
+The polymerase chain reaction was used to amplify a 162bp product from primers spanning the putative region of divergence and DNA sequence analysis revealed a seven amino acid insertion not previously detected in other characterised cDNA clones.
+RNase protection analysis using the PCR product as probe showed that the inserted sequence was expressed exclusively in RNA from visceral tissue.
+Similar RNA analysis showed that the visceral isoform was not expressed in 20 day fetal rabbit smooth muscle tissues.
+These results indicated that the new visceral isoform was expressed in a tissue-specific and developmentally regulated manner.
+Genomic DNA sequencing and mapping of the exon-intron boundaries showed that the visceral isoform was the product of cassette-type alternative splicing.
+The inclusion of a visceral-specific sequence near the Mg-ATPase domain and at the 25kDa/50kDa junction suggests that the visceral isoform may be important for myosin function in smooth muscle cells.
+INTRODUCTION
+Previous analysis of protein extracts from smooth muscle tissues (1) and cultured vascular smooth muscle cells (2,3) revealed the presence of two major protein bands designated SM1 (204kDa) and SM2 (200kDa) myosin heavy chain (MHC) based on electrophoretic mobility in SDS-PAGE gels.
+It was subsequently demonstrated that the SM1 and SM2 isoforms of rabbit (4,5) and rat smooth muscle MHC were the poducts of alternative splicing of a single gene (6).
+The SM2 isoform differed from SM1 by an inserted sequence of nine amino acids and an in-frame stop codon at the carboxyl terminus which resulted in a shorter myosin tail.
+The expression of SM1 and SM2 isoforms in smooth muscle cells was verified using anti-peptide specific antibodies to the unique amino acid sequences predicted from the nucleotide sequence of the corresponding cDNA clones (5,7).
+Further work showed that expression of SM1 and SM2 was tissue-specific (5,6), developmentally regulated (8) and altered by culture conditions (7).
+Characterisation of the full-length rabbit uterus cDNA encoding smooth muscle MHC showed that the primary structure was more similar to the nonmuscle MHC-A and MHC-B genes than MHCs from striated muscle (9).
+In the S1 globular head region, rabbit smooth muscle MHC showed approximately 90% identity to the chicken gizzard (10) and chicken epithelial non-muscle MHC-A (11) genes.
+However, at the junction of the 25kDa/50kDa proteolytic fragments located downstream of the putative Mg-ATPase domain, the amino acid comparison revealed a completely divergent region of 13 amino acids after which the high degree of homology was restored (9).
+These observations raised the possibility that additional isoforms of smooth muscle MHC may be expressed in smooth muscle cells.
+The fact that the region of divergence was close to the functionally important ATP binding site suggested that any isoforms in this region may be important in defining the contractile properties of smooth muscle cells.
+In order to obtain indirect evidence for the existence of additional isoforms of smooth muscle MHC, we constructed a probe from the area of the S1 head spanning the region of sequence divergence (9).
+RNase protection analysis of RNA from adult rabbit smooth muscle tissues showed that in addition to the expected fully protected fragment, two partially protected fragments were also observed but only in RNA from visceral tissues.
+These results strongly supported the idea that the smooth muscle MHC molecule showed heterogeneity in the S1 globular head.
+In the present report we show directly by RNA-PCR and genomic DNA sequencing that the rabbit smooth muscle MHC gene encodes a visceral isoform which is produced by cassette type alternative splicing.
+The visceral isoform encodes seven unique amino acids at the boundary of the 25kDa/50kDa junction.
+Expression of the visceral isoform is tissue-specific and developmentally regulated.
+EXPERIMENTAL PROCEDURES
+RNA extraction and analysis
+Total RNA was isolated from adult and 20 day fetal rabbit (New Zealand White) tissues by the guanidinium thiocyanate procedure (12).
+The tissues studied included aorta, vena cava, uterus, small intestine, large intestine, stomach, bladder, brain, heart and lungs.
+RNA samples were analysed by the RNase protection method described previously (6).
+The first labelled probe was a 528bp PstI-PvuII restriction fragment derived from cDNA clone PBRUC1 encoding rabbit smooth muscle MHC (9).
+This probe spanned the 25kDa/50kDa junction of the smooth muscle MHC molecule in the region suspected of showing sequence divergence.
+The PstI-PvuII fragment was subcloned into pTZ18 (Pharmacia) and linearised with HindIII.
+The 162bp PCR product (see below) was subcloned into the SmaI site of pBluescript SK (Stratagene) and the plasmid linearised with EcoRI.
+RNA-PCR
+Total RNA from adult rabbit stomach was used for RNA-PCR.
+Twenty micrograms of total RNA was used for first strand cDNA synthesis in a mixture containing 1 Taq polymerase buffer (Promega), 1mM dNTPs, 40 Units RNasin (Promega), 100 pmoles downstream primer and 200 Units Superscript (Gibco-BRL).
+The downstream primer (19mer) derived from cDNA clone PBRUC1 had the sequence 5' CAAGACGGTCAAGAATGAC 3' (Oswel DNA Service).
+The RNA was reverse transcribed at 37°C for 60 minutes and an aliqout taken for amplification.
+The cDNA sample was amplified in a mixture containing 1 PCR buffer (Promega), 100 pmoles downstream primer, 100 pmoles upstream primer and 0.5 Units Taq polymerase (Promega).
+The upstream primer (19mer) also derived from PBRUC1 had the sequence 5'GTCATCCAGTACCTGGCCG 3'.
+The product was amplified using 25 cycles of denaturation (30 sec, 95°C), annealing (60 sec, 52°C) and extension (60 sec, 72°C).
+In addition to the expected amplification product of 140bp equivalent to PBRUC1 (9), a second product of approximately 160bp was also observed following acrylamide gel analysis of the PCR mixture.
+The DNA was reamplified by a further 25 cycles and the product checked by Southern blotting.
+The 160bp DNA fragment was then electroeluted from acrylamide, purified by phenol extraction and the ends filled in using Klenow fragment (Gibco-BRL).
+An aliquot of the blunt ended DNA was then subcloned into the SmaI site of pBluescript SK.
+DNA sequencing
+Plasmids containing the 160bp amplified DNA insert were sequenced in both directions using Sequenase 2.0 (United States Biochemicals).
+Southern blotting using the PCR product as probe was used to locate the corresponding region of the gene for genomic DNA sequencing.
+Mapping of the exon-intron boundaries was verified by a) sequencing from the ends of genomic DNA subclones derived from the original genomic clone λ1-3 (9), b) 5' end-labelling the PCR primers with T4 polynucleotide kinase (Gibco-BRL) in order to sequence in opposite orientations across the exon-intron boundaries and c) using consensus sequences for the donor (GTA = =) and acceptor (= = CAG) splice sites of introns (13).
+cDNA library screening
+A rabbit uterus cDNA library (9) constructed in λZAP (Stratagene) was screened with a 265bp EcoRI-PstI restriction fragment from the 5' end of cDNA clone PBRUC1 (9).
+This 265bp sequence is common to both SM1 and SM2 type MHC isoforms.
+Plasmid DNA sequencing from the 5' end of cDNA clones longer than 6.0kb was used to identify clones which may contain putative inserted sequences at the 25kDa/50kDa junction.
+RESULTS
+Evidence for sequence heterogeneity at the smooth muscle MHC 25kDa/50kDa junction
+RNase protection analysis using a probe spanning the 25kDa/50kDa junction was used to search for smooth muscle myosin heterogeneity in the S1 subfragment.
+As expected, the probe detected a fully protected fragment of approximately 530bp, equivalent to the isoform encoded by cDNA clone PBRUC1 (Fig. 1).
+This isoform (corresponding to SM1 MHC) was expressed in all adult smooth muscle tissues studied and was highly tissue-specific.
+The same probe, however, detected the presence of two partially protected fragments of approximately 400bp and 130bp which were only present in visceral type smooth muscle tissues (Fig. 1).
+Longer film exposure failed to reveal the presence of these fragments in RNA from aorta and vena cava samples.
+The sizes of the partially protected fragments appeared to match with the length of the probe used and the region of divergence at the 25kDa/50kDa junction.
+A unique isoform of smooth muscle MHC is expressed in visceral smooth muscle cells
+PCR was used to amplify DNA encoding the putative visceral isoform from adult rabbit stomach RNA.
+Southern blotting was used to identify positive clones which were then sequenced to provide direct evidence for the existence of the new isoform.
+The 162bp DNA sequence in Figure 2(a) designated PBVISPCR2 was that derived from cloning the amplified DNA.
+The bracket shows the location of the seven amino acid insertion which is unique to the visceral isoform.
+The position of the isoform sequence was then mapped to its location in the previously reported genomic clone λ1-3 (9) by Southern blotting.
+Genomic DNA sequencing confirmed that the sequence was genuine (Fig. 2b).
+The DNA sequence in Fig. 2b shows the position of the exon encoding the visceral isoform with respect to the immediate upstream and downstream introns containing the consensus sequences for acceptor (cag) and donor (gta) splice sites.
+A consensus branch point sequence (YNYURAY) for lariat formation is located 25bp upstream of the 3' splice site.
+To check expression of the visceral isoform, the PCR product was used as a probe in RNase protection analysis of RNA from smooth muscle tissues.
+The results in Fig. 3 confirm that the isoform is only expressed in visceral smooth muscle tissues.
+The probe fully protects a fragment of 162bp which is only present in visceral smooth muscle.
+Expression of the isoform appears to be strongest in RNA from large intestine and bladder.
+No expression was detected in aorta, vena cava and other rabbit tissues.
+Since the probe in Fig. 3 contains the exon-specific sequence for the visceral form, it can be used to reliably determine the ratio of visceral:vascular mRNAs in smooth muscle tissues.
+As expected, the probe partially protects two fragments of 63bp and 78bp corresponding to the vascular isoform (PBRUC1) which, although it is detected in all smooth muscle tissues, is only weakly expressed in visceral tissues.
+The uterus appears to express similar amounts of both isoforms.
+To determine whether the visceral-specific exon was incorporated into an MHC molecule associated with either the SM1 or SM2 type MHC isoforms, a cDNA library was screened to isolate cDNA clones encoding the visceral isoform.
+Thirteen cDNA clones greater than 6.0 kb in length were isolated and shown by DNA sequencing to begin further 5' upstream of the 25kDa/50kDa junction (data not shown).
+However, Southern blotting using an SM2 isoform-specific 5' end-labelled primer as probe (6) failed to detect the presence of the SM2 specific sequence and indicated that all the new cDNA clones were of the SM1 type.
+Furthermore, none of the new SM1 type cDNA clones hybridized to a 5' end-labelled primer encoding the visceral-specifc isoform.
+These results therefore suggested that the visceral-specific exon was not associated with the SM1 type MHC.
+It was also apparent that both the SM2 and visceral-specific MHC isoforms were poorly represented in the rabbit uterus cDNA library, probably reflecting the fact that the ratio of SM1:SM2 in rabbit uterus is approximately 80:20.
+The visceral isoform of smooth muscle MHC is produced by alternative splicing
+A combination of Southern blotting and DNA sequencing was used to locate the position of the visceral-specific exon in the corresponding genomic clone.
+The exon-intron organisation of the visceral isoform is shown in the HindIII partial restriction map in Fig. 4(a).
+Exons designated number 5a and 6 represent the contiguous exons originally mapped to a 4.0kb region of genomic clone λ1-3 after comparison with the cDNA clone PBRUC1 (9).
+Exon 5b represents the visceral isoform mapped to a position between exons 5a and 6.
+This arrangement of exons suggests that the most likely mechanism of producing the visceral mRNA is by cassette type alternative splicing.
+The observation that the vascular form is expressed in all types of smooth muscle suggests that the mechanism linking exon 5a to 6 is the prefered splicing pathway.
+The diagram in Fig. 4b shows the location of the visceral-specific exon with respect to its neighbouring exons which form the Mg-ATPase domain and 25kDa/50kDa junction as part of the myosin S1 subfragment.
+This arrangement of exons presumably arises as a result of the positive pressure to select this particular splicing pathway in visceral smooth muscle cells.
+Expression of the visceral isoform is developmentally regulated
+To further study the factors regulating expression of the visceral isoform, RNase protection analysis was used to measure mRNA transcript levels for the visceral isoform in fetal tissue.
+The results in Fig. 5 show that when the visceral isoform was used as probe, expression could not be detected in smooth muscle tissues from 20 day old fetal rabbits.
+No expression could also be detected in 20 day fetal bladder tissue (data not shown).
+Previously it was shown that SM1 and SM2 isoforms were developmentally regulated in vascular tissue, with the SM1 isoform appearing first in 25-28 day old fetal rabbits (8).
+The results of these studies put together confirm that expression of both vascular and visceral isoforms of smooth muscle MHC occurs during late fetal development in the rabbit.
+DISCUSSION
+The present results provide direct evidence for the existence of a visceral-specific isoform of MHC in rabbit smooth muscle cells.
+The visceral isoform contains an inserted sequence of seven amino acids located at the 25kDa/50kDa junction of the MHC molecule.
+Expression of the visceral isoform is limited exclusively to visceral type smooth muscle tissue thus suggesting a link between expression of the isoform and MHC function in smooth muscle cells.
+Differences in the contractile properties between vascular and visceral smooth muscle cells are well known (eg 14) but little evidence is available to implicate differences in the MHC molecule as a possible mediator of some of these events.
+Although the significance of the inserted sequence for MHC function remains to be determined, the location of the small peptide sequence at the 25kDa/50kDa junction indicates that it may be important for folding of the MH molecule and/or activity in the Mg-ATPase domain.
+The inserted sequence contains both a serine and tyrosine residue but it is unknown if the MHC molecule is phosphorylated in this region in vivo.
+Although the present results suggest that the visceral-specific exon is most likely to be associated with the SM2 type MHC, the functional significance of this arrangement of exons remains to be determined.
+The production of a visceral-specific anti-peptide antibody should permit a further investigation of its expression in smooth muscle cells.
+The finding that the smooth muscle MHC gene encodes multiple isoforms suggests that the proteins originally designated as SM1 and SM2 MHC probably represent multiple forms which cannot be separated by one dimensional SDS-PAGE analysis.
+A similar but more complicated arrangement of alternatively spliced exons was reported for the Drosophila muscle MHC (15), which showed that multiple isoforms could exist with only small differences in apparent molecular weight.
+Additional RNase protection analysis of the smooth muscle MHC gene using restriction fragments from PBRUC1 (9) showed that further isoforms might exist in other regions of the MHC molecule (Babij and Periasamy, unpublished).
+The demonstration of tissue-specific expression of an isoform of smooth muscle MHC provides a new mechanism of generating MHC isoform diversity in smooth muscle cells.
+Previously it was shown that the SM1 and SM2 MHC isoforms were produced by alternative splicing of a single gene (6) but both isoforms were shown to be co-expressed in all smooth muscle cell types (4,5,6).
+Other workers have proposed the existence of additional isoforms of MHC in smooth muscle cells (16,17,18) but no information is presently available to decide whether these putative forms are encoded by new genes or further alternative splicing mechanisms.
+The present results lend further support to the idea that alternative splicing is the major mechanism for generating MHC isoform diversity in smooth muscle cells.
+Furthermore the data suggests that an additional level of complexity characterises regulation of MHC expression in that a positive pressure is required for selection of the visceral splicing pathway (Fig. 4).
+The observation that the vascular isoform is expressed in all smooth muscle cells suggests that it may represent a constitutive type of splicing pathway which has similarities to the default pattern shown by other muscle genes.
+The expression of the 21bp visceral-specifc exon only in visceral cells suggests that tissue-specific splicing factors may regulate its non-constitutive inclusion during RNA processing.
+The existence of putative tissue-specific splicing factors in muscle cells has gained support particularly through work on such genes as α-tropomyosin (19) and troponin T (20) which are known to produce tissue-specific and developmentally regulated isoforms.
+Recently it was shown that two inserted sequences of 21 and 10 amino acids were present near the actin binding site and Mg-ATPase domain respectively of the chicken nonmuscle MHC-B gene (21).
+RNA analysis revealed that both inserted sequences were expressed in a tissue-dependent manner, with expression being restricted to nonmuscle cells of the nervous system.
+It was suggested that the isoforms were the likely result of alternative splicing although this awaits confirmation.
+If this is the case, then it suggests that remarkable similarites exist between the vertebrate smooth muscle (9) and nonmuscle MHC genes (11,21) in terms of their ability to generate isoform diversity by the mechanism of alternative splicing.
+These results therefore support the idea that common evolutionary pathways were involved in the formation of this branch of the MHC gene family.
+Figure 1.
+RNase protection analysis of adult rabbit total RNA (15µg) using a 32 P uniformly labeled RNA probe (528bp) spanning the 25kDa/50kDa junction of the smooth muscle MHC molecule.
+A fully protected fragment is found in all types of smooth muscle tissues and two partially protected fragments are present only in visceral tissues.
+A signal at 132bp can be detected in uterus and small intestine samples following prolonged film exposure.
+Figure 2.
+DNA sequence analysis of the visceral isoform of smooth muscle MHC. a ) DNA sequence of the mRNA-derived PCR product PBVISPCR2 showing the location (in brackets) of the visceral-specific 21bp insertion encoding seven amino acids. b ) DNA sequence of the corresponding region in the rabbit genomic clone λ1-3, showing 50bp of intervening sequence (lower case letters) immediately upstream and downstream of the visceral-specific exon.
+Figure 3.
+RNase protection analysis of adult rabbit total RNA (15µg) using the PCR product PBVISPCR2 as probe.
+Full protection is shown by the 162bp fragment present only in visceral tissues.
+Vascular cells do not express the visceral isoform and therefore show two partially protected fragments corresponding to the fully protected fragment shown in Fig. 1.
+Figure 4.
+Scheme showing alternative splicing pathway of the visceral isoform. a ) Exon-intron organisation of the visceral-specific exon represented by exon 5b in a 4.0kb region of rabbit genomic clone λ1-3.
+Exons 5a and 6 are the contiguous exons previously reported for genomic clone λ1-3 (9).
+Dotted lines show the likely splicing pathways producing the vascular (constitutive) and visceral-specific isoforms.
+H = HindIII restriction sites in this region of the genomic clone.
+b ) Organisation of exons in the S1 subfragment of smooth muscle MHC incorporating the Mg-ATPase domain and 25kDa/50kDa junction.
+The presence of the visceral-specific exon 5b is shown located at the 25kDa/50kDa junction.
+Figure 5.
+RNase protection analysis of total RNA (15µg) from adult rabbit and 20 day fetal rabbit tissues using the visceral isoform probe as shown in Fig. 3.
+No expression of the visceral isoform can be detected in fetal tissue of this age.
+(Prolonged film exposure appeared to indicate a very low level of expression in fetal tissue above the level of the tRNA background).

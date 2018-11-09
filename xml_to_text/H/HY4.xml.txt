@@ -1,0 +1,391 @@
+
+
+6 The London money market
+by Paul Temperton
+The well developed, highly liquid and sophisticated money market in London today has, as its origins, the discounting of bills by the discount houses in the early nineteenth century.
+This remained the principal activity in the London money market for over a hundred years, until a wave of innovation hit the market in the late 1960s.
+First came the development of the eurodollar market in London, driven by the wish to avoid domestic banking regulations in the United States.
+This was given added impetus in 1971 with the removal of quantitative controls on the UK domestic banking system and the rapid development of the CD and interbank markets ensued.
+In the 1980s, commercial paper, euronote and eurocommercial paper markets were added to the range of money market instruments traded in London.
+The development of the futures market, especially the LIFFE short sterling contract, further enhanced market liquidity.
+Despite this wave of innovation, the principal operational relationship between the Bank of England and the money market has remained little changed: this is described in the next section.
+We then go on to discuss the size and structure of the money market and the individual characteristics of the most important constituent markets.
+We assess the factors behind the development of the markets, highlighting the importance of the regulatory environment and investor preferences.
+Finally, we look at some of the issues facing the money market in the rest of the 1990s.
+6.2 The Bank of England and the traditional London money market
+6.2.1 The role of the Bank of England in the money market
+The Bank of England has a pivotal role in the London money market in that it acts as the main banker to both the central government and the clearing banks.
+The government does not hold balances, other than working amounts, with other banks.
+As the rest of the banking system maintains the accounts of all other sectors of the economy, any net payment to central government will produce a net flow of cash from the banks to the Bank.
+The relationship is shown schematically in Fig. 6.1.
+The banks will typically seek to restore their liquidity by drawing down some of their funds which they keep in the form of call or short term deposits with the discount houses.
+The clearing banks keep operational balances at the Bank which are used for settling the final position at the end of the day between the Bank and the banking system, and their drawing down of money from the discount houses will be designed to keep these balances at a "target" level considered appropriate given the uncertainty of the daily cash flows to the Bank.
+The cash shortage in the money market is, in this way, passed to the discount houses.
+Discount houses, in  turn, balance their position, if short of funds, either by selling eligible bills to the Bank or by borrowing from the Bank.
+The discount houses have their origins in the early nineteenth century.
+Their role at that time was to discount bills for holders requiring immediate cash for payments which were due in perhaps two or three months.
+From that time, they have continued to have an important role in the discounting of bills and as a result of this function have come to fill a pivotal role between the banks and the Bank of England in the determination of short term interest rates.
+There are nine discount houses in London, all members of the London Discount Market Association.
+The balance sheet of the discount houses is shown in Table 6.1.
+6.2.2 The Bank of England's day to day operations in the money market
+The Bank of England's day to day operations in the money market are conducted primarily through the discount houses.
+Information on money market flows is provided by the Bank of England on various electronic screen based services (for example, on Reuters on pages RTCA through to RTCD, see Fig. 6.2).
+The first piece of information to be released through this channel each day is the Bank's estimate of the overall cash shortage or surplus in the money market.
+The main factors contributing to this overall position are then listed.
+These fall into six main categories, information on the first five of which may be disclosed by the Bank.
+The six main categories are discussed below.
+The Exchequer is broadly equivalent to central government and the category of "exchequer transactions" comprises the main flows which are the result of the Bank of England acting as the banker to central government.
+The category comprises: a) payments to the Exchequer net of expenditure by it; b) the proceeds of net official sales of government debt (gilts, National savings, treasury bills etc.); and c) net receipts of sterling on the Exchange Equalisation Account (EEA).
+In all three cases net sterling payments to the government's accounts at the Bank reduce market liquidity.
+Thus, if the government receives tax payments from, or if it sells government debt to, the private sector the proceeds will act to reduce the money market's cash position.
+Conversely, government spending will increase the deposits of the banks and reduce those of the government at the Bank of England.
+If the EEA intervenes to support sterling (i.e. if it sells foreign currencies and buys sterling) then the receipt of sterling by the Bank will act to drain market liquidity.
+Many elements of the Exchequer transactions total can be predicted with a reasonable degree of accuracy by the Bank of England on a day-to-day basis: the impact of foreign exchange transactions passing through the EEA is generally known since most such transactions are settled two days later; gilts transactions are generally settled on the next business day; and various government sources give information on both government expenditure and expected tax receipts.
+But the timing of some tax payments is not known with certainty and can lead to substantial changes in this component of the money market cash position during the course of the day.
+(These intra-day revisions to the cash position are very important to the discount houses and close observers of the Bank of England's operations and are discussed later in this chapter.)
+If the demand for cash, in the form of notes issued by the Bank of England, rises, the clearing banks meet the rise in demand by obtaining notes from the Bank, at the same time running down their operational balances with it.
+Thus a rise in the note circulation leads to a money market shortage.
+Generally, the note circulation rises towards the end of the week (as the general public withdraws cash for the weekend and the banks anticipate the demand) and falls at the start of the week: thus on Mondays and Tuesdays the fluctuations in the note circulation generally raise money market liquidity and on Thursdays and Fridays generally reduce it.
+The note issue also follows a pronounced seasonal pattern throughout the year rising, in particular, at Easter and Christmas.
+The Bank has an estimate based on past experience of daily and seasonal patterns, and on the banks' declared requirements, of likely changes in the note circulation.
+If the Bank holds bills which then mature, repayment will come from the rest of the banking system so market liquidity falls.
+Similarly, as the discount houses take up Treasury bills from the tender on the Friday of the previous week, net payment will be made to the Bank from the rest of the banking system.
+The Bank will know the extent of these influences on the market's cash position with certainty.
+The Bank occasionally lends to the market or uses purchase and resale agreements (see below).
+The unwinding of such assistance (repayment of loans given by the Bank to the market or resale to the market of bills bought from it by the Bank) will drain market liquidity and will, of course, be known by the Bank in advance.
+If the clearing banks' balances are above target — that is, if the final clearing on the previous day left the clearers with balances at the Bank above those which they desire to keep in order to meet day-to-day requirements — then there will be a corresponding easing of the market's cash position.
+The clearers tell the Bank of England of their target balances so this influence on the money market cash position will be known with reasonable certainty.
+As well as acting as the government's banker, the Bank also acts as banker for other customers, for example, overseas central banks and international organisations.
+Flows due to the transactions of these customers influence the cash position of the money market but are not disclosed by the Bank.
+Such customers generally provide information to the Bank on flows on their accounts and hence help in the process of predicting the cash position in the money market.
+6.2.3 The objective of the Bank of England's money market operations
+The objective of the Bank when operating in the money market is broadly to offset the cash flows between the Bank and the money markets and to leave the clearing banks within reach of their desired operational balances.
+The Bank thus provides whatever assistance is necessary to offset the daily cash position in the money market: the terms (that is, the interest rates at particular maturities) at which the cash position is offset are, of course , determined by the Bank.
+The Bank's forecast of the daily position of the money markets is designed to help this process.
+The Bank's initial forecast and the factors behind it are made available at 9.45 a.m. each day, but revisions to the overall shortage may be made during the course of the day, typically being announced at noon and 2 p.m.
+Revisions to the individual components of the shortage are not made, but generally it is the estimate for exchequer transactions which is subject to the greatest uncertainty.
+When deciding on the amount of intervention needed, however, the Bank also takes account of the reports of their positions from the discount houses and the major banks, and the behaviour of short term interest rates.
+Different techniques are used depending on whether there is a shortage in the money market or a surplus.
+The preceding section has emphasised the day-to-day actions in the money market, but it is also useful at this stage to look at the aggregate position in recent years which is shown in Table 6.2.
+There are several ways of expressing the factors affecting the cash position in the money market, but this is the method used most often in the Bank's Quarterly Bulletin.
+The Bank of England uses three principal techniques to relieve money market shortages: outright purchases of bills from the discount houses; purchases of bills with associated resale agreements; and lending to the market.
+Information on the technique(s) used by the Bank in alleviating the cash position are made available via the electronic screen based services.
+The techniques are discussed below.
+Under the arrangements first introduced in late 1980, emphasis is placed on bill dealings as a method of relieving money market shortages and the outright purchase of bills from the discount houses is the most common form of assistance provided.
+If the Bank informs the market that it is prepared to buy bills, the discount houses will generally offer bills to it, specifying a discount rate, for each combination of instrument and band — or, if they wish, different rates for separate amounts within each combination.
+Bills are classified as falling into one of four remaining (rather than original) maturity bands: Since May 1989, the Bank normally purchases bills only in bands 1 and 2.
+Normally the Bank operates in the markets at midday and 2.00 p.m., but on days of very large shortages, it may offer to buy bills earlier in the day (9.45 a.m.) as well.
+When the discount houses offer bills to the Bank, the Bank decides which offers to accept.
+During the course of the day the Bank's objective will be to provide enough assistance to the money market (through outright bill operations and the other techniques discussed below) to relieve the overall expected shortage, but purchases of bills by the Bank at the early rounds of assistance during the course of the day might only account for a small proportion of the overall assistance provided, for four main reasons.
+First, the Bank may, in each of the 9.45 a.m., midday and 2.00 p.m. rounds of assistance decline to buy the amount of bills offered by the discount houses in order to keep the market short and sustain short term interest rates at a relatively high level.
+Second, when the discount houses want to "test the water" for an interest rate cut, they might offer paper ½%; lower than on the previous day at the first opportunity (that is, at 9.45 a.m. or midday).
+If the Bank refuses to accept these offers then the amount of assistance provided in the first round could be a long way short of the overall amount of assistance needed during the day.
+The houses will then almost certainly return to the rates established on the previous day at the next round of assistance.
+Third, a relatively small amount of assistance at the earlier rounds could also occur if the Bank estimates of the shortage were unusually uncertain: for example, it might not be known whether a particular tax payment were to be passed through the money market on that day.
+Fourth, the discount houses collectively may offer a smaller quantity of bills for sale than apparently needed by the market as a whole, either because they take a different (to the Bank) view of the overall shortage in the market or because of the relationship in the market between the short term interest rates at which they fund themselves and the relevant bill yields.
+The amount of bills bought in each band, the type of bill and the interest rate at which the deal was made are published after both the morning and afternoon sessions.
+Purchase and resale agreements are occasionally used as an alternative to outright purchases.
+In this case, the Bank buys bills but agrees to sell them back to the market at an agreed price some time in the future.
+The technique is used for three main reasons.
+First, to smooth out a known future market position (for example, arranging for the unwinding of the repo on a date of large central government spending).
+Second, to prevent a particular interest rate structure from becoming too entrenched.
+Third, when the market is reluctant to sell bills outright because of interest rate expectations.
+Thus, if interest rates are expected to fall, market participants will be unwilling to sell bills outright to the Bank.
+In particular, they will not wish to sell longer dated bills, the prices of which rise by a larger amount for a given change in interest rates.
+Another form of repo which has been used at times of particularly heavy tax receipts by the government is one undertaken  directly with the banks.
+The repo is generally in gilts, although other instruments have also been acceptable.
+Lending to the discount houses takes three principal forms.
+First, the Bank can lend to the discount houses as a method of providing further assistance if it has not provided adequate assistance earlier in the day.
+Discount houses have borrowing facilities at the Bank, with limits related to the capital base of each discount house.
+If a discount house finds itself short of funds after the Bank's main bill business has been concluded, it can request to borrow on a secured basis from the Bank.
+The Bank publishes the total amount of this so called late assistance, although not the terms on which it has been granted.
+Second, the Bank can, by refusing to relieve market shortages through bill operations, force the discount houses to borrow from it.
+This technique may be used when the Bank is keen to produce a change in interest rates faster than that which could be obtained by waiting for bill offers to respond to an initial rejection of bids by the Bank: it was used more frequently in 1988 and 1989, especially as a method of signalling the Bank's desire to see higher short term interest rates.
+Typically, the Bank will announce that discount houses wishing to use their borrowing facilities are invited to do so at 2.30 p.m.; on such occasions the interest rate at which loans are made is usually published.
+The limits on the size of borrowing facilities are suspended for 2.30 p.m. lending.
+A variation on this technique is for the Bank to announce a Minimum Lending Rate which, for a short period ahead, it will apply in any lending to the discount houses.
+This technique was last used on 5 October 1990 at the time of ERM entry in order to bring a 1% reduction in interest rates to 14%.
+Third, the Bank may lend to relieve "technical shortages" due to, say, oversubscription to a privatisation issue (for example , on 30 October 1981, the Bank lent £121 million over the weekend through the discount window because of the heavy oversubscription for shares in Cable and Wireless).
+In such circumstances, lending will be at rates close to market rates and will be designed to avoid any distortion to bill rates.
+If there is a surplus, the Bank normally acts only in the afternoon to absorb it.
+Such operations are carried out in Treasury bills, of one or more specified (usually short) maturities.
+The clearing banks as well as the discount houses have the opportunity to buy Treasury bills on such occasions, as otherwise they would be at a substantial disadvantage compared with the discount houses in finding an outlet for surplus funds.
+Looking ahead, there is one other technique which could be used to offset a money market surplus: a call for special deposits.
+All monetary sector institutions with eligible liabilities of £10 million or more may be called upon to place special deposits with the Bank.
+Such deposits would normally earn a rate of interest close to the equivalent of the average rate of discount at the most recent Treasury bill tender and would be called in amounts set as a percentage of eligible liabilities.
+Although the scheme has not been activated since December 1979, it remains available as a method of withdrawing cash from the banking system.
+Since a call for, or a repayment of, special deposits requires a period of notice, the scheme is best suited to occasions when there is the prospect of a protracted period of surplus cash which the Bank wishes to offset.
+Once special deposits have been called, their release can be timed to match an expected money market shortage.
+6.2.4 Money market flows and the government's funding policy
+During the early and mid-1980s, there were persistent shortages in the money market and the Bank of England found itself regularly providing assistance to the market in the form of purchases of commercial bills.
+The Bank accumulated a substantial portfolio of commercial bills which came to be termed the "bill mountain" .
+As these bills were of short maturity (up to three months) they "rolled over" rather quickly.
+This factor, described as "bills maturing in official hands" above, came to be an important influence on the daily cash position of the money market.
+Overall shortages often amounted to more than £1 billion per day in the mid-1980s.
+The growth of the bill mountain in the first half of the 1980s was due largely to the policy of overfunding the PSBR — that is, selling more public sector debt to the non-bank private sector than was needed to match the size of the PSBR.
+The combination of the abandonment of overfunding and continued heavy borrowing by central government for on-lending to the local authorities and public corporations led to a move to overall money market surpluses in the later 1980s and a fall in the amount of money market assistance outstanding.
+From a peak level of £17 billion in July 1985, the amount of assistance outstanding fell to £4.1 billion by the end of March 1989.
+The Bank's holdings of commercial bills — the "bill mountain" — fell from a peak level of £14.3 billion in February 1985 to £2.4 billion at the end of June 1989.
+6.2.5 Relationship between Bank of England interest rates and market interest rates: administered versus market related interest rates
+Up until the early 1970s, the Bank of England's Bank Rate was the pivotal interest rate in the money market.
+Bank Rate was the rate at which discount houses could borrow from the Bank in order to meet any shortage of liquidity.
+The Bank could, and did, make Bank Rate effective by open market operations.
+In particular, as the discount houses were obliged to take up the whole of the weekly offering of Treasury bills by the Bank, the Bank could, by deliberately overissuing Treasury bills, leave the discount houses short of cash balances and force them to borrow from the Bank.
+Bank Rate was the rate charged for such "last resort" lending.
+Any rise in Bank Rate would induce the discount houses to raise their lending rates and this in turn would be reflected in the clearing banks' interest rates.
+The importance of Bank Rate was recognised to the extent that this process became short circuited.
+From the 1930s, the clearing banks directly linked their interest rates to Bank Rate.
+The rate became the central rate in a system of "administered" rates.
+In September 1971 a new system of competition and credit control was introduced.
+Under the new system, the role of quantitative controls on bank lending was reduced and greater reliance was placed on the role of market determined interest rates in the allocation of credit.
+The role of Bank Rate as the pivotal interest rate was reduced.
+In particular, the clearing banks ceased to tie their deposit and lending rates to it.
+However, Bank Rate remained as the "last resort" rate for lending to the discount houses and, furthermore, continued to have a high political profile.
+In order to make the rate more flexible, but still leave it as a penalty rate, a new system of determining the Bank's lending rate to the market was introduced.
+From 13 October 1972, Bank Rate was replaced by Minimum Lending Rate (MLR).
+MLR was set at ½%; above the average rate of discount for Treasury bills at the most recent tender, rounded to the nearest ¼%; above.
+The rate was automatically determined by this formula and announced each Friday afternoon with the results of the Treasury bill tender.
+The right to suspend the formula was, however, reserved.
+If the Bank decided, with the approval of the Chancellor, to make a special change of this kind, the announcement would normally be made on Thursday at midday.
+Although the formula related MLR was considered a more satisfactory system at the outset, the new system itself was found to be lacking when interest rates became much more volatile in the mid-1970s: high and variable inflation was accompanied by sharp changes in interest rate expectations and in the term structure of short term rates.
+Lending to the discount houses at MLR was never for periods longer than seven days but that rate was tied to the three month Treasury bill rate.
+Such a firm link between interest rates for different periods proved inappropriate in such volatile conditions.
+Indeed, it was only a year after the formula was introduced that the first suspension took place (on 13 November 1973, when MLR was raised from 11 ¼%; to 13%).
+On 7 October 1976 and on 3 February 1977 the formula was again suspended.
+On the fourth occasion of suspension, 11 April 1978, when MLR was raised from 6 ½%; to 7 ½%,; it was stated that the formula would remain suspended until it was capable of being applied without a change in the rate: that is, until market rates had risen to a level consistent with the administered rate.
+After two further administered rises in rates, it was announced on 25 May 1978 that from then onwards MLR would be a purely administered rate.
+Disenchantment with this regime soon set in.
+Changes in the official interest rate once again took on a high political profile and this led to problems with the conduct of monetary policy.
+Specifically, as soon as market interest rates started to rise, expectations of an increase in MLR were generated and the government's funding programme became difficult.
+Because official sanctioning of a rise in interest rates could be slow, a "funding pause" could result: this led to problems with controlling broad money, which in turn could reinforce expectations of a rise in interest rates.
+These problems, coupled with the Conservative government's free market philosophy, led to a move back towards more market related official rates in the early 1980s.
+On 20 August 1981, it was stated that MLR would no longer be announced continuously.
+Greater reliance was to be placed on market forces in the determination of interest rates, although the Bank would still aim to keep "very short term" interest rates within an unpublished "band" .
+This is generally interpreted as a band for overnight money rates.
+As discussed above, the range of signals at the Bank's disposal is quite wide.
+At the least subtle end of the range the Bank can announce in advance the rate which will apply in its 2.30 p.m. lending to the market.
+This technique has been used increasingly often in the recent past as a way of signalling the Bank's wishes on the appropriate level of interest rates.
+Its use can be regarded as a move back to a more "managed" approach to the determination of interest rates.
+More subtle techniques include not doing an early round of assistance when there is a large shortage.
+6.3 Size and structure of the London money market
+Before going on to discuss the characteristics of each market we set out in Table 6.3 the size of each of the markets that constitute the London money market.
+Table 6.3 The London money market: size and structure  
+6.3.1 Treasury bills
+Treasury bills are normally of three months to maturity.
+They are sold at a discount, the rise in price bringing a return to the holder as no coupon is paid.
+They are allotted by tender each Friday and issued on each working day by the Bank of England.
+The discount houses have a traditional undertaking to underwrite the whole of the Treasury bill tender.
+Historically, this arrangement provided a residual form of financing for the government — meeting any financing requirement not satisfied by sales of other forms of debt.
+When the Bank of England receives the proceeds of the Treasury bill tender a shortage in the money market is created.
+Indeed, in the 1960s and 1970s, deliberate over issuance of Treasury bills was the way in which the Bank of England enforced Bank Rate.
+The discount houses, in the face of the shortage which was created in the money market, were forced to borrow from the Bank of England's discount window at Bank Rate.
+From the mid-1970s onwards greater reliance was placed on control of broad money and sales of gilts replaced the need for the government to finance its borrowing requirement through the issue of Treasury bills.
+Indeed, the money market shortages created by greater reliance on sales of gilts were initially relieved by buying back Treasury bills from the market.
+In the early 1980s the process went one stage further with the Bank buying commercial bills as a means of providing assistance in the money market; the need for this was exacerbated by the policy of overfunding the PSBR to reduce broad money growth.
+Issuance of Treasury bills therefore amounted to only £100 million per week, with the largest part of this taken up by the banking sector.
+In the early and mid-1980s purchases of Treasury bills by the UK private sector contributed only a modest amount to funding the PSBR.
+The end of the 1980s, however, saw a return to surpluses in the money market, a reduction in the Bank of England's outstanding holdings of commercial bills and, in 1989, an enlargement of the Treasury bill issue.
+In May 1989 the size of the weekly three month Treasury bill tender was increased from the customary £100 million to £500 million, and for the first time a weekly six month tender of £100 million was introduced.
+In September 1989, nine week bills were also offered.
+Although the banking sector continued to be the largest purchaser of these Treasury bills, some were purchased by the M4 private sector (i.e. the UK private sector excluding banks and building societies)(see Table 6.4).
+In the first half of the 1989/90 financial year purchases by that sector amounted to £1.5 billion at an annual rate.
+Table 6.4 Treasury bills £ millions, net purchases by the public +/sales — Given that the government was buying in gilts with the purpose of unfunding the Public Sector Deficit Requirement (PSDR), such purchases meant that an even larger amount of gilts had to be repurchased from the M4 private sector, but these purchases themselves further increased the surplus in the money market and hence the requirement for issuance of Treasury bills.
+The Chancellor of the Exchequer thus announced in October 1989 that"it has become increasingly anomalous to chase our own tails in this way.
+Accordingly, we have decided to treat Treasury bill sales as outside the definition of funding irrespective of who buys them."
+As the public sector debt repayment is now contracting in size (to only £0.4 billion in 1990/91 compared with £14.7 billion in 1988/89 and £7.9 billion in 1989/90) and as a public sector borrowing requirement is expected for the 1991/92 and 1992/93 financial years, it seems likely that regular issuance of Treasury bills will be maintained.
+In the recent past the Bank of England has been issuing between £300 and £500 million per week of 91 day bills and £200 million per week of 182 day bills.
+Both are regularly three times oversubscribed.
+6.3.2 Sterling bank bills
+The bill of exchange has been used as a method of raising short term finance since the seventeenth century.
+It is an unconditional order in writing, addressed by one person or company to another, signed by the person or the company to whom it is addressed, to pay on demand or at a fixed or determinable future date a certain sum of money to, or to the order of, a specified person or company, or to bearer.
+Bills of exchange may be drawn in any currency.
+Those drawn in sterling are the most easily negotiated in the London market although there is a ready market for foreign currency bills providing they are accepted payable in London.
+Bills can be drawn for almost any amount but the maximum usually negotiated is £500,000.
+The period for which a bill is drawn is not normally longer than six months or less than fourteen days.
+The method of creating a bill is for the customer to arrange an acceptance credit facility with his bankers.
+This procedure involves the bank in accepting full liability to pay the bill on maturity and this is granted subject to the terms on which bills are drawn by the company.
+Very often this is combined with an option to take money instead should bill rates be unfavourable.
+This is commonly termed an "either or" facility.
+Bank bills are classified as either eligible or ineligible.
+Eligible bank bills are accepted payable by one of the banks on the Bank of England list whose paper is rediscountable at the Bank of England (that is, such bills can be bought by the Bank in its money market operations).
+Ineligible bank bills are accepted payable by banks whose paper at present is not rediscountable at the Bank of England but whose names trade in the money markets.
+The discount market helps to make a secondary market in this type of paper.
+Trade bills are bills drawn by one trade customer and accepted by another rather than a bank.
+Their rate of discount depends on the financial status of the two companies.
+6.3.3 The interbank market
+In the interbank market, banks offer surplus deposits which they might have to other banks.
+Banks who wish to acquire additional deposits in order to match their loan commitments bid for such deposits.
+These deposits are for a range of maturities from overnight to one year.
+Generally, the shorter maturities are the most actively traded.
+The interbank market is the largest of the London money markets, with close to £100 billion of sterling interbank deposits outstanding (see Table 6.5).
+It is thus more than twice the size of the sterling CD market.
+Rates in this market have taken on particular importance in the recent past for three main reasons.
+First, the UK clearing banks have come to rely heavily on raising funds in the interbank market.
+Second, many companies have loan facilities at rates linked to interbank rates.
+The London Interbank Offered Rate (LIBOR) has come to be widely used as a   benchmark rate, deposit and loan rates being set on margins related to LIBOR.
+Many corporate customers now have access to both traditional base rate related loan facilities as well as LIBOR related facilities.
+Third, the launch of the LIFFE short sterling contract in 1982, and its subsequent successful development into one of the most active of the LIFFE contracts, has enhanced trading opportunities in the interbank market.
+In the light of these two developments, the clearing banks have moved to a system whereby their base rates are now largely determined by the prevailing inter-bank rate.
+Barclays Bank plc took the step in March 1984 of announcing that it would aim to keep its base rate within ¼ — ⅜%; of the prevailing three month interbank rate, but there no longer seems to be a very precise linkage between the two rates.
+Rather, the term structure of interbank rates, which gives an important indication of expected interest rates, will also be considered.
+If interbank rates are determined solely by expected future interest rates, then the current structure of rates can be "unwound" in order to obtain expected future rates.
+As an example of how this can be done, refer to Table 6.6.
+In this table we show interbank interest rates at maturities from one to twelve months.
+From one month and four month rates we can derive the three month interest rate which, if prevailing in one month's time, would lead to the same return being achieved from investing either in a combination of a one month deposit followed by a three month deposit, or in a four month deposit from the outset.
+Similarly, the two month and five month rates can be used to derive the expected three month rate in two months' time.
+In this way, we can build up a profile for expected three month interest rates, shown in the right hand column of Table 6.6.
+Given the close relationship between three month interbank rates and base rates, this provides a good guide to the money market's expectation of the path of base rates over the next twelve months.
+6.3.4 LIFFE short sterling contract
+Alternative information on expected interest rates is available more directly from the prices of the short sterling contract traded on the London International Financial Futures Exchange (LIFFE) and in practice developments in this market often lead developments in the cash market.
+This contract is deliverable on the first business   day after the third Wednesday in the relevant month (that is, usually about the 19th).
+The contract is expressed as 100 minus the three month interest rate to be delivered.
+Thus an 8.5% expected rate gives a contract price of 91.50.
+The corresponding data on interest rate expectations from the LIFFE market are shown in the lower section of Table 6.6.
+6.3.5 The CD and euro-CD (ECD) market
+The CD market in London started in 1967 with the issue of the first US dollar CD (that is, it was strictly the euro-CD, ECD, market).
+It is currently the second largest section of the London money market, after the interbank market.
+The current size and structure of the market are set out in Table 6.7 and the development of the non-sterling CD market in Table 6.8.
+Any bank with a UK banking licence can issue a CD in London, which can be denominated in sterling, US dollars, yen, Canadian dollars, Australian dollars, SDR and ECU (although the Bank of England is prepared to accept issues in other currencies, subject to approval from the relevant central bank) with no minimum maturity and a maximum maturity of five years.
+Authorised building societies can also issue London CDs.
+The US dollar sector of the market is still the largest and most active, and of the £74 billion (US$119 billion) outstanding in "other currencies" in mid-1991, around £65 billion (US$105 billion) was probably dollar denominated.
+In the early 1980s the eurodollar CD market received its growth momentum from two forces: the high level of dollar interest rates and reserve requirements on dollar domestic (i.e. issued in the US) CDs.
+Both of these favoured issuance of CDs   in the euro rather than the domestic market.
+Reserve requirements on domestic CDs increase the cost of funds to banks.
+Suppose the reserve requirement is 3%.
+Then for every dollar obtained through a CD, only 97% is available to lend.
+If a bank's CD offers a 10% yield then the additional costs imposed by reserve requirements is 31 basis points (10%/0.97=10.31%).
+In 1980, with interest rates as high as 20% and an 8% required reserve, the implicit cost of issuing a domestic CD would have been 174 basis points (20%/0.92=21.74%).
+In 1991, with interest rates around 6% and a 3% reserve requirement, the implicit cost was down to 19 basis points (6%/0.97=6.19%).
+The relatively less marked advantage for American banks of issuing in the euro markets explains the fall in issuance by American banks in the late 1980s and into the 1990s.
+The principal issuers of US dollar CDs are now the Japanese and European banks (see Table 6.8), a sharp turnaround from the situation of the early 1980s.
+Domestic US investors form the largest part of the holders of the US$ CDs issued in London, probably accounting for around three quarters of all holdings.
+Of the relatively small amount of CDs issued in other currencies, yen and ECU make up the bulk.
+ECU CDs are typically held by EC nationals, although some are also held by central banks.
+Yen CDs are mainly held in the Far East.
+In the sterling CD market, the UK clearing banks and the Japanese banks are the largest issuers, although the UK building societies are also playing an increasing role.
+UK corporates, building societies, local authorities and banks themselves are the main investors.
+US dollar CDs are broadly traded by a large number of institutions.
+The market is overseen by the International Certificates of Deposit Market Association (ICDMA).
+Up until very recently, a trader was obliged to make a two way market in any CD from one month to one year to maturity, in which he held an inventory (traders not being allowed to go short).
+Issues are divided into individual months, and within each month into early (the first half of the month) and late (the second half).
+Up until recently there was also a generic list for issues by Japanese, Americans and Europeans.
+Thus a trader might be asked for his price in "American early threes" , meaning CDs issued by American banks with a maturity in the first half of the three month maturity period.
+The trader would be obliged to make at least a bid in one of the generic runs and in a size of at least $5 million.
+The generic list system has declined in use, however, given growing concern about the credit worthiness of individual members of the list.
+The issuers in the generic American list, for example, no longer all trade on the same basis.
+Trading is now more "name" orientated.
+In the sterling CD market, trading is split into clearing bank, building society and other issuers.
+Clearing bank CDs form the most actively traded component of the market.
+No overall body, such as the ICDMA, has set up rules for trading and trading is generally more fragmented than in the dollar CD market.
+There are no clearly defined maturity bands or formal minimum or maximum dealing sizes as in the dollar market.
+6.3.6 The role of brokers in the CD market
+In the secondary market, around three quarters of trading is principal to principal, with one quarter conducted through brokers.
+In the primary CD market, brokers have a larger role, with the proportion broadly reversed.
+This reflects the importance of structured deals in the primary market which in turn often hinge on taking advantage of arbitrage opportunities.
+For example, a broker might know that one market maker has a strong demand for CDs of six month maturity, but can only find an issuer willing to issue at three months.
+By bringing the two parties together and structuring a transaction involving the use of Floating Rate Agreements (FRAs), an overall package can be brought to the market.
+The FRA, an agreement as to the level of LIBOR at a certain date in the future, often plays a crucial role in such structured deals.
+For example, the broker could identify a potential issuer of CDs of six months maturity at LIBOR minus ⅛, and then lend the funds for three months at LIBOR.
+By entering into an FRA, which sets the reinvestment terms when the three month CD matures, an overall return to the issuer higher than LIBOR minus ⅛ can be achieved.
+Although CDs are still to a large extent an instrument of liability management, such arbitrage has become increasingly important in driving new issuance recently.
+In the dollar CD market, dealing spreads are typically 5 basis points for CDs between one month and one year to maturity, for a minimum size of $5 million, with the spread normally being the same up to $100 million.
+In the sterling market, spreads for one month to one year maturity are for clearing bank CDs, ⅛ for others.
+For CDs over one year maturity spreads are generally wider, 10 basis points in the dollar market and in the sterling market ⅛ for the clearers and variable for others.
+The CD market at this maturity is generally driven by the interest rate swap market with, in particular, banks issuing fixed rate in order to obtain LIBOR-related funding.
+6.3.7 The ECP market
+The euro-commercial paper (ECP) market made its first appearance in the early 1970s.
+At that time it developed as a means of circumventing US restrictions on foreign direct investment, but when those restrictions were lifted in 1974 the market contracted sharply.
+It was not until the early 1980s that a sustained development of the ECP market took place.
+The renewed development of the market in the 1980s can be traced to three principal factors.
+First, convergence between euro and domestic interest rates.
+In particular, with lower short term interest rates and reserve requirements in the US, domestic CD and euro CD rates converged from the mid 1980s onwards, as described above.
+Second, there was a changed source of the supply of capital in the world financial markets away from the Middle East and towards Europe and Japan.
+These investors had a preference for securities rather than bank deposits.
+Third, a number of factors combined to make CP finance relatively cheap in relation to bank finance.
+The reduced credit ratings of the banks meant that good quality corporates could issue directly in the capital markets on relatively more favourable terms.
+Moreover, corporates issuing directly in the CP market did not have to bear the costs associated with reserve requirements, requirements which encouraged the banks themselves to favour off balance sheet instruments.
+The banks thus switched, to some extent, from an intermediary role (taking deposits and making loans) to an agency role (the placing of securities in the market).
+The ECP market itself developed from the euronote market.
+The euronote market developed in the early 1980s with the success of such underwritten facilities as RUFs (Revolving Underwriting Facilities), NIFs (Note Issuance Facilities) and SNIFs (Secured Note Issuance Facilities).
+These were arrangements through which a stream of notes and CDs were issued.
+The principal difference between ECP and euronotes is that euronotes are issued with the backing of a syndicate of underwriters whereas ECP is issued on a non-underwritten tap basis.
+The growth rate of the ECP market has been impressive, growing from around $10 billion outstanding at the end of 1985 to $70 billion at the end of 1990.
+6.3.8 Commercial paper
+On 29 April, 1986 H.M. Treasury and the Bank of England announced changes in existing regulations to allow the issue of Sterling-denominated Commercial Paper and the first issue was launched on 20 May 1986.
+The market received added impetus on 11 January 1990 when the Bank made two further moves: the maximum maturity of paper was extended to five years (it was previously one year), with  paper of a maturity between one and five years designated "medium-term notes" (MTNs); and issues could be in any currency, not just sterling.
+Since the opening of the Sterling Commercial Paper (SCP) market in 1986, there have been regular issues but the market has not developed as quickly as national (as opposed to euro) commercial paper markets in many other European countries.
+SCP takes the form of negotiable short term unsecured promissory notes denominated in sterling and payable to bearer.
+It is similar in kind to US dollar commercial paper which has been issued in the United States for many years.
+It may be issued by UK or overseas companies which satisfy certain conditions.
+The main restrictions on issuance are that the issuer must have shares listed on the Stock Exchange and have net assets of at least £25 million.
+The minimum face value of paper is £500,000 and maturities can range from 7 days to one year.
+The issue and distribution of SCP in the primary market can be effected in various ways.
+The most common method is by means of a continuous programme, for which one or more banks or securities houses are appointed by the issuer to act as dealers.
+In a dealer programme, an appointed dealer normally acts as a principal, purchasing SCP from the issuer for onward distribution to investors.
+Alternatively, a dealer may act as agent on behalf of the issuer, placing paper with investors on a best endeavours basis.
+As alternatives to a dealer programme, a company may issue SCP direct to investors or through a tender panel of banks which are invited to bid competitively for the paper.
+Normal market practice is for SCP to be issued on a non-interest bearing basis at a discount to its face value, although provision has also been made for it to bear a stated rate of interest.
+In either case, it is issued and dealt in the primary and secondary markets on the basis of a yield to maturity, which is usually expressed in basis points.
+An issuer will need to appoint an issue and paying agent, to be responsible for the safekeeping of bearer notes, completing and authenticating the notes prior to issue and handling the payment flows between the issuer and holder at issue and at maturity.
+As a domestic sterling instrument, the delivery, settlement and clearing arrangements for SCP are similar to those for other domestic instruments such as sterling certificates of deposit.
+In the first five years of the market's existence, between May 1986 and May 1991, 222 companies issued sterling commercial paper.
+Of these 197 still had commercial paper outstanding in May 1991 with a total value of £6.25 billion (see Table 6.9).
+Table 6.9 Sterling commercial paper   The development of the market has not been as rapid or as extensive as in many other European countries.
+In France, for example, the domestic CP market was launched at around the same time, but by the end of 1990 it had grown in size to FF165 billion, around four times the size of the UK market (see Table 6.10 for a comparison of commercial paper markets in Europe, the ECP market and the US CP market).
+There are several interrelated explanations for the relatively limited development of the SCP market.
+Perhaps most important is the well developed nature of the domestic bank bill markets.
+As the Bank of England conducts its money market operations predominantly in such instruments, there has been a continued demand for such paper.
+There is a question as to the importance of the bank guarantee on such bills.
+SCP does not have a guarantee and, traditionally, "name recognition" has been the principal way of ascertaining the credit risk associated with SCP.
+The spate of defaults in the ECP market, and the default of Polly Peck in the SCP market in 1990, however, brought into question whether such a system provided adequate information as to credit standards for the investor.
+In response to the spate of defaults, the use of credit ratings has become more widespread in commercial paper markets recently, with up to 90% of new programmes now rated.
+Moodys estimate that around 40% of outstanding SCP programmes have a credit rating.
+The domestic banking system has (since the early 1980s) been completely free of formal restrictions on the supply of credit and has not been subject to reserve requirements.
+The imposition of credit restrictions in other markets (for example, in Spain in 1989) stimulated the development of the domestic commercial paper market in that country.
+These problems can be seen as having prevented the SCP market developing sufficient "critical mass" and this, in itself, has brought its own problems.
+For example, documentation standards in the market have been criticised, and are generally regarded as falling well behind standards in the US CP and ECP markets.
+The structure of a commercial paper programme is generally determined by the type of credit support, if any, on the programme.
+A CP programme can be issued with or without: i) support from the issuer's parent; ii) credit support from a bank or surety support from an insurance company, and iii) collateral support.
+The type of support is not always perfectly clear in SCP programmes: for example, the extent to which the parent company is responsible for SCP formally issued by a subsidiary company may not always be clear.
+In a better developed market such documentation problems would be less likely to occur.
+The relatively underdeveloped nature of the market has also meant that consistent historical data for SCP interest rates are not readily available, so potential issuers in the market find it difficult to ascertain the interest rate they need to offer in the market.
+Some of the larger issuers have simultaneous ECP and SCP programmes, being easily able to switch between the two markets in order to take advantage of perceived arbitrage opportunities and with the ECP programme providing a "benchmark" interest rate for the SCP programme.
+Access to the ECP market, in itself, may also explain the underdeveloped nature of the domestic CP market.
+Many ECP programmes include options to issue in more than one currency, although the majority still only allow for issuing in US dollars.
+UK corporates might find it attractive at times to borrow in a currency other than sterling (most commonly US dollars) through such a programme and fully hedge the proceeds into sterling, hence creating a synthetic SCP.
+The flexibility of ECP programmes, with issuance often taking place within a day of the decision to    issue being taken, means that it is relatively easy to take advantage of such short term opportunities.
+The UK building societies, with well recognised "names" , have been active in this respect.
+The fact that the foreign issuer premium (i.e. the amount by which the interest rates on issues by foreign names exceed those on US domestic issues) in the US market is now close to zero has facilitated such fully hedged issues.
+6.4 Issues for the future
+The ECP market is a convenient point at which to end the discussion of the current structure of the London market as many of the issues facing the London money market generally are exemplified in that particular market.
+A key issue is the extent to which the money market continues to be dominated by the markets in which the banks play a role either as intermediary or guarantor.
+The interbank, CD and eligible bill markets remain by far the largest elements of the London money market.
+The commercial paper market might still challenge these established markets, although for the reasons discussed above it has not yet developed critical mass.
+More widespread concern about bank credit risk or the imposition of credit controls on the banking system could stimulate the development of the market, but they are presumably not the routes through which the Bank of England would prefer development to take place.
+The Bank of England could help the market develop further by purchasing SCP as part of its daily money market activities, rather than just eligible bills.
+With the size of overall shortages in the money market having been reduced, however, the technical position in the money market is unlikely to warrant such a move.
+The Bank, however, does regularly review its list of banks who are eligible to have their bills rediscounted at the Bank of England and it is arguable that the credit risk of many UK corporates is lower than some of the banks on that list.
+There is a more general issue here about the interface between the Bank of England and other sectors of the economy.
+In the early 1980s when the policy of overfunding led to persistent money market shortages, the Bank's bill mountain was criticised from the standpoint that it entailed the Bank acting essentially as a clearing bank, lending to the corporate sector (albeit indirectly) via its bill purchases.
+Moreover, the bill purchases were due to a large extent to overfunding of the PSBR through sales of gilts so the Bank was effectively carrying out a maturity transformation in the market and one which, at times, entailed a "cost" (as bill yields were lower than gilt yields).
+Although the abandonment of overfunding has meant that this problem has (although maybe only temporarily) been resolved there still remains an issue as to the relationship between central government and the local authorities.
+As a way of alleviating shortages in the money market in the mid 1980s the central government borrowed heavily to on-lend to the local authorities.
+This raises the CGBR (within an unchanged PSBR) and eases the cash position of the money market.
+Favourable financing from the Public Works Loan Board is still made available to the local authorities, although the money market rationale has largely disappeared and local authorities borrow only limited amounts directly in the capital markets.
+But with questions raised about the credit worthiness of some local authorities, is the provision of cheap finance from central government the best way of financing such institutions?
+Ought they to be forced to borrow more directly in the capital market, so that their credit worthiness can be assessed in the market and an appropriate interest rate be charged?
+The absence of new gilt issues for a period from 1988 to 1991 and the steeply inverted yield curve for much of that time meant that the eurosterling bond market developed strongly.
+To some extent this market was tapped by UK corporate borrowers who then swapped the funds to achieve LIBOR related funding.
+Such long term fixed rate financing opportunities may not be so readily available in the future, with the chance of the corporate sector being crowded, or priced, out of the long end of the market.
+First, the Bank of England has already returned to the gilt market as an issuer and the prospect over the next few years is one of a larger PSBR and gilt issuance.
+At the same time, the yield curve has taken on a flatter shape and could, especially given Exchange Rate Mechanism membership, take on a more typically continental European upward sloping nature.
+Both developments could push the non-central government borrowers towards the shorter maturities.
+The move towards more unified European financial markets and a single European currency during the 1990s are potentially the most important, but at this stage the most unfathomable, forces acting on the London money market in the 1990s.
+For example, will London become the operational centre for a new European central bank and if so how will its responsibilities be defined?
+To what extent can restrictions or controls on the domestic (that is, the UK) market be maintained in the face of integration of financial markets?
+Can the Bank of England's restricted list of counterparties with which it deals in the money market be maintained in the face of EC Directives on capital liberalisation?
+Will the UK be left behind as the majority of other countries in the ERM use a common currency?
+Finally, there is the problem of regulation and supervision.
+The development of banks' off-balance business was a source of concern for regulators in the 1980s and early 1990s, but the problem may well become larger if the credit risk of the banks is further undermined and the banks no longer act as intermediaries in a growing number of capital market transactions.
+version of Bank of England (1982).
+See also Bank of England (1983).

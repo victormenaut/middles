@@ -1,0 +1,280 @@
+
+
+BULL TO EXTEND IBM'S RS/6000 LINE WITH MULTI-PROCESSING
+Determined not to be viewed as another Wang, Groupe Bull SA took the time to clarify to journalists its position regarding IBM and the RS/6000 last week at its Les Clayes-sous-Bois research and development centre in Paris.
+Unveiling the new DPX/20 line of systems, currently just RS/6000s with a Bull badge on the front, the company revealed that it would begin adding its own design work to the systems by year-end.
+It also insisted that it was the lead partner working on multi-processing technology using IBM's Power RISC chip, and that IBM would more than likely OEM the Bull work for future versions of its own RS/6000s.
+Unlike Wang, which has effectively withdrawn from systems manufacturing and is little more than a reseller for the IBM line, Bull will be taking up both the manufacturing and design rights it negotiated with IBM back in February (UX No 370).
+It is already offering non-IBM peripherals for the DPX/20s, something that may allow it to undercut IBM's pricing, and intends to add bespoke features to the hardware, such as terminal support, before the end of the year.
+As for multi-processing, Bull says it has recently woken up to the fact that it has a lead over most of its competitors — the Motorola-based DPX/2 line has supported symmetrical multi-processing with up to four processors for years, and now claims to have cornered a leading 20% share of the symmetrical multi-processing market.
+It is working with IBM and Motorola Inc (helping IBM with the new PowerPC RISC implementation) on both hardware and AIX software, so that users of the new version of the Power RISC will all support compatible multi-processing implementations — something should emerge during the first half of next year.
+By giving it over to Bull, IBM has effectively said goodbye to the French market for the RS/6000.
+Details of DPX/20 line and new GCOS systems, page two.
+SUN SPAWNS SUNSELECT, ITS PERSONAL COMPUTER SIBLING
+Sun Microsystems Inc, Mountain View, California, last week rolled out SunSelect, its eighth free-standing business unit since it decided to fragment itself — this one aimed at gouging out a piece of the MS-DOS space for the company.
+Carl Ledbetter, SunSelect's general manager, perhaps best remembered by the industry as the erstwhile chief executive officer of ETA Systems, Control Data Corp's supercomputer subsidiary, calls his new charge ‘Sun's heretical sect.’
+His business licenses him to fraternise with the enemy and casts him in the role of a Microsoft independent software developer-come-OEM, complete with an early access copy of Microsoft NT.
+What exactly SunSelect will do with NT remains to be seen, dependent in some ways on how well NT penetrates the market.
+SunSelect, however, is already toying with notions of porting Sun's network NFS to it and is in early discussions with Microsoft, which is currently looking to DEC to buck up its NT networking capabilities, exploring points of synergy.
+But all that is off in the future.
+What SunSelect is pushing immediately is PC-NFS 4.0 (details on page three), the latest version of PC-NFS now supporting Windows 3.1 as well as MS-DOS 5.0, the first networking product to do so it claims, as well as SunPC (UX No 380), the new MS-DOS/Windows emulator and NetWare SunLink, a Novell Inc-to-Sparc connection.
+NetWare SunLink puts Sun on a path already trodden it seems by almost everyone else in the industry.
+However, Ledbetter claims that SunSelect will make more of its relationship with Novell than most, promising additional products and distribution.
+Novell's relationship with Unix Systems Labs and their Univel Inc/Destiny joint venture for the desktop market has been a sore point for Sun, which wanted a Novell/Solaris-on-Intel distribution pact for itself.
+IBM SETS 100 SPECMARK RS/6000 POWERSERVER 970
+IBM Corp is tipped to attempt to rein back Hewlett-Packard Co's surging high-end business by coming out with a new top-end model of the RS/6000 in the next couple of weeks.
+The machine will reportedly do 100.3 SPECmarks courtesy of a new implementation of the processor in 0.5 micron CMOS.
+Expected to be called the Powerserver 970 and costing little more than the current 75.8 SPECmark Model 950, it is said to be a rack-mount machine costing around $97,000 for an entry-level configuration with 64Mb memory and 2.2Gb disk.
+It is also expected to use the new 80Mbytes-per-second version of the Micro Channel and to have 16 slots against eight on the 950.
+BELL ATLANTIC ‘TO RESURRECT VLIW TECHNOLOGY FOR SPARC’
+Somewhere in the depths of Bell Atlantic Corp, Philadelphia, Pennsylvania, Very Long Instruction Word technology is making a resurgence, and this time around it's destined for use with Sun Microsystems Inc's Sparc RISC chip.
+Bell Atlantic acquired its VLIW technology from minisupercomputer builder Multiflow Computers Inc for an undisclosed fee after the pioneer of that particular brand of computing threw in the towel back in 1990 when it ran out of cash (UX No 276).
+Bell Atlantic is understood to be working on an implementation of Multiflow's ingenious Trace Scheduling Compilers for 64-bit Sparc architectures.
+The development work isn't thought to be linked to Sun in any formal way, but the news comes just a week after Sun revealed that it is playing with a 64-bit Sparc, and outlined its intent to define the ground rules for such environments through a new release of Sparc International's interface specification for 64-bit Sparc architectures (UX No 380).
+Unlike currently popular pipelining and superscalar techniques, VLIW technology uses Trace Scheduling to compile C and Fortran programmes into very long instruction words for simultaneous execution.
+The compilers keep all processes in a multi-processing system busy, and are adaptable to architectures that can execute more than one instruction per cycle — such as RISC.
+The technique requires the compiler to recognise which instructions are dependent on the results of the previous one and avoid scheduling parallel execution of such instructions, while letting others go.
+Sun says it is ‘not doing anything with VLIW, but the fact that Bell says it is, is great.
+VLIW technology running on Sparc will give us other markets to break into…and it'll be great for Solaris too, if it is binary compatible.’
+BULL'S POWER RISC SYSTEMS MAY UNDERCUT IBM
+Groupe Bull extended its line of Unix-based systems last week with the DPX/20 family, rebadging IBM RS/6000s to produce the DPX/20 Model 100 compacts, Model 400 desktops and Model 600 deskside systems — see front page.
+Prices start at around $6,500, and Bull says they will be ‘very competitive with IBM's’, and perhaps cheaper, as Bull will not use IBM peripherals.
+There are ten models, grouped into the 100, 400 and 600 Series.
+The 100s include the basic 110, diskless 115, mono 125 and colour 135 workstations, along with the 140 server, all using the 33MHz Power RISC.
+Then comes the 400 Series: the 25MHz 430 server and 42MHz 450 models; and three Series 600 deskside machines, including the 25MHz 610, 33MHz 620 and 50MHz 650, equivalent to IBM's Model 560, introduced at the beginning of the year.
+The operating system is AIX 3.2, IBM's Unix implementation, renamed Bull Open Software/X.
+Although it will compete against IBM with the boxes, Bull said it would also be working to configure the machines specifically for its own markets, and hope to be able to offer them to its banking customers for branch systems, for instance, in conjunction with its proprietary GCOS transaction processing servers (see below), tied together through the Bull Distributed Computing Model (based on OSF's DCE).
+To help customers make the transition from its Motorola-based DPX systems, Bull says it will make sure the same software environments (databases etc) are available on both lines, and says applications will be source-level compatible.
+Only small numbers of the short-lived MIPS-based product line were sold, and these have now been withdrawn.
+Bull also said that it was committed to maintain binary-level compatibility with IBM systems, including the future multi-processors — which means the establishment of an Applications Binary Interface that both will follow.
+The company is said to have an installed base of around 30,000 Unix servers in Europe.
+Bull hangs back on Posix compliance for GCOS ranges
+Despite its enthusiasm for Unix, Bull says it is committed to continue support for its proprietary GCOS6, GCOS7 and GCOS8 product lines, which are now positioned as specialised high-performance transaction processing servers, saving on costs by using as many common technologies to produce the three lines as possible.
+Unlike some of its competitors, Bull says it has yet to work out whether or not Posix compatibility for proprietary systems is anything more than a marketing gimmick, and so it has not yet embarked on the expensive process of adapting the GCOS operating systems to comply with Posix.
+Having re-vamped its DPS600, GCOS 6 line last November, Bull this time added two new ranges to its DPS 7000 (GCOS 7) and DPS 9000 (GCOS 8) lines.
+The DPS 7000 Model 400s, supporting up to 1,000 users, are housed in a small cabinet and are said to bring small systems price/performance advantages to the low-end of the GCOS 7 range.
+They includes a co-processor ‘turbocharger’ for database applications called the HRP (high relational performance) option, to double the speed of Oracle and later other relational databases.
+Available from June, priced from around $180,000.
+The DPS 9000 Model 500s are also entry-level machines into Bull's most powerful range of systems, and like the new 7000s, use Bull's latest VLSI/CMOS chip technology.
+Available from year end, with prices starting around $360,000.
+Bull demos software technologies at Les Clays-sous-Bois
+A quick whizz around the impressive Les Clayes-sous-Bois research and development facility at Versailles, near Paris, France, where much of the multi-processing work on the RS/6000s will be carried out, revealed a number of interesting software projects afoot.
+Bull has already revealed details of its Integrated Systems Management effort, based around the Open Software Foundation's  Distributed Management Environment, and is now working on some of the first practical applications to run on top.
+These are mostly being written with the aid of Egeria, a graphical user interface editor which cuts what would be a 200,000 line Motif application program down to 10,000 lines.
+Egeria also takes advantage of Bull's own library of graphics functions.
+Bull also has some multi-media projects on the boil in conjunction with Philips, through the Esprit MultiWorks project, and demonstrated an unannounced HyperPath authoring environment for multi-media applications, currently running on Intel-based SCO Unix systems, but also available for Windows, and soon for the IBM RS/6000.
+Bull said it still continues to be part of ACE Consortium, but only as far as desktop Intel-based systems are concerned: it refused to be drawn over the question of whether its relationship with IBM would result in it favouring OS/2 over Windows 3, saying only that ‘Windows is what our customers are buying today’.
+DEC RE-POSITIONS VMS TO COMPETE WITH UNIX LINES
+With all of its efforts to establish itself in the Unix marketplace, DEC has sometimes been in danger of convincing its own VMS customers that the traditional VAX lines have not been keeping up with Unix in the price/performance race.
+But now it has revealed its plans for the next generation of VAXes to be built around the new Alpha RISC chip, DEC is again keen to push the advantages of staying with VAX.
+Accordingly it is no longer adding premium prices to the VAX Line — in the UK for instance, system prices for the VAX 4000 Model 500 have been reduced by between 14% and 21% across the range, with an unlimited open VMS user licence falling in price from £29,000 to £7000 — a 76% reduction.
+MicroVAX 3100s, claims DEC, offer the best price/performance in the business for transaction processing, set at under $8,000 per transaction using the TPS transactions per second benchmarking figures.
+VMS also offers the best clustering facilities and host functionality, and has at least a measure of openness with the addition of VMS Posix compliance.
+In the UK, the VMS and Unix sales and marketing teams have been integrated into one, an initiative that other parts of the company are watching carefully.
+As for the transition to Alpha, DEC's Chris Sarfas said the company would be shipping ‘a huge number of Alpha machines to application developers this year’, and that, with at least 1,000 applications ready and running, would begin shipping Alpha systems to  customers in 1993.
+Alpha as a transaction processing engine would begin to take off in 1994, he predicted, by which time 5,000 applications would be ready.
+But meanwhile, there will be new VAX products within every sector of the range within the next nine months, he promised.
+IBM TAKES A HIT FROM NCR AT MEAD DATA CENTRAL
+In one of the more dramatic examples of downsizing so far, Mead Corp's big Mead Data Central Inc, operator of the world-famous public Lexis and Nexis databases, is replacing one of its IBM Corp mainframes used for administration with members of the Intel Corp iAPX-86-based Unix family from AT&T Co's NCR Corp.
+Terms of the multi-million dollar contract were not disclosed.
+The first order of NCR System 3000 products included Model 3550 multiprocessors; 3450 deskside multiprocessors; 3445 departmental servers; and Co-operation software.
+All applications will be transferred onto the NCR 3450s and 3550s from the mainframe and will be accessible from all Mead Data Central field locations.
+Mead says that its mainframe was running at maximum capacity, but rather than upgrade, it searched for an alternative due to the rising costs of proprietary mainframe technology.
+NCR currently is helping Mead Data Central Information Systems to re-write core applications based on a pilot test that concluded recently in Dayton.
+Inventory, invoicing, order management and personnel tracking will be among the first applications modified.
+It seems likely that once the current project is complete, Mead will switch entirely to Unix systems.
+SUN DEBUTS INTEL-BASED PC ACCELERATOR AND ENHANCED MS-DOS EMULATOR
+SunSelect's SunPC — see front page — the $700 software emulator, a replacement for the pre-existing MS-DOS Windows and SunIPC products, is described as a co-development with UK firm Insignia Solutions Ltd, High Wycombe, Buckinghamshire — also in Mountain View, California — partially owned by Microsoft Corp.
+Though reportedly not the widely used SoftPC, it is based, Ledbetter said, on SoftPC 3.0.
+Sun has added things like Open Look and internationalized keyboards.
+The software gives a Sparc workstation the performance of an Intel Corp 80286 box in protected mode.
+To increase Sparc's PC power, Sun has, as expected (UX No 380), also fashioned a $1,500 SunPC Accelerator SX, an Sbus board with a 16MHz 80486sx chip and custom ASICs to achieve 80386 or better performance with SuperVGA grahpics.
+There is a $2,000 SunPC Accelerator DX equipped with a 25MHz 80486dx part to put Sparcs on a par with 80486 personal computers.
+The products become available at the end of this week with upgrades priced at $250.
+PC-NFS 4.0, on the other hand, has been quietly shipping since March 19, but SunSelect, a beta site for Windows 3.1, couldn't announce it until Microsoft officially unveiled 3.1 at Comdex.
+The new version includes built-in console messaging, 4/16Mbps Token Ring drivers, simultaneous access to NetWare and Banyan Systems Inc Vines and easier administration.
+SunSelect says the new release of the PC-NFS Programmers' Toolkit is the first to enable developers to write TCP/IP network-based distributed Windows applications.
+The enhanced product is also first to join industry standard application programming  interfaces (XTI and TIRC) with TCP/IP on the MS-DOS/Windows platform.
+SunSelect is pricing PC-NFS 4.0 at $4,415 for one user, $90 for an upgrade, but under a special 90-day promotion five seats will run to $25 a seat, 25 seats to $20 a seat and a site license at roughly $13 a seat.
+Ledbetter, who was attracted to the subsidiary out of patriotic, America-first aspirations, believes the until will be worth $100m in two years.
+…
+SUNSOFT ‘TO OFFER WINDOWS SUPPORT’
+SunSoft Inc is going to support Microsoft Corp Windows 3.0 applications under its Solaris 2.0 Unix SVR4 implementation, according to SunSoft president Ed Zander, speaking at SunWorld Expo a couple of weeks ago.
+However, the company hasn't decided whether support for the environment should be available as a third party solution or whether it should stick the technology into Solaris itself.
+Quorum Software Systems Inc, the Menlo Park, California outfit which has already done a version of its Compatibility Engine — allowing Apple Macintosh programmes to run on RISCs — for Solaris, is currently negotiating terms with SunSoft to so a similar Windows product, saying it would be an easier job than the Macintosh version.
+TRASH!
+JUDGE CANS MOST OF APPLE SUIT AGAINST MICROSOFT, HEWLETT
+Apple Computer Inc has been left with little more than a garbage can in its protracted suit against Microsoft Corp and Hewlett-Packard Co alleging that Windows infringes its copyright in the Macintosh user interface.
+In a surprise ruling late last Tuesday, Judge Vaughn Walker threw out almost all the elements of the case, including specific icons and general appearance, and told Apple's lawyers that their claim on grounds of general overall appearance represented a fundamental misunderstanding of the law.
+Apple is still expected to proceed with the tattered case on the few elements that were not thrown out, including the idea of using a picture of a dustbin to signify deletion of a file and the way Windows handles type fonts.
+Hewlett-Packard's lawyers reckon that the company can now seek summary judgement on the entire proceeding next month.
+…
+AS BILL GATES PROMISES NT BY YEAR-END, OBJECT LINKING 2 IN 1993
+Microsoft Corp's New Technology operating system, expected to go into beta test this month now not be put into the hands of end users until July, Bill Gates told information systems managers and journalists at a computing debate in London last week.
+NT, which Gates said conforms with Posix and X/Open Portability Guide 3 standards, will ship at the end of this year.
+At the symposium, ‘Are You Prepared for IT?’, hosted by Zenith Data Systems, Gates spoke out on object programming, saying he thought the concept was just another hype that extends far beyond the reality available today — having said that, he said to look out for Microsoft's Object Linking and Embedding 2.0 ‘during 1993’, saying he was all for any technology that will enable the economical re-use of parts of programs.
+NETWORK COMPUTING DEVICES TO GO PUBLIC: ACQUIRES PERSONAL GRAPHICS DIVISION OF SPECTRAGRAPHICS CORP
+Mountain View, California-based X-Window System terminal specialist Network Computing Devices Inc has made its first acquisition and has filed to go public with an initial offer of 2.5m shares at between $12 and $14 a share.
+The acquisition is Spectragraphics Corp's GSS Personal Graphics Division, which supplies software that enables MS-DOS personal computers to perform X terminal functions.
+Network Computing paid $4.5m for the business; Spectragraphics acquired the business — then called Graphic Software Systems Inc, in June 1990 for up to $12m.
+It now becomes the PC-X Division of Network Computing Devices, and its 44 employees remain in Beaverton, Oregon.
+It will continue to develop and market its PC-Xview line of X-Windows server software for MS-DOS- and Windows-based micros.
+The company developed the first graphics tools for MS-DOS, OS/2 and RS/6000 AIX, all under contract to IBM Corp.
+The PC-X product line will be sold through Network Computing's direct sales force and OEM customers, and via its own telemarketing and reseller programmes.
+Spectragraphics' newest development is PC-Xview for NT, claimed to be the first X-Windows server for Microsoft Corp's Windows NT — which doesn't actually exist as a product yet.
+PC-Xview for NT enables personal computer users to display X-Window applications from anywhere on the network alongside local NT ones.
+It is integrated with the NT environment, and enables users to access Unix applications ‘as easily as Windows applications’, running both programs and cutting and pasting between the environments.
+Availability will coincide with first shipment of NT from Microsoft and will be about $500 but pricing will be finalised when the product ships.
+METAFLOW GENERATES THUNDER FROM LIGHTNING
+In the same breath as admitting that Lightning, the high-end, super-pipelined Sparc chip that it was developing in conjunction with LSI Logic Corp and Hyundai Electronics, wasn't going to strike after all, Metaflow Technology also began to talk about a next-generation effort in design that would follow (UX No 273).
+Code-named Thunder, this latest Sparc effort is again being bankrolled Hyundai and is being touted by the La Jolla, California-based firm at up to 200 SPECmarks.
+It's thought that LSI won't be the chosen foundry this time around.
+According to chitchat out at the recent SunWorld Expo in California, initial versions of the 32-bit superscalar part are expected produce 100 SPECmarks, and if everything goes well, then it'll reportedly be closer to the 200 SPECmark range.
+The first silicon is due in early 1993.
+Its developers are hoping to push it over 300 SPECmarks by 1995.
+The thing is said to handle instructions out of order and speculatively.
+It supposedly fetches four instructions per clock, executive five per clock and completes seven per clock.
+…
+AS PINNACLE LAGS BEHIND VIKING
+Meanwhile, the Microprocessor Report, is pegging the Cypress/Ross 1.2 million transistor superscalar Sparc chip Pinnacle as ‘well behind SuperSparc’, also known as Viking.
+It is a clock slower then Viking and based on a different philosophy — it is CMOS versus Viking's BiCMOS.
+‘Instead of pushing transistor count and die size to their limit, it divides the processor into a set of chips to keep the size of each one relatively modest.
+Its superscalar capabilities are not aggressive, but a higher clock rate is expected.
+Pinnacle-1 supports only two cache sizes and requires four chips for a minimum configuration.
+SuperSparc, on the other hand, can be used in a single chip configuration.
+Pinnacle-1 has only half as much first-level instruction cache as SuperSparc and the lack of an on-chip data  cache means that it is one cycle slower on every load or store.’
+Ross is keeping price and performance pretty much under cover, though there is talk of them shipping samples to Sun in July.
+GEER ZOLOT TARGETS WALL STREET WITH WIZDOM-BASED REMOTE SYSTEMS MANAGEMENT
+Tivoli Systems, Austin, Texas, is teaming with Boston-based, strategic consultant and systems integrator start-up, Geer Zolot Associates, to hit financial and Wall Street institutions, a Geer Zolot speciality.
+Geer Zolot was started earlier this year (UX No 370), by Project Athena mavens, Dan Geer and Ken Zolot, from Massachusetts Institute of Technology.
+Expectations are that, in addition to providing consulting services to Tivoli customers, Geer Zolot will develop WizDom-based applications in the area of remote systems management, enhanced security and network event tracking.
+It'll integrate them with Tivoli's WizDom applications and generate full-scale solutions.
+The results should pair WizDom with some of Athena's technologies, but specifics are still unavailable.
+IGNORE THE SPIN DOCTORS: THE DESKTOP ELECTION WILL BE DECIDED BY THE DON'T KNOWS
+Who will win the battle for the desktop? asks Tim Palmer.
+Microsoft Corp currently owns the desktop with MS-DOS, and will do its darndest to hang on to it with Windows New Technology.
+IBM Corp reckons that it is so vital to its future to gain possession of it that it is betting the company on making a success of OS/2 2.0.
+However, it is far from certain that either of these two 32-bit contenders will be the ultimate victor.
+Unix — with the Unix System Laboratories Inc product code-named Destiny, currently the front-runner, is a very dark horse, and Novell Inc, whose success up to now has ridden on the back of that of MS-DOS, now appears to be an undemonstrative supporter of the Unix camp, with DR DOS as a place-holder that could turn out to be more important than most people currently imagine.
+Mae West
+Is history any guide?
+The 8-bit generation was won by CP/M with the Apple Computer Inc Apple II operating environment a very creditable second.
+The first 16-bit generation was won hands-down by MS-DOS with Macintosh System in second place — and winning a moral victory by setting the agenda for what should have been the 32-bit generation but in effect became the second 16-bit generation, which seems to have been won by Microsoft Windows, even though for the majority, MS-DOS is all most people want or use.
+The first thing that that litany reminds us of is that when it came to success, in the immortal words of Mae West (put into her mouth by scriptwriter Vincent Lawrence), goodness had nothing to do with it.
+CP/M was emphatically not the best desktop operating system available at the time, indeed it was not originally even written as a production operating system.
+Like Unix, it started life as a development environment, and like Unix, it had intrinsic features that made it unsuitable as a production operating system.
+MS-DOS did remarkably little to improve on CP/M so was equally inadequate as a production environment.
+In each case, the Apple offering was demonstrably superior, even though the Macintosh System is by no means everyone's cup of tea.
+The same strictures apply in spades to Unix, an environment that in its conception is quite unsuitable as a production operating system: its priorities were easy sharing of files and code and interaction between members of development teams and between teams working on different projects, where the priority for a business operating system is security and protection.
+Had IBM known back in the early 1980s what it knows now, it would have opened up its VM operating system, which also has its roots in development, but, coming from the button-down IBM world has many more security and management features than Unix started out with.
+Too late now because the Open Software Foundation in particular is pulling out all the stops to get Unix under control, dump its unpopular policies, rein in its unruly socialistic element and render it electable as a production operating system for mainstream business data processing.
+Populists
+And does anybody now doubt that, as our sister publication, Computergram International, has been arguing since its foundation in 1984, the inadequacies of Unix as a business operating system are irrelevant.
+The weight of development money from such a vast army of different interests behind it mean that it will dominate what used to be known as the data processing department however much the purists suck their teeth in fastidious disdain.
+It's called populism and we're all populists now.
+And if Unix is destined to dominate mainstream data processing, doesn't it make sense to run it at the desktop as well— why have two different — and ultimately competing — operating system worlds when the expressed ideal is to have everything working seamlessly together from desktop to the multiprocessor servers that threaten to supplant the monolithic mainframe?
+With Windows NT still a gleam in Bill Gates' eye, OS/2 2.0 can lay claim to the goodness high ground, and it is difficult to see what more IBM could have done to make it electable — its erstwhile friends would say that it has cynically ditched all its principles — of closed systems, tight central control, the whole ‘nanny knows best and you'd better believe it’ ethos that served the company so well for so long, and led to a string of successes at the ballot box in the 1960s and 1970s.
+But even back then in that golden age for the company, there were early forerunners of the devastating failures that have turned into a way of dismal life from the dawn of the 1980s.
+There was the Series/1 minicomputer, there was the 8100 distributed processor.
+The first was meant to unseat Digital Equipment Corp's PDP-11 on the glow of the IBM name alone, but was sent naked into the market with no software and became the ultimate dogsbody product, a computing resource for any whim that needed one, a computer without portfolio that never found a central role.
+The 8100 is the more compelling indicator of what might happen to OS/2 2.0: IBM spent so much money developing both the hardware and a completely new operating environment and set of compilers and utilities for the thing that it had to recoup its investment, come hell or high water, before it could be killed off, despite the fact that within a couple of years, it became clear that what users wanted as a distributed processor was the machine that eventually appeared — fatally too late — as the 9370.
+IBM has invested so much in the development of, and so much more in the marketing of, OS/2 2.0 that it has to plough on with it even if in 18 months' time it becomes clear that it is becoming at best a respectable also-ran in the desktop stakes.
+The problem there is that users that do adopt OS/2 2.0 whole heartedly run the risk of finding themselves in the same fate of neglection that 8100 users suffered after the first glow of perceived success began to fade.
+There seems little reason why Windows NT should fare much better: there is no unarguable reason why the average MS-DOS user that has Windows 3.0 but doesn't actually use it much, should decide to upgrade to Windows NT any time soon.
+One of the issues that has inexplicably failed to get even a whisper of an airing in the campaign wars of words is whether a graphical interface is the preferred environment for a large proportion of desktop users.
+Don't know
+Those that like the Macintosh System love it: those that don't like it detest the idea of that mass of graphical software between them and their applications, between them and the processor: like the nervous flyer, they hate the feeling that they are not in control, that if something goes wrong, there is absolutely nothing they can do to save themselves.
+They yearn for the feeling of security given by the alpha-numeric steering wheel and the clean, clear C: prompt.
+There is a very big market for graphical user interfaces but it is very far from being the whole market, and it seems highly likely that what the majority of today's dogged MS-DOS users want is simply a few further refinements to the operating system they are familiar with.
+In the mid-1990s, object-oriented programming promises to bring the next irresistible revolution, but until that happens, no-one should be too surprised if the mass of desktop users splits into two camps, one that goes down the Unix-with-everything route, the other that decides as a matter of policy to remain in the ‘don't know’ came, judging MS-DOS with a touch of Windows here and there to be good enough for the next three or four years until the picture of the future becomes a bit clearer.
+IBM BEATS WALL STREET FORECASTS — LIFTED BY A NEW ACCOUNTING CHANGE
+IBM Corp enabled Wall Street to start last Tuesday with a smile on its face, reporting first quarter net profit of $1.04 a share, significantly ahead of analysts' best estimates — but the figures are not quite as good as they looked, because a change in the basis of recognition of software revenues.
+Outright sales were down on what was a pretty dim quarter a year ago, but at least the headline figures enabled John Akers to make his characteristically jaunty statement with a little more justification than of late.
+He declared that ‘Our recently announced plan to reshape IBM into a spectrum of businesses is moving forward aggressively throughout the world, and a better focused IBM is emerging.
+We continued to take actions in the first quarter to strengthen our product line, consolidate manufacturing and development resources and reduce our overall workforce.
+Our expenses remain firmly under control.
+Although worldwide economic conditions remain unpredictable, we are encouraged by our improved performance, particularly in the US, and by the progress we're making in streamlining the company.’
+For the first quarter of 1992, worldwide turnover was $14,000m, up what is a very modest 3.3% for a company that not long ago was perceived as an engine of relentless growth.
+Net profits were were $595m, which compares with net profit from operations of $556m in the 1991 first quarter, when the company of course reported a big loss because of the change in the method it used to account for employee benefits.
+NCR CUTS 284 JOBS AS A RESULT OF TERADATA PURCHASE
+One of the benefits of making an acquisition has to be that duplicated positions can be eliminated, and NCR Corp has had to tell a total of 284 employees at two Teradata and two NCR locations in Southern California that they are surplus to requirements.
+The cuts affect people in engineering, manufacturing and administrative support, the largest lay-off reportedly coming at Teradata's El Segundo base, where the payroll falls to 600 from 775.
+Also affected are NCR's Rancho Bernardo engineering and manufacturing base and its Torrey Pines development centre, and Teradata's Sharebase manufacturing site.
+Teradata chairman Kenneth Simonds, who joined from Amdahl Corp in 1984, handed in his resignation.
+EUROPEAN COMMISSION's OMI STARTS WORK ON 20 IT PROJECTS
+After four years of discussion, the European Commission's Open Microsystems Initiative is reported to have finally set out on its five year mission to develop next generation microprocessor and software technology, which will utilise both new and existing architectures.
+Originally due to lift off last April with £200m funding (UX Nos 315, 317), OMI now gets a reported £40 for some 20 projects that span a 100m transistor chip to binary interfaces that will allow software to run across Sparc, MIPS R3000, Inmos Transputer and Acorn ARM RISC  architectures — much like the Open Software Foundation's Architecture Neutral Distribution Format technology.
+HITACHI's ‘WORKSTATION ON A CHIP’ FOR UNDER $10
+According to Electronic News, Hewlett-Packard Co's Sterling or PA10 project to do a single chip implementation of the processor and all the support circuitry of a low-end Precision Architecture RISC workstation is now being fabricated by Hitachi Ltd for use as an embedded processor — and the part is said to cost under $10 in large quantities.
+SUN VISUALISATION ACCELERATION BOARD RESELLER GOES CHAPTER 11
+Towards the end of last year, Sun Microsystems Inc decided that the growth rate at the high-end of the graphics and visualisation market didn't warrant its continued investment.
+So it handed over its Intel Corp i860 RISC-based VX and MVX visualisation accelerators over to Fremont, California-based Vicom Systems Inc (UX No 357), which began to market the things exclusively on Sun workstations from the beginning of this year.
+The market, it seems, has proven too small even for Vicom, and that firm has now filed for Chapter 11 bankruptcy in the US federal courts.
+Vicom says it incurred massive debt during the development its own proprietary visualisation line whilst at the same time taking over Sun's products, and couldn't attract the new development capital it required.
+Vicom — a prominent partner in Sun's Open Graphics Initiative — and Sun, both expect the move to result in an improved focus on the VX and MVX lines as Vicom de-emphasises its proprietary technology.
+OPEN SYSTEMS BANDWAGON SET TO ROLL IN UTRECHT WITH OPENFORUM IN NOVEMBER
+Representatives of the UniForum open systems user group and its European counterpart, EurOpen, were in Utrecht this week to promote what is billed as the first pan-European open systems exhibition and conference.
+OpenForum ‘92, to be held in the Dutch town in November this year, includes keynote speeches from Open Software Foundation's Chuck Reilly, and AT&T Bell Laboratories vice-president of research and Nobel prize winner Arno Penzias.
+The aim, according to UniForum director Ed Borkovsky is to plug ‘a gap that still exists in executive education about open systems’.
+Borkovsky accepts that doubt still lingers in data processing managers' minds about issues such as security, systems administration and difficulty of use when considering open systems, but believes that the message is gradually getting through.
+‘An indication of this is Bill Gates courting Washington with claims of NT's Posix-compliance.
+Even some of the worst enemies of real openness now have to say they are open.’
+US government spending on open systems is estimated at around $4,000m, a figure he contends is reasonable to expect from European governments and one that should be enough to support the development of a European open systems industry.
+Michel Gien, chairman of EurOpen, points to recent examples of the private sector following government procurement policy as evidence that European business is showing interest: decisions such as that by a group of car manufacturers led by Peugeot and Renault to specify certain open systems criteria in contracts should in turn have knock-on effects for open systems take-up.
+OpenForum is in Utrecht November 25 to 27, preceded by two days of seminars.
+HOBBIT CHIP IN ‘COMMUNICATORS’
+More details have come to light about AT&T Microelectronics ‘Hobbit’ RISC chip: last we heard (UX No 372) the hairy-footed little creature was being used by ex-Sun man Bernie La Croute at his pen-driven computer start-up Eo Corp.
+AT&T is now touting the chip round manufacturers interested in producing ‘communicators’ with it.
+These hand-sized products will have a screen and an electronic pen and will be used to send electronic notes or postcards to people via digital signal processors transmitted over phone lines or radio networks.
+They differ from pen-based computers in that the handwriting will not have to be translated or recognised by CPU.
+SOFTWARE AG OFFERS OLTP SOFTWARE ON THE RS/6000
+Taking further tentative steps into the Unix arena, Software AG GmbH, Darmstadt, Germany, last week announced it will support IBM's RS/6000 with its fourth generation development language Natural, and Adabas, its relational database management system, which it is targeting at on-line transaction processing solutions.
+Natural, Software AG claims, is a complete replacement for third generation language environments, and although Software AG believes SQL restricts the performance of OLTP systems, its Adabas database supports an implementation of the industry-standard SQL inquiry language.
+It also allows applications written in Cobol, Fortran and PL/1 to be integrated into the environment.
+Software AG's technology joins Unify Corp's Accell and Unisys Corp's Ally development environment — which is already integrated with Unix System Labs' Tuxedo transaction processing monitor (UX No 371)— as one of a select breed of companies currently offering Unix-based OLTP software solutions.
+The company says it is currently in the process of evaluating a suitable transaction processing monitor for its stuff, and is looking at Transarc Corp's Encina, NCR Corp's Top End and USL's Tuxedo.
+Presently, Natural is partially compliant with X/Open Group Co Ltd's XA transaction processing interface, but the firm is working on that standard now.
+Moving cautiously into the Unix market, Software AG says it is not seeking to confront competitors at the moment.
+It hails from a strong mainframe background, which still represents 85% of it sales, though it says it is looking to downsize this commitment to 70% over the next two years.
+Software AG's managing director, Jeffrey Graham, says ‘our strategy for the 1990s is to move wholeheartedly into the client/server market.’
+With ports to Digital Equipment Corp Ultrix, Hewlett-Packard Co's HP-UX and Sun Microsystems Inc's SunOS already complete, versions for Groupe Bull SA's DPX and Santa Cruz Operation Inc's Unix V.3.2 are now in beta test and due for release at the end of this quarter.
+MINIGRAMS
+Maybe one of the reasons Microsoft Corp's NT isn't pegged to go on Sparc is because it's little endian and Sparc is big endian: we've heard that it would mean a major rewrite, something Bill Gates hadn't figured on.
+Motorola Inc is bundling the Software Components Group's real-time operating system pSOS+ with 68000-style multi-processing units bound for embedded control applications — A development kit will go for $7,000.
+Mac-on-RISC start up Quorum Software Systems is going to start delivering its first software developers product later this week, Quorum Latitude.
+It's only a month past schedule, not bad considering.
+Meanwhile, Unix System Labs, which has a good server story but may lack something on the desktop end like applications, is reportedly trying to get Quorum interested in Destiny.
+Now that the Apple Computer Inc v Microsoft Corp lawsuit has been defanged and the only thing standing between Bill Gates and world domination is the Federal Trading Commission — see page three: there may be more truth than not in the observation that Microsoft wants IBM to have OS/2 so they can't be accused of being a monopoly.
+With the name Kalieda sounding to some rude quipsters like a  venereal disease, they're saying Taligent is the cure.
+Roy, Utah-based, Iomega Corp is starting to break into the Sun market having signed Sun distributors Access graphics, Government Technology services and Sun Microsystems Federal to peddle its Bernoulli removable drives to the technical, commercial and government arenas.
+Meanwhile, Iomega has enhanced its products to the same drive to work with Unix, Apple Macintosh and personal computers machines, has also made its drives work with the NeXT Inc and Silicon Graphic Inc's boxes via interfaces.
+Highland Software, Palo Alto, California, has signed Software Research Associates, Japan's largest independent software house, to distribute its Unix Flexlm network licence manager in Japan: it has also given its UK distributor, Productivity Through Software a charter for all of Europe.
+Canon Inc, which markets the Apple Computer Inc Macintosh and the NeXT Computer System has VAR agreements with Digital Equipment Corp and IBM Japan Ltd, is adding the Hewlett-Packard Co's HP 9000 Unix workstations to its line-up.
+According to insiders, sales of NeXT computers in Japan are proving difficult, despite a growing number of Japanese language applications for NeXT.
+Canon is now saying bravely that its huge $100m investment in NeXT Inc will still bring it benefits in the long-term.
+Anil Gadre, vice president of systems product marketing at Sun told Unigram a couple of weeks ago that a Sparc version of Novell's Portable NetWare would arrive soon: meanwhile it's thought the two will shortly announce NetWare SunLink to run on top of Sun's Solaris 2.0 for Intel Corp platforms, which is thought to be a key part of Sun's bid to capture a share of the Unix-on-Intel market.
+Silicon Graphics Inc has taken a worldwide licence for San Rafael, California-based Z-Code Software Corp's Z-Mail electronic mail management software which runs under Motif: SGI is also to distribute Z-Mail on its entire hardware range — prices go from $300 for a single-user licence.
+Unix International is circulating a monstrously hefty tome cataloguing the 5,500-odd software applications under Unix SVR4, a compilation of products and services from over 2,400 companies: The Product Catalogue can be yours for $15 plus shipping and handling.
+Xhibition — the X-Windows show — calendared for June 15th to 19th in San Jose, California, is expecting to fetch more than 100 exhibitors: Mircosoft Corp and DEC are citing it as one of the key technical conferences to explore NT and ACE applications development.
+Sessions begin on Monday June 14 and the exhibit starts Wednesday June 17.
+The show has an Applications Theatre showcasing business applications, imaging, multimedia, distributed computing and three-dimensional stuff and of course, X-Windows.
+Following its fellow Motorola Inc 88000 travellers, Dolphin Server Technology AS (UX No 376) and Harris Corp's computer division (UX No 380), Data General Corp — which admits to having chewed the fat over alternative RISCs, but has decided to stick with the 88000 series (UX No 376)— is expected to announce its own plans for systems based upon the next generation 88110 shortly, likely to include a complete re-haul of its existing AViiON workstation and server series.
+DEC has added two X-Windows terminals to its VXT 2000 line: a new version of the low-end 15″ model does away with the separate cabinet and integrates all components into the monitor itself — that starts at $1,700.
+A 17″ colour model comes in at $4,700: both ship next month.
+Unisys Corp's French subsidiary has won a $9.3m order from the Agricultural Bank of Algeria to automate its 250 branches and 36 agencies in competition with Groupe Bull SA and Siemens-Nixdorf Informationssysteme.
+240 U6015 systems and 66 U6305 boxes running SYBU Arabic banking applications from French software house Steria, together with 600 AP series printers and other peripherals will hang off the bank's existing Unisys A6 and B5900 systems.
+UK, Cambridge-based Tadpole Technology plc is touting its Sparcbook notebook as fetching 12.6 SPECmarks, 12.7 SPECint and 12.5 SPECfp, slightly faster than the IPC workstation from Sun Microsystems Inc, claiming it performs integer intensive applications equally as well as it does floating point applications: the Sparcbook is now on the GSA schedule being peddled to the US government by C3/Telos — Genstar Rentals in Palo Alto, California is renting it out.
+Sparc wannabe, California start-up Integrix Inc, has a graphics accelerator board, the SGX 120, which it says is identical in resolution to Sun Microsystems Inc's 1280 x 1024 resolution GX+ board, but only requires one Sbus slot: it's priced at $2,750 with availability later this month.
+This year's Object World event from July 20 to 23 in San Francisco promises to be a ‘not-to-be-missed’ diary date.
+The Object Management Group has organised a keynote panel session on July 21 that brings together Borland International Inc chief Philippe Kahn, Lotus Development Corp vice-president for software development John Landry, Microsoft Corp senior vice-president Paul Maritz, NeXT Inc chief Steve Jobs and head of Taligent Inc Joseph Guglielmi to discuss ‘the strategic role of object technology for the software industry.’
+Control Data Corp looks unstable again — the company is restructuring into a holding company and three operating companies of which only the computer group will retain the Control Data name.
+Names for the services and government subsidiaries have not yet been chosen, but the structure hints at plans to sell some or all of the businesses.
+A merger between the computer side and the proposed Silicon Graphics Inc-MIPS Computer Systems Inc still looks like a logical development.
+It's all done with computers…
+US columnist William Buckley Jr has worked out that if Electronic Data Systems Corp founder Ross Perot does decide to run for President, his commitment to spend $100m of his estimated $3,000m fortune on his campaign, it represents about 3% of his capital worth, about half what his wealth generates in a year, so that by election day in November, he will still be richer than he was when he started out.
+Expanding on the agreement that AT&T's Computer Systems Division forged with Banyan Systems Inc last year, NCR Corp has now sealed a pact with the Westborough, Massachusetts-based company, said to be worth $25m over the next three years: NCR is to market and support Banyan's Unix-based Vines network operating system — in the US and Canada initially, worldwide at a later date — whilst Banyan distributors will be able to sell NCR products.
+Ever thought the term ‘Fortune 500’ attached to a company was a little silly and pretentious?
+A glance at the latest list published in Fortune magazine shows it to be not just silly but ludicrous: the list purports to show only US industrial companies — but it classifies AT&T Co as a service company and eliminates it altogether despite the fact that with NCR Corp added in, AT&T's non-service businesses alone would give the firm a ranking in the 50s.
+Carol Bartz, Sun Microsystems Inc vice-president of worldwide field operations, has jumped ship to become chairman, president and chief executive of Autodesk Inc, Sausalito, replacing Alvar Green: she is succeeded at Sun by Joseph Roebuck who becomes vice-president of worldwide field operations for its Sun Microsystems Computer Corp arm.
+Its official: Boris Yeltsin has gone object-oriented — he has ordered 2,500 NeXT workstations from Houston-based computer distributor Talus Corp.
+Talus president, Steve Sarich says ‘its like we've been dropped on a different planet and all the Martians love us’— surely sales of NeXT boxes aren't that rare, or are they?

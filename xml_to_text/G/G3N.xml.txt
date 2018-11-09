@@ -1,0 +1,736 @@
+
+
+The laws of occam programming
+A.W.
+Roscoe and C.A.R.
+Hoare
+Abstract One of the attractive features of occam is the large number of memorable algebraic laws which exist relating programs.
+We investigate these laws and, by discovering a normal form for WHILE-free programs, show that they completely characterise the language's semantics.
+0.
+Introduction
+Occam  is a language for concurrent systems, especially those implemented on networks of communicating processors (transputers).
+It has been designed with simplicity and elegance as major goals.
+One way in which this elegance manifests itself is in the large number of algebraic laws which exist between occam programs.
+The aim of this paper is to investigate the set of laws and to show how they completely characterise the semantics of the language.
+For simplicity we concentrate on a subset of occam: timing, priority, vectors, constants, replicators and named processes (procedures) are omitted.
+Our version of occam thus contains only the essential core needed to write simple programs.
+We expect that our work can readily be extended to versions of the language.
+For theoretical reasons we will also add a few features to the language: multiple assignment, output guards in alternatives and divergent (racing) process.
+IN other respects we will follow the syntax and conventions introduced in , in particular those regarding the parallel operator.
+(When writing a parallel construct the programmer must declare which global variables and channels are to be assigned to each component process.)
+A finite occam program is one which is WHILE-free.
+It may, however, contain the racing or diverging process  (equivalent to WHILE true SKIP).
+Much of this paper is concerned with the analysis of finite programs.
+This is because the absence of WHILE-loops allows proof by induction.
+This restriction does not lose us any power, however, because every occam program can be identified with the set of its finite syntactic approximations (a term which is defined precisely in the second section).
+The first section lists the majority of the laws we require.
+We see how each of the laws arises out of our informal understanding of how occam constructors work.
+We see how algebraic laws allow us to give a precise and succinct description of each operator.
+The laws given are all congruences in the denotational semantics for occam reported in .
+The second section shows how the laws introduced in the first section can transform every finite program to a form whose only constructs are IF, ALT, multiple assignment and  (the diverging process).
+Particular attention is paid to regularising the use of free and bound variables.
+We see how this work, together with continuity assumptions, allows us to prove non-trivial laws additional to those of the first section.
+Even in this restricted form it is possible to write essentially different programs which are nevertheless semantically equivalent.
+The third section identifies a number of situations where such equivalences can arise, and develops a normal form for finite programs.
+Two normal forms programs are semantically equivalent if and only if they are syntactically equivalent in a simple way.
+By showing how every finite program can be transformed to normal form we have thus produced a decision procedure for the equivalence of arbitrary finite programs.
+An infinitary rule based on syntactic approximation extends this to general programs.
+This proves that our set of algebraic laws (together with the infinitary  rule and substitution) is complete with respect to the given denotational semantics.
+The algebraic laws thus yield an algebraic semantics for occam that is isomorphic to our chosen denotational semantics.
+Finally we review the relative merits of algebraic, denotational and other forms of semantics, and in particular discuss possible applications of the algebraic laws as transformation rules.
+All the laws presented in this paper are summarised in an appendix.
+Even though the work in this paper is cast in terms of a specific denotational semantics, most of the laws quoted must be true in any reasonable abstract semantics for occam.
+We indicate several places where modifications may be required for alternative underlying semantics.
+The work reported in this paper owes much to the similar work for an abstract version of CSP (i.e. with no internal state) reported in   Throughout this paper we will observe the following conventions within program terms P, Q program fragments (processes) C conditional G guarded process g, h, k guards e, f general expressions b boolean expression U parallel declaration x, y, z identifiers representing variables c, d identifiers representing channels Lists of identifiers and expressions are denoted x, e respectively.
+x + y denotes the concatenation of the lists x and y.
+Occam syntax is usually linearised as in , and we frequently use such abbreviations as  Possibly empty lists of processes, conditionals and guarded processes are respectively written P, C and G. The most general form of an ALT construct is thus ALT(G).
+Notation
+If P is some occam term and x is a variable, we say that an occurrence of x in P is free if it is not in the scope of any declaration (other than a parallel declaration) of x in P, and bound otherwise.
+(These notions can easily be defined formally.)
+Note that x may occur both free and bound in P.
+Free and bound variables
+free (P) denotes the set of all variables appearing free in P bound (P) denotes the set of all variable appearing bound in P (Similar notions of free and bound occurrences can be defined for channels.)
+If x and y are variables, then  denotes the result of substituting x for every free occurrence of y in P. If x is bound at any point in P where there is a free y, systematic renaming of P's bound variables is carried out.
+Substitution
+We similarly use the notations  To denote the substitution of (lists of) expressions for (equal length lists of) variables in (lists of) expressions.
+Note that in general  
+1.
+The Laws of Occam
+In this section we visit each Occam construct in turn, and uncover the laws governing it.
+The set of laws given is not exhaustive; we restrict ourselves to the laws needed to translate finite programs to normal form.
+Other laws can be deduced from these laws, either by elementary manipulation, or by structural induction on normal forms.
+The laws we present here provide a clear description of the semantics of each construct.
+Before detailing the laws, we must decide exactly what we mean by the term "law" .
+All our laws have the form P = Q (P, Q both being expressions representing processes).
+Informally this must mean that P "is essentially the same as" Q, in that, to an observer who cannot detect their internal structure, the behaviours of P and Q are indistinguishable.
+Further, since we will want to use our laws to transform subcomponents of compound programs, P = Q must imply that C[P] is essentially the same as C[Q] for all contexts C[.](programs with a slot in which to place a program segment).
+Since we may wish to use our laws to transform an inefficient program to an observationally equivalent efficient one, our notion of equivalence will be independent of the times at which events occur.
+Thus P = Q does not imply that P and q run at the same speed.
+Neither, for similar reasons, does it mean that P and Q require the same amount of store.
+Having established the broad principles above, we hope that most of the laws will seem "clearly true" .
+Nevertheless, it is helpful to have some underlying semantics by which to judge the laws.
+In our case this provided by the denotational semantics for occam reported in [R].
+All the laws we quote are congruences of that semantics in the context (described there) of environments with unbounded sets of free locations  and channels.
+However, all laws must be interpreted as conditional upon both sides being correct occam, in the sense that neither side contains a syntax error.
+We will assume that the evaluation of every occam expression yields a value (even though it may contain division by zero or an uninitialised identifier).
+Thus no syntactically correct program in our restricted version occam can contain an execution error.
+If the language were extended to include vectors the situation would be more difficult, and some of our laws would have to include exception conditions.
+There are two limitations on the completely free use of our laws in transforming occam.
+The first is that, with a few of our laws, it is possible to transform a correct program C[P] (C[.]being a context) to an incorrect one C[Q].
+This is usually bought about by violating the separation rules for PAR.
+The laws that can have this effect are marked (*), and have been set out so that only right to left use can bring out this difficulty.
+These laws may thus only be used right to left in contexts where syntactic correctness is preserved.
+The second limitation is that it is only occam processes that may be transformed: the laws do not apply to guarded processes or conditionals, even when they have the same syntax as processes.
+For example, the transformation of  is invalid, even though , as a process, ALT SKIP P may be transformed to P.
+Each law is given a name suggestive of its use, and a number.
+1.
+Laws of IF
+The IF constructor is used to select the behaviour of a program, depending on the values of its variables.
+For this reason it will play a vital role in our later construction of a normal form.
+IF takes as its arguments a number of conditionals.
+A conditional is either a (boolean) expression and a process (b P) or an IF construct.
+The first law permits us to unnest IFs, so that all arguments are of the first type.
+(1.1)  This is not an associative law in the usual binary sense of  but is analogous in the context of occam's constructors, which can take an arbitrary finite number of arguments.
+The second law expresses the fact that in the process , it is the first (i.e. lowest index) boolean guard to be true that activates the corresponding  Thus  only runs if  is true and each of … is false.
+(1.2)  If the boolean guards in  are pairwise disjoint, then the order of composition is immaterial.
+(This is a symmetry law.)
+(1.3)   If two booleans guard the same process, they can be amalgamated.
+(1.4)  A false guard is never activated, and so can be discarded.
+(1.5)  If none of the booleans in IF is true, the process behaves like STOP (i.e. it comes to a complete halt without terminating; a process sequentially composed with it is not allowed to start).
+Thus final clauses of conditionals which are STOP may freely be added or deleted.
+(1.6)  If one branch of an IF construct is always executed, then the construct may be replaced by that branch.
+(1.7)  The final IF law lets us deal with IF constructs which are nested as processes rather than as conditionals.
+(1.8)  This law will, of course, be used in combination with <IF-assoc>, which completes the unnesting.
+2.
+Laws of ALT
+The ALT constructor allows a process to offer a choice of possible communication options to its environment.
+The ALT constructor takes as arguments a number of guarded processes.
+A guarded process is either a guard and a process (g P) or an ALT construct.
+As with IF, there is a law which allows us to "unnest" ALTs.
+(2.1)  This law does not have quite such a general form as that for IF (1.1).
+However the general form of the law can be deduced from 2.1 and the fact that ALT is fully symmetrical (see below).
+The order of arguments in an ALT is immaterial.
+(2.2)  The alternative composition of no arguments is STOP (the non-terminating process which does nothing).
+(2.3)  This law is termed a "unit" law because, together with 2.1 and 2.2, it says that STOP is essentially the unit of ALT.
+Guards may be simple (SKIP, ) or have a boolean component.
+ALTs with guards with boolean components may be reduced to IF combinations of ALTs with simple guards by the law (2.4)  In other words, a guard with a boolean component may be executed if and only if the boolean is true.
+A SKIP guard is always ready, and its execution has no effect other than to start the process which it guards.
+This explains the law (2.5)  A communication guard, on the other hand, is executed only when the process at the other end of the given channel is also willing.
+The  effect is exactly like the corresponding single communication atomic processes.
+(2.6)  (2.7)  If an alternative is already present in an ALT, adding it again has no effect, since the set of alternatives available does not change.
+(2.8)  In any execution of an ALT construct, it is the first guard to become ready which is executed.
+If more than one guard becomes ready at the same time, the choice of which one to execute is nondeterministic (there is no left-to-right precedence rule as with IF).
+We can deduce from this that if a guard g is used to guard two different processes, then whenever that guard becomes ready either copy may be activated, the choice being invisible to the environment.
+The two guarded processes can thus be replaced with a single one, where the process is one which nondeterministically chooses between the original pair.
+(2.9)  The laws above do not quite catch the full range of equivalences related to ALT with SKIP guards.
+Three more laws reflecting fairly subtle equivalences will be introduced in section 3, when they are required, and can be better motivated.
+We need a law for relating IF and ALT.
+It is a very simple law, which merely observes that the value of a boolean is unchanged by the execution of a guard that does not input to a variable appearing in the boolean.
+(2.10)  provided no variable appearing in  is input in any  <IF-ALT distributes> Perhaps surprisingly, this law is the only one we will need relating IF an ALT.
+An example of how it can be used to derive an apparently more powerful law can be found at the end of section 2.
+3.
+Laws of assignment
+An occam process may assign values to its variables.
+The atomic assignment process in occam is  which evaluates the expression e, assigns the result to the location denoted by x, and then terminates.
+As described in the introduction, we allow multiple assignments, of the form x: =e where x is a list of distinct variables, and e is an equal-length list of expressions.
+The components of e are evaluated, the results are then all assigned to the locations represented by x, and the process then terminates.
+The empty multiple assignment terminates without changing the state.
+(3.1)  The order in which the expression/variable pairs appear is of no consequence.
+(3.2)   The assignment of a variable's own value to itself has no effect.
+(3.3)  Thee will be several laws later on which show how assignment interacts with the various constructs of the language.
+4.
+Laws of SEQ
+The SEQ constructor runs a number of processes in sequence.
+If it has no arguments it simply terminates.
+(4.1)  Otherwise it runs its first argument until that terminates and then runs the rest in sequence.
+(4.2)  It is possible to use 4.1 and 4.2 to transform all occurrences of SEQ within a program to binary applications, and in our transformation to normal form we will always do this.
+Thus the remainder of our laws for SEQ are cast in binary form.
+When P does not terminate immediately, SEQ (P, Q) 's initial behaviour is just that of P. Thus SEQ distributes over both IF and ALT in its left argument.
+(4.3)  (4.4)  On the other hand, when P does terminate immediately, SEQ (P, Q) behaves like Q modified to take account of any assignment by P.
+Thus the compound operator SEQ  can be distributed over both IF and ALT in a limited way.
+ provided no variable which occurs in  is input in any .
+The sequential composition of two assignments to the same list of variables is easily combined to a single assignment.
+(4.7)  The sequential composition of a pair of assignments to different lists of variables may be reduced to a single assignment using this law with 3.2 and 3.3.
+5.
+Laws of PAR
+The occam parallel operator takes a number of processes as arguments, and runs them concurrently, with the possibility of communication between them.
+Communication is the only two way parallel processes can effect one another, so one parallel process cannot access a variable that another one can modify.
+No channel may be input from nor output to by more than one of the processes.
+In this paper (as in [R]) we insist that each parallel process declares which globe variables it wishes to be able to modify, and which globe channels it wishes to be allowed to input from, output to, or uses privately.
+In the earlier paper this permitted the syntactic determination of the environment in which each component processes should run.
+In this paper there is an additional reason: it would be unfortunate from the point of view of algebraic laws if the channel and  variable alphabets of parallel processes are determined purely from the syntax of the component processes.
+many of the most useful transformations (e.g. the expansion rules below) would become invalid, because on changing the syntax of the components of PAR, alphabets might be altered.
+(For example, by commuting a communication through PAR using 5.6 or 5.7, one might apparently remove it from the alphabet of the corresponding process.)
+The syntax of these "parallel declarations" is unimportant; a suitable one may be found in [R].
+p A PAR command terminates as soon as all its components have.
+Thus the empty PAR terminates immediately.
+(5.1)  PAR is an associative operator, provided suitable provisions are made for alphabets.
+(5.2)  (claims all variables and private channels claimed by the , claims as input (output) channels all channels occurring only as inputs (outputs) among the .)
+As with SEQ, we will always use 5.1 and 5.2 to reduce PAR to a binary operator when transforming to normal form.
+Thus the rest of the laws deal only with that case.
+Firstly, PAR is symmetric, because the order in which processes are combined in parallel is immaterial.
+(5.3)  If one of a pair of parallel processes is a conditional, then the choice represented by that conditional may be performed before the parallel construct is entered, provided the choices are exhaustive (so that the conditional cannot stop the PAR being entered).
+(5.4)  If two multiple assignments are combined in parallel, then the effect is that of a single multiple assignment.
+(Note that the conditions on use of variables within PAR mean that the variables of x below do not occur in y: =f, nor those of y in x: =e)
+(5.5)  If a non-terminated process is put in parallel with a terminated one, then only the non-terminated one can proceed.
+It can perform any action other than a communication with the terminated process (which clearly cannot agree to any communication).
+In this context an assignment may be considered "terminated" , because it cannot affect or be affected by the other process, and is free to terminate at any time.
+(5.6)   (ins(U) and outs(U) are respectively the sets of input and output channels declared in U.)
+If two non-terminated processes are put in parallel with one another then they can proceed independently on all actions except those which represent communication between them.
+If they agree on a communication, this can occur as an internal (automatic) action.
+This explains the following law for expanding two ALT constructs in parallel.
+(5.7)  (i) and (ii) above represent P and Q (respectively) making independent progress.
+(iii) represents the effects of communication between P and Q. 
+6.
+Laws of declaration
+The construct VAR  declares the variables  for use within P. These variables are distinct from any other variables with the same names that may be present in the external scope.
+It does not matter whether variables are declared in one list or singly:(6.1)  Nor does it matter in which order they are declared.
+(6.2)  If a declared variable is never used, its declaration has no effect.
+(6.3)  One can change the name of a bound variable, provided the new name is not already used for a free variable.
+(6.4)  (Note that any clashes of y with bound variables of P are dealt with by the renaming implicit in the substitution operator.)
+Generally speaking, the scope of a bound variable may be increased without effect, provided it does not interfere with another variable with the same name.
+Thus each of the occam constructors has a distribution law with declaration.
+The first two say that if each component process of an IF or ALT declares the variable x, and that variable does not clash with the booleans or guards, then the declaration may be moved outside the constructor.
+(6.5)  provided x is free in no  (6.6)  provided x is free in no  Note that it is possible to deal with cases where x is only declared in a few of the , but is not free in any other, by using 6.3.
+Two laws are required for SEQ, one for each of its arguments.
+(6.7)  (6.8)  The law for PAR takes into account the fact that, when a declaration is moved outside the constructor, the process that uses it must now declare the fact that it might want to use the variable declared.
+(6.9)  provided x is not free in  where  is U1 modified to include a declaration of the variable x (in the notation of , it is the union of  and USING (VAR x)).
+When a variable is used for inputting, the effect is the same as that of inputting to a completely new variable, and then assigning to the original one.
+(6.10)  There is no point in assigning to a variable at the very end of its scope, since the value given to it can have no effect.
+(6.11)  The final law of VAR is required to deal with uses of uninitialised variables in expressions.
+Upon declaration a variable may take any value, the choice being nondeterministic.
+Its value remains constant until it is assigned or input to.
+Thus the value of one uninitialised variable may be replaced by that of another, provided it has not yet been read and the value of the second variable is used nowhere else.
+(6.12)  it turns out that we only need one law to deal with channel declarations: an elimination rule analogous to (6.3).
+(6.13)  The reason for this simplicity is that our normal form will eliminate all PAR constructs, and hence all internal use of channels.
+7.
+Laws of 
+Recall that  is the divergent process WHILE true SKIP.
+In practice this process may be considered broken, for not only will it never interact with the outside world, but what is worse the environment can never detect this fact.
+(Seeing that the process is still performing internal actions, an observer can never discount the possibility that it  might still do something.)
+A divergent process can also be regarded as having the most undefined behaviour possible, since it forever performs internal actions in an effort to decide what its behaviour will be, but never makes any progress.
+With this philosophy in mind, we postulate that the divergent process is the worst possible.
+Now, in general, if P's behaviour is more predictable than that of Q, we must regard P as better (since whenever Q will guarantee the success of some experiment, so will P).
+We are thus forced to identify  with all processes that might diverge (before doing anything else).
+It is quite reasonable to make this identification: in practice, a process which can either behave correctly or diverge will probably do the former while it is being tested, but will do the latter when it is being used in earnest.
+Putting it more simply, a racing program is always a programming error and may be considered broken.
+We therefore choose the simplest and most convenient laws, which state that almost any program made from a broken component is itself broken.
+Our philosophy gives rise to a number of laws.
+First, a process that can automatically choose to diverge must be identified with .
+(7.1)  It is clear that, if the first operand of a SEQ construct can diverge, so can the whole construct.
+(7.2)  If the first operand of a SEQ terminates before interacting with its environment, divergence in the second argument yields divergence in the whole construct.
+(7.3)  Divergence in one operand of a PAR may give rise to divergence in the complete construct, since an implementation may choose to run one argument until it can proceed no further before running another.
+(7.4)  
+2.
+A pre-normal form
+The first section introduced almost all the laws one requires to characterise the semantics of occam.
+Unfortunately it is not satisfactory merely to state this; we must find some way of demonstrating it.
+This is especially true because we already have a denotational semantics; we would like the laws to yield the same equivalences.
+Even if we had no standard semantics to characterise, it would still be necessary to investigate the structure of the classes of inter-transformable programs, because it is only this that reveals the true power of a set of laws.
+As explained in the introduction, our method of demonstrating the power of our laws will be the discovery of a normal form for finite programs.
+Every such program will have a normal form equivalent (through transformation), but two normal for programs will have the same value in the denotational semantics only if there are (at most) trivial syntactic differences between them.
+A normal form must therefore exactly capture our ideas about denotational equivalence.
+This gives rise to a number of interrelated problems, all of which need to be solved before we have a normal form.
+a) We need to characterise a process' behaviour as a communicating agent.
+In other words, we must identify a unique way of representing each possible pattern of communication a process might exhibit.
+For example, if  and  are suitable parallel declarations, the processes  are equivalent, and therefore have the same normal form.
+b) We need to characterise, relative to its communicating behaviour, the ways in which a process assigns to its variables.
+For example, the following pair of programs have the same effect on the final state and so have the same normal form:  There are important distinctions that need to be made between processes at the boundary between (a) and (b).
+Consider the two processes  and  Both processes have exactly the same communicating behaviour (they input along channel d), and when they terminate they have the same effect on their free variable x.
+However, the first process is strictly less deterministic than the second: it is not obliged to terminate successfully; when composed in sequence with another process the second process need not be started.
+c) The use of bound variables needs to be regularised.
+In writing a program, one often has a lot of freedom in the use of bound variables: not only in where they are declared, but also in whether to declare a new variable or re-use an old one.
+For example, the following pair of equivalent programs must have the same normal form.
+ and  An essential aid to the solution of (a) and (b) above is a calculus for deciding the equivalence of expressions.
+For example, 2 +2 = 4 = true, and (x mod 3) + (x + 1 mod 3) + (x + 2 mod 3) = 3.
+Often we need to  decide such equivalences in the context of the booleans representing the facts already known about the variables involved.
+For example the programs  and c! x are equivalent, because of the equivalence of "x" with  and  in the respective (boolean) contexts.
+Because this issue, though important, is not really relevant to the algebraic properties of occam, we will abstract away from it.
+Specifically, we will assume a knowledge of all true facts of the form  meaning "in all states where  is satisfied, so is " .
+Thus our later completeness results are relative to this knowledge.
+Our approach has the advantage of not tying us to a particular syntax and semantics for the space of expressions.
+We do, however, make frequent demands on the syntax and semantics of expressions representing booleans, the good behaviour of expressions under substitution for their variables, and the fact that all expressions in occam are evaluated without side-effects and without fear of non-termination (even 27/0!).
+The discovery of a full normal form is rather difficult.
+We therefore introduce a intermediate form to act as a conceptual and technical bridge.
+This will essentially solve the problems described in (b) and (c) above, as well as simplifying the most difficult problem, which is the one described in (a).
+The intermediate form is called IF/ALT form, because it eliminates all uses of SEQ and PAR.
+It has a single parameter: a list of free variables.
+We will say that a program is in x — IF/ALT form if it has one of the following forms.
+ the wholly defined, divergent process.
+ a multiple (simultaneous) assignment to each free variable of x (the parameter of the form).
+ where each Pi is x — IF/ALT and the bi partition true (i.e.  and  whenever ).
+No variable free in the whole program is in any bound  where each , each  has one of the forms SKIP, c! e or  are the (all distinct) variables used in guards of the third type.
+They are disjoint from each bound and from the components of  can appear free in  only if  has the form .
+No variable in x or free in the whole program may be in any bound   where  but x is not a component of x.
+P is x — IF/ALT.
+Note that all assignments in IF/ALT programs are final (i.e. occur at the end of a program's run, just before it terminates) and made only to free variables.
+Also, because of the way fresh bound variable is created for every input, no variable that contains a value relevant to the program is overwritten until this final assignment.
+It is the introduction of multiple assignments that allows us to reduce the assignments in every program to this form.
+Not only do they bring symmetry  by removing the order of assignments, but by allowing such assignments as  they will allow us to eliminate all assignments to bound variables.
+Bound variables are of two types.
+The ones that are declared as inputting variables are used only for input and subsequent use in expressions.
+Variables declared i programs of the final type (VAR x:P) can never be given a "proper" value (since they are neither input to nor assigned to).
+They are thus, purely and simply, uninitialised variables, which contain a nondeterministically chosen constant value throughout the life of P. Thus, in practice, all programs of this form would be regarded as erroneous.
+The following is the main theorem of this section.
+Theorem 1.
+If x contains all the free variables that the finite program P ever inputs or assigns to, then there is an c — IF/ALT program P' such that free  and P=P' is provable from the laws presented in section 1.
+The proof of this theorem is that every such program can be transformed to x — IF/ALT using the said laws.
+A strategy for performing this transformation is set out below.
+The first step is to transform all SEQ and PAR constructs to binary applications  ALT constructs are then unnested ,  and the boolean components of guards removed .
+IF constructs are then unnested .
+The rest of the strategy is recursive.
+We deal in turn with each form a program might take.
+The atomic processes are all straightforward:  (Recall that, in IF/ALT, no free variables may be used for inputting.)
+If the program P has the form , we recursively transform each , making sure (via  (6.4)) that the bound variables of the resulting programs do not collide with free(P).
+It only remains to make sure that the bi partition true (), and transform any STOP thus introduced to ALT () .
+The program P has the form , we recursively transform each  (making sure that bound .
+One then applies <input renaming> (6.10) to each of the input  in turn (choosing a suitable variable, and <VAR assoc> (6.1) to collapse the VAR's thus created to a single declaration.
+The resulting program looks like   where, if  = SKIP or c! e,  and  then  for some j.
+The only thing left to do is to transform all the  of the second type to x — IF/ALT.
+This is done by first transforming  and then applying the procedure set out under SEQ below.
+If the program has the form SEQ (P, Q) we recursively transform P and Q to x — IF/ALT program P "and Q" .
+We then apply the following recursive procedure which, given P "and Q" in x — IF/ALT, transform .
+The first step is to ensure (using <VAR rename> (6.4) if necessary) that free  and vice versa.  If , then because , the declaration can be moved outside the SEQ (VAR assoc(6.1),  (6.7) so that the program looks like  We then apply  to obtain  and finally deal with he  recursively.
+If  then because  the declaration can be moved outside the ; we then appeal to recursion.
+The program will then have the form VARy:R.
+If y is not free in R its declaration can be removed with .
+If  we need to deal with each case of Q' separately.
+If .
+If Q'  then 
+If , then because of  we have  and can then appeal to recursion.
+The program will then have the form VARy:R.
+If y is not free in R then apply 
+If  then, by  we have  We then deal with the  recursively, noting that the  partition true, because the bi do.
+If , the first step (noting that  is to move the declaration outside the SEQ to obtain  Because the input variables of the  are the , none of which appear in  we can use  to get  and then appeal to recursion.
+Note that this procedure for reducing SEQ (P, Q), with P, Q already in x — IF/ALT, is guaranteed to terminate because every recursive call strictly simplifies one of the two arguments, leaving the other one unchanged.
+If we wish to transform VARy:P to x — IF/ALT, the first step is to use <VAR rename> (6.4) if necessary to ensure that y is not a component of x.
+We then recursively transform P to an  program P'.
+Choosing a variable z that is distinct from y and does not appear in P, we use  and  to obtain  We then apply the procedure for reducing sequential compositions of IF/ALT programs to reduce this to  Observe that the only places y can appear in P' are on the left hand sides of the final multiple assignments, because the transformation from  to P' replaces all others by z.
+(This is easy to prove by structural induction on P'.)
+We can therefore make repeated use of   to shift the declaration VARy down to the leaves of P'.
+It can be eliminated from those of the form , and leaves of the form  are transformed to  by  and .
+The resulting program is then just  where P* is the program obtained from P"by deleting all assignments to y.
+If z is not free in P* we make use of .
+In any case we are left with our desired x — IF/ALT program, in which we note that y is not free.
+If a program has the form  we first recursively transform P to an x — IF/ALT program P'.
+Now any occurrences of  within CHAN  (other than their declaration) are syntactically  incorrect — for P' contains no PAR constructs and so there is no place for internal communications on these channels.
+Since we have postulated that all programs are syntactically correct, we can infer that none of  appears free in P'.
+Thus  is applicable.
+The only case that remains is that of PAR.
+It is important to note that none of the clauses we have so far dealt with have introduced a PAR construct (SEQ, on the other hand, was introduced by ALT and CAR).
+Thus the procedure we have already set up will work when given a program not containing any PAR constructs.
+If we are given a program of the form , the first step is to recursively transform P into x — IF/ALT P' and Q into x — IF/ALT Q"where  and  are respectively the components of x declared in  and .
+(That this transformation is possible follows from the correctness of .
+ is then transformed to x — IF/ALT using the recursive procedure set out below.
+The first step{ is to make sure the bound variable sets of P' and Q' are disjoint from  and the components of x.
+If either P' or Q' is , we can apply  (and perhaps  to obtain .
+If P' is  then since the  partition true we can apply  to obtain  We then recursively reduce each .
+If Q' is , then we apply  and then the above.
+If P' is VAR:P "then since, by construction, y is not free in , we can use  to obtain  where U1* is U1 with y" added"; we then appeal to recursion.
+If Q' is VARy:Q"we apply  and the above.
+As before, if y is not free in the resulting body, its declaration can be removed by .
+If P' is  and Q' is  then, noting that the elements of  are disjoint subsets of those of x, we can apply ,  and  to obtain something of the form .
+If P' is  and Q' is , then by construction none of  appear free in  so the VAR may be moved outside the PAR, using  and  (thereby changing U1 to U1*, say).
+We can then use  to transform it to something of the form  The  that no longer appear as input variables among the  still appear in the declaration and in .
+They are removed by first moving them inside the ALT ,  and then inside the PARs , removing them from  (obtaining U1", say).
+Because these variables are free in no remaining Pi, we can finally delete their declarations using .
+When we have recursively transformed the resulting , the whole program is x — IF/ALT.
+The symmetric case  is dealt with by the above, after applying .
+The only remaining case is when P' = VAR and Q' = VAR .
+The same type of strategy as above, using , will transform  to something of the form  The symmetric case  is dealt with by the above, after applying .
+The only remaining case is when P' =  and Q' = VAR .
+The same type of strategy as above, using , will transform  to something of the form  where there is some  such that  implies  is SKIP and  is VAR  where  implies  is x — IF/ALT.
+It can further be guaranteed that the  are precisely the (distinct) variables used for input among the , and that no  occurs in any  except the one obviously corresponding to it.
+(The first M guarded processes result from communications between P' and Q', the rest from independent action by either P' or Q'.)
+Observing that no  has any occurrence of PAR, we can safely transform them to x — IF/ALT.
+This having been done the whole program is in x — IF/ALT, as required, after perhaps some renaming of bound variables.
+(Care is required over this last point because we have no reason for supposing that the programs  are in any sense "simpler" than he complete program.
+It is therefore vital that this transformation does not introduce a PAR and so make use of the recursive procedure we are currently defining.)
+This completes the description of the procedure for transforming PAR.
+Since that was the last clause of the main procedure, we have also completed the description of how to transform a general program to IF/ALT.
+Syntactic approximation
+Finite programs are relatively easy to reason about algebraically, but do not tend to be very useful in practice.
+Fortunately there are techniques which allow us to apply our results on finite programs to general purposes: syntactic approximation allows us to identify every program with a set of finite ones.
+The concept of syntactic approximation is quite well known (see, for example,  and has been applied to CSP in similar circumstances to ours .
+It gives a pre-order (in our case a partial order) on the syntax of a language.
+The order is a very simple one, based on the ideas that replacing part of a program by the least defined program (in our case ) produces an approximation, and that unfolding a recursion (in our case a WHILE loop) produces an approximation.
+Through most of this paper we make no formal distinction between the text of a program and its value (semantics).
+However when considering syntactic approximation it is necessary to make a clear distinction: we will therefore place quotes  round any program that is to be considered as a syntactic object, and continue to use unadorned programs (P) for the corresponding semantic values.
+It is important to note that P = Q does not imply , so the clause below may not be combined with our existing laws (which are all semantic).
+We will write  if  is a syntactic approximation to .
+The following clauses define  for our version of occam.
+ * Clauses (6) and (7) require the definition of auxiliary relations  and  on (respectively) conditionals and guarded processes.
+These satisfy   Formally,  is the smallest triple of relations satisfying (1–14).
+ is a partial order on the syntax of our language.
+(This can fail for other languages if they have more general forms of recursion: one can have distinct pieces of syntax  and  such that  and , e.g.  and .)
+It is important to remember that  is a purely syntactic relation, and that it is not permissible to use the above clauses in conjunction with our laws (which preserve semantics rather than syntax).
+, the set of P's finite syntactic approximations, is defined to be  and  is finite.
+It is easy to write down an equivalent definition of  that is a straightforward recursion on syntax.
+Typical clauses are given below (the only moderately difficult one being WHILE).
+ (the last clause, which is circular, is easily seen to have a unique solution.)
+Any finite, non divergent, behaviour of a program has required only finitely many iterations of any loop.
+It is therefore possible to unwind the program that many times, obtaining a finite syntactic approximation which exhibits the same behaviour.
+Of course, any non divergent behaviour  possible for a syntactic approximation will also be possible for the original process.
+Intuitively, there is thus a close relationship between the behaviour of a process and those of its finite syntactic approximations.
+To understand this relationship properly we need to go back to our underlying semantic model.
+The denotational semantics of  map each process into a domain with a partial order according to which one process is greater than another if it is better defined, or more predictable.
+If P and Q are processes, we will write  (Q is more deterministic than P) if the semantic value of P is less than that of Q for all environments with unbounded sets of free locations and channels, and states where unused locations are mapped to error.
+ is equivalent to  This law simply says that every behaviour of Q is also possible for p; thus in observing Q we cannot be sure that we are not looking at P.  induces a natural partial order on occam terms (factored under the equivalence induced by the domain).
+The following three lemmas express the formal properties we will require of syntactic approximation.
+The first one is easy to prove (in the denotational semantics) by structural induction.
+Lemma 1
+If .
+Of course, the converse to Lemma 1 does not hold.
+The second lemma is easy to prove using a combination of structural induction and mathematical induction (the latter for WHILE loops).
+Lemma 2
+ is  a directed set (i.e. if ), there is some  with  and .
+Lemmas 1 and 2 tell us that the semantic values of the elements of  are themselves a directed set under .
+The last, and most important, of our lemmas, shows just how this set characterises the semantics of P. It, also, is proved using a combination of structural and mathematical induction.
+Lemma 3
+ is a directed set (under ) with least upper bound P (i.e. ).
+Later we will take advantage of this strong way in which the semantic value of a process is determined by its syntactic approximation.
+Proving additional laws
+One very useful consequence of Lemma 3 above is that, if we want to prove a new algebraic law, it will usually be sufficient to prove it for finite programs, for example, consider the law  This (the conventional binary associative law of SEQ) is not trivially deducible fro our existing laws, even though it is semantically true.
+However, suppose we have proved it for all finite P, Q, R. (We will shortly do this.)
+Then, using Lemma 3, we have for general P, Q, R:  Now because the few elements F of the first set which are not of the form  are easily proved (using the laws) equivalent to ones that are, using the laws, e.g.   By our assumption that the result holds for finite processes this in turn is equal to  Since we are in the process of setting up powerful machinery for dealing with finite programs (for example Theorem 1) there are advantages in only having to prove new laws for them.
+In particular, it is enough to prove them for IF/ALT programs (since, by Theorem 1, every finite program is equivalent to one in IF/ALT).
+As an illustration of the techniques one can employ to prove laws for IF/ALT programs, we will complete the proof of the SEQ associativity law given above.
+By virtue of what we have already established, the following proposition will suffice.
+Proposition If , then 
+Proof We use structural induction on the triple (P, Q, R).
+Suppose the result holds for all simpler triples (P', Q', R').
+((P', Q', R') is simpler than (P, Q, R) if each of its components is a (not necessarily proper) syntactic subcomponent of the corresponding component of (P, Q, R), except possibly for changes of variables not in x.
+At least one must be a proper subcomponent.)
+If P =  the result is trivial by application of .
+If P = , we have  If P = VARxP' we first ensure (via ) that x is not in free(q)free(R), and then  If P =  one combines the techniques of the previous two cases (using  rather than ).
+If P =  we need to deal with the individual cases of Q separately.
+If Q =  the result is trivial by  and .
+If Q =  then    If Q = VARxQ' the result may be established (after possible renaming of bound variables) by  and induction.
+If Q =  the result follows using the techniques of the previous two clauses, using  in place of  and  in place of .
+If Q = x: =f we need to consider each case of R separately.
+If R =  the result follows simply from  and  If  we have  If R = , then after possibly renaming  to avoid clashes with free(P) (Q) we have   If R = IF the same argument as above applies, only  is used in place of .
+The case of R = VARx:R' is easy.
+This completes the proof.
+Other laws can be proved in much the same way (often rather more easily).
+Some examples are given below.
+a)  b)  if  true and no variable in any bi is altered by P. c)  provided U1 declares all global variables and channels used by P, and  declares none of them.
+Not all proofs of new laws go along these lines.
+Some may require the full power of a normal form, while some can be derived directly.
+As an example of direct derivation we here prove a law relating IF and ALT that is apparently more powerful than the law  we already have.
+ providing  true and no variable input in a  appears in a .
+This says that, providing the execution of the guards  always leads to the evaluation of the same conditionals, the value of which is not affected by the , then the conditional choice may be brought outside.
+To derive this law we first establish the following law as a lemma:   The right hand side may be transformed to  by repeated use of  and .
+It is then equivalent to the left hand side by .
+the proof of  is as follows:  
+3.
+The normal form
+We cannot claim that IF/ALT is a normal form since even though it has a far more restrictive syntax than general occam, it is still possible to have equivalent programs with essentially different syntax.
+This is because its construction did not take account of many of the equivalences that can arise between IF constructs, between ALT constructs, or as a consequence of , the law which relates the two.
+The following examples illustrates some non-trivial forms of equivalence that are not recognised by reduction to IF/ALT.
+After each example we indicate the way in which our normal form will solve the problem illustrated.
+a) It is possible to have clauses in IF constructs that are never executed, because the associated booleans must always evaluate to false.
+Some such cases are obvious, as when false is itself one of the booleans, but some are more subtle, as in  where, in the lefthand process, one of the booleans in the inner IF is always false because of its context.
+In the normal form all such clauses will be eliminated from conditionals by using .
+Difficulties such as those posed by the above example will be avoided by making sure that  any boolean appearing within the "scope" of another is stronger than it.
+The above example also illustrates the point that if, in , any of Pi is a conditional, then it may be unfolded using , etc.
+The normal form never has one IF directly as the argument of another.
+b) It is sometimes possible to make a conditional choice before it is strictly required, and always possible to introduce a meaningless choice (between two identical processes).
+Consider the process  This has essentially different behaviours depending on  or  (it either can communicate or not): this conditional choice is therefore unavoidable.
+On the other hand, the choice between x = 0 and  can be postponed to (at least) the next step: it is only the value communicated down c that is at stake, and it is possible to construct a single expression that takes the correct value in all states with .
+If b, e, f are expressions, we will use the notation  for the expression that takes value e if b is "true" and f if b is "false" .
+(We do not specify its value for other values of b.)
+The program above may be transformed to   by a combination of substitution of expressions, ,  and  (the derived law proved at the end of Section 2).
+In our normal form only strictly necessary choices will be made, and these will be made as late as possible.
+c) There are several ways in which apparently different ALT constructs can give the same effect.
+For example,  are equivalent.
+If the communication option of the first process is taken up, the environment cannot tell it is not operating the second (for exactly the same option is present there).
+If that option is not offered or not taken up, the first process quickly transforms itself (by the operation of the SKIP guard) to the second.
+The above equality cannot be proved from our existing laws, since (as we have already stated) the laws of ALT are not yet complete.
+We will shortly develop the further laws needed to counter this type of equivalence.
+d) If, at some point, a program can output several different expressions on the same channel, or assign several different expressions to the same variable, some subtle difficulties appear.
+(Such behaviour can easily arise in occam because of nondeterminism.)
+A pair of  expressions may, as the state varies, sometimes evaluate to the same value and sometimes to different values.
+For example  is clearly equivalent to  since, if (x mod 2) = 0, communicating 0 can lead down either branch of the first program.
+In our normal form we will insist that if two expressions are both available as outputs on the same channel, or for assignment to the same variable, then they are different.
+(In no state where they are evaluated do they take the same value.)
+Even this restriction is not enough: consider the following pair of processes.
+ They are clearly equivalent, even though there is no one-to-one matching between the pairs of expressions that appear in them.
+Just because, in every state, the sets  and  are the same, does not mean that there is any uniform equivalence between the individual expressions.
+In the normal form we are forced to accept only one of these representations; we choose the left hand one by insisting that pairs of expressions  output on the same channel or assigned to the same variable be ordered.
+This means that in all states where they are evaluated,  (say) is always strictly larger than .
+(The linear order chosen is of little consequence, provided it is expressible in the language.
+We will assume the identification of all possible expression values with distinct integers.)
+For a convincing construction of a normal form it is not enough merely to list a few types of equivalence that can arise and show how to deal with them.
+This approach can never tell us that there are no more (even more subtle) equivalences waiting to be discovered.
+Instead we must construct a normal form explicitly around the semantic properties of programs: it should be obvious that different normal form programs are different semantically.
+A good example is "full disjunctive normal form" for propositional formulae.
+There is an obvious and close correspondence between the syntax of full d.n.f. formulae and the underlying semantics (functions from truth assignments to ).
+An occam process can be thought of as acting in steps: a step is either a single communication or the act of successful termination.
+The normal form will characterise the first step of a process' behaviour using the highest levels of syntax, and rely on inner levels to deal with subsequent steps.
+There are three essentially different ways in which the first step can be influenced.
+(i) It can depend on the values of the program's variables.
+This type of choice is typified by IF constructs.
+(ii) It can depend on internal decisions by the process that are nondeterministic and invisible to the environment.
+The purest form of this is in ALT constructs with SKIP guards: for example ALT (SKIP P, SKIP Q) is a process that is free to behave like P or like Q, the choice depending neither on the environment nor on the program's variables.
+(iii) An occam process can offer its environment a choice of communications: its first step behaviour then depends on the choice made by the environment.
+This choice might be at the level of choosing what to output to the process along a particular channel, or of choosing (via an ALT with communication guards) which channel to communicate on.
+To describe a process' first step behaviour we will thus use three levels of syntax: essentially one for each variety of choice.
+The normal form has two parameters.
+The first is a boolean expression representing all facts known about the process' free variables.
+This is necessary because, as was shown in example (a) above, it is necessary to take account at inner levels of conditionals already passed through.
+The other parameter, inherited from IF/ALT, is a list of free variables.
+To keep our individual definitions as simple as possible we will define two sorts of program mutually.
+A  normal form program has conditional choice (type (i) above) at its outermost level, while a  pattern has a mixture of the other two.
+Definition A normal form is a program of the form  where the  partition b, for no i is  and the  are distinct  patterns.
+(ALT patterns, perhaps with different boolean parameters, are distinct if they cannot be reconciled to a single choice, as was done in example (b) above.
+A formal definition of this notion will be supplied later.)
+An ALT pattern will be a way of characterising the behaviour of a process whose general shape of first-step behaviour is the same for all permitted initial values of its free variables.
+This "shape" is determined by looking at the range of first step behaviours open to the process.
+There are four essentially different things a process can do on its first step:(i) it diverges;(ii) it communicates with its environment (and goes on to its second step);(iii) it stops because, even though it has not terminated, it cannot agree with its environment on any communication;(iv) it terminates in some state.
+The "shape" of a process' first step will be a mixture of possibilities from the above.
+Nondeterminism within the process, and the many choices open to the environment, mean that any mixture of these containing at least one of  is possible.
+(It is impossible to construct a process that communicates in every circumstance.
+This is because any process can be faced with an environment that will not agree to any communication.)
+Recall, however, that we have chosen to identify all processes that can diverge.
+Thus  will be a b, x-ALT pattern, and all others will be divergence-free on their first steps.
+The other b, x-ALT patterns are essentially just lists of the possible combinations from (ii),(ii) and (iv) above.
+Definition The program P is a b, x-ALT pattern iff it is either  or  where there are integers K, L with  such that  implies that  has one of the forms c> and c! e, and that Pi is a b, x-normal form.
+All input channels are distinct, and the (distinct) variables used in input guards are precisely  (none of which is a component of x).
+ is not free in  Pi unless  = c? .
+If c! e and c! f are two different  then .
+For each i, bound  is disjoint from free(P),  and the components of x.  implies  is SKIP and  is  where the  are incomparable subsets of  with the property that if  = c! e and  = c! f (both outputs on the same channel), then .
+(The sets X and Y are said to be incomparable if )  implies  is SKIP and  is  where, if  denotes the  expression in the vector , we always have  or  or .
+Furthermore, if  there exists some j with .
+Clearly the first K guards correspond to the process' possible communications, the next L-K to the minimal combinations of communications it can choose to accept from (but not terminate), and the final N-L to its possible final states (after termination).
+The condition  asserts that the process must be able either to terminate or to stop.
+The reasons for demanding that expressions output on one channel, or assigned to the same variable, be uniformly ordered have already been explained.
+Most of the other constructions should be reasonably clear except possibly the construction of the section .
+This sections is present to identify those environments with which the process might deadlock (i.e. stop because it cannot agree any communication with the environment).
+Observe that the process is free to execute any of the corresponding SKIP guards ( and can only deadlock if it does execute one of these guards.
+Thus deadlock can occur if and only if the environment offers to communicate on a set of channels disjoint from one of the sets represented by the ).
+It is clear that the set of such environments would not be changed by introducing an additional option with a larger set of P's communications than one of the , because whenever it can deadlock, so can Pi.
+This is why we only record minimal acceptances, or in other words, why we insist that the  are incomparable.
+On the other hand processes with different sets of minimal acceptances are observably different.
+This is clear when we note that, given two different collections of incomparable subsets of , one must contain an element X that is not a superset of any element of the other.
+Thus there is a set of channels (the complement of those represented by X) that the environment can offer which one process can deadlock on but not the other.
+Note that the whole set  or the empty set can appear as minimal acceptances, but that if one of them does appear then it is the only minimal acceptance (i.e. L = K + 1).
+The first of these happens when the process can fail to terminate but there is no communication it can either accept or refuse.
+The second occurs when the process has the option of deadlocking completely: getting into a nonterminated state where no communication is possible.
+All outputs along the same channel always appear together in the minimal acceptances because we assume that the environment, like occam processes, does not have the power of selective input on a channel.
+Thus we do not discriminate between a process that offers to output one of two values on a channel nondeterministically and one that offers the choice to the environment, even if this last idea were operationally reasonable.
+No environment we allow is equipped to observe such distinctions.
+The minimal acceptances are thus essentially sets of channels, and so in constructing them we must identify all guards corresponding to the same channel.
+(This problem does not arise with input channels because these are all, by assumption, distinct in ALT patterns.)
+The list of communications  needs to be represented independently of the minimal acceptances because not all communications  need appear in a minimal acceptance set.
+Indeed, it is possible to have communications but no minimal acceptances at all, as in ALT (c? x SKIP, SKIP SKIP).
+Notice that each communication guard  is always followed by the same process , whether it appears in the communication section or the minimal acceptances section.
+This is because our semantic model (chosen because it expresses the weakest equivalence required for most practical correctness issues) does not distinguish between processes on the grounds of what communications can be observed after the refusal of specific sets.
+For example, we regard the two processes  as equivalent, even though they have different possible behaviours once the refusal of "d" has been observed and an input has been made on channel c.
+A finer model (i.e. one identifying less processes) might necessitate different processes after different instances of a guard.
+it might also be necessary to include more acceptances than just the minimal ones in order to accommodate this type of distinction.
+We can extract from each  pattern an abstract shape for the behaviour it represents.
+It is either  or a triple, whose first component is a set of directed channels, the output channels having a multiplicity.
+Its second component is a set of incomparable subsets of the channels.
+The final component is a set of k-tuples of positive integers, where k is the length of x.
+For each i the set of its components of these tuples has the form  for some .
+For example, if  the tuple  means "assign the smallest of x1's expressions to it, the third smallest of x2's expression to it,…, and the second smallest of xk's expressions to it" .
+Note that the second and third components of the triple cannot both be empty.
+Recall that the  patterns  making up the normal form program  must be distinct, in that for no i and j can IF be transformed into a  pattern.
+We define ALT patterns to be distinct if they have different abstract shapes.
+Note that this corresponds well to our objective of having the outer conditional in the normal form determine the shape of first step behaviour.
+It is easy to see that two non- ALT patterns fail to be distinct if and only if there are straightforward permutations of the communications, minimal acceptances and terminations of the first that match the second (except for names of input variables and the various expressions, but preserving order of expressions).
+If such a set of permutations exists we will call them a matching of the two ALT patterns.
+Definition
+Let P = CAR  with  and  and   and Q = VAR with  and  and  and  be respectively b and  patterns.
+If  such that a)  (b)  c) if the jth components of  and  are respectively denoted eij and fij then  This completes our definition of the normal form.
+Our objective when constructing the normal form was that two such programs would only be semantically equivalent if they were syntactically equivalent in some obvious way.
+There are three ways i which two b, x-normal form programs can be semantically equivalent.
+(i) The operators ALT and IF (with disjoint booleans) are symmetric.
+Thus their arguments can be permuted without changing the semantics of a normal form program.
+(ii) The names of bound variables may be changed.
+(iii) Any expression can be replaced by another one which is equivalent.
+In the case of expressions output on channels or assigned to variables this expression only needs to hold in the context of the strongest enclosing boolean.
+Programs that are equivalent for reasons (i) and (ii) above are readily proved equivalent using the laws.
+Programs that are equivalent for the third reason are proved equivalent by the following rule.
+Rule of substitution for expressions
+a) If e is any expression appearing in the program P and , then provided P', a program in which some occurrence of e has been replaced by e', is correct, P = P'.
+b) If  then IF b ALT (c! e P, G) = IF b ALT (c! e"P, G).
+c) If  then IF be x: =e = IF b x: =e".
+In fact (i),(ii) and (iii)(and combinations thereof) are the only ways in which a pair of b, x-normal form programs can be semantically equivalent.
+We thus formally define equivalence of normal forms as follows.
+Definition
+a) The b, x-normal form programs  and  are equivalent if and only if n = n"and there is a bijection  such that, for each e,  and  is equivalent (as an ALT pattern) to .
+b) The b, x ALT patterns P and Q are equivalent if and only if either they are both , or  and there is a matching  between them such that  whenever e (from P) and f (from Q) appear "at the same point" (i.e.  and  and such that  implies that Pi is equivalent to  as a b, x-normal form.
+Theorem 2
+The b, x-normal form programs P and Q have IF b P and IF b Q semantically equivalent in the sense of  if and only if they are equivalent.
+We cannot give a detailed proof of this important result here since it depends so crucially on the details of the denotational semantics, which have not been described in this paper.
+The following is an outline of the proof of the "only if" part.
+(The "if" part being much easier.)
+So suppose  and IF b P and IF b Q are semantically equivalent.
+It is possible to recover the abstract shape of process' first step behaviour from its semantics.
+Hence for every state satisfying b, P and Q must have identical shapes of first step behaviour.
+Now the distinctness of the ALT patterns making up P and Q means that the sets of booleans  and  both partition the states satisfying b according to these shapes.
+From this we can deduce that n = n' and that there is a bijection  such that for each ,  and either  or there is a matching between .
+In the latter case it is easily shown that the matching in fact yields an equivalence once induction has been used to deal with lower levels.
+Three more laws
+There is an important gap that needs to be filled: the last three laws of ALT.
+They all concern SKIP guards in ALT constructs: the situation where the process is given an option that it can choose invisibly and automatically.
+In particular, they show what sort of equivalences arise between the type of nondeterministic processes these give rise to.
+In studying these laws the reader should bear in mind our philosophy that nondivergent processes are equivalent if they have the same communications, minimal acceptances and terminations, and if their possible behaviours after each communication are equivalent.
+These laws  more than any others depend on the way our semantic model treats non-determinism, and would probably need to be revised in other systems.
+The first law says that if the process communicates, the environment is not interested in whether this occurred before or after a SKIP guard.
+(2.11)  The fact that the process on the left hand side has a communication on the same channel as  within the inner ALT ensures that both processes have the same minimal acceptances.
+The fact that, in the case q1 = c! e and  = c! f, e need not equal f, expresses the fact that the environment is not capable of inputting selectively on channel c.
+The second law allows us to eliminate nested ALTs with SKIp guards.
+It says that if an ALT can SKIP to a second ALT, which in turn can SKIP to P, then all other options in these ALTs are in exactly the same position: they might be offered, or might be ignored in favour of P. (2.12)  The final law depends on the fact that we are only interested in minimal acceptance sets.
+Thus the following two processes with the same communication options (and subsequent behaviours) are equivalent:(2.13)   The left hand process can SKIP to two options, one of which is a subset of the other.
+If one of the lists  and  contains a SKIP guard the equivalence is quite easy to see.
+If neither does it is clear that both processes have exactly the same possible communications, and furthermore any environment which can deadlock with either can deadlock with SKIP ALT(G1) or some SKIP option within G3.
+We now have enough laws to completely capture the semantics of our version of occam.
+There is one exception: the case of uninitialised variables.
+The nondeterminism introduced by these is of a particularly difficult kind.
+Given that any instance of one of these is erroneous, it is not worth putting a great deal of effort into their study.
+Any use of such a variable by a program will show up in its IF — ALT form.
+We will thus not attempt to transform any further an IF — ALT program with the "uninitialised variable" construct within it.
+(Notice that we have not included the possibility of uninitialised variables within normal form programs, since no bound variable is ever read until it has been input to.)
+Given Theorem 2 above, the following theorem shows that we have achieved our objective of completely characterising the semantics of finite programs.
+Theorem 3 If the list x contains every free variable that the finite program P ever inputs or assigns to, and if P never evaluates an uninitialised variable, then there is a true x-normal form program P' such that  and P = P' is provable from our laws and the rule of substitution for expressions.
+By virtue of Theorem 1 it is sufficient to prove this for the case when P is an x-IF/ALT program.
+The proof of Theorem 3 takes very much the same form as that of Theorem 1: it is a recursive procedure for transforming IF b P to b, x-normal form, where P is an x-IF/ALT program without uninitialised variables.
+Indeed in some ways the proof is rather simpler than Theorem 1, since it does not need such a complex structure of nested recursions.
+(The reason for this is that IF/ALT and normal form share the property that syntactic structure corresponds closely to execution order: things at high syntactic levels are excluded first.)
+Theorems 2 and 3 together give us a relative completeness result: relative to the knowledge we are assuming about expressions, our algebraic laws are complete with respect to deciding the equivalence of finite programs.
+Recall the relation  introduced in the second section, meaning  is more deterministic than P'.
+This was formally defined  It is therefore (relatively) decidable for finite programs using our laws.
+It is a fact that, provided the set of "basic values" that expressions can take is finite, the finite programs are finite in the lattice-theoretic sense of the word.
+In other words, if D is a directed set of processes (under ), P is finite and , then there is some  such that .
+Thus the following theorem is a easy corollary to Lemma 3.
+Theorem 4 If P and Q are two occam programs with the property  then .
+If the underlying set of basic values is finite,(*) holds if and only if .
+Since P = Q is equivalent to  and , Theorem 4 proves the soundness and, in the finite set of values case, completeness of the following infinitary rule for deciding equivalence.,
+Infinitary rule 1
+Suppose P and Q are such that  and  then we may infer P = Q.
+This rule, together with our laws and the rule of substitution for expressions is enough to completely characterise the semantics of occam if the set of values is finite.
+Our use of an infinitary rule, which requires an apparently infinite amount of work to verify its preconditions, appears undesirable.
+Indeed for any particular finite value set it will be possible to give a complete finitary rule based on the fact that, since any program only contains finitely many variables, it can be regarded as a finite state machine (with a huge umber of states).
+However any such rule would be inelegant and be impossible to apply in practice because of the prohibitive amount of case checking required.
+Indeed our infinitary rule may well be more practical, since it will be possible to verify its preconditions by induction in many applications.
+It should be noted that there is no chance of a complete finitary rule when the value space is infinite.
+For example we could take our value space to be the integers (with the truth values embedded somehow).
+We restrict the language of expressions to the comparison and boolean operations (including  see example b of this section (, + and -.
+This means that the facts  we are assuming are in principle  decidable, an so add nothing to the real power of our system.
+A complete finitary rule for this language would allow us to decide the halting of arbitrary register machine programs: this is well-known to be impossible.
+(We have taken care here to ensure that an unscrupulous user could not make use of the calculus of expressions to reason about the large scale structure of programs.
+It would of course be completely outside the spirit of our style of proof system for him ever to do this.)
+Unfortunately Infinitary rule 1 as it stands is not strong enough to give us a complete system when the set of basic values is infinite.
+Suppose the value space is the integers, and consider the following pair of programs.
+ These are equivalent, but the rule does not prove this because the left hand program is finite but is not weaker than any finite syntactic approximation to the right hand program.
+This is because, as the initial state varies, the number of iterations of the WHILE loop varies unboundedly.
+There are several methods of extending our rule to cope with this problem, all of which are essentially ways of considering programs restricted so that we only need worry about a finite set of values at a time.
+It is quite easy to restrict normal form programs to finite sets of values.
+Given any list of variables y and finite set of constant expressions F, it is easy to construct a boolean  which is true if and only if every element of y is in F. All we have to do is to introduce extra conditions of the form  into the conditionals of the normal form, with an "escape" clause of .,
+Definition
+a) If P = is a b, x-normal for program and F is a finite set of constant expressions we define  to be  where y is the list of all variables appearing free in P. b) If P = is a b, x-ALT pattern and F is a finite set of constant expressions we define  to be the program in which  is applied to each normal form appearing after a communication or within a minimal acceptance.
+(Note that  need not be a normal form program if P is, since the clauses in the IFs might be false or not all distinct.)
+The following lemma expresses the important properties of the .,
+Lemma 4 Suppose P is a normal form program and that every value is expressed by some constant expression, then we have: a)  is directed (under ) with limit P.  b) For each F, if D is a directed set of processes with  then there is some  with .
+We can associate a set of these "ultra-finite" programs with each occam program P as follows.
+ Lemmas 3 and 4 now combine to prove the soundness and completeness of the following rule.
+Infinitary rule 2
+Suppose the programs P and Q are such that  and  then P = Q.
+We have now completed our characterisation of the semantics of occam.
+The algebraic laws, infinitary rule 2 and the rule of substitution in expressions provide a sound and complete system for deciding the equivalence of programs.
+Unfortunately, infinitary rule 2 is likely to be much harder to use in practice than infinitary rule 1.
+The facts that it relies on transformation to normal form and uses two separate types of approximation mean that its hypotheses will be much harder to prove by induction than those of the earlier rule.
+There may be alternative rules that are not so problematic; in particular it should be possible to eliminate the need to transform every program to normal form.
+This is a topic for future research.
+4.
+Conclusions and prospects
+In the first section of this paper we saw that algebraic laws provide a novel but precise framework for describing and defining occam.
+The completeness of this description was shown by the rest of the paper.
+This approach can also be used to good effect with other well constructed languages: this is illustrated in{laws}, where a simple sequential language (Dijkstra's language of guarded commands  is considered.
+The algebraic approach to programming language semantics has several features to recommend it.
+Laws do not require the construction of complex mathematical models.
+Each group of laws is fairly self contained and usually easy to understand.
+They are very modular: a change which, with denotational semantics, would require alterations to the mathematical model and consequent revision of every semantic clause, may well require the alteration of only one or two laws.
+Nevertheless, the algebraic laws can give rise to complex and unexpected interactions, leading to a danger that too many programs will be equated.
+It is therefore desirable to describe the language by an independent semantic technique (for example denotational) and prove that this is congruent to the algebraic semantics.
+Such a proof will probably follow similar lines to ours: a demonstration that all laws preserve the semantics, the construction of a normal form, and a proof that two different normal form programs have different denotations.
+Note that in our case it would have been very difficult to construct the normal form without knowing the structure of the denotational model.
+Algebraic laws alone only allow us to prove one occam program equal to another.
+They do not help in proving a program correct  with respect to some specification expressed in terms of a more abstract description of its intended behaviour.
+Correctness proofs might be based on concepts such as satisfaction (sat)  the weakest pre-condition  or Hoare logic  We expect that these methods will be based more usually on the denotational than the algebraic description of occam.
+However, the laws may well be useful for transforming a program after it has been developed, or for making a program more amenable to some proof technique.
+We conclude that even though the algebraic and denotational semantics characterises exactly the same equivalence over occam, they are in some sense complementary.
+Each has a lot to offer to the other.
+Nevertheless, there are a number of practical applications for the laws described in this paper: proving programs equivalent to one another, transforming programs to make them more efficient, and transforming programs to a restricted syntax for special applications.
+In the three following subsections we examine their potential for these applications.,
+Deciding the equivalence of programs
+The most obvious application of the laws is in deciding whether or not a given pair of finite programs are equivalent.
+Sections 2 and 3 have developed a procedure for doing this.
+This is a clear candidate for automation.
+The only parts of this procedure that are not immediately susceptible to practical implementation are those that rely on the assumption of facts about expressions.
+For some languages of expressions it will be possible in general to decide these facts (though perhaps not very efficiently), and in any reasonable language thee should be wide classes of pairs of expressions whose equivalence  is decidable.
+Even in the absence of a complete procedure for deciding expressions it will be possible to automatically transform each finite program to normal form (except perhaps for the inclusion of some false branches in IF statements).
+In such circumstances the procedure might be able to decide the equivalence of a given pair of programs, and would in all other cases reduce the question of their equivalence to a boolean expression.
+It might be appropriate to make such a program interactive, allowing it to interrogate its user on difficult facts concerning expressions.
+Much of the complexity of the normal form can be attributed to the potential nondeterminism of occam programs.
+We have seen various ways in which programs can behave unpredictably: the normal form needs enough structure to characterise all of these.
+In fact trans-formation to normal form will be an excellent way of analysing the nondeterminism of programs.
+In many practical cases the program will be deterministic, in that it cannot diverge and never has any choice over what to communicate or what to assign to its free variables.
+For these programs, and deterministic sections of others, much of the structure of our normal for will be redundant.
+If we wish to store and manipulate normal form programs in computers it will be worthwhile investigating this and other topics to discover how they can be made more compact.
+A useful system for handling practical program equivalence questions must be able to deal with programs containing loops.
+Unfortunately, in deciding the equivalence of any pair of programs involving WHILE loops, it is necessary to compare infinitely many pairs of their finite syntactic approximations.
+As explained in the previous section, any reasonable complete system is bound to be sometimes infinitary.
+However it is certain that by extending our set of laws and rules, and by the use of inductive methods, we can develop systems that will require the use of infinitary rules a good deal less often.
+It is thus likely that we can develop practical infinitary proof techniques which are applicable to many pairs of programs involving WHILE.
+A typical method would involve attempting to transform programs to some standard form, for example the normal form with the introduction of loops in some tightly defined ways.
+The incompleteness of such a method would appear either from the impossibility of transforming every program to standard form, or because the standard form was not a true normal form.
+For such techniques we will probably need to discover a number of algebraic laws involving WHILE.
+We have not needed any of these so far, because finite programs contain no loops.
+Five examples are given below, each of which is easily derived from our existing systems.
+(Each requires an application of Infinitary rule 1 and induction.)
+(W1) WHILE =  (W2) WHILE  (W3) WHILE =  (W4) WHILE true  (W5) WHILE b SEQ (P, Q)  if no variable appearing in b is input or assigned to in Q  In addition to laws in this familiar style, it may also be necessary to use more explicitly directed transformations towards particular standard forms.
+For example the following may be useful if the target is a state — machine like program.
+Note that an extra variable is introduced as a flag.
+(W6) WHILE b  If x is not free in the left hand side.
+However there is little hope that the above six laws, or any reasonable extension of them, will be adequate for every problem likely to be encountered in practice.
+Improving efficiency
+The second possible practical application of algebraic laws is for transforming programs to improve their efficiency in some way.
+That this is possible reflects the fact that the laws, while preserving all essential abstract correctness properties, do not imply equal efficiency on either side.
+Occam gives extra scope for this because it is a parallel language: one can improve a program not only by reducing  the overall amount of calculation, but also by configuring it for the (possibly parallel) machine on which it is to be run.
+The second of these objectives may be easier than the first.
+In some circumstances one might seek a maximally parallel version of a program, but it is more likely that one will be attempting to optimise it for a particular configuration.
+This might be a fixed length pipeline, or even a single sequential processor.
+A typical technique here might be to seek maximally parallel versions of a program, use the symmetry and associative laws of PAR to divide the task into groups of processes suitable for running on single processors in a given network, and then eliminate some of the parallelism within these groups.
+A helpful tool for this type of transformation will be a repertoire of laws directly relating sequential and parallel composition.
+Because these constructions were both eliminated at an early stage of the transformation to normal form, we have so far not needed any such laws.
+it should also be possible to discover a number of laws which can be used to assist parallelism introduction, for example by making a sequential program more amenable to it, or speeding up the behaviour of a parallel network.
+A good example of a sequential-to-parallel transformation is provide by the following.
+Suppose no two of the processes  can communicate on the same global channel (even internally), that the list  contains each free variable that can be input or assigned to by one Pi and used (in any way) in another, and that no  has a free occurrence of any of the channels.
+Then   Uo claims co for output, cm for input and x1…xn as variables.
+For , Ur claims  for input, cr for output and all variables and channels used by pr except 
+This transformation sets up a ring in which the values of the variables shared between the  are passed around in sequence.
+It would be easy to devise a version of this transformation in which the network created was a straightforward pipeline.
+(This would be in sequence with another simple process for managing the final values of   Note that no  can start up until  has terminated: it is this that makes the transformation so general, but it also makes the resulting parallel program useless as it stands.
+After performing this transformation one would seek to introduce more useful parallelism by transforming the  in ways that remove the temporal dependence between actions in different .
+Useful laws for this include  and simple derived laws such as  Unfortunately the corresponding law of input/output symmetry  is never true as it stands.
+Nevertheless it is a substitution that can be made in a number of contexts where at least one of c and d is used for internal communication.
+Transformation to a restricted syntax
+The final easily identified practical application for the laws is the transformation of general occam programs into restricted subsets of the language.
+This paper has shown just how successfully this can be done: we have transformed every finite program to a normal form to which it usually bears no syntactic or structural resemblance.
+It seems unlikely that the normal form is one into which we would choose to transform programs for execution, but our work gives hope that transformation into other, more useful forms might be tractable.
+An important application of this idea is likely to be in VLSI design.
+Occam is a natural language for specifying and describing systems such as VLSI circuits.
+The way in which these circuits are built up in a structured way out of interacting modules and submodules corresponds well to the use of nested parallel constructs in occam.
+In specifying such systems we are likely to use fairly straightforward types of occam, which will make transformation easier.
+In particular the set of expression values is likely to be much restricted (perhaps allowing only the Boolean values 0 and 1).
+Let us suppose that we know that particular types of occam program are directly implementable in silicon by some automated system.
+Then to implement a circuit specified in occam it will be sufficient to transform it to one of these implementable subsets of occam.
+Because all our transformations are provably correct, the resulting chip design is guaranteed to be a correct implementation of the original specification.
+An essential prerequisite for this work will be the definition of the directly implementable subsets of occam.
+An obvious candidate is some stylised representation of a finite-state machine.
+Others will clearly involve parallelism an communication.
+The handshaken communication of occam can be implemented directly on silicon by asynchronous design rules; and for larger circuits this is a effective method for avoiding problems of clock skew.
+For smaller circuits with highly regular communications, the occam handshake can sometimes be replaced by a clocked synchronous transfer.

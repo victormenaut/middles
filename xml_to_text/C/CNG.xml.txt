@@ -1,0 +1,329 @@
+
+
+EVER-EXES FORM ALARIS TO DESIGN, MAKE COMPUTER LINES UNDER CONTRACT
+The restless shifting tides of the US computer industry ensure that people may at times be down, but few are out for long, and out of the gathering gloom of the Everex Systems Inc Chapter 11 bankruptcy proceedings has sprung a new company, also in Fremont, California, raring to make its mark.
+It's all very well for all the major computer manufacturers to say that all the money is in software and services these days, and that hardware is a commodity business, but if no-one wants to make the hardware, there's no industry.
+Alaris Inc has been founded by two former Everex executives to address that potentially growing problem.
+It was founded by two former Everex executives, Raymond Yu, 33 as president, and Philip Lau, 35, vice-president, as a design and manufacturing house to meet the needs of systems integrators and personal computer vendors that do not want to get involved in design and manufacturing.
+Alaris will start out with a product line of iAPX-86-based personal computers.
+The company promises to provide its corporate customers with early access to leading-edge technology and says it is solidifying relationships with the kind of partners that can provide extremely high volume manufacturing, capability and full global distribution.
+It plans to announce and begin delivering product to customers by the beginning of next month.
+Yu was vice-president of engineering and vice-president of business development at Everex from 1986 to 1991 and Lau was previously treasurer and vice-president of operations at Everex, where he says he was instrumental in the development of the Abaton and EMAC Macintosh divisions.
+WISCONSIN STATE REJECTS STEVE CHEN's PLEA FOR MORE CASH
+The Wisconsin state authorities feel that they have lost enough money on Steve Chen's dreams — his failed Supercomputer Systems Inc received $75m in incentives from to establish its operations in Eau Claire, and they showed Chen the door when he asked for another $5m to get his fledgling SuperComputers International Inc off the ground in Eau Claire.
+Chen spokesman Lee DeLorme told United Press International that negotiations are continuing with the city of Eau Claire for an aid package to base the company there, but that the state's decision has prompted Chen to look to other states for aid as well.
+‘It means we are free to pursue other offers of public support,’ he said.
+Some 300 people lost their jobs when Supercomputer Systems failed; Chen had hoped to re-hire about 50 of them, but if he goes elsewhere, not many of those are likely to be offered positions.
+DEC BRINGS VMSCLUSTERS FOR VAX+AXP IN A YEAR EARLY
+Digital Equipment Corp, pioneer of the processor clustering concept with its VAXclusters, has introduced an OpenVMS-based clustering capability for its Alpha AXP RISC architecture — nearly one year ahead of schedule.
+The company says it had planned to offer the capability in the middle of next year, but now says that users will be able to cluster OpenVMS VAX systems with OpenVMS AXP systems this spring.
+The capability is now called VMSclusters, to reflect its support on both VAX and Alpha AXP, and the new release will include several different modes of clustering.
+These are Cluster Interconnect; Digital Storage Systems Interconnect; Network Interconnect; Mixed Interconnect — combinations of the other three; Mixed Architecture Clusters — Alpha AXP and VAX in same cluster; and Alpha AXP Clusters.
+DEC reckons that more than 90% of today's VAXcluster customers will be able to enhance their systems by adding an Alpha AXP system.DEC's clustering technology enables allows multiple systems to operate as a single system to provide fault resilience and high availability for applications: each machine in the cluster runs its own copy of the operating system with the clustering software under the control of one of them.
+It claims that since 1983, over 25,000 clusters have been built, supporting more than 10m OpenVMS users worldwide.
+The new release supports up to 15 Alpha AXP systems with computing power well in excess of 3,000 SPECmarks or 4 GIPS.
+Volume Shadowing for OpenVMS and VAX Disk Striping software are separately licensed layered products, and will be available for the Alpha AXP in the near future.
+The new VMSclusters fully supports the use of FDDI as a network backbone interconnecting clusters nodes, and support for native FDDI adaptors as a cluster interconnect is promised.
+No prices given.
+ANOTHER 3,000 JOBS MUST GO AT BULL THIS YEAR
+Compagnie des Machines Bull SA is looking to cut another 3,000 jobs from its global payroll of about 35,000, chairman Bernard Pache said yesterday as he presented the figures for 1992 (see page six).
+He said that it had not yet been decided how to go about making the cuts in all areas, notably in France, and it is not clear whether the figure of 3,000 includes the 800 to 900 positions that Bull said last week that it intended to eliminate in France.
+QUANTUM COUNTER-SUES RODIME
+Quantum Corp, Milpitas does not believe its disk drives infringe Rodime Plc patents and it is counter-suing the Scottish company, asking the US Court for the District of Minnesota to declare the patent not infringed and anyway unenforceable.
+SYQUEST CHIEF OUTLINES HIS NEW PRODUCT PLANS
+A removable CD-ROM product for laptop computers is among a string of new products in development at SyQuest Technology Inc, founder and president Syed Iftikar told the Robertson Stephens & Co industry conference.
+At Comdex in November, SyQuest plans to unveil a version of its flagship 3.5’ drive with removable cartridges storing 256Mb, and it plans to add 200Mb and 300Mb capacities for its 5.25’drives.
+It is also working on 60Mb and 80Mb 1.8’ drives, but those are only in early development stages.
+His aim, he added, is to build SyQuest into a $1,000m-a-year company by concentrating on the removable disk sector, which he says is high-profit.
+NEVER A DULL MOMENT AS REST OF WORLD CATCHES AMERICA's COLD TO THREATEN IBM RECOVERY
+Any list of the great industrial achievements of our time would have to include the Wilkinson double-edged blade.
+We heard of a case in which an unfortunate man accidentally swallowed one.
+It gave him a tonsillectomy, an appendectomy and a vasectomy.
+He somehow recovered the item…and it was still good for 10 shaves.
+IBM's European business used to be that good.
+But in 1992 the company lost its edge.
+IBM's problems in Europe, reflected in its annual report, are hardly over.
+They are likely to worsen.
+And in Japan, where big business likes big computers — when it can afford them — IBM's prospects for 1993 are already making observers nervous.
+Their concern appears to be justified.
+At home, IBM seems to have reached the nadir in some of its businesses during 1992.
+It reported that US revenue rose slightly.
+Turmoil
+However, its losses at home ballooned due to huge restructuring costs.
+If IBM's domestic operations have finally been pared down far enough to permit the company once again to grow and prosper, it should be able to export its success, ameliorating its problems in key foreign markets.
+But if IBM faces another year or two of turmoil in the United States, its problems will be made all the worse by foreign woes.
+IBM's talk of a few orderly spin-outs could prove naively optimistic and it could be forced to jettison whole businesses that, under more  favourable conditions, it would wisely prefer to retain, imperfections and all.
+IBM is still too dependent on the mainframe business, and not just financially.
+The company's strategies in the mid-range — where its RISC machines and AS/400s show great potential for growth and profitability — are said to have been constrained by concerns over self-impact.
+This is a topic about which honest people can differ.
+We agree heartily with those that assert that IBM's mid-range groups could embarrass and even hurt the company's mainframe division by fielding impressively more clever and vastly more efficient computers.
+But we cannot accept the hypothesis that IBM might gain more than it would lose by arbitrarily restraining its young and vigorous mid-range systems developers.
+That might well have been the case during the 1970s and most of the 1980s, when the IBM name could easily outweigh other factors in a customer's mind.
+But the preponderance of evidence about the computer business shows that the IBM name no longer has its old magic…and it hasn't for the past few years.
+IBM is still universally recognised as the greatest powerhouse in just about every significant part of computing.
+But customers are also impressed with many of its competitors and, the facts show, quite willing to give technology, cost and support weight that can more than offset IBM's big name.
+This attitude didn't arise overnight.
+It seems to have originated in the personal computer segment about the time Compaq proved it could supply 286 machines that were comparable to IBM's…and do so in a more timely fashion.
+By the time Compaq reinforced its good impression with 386-based processors, a flock of clone makers had made desktop computing the most impressive bargain in recent history.
+Customers learned to think of computers more as platforms and less as exotic paraphernalia.
+Everyone knows there is a quality difference between name brand personal computers and generic machines but the premium put on the famous products has become very small indeed.
+A similar situation has arisen in the technical workstation and server segment, where Unix standards have by and large offset the formerly overwhelming advantage of corporate logos.
+While end users do draw distinctions among various manufacturers and their products, the Sun name (or that of DEC or Hewlett-Packard) commands respect comparable with that accorded the much larger IBM.
+Soon, a similar attitude will become commonplace in the commercial mid-range systems market, for the software vendors in the Unix market are just as committed as Microsoft in the personal  computer world, if not quite as wealthy or ingenious.
+IBM's RS/6000 products and also its AS/400 line (despite proprietary software and other distinctions) cannot continue to succeed unless they provide good value for money along with the comfort of the IBM logo.
+The mainframe business has been affected, too, but only indirectly…so far.
+IBM's image in the mainframe world isn't different from that in other segments.
+But mainframe software is controlled by IBM, not Microsoft or The Unix Conspiracy.
+This gives IBM the ability — and responsibility — to provide the system software users see as well as platforms to support it.
+Nonetheless, customers know full well what it costs them to run their big systems, even if IBM, which lost its price list, apparently does not.
+It is this last factor — the high cost of extending the scope of mainframe-based applications — that has discouraged hard-pressed customers in the US from adding mainframe power at a rapid pace even as they have rapidly added desktop machines and minicomputers.
+Now that Europe and Japan have caught the economic disease from which America is beginning to recover, the same considerations could put a big dent in IBM's large systems business.
+Guest
+And, having held off longer in the vain hope that the negative economic signals would prove false, IBM's European and Japanese customers will be obligated to make more drastic cutbacks in mainframe expenditures than will their American counterparts.
+They will be particularly sensitive to the way IBM, a guest in their countries, behaves.
+That is why we think this is hardly the most opportune moment for IBM to wield the weapon of ad hoc pricing.
+The company will probably discover, to its chagrin, that it cuts both ways.
+ONTOS OULINES THE ENHANCEMENTS PLANNED FOR ITS ONTOS DB OBJECT-ORIENTED DATABASE SYSTEM
+Object-oriented software developer Ontos Inc, based in Burlington, Massachusetts will introduce integration enhancements for Ontos DB, its object-oriented database and application development environment, in September.
+These include two object-linking Storage Managers — for the Sybase relational database and IBM's IMS mainframe database — and a set of front-end application programming interfaces, and a family of object class libraries developed for the financial trading room market.
+The Sybase Storage Manager, which uses a C++ application programming interface, enables Ontos DB users to hook up with Sybase as a back-end database server.
+This enables messages sent from the object database to access information stored in the Sybase system.
+Data requested from the Sybase is encapsulated and fed back to the object environment and can be manipulated, analysed or updated without re-engineering, the firm claims.
+The Sybase Storage Manager can also be used as a migration tool for re-engineering Sybase applications, or even parts of applications, into object forms, Ontos says.
+The IMS Storage Manager is configured in the same manner but conforms to IMS protocols and specifications.
+Both the Storage Managers will be available from September.
+Pricing details have not been set.
+Ontos also plans to provide a set of dynamic link library programming interfaces for third party graphical user interfaces.
+This will enable developers to hook up their preferred choice of front-end tool to Ontos DB, by converting the command syntax of the software into readable object forms.
+Ontos has developed a set of object class libraries for financial trading rooms in a co-development with the University of West England,(formerly Bristol Polytechnic).
+The libraries have been designed on the basis of research carried out at the University under the auspices of a Department of Trade & Industry programme, and include temporal functions to monitor the start and stopping time of shares, financial risk calculation and probability functions.
+Other goals for Ontos this year include, introducing Microsoft Corp Windows 3.0 client support for Ontos DB in June and conversion of the software for NT.
+CANON EXPLAINS ITS BUBBLEJET PRINTING TECHNOLOGY
+The bubble jet technology used by Canon Inc in the integral printer in its new BN22 BJ all-in-one notebook computer (CI No 2,114), was first patented by Canon in 1977.
+The process involves heating ink to temperatures of 400°C in microscopic nozzles.
+This causes a bubble of ink to shoot out of the nozzle.
+Once the ink is expelled, the heat is turned off, the ink bubble contracts and a vacuum is formed in the nozzle, pulling fresh ink back into it so that the process can begin again.
+Canon used mechatronics — electronically controlled precision mechanics — to produce the miniature printer.
+The project took a year — and some 171 additional patents to complete.
+The resulting printer produces 360 dpi output, suitable for text and graphics, and prints at 116 characters per second — around a page a minute.
+It conforms to the X24E, BJ-130e and LQ-510 emulations and its automatic sheet feeder can handle up to 10 sheets at a time.
+On-screen guidelines are given for changing the ink cartridge, which does 60 pages at a cost of around 2.5 pence each.
+NATIVE NETWARE SEEN TO BE ON THE WAY FOR DEC ALPHA, IBM RS/6000
+Hewlett-Packard Co is already using the hardware-independent version of Novell Inc's NetWare to develop native NetWare for its Precision Architecture RISC.
+Sun Microsystems Inc is following a similar course, though Novell is doing the implementation for Sun.
+Now US reports suggest Digital Equipment Corp and IBM Corp will, over the next few months, announce plans to put native NetWare up on their RS/6000 and Alpha CPUs.
+Meanwhile, the Novell network operating system version for Sun systems — NetWare for Sparc — will have all the features expected in the upcoming NetWare 4.0, including a global directory.
+NetWare for Sparc, due next year, will enable MS-DOS, Windows, Macintosh and other vanilla NetWare clients to access Sparc-based servers.
+They will be able to access resources such as printers and databases over NetWare and NetWare for Sparc servers.
+For Sparc server users, the software will replace the need for Novell's NetWare for Unix, which has been criticised for being to slow.
+However Sparcstation clients won't — at least not initially — be able to access servers running NetWare for Sparc.
+They will have to buy NetWare for NFS, which costs $5,000 for 100 users.
+Once the initial product is out, the firms say they will add more communications options for Sun workstation users.
+To offset criticism, Novell is promising to deliver a new NetWare NFS gateway this month, which it says will make it easier for NetWare clients to access Network File System services on remote Unix systems.
+INTEL PURSUES PERSONAL COMPUTER-TELEPHONE INTEGRATION IN PARTNERSHIPS WITH TWO BABY BELLS
+Intel Corp, as reported briefly, has announced separate agreements with Ameritech Inc and Bell Atlantic Corp to explore applications such as audio, data and video conferencing for personal computer users.
+The agreements, which have still to be firmed up, are intended to provide a framework for the companies to work together on integrating personal computers and phones, and to to enable real-time data conferencing over regular telephone lines, and videoconferencing over ISDN.
+Intel says that it will introduce personal computer add-in boards and software later this year, but refused to confirm a report in US PC Week that places the number of products at 20 and says that the first launch will be in April.
+The report also says that Intel is to release a revision of its Indeo video compression technology, which is claimed to increase compression ratios fivefold over the current version (enabling one minute of video to be compressed into 1Mb of data).
+The products specified in the report include a low-cost video board which gives users single-step video capture and compression capabilities in a 320 by 240 pixel window, and an Exchangeable Card Architecture communications board — due in June — which includes the enhanced Indeo compression technology.
+Finally the report says that Intel's Business Communications Division is working with Microsoft Corp on the release of software standards for telephony applications.
+NOVELL, UNIX LABS TRY TO REASSURE JAPANESE ON THE MERGER
+Ray Noorda, chairman of Novell Inc, and Unix System Laboratories Inc chief Roel Pieper visited Japan at the end of last week in an attempt to reassure shareholders and customers of their respective organisations, already, if not soon to become, joint shareholders, that life was proceeding as normal and that the future of Unix as the industry has known it was in good hands.
+The press conferences held in Tokyo was long on reassurances and short on details of how the companies will operate post-merger.
+According to Novell, the main benefits of the merger will be apparent in the increased quality of product and service and the stronger financial base of the resources available for the development of the System V.4 brand of Unix, as well as the synergy of customer service offerings in the education and training areas.
+While Roel Pieper recognised that there had been some negative reaction to the merger both from Unix Labs employees and Unix Labs shareholders, as well as Unix International Inc members, he said that this was merely a human reaction to change and he felt confident that their talks in Japan and to Unix Labs members had a been able to address the concerns of Japanese customers regarding the Japanese market.
+Particular concerns were that there would be a level playing field with regard to technology access and specifications, and that fair licensing policies would be followed.
+According to chairman Noorda, Novell has no plans to move Unix Labs headquarters from New Jersey to Utah; rather the two companies' respective strengths in the East and West Coast would count as advantages in the future; even now in fact they were ‘geographically separate, but mentally close’.
+The situation as regards the merger of their two respective companies in Japan — Unix Labs Pacific and Novell KK — is more complicated — so complicated that Noorda said he would need lawyers — anathema to the Japanese — involved even to discuss it.
+Currently four Japanese companies are shareholders in Unix Labs — Fujitsu Ltd, NEC Corp, Oki Electric Industry Co and Toshiba Corp — and some of the same companies — Fujitsu, NEC, Toshiba — are shareholders in Novell KK, Novell's Japanese subsidiary.
+Noorda suggested that while it had yet to be decided, these companies' shares in Unix Labs would be exchanged for Novell shares.
+ Co-optition 
+Regarding the anticipated competition in the market between Microsoft Corp's Windows NT and Unix, Noorda coined a new word, co-opetition — co-operation and competition — to describe the new culture.
+He  regards Microsoft NT as good for the market since it will focus the market more on ‘rightsizing’ and permit competition at a technological level, where Novell is confident of its capabilities.
+Noorda says that Novell is acutely aware of the ‘history’ of Unix and its penetration into government and industry over the past 20 years.
+However he thinks that development of the operating system as an application server will be accelerated thanks to Novell's participation, with Unix evolving to a broader market with additional features and capabilities, including links with NetWare.
+The involvement of Unix International as a body that codifies requirements specifications will remain the same, although Unix International will also be going outside its traditional member-suppliers for sources of technologies.
+This was welcomed by the head of the Open Software Foundation in Japan, Dr Rob Morel, who ventured that possibly the Foundation was better positioned than before as a ‘truly independent standards organisation’.
+According to Noorda, Novell also feels it has a role to play in unifying the industry; currently there are ‘too many Unixes’ says Noorda, and he hopes to work with Novell's OEM customers in both joint marketing efforts of the current Unix Labs software line and development of specific hardware to work with new products.
+Japanese members of Unix International, whose opinions on the merger were canvassed at the Tokyo announcement of Unix International's Roadmap on Tuesday last week, were in various minds in their support of the new ownership of Unix Labs.
+Most said that they had been surprised if not totally taken aback on the news of the merger; but to various degrees said that they were prepared to work with the new ownership as long as the guarantees of openness and neutrality made by Novell regarding the development of System V.4 were maintained.
+However the representatives of NEC and Fujitsu reserved comment, saying that they had not received official notice of their position and that they looked to the future to reveal this.
+One can only hope that in their visits to these firms over the last few days, Ray Noorda and Roel Pieper were sufficiently persuasive.
+HARRIS ITEMISES ITS MAJOR SAVINGS FROM OPEN SYSTEMS
+X/Open Co Ltd, in conjunction with Sigma System, the company that emerged from the Ministry of International Trade & Industry-sponsored Sigma Project, sponsored the International Symposium for Open Systems last week in Tokyo.
+Speakers included Dr Toshiyasu Kunii, Professor of Information and Computer Science at the University of Tokyo, and Dick O'Donnell, director of information technologies at Harris Corp.
+O'Donnell is also an executive member of X/Open's User Council.
+Harris Corp's information technology department has around 150 employees, with MVS, VM, Unix and MS-DOS expertise, supporting a centralised mainframe system and world-wide voice and data network.
+Harris's internal experience with open systems dates from 1987 when the company committed to X/Open Portability Guide 3 standards and resolved to seek X/Open-compliant vendors and products and the forging of alliances with strategic vendors.
+Pilot project
+In 1989, these were formalised in a formal procurement policy and an application development pilot project.
+One of the most demanding of Harris's standard contract terms involves the vendor's commitment to provide, under escrow if necessary, a copy of the product's source code with the purchase.
+O'Donnell cited a case study within Harris of a home-grown open systems environment known as AP:Elite, an accounts payable system, which replaced a third party mainframe-3270 dumb terminal system.
+The system was developed to work with multiple databases, including Ingres, Oracle and Btrieve, various local nets such as NetWare and TCP/IP, and a variety of computers.
+Benefits realised varied from site to site, but ranged from a doubling of throughput per week at a cost more than halved, through to a headcount reduction of one third.
+The system was also sold outside the company, and overseas.
+Harris Corp's current mix of home-grown to purchased products is around 80:20 but over the next three to five years, O'Donnell expects this ratio to be reversed.
+He summed up the benefits of open systems to Harris as including a reduction in operating costs of between 60% and 75%, functional staff reductions of between 20-50%, software maintenance savings of between 50% and 60% and cost avoidance in the region of $250m to $300m, this being based on the cost per MIPS of a mainframe, $44,300, compared with a workstation server of $761 per MIPS.
+Harris Corp has a very minor presence in Japan, selling primarily chips through distributors.
+O'Donnell was keen to correct the impression that Harris is primarily a defence contractor, citing its $1,700m US Air Traffic Control system past.
+HOPED FOR RECOVERY IN 1992 FAILED TO MATERIALISE FOR BULL
+Compagnie des Machines Bull SA had been looking to 1992 as a year of recovery, but that was not quite the way things turned out, and after provisions, the French state-owned company saw even worse figures than in 1991, losses equivalent to $847m at the current $0.18 rate of exchange compared with $595m a year ago.
+Even before provisions, losses only improved marginally, at $409m compared with $474m last year.
+Sales fell 9.8% to $5,440m, and Bull blames the world economic slowdown, price wars in the personal computer market segment and the effects of structural changes in the industry — but those problems also affected Hewlett-Packard Co, ICL Plc and NCR Corp, all of which managed to remain profitable and to grow in 1991.
+On the brighter side, the operating margin improved for the second year running, and the operating loss was 44% less dreadful at $116m.
+This was attributed to a 14% reduction in the cost of its operations to $1,620m following a 9% contraction in 1991.
+And net debt was lowered by $270m to $1,694m.
+The 3000 new job cuts planned for 1993 follow 4,700 in 1992.
+ANOTHER 15,000 JOBS MUST GO AT PHILIPS AFTER NEW $489m LOSS
+Commenting on more ghastly figures (see opposite) Philips Electronics NV chairman Jan Timmer said the Dutch multinational's performance in 1992's fourth quarter, which is normally the strongest of the year as people buy electronic toys for Christmas, was very disappointing, and that no let-up in price erosion had so far been seen for 1993.
+The $489m loss for 1992 means that another 10,000 to 15,000 more jobs are going to have to go at the company as part of the continuing restructuring plan — its payroll actually rose to 252,000 at the end of 1992 from 240,000 in 1991.
+The new charge is for reshaping Philips' consumer electronics and components businesses and for its German associate Grundig in which it has a 31.6% stake.
+That raised some eyebrows, but Philips disclosed last month that under a 1984 agreement with the company it would fund any losses that Max Grundig's creation made.
+Philips blamed the unprecedented slump in the consumer electronics market that hit business hard in 1992 and dragged down its related components business for the latest round of woe, adding that ‘The extent of improvement is dependent upon two major factors, price  developments in the markets for consumer electronics and components and the speed of implementation of the restructuring programmes.’
+It sees no recovery in the world economy in 1993 and expects sales in real terms to be flat.
+‘Prospects are relatively better in the US but our main markets in Europe show no signs of improvement,’ the company said.
+It looks for the new round of retrenchments to have a positive effect on 1993 profits, but can't forecast them.
+UK NOW THE BIGGEST PART OF THE BUSINESS AS SEMA GROUP PROSPERS ‘DOING DIFFICULT THINGS WELL’
+Sema Group Plc has reported its best year-end figures since the merger between CAP Group Plc and Sema Metra SA in 1988 (CI No 942) because, it claims, unlike its competitors, it focusses its systems integration skills on contracts that have a high level of technical content.
+Chief executive Pierre Bonelli said that as a result, the company was able to concentrate on vertical markets, where it holds a leading position, such as defence.
+Pre-tax profits for the year ending December 31 rose 38.8% to £19.5m, including £400,000 gains from the devaluation of sterling, while turnover grew 1% to £416.7m.
+If revenues from continuing businesses are compared directly, turnover actually increased 12.9%, with 1991 income amounting to £369m.
+The 1991 turnover figure, however, includes revenues from market research operation the Sofres Group, which was sold in January 1992 for a net profit of £15.4m.
+This gain was included in the profit and loss account as an extraordinary item, Bonelli said, ‘so as not to cloud the true operating position’ of the company.
+No net debt
+As a result, Sema now has no net debt, is cash positive to the tune of £5m, and has increased shareholders funds by 46% to £83.8m.
+Some 571 staff went with the sale of Sofres, bringing Sema's total headcount to 6,920 worldwide.
+The disposal also meant that the UK is now the group's single largest market, generating 41% of revenues ahead of France's 37%.
+Last year, this figure was 35% and 42% respectively.
+The board is recommending a final dividend of 1.7 pence per share, bringing the total for the year to 2.8 pence, a rise of 7.7% on the previous year.
+All areas of Sema's business were profitable with the exception of Germany — the company has now purchased the minority shareholding in Sema Group Systems AG that it didn't already possess and integrated it with Sema Group GmbH.
+The restructured firm consists of three operating divisions; defence; facilities management; and I-Linie manufacturing management applications for mainframes.
+As expected, Sema and IBM Deutschland GmbH have now formally agreed to market each others products in Europe and also undertake joint product development (CI No 2,005).
+IBM's German salesforce will sell I-Linie under its own brandname, while Sema will sell IBM's CIMAPPS production and planning application, gradually phasing out its own offering.
+Sema is currently negotiating a similar agreement with IBM France and plans to woo IBM's other European subsidiaries too.
+Bonelli hopes his German subsidiary will break even by the end of next year.
+Sema also acquired Dowty Group Plc's share in joint venture company Dowty Sema Ltd, and has set up another joint venture with France Telecom, following Telecom and Paribas's purchase of a 39.3% stake in the company.
+The new firm will specialise in civil telecommunications.
+In addition, Bonelli said he was very proud to report that BAeSema was now profitable, on turnover that grew 32.7% to £73m.
+Worldwide, the systems integration business saw turnover rise 15.2% to £318.2m, comprising 76% of overall revenues.
+Income from facilities management grew 8.8% to £59.7m, making up 14.5% of the total.
+Although this activity has traditionally been based in the UK, Spain and Germany are now taking the plunge as, Bonelli said, an increasing number of companies and  government departments are outsourcing as part of rationalisation or downsizing projects.
+In the UK, facilities management contributed significantly to profits, contracts including a 10-year deal with the Heritage Department worth £10m.
+The software products arm improved sales by 2.3% to £38.8m, or the remaining 9.5% of turnover, but research and development spend in this area has been reduced from £14m in 1991 to £13.2m in 1992 as a result of the agreement with IBM.
+Geographically, France produced ‘an outstanding result’, and ‘encouraging trends’ were seen in Spain and Asia Pacific.
+RENISHAW FEELS BLAST OF WORLDWIDE RECESSION BUT REFUSES TO COMPROMISE
+Interim profits at scientific measurement and opto-electronic specialist Renishaw Plc have suffered from falling demand in many of the group's OEM markets.
+Severe recession in the machine tool sector has led to sales falling by 40% in some cases.
+But the Wooton-under-Edge, Gloucestershire-based company refuses ‘to compromise its future’ by cutting engineering or research and development expenditure.
+It has also increased marketing activities into the growing Far Eastern markets of China, Singapore and Taiwan, and has set up a new subsidiary in Hong Kong.
+Pre-tax profits fell 26.6% to £3.1m, although turnover rose 3.3% to £22m despite volume sales being down.
+The company sells some 90% of its products overseas, so revenues in sterling terms grew due to the weakness of the pound.
+The board has recommended that the interim dividend be maintained at 2.5 pence per share.
+Renishaw also experienced increased pressure on margins because it has not cut its prices, but has had to absorb the costs of inflation, for example in pay rises, much of which is paid out in foreign currency.
+The group is focussing on cutting costs across its business, and has introduced new manufacturing technology to increase capacity and so reduce the need for  subcontractors .
+Demand in Japan, France and Germany fell as their economies moved into recession, but sales to the UK and the key US market improved.
+Sales of co-ordinate measuring machines and laser calibration products increased, and demand for the group's new products, the Cyclone scanning machine and the Raman microscope, which began shipping at the end of June, were promising.
+SHARE & BOND ISSUES
+Easel Corp, Burlington, Massachusetts software engineering tools developer has filed to offer 645,266 shares, all of them coming from existing holders, who acquired the shares in connection with Easel's  acquisition of Enfin Software Corp.
+Easel is distributing prospectuses and no underwriter was named.
+David Systems Inc, the Sunnyvale, California local network-to-PABX systems specialist where Ameritech Corp is an investor, has filed to go public with an initial offer of 2.5m new shares at $7.75 a share, and the company expects to raise $17.4m net, which will be used to repay $1.6m of outstanding bank credit with the remainder for working capital.
+The underwriter for the issue is Montgomery Securities.
+COMPANY RESULTS
+Advanced Magnetics Inc has reported first quarter net profit down 78.1% at $50,720m, after $70,500 tax credits last time, on turnover down 3.5% to $2.5m.
+Net earnings per share fell 75% to $0.01.
+Cel Communications Inc saw third quarter net losses of $461,000 against profits of $116,000 last time, after $44,000 extraordinary gains last time, on turnover down 46.5% at $476,000; net losses for the nine months stood at $650,000 against $278,000 last time, after $74,000 gains from discontinued operations this time and $23,000 losses last time, and $75,000 extraordinary gains this time and $102,000 gains last time, on turnover down 45.7% at $1.5m.
+Centennial Cellular Inc has reported second quarter net losses of $6.1m down from losses of $8.1m last time, on turnover up 37.4% at $10.4m; mid-term net losses amounted to $13.4m down from losses of $15.6m last time, on turnover up 41.1% at $19.9m.
+Davox Corp has reported fourth quarter net profits of $62,631 against losses of $4.8m last time, after $5m from the write-down of assets, on turnover down 8.8% at $8.5m; net losses for the year to December 31 stood at $3.5m down from losses of $7.5m last time, on turnover that fell 5.7% to $30.6m.
+Net earnings per share stood at $0.01 in the quarter.
+Giga-Tronics Inc has turned in third quarter net profits up 1.8% at $331,000, on turnover up 32.5% at $6m; net profit for the nine months was up 161.2% at $1.1m, on turnover that rose 58.4% to $17.6m.
+Net earnings per share remained at $0.13 in the quarter, 162.5% to $0.42 in the nine months.
+Perkin-Elmer Corp saw second quarter net profits up 8.5% at $17.8m, after $3.3m gains from the sale of a joint venture, on sales down 89.4% at $243.6m; mid-term net rose 19.3% to $30.3m, on turnover up 11.5% at $476.3m.
+Net per share rose 8.3% to $0.52 in the quarter, and 18.7% to $0.89 in the half.
+Recognition Equipment Inc has reported first quarter net profit up 96.2% at $616,000, on turnover up 17.5% to $49m.
+Net per share rose 150% to $0.05.
+Software Etc Stores Inc saw fourth quarter net profits up 33.5% at $9.4m, after $3.4m tax credits this time and $2.5m tax credits last time, on  sales up 34.5% at $87.4m; net profit for the year to January 30 was up 71.3% at $8.9m, after $3.2m tax credits this time and $1.8m last time, on sales up 22.4% to $203.4m.
+Net per share fell 13.7% to $1.32 in the quarter, 37.1% to $1.33 in the year.
+Standard Logic Inc saw net profits for the year to October 31 down 21.4% at $806,237, on turnover down 13.8% to $2.1m.
+Net per share fell 25% to $0.09.
+Teledata Communication Inc has reported fourth quarter net profits up 49.3% at $2.3m, on turnover down 9.8% at $7.6m; net profit for the year to December 31 was up 68.8% at $6.7m, on turnover that rose 32.5% to $23m.
+Net per share rose 9.5% to $0.23 in the quarter, 31.5% to $0.71 in the year.
+Groupe Videotron Ltee has reported first quarter net profit up 309.5% at $6.7m, on turnover up 10.7% to $154.6m.
+Net earnings per share were $0.10.
+Amounts converted at $0.78 to the Canadian dollar.
+Teleglobe Inc saw fourth quarter net profits up 50% at $14.1m, on turnover up 11% at $111.9m; net losses for the year to December 31 stood at $39.7m, after $71.5m charges related to restructuring and the write-down of assets, against profits of $20.2m, on turnover that rose 11.6% to $383.2m.
+Net per share rose 30.8% to $0.27 in the quarter.
+Amounts converted at $0.78 to the Canadian dollar.
+Philips Electronics NV has reported a net loss for 1992 equivalent to $489m after a $652m restructuring charge, against a profit last time of $477m, which included a $40m restructuring charge, on turnover that rose 2.7% at $31,808m.
+The figures have been converted at 0.543 to the Dutch guilder.
+Renishaw Plc saw net profits for the six months to December 31 down 27.1% at £2.2m, on turnover that rose 3.3% to £22m.
+Pre-tax profits fell 26.6% at £3.1m.
+Earnings per share fell 27.9% to 4.4 pence.
+Sema Group Plc has turned in net profits for the year to December 31 up 174.4% at £27.5m, after £15.4m gains from the sales of the Sofres Group, on turnover that rose by 1% to £416.7m.
+At the pre-tax level, profits were up 38.8% at £19.5m.
+Earnings per share rose by 173.8% to 30.2 pence.
+The 1991 turnover figure includes revenues from Sofres, and is restated in line with 1992 exchange rates.
+FIRST QUARTER FIGURES MAY BE DISCOURAGING FOR IBM
+The IBM Corp share price has been floating around in the mid-$50s range as the memory of the ghastly fourth quarter begins to fade and odd bits of encouraging news come out — but the first quarter figures will soon begin to loom, and evidence that they will not be too jolly comes from BMC Software Inc, which warns of continuing weakness in international sales, and that customers are delaying purchases to study alternatives to mainframes, which are falling out of favour.
+CALL-NET ADDS TO CUSTOMER BASE
+The Toronto-based Call-Net Telecommunications Ltd wholly-owned unit of Call-Net Enterprises Inc has bought the long-distance business of Cable & Wireless Canada Inc for the equivalent of $27.3m in cash and notes at the closing: the deal adds 7,000 customers to Call-Net's current customer base, taking its annualised revenues to some $135m.
+RECORD PROFITS FOR OTE
+The Greek Telecommunications Organisation, OTE, is expected to show a record $700m pre-tax profit this year compared to $400m in 1992, Reuter reports from Athens: ‘It will be a record profit allowing us to invest heavily in the modernisation of Greek telecommunications,’ a government official said, adding that things would improve even more with OTE's partial privatisation — the government has said it will sell 49% of OTE this year with 35% going to a foreign phone company; it plans to invest about $1,000m in 1993 which will include 350,000 new digital lines, the transfer of 220,000 existing lines, many new digital centres and digging up 2,800 miles of trenches for cables.
+NOVELL ‘COMFORTABLE’ WITH ANALYSTS ESTIMATES
+Novell Inc chief financial officer James Tolonen says he is comfortable with analysts' estimates that the Provo, Utah company will do between $1.00 to $1.05 a share on an operating basis in the fiscal year to October 31 compared with $0.81 a share last fiscal; the acquisition of Unix System Laboratories Inc will require a one-time charge of between $0.30 and $0.60 a share, which will probably be taken against third quarter figures, and there is also expected to be a $0.02 a share amortisation charge.
+COMMUNICATIONS ASSOCIATES COMPLETES COMPUTER LOGICS ACQUISITION
+Alpharetta, Georgia-based Digital Communications Associates Inc has now completed its acquisition of Computer Logics Ltd for about $8m cash and repayment of about $4m of shareholder debt; an earn-out agreement means that the total price can rise to as much as $12m.
+IBM RELIEVED OVER AIR TRAFFIC CONTRACT AGREEMENT
+Sighs of relief at Armonk, which was threatened with losing its monster $4,000m air traffic control contract: the Federal Aviation Administration and IBM Corp have agreed on a plan to fix the software problems that have plagued the modernisation programme, which is now almost three years behind plan.
+US DETERMINED TO PRY OPEN JAPANESE SEMICONDUCTOR MARKET
+While the Semiconductor Industry Association is making mollifying noises on the issue of penetration of the Japanese chip market, but the new US administration is showing no such reticence, and US Trade Representative Mickey Kantor says he is ‘resolute and determined’ to pry open Japan's semiconductor market to more US chips —‘We have every intention of creating a new framework of shared responsibility with our trading partners,’Kantor said in remarks prepared for the Semiconductor Industry Association.
+PERU's TELECOMMUNICATIONS PROMOTION TO BEGIN IN EARNEST
+The promotion of Peru's telecommunications firms will begin in earnest next month after the regulatory framework and methodology for fixing rates have been established, Reuter reports from Lima: investment advisers Morgan Grenfell and Coopers & Lybrand will begin pre-qualifying firms interested in acquiring 100% of the state's shares in Entel Peru SA and 20% of the government's stake in the Compania Peruana de Telefonos SA; Peru has just 2.3 lines per 100 inhabitants.
+GTE AND DEC TO CO-DEVELOP CLONEDETECTOR
+GTE Corp's GTE Telecommunication Services and Digital Equipment Corp have joined forces to develop the CloneDetector, a knowledge-based system to reduce clone fraud in the cellular industry: the system will automatically detect simultaneous calls using the same cellular telephone number but originating from multiple locations, or calls originating outside the normal geographic area used for a particular cellular telephone; it will build a case for each instance of fraudulent use, prioritise the cases, and recommend the actions to be taken.
+MICROSOFT JAPANESE SOFTWARE PIRACY CAMPAIGN
+Microsoft Corp says it plans to lead a campaign against growing software piracy in Japan's personal computer industry, opening it with a letter to 50 hardware manufacturers and 290 software vendors in Japan alerting them to the problem — the Japanese are generally law-abiding, but Microsoft suspects many are unaware they are doing anything wrong copying software.
+IBM TECHNOLOGY PRODUCTS UNIT GETS US DISTRIBUTORS
+IBM Corp's Technology Products unit — IBMspeak for the chip business — has finally nailed down some US distributors for the chips, subsystems and packaging products it wants to offer on the merchant market: the national distributors are Bell Industries Inc, Los Angeles, Bell Microproducts Inc, San Jose and Marshall Industries Inc, El Monte, California; regional manufacturer's representatives appointed include Bonser-Philhower Sales of Richardson, Texas, for Texas, Oklahoma, Louisiana and Arkansas; S J Associates of Rockville Centre, New York for the Mid-Atlantic, Metro and Upstate New York regions, Connecticut and Eastern Pennsylvania; Nexus of Mountain View, for Northern California; Centaur Corp of Irvine for Southern California; and Mill-Bern Associates of Woburn, Massachusetts for the states of Vermont, New Hampshire and Maine.
+CISCO SYSTEMS OPENS UP IN HONG KONG
+Cisco Systems Inc, Menlo Park says it has opened Cisco Systems (HK) Ltd in Hong Kong, its third sales-and support company in Asia, and Cisco Systems de Mexico SA de CV.
+STRONG RECEPTION FOR PARADOX FOR WINDOWS
+Borland International Inc reports ‘strong initial reception’ to its long-delayed Windows version of Paradox, and says it expects to report profits of 10 cents a share for its fourth quarter to March 31, double the average analyst forecast; Microsoft Corp said it had sold about 700,000 copies of its new Access database program, and Borland says that its Paradox for Windows has done about as well.
+VERBATIM COMBINE READ-ONLY AND REWRITABLE OPTICAL STORAGE PRODUCT
+Verbatim Corp, Charlotte, North Carolina has come out with a 3.5’ partial-ROM optical disk, calling it the first image and data storage optical product to combine both magneto-optic and read-only functionality: the read-only part of the disk can be embossed permanently with data, such as an application, and the rewritable portion of the disk is available for user files; the disks have total combined ROM and rewritable capacity of 128Mb.
+HP CONTRACT WITH ASUNEFT WORTH $3m
+Correction: our Moscow correspondent has had second thoughts, and now advises us that Hewlett-Packard Co's contract with Asuneft in Siberia is worth $3m (CI No 2,118).
+IBM TO UNDERWRITE MIMTEC GOUROCK PLANT
+IBM UK Ltd is likely to underwrite the construction by Mimtec Ltd, an electronics manufacturer owned by Murray International Holdings Plc of a new plant in Gourock, a few  miles from IBM's Greenock personal computer factory: the plant would employ about 400 people assembling personal computers under contract to IBM; according to the Financial Times, some £9m of the cost of the plant would be met by an enterprise trust, with the rest from grants; IBM would ultimately take over the plant when the trust was paid off.
+HP TRANSFERS PLOTTERS TO SPANISH PLANT
+Hewlett-Packard Co is to transfer worldwide responsibility for development and manufacturing of high-end plotters to its plant in Sant Cugat del Valles, outside Barcelona in Spain from San Diego under a $15.2m programme that will create over 100 jobs: the company will also concentrate manufacture of inkjet printers for Europe in Barcelona from the second half of next year; Hewlett's plants in Vancouver and Singapore will supply Deskjets for the rest of the world.
+IBM CADAM RIPE FOR PLUNDERING
+Autodesk Inc, Sausalito, California has decided that IBM Corp's Cadam Inc computer-aided design software base is ripe for plundering, and is developing two Cadam-emulation products, Aemulus and Aemulus(mf), which are now in alpha test: the products, which offer a Cadam-like user interface and bi-directional compatibility with Cadam files, are also compatible with AutoCAD Release 12; Aemulus is an AutoCAD Development System application with a Cadam-like graphics interface and command set and enables customers to edit existing Cadam models or create new Cadam-compatible models on the desktop; Aemulus(mf) is a mainframe-resident program that enables customers to quickly and completely convert Cadam two-dimensional Interactive Drawing files to DXF files or vice versa; both are set for shipment in May 1993 but pricing has not yet been decided; the company also says that it is expanding its product line beyond the drafting portion of the design spectrum it has traditionally occupied to cover the entire spectrum from conceptualisation to manufacturing, and that as a first step its three top-selling drafting and design packages, AutoCAD, Generic CADD and AutoSketch, have been brought together under one organisational umbrella, and are being precisely defined and clarified in terms of their relationship to each other ; development is under way to enable the three products to work together and share files across networks.
+TELEBIT FIRMS UP OTOCOM ACQUISITION
+Sunnyvale, California-based modems specialist Telebit Corp has firmed up its January agreement to acquire Octocom Systems Inc for 5m new shares: Telebit currently has about 7.5m shares outstanding so Octocom holders would have 40% of the enlarged firm on completion in May.
+IBM'S LITTLE ONES NEED TO IMPROVE
+Mean time between failures on 3.5’ disk drives made by IBM Corp of 750,000 hours will have to get a lot nearer the 2m or more hours of the company's manhole cover disks before it can entrust mainframe data to arrays of the little ones, Electronic News reports: that's funny, we thought the whole idea of disk arrays was that one built sufficient redundancy into the array of cheap disks that no-one need worry about failures ever again.
+SYQUEST PATIENCE WORN OUT
+SyQuest Technology Inc, Fremont, California has had enough of French start-up Nomai SA and has started legal proceedings in Paris to stop the sale of what it claims are illegal copies of SyQuest removable Winchester disk cartridges and to obtain other legal relief: the complaint was filed before the Tribunal de Grande Instance de Paris; it already has an injunction against the company in the US, but Nomai has continued to ship its cartridges outside the US, which SyQuest believes is in violation of both the original temporary restraining and subsequent stipulated order.
+NTT REVISES PLANNED WORKFORCE CUTS
+Nippon Telegraph & Telephone Corp has had second thoughts about its planned workforce cuts and realises that as it intends to hire 10,000 new graduates over the period to 1997, it will have to get rid of 43,000 people rather than the 33,000 it announced earlier to meet its target of 200,000 by 1997.
+SEGA AMBITIONS WON'T TAKE AGES
+Ambitious video games company Sega Enterprises Ltd is not playing games: it says it should reach annual sales of $5,000m by 1997 at the latest: the company controls 55% of the European video-game market and its main competitor, Nintendo Co, has 45%, it said; it also reckons it has 54% of the US market, although Nintendo is generally regarded as the market leader there; in Japan, Sega has just 20%.
+NCR AND COREL TEAM UP ON SCSI CONTROLLERS
+NCR Corp's Microelectronic Products Division in Colorado Springs, Colorado has joined forces with Corel Corp, Ottawa, Ontario to support and advance SCSI disk controller technology: included are support for the interoperability of CorelSCSI software and NCR's Small Computer System Interface Device Management System software, and CorelSCSI's use of the NCR 53C810 PCI/SCSI controller for Peripheral Component Interconnect machines.
+CODED COMMUNICATIONS AGREEMENT TO ACQUIRE DECOM SYSTEMS
+Carlsbad, California-based CCI Coded Communications Inc now has definitive agreement to acquire Decom Systems Inc: Decom holders will receive 0.238 CCI Coded share for each Decom held if the average price for CCI Coded is between $2.35 and $3.15 a share for the 20 trading days prior to the closing.
+FRANCE TELECOM PRIVATISATION NOT ON THE AGENDA
+Ignoring the fact that it doesn't seem to have much harm to British Telecommunications Plc or to the UK, France's Minister for Posts & Telecommunications, Emile Zuccarelli, says that privatising France Telecom would hurt the company, its users and the entire nation: he particularly worries about service in sparsely-populated areas, a problem that appears to have been satisfactorily solved by regulation in the UK market; privatisation of France Telecom is anyway not on the agenda of Valery Giscard d'Estaing.
+AT&T TO DIGITISE NAURU TELECOMMUNICATIONS
+AT&T Co has been awarded a $5m contract by the island of Nauru to digitise the country's telecommunications network and set up direct international service: the order includes a 5ESS gateway switching system, equipment to digitise Nauru's existing analogue earthstations, microwave towers and other terrestrial communications links, a cellular communications network and one year of on-site technical support; the eight-square-mile island is 2,445 miles southwest of Hawaii and has 9,000 residents; it makes a living exporting $75m a year in phosphates.
+VIDEOCART TO LICENSE TECHNOLOGY IN SPAIN
+Chicago-based jolly advertising messages transmitted to supermarket trolleys pioneer VideOcart Inc has a letter of intent for the licensing of its technology in Spain to partnership of Omina Electronics SA and Technovidea SA, Madrid: it is also looking for licensees elsewhere in Europe, in South America and the Middle East.
+BELL ATLANTIC MOBILE MAKE CDMA DECISION
+Bell Atlantic Mobile Systems Inc says it has decided on the Code Division Multiple Access technology for its national digital cellular strategy: the Motorola Nortel Communications Inc joint venture will supply the hardware and software for the company's first deployment in the northeast market in early 1994; Bell Atlantic also said it signed a letter of intent with AT&T Secure Communications Systems to test AT&T Secure's cellular wireless data equipment over the Bell Atlantic network, which the company expects will make possible error-free transmission of cellular data.
+JOINT VENTURE TO INSTALL OPTICAL FIBRE ALONG MALAYSIAN RAILWAY CORRIDOR
+Telekom Malaysia Bhd, Kuala Lumpur has formed a joint venture with state railway company Keretapi Tanah Melayu Bhd to install an optical fibre telecommunication system along the railway corridor in Peninsular Malaysia: the project will be handled by a joint venture company, Fiberail Sdn Bhd, in which Telekom owns 60%, the railway 40%.
+SIEMENS JOINT PABX VENTURE IN THAILAND
+Siemens AG formed a joint venture with TN Inc Ltd of Thailand to market and service PABXs in Thailand and the new unit, TN Communication Systems Ltd, is pitching for at least 25% of the market; the new company, 49% owned by Siemens, will start out with about 100 employees.
+BILLY THE FOURTH?
+Just fancy that!
+William III is really William IV (and we're not talking William of Orange, who was variously known as Sweet William and Stinking Billy on the opposing sides of the religious divide in Ulster): the Daily Telegraph City Diary notes that Microsoft Corp chairman William Gates III is really William Gates IV but his dad wanted to seem more of a regular guy to his army pals and so he promoted himself to William Gates Jr.

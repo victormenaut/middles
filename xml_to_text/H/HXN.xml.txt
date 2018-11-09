@@ -1,0 +1,457 @@
+
+
+Competition Policy — John Kemp
+This chapter surveys the status and workings of UK competition policy and explores the implications arising from the creation of the SEM.
+Initially, an economic rationale is presented for intervention in private industry, whether this is seen, primarily, as a policy to promote competition, or alternatively as a corrective towards monopoly abuse.
+The next section provides a brief discussion of the alternative policy approaches and the subsequent section provides a review of the development of UK legislation and policy.
+This is followed by a section outlining current European Community policy.
+Finally, an assessment is made of the effectiveness of current policy, and with the creation of the SEM, the important implications arising from the Treaty of Rome are considered in relation to the future direction of British policy and proposals for change.
+An economic rationale for intervention
+Democratic nations, whether they have governments of the right or left, usually have well articulated policies towards intervention in private industry.
+Such policies are designed to promote the efficient allocation of resources through the encouragement of competition, which is seen as the active progenitor of economic efficiency and welfare.
+They are, likewise, employed to limit the losses in efficiency that can arise from the presence of elements of monopoly.
+It might be thought that such policies spring from a desire, on the one hand, to ensure the free flowering of individual enterprise, and on the other, to guard against the tyrannies of "big business" .
+However, there is a clear underpinning economic rationale and consequently the broad thrust of policy is rarely ideologically contentious.
+Thus, where disagreement does arise it is usually of degree rather than of substance, and is more likely to concern the detailed application of policy as opposed to general principles.
+It is currently fashionable to talk of "competition policy" where one formerly talked of "monopoly" or "anti-monopoly policy" .
+The fact that this is partly a semantic change, reflects the existence of an underlying consensus.
+We turn now to examine the basis for this consensus.
+GHT = Gains from trade
+It is self-evident that when buyers and sellers come together in trade there is a gain to both  parties.
+If this was not the case, then there would simply be no reason for trade to take place.
+Economists have developed concepts for analysing these gains, and as such they prove useful in assessing the relative efficiency of competitive and monopolistic situations.
+Using these concepts we initially identify the gains that arise from trade when a perfectly competitive market is in equilibrium, as illustrated in Figure 5.1.
+Here the intersection of supply and demand determines the quantity sold (Q) and the price paid (P).
+The total benefit is the sum of consumer and producer surpluses DAC of which APC goes to consumers and DPC to producers.
+Hence, there is a readily identifiable gain to both parties.
+Now there are many qualifications and points of fine detail surrounding the interpretation and use of these concepts of surplus, and these we have omitted from the foregoing argument.
+For our purposes, it is sufficient to note that for the majority of economists, the use of these concepts of surplus is a legitimate way of analysing the benefits (and losses) that arise under differing competitive conditions.
+In the next sub-section we employ these tools to analyse the comparative efficiency of perfect competition and pure monopoly.
+The relative efficiency of competition and monopoly
+Before deriving the results of this section it is necessary to state clearly a number of underlying assumptions.
+If any one of these does not hold, then the results cannot be upheld.
+Hence, the propositions of this section apply only under the highly restrictive conditions now enumerated.
+Firstly, it is assumed that consumers are utility maximisers and, perhaps more contentiously, that producers are profit maximisers.
+It is assumed that the price paid and received does represent the value of the marginal unit traded both to the buyer and to the  seller.
+Further, it is assumed that units of consumers' and producers' surplus can be added and subtracted, i.e. a unit of surplus represents the same quantity of benefit irrespective of whether it accrues to the buyer or seller.
+It is now assumed that the objective of policy is to maximise economic welfare, where economic welfare is equated with total surplus.
+Thus, in comparing alternative economic structures the most efficient is defined as the one that generates the greatest total surplus, where that total surplus is the sum of consumers' and producers' surplus.
+It will be noted that this ignores altogether the important question of income distribution.
+As far as economic efficiency is concerned it is irrelevant whether surplus accrues to consumers or to producers.
+If a situation is deemed to be inequitable then it is in principle possible to redistribute income according to some appropriate canon of equity.
+In other words if we "bake the biggest cake" it should be possible to provide greater shares for all.
+This is not to deny that questions of income distribution are important, but they do not concern us here, and so we restrict ourselves to "baking the biggest cake" .
+We now compare the relative efficiency of perfect competition and pure monopoly and demonstrate the inherent inefficiency of monopoly.
+It must be stressed that these represent two highly abstract and idealised extremes, neither of which remotely exists within the real world.
+However, the results that are generated from these models help to clarify our interpretation of real world markets, and assist us in the evaluation of their efficiency.
+Purely for reasons of diagrammatic simplicity we assume that the perfectly competitive industry supply curve (Sc) is infinitely elastic and can be drawn as a horizontal straight line as in Figure 5.2a.
+This simplification does not in any way affect the qualitative nature of the results.
+Price (Pc) and output (Qc) are determined by the intersection of the supply and demand curves at C. There is no producer surplus, and total surplus is comprised entirely of consumer surplus which is given by the area ACPc.
+Suppose the industry is now monopolised with (unrealistically) no change in costs.
+That is, all productive units are merged into a single firm without any change in their numbers or their costs of production, and further that this newly created firm acts solely as a costless decision-making and co-ordinating mechanism for the activities of what were formerly the independent units.
+It follows that the supply curve (Sc) of Figure 5.2a becomes identical to the marginal cost curve (MCm) of the monopoly firm.
+As such it can be read horizontally across to Figure 5.2b.
+A consequence of the assumption of constant costs is that the monopolist's marginal costs are equal to average costs (ACm) as shown.
+There is no reason for consumers' tastes to have changed and so the demand curve is unaffected.
+In Figure 5.2b we can observe the changes due to monopolisation.
+Faced with the downward sloping market demand curve, the monopoly producer will maximise profits by producing where marginal cost is equal to marginal revenue at M, output will be cut back to Qm and price will be raised to Pm.
+Consumer surplus is now reduced to area ARPm.
+Surplus of PmRMPc has been transferred from consumers to producers and total surplus has fallen to ARMPc.
+There is, therefore, a net loss of surplus of RCM.
+Thus, economic welfare has unambiguously been reduced.
+With the important proviso, "other things equal" , monopoly inevitably distorts resource allocation and is inefficient vis-à-vis perfect competition.
+This is the heart of the case against monopoly.
+It is not so much that those buyers who actually consume the Qm units are having to pay the higher price Pm for them, since the higher price represents the value to them of the marginal unit bought.
+Rather, it is that there exist people willing to pay prices lower than Pm, but which are in excess of the marginal costs of providing additional units.
+The existence of monopoly denies them that opportunity, and this is manifest in the inevitable reduction in total surplus.
+It is in this sense that monopoly is said to be economically inefficient, and to misallocate resources through the restriction of output.
+Economic welfare could be increased if more resources were channelled into this industry and production increased up to Qc with a consequent lowering of prices.
+Now this is a very powerful result.
+It means that we can state quite categorically that the effect of monopolisation per se is to reduce economic welfare.
+We do not even need to be able to measure the somewhat esoteric concept of surplus, since it is always a one-way reduction.
+The qualitative effect is apparently unambiguous.
+Unfortunately things are never this simple.
+The result depends critically upon the caveat that "other things are equal" .
+This is seldom the case.
+In particular, following monopolisation costs are unlikely to remain unchanged, as we have so far assumed.
+Indeed, the argument is often advanced that mergers bring benefits through reducing costs of production because of the attainment of economies of scale.
+It is undeniable that large-scale production can be technically more efficient, and so following an analysis detailed by Williamson (1968) we need to consider how the previous result is affected if, after monopolisation, production takes place with lower costs.
+In Figure 5.3, price and output under perfect competition are, as before, at Pc and Qc.
+Suppose now that, under monopoly costs are lower, i.e. the supply curve of competition (Sc) shifts downwards to form the monopolist's marginal cost curve (MCm).
+The monopoly equilibrium now occurs where the MR curve intersects this lower MC curve at E (as opposed to M).
+Thus monopoly price and output become Pe and Qe.
+Output has fallen and price risen, but not by as much as in the case depicted in Figure 5.2.
+We can now evaluate the effects of this change in terms of the alteration in surplus.
+Total surplus is now equal to AREG, of which ARPe is consumer surplus and PeREG is producer surplus.
+Compared with the competitive surplus of ACPc this change has been brought about by a loss of RCK, due to output restriction (i.e. monopolisation per se) and a creation of additional producer surplus of PcKEG, due to the ability of the enlarged monopolised firm to achieve lower costs.
+Area PeRKPc is simply a transfer from consumers to producers and can therefore be ignored.
+Thus, whether or not total surplus under monopoly (AREG) is greater or less than (ACPc) under perfect competition depends whether the gain (PcKEG) is greater than the loss (RCK).
+There is no a priori justification for stating which will be the dominant effect.
+On this matter economic theory is silent.
+The net effect will vary according to the cost conditions within the particular industry under consideration, and within the real world we might expect considerable variation from one industry to another.
+Indeed, empirical evidence on economies of scale across a large number of British industries, suggests considerable diversity in their extent (e.g. see Pratten 1971, Silberston 1972, and HMSO 1978).
+Thus, on the basis of empirical evidence about the nature of costs it is not possible to make a definitive statement of the effects of monopoly.
+It should however be noted that while the analysis of this paragraph cautions against outright condemnation of monopoly and merger, the case against restrictive practices and collusive agreements is not weakened.
+This is because after agreements, unlike mergers, individual firms maintain their separate existence.
+It is therefore difficult to envisage how, under these circumstances, offsetting economies of scale could be attained without any rationalisation of productive units.
+The analysis of the preceding paragraphs suggests that there is no theoretical justification for condemning monopoly and/or merger outright, since the ill effects of output restriction could be more than offset by reductions in costs.
+Under such circumstances monopolisation would result in an increase in total surplus.
+Therefore, the policy suggestion that arises from  theory is that in seeking to determine the effects of monopolisation it is necessary to weigh carefully the costs against the benefits, to examine the trade-off of the one against the other.
+However, this now raises an important practical issue.
+Earlier we noted that, in the absence of cost changes, it was not necessary to be able to actually measure the abstract concept of surplus in order to form the conclusion that monopoly would bring about a reduction in it.
+If now, with changes in costs, it is possible that surplus may be either increased or decreased, then it becomes of crucial importance to have some means of measurement.
+Clearly this might not be a task that can be undertaken with any great degree of precision.
+Yet if we are to pronounce on the desirability or otherwise of individual monopoly situations, or proposed mergers, this is clearly what is required to provide an unambiguous policy recommendation.
+Some qualifications to the theoretical results
+We have seen above that economic theory suggests, other things being equal, that monopoly leads to an inefficient allocation of resources in the sense that the level of output is restricted.
+There are a number of qualifications to this prediction, apart from the possibility of economies of scale discussed above.
+These are particularly important when considering the likely effects within the real world.
+Firstly, the analysis is entirely static, ignoring changes that may take place over time.
+Thus, any demonstrated effects upon surpluses may be exacerbated or ameliorated as the industry progresses, and so welfare losses which occur over time may cancel out immediate gains or vice versa.
+Further, this static analysis is cast in terms of certainty.
+Real firms have to make decisions within a climate of uncertainty, and market outcomes will differ according to their attitudes to risk.
+Secondly, the competition of economic theory is cast solely in terms of price competition and narrowly defined profit maximisation.
+The foregoing analysis neglects the effects of firms' other competitive variables such as product quality, product range and product differentiation.
+Furthermore, if firms pursue objectives other than profit maximisation then the picture becomes even less clear-cut.
+This is not the place to explore the many alternative theories of the firm, but it might be worth noting that, for example, the theory of sales revenue maximisation (Baumol 1959) assumes that managers pursue the objective of maximising revenue rather than profits.
+As a consequence, higher levels of output are predicted than under profit maximisation.
+The implication of this is that any policy proposal for a particular industry can only be made after an investigation of not only the structure of the industry, but also of the objectives and conduct of the firms within it.
+Thirdly, in economic theory it is presumed that any level of output is always produced at the lowest technically feasible cost.
+For the economist, inefficiency arises because the wrong level of output is produced.
+However, in the real world there is an additional concept of efficiency, which takes cognisance of the fact that real firms are never as technically efficient as the theorists' firm.
+This type of inefficiency arises because workers and management are often ill-equipped or lacking in motivation and so do not perform to the best of their abilities.
+Inefficiency of this sort, which involves a given level of output being produced at a cost which is higher than the theoretical minimum, is termed X-inefficiency.
+It is what management and business schools try to eradicate through education and training.
+It is what the common man understands by "inefficiency" .
+Clearly such inefficiency is incompatible with perfect  competition where the competitive threat would be sufficient to remove any less efficient firm.
+However, in monopoly markets X-inefficiency could arise, because of the absence of competitive discipline.
+This would seem to strengthen the case against monopoly, for now there is reason to believe that a movement towards monopoly could lead to higher costs through the creation of X-inefficiency.
+This would offset, to some extent, any cost reductions due to economies of scale.
+The net effect on costs is therefore unclear, for the picture is now becoming highly complex.
+It is however evident that it would be necessary to weigh carefully all the costs and benefits before any categoric policy recommendation could be made.
+Fourthly, the theoretical proscription of monopoly has been arrived at by comparing the two theoretical extremes of perfect competition and pure monopoly.
+In the real world there is never a movement from the one to the other, and it is correspondingly less clear what the implications for both allocative and X-efficiency are.
+For example, if a merger takes place between two firms in an industry of ten firms, so moving the industry apparently closer towards monopoly, it is not at all apparent, a priori (even in the absence of any economies of scale), what the effects on either type of efficiency would be.
+Again, it would seem that this matter could only be resolved after a detailed investigation of the particular industry in question.
+Fifthly, even if there are undisputed economies of scale so that there is a net increase in surplus, it can still be argued that there is a social opportunity loss.
+Surplus could be increased further if the monopoly firm was required to produce where its marginal cost was equal to price.
+Thus in Figure 5.3 an administered move from equilibrium at E to S would lead to an output of Qs and price of G, with a further increase in total surplus to ASG.
+Sixthly, and most importantly, the theoretical analysis that we have undertaken is entirely partial.
+That is, in considering the effects upon one industry in isolation we have ignored any repercussions throughout industry as a whole.
+Thus, an individual merger might be seen, as an individual merger, to be totally innocuous, but if it is just one more merger among a spate, then the overall trend towards the monopolisation of industry in general may be worrying.
+It is rather like the problem of litter louts, one dropped piece of paper is harmless in itself, but the problem involves the total volume of litter!
+Seventhly, Baumol et al.(1982) have argued that resources will be allocated efficiently (in the sense that prices will be equal to marginal costs) in industries which are perfectly contestable and that this result holds irrespective of the number of firms in the industry.
+A perfectly contestable industry is one which, in addition to free entry, is also characterised by completely free exit.
+Thus, in the absence of any costs of leaving the industry, there will always be the incentive to enter, compete any profits away and then get out quickly without cost.
+The only protection against this potential threat of competition is afforded by firms charging prices equal to marginal costs and earning only normal profit.
+The implication of all this is that large numbers of firms are unnecessary to achieve economic efficiency, and so it is equally possible for oligopolies to attain an efficient allocation of resources.
+Thus, on this view, attention should be focused upon the freeing of conditions of exit, rather than solely upon encouraging actual competition from increasing numbers of firms.
+It is not possible to enter into this debate here, for as yet these ideas have not gained universal acceptance.
+However, we do need to note that they are posing an important challenge to the conventional wisdom on the circumstances of resource misallocation.
+They should therefore caution us against being overly dogmatic.
+Finally, the Austrian school of economics puts a different interpretation on the existence of  profit.
+Competition is seen as a process, with profit representing both the spur and the reward of enterprise.
+Thus profit is a symbol of success, encouraging innovation and progressiveness, rather than symptomatic of resource misallocation.
+Accordingly, this requires recognition of the dynamics of industrial change, which are often obscured by reference solely to comparative theoretical equilibria, as in the neoclassical tradition.
+Consequently, subscribers to the Austrian tradition would be somewhat less inclined to an actively pro-interventionist stance.
+Ideally, all the above qualifications would need to be taken into account in any attempt to prescribe policy.
+The predictions of economic theory are not sufficiently clear-cut to permit us to proscribe monopoly outright.
+Theory does point to a clear suspicion that a lack of competition can, most certainly, lead to inefficiencies, but it also identifies possible benefits from the attainment of lower-cost production.
+An unambiguous policy recommendation would require evaluation of all these costs and benefits.
+Yet, given the qualifications noted above this is clearly a daunting task.
+There have been a number of attempts to establish empirically whether any general conclusions can be drawn on the extent of welfare losses throughout the economy due to the presence of monopoly.
+If these could be found to be overwhelmingly large or small then the results could be of use in the framing of policy.
+However, and not surprisingly, no general consenus has emerged and the conclusions are no less disparate than those of theory.
+Alternative policy approaches
+In the light of this ambiguity in the theoretical predictions, allied with a lack of any clear empirical consensus on the extent of these losses and benefits, the question arises as to what form a pro-competition or anti-monopoly policy should take.
+The clear implication would appear to be that an individual cost-benefit approach is appropriate, with each monopoly situation being judged upon its own merits only after a careful weighing of the gains and losses.
+Such an approach comes closest to the spirit of the pragmatic investigatory stance taken within the UK, where the Monopolies and Mergers Commission and the Restrictive Practices Court, pronounce upon individual cases.
+However, this ad hoc procedure has not been without its critics, largely because of doubts about whether it is possible to perform the exercise with sufficient precision to arrive at a clear-cut evaluation.
+During the 1970s there was a vigorous debate surrounding the alternative approaches to UK policy.
+The issues raised are no less relevant to the formation of an appropriate EC policy and so we review them here.
+The main discussion and disagreements have centred around the appropriate policy for dealing with mergers.
+In the case of restrictive practices there is less contention.
+They are generally seen as anti-competitive and necessitating legislation to proscribe them, since they almost invariably create the detrimental effects of monopoly without engendering the benefits.
+In the case of single or dominant firm monopolies while it is accepted that these may behave detrimentally to the public interest at large, few democratic governments have had, or are likely to have, the political will to intervene directly in their operation, particularly where their market positions have been legitimately attained, and their activities are not overtly illegal.
+Usually the most that governments have been prepared to do is to publicise their activities and/or to seek voluntary undertakings.
+Whether or not governments should take greater powers to break up already existing monopolies is an issue  which is as much political as economic, for it involves issues of the freedom of the individual and the state.
+However, where attempts are made to build up monopoly by merger there has been a heightened awareness of the inherent dangers, and governments have been more willing to take direct action to prohibit them.
+In the light of this we briefly consider rules and laissez-faire approaches to mergers as alternatives to that of pragmatic cost-benefit.
+Those who strongly doubt whether the cost-benefit exercise can be adequately performed are more inclined to a rules based or structural approach.
+The major proponents of a rules based approach in the UK have been Crew and Rowley (1970, 1971).
+They argue that it is simply not possible to quantify all the costs and benefits involved, so any judgement must inevitably be inadequately based.
+In support of this they indicate that there have been worries about the ability of the Monopolies Commission to maintain consistency across its investigations.
+Thus, they claim a climate of uncertainty is created which militates against the decision-taking ability of firms.
+On the other hand they are not prepared to countenance the complete free rein of market forces, since the dangers of monopoly are well known.
+Consequently, they propose a policy more akin to that of the US and based on rules which would automatically forbid mergers above a given size.
+This would remove the uncertainty and leave firms free to operate unconstrained within the legally created framework.
+They recognise that such arbitrary rules would result in some beneficial mergers being stopped, but argue that this sacrifice would be offset by the improvements in X-efficiency.
+In support of this approach they claim (contentiously) that economies of scale are, in general, only moderate, and also (on the basis of scant evidence) that the association between monopoly and X-efficiency is strong.
+Thus, they contend that losses resulting from the automatic prohibition of mergers above a certain size are unlikely to be substantial, and are more than likely to be offset by the benefits arising from the creation of a climate of greater certainty and competition.
+A laissez-faire approach of non-intervention has had few adherents in the past, since most economists have accepted that theory and evidence do suggest that matters cannot be left entirely to the market.
+However, Beacham and Jones (1971) came close to taking this line on the grounds that it is not possible to perform the cost-benefit exercise well enough to obtain a soundly based conclusion.
+On the other hand they could see little merit in a policy based upon a rules approach, since rules are inevitably arbitrary and lacking in any underlying economic logic.
+As a result they have considerable doubts about the validity of the case for the control of mergers.
+More recently George (1989) has re-examined this approach, pointed out its drawbacks and concluded that the balance of theory and evidence does suggest that there is a need for a mergers policy.
+On the other hand, economists of the Austrian tradition (e.g. Littlechild 1981, 1989) have come closer to the laissez-faire view, partly as a consequence of their different interpretation of profit.
+It is possible that they have had some influence upon the Government of the UK during the 1980s, which has been markedly less disposed to intervene as directly in industry than its predecessors.
+However, most economists (and possibly politicians) do accept that some form of control is required, and that this has to be exercised within one of the alternative frameworks.
+It is the lack of clear and unambiguous predictions from both theory and evidence that is the source of the dispute over the nature of the approach to monopoly policy.
+However, on balance a majority of UK economists have appeared to favour the discretionary cost-benefit approach or have thought the rules approach too dogmatic (see e.g. Sutherland 1970, Howe 1972, Utton 1975, Fleming and Swann 1989, and George 1989), and have tended to argue for  a continuance of the present investigatory policy with some considerable strengthening of procedures.
+Thus, UK policy continues to retain the character of discretionary intervention rather than moving towards that of North American rules-based approaches.
+In its overall approach to competition, EC policy is much closer in spirit to UK policy than it is to any of the alternatives discussed above, although there are some important differences of detail which we consider later.
+This in itself presents a powerful argument against change, for it is clearly desirable that national and EC policies should be broadly similar if only because it is less confusing to the business community.
+UK policy to 1980
+Member States of the EC are free to determine their own policies towards competition within their national boundaries.
+However, in the case of matters affecting intra-Community trade EC policy necessarily takes precedence.
+UK and EC policies have developed separately, largely in isolation and over a different time scale.
+So with the move towards the SEM it is clearly desirable that there should be the greatest degree of harmonisation, without removing altogether the independence of national governments to deal with matters of internal trade.
+In order fully to understand the relationships between UK and EC policy it is helpful, firstly, to outline the current framework of UK policy before discussing that of the EC.
+In stark contrast to the USA where legislation stems from the latter part of the nineteenth century, anti-monopoly or competition policy was virtually non-existent within the UK prior to 1948.
+Shortly after the First World War tentative steps towards the implementation of a monopoly policy were being considered.
+However, these were soon overshadowed by the need to deal with the problems of the general decline of demand during the Great Depression.
+Thus it was not until after the Second World War that governments seriously embarked upon the task of introducing legislation to control monopoly.
+The extension of policy since the passing of the initial Monopolies and Restrictive Practices (Inquiry and Control) Act of 1948 can be seen as part of a gradual and continuous process, which has led, in what might be described as an eclectic or ad hoc manner, to the complex pattern of current legislation, culminating in the Competition Act of 1980.
+There are differences between the way in which competition policy operates in the UK and in the EC.
+However, currently official UK proposals for reform exist, particularly towards restrictive practices, which will ultimately bring the respective policies into closer alignment, and so reduce the likelihood of inconsistencies in treatment.
+There are three major strands of policy.
+These consist of the treatment of dominant firm monopolies, restrictive practices and mergers.
+In 1973 the Fair Trading Act brought these together within the purview of a single body, the newly created Office of Fair Trading, to be overseen by a civil servant, the Director General of Fair Trading.
+Dominant firm monopoly
+Where a firm or a group of firms acting collectively, accounts for 25 per cent of the market or more, the Director General of Fair Trading can refer the industry to the Monopolies and Mergers Commission for investigation.
+This body is then charged with providing a general report upon the operation of the industry, and making recommendations for change where the  public interest is seen to be compromised.
+The Secretary of State at the Department of Trade and Industry then has complete liberty to accept or reject these recommendations, and to decide whether, and how, they should be acted upon.
+It is interesting to contrast this statutory definition of monopoly of "one quarter" with that of economic theory where monopoly refers to the existence of a single firm.
+Real world monopoly is a much less precise concept than that of theory.
+During its early years the Commission was given a wide range of briefs, and considerable information and understanding was gained about the nature of the competitive processes that existed within British industry.
+In particular, in a report upon collective discrimination it was shown that restrictive practices in the form of agreements between firms were widespread throughout industry, and generally tended to operate against the public interest.
+The publication of this report led directly to legislation to control them.
+Restrictive practices
+Restrictive practices, in the form of formal agreements between firms, are presumed to operate against the public interest.
+Hence they are pronounced illegal unless the parties to an agreement can set aside the presumption by "proving" to the satisfaction of the Restrictive Practices Court that the agreement operates in the public interest.
+All agreements have to be registered with the Office of Fair Trading, where it is decided at what stage a registered agreement should be brought before the Court.
+The arguments that can be employed to defend an agreement are tightly drawn and defined in a series of "gateways" .
+If an agreement successfully passes one or more of these gateways the defendants still have to demonstrate that it passes a more general gateway or "tailpiece" by conferring substantial benefits to the public interest, with the demonstrated benefits outweighing any detriments.
+There is an important distinction between the approach to restrictive practices and that towards dominant firms and mergers.
+It is non-discretionary and purely legalistic, with issues to be resolved within the courts, as opposed to ministerial judgements made on the basis of administrative recommendations.
+The element of political discretion has been removed.
+There is one particular practice that has been singled out for special treatment and that is resale price maintenance.
+It had become clear that resale price enforcement by suppliers was an important barrier to the attainment of efficiency in the distributive sector.
+Thus, the legislation was extended to prohibit a supplier from imposing any contractual requirement upon a reseller to maintain prices, or from refusing to supply resellers where the basis for such refusal is that the resellers have been cutting prices.
+The prohibition can be contested in the Court, but the overall result has been the widespread abandonment of resale price maintenance and a fundamental change in the pattern of retail distribution, as new types of outlet developed and replaced the older, small, independent, specialist stores.
+The impact of the restrictive practices legislation has been such that many agreements were abandoned as firms were unwilling to incur the costs of defending an agreement within the Court, and also as firms gradually came to recognise the difficulties of overturning the presumption that an agreement operated against the public interest.
+Information agreements have been brought within the scope of the legislation because many firms circumvented the intentions of the legislation by forming agreements to swap information on, for example, proposed price changes.
+Clearly if firms are predisposed to behave in mutually acceptable  ways then such co-operation can be achieved simply through the dissemination of information and without the necessity to make a formal agreement.
+A major problem with the operation of restrictive practices legislation is that it is often difficult to capture secret or verbal agreements between firms.
+Also, because penalties in the UK, as opposed to the EC, have never been severe, firms have had contempt for the legislation.
+The whole procedure by 1988 was officially seen as no longer dealing adequately with the issues, as inflexible, slow, costly and in need of review (see Department of Trade and Industry 1988c).
+This has led to proposals for a move to an EC type approach which we discuss later.
+Since the 1980 Competition Act it is also possible for the Director General of Fair Trading to refer a particular practice of an individual firm to the Commission, where complaints have been received from supposedly injured parties, or the practice is suspected of limiting competition.
+In such cases a quick cost-benefit type appraisal and recommendation can be made.
+Where the practice is found to be anti-competitive the Minister can then accept voluntary undertakings from the firm to modify its practice or invoke extensive powers to proscribe the practice.
+Mergers
+If a proposed merger is likely to lead to the merged firms having a market share greater than one quarter or alternatively involves assets in excess of £30 million, then it may be referred to the Monopolies and Mergers Commission.
+This must then, within six months, carry out an investigation of the costs and benefits to determine whether the merger is contrary to the public interest.
+If the Minister accepts the report he then has the power to prohibit a contrary merger from taking place.
+However, there is an important distinction to be made here, and this is that unlike restrictive practices, judgements about mergers possess an essentially political dimension.
+The appropriate minister retains complete discretion whether or not to refer a merger to the Commission, and whether or not to accept any recommendation.
+In the past ministers have been charged with failing to refer mergers which might have been politically sensitive, despite claims that a strong economic case existed for referral.
+As long as this element of political discretion remains there is a potential source of dispute.
+Throughout the whole of competition policy there is a presumption that intervention is justified in order to preserve the public interest.
+This creates a difficulty in the operation of competition policy, no less in Europe than in the UK.
+It is not always clear what the public interest is or what serves it.
+Who are the public?
+Are they producers, consumers, or both and more importantly what exactly is in their interest?
+The definition had been left somewhat vague in the legislation, though it was intended to embrace all matters relevant.
+Such imprecision creates the greatest problems within a legalistic approach to restrictive practices, where courts faced by inadequate definition have had to develop their own interpretations.
+However, in the 1973 Act the interests of consumers are stressed, and explicit reference is made, for the first time, to the necessity for "maintaining and promoting effective competition" .
+Thus competition is singled out for the first time as the chosen mechanism for ensuring the public interest.
+In this and in future legislation, it seems that the public interest almost becomes whatever it is that competition promotes.
+From this time on there is a shift in emphasis in official discussions from "anti-monopoly" to "pro-competition" policy.
+This was  not entirely a semantic shift, and was to foreshadow a much wider change in attitude to the relationship between the state and the economy, which was to be felt throughout the 1980s.
+Up to 1980 UK policy had been framed with scant reference to EC legislation.
+However, since then there have been further reviews and proposals which have had to take some cognisance of the creation of the single market.
+An outline of European competition policy
+In the section on alternative policy approaches, an economic rationale was shown to underpin monopoly and competition policies.
+This same rationale applies no less to trade between the states that comprise the EC than it does to trade within an individual state.
+Thus, the worries about the nature of resource misallocation which have been instrumental in influencing national policies have also been important in determining the shape of EC policy.
+Therefore, the EC has sought to develop a policy designed to secure the benefits that arise from a competitive market, since as national barriers to inter-state competition are removed there is a danger that these can be replaced by privately erected barriers.
+The competition policy of the EC stems from the Treaty of Rome and is mainly embodied in Articles 85 and 86.
+These were designed to ensure free competition within the EC, with the European Commission being charged with the responsibility for applying the legislation.
+In the process of this the Commission has to work closely with national governments, and so it is clearly desirable that domestic and EC law should be mutually consistent.
+Individual states still retain the right to develop their own distinct policies on competition where trade is contained within their national boundaries.
+Therefore, even after the completion of the SEM, the provisions of UK competition policy remain unaffected, inasmuch as they concern internal UK trade.
+However, in terms of trade between member states, national legislation becomes subordinate to EC legislation.
+Article 85 is concerned with the operation of restrictive practices, where they affect trade between member states.
+Thus, article 85(1) prohibits agreements, "…which may affect trade between Member States and which have as their object or effect the prevention, restriction or distortion of competition within the common market…" , and continues by listing specific types of agreement that are prohibited.
+The sort of agreements which the legislation is designed to catch are precisely the same as those which the UK legislation is aimed at, namely price fixing, market sharing, restrictions on supply, etc.
+There is with Article 85(3), provision for the granting of exemptions by the Commission in the case of beneficial agreements, "…which contribute to improving the production or distribution of goods or to promoting technical or economic progress, while allowing consumers a fair share of the resulting benefit…" , provided that such agreements do not impose any indispensable restrictions or provide the possibility of eliminating competition.
+These exemptions may be granted either as block exemptions for certain categories of agreement (e.g. co-operative research and development, exclusive distribution, exclusive purchasing), or alternatively on a case by case basis.
+While there is a clear similarity between the intentions of Article 85 and that of UK restrictive practices legislation, in operation and emphasis the two approaches differ markedly.
+In the European legislation the emphasis is on the effects of a restriction, rather than the form of it as in the UK.
+That is, in the UK the requirement to register an agreement is based upon the precise legal form of an agreement and not upon its effects on competition.
+As a result many  inconsequential or even pro-competitive agreements are caught up, while others that have anti-competitive effects may be drafted in a way designed to avoid the law.
+By contrast, within EC law, it is the effect or purpose of an agreement that determines whether or not it is subject to the law.
+Thus, for example, in dyestuffs the firms did not admit to having formed an agreement, but their behaviour in making parallel price changes had the effect of limiting competition, and consequently enabled the EC to find them guilty of operating a concerted practice for which they were substantially fined.
+Such an effects-based approach is seen as being more efficient in that it is likely to capture for investigation a greater number of anti- competitive agreements and fewer of those that are innocuous.
+Agreements that fall within the ambit of Article 85 are investigated by the Commission on the receipt of a complaint and/or request for exemption.
+The appropriate body within a member state (e.g. DTI and/or OFT within UK) is then consulted and assists in an advisory capacity, following which the Commission delivers judgement.
+Unlike the UK, where the Court on declaring an agreement "contrary to the public interest" then has little power to impose effective penalties against offending firms, the Commission has considerable powers of enforcement and can fine firms up to 10 per cent of their turnover for operating an anti- competitive practice.
+Firms then have the right of appeal to the European Court of First Instance, and ultimately to the European Court of Justice.
+The Commission's record on attacking cartels and concerted practices is impressive, for it has vigorously pursued and successfully secured the termination of a substantial number and variety of concerted practices.
+In particular, it has taken a strong line against price fixing (e.g. dyestuffs, glass containers) and market sharing or quantity agreements (e.g. cement) to the extent that such practices are now unlikely ever to be granted an exemption.
+Article 86 is concerned with the behaviour of dominant firm or near monopoly situations and bans the abuse of a dominant position, where it affects trade between member states through the imposition of "unfair" trading conditions.
+A non-exclusive list of examples of such abuses is provided:(a) directly or indirectly imposing unfair purchase or selling prices or other unfair trading conditions;(b) limiting production, markets or technical development to the prejudice of consumers;(c) applying dissimilar conditions to equivalent transactions with other trading parties, thereby placing them at a competitive disadvantage;(d) making the conclusion of contracts subject to acceptance by the other parties of supplementary obligations which, by their nature or according to commercial usage, have no connection with the subject of such contracts.
+For Article 86 to be invoked there has to be an effect upon trade, for it is not dominance itself that is contrary to Article 86, but the abuse of that dominance.
+Within the article there is no definition of what comprises dominance in terms either of market share or of other criteria.
+This differs from, for example, the position in the UK legislation where dominance is arbitrarily equated with possession of a market share of 25 per cent or more.
+To some extent, this lack of guidance provides greater flexibility on the part of the authorities, who are not constrained by a requirement to satisfy some precisely defined criterion of dominance as a  precondition for investigation.
+So, the conditions of dominance can vary from case to case.
+If an abuse is found to exist then, almost by definition, there must be some element of dominance, otherwise there would be no basis for that abuse.
+Indeed, it has been argued (Fairburn, Kay and Sharpe 1986) that the authorities, having found an abuse, have then adopted the device of contriving to define the market in such a way that the discovered abuse then becomes an abuse of a dominant position.
+Thus, dominance can be seen to arise where a firm has the power to behave independently of its competitors and customers, and this may result from a combination of a number of factors, none of which separately would necessarily imply dominance (e.g. United Brands case).
+The procedure for investigation and possible sanctions follows the same pattern as outlined earlier for matters dealt with under Article 85.
+Under Article 86, the Commission has successfully dealt with a number of abuses such as the granting of loyalty rebates (e.g. Hoffman-la Roche), refusals to supply (e.g. commercial solvents), and price discrimination (Chiquita) among others.
+It is important to emphasise again that it is not dominance in itself which is contrary to Article 86, but the abuse of that dominance.
+This, combined with the greater flexibility in defining dominance, leads to a European approach based more on the effects of, rather than on the formal structure of monopoly, as distinct from the situation in the UK where structural criteria have to be satisfied before investigation can proceed.
+Until recently there was no specific European legislation to deal with mergers.
+The only avenue for EC control was through the application of Article 85 and/or Article 86, which was only open to those cases involving the operation of restrictive practices and/or the abuse of a dominant position.
+Thus, if a merger was to lead to the creation of a dominant position and a consequent restriction of competition, this could arguably be classed as an abuse.
+This line of attack was argued by the Commission in the Continental Can case, but failed because it was unable to demonstrate that competition was sufficiently restricted.
+Furthermore, it is necessary for a merger to have been completed and a dominant position created before Article 86 can be invoked.
+Given the growth of international competition and the emergence of the multi- national enterprise, such limited control came to be widely recognised as inadequate, particularly as with the approach of 1992 the number of cross-border mergers was increasing.
+After a long period of drafting and redrafting, a European Merger Control Regulation (Council Regulation 4064/89) finally came into force on 21 September 1990.
+This now enables the Commission to investigate and control those "concentrations" (i.e. mergers and takeovers) which have a "Community dimension" , while those mergers not having a Community dimension remain subject to domestic policies.
+Mergers with a Community dimension are defined as those where the parties have an aggregate turnover in excess of ECU 5 bn, and where at least two of those parties have a Community turnover greater than ECU 250 m.
+If however each of the enterprises achieves more than two thirds of its turnover within the same single member state, then the merger does not come under the Regulation.
+Special criteria apply for mergers between financial institutions.
+Mergers that are found to possess an EC dimension must be notified to the European Commission which then carries out an investigation to determine whether they are "compatible with the common market" .
+Within a period of one month the Commission will decide whether there are any serious doubts as to the merger creating or strengthening a dominant position to the likely detriment of effective competition.
+In the absence of such doubts the merger is permitted to proceed.
+If such doubts exist then an investigation is carried out over a maximum of four months to determine whether  the merger should be prohibited or not.
+It remains to be seen to what extent the operation of the new mergers policy will prove successful in helping to preserve a competitive environment throughout the EC.
+The future of EC and UK competition policy
+In recent years there have been a number of wide ranging official reviews of most aspects of UK competition policy, which have involved widespread consultations with academia, business and other interested parties.
+This consultative process has finally culminated in the publication of government White Papers setting out new proposals for change.
+While still maintaining an independent domestic policy towards competition within the UK, these proposals will have the effect of bringing that policy into greater alignment with the approach under EC policy.
+In the case of restrictive practices the new proposals represent a major shift towards a European type approach.
+However, in the case of mergers the proposed changes are largely procedural, and no significant reorientation of present policy is envisaged.
+There are at present no specific proposals for changes in the treatment of dominant firm monopolies.
+Despite the early successes of restrictive practices legislation in combating collusive agreements, there is now a belief that within the present business climate the legislation possesses fundamental weaknesses.
+This belief was articulated within the official review of restrictive practices policy (Department of Trade and Industry 1988c).
+The main problem is that the policy approach that has evolved is no longer seen as efficient.
+In particular the deterrent effect is weak since the penalties for operating an illegal cartel are inadequate, and the Director General of Fair Trading has few powers to intervene and initiate investigations in situations where there is a suspicion that a secret cartel is in operation.
+A further difficulty is that the current legislation provides no means for combating the growth of the tacit or informal collusion which has come to replace the formal agreements of earlier years.
+In an attempt to deal with these inadequacies the new proposals (Department of Trade and Industry 1989) represent a change from the present form based approach to an effects based approach, and involve almost the wholesale adoption of the principles and form of Article 85.
+In general restrictive practices are to be banned.
+As in Article 85 an illustrative list of prohibited practices is to be published, which will include such specific practices as price fixing or any other practices which may be expected to have that effect.
+Collusive tendering, market sharing and collective refusals to supply are also to be included.
+There will be, again as under Article 85, a facility for the block exemption of certain practices which are not seen as anti-competitive.
+In addition, the legislation will be strengthened by granting powers to enable the Director General of Fair Trading to initiate investigations where there is a suspicion that prohibitions are being breached.
+It will become a criminal offence not to comply fully with any investigations, and it will be possible to impose substantial financial penalties, not only upon the companies operating a prohibited agreement, but also upon those directors found responsible for negotiating or operating such an agreement.
+The effect of these changes should be to create a more relevant and effective policy, not only by creating greater harmonisation with EC restrictive practices policy, but also by strengthening domestic policy through the adoption of an approach designed to combat any practice which has the effect of restricting competition, as opposed to one that places emphasis upon the form of an agreement, sometimes to the neglect of those effects.
+For many years there have been worries over the increasing monopolisation of British industry, as evidenced by increased levels of both aggregate and market concentration, and for which there is little doubt that merger activity has, at times, been a major causal factor (see e.g. HMSO 1978, Hughes 1989).
+It is also clear that current merger policy has been somewhat permissive, for while it has been effective in preventing a limited number of individually important mergers, it has had little impact upon the level of merger activity as a whole.
+An important reason for this is that it is an entirely partial approach as explained in the section discussing qualifications to the theoretical results, and also because such a case by case approach is never capable of examining anything other than a small minority of all mergers.
+This is seen as particularly worrying by some commentators, since there is evidence (e.g. Meeks 1977) that post-merger profitability has tended to decline.
+The implication of this is that many mergers can be regarded as failures in the sense that they do not attain the gains in efficiency claimed as their justification.
+These sorts of issues have led to calls for the strengthening of merger policy.
+However, in the case of mergers there are no official proposals to change the orientation of policy, despite the concerns which have been expressed about the operation of present policy.
+This largely stems from the current government's reluctance to intervene in the workings of the market because, intervention by public authorities in lawful commercial transactions should be kept to a minimum, since broadly speaking the free commercial decisions of private decision-makers result in the most desirable outcomes for the economy as a whole.
+This broad principle applies as much to transactions involving the sale and purchase of productive assets (and shares representing them) as to other commercial transactions.
+This of course is a value judgement which a government is entitled to make, but it is one which some economists would argue is not fully justified by the evidence, on the basis of which there have been calls for much more stringent control.
+The main arguments for a tightening up of merger policy, along with suggestions as to how this could be achieved, are considered by George (1989).
+One suggestion that is favoured by a number of commentators would be to alter the onus of proof.
+At present the Monopolies and Mergers Commission is charged with determining whether a proposed merger is contrary to the public interest.
+This means that many mergers for which there have been no demonstrable advantages, but which have not been found to be overtly anti-competitive, have been allowed through, and thus contributed to the general increase in industrial concentration.
+This consequence of existing policy is particularly important in periods of high merger activity when there is a bandwagon effect with more and more firms seeking to engage in takeover activity.
+In view of this, a frequently canvassed suggestion has been that in referred mergers the onus should be placed upon the firms to demonstrate that the proposed merger would directly confer benefits to the public interest.
+In support of this it can be asked, if the proposers of a merger cannot demonstrate such benefits then who can?
+Such a change should have the effect of reducing the number of apparently aimless mergers among large firms, and this in itself might help to ameliorate the bandwagon effect on all firms during merger waves.
+However in the new proposals (Department of Trade and Industry 1988b) these calls have largely remained unanswered, apparently because the official doctrinal position is that,
+Government should not normally intervene in the market's decisions about the use to which assets should be put, since private decision-makers will usually seek (and are usually the best placed to achieve) the most profitable employment for their assets, and in competitive markets this will generally lead to the most efficient use of those assets, for the benefit of both their owners and the economy as a whole.
+Again this is not a view which has been endorsed by all, but it does provide an explanation as to why the government's proposed reforms are largely confined to measures concerned with speeding up the investigatory process and making existing policy more efficient.
+The current official view is therefore that mergers are part and parcel of the competitive process, as opposed to restrictive practices which impede that process.
+The newly introduced EC policy on mergers outlined in the previous section is similar in intent and approach to that of the UK.
+However, there is at least one important distinction.
+Within the UK it remains ultimately the prerogative of a politically accountable minister to decide, acting upon the advice of the bureaucracy, whether to permit or to forbid a particular merger.
+By contrast, within EC policy the element of political discretion is much less, since the decision to permit or to forbid an investigated merger is a matter for the administration.
+Whether or not political or administrative accountability is the more desirable depends upon one's view about the relationships that should exist between State and society, but it is more likely that where decisions are made by political appointees there is greater uncertainty, for such decisions then embody both a political and an economic dimension.
+For this reason EC merger policy should display less arbitrariness than has been the case within the UK.
+Thus, EC and UK competition policy are moving closer together.
+This is a move which is to be welcomed, for with greater harmonisation of policies industry will be able to operate more efficiently through being able to plan within an environment of greater certainty, and will be more secure in the knowledge that its domestic and international operations are likely to receive compatible treatment from the respective authorities.
+State aids
+In the section on the economic rationale for intervention, it was demonstrated that a lessening of competitive pressures through increased monopolisation or the operation of restrictive practices, could lead to resource misallocation and a consequent reduction in economic welfare.
+It was then argued that this provides the basis for preventive or corrective intervention in the form of competition policy.
+There is a further way in which competitive pressures may be reduced and this is through the granting, by governments, of State aid or subsidies to individual firms or industries.
+Such decisions to grant State aid can be taken in the light of a national government's overall policy towards internal competition, and therefore need not conflict with the aims of its national competition policy.
+However, there is a possibility that State aids, which have been given for domestic reasons, may reduce competitive pressure between nations, since such assistance may give a competitive advantage to industry within a particular country vis-à-vis its trading partners.
+Generally any firm receiving government assistance experiences a reduction in its costs which is unavailable to its competitors, and thereby achieves a competitive advantage.
+Thus, the competitive discipline is weakened and, other things being equal, resource misallocation is likely.
+If such aids are given  by EC member states, then this could clearly distort the process of competition within the SEM, a fundamental tenet of which is the creation of equality in trading opportunities.
+There is therefore a clear place for an EC policy to oversee State aids, and so to ensure that they do not unjustifiably favour one member's industry at the expense of another's, and thereby mitigate the intentions of EC competition policy.
+However, it has to be recognised that while aids have the potential for distorting intra-Community competition they may also create offsetting benefits.
+Consequently just as in competition policy, EC policy on state aids has been drafted in a way designed to take account of this dichotomy.
+The EC policy on State aids is mainly embodied in Articles 92 and 93.
+Under Article 92, with certain exceptions, state aids are decreed incompatible with the EC and thereby banned.
+Thus Article 92(1) states that, "any aid granted by a Member State or through State resources in any form whatsoever which distorts or threatens to distort competition by favouring certain undertakings or the production of certain goods shall, in so far as it affects trade between Member States, be incompatible with the common market" .
+A number of specific aids which are generally declared compatible with the common market, and therefore exempt from the ban, are specified in Article 92(2).
+These are aids of a social character, those given to relieve the effects of natural disasters and those designed to compensate for economic disadvantages caused by the division of Germany after the Second World War.
+These exemptions are uncontentious and do not detract from the intention, under Article 92(1), to ban aids which affect intra-Community trade.
+However, this is followed in Article 92(3) by a further list of aids which may be, but which are not automatically, considered to be compatible with the common market, and could therefore be granted discretionary exemption from the general proscription.
+These include aids intended to overcome regional deprivations, aid to promote projects of common European interest or to remedy serious disturbances within an economy, and assistance to promote economic development, provided this does not adversely affect trade.
+Lastly, the Council is given power to exempt other aids when acting upon a proposal from the Commission.
+Thus, there is in these Articles, a recognition that individual governments have a role to play in combating the vagaries of the economic system within their own boundaries.
+Governments wish to try and deal with problems of regional imbalance, which in many instances may be of a long-standing and chronic nature.
+They may also wish to facilitate the restructuring and adapting of industry to changing conditions and markets.
+That is governments may well see the need to take microeconomic measures to deal with problems created by changes in the performance of the macro and world economies.
+However, there is always a danger that in taking such measures a State may, intentionally or unintentionally, give undue assistance, and so promote its own industry at the expense of that of its trading partners.
+This will have the effect of distorting trade and militating against attaining the objectives of the SEM.
+Therefore, no outright exemptions are given under Article 92(2), and it is left to the Commission to determine the types of aid which are compatible.
+The procedure for control of State aids is set out in Article 93.
+In this the Commission is charged with keeping all State aids under continuous review, and member states are required to provide prior notification of any plans to grant or to alter aid.
+If the Commission then finds a proposal to be incompatible with the common market it is empowered to require its abolition or alteration, subject to the right of appeal to the European Court of Justice.
+Thus, there is a clear need for policy to regulate the granting of State aids, which after 1992 and the creation of the SEM will assume more importance.
+With the removal of all tariff  barriers, there will be few other measures available to States to grant assistance and there is a danger that, in the absence of control, State aids could become a substitute for protectionism, enabling a State to give preference to its own industry.
+Yet there are many ways in which market failure can arise, and State aid in those circumstances can form a legitimate means of corrective intervention.
+In the difficult economic climate of the 1970s and 80s there have been more frequent cries from industry for assistance, which States have not always resisted in their desire to minimise the disruptive effects of economic change.
+Thus, the danger arises from the unco-ordinated plans of individual governments towards their own national economies resulting, collectively, in the negation of EC trading objectives.
+The dilemma in policy is to distinguish those aids which militate against the efficient working of the competitive system from those that facilitate it.
+If the SEM is to become an economic reality then it is essential that, as well as a comprehensive and effective competition policy, the policy of overseeing State aids is vigorously pursued.
+This is all the more important since it is in the area of State aid that there is likely to be greater conflict between national and EC interests.
+Industrial Policy
+The Treaty of Rome contained no specific references to the need for the Community to develop an Industrial Policy, consequently the main focus towards industry has been on competition policy, and on the creation of the SEM.
+The basic principle seems to have been that the development of a system with free movement of goods, services, capital and labour in a competitive environment is all that is necessary to promote an effective and dynamic industrial base.
+In the member states a variety of national policies towards industry have been implemented.
+Some, such as France and Germany, have operated policies to encourage the development of their industrial base by positive interventionist programmes, while in the 1980s the UK has adopted a "hands off" approach to industrial policy.
+In the rest of the Community many different policy stances are evident.
+This state of affairs is increasingly being called into question.
+Pressures are being exerted to give the Community a more positive role in industrial policy.
+The Commission have issued a plan to define a role for the EC by setting up a coordinated Industrial Policy (Commission, 1990).
+This plan is based on the concept of subsidiarity whereby the EC would only become involved when the national policies of the member states were ineffective, or harmful to other member states.
+The Commission argue that in order for the industrial base of the EC to be effective and dynamic it is important that a free and competitive environment, based on the creation of the SEM with a strong Community competition policy, be supplemented by harmonised or coordinated policies in other areas.
+These areas include: 1.
+A Common External Policy which promotes free and open trade and investment in the world economy.
+2.
+Social and environmental policies which promote industrial systems which are efficient but also compatible with levels of living conditions which are acceptable and sustainable.
+3.
+A R&D policy which encourages the development of new and high value-added industries.
+4.
+Programmes to promote pan-European business networks and companies, especially for SMEs.
+5.
+Gearing national and Community structural adjustment funds and policies towards improving the competitiveness of firms in the less developed regions of the EC.
+6.
+Adopting macro-economic policies which encourage stable and sustainable growth.
+7.
+Greater coordination between member states to develop industrial policies which are effective and do not result in protectionist programmes to sustain "sunset industries" .
+This sort of an Industrial Policy involves Community competences in a large range of policy areas.
+Some at Community level, with others at national level, would be subject to scrutiny and investigation by EC institutions, to ensure that national policies were not contrary to European objectives.
+This kind of Community involvement is the subject of great argument at the Intergovernmental Conferences, and is connected to the "federal Europe" debate.
+It is also rather a pious series of statements from the Commission.
+The Common External Policy is not always concerned with promoting a free and open world trading and investment system (see section on UK policy to 1980), and the EC has often been engaged in protecting sunset industries e.g. the steel industry.
+Attempts to determine effective Community policies in the social, regional and environmental areas face many problems (see Chapters 6, 7 and 8), and the creation of macro-economic policies to encourage a stable European economy is connected to EMU which has significantly large economic and political implications (see Chapter 3).
+The proposal from the Commission for a coordinated Industrial Policy is therefore an attempt to move the EC towards a federal system, where all policies which affect the industrial base are subject to some kind of Community involvement.
+It is unlikely that such wide ranging competences for EC institutions will be granted in the near future.
+However, the case for a greater role for the Community in the industrial policy area does have some merit, particularly in the fields of R&D programmes and to ensure that national policies do not hinder the development of pan-European business operations.
+The case for this is put by Coffey, 1988 in an article by Ghellinck, and Beije et al.1987.
+A more sceptical view on this issue may be found in Francis and Tharakan 1989.

@@ -1,0 +1,445 @@
+
+
+1992 AND ALL THAT: IBM FOURTH QUARTER CHARGES WILL BE $6,000m AS 25,000 MORE JOBS GO
+Even President-elect Bill Clinton could not contain his dismay last week after IBM Corp announced that business in Europe was so bad that the company would at best break even in the current quarter — and prescribed only more of the same medicine that has so signally failed to save the situation up to now.
+Announcing that the company would be taking a $6,000m charge with its fourth quarter figures to cover 25,000 more voluntary redundancies and plant closures, mainly in the mainframe and disk drive businesses, and a $1,000m cut in research and development spending and an unspecified bigger cut in capital investment, chairman John Akers warned that while cash flow remains strong, current earnings expectations make the company unsure of its ability to maintain the dividend at current levels.
+‘Our services and software businesses are showing excellent growth,’ added Akers.
+‘We are continuing to move aggressively into these areas while maintaining a sharp focus on our unique ability to create value for our customers by integrating the industry's widest and most competitive choices of services, products and technologies.
+The actions we are announcing today demonstrate IBM's continuing resolve to deal aggressively with the difficult transition that is occurring in the computer industry.
+The result will be a stronger and more prosperous IBM.’
+The workforce reductions will come from manufacturing and development organisations and from marketing and servicing units.
+It also plans to increase the autonomy of its AdStar storage, Pennant Systems printer, and Personal Computer Co businesses.
+The workforce reductions will continue to be done through voluntary means, but ‘If business conditions do not improve significantly, it is likely that some business units will be unable to maintain full employment in 1993.’
+As well as $1,000m off development spending next year, sales, general and administrative expenses will decline by about $1,000m.
+Development expenditures and personnel will continue to be shifted to growth areas, including services, software, client-server computing, networking and multimedia.
+IBM has paid out $3.63 in dividends so far this year, and cutting out the fourth quarter payout altogether would save it a very welcome $680m or so.
+IBM expects the world economy in 1993 to be no better than this year, and the workforce reductions will come from manufacturing and development organisations and in marketing and services units, principally from support areas.
+President-elect Clinton, in the second day of his barnstorming session on the economy in Little Rock, Arkansas said of the IBM cut-backs ‘That kind of investment is the exact thing we don't want them to be cutting.’
+SPARCCLASSIC SPEC ‘TOO COMPROMISED FOR USE AS WORKSTATION’
+The well-anticipated under-$5,000 Sun Microsystems Inc colour workstation that materialised last month as the $4,300 SparcClassic is being depreciated in some quarters as a bait-and-switch box for the more expensive $8,000 Sun LX.
+Granted, 90% of all Classics will go into distributed environments, but the box was still touted at its introduction as a personal computer killer.
+So it would be reasonable to assume the thing could run standalone.
+The problem here is that as a $4,300 box it's fitted with only 207Mb external disk and 16Mb internal memory, barely enough to handle the Solaris 2.1 operating system that eats up 200Mb of disk space and prefers 24Mb minimum.
+Even if you go to a 424Mb disk for $4,800 — £4,060 — you still have plop down more bucks for more RAM.
+A competitor like Hewlett-Packard Co, which earlier this year took its own lumps for baiting-and-switching, says the machine is ‘neither fish nor fowl,’ describing it as ‘too severely compromised to be a workstation’and dismissing it as no better than a 50MHz 80486 box.
+HP figures Sun tried its damnedest to come up with a full-featured workstation under $5,000 but when it looked at the margins, dumbed down the box to create the Classic.
+HP would know something about the exercise since it's trying to do the same thing and the best it's been able to come up with is the diskless 16Mb 715/33 for $5,700 or 525Mb 715/33 for $7,400.
+It reckons a year from now the industry will be at $4,000.
+In the meantime it faults the Classic on floating point performance, no graphics acceleration, 8-bit audio and a low-quality monitor as well as memory.
+In addition it warns Sun that it is alienating its customers by not letting them apply their corporate discounts to the Classic and by letting them perceive Sun as turning its back on its established technical clientele to pursue the commercial marketplace.
+X CONSORTIUM LOOKS TO FRESCO OBJECT TOOLKIT
+The X Consortium, guardian and developer of the X-Window system, is looking to release a full-blown object-oriented toolkit as part of X11 Release 6.0, which is due at the end of next year.
+It's based upon an environment called Fresco, which has been developed by Professor Mark Linton, now principal researcher at Silicon Graphics Inc.
+Fresco was developed as a portable environment and Linton is thought to have his sights firmly set on Microsoft Corp's Windows NT for the toolkit.
+Details, page four.
+SIEMENS TO MARKET KENDALL SQUARE KSR1 PARALLEL SYSTEM
+Siemens Nixdorf Informationssysteme AG has stuck resolutely to mainstream computing technologies and has not pioneered anything exotic since Siemens years ago inherited the scientific machine developed by Telefunken Computers GmbH, and that didn't last long.
+It is a serious player in scientific supercomputers, but only by virtue of the VP machines it buys OEM from Fujitsu Ltd.
+Now it has gone out of house again for an emerging technology, agreeing a preliminary marketing pact with Henry Burkhardt's Kendall Square Research Corp.
+Kendall Square is pioneering massively parallel processing for the commercial world with its KSR1 machine, and Siemens Nixdorf will market it through its Scientific Computing Branch to technical and scientific users.
+The KSR1 systems scale from eight to 1,088 proprietary processors.
+Kendall Square has several offices in Western Europe that will work with the Scientific Computing Branch to market and support KSR1 systems.
+Initial efforts will include training, collateral, trade shows and industry exhibits.
+Europe presently accounts for about 45% of the company's sales.
+THE IBM TRAGEDY: IT COULDN'T HAPPEN TO A NICER COMPANY
+by Tim Palmer
+Partners and competitors of IBM Corp that have suffered at the company's hands will feel a sense of schadenfreude that the company is brought so low, and will reflect on how right they were when they said back in the late 1970s and early 1980s that if the US Justice Department split the company up as it was then threatening to do, they would have four or six IBMs to compete with rather than just one.
+The best thing that could have happened to IBM was to be broken up a decade or more ago.
+Mischief
+The wretched state to which the company has been brought is nevertheless a tragedy, a tragedy for all the towns in America and across the world where IBM was until recently the biggest employer, a tragedy for all its surviving employees, who now have to operate in an environment pervaded with gloom and a sense of failure, a tragedy for all the data processing managers that made it their business to know all that could be known about the company and its products and culture, who now find their hard-earned knowledge is a rapidly wasting asset.
+A tragedy for all those whose pension funds and insurance companies bet too heavily on the company's shares.
+A tragedy for the customers of all the banks, mostly French these days, that have substantial funds tied up financing IBM mainframes on the assumption of residual values that are emphatically no longer justified, and therefore don't now have that money available to finance new and promising businesses.
+But don't let anyone get away with telling you that IBM's problems are all the fault of the world economy: if Hewlett-Packard Co can grow at 20% in the current climate, if ICL Plc can remain in the black, if that former corporate basket case Unisys Corp, which compared with IBM started out under its present management with no advantages at all, can return to profit, IBM's woes have to be acknowledged to be primarily the fault of the company itself, and only exacerbated by the economy.
+And the failure of IBM management is that it didn't understand — and still doesn't understand — the extent of the mischief the genie of open systems it let out of the bottle with the original open IBM Personal Computer, could wreak.
+ Short-termism 
+How're yuh gonna keep'em down on the farm, after they've seen Paree, they used to sing back in the 1920s.
+How're yuh gonna keep'em loyal to proprietary systems after they've seen generic PCs is today's equivalent.
+It was inevitable — and should have been obvious to the kinds of forecasting brains that IBM could afford — that the open systems movement would spread up from the desktop to infect first the minicomputer world and then the mainframe.
+And that means that even the AS/400 is potentially at risk, and can only continue to be a winner if IBM builds in a big discount to compensate for the fact that it is proprietary — yet instead of recognising this vulnerability, with its incredible but consistent short-termism, the company is squeezing AS/400 users until they squeal with its software pricing on the machine.
+The AS/400 business is widely hailed as one of IBM's few current successes: in fact it's a failure — it should have won every System/36 user by now, and have won enough formerly non-IBM customers to be running at between $25,000m and $30,000m a year, not the $14,000m it is currently doing.
+And incredibly, users at the top end are still crying out for more power because IBM failed to keep its promise of increasing performance at a rate that would keep it ahead of customer demand.
+Moribund
+But oh no, IBM couldn't do that — it might lose 5% of its moribund mainframe sales to the AS/400.
+Well here's news for IBM — at the present rate, it will have lost 100% of its mainframe sales in five years, almost all of them not to competing IBM products but to competing companies.
+Why is Hewlett-Packard eating IBM's breakfast, lunch, dinner and supper?
+After all, it had a very vulnerable HP 3000 base to protect.
+The answer is that it saw the way the wind was blowing and instead of desperately tripping its users up as they tried to move to open systems, it embraced them wholeheartedly, giving users the option of either staying on the slow track with an MPE V operating system that over time would converge with Unix, or taking the fast track and jumping across to the HP 9000.
+Nor can Hewlett be dismissed as having been lucky and got it right first time: it didn't.
+The early Precision Architecture HP 3000 machines worked fine — until you started hanging terminals off them.
+Then they ground quickly to a halt, because the company hadn't understood what a drain input-output would be on the functioning of the machine.
+Instead of offloading underperforming RISC machines on its customers — thousands of which were crying out for more power — it rushed to boost the power of its obsolete 16-bit processor by every tweak possible, and virtually gave the things away.
+And the unhappy customer base stayed loyal in enormous numbers so that the company is now reaping the benefit.
+Dreads and aspirations
+But it's decades since IBM last saw beyond its customers' cheque books and recognised vulnerable human beings with hopes and fears, dreads and aspirations.
+IBM turned its first Unix system, the RT, into a child of the ghetto and told 90% of its customers that they didn't want it, it wasn't for them.
+And its customers took the hint and bought their Unix systems from Sun Microsystems Inc or aforesaid Hewlett-Packard.
+For fear of losing one or two sales of its obsolete mainframes, IBM designed the RT so badly that it had to junk the machine completely and start again from scratch to create the (incompatible) RS/6000.
+As a result, the RS/6000 may be a $2,200m business this year while Hewlett-Packard and Sun are running at between $5,000m and $6,000m in Unix-related sales.
+There is always another side to the story of course, and IBM still has its apologists: Tim Mead, who was lately in charge at Datamation magazine, another former icon now down on its luck, wrote an outraged letter to the Wall Street Journal after its recent critical piece.
+He points out that under John Akers, IBM has built its desktop computing business to $8,500m in worldwide sales in 1991, giving it 19% market share; remained the worldwide leader in information technology revenues, at $62,800m last year up nearly 30% from $48,500m in 1985 when Akers took over; and avoided the worst crisis that could have befallen it — which would have been to sacrifice investments in research and development for the sake of a fast buck — it spent $6,600m last year.
+Unfortunately, this week, IBM has announced that it is lopping $1,000m off its research and development budget, and indicated that turnover will slip back below $60,000m…
+DONE DEAL: NEC WILL PAY $5.3m FOR 5% OF CONTROL DATA SYSTEMS
+NEC Corp last week firmed up its agreement with Control Data Systems Inc under which it will acquire a 4.99% stake in the company, paying about $5.3m.
+The agreement involves Control Data marketing NEC's 4800 series MIPS Technologies Inc R-series RISC workstations.
+NEC is to develop a special version of its UP 4800 server series for Control Data, with shipments expected to begin in the second half of 1993.
+NEC is counting on shipping 1,500 units to Control Data by the end of 1994, and the two are considering developing their relationship further, including the supply by NEC of other UNIX workstations to Control Data, the adoption by NEC of some Control Data applications to fill gaps in its own line — and the marketing by Control Data of NEC personal computers, probably the Ultralite MS-DOS laptop computer.
+NEC is also said to be negotiating with various US relational database vendors to put their products up under NEC's version of Unix System V.4.
+UNICOMP TO BUY UNIBOL DEVELOPER SOFTWARE IRELAND FOR $5m
+Unicomp Inc, Atlanta, Georgia reports that it has entered substantive negotiations to acquire Software Ireland Ltd, Belfast for just under $5m.
+It doesn't actually name Software Ireland, but says the acquisition will give its Arccom Management Systems subsidiary three strategic advantages — more control over its mainstay product line; advance information on new products currently in development; and a voice in decisions for follow-on products — and Arccom, in Marietta, Georgia is the exclusive North American distributor for Software Ireland's Unibol migration, conversion and recompilation system, which converts IBM Corp RPG II applications for Unix systems.
+The resulting combination is expected to produce total sales for UniComp of some $15m with projected profits of $2m for the fiscal year ending February 1994.
+Completion is scheduled for mid-January 1993.
+Software Ireland is the main business of Belfast-based ICS Group.
+NCR TO CUT 160 UK JOBS, 8%
+NCR Ltd is warning its UK workforce that it will have to make about 8% of them redundant, leading to loss of 150 to 160 jobs in nearly all areas of the company.
+It is offering advice on finding other jobs.
+METAPHOR TO SUPPORT ITS DATA SYSTEM ON HP 9000s
+Hewlett-Packard Co has teamed up with IBM Corp's Metaphor Computer Systems Inc for joint development and marketing of software to provide access from Metaphor's Data Interpretation System decision support software to HP 9000 Series 800 Precision Architecture servers, making the machine the first non-IBM computer for the product.
+Metaphor has already announced a Unix-based gateway enabling access to Sybase SQL Server and the Red Brick Warehouse repositories.
+The two have users in common and it was at the request of some large accounts that the relationship was formed.
+The new gateway will be out in mid-1993.
+Metaphor will not say whether deals with others are planned.
+SCO APPOINTS OUTSIDE DIRECTOR TO ASSESS SEXUAL HARASSMENT CHARGES
+Last week, in the wake of the civil suit lodged against Santa Cruz president Larry Michels for sexual harassment by three former executive secretaries at the company (UX No 415), SCO's board issued the following statement: ‘We are extremely distressed by the recent allegations made against the company and its president.
+We greatly respect and value each of our employees and we strive to provide for them an appropriate workplace environment.
+Therefore, we take these allegations very seriously.
+On December 10, the company's board of directors met and appointed Mr Jim Harris, an outside director, to assess the situation on behalf of the full board.
+We are committed to addressing this matter thoroughly.
+Given privacy and legal considerations, it is inappropriate to debate this matter in the press.’
+Outsiders believe the charges may make it difficult for SCO to go public until they are resolved.
+IBM LAUNCHES RELEASE 2.2 OF ITS AIX/ESA MAINFRAME UNIX
+Everything else at IBM Corp was rather overshadowed last Tuesday by its announcement of the end of the world as its employees know it — and in effect, the death of the mainframe, but the company did also make a couple of significant product announcements, notably Release 2 of AIX/ESA mainframe Unix Version 2, built on the Open Software Foundation's OSF/1 Release 1.1 with additional IBM enhancements to exploit large processor capabilities.
+AIX/ESA Release 2 adds support of file systems greater than 2Gb — the limit is now 500Gb, and Data Striping on disk subsystems for faster access.
+Release 2 also provides performance improvements through an enhanced Virtual Memory Manager and asynchronous input-out put using the AIX/ESA Communications Server, which is claimed to enhance usability and performance for those connected to it via a channel or local network-attached RS/6000.
+This support enables terminals connected to asynchronous ports on the RS/6000 to operate as if they were directly connected to the AIX/ESA system.
+The RS/6000 combines input from multiple terminals and collects complete lines entered at terminals used with line-mode applications before sending the input to AIX/ESA, reducing interrupts and load on the AIX/ESA system.
+Virtual terminal support that supports remote logins to AIX/ESA with Telnet and rlogin commands, is now done on the RS/6000.
+Data encryption is provided by the crypt feature built within a library called libcrypt.
+The libcrypt library is available as a feature which encompasses the full function Data Encryption Standard and is generally controlled by the US State Department, which means that if you don't speak convincing American, you can't have it.
+The implementation of asynchronous input-output is based on Posix 1003.4/D 12 Real Time Extensions, dated February 1992.
+It preserves the order of multiple asynchronous input-output requests issued against a particular file.
+Being compliant with OSF/1 1.1, it is by definition also compliant with the Unix System V Interface Definition Issue 3 — Base.
+It is also Berkeley Software Distribution 4.3-compliant.
+IBM notes that it announced intent in September to make AIX/ESA source code available as a separately orderable option.
+This offering will enable customers to extend and tailor their systems to meet unique requirements.
+It now intends to make the source available in the second quarter of next year as separately orderable options for IBM AIX/ESA 2.2 and Network File System for AIX/ESA 2.1.1.
+AIX/ESA 2.2, available in February, requires a minimum of 32Mb of memory to run, and 36Mb to install it.
+The graduated one-time charge ranges from $63,120 on a low-end 9221 machine to $1.3m on a six-processor 9021.
+It also announced IBM AIXwindows Environment/ESA 1.2 X Window implementation for the new release; it is based on X Window System version 11.5, and OSF/Motif Version 1.1.4.
+SUN BRINGS SITKA BACK HOME
+Having dangled its local area internetworking outfit in the shop window for almost two years now, Sun Microsystems Inc has decided to fold the wholly-owned Sitka Corp back into its SunSelect PC-NFS networking arm, effective on December 28th.
+Sitka, based in Alameda, California — originally Sun's TOPS division — will continue to sell its networking software line through existing channels but will operate under the SunSelect name out of Chelmsford, Massachusetts.
+SunSelect general manager, Carl Ledbetter, takes the reins of the combined unit.
+Sitka gained an arms length separation from Sun in January 1990, naming its own own board.
+At the time, Sun appeared to be  manoeuvring the business for sale.
+Sun says it will be able to compete more aggressively in the personal computer networking market with Sitka's peer-to-peer and pen computing network technology.
+SunSelect suggests it'll have some new combined products in the new year.
+SEQUOIA MULLS CHAPTER 11, SALE
+Fault-tolerant Unix systems builder Sequoia Systems Inc is considering selling itself, filing for bankruptcy or obtaining additional financing in face of its financial woes.
+It also restated downward — although not drastically, previously reported results for fiscal years to June 1992 and 1991, to reflect the fact that customers that bought Sequoia gear were not required to pay for some kit until it was resold to end-users.
+It also cut its workforce to 170 from 295.
+FRESCO OBJECT TOOLKIT ‘TO FEATURE IN X-WINDOWS RELEASE 6’
+by William Fellows
+There is an effort underway at the University of Lowell to develop C++ ‘wrappers’ for the Open Software Foundation's Motif graphical user interface.
+However, re-modelling the X-Windows XT intrinsics toolkit — upon which Motif and other X-Windows-based interface styles are built — for C++, still won't, because of X's limitations, allow developers to take advantage of native object-oriented languages, says Dave Sternlicht of the X Consortium.
+Sternlicht and others hope that a new paradigm, now under development will bring object functionality to X. It may do the same for other windowing schemas too.
+Mark Linton, formerly a professor at Stanford University, now principal researcher at Silicon Graphics Inc, has come up with a completely new toolkit that can be applied to X-Windows.
+It's been developed in C++ and is known as Interviews, though it'll probably come to the market as Fresco.
+Sternlicht hopes it could be included in X-Windows as soon as the end of next year, bundled with X11 Release 6.0, which is due around that time.
+However, Fresco must first get past the X Consortium board —‘a high hurdle,’ according to Sternlicht.
+The difference between Fresco and other toolkits like X-Windows' XT intrinsics is that being object-oriented, it uses a small amount of memory, says Sternlicht.
+Fresco enables developers to create  applications that use tens of thousands of run-time objects: ‘you'd have big problems if you wanted to do that with conventional X-Windows widgets or XT intrinsics,’ he says.
+Fresco incorporates a general management facility called Doc, which is structured like a word processor and includes a range of editing features.
+Every character written in a program formulated in Doc has an associated run-time C++ object.
+Doc files and objects interact dynamically.
+Gliffs
+The base class in Fresco's class hierarchy is a gliff.
+Gliffs have notions of geometry, and can allocate and request space.
+There are other sub-classes for graphical user interface components such as push buttons and scroll bars.
+XT intrinsics makes no distinction between physical information and logical information — sentences and pages are physical occurrences, paragraphs are logical — whilst Fresco allows the designer to utilise resources that are independent of the application.
+In Fresco, components are linked in a separate hierarchy — a style hierarchy — a logical tree-type model which is  derived from the physical layout of the program.
+Fresco also has a model view controller — an idea borrowed from the object-oriented SmallTalk language which doesn't occur in XT intrinsics but is found in other technologies like the Andrew toolkit.
+It operates on notions of an observer (views) and the observable (data).
+Motif and Open Look
+With XT intrinsics — indeed all of the X environment — each widget is effectively a separate window.
+Fresco has a single window.
+Gliffs — known as gadgets at this level — occupy ‘areas’ of the window, which makes a big difference, according to Sternlicht.
+Importantly, the Fresco toolkit can pull down different user interface components at run time and is able to take on Open Look, Motif or other look and feel styles.
+Fresco has borrowed concepts from Adobe PostScript and the Canute text layout system and includes PostScript-like structured graphics.
+A Fresco ‘canvas’ on to which gliffs can be ‘painted’will allow developers create things like two-dimensional geometric figures: like X it has some difficulty with three dimensions at the moment.
+Fresco is really aimed at the next generation of object applications which will actually use large numbers of objects.
+Although it is fairly complicated now, it will be simplified over time and will offer a migration route up from things like XT Intrinsics.
+It is likely that by the time of its release in X11R6 — if that eventually happens — Fresco components could be incorporated into XT toolkits — it should be possible to have a gliff in an XT widget, for example.
+Linton has developed Fresco with portability in mind and has already tested a version that runs on Microsoft Corp Windows NT, apparently his main target for technology.
+X CONSORTIUM SEEKS DIRECTOR, AUTONOMY
+Meanwhile, as well as searching for a director to replace its current chief, Bob Scheifler, the X Consortium is also examining ways of distancing itself from its home at the Massachusetts  Institute of Technology and developing some kind of marketing focus without falling foul of its not-for-profit status.
+Overall goals and responsibilities for the group, which develops and oversees the development of the X-Windows environment, are under review.
+It hopes organisational changes and a new director will be in place by the end of next year, when Release 6.0 of the X11 windowing system is due.
+ECOSYSTEMS'’ FIRST ONE-STATION ALL-SYSTEM MONITOR’
+Cupertino-based EcoSystems Software Inc reckons it has scored a first with its EcoSphere and EcoTools/Oracle client-server systems management software, the production versions of which are just shipping.
+They are claimed to be the first ever to enable system administrators to monitor and manage all their computing resources — computers, networks, and relational database applications — from one central management console.
+Prior to announcing production status, EcoSystems says it put the products through a four-month beta test programme covering a dozen US organisations featuring a diverse assortment of Unix hardware and Oracle relational database configurations.
+The EcoSystems products provide functionality for configuration management, performance management, fault management, capacity planning, automated operations and management reporting, and support Unix servers with Unix, MS-DOS or terminal clients.
+Pricing starts at $16,000 and is based on specific system configuration capacity.
+EcoSystems: +1 408 252 3801
+CRAY KILLS REAL-TIME Y-MP EL PROJECT, SEEKS TO PASS IT ON
+Cray Research Inc is still having to trim costs further, and the latest victim of the climate of stringency is the real-time computing team that had intended to start shipping products early next year.
+According to Electronic News, the effort involved the low-end Y-MP EL machine and internal and external software.
+The company now hopes to transfer what has been developed to another vendor — Digital Equipment Corp sells the Y-MP EL, but has been less successful than Cray hoped.
+Cray licensed the Real/IX real-time Unix from ModComp for the effort.
+ASNA HAS MAINFRAME-LIKE DATABASE FOR UNIX, WINDOWS NT
+Big Bear Lake, California-based Amalgamated Software of North America Inc has announced DataGate, a database management system, for high volume data processing applications running under Unix and Microsoft Corp Windows NT.
+Asna claims it is the first product to incorporate more than one method of data processing in a single system.
+It says, DataGate will be able to data crunch — in the same way as a traditional mainframes but on a Unix or Windows NT server — maintaining mainframe-like data security and integrity features.
+According to the company, Standard relational databases running under Unix can only process data in one way using Standard Query Language.
+Asna's president, Anne Ferguson explains, because relational databases are slow in processing intensive amounts of data, they are best suited for low volume transaction processing and ad hoc queries.
+Using SQL for high volume transactions inflicts unnecessary bottlenecks in the system when high volume transactions need to be processed, the company said.
+The product can reportedly process data in four different ways, by using indexing files; physical files, logical files and SQL.
+A user can choose one or more methods of processing information.
+DataGate conforms to Microsoft's Open Database Connectivity and SQL Access Group specifications, which enables users to communicate with standard relational databases.
+It also links application programs, compilers, system software and file access in one package.
+The company is currently looking for independent software vendors to develop add-on SQL applications, report writers, file editors and CASE toolkits for DataGate.
+DataGate is available on IBM's RS/6000s and is scheduled for release September 1993 — no prices are available.
+TP MONITORS CAN INTERACT WITH NEW RETIX SOFTWARE
+Retix Inc, Santa Monica, California says it has developed an Open Systems Interconnection-compliant distributed transaction processing communications manager, which enables different transaction processing monitors to communicate and interoperate with each other.
+Transarc Corp, Pittsburgh, Pennsylvania, has signed for the software and together with Retix will integrate it with the Encina transaction processing monitor it markets.
+IBM, whose CICS/6000 transaction monitor is based upon Encina will license the integrated OSI/DTP software once the integration work is complete.
+The three firms say they will demonstrate the stuff running on RS/6000s next year.
+Other transaction processing monitor vendors — NCR Corp and Unix System Labs Inc — have also licensed parts of the Retix software, but are doing their own integration work, which will leave them some six months behind Transarc, says Retix.
+An official at Retix said, ‘if these companies had taken the entire product, the industry would have seen transaction processing interoperability a lot earlier.’
+Retix OSI/DTP is designed to provide transaction protocol services for peer-to-peer  communication between transaction monitors and the OLTP application they manage.
+Retix says its OSI/DTP software strips application data of its Encina, Top End, Tuxedo and other TP monitor-specific features and recompiles it for the target environment.
+OSI/DTP conforms to X/Open Co Ltd's Distributed Transaction Processing model and the OSI Application Layer Structure.
+The X/Open standard provides portability — OSI's model the interoperability, Retix says.
+OSI/DTP embraces  atomicity — preventing transaction operations from being split; concurrency — which keeps all transactions together when passed across the network and monitor manager — which controls the transactions.
+CHIP GURUS EXPECT INSTRUCTION RATES TO DOUBLE BY 1995
+The industry's multi-processing unit gurus assembled at the Microprocessor Forum in California last month, looked into their crystal balls and predicted that by the middle of the decade a typical high-end microprocessor would run at 250MHz-300MHz with about 64Kb of on-chip cache and a maximum issue rate of 4–6 instructions a cycle, double today's leading silicon.
+There will also probably be a strong emphasis on chips for portables with battery life being the driving factor in microprocessor design.
+Current techniques like superscalar design and on-chip cache are reaching their limits and future performance increases may require new computing paradigms including a trend to single-chip multiprocessors.
+Performance improvements will probably require changing the way software is written.
+HP SQL INTERFACE CAN READ AND WRITE NON-RELATIONAL DATA
+Providing something that is high on most corporate users' wish lists, Hewlett-Packard Co has come up with an SQL-based interface that can read and update data in a non-relational network database, and reckons it is the first vendor to do so.
+Image/SQL can be used with new applications, existing applications and SQL-based applications generation languages and client-server tools.
+The company believes the new interface helps users to take advantage of new technologies at their own pace, while protecting their investments in applications, data and training.
+End users will be able to use personal computer and workstation-based tools that feature graphical user interfaces for easier manipulation and analysis of data, it suggests.
+Users will be able to do decision analysis and support at the desktop, and prepare reports based on Image/SQL data — Image/SQL is the new name for the TurboImage database management system.
+Tools are expected to include all those currently working with Allbase/SQL, such as those from Channel Computing Inc, Cognos Inc, Gupta Corp, Information Builders Inc, Ingres Corp, JYACC Inc, Powersoft Inc, Speedware Corp, Trifox Inc, Uniface Corp and Unify Corp.
+The company reckons that as the SQL-based interface is easier to use, it means that programmers will be able to develop new applications more quickly — and the applications can be designed to access Image/SQL or Allbase/SQL data, providing full database compatibility.
+Languages such as C, Cobol, Pascal and Fortran can also be used to develop SQL-based applications that read and update Image/SQL data.
+The read-only version of Image/SQL will ship before year-end, with the full version following in mid-1993.
+SUN SPOTS
+Sunsoft Inc says it will start delivering OEM versions of Solaris 2.1-on-Intel by mid-January, fulfilling its promise to get the desktop Unix for Intel Corp iAPX-86 boxes out during the first quarter of 1993.
+OEM customers, including Dell Computer Corp, AST Research Inc, Compaq Computer Corp, CompuAdd Corp and Toshiba Corp are breathing sighs of relief, but said they were unwilling to comment until final copies are delivered.
+Sunsoft has had problems meeting time schedules for Solaris in the past, but it seems to be back on target.
+Sunsoft says all it has left to do is upgrade localised versions of the software from Solaris 2.0 to Solaris 2.1: German, French, Italian, Japanese and two Chinese editions are due.
+The company expects OEMs to start delivering Solaris 2.1-based systems the beginning of the second quarter.
+Illinois-based Open Business Systems Inc has started selling the Tsunami-based SparcClassics over the Internet to the home market.
+It pre-installs the operating system or any other software ordered and domestic carriage is free.
+But you have to convince them it'll be used at home.
+If orders are pooled they'll honour the Sun 12-pack discount for orders of four or more.
++1 312 739–1111
+Sun users in education and research can access public domain software, shareware, research articles and images via InterNet and SunSite, a new easy-to-use interactive information repository set up with the University of North Carolina at Chapel Hill.
+info sunsite.unc.edu
+Tivoli Systems Inc is porting its Management Environment from Solaris 1.1 to 2.1, expecting it to be ready by the second quarter, with all applications available by the third quarter.
+Tivoli says the TME will speed and simplify users' transition to Solaris 2.1 by allowing them to manage both operating environments from a common set of applications.
+Meanwhile, the company's vice president of sales, Charles DeVita, has turned up at Mountain View, California-based Consilium Inc as vice president, worldwide sales and service.
+Sun Microsystems Inc's Colorado-based master distributor Access Graphics Inc is picking up Qume Corp's $700 QX15 ASCII/ANSI terminal which supports Sun graphical windows.
+The box's server software supports SCO Unix, SCO ODT, RS/6000 AIX, Univel and Data General as well and will also be sold by the US distributor Robec Inc.
+In a deal worth £500,000, Sun Microsystems Inc's SunPro unit has struck a deal with National  Algorithms Group Ltd for the UK, Oxford-based outfit's Fortran 90 technology which SunPro will use to update its Fortran 77 compiler and developer environments.
+NAG: +44 865 511245.
+Resellers report that Sun's new 50MHz Tsunami-based SparcClassic and LX machines, introduced last month and advertised as immediately available, were put on allocation last week.
+A reseller ascribed the move to the ramp-up.
+The Clinton/Gore transition team is using Sun workstations with Resumix software to process 2,000 to 3,000 resumes a day from people looking to fill all those old Republican jobs by Inauguration Day.
+They've gotten 100,000 resumes and have 4,000 jobs available.
+LDS HAS NEW PC-TO-UNIX DATA TRANSFER TOOL
+Lenexa, Kansas-based LDS Inc says almost any personal computer connected via serial hardware can transfer files and other data between any popular Unix-type system using EMPath, its new comms package.
+With a user-defined hot-key, EmPath permits switching from MS-DOS to Unix and back from the MS-DOS prompt with our exiting apps running under either.
+It also lets MS-DOS users connect with two separate Unix-type operating systems and have both on-line simultaneously.
+Up to eight different logical sessions at each of two remote Unix sources can be accessed.
+It lets DOS files be copied to Unix and vice versa and lets Unix files be printed by a printer connected to DOS.
++1 913 492–5700
+CZECH-SLOVAK DIVORCE THREATENS INFORMIX
+A question mark is hanging over the $1m contract awarded to Informix Software Inc last January by the Czechoslovakian Federal Ministry of the Interior to provide citizen registration and administration software to local municipalities.
+Not only is time ticking away before the country splits itself asunder into its constituent Czech and Slovak republics, but both the ministry and the concept of Czechoslovakian citizenship will officially cease to exist on January 1 1993.
+Informix was contracted to supply 140 of Wyse Technology Inc's machines, with its own database and software tools, running under Santa Cruz Operation Inc's version of Unix.
+Informix's Munich-based marketing director for Central and Eastern Europe, Werner Neibel, stated that although some systems were already in place, installation had been scheduled to take place ‘over a number of years’.
+He refused to say whether his company had received any payment so far, claiming that to do so would be breach of confidence with regard to OEM suppliers.
+Nonetheless, as the software has been given both Czech and Slovak language user interfaces, the project could conceivably continue under the auspices of the individual republics.
+MICROAGE PARTNER BUYS INTO BUDAPEST WEEK
+MicroAge Inc's Hungarian distribution network, Duna Elektronika, has taken an unspecified stake in Budapest Week, the country's widest circulation English language newspaper.
+Terms were not disclosed, although the tabloid did say that it has received a capital injection from Duna, which will be used for investment purposes.
+Budapest Week will move over the river to the red-light district in Budapest, where Duna's headquarters are situated.
+Duna is Hungary's largest computer distributor, with independent dealers in every major town.
+It also owns 22 showrooms.
+However, no decision has yet been taken on how the company will exploit its investment.
+According to president and chief executive Peter Freed, things are still ‘at the ideas stage’.
+On the one hand, Duna is said to be thinking about buying the rights to a publish a Hungarian or European version of an unnamed US Unix programmers title, with current circulation of 7,000.
+On the other hand, rumours are that it may launch a computing supplement under the Budapest Week name.
+Duna's ultimate aim is to support its distribution activities by advertising in its own local computer publications, while also hoping to attract advertising from its competitors.
+Until last month, Budapest Week and the Daily News, a former communist publication published by the Hungarian news agency, MTI, were the only English-language publications in the country.
+Budapest Week is now locked in a circulation battle with the new weekly broadsheet, the Budapest Post.
+COGNOS SIGNS ASHISUTO TO MARKET PRODUCTS
+Ottawa, Ontario and Burlington, Massachusetts-based Cognos Inc has gone to American expatriate Bill Totten's Ashisuto KK, Japan's largest software marketing company, for sales and distribution of all its software tools, including its new client-server and Unix products, directly to the Japanese market.
+Cognos notes that it first entered the Japanese market in 1985 and initially sold its products there through distributors for Hewlett-Packard Co, Digital Equipment Corp and Data General Corp hardware.
+In 1990, it established its own Japanese office in Tokyo and began offering technical support on a local basis.
+It has adapted its primary product, the PowerHouse applications generator for use in Japan and to date, has over 2,000 Japanese installations.
+Japanese customers include Canon Inc and Toshiba Corp.
+NEW NIXDORF TARGONS RUN SINIX-TOS V5.41
+There seems to be some confusion at Siemens Nixdorf Informationssysteme AG over the future of its Nixdorf Targon Unix series.
+SNI director Otto-Hermann Grunberg's statements to Computerwoche last month indicated the company was not going to release any new Motorola Inc 680x0-based Targons (UX No 412).
+However, SNI has now added the Targon/31 M35 and M65 models to its range, which use one and two 33MHz 68040s respectively.
+They run Sinix-TOS V5.41, which SNI claims makes Targon/31s source code compatible with its other Intel Corp and Mips Technologies Inc-based Sinix systems, the WX200, MX300, MX500, RM400 and RM600.
+Sinix-TOS V5.41 is backwards compatible with version 4.1 of the Targon operating system — TOS V4.1.
+With 32Mb RAM, 702Mb disk the model M35 is around $22,500 — £14,500.
+ARAN TAKES ON ICL SOFTWARE AS TRANSACTION POINT GOES DOWN
+ICL plc software house, Transaction Point Ltd, Reading, Berkshire, went into liquidation last week citing recessionary trends as the reason for its collapse.
+However, with its eyes on new markets, Digital Equipment Corp value-added reseller Aran Ltd, Thatcham, Berkshire, acquired the products, contracts and 20 of the 25 staff employed by Transaction Point.
+Financial terms were not disclosed, but Aran expects the Transaction Point acquisition to contribute £1.5m in revenues, to a combined company turnover of £5m by the close of its financial 1994 on March 31.
+Aran doesn't expect the Transaction Point acquisition to impact end of year net profits to March 31 1993 — the costs will be incurred as an extraordinary item charge.
+Aran has set up an ICL division to accommodate the new business, which will be run by ex-Transaction Point employees.
+Transaction Point company has sold the rights to its flagship fourth generation language tool and relational database system, Demon, its Range Text Manager word processor and project management system, Kernel-PMS.
+Liquidator is Clogg & Whitehill Ltd, also of Reading, Berkshire.
+Aran: +44 635 872122.
+PICK SYSTEMS WILL HELP THE RUSSIAN TAXMAN PICK THE POCKETS OF THE POPULACE
+Pick Systems Inc, Irvine, California is making rather a splash in the former Soviet Union and has now been awarded what it reckons is one of the largest computer automation projects to be undertaken by the Russian government in the next 12 months.
+Its wholly-owned Pick Systems Ltd of Moscow has signed a contract with the Russian Tax Department through the commercial arm of the Russian Ministry of Finance to provide Pick software and development services to computerise Russian tax collections.
+The initial order calls for 350 multi-user tax collection systems to be installed in Moscow by the end of the year.
+The systems will vary in size from six to 33 users and are expected to provide on-line tax collection system support to more than 3,000 tax officials by the end of the year.
+The company notes that in the past six months, Pick Systems has also provided municipal services software for the city of St. Petersburg and has established Pick training centres in most of the major Russian scientific and technical institutes.
+Pick is also installed at the Moscow City Archives, Russian Ministry of International Affairs, Ministry of Foreign Economic Relations, and Department of Tractor Export.
+Pick Systems got into the market early by establishing sales operations through French resellers more than 10 years ago.
+It was translated to Russian and became a popular minicomputer product in the former Soviet Union, where more than 600 mid-range machines have been operating Pick-based applications for the past 10 years.
+INTERACTIVE DEVELOPMENT ADDS NEW SOFTWARE THROUGH PICTURES PRODUCT
+San Francisco, California-based Interactive Development Environments Inc has introduced a new Software through Pictures/Information Modelling product, which enables users at a workstation to analyse and customise existing relational database management systems.
+The tool, targeted at the transaction processing market, enables a developer to prioritise and alter the company database using Structured Query Language statements.
+The software supports the Informix, Sybase, Uniface and Ingres relational databases.
+StP/IM captures the conceptual model of the database data — which can either be an overall visual view of an application or the whole distributed computing environment — and focuses on the data objects and their relationships, regardless of the database structure.
+It then extracts the required object or attribute and presents its graphically.
+The data can then be analysed or altered and placed back in the database.
+The key features of the software include a graphical editor — which constructs the model; data element and table domain editors — which stores extracted data and allows users to reuse information; a create, read, update and delete table; SQL data declaration, control and manipulation language support — that allows data to be changed — and data administration tools.
+StP/IM is scheduled for release March 1993 initially on Sun Microsystems Inc Sparcstations with support for IBM Corp's RS/6000s, Hewlett-Packard Co HP 9000s and Digital Equipment Corp Ultrix to follow; no price has been set.
+IBM BLUES
+The Federal Aviation Administration is reviewing a proposal submitted last week by IBM Corp to save its endangered contract for en route air traffic control workstations.
+IBM says that the workstations are based on RS/6000 stations and servers, and that all the problems are in the software.
+The Administration is threatening to withhold payments and even cancel the $3,900m contract to modernise the US air traffic control system if IBM does not fix the problems quickly.
+The move is seen as a spur to get IBM working on the case rather than a serious threat: rivals say they haven't been approached to propose alternatives.
+The problem has delayed the second phase by 18 months.
+On the IBM Corp dividend, it's going to be a nailbiting month for holders of the shares, because IBM said that it will address the issue at its next regularly scheduled board meeting, which will take place sometime in January.
+John Jones of Salomon Brothers — who last week said there was a 50% possibility of a dividend cut — now says there is a 50% chance that it will be completely eliminated.
+Joseph Payne, an Alex Brown & Sons would let loose a huge supply of stock onto the market and fund managers wouldn't stand for it — a rather naive statement since the non-executive directors would be in breach of their fiduciary duty if they allowed IBM to pay a dividend they judged it could not afford.
+Analysts were rushing to cut their forecasts for next year's earnings per share, with Stephen Smith of PaineWebber the most bearish — and the most often right: he is going for just $1.75 a share for 1993.
+Most analysts said IBM Corp is not done with its restructuring, and there will be more to come —‘I think basically the mainframe business and the problems they are facing are very fundamental and will likely worsen in 1993,’ Smith said —‘the mainframe business is the main source of cash flow and it will be very difficult to offset that by improvements elsewhere.’
+Less than half the 25,000 job cuts planned by IBM Corp will be made in its operations in Europe, Middle East and Africa, a spokesman for IBM Europe told Reuter.
+A spokesman for IBM France said it had already earmarked 1,500 job cuts for 1993 through voluntary redundancies, but did not rule out further measures if the market deteriorated.
+IBM France currently employs about 18,000 people.
+Italy will lose about 750 or 6%, as will other southern Europe countries; the UK is expected to lose 1,000 or 7%.
+Subscribers may have noticed the scepticism with which we have tended to greet analysts' forecasts for IBM Corp's earnings, and invariably their forecasts have proved too  optimistic — but it seems to take time for the true awfulness of the situation to sink in with them.
+The Wall Street Journal has called their bluff and finds that 12 of the 31 analysts that track IBM had buy recommendations on the stock on September 1 — and even after details of all the new cuts came out, only three had an outright sell recommendation on the stock, and last Tuesday morning, some were still rating it a buy.
+‘Why am I so stupid?’ asks Lehman Brothers' Don Young, adding when asked where he stands on the stock now, ‘I am under water.’
+The most consistently bearish — well he is a Brit — Stephen Smith of PaineWebber, says that until recently, saying you didn't like IBM was ‘like standing up and saying I don't like apple pie.’
+When asked why it had taken him so long to change his view of IBM, Joseph Payne at Alex Brown & Sons said abruptly that he had to take another call and promised to call back later.
+He didn't, nor did he return a second Journal call.
+Is nobody minding the shop at IBM Corp these days?
+Last Wednesday's heavy New York papers, the Times and the Wall Street Journal, devoted acres of newsprint to the disastrous turn taken in the tide of IBM Corp's affairs — but alongside, IBM still ran a chirpy RS/6000 ad with a picture of computer-generated bubbles, with a blurb entitled The Computer That Made This Picture is Also Making History.
+The text includes the message that IBM spends $6,000m a year on research and development — now cut to $5,000m — but the image of John Akers in the bubbles had mysteriously disappeared.
+And the ad's caption?
+Bursting Bubbles…
+DATAFLEX 3.1 ARRIVES ON SPANISH MARKET
+The Madrid-based Spanish Association for the Development of Information Technology has released Dataflex 3.0.1 for Unix.
+The Dataflex relational database management system is written in a fourth generation language and has an IBM Corp SAA/CUA-compliant user interface, which enables users to write dBase applications.
+The new release provides header integrity checking, on-line help for applications development, and the association claims that error handling has been improved.
+FEAR OF THE UNKNOWN, LACK OF STANDARDS, HAMPER ACCEPTANCE OF PARALLEL SYSTEMS
+Companies, banks included, are reluctant to switch to massively parallel supercomputers because of a lack of industry standards.
+According to director of the European Centre for Parallelism in Barcelona, CEPBA, Mateo Valero, people are afraid that investment in programming will simply be wasted if new standards emerge.
+Another problem, he says, lies in the inexactness of the machines' results.
+This is due to so many processors running applications at the same time and the numerical methods used for rounding off figures.
+But, Valero asserted, ‘some application users are aware that they have to make changes to their algorithms and to their way of programming if they want applications to run quicker.’
+CEPBA itself has Parsys Ltd's SuperNode CN-1000, Convex Computer Corp's C-3840, and a Thinking Machines Corp Connection machine.
+‘For research purposes, we don't want to have the fastest machines in the world, but one of each there is, so that when the user comes along, he can develop his own models,’ Valero maintains.
+It has been operating for a year now, with the aim of showing researchers both the benefits of massively parallel computers and how to use them.
+The centre has been involved in a series of projects.
+It has already developed a C++ compiler for the object-oriented supercomputer, Comandos II, and is now developing compilers for such new high-level supercomputing languages as High Superformance Fortran.
+The latter is a Eureka project, led by Barcelona Ingenieria del Software SA.
+It has also signed a deal with Convex to develop compilers for the US company's multiprocessing systems.
+In addition, the centre completely designed a parallel operating system, Paros, for the European Community SuperNode II project.
+Paros is used in the Transputer-based SuperNode II — Esprit I — machine.
+It also collaborated with Barcelona-based optical lens manufacturer Indo SA to develop numerical algorithms for transputers in order to improve production of optical lenses; undertook a simulation project for BMW to create more environment-friendly petrol engines with higher performance; is participating in 15 different Esprit and RACE, Research into Advanced Communications in Europe, projects, and is developing supercomputing applications for the European project APPARC — Esprit III.
+TWO SPANISH COMPANIES PIONEER REMOTE READING OF WATER METERS
+La Compania Aquas de Sabadell SA, Sabadell, Barcelona, and Telecom Valles SA, Terassa, Barcelona, claim to have developed the first system in Europe for reading water meters over the telephone.
+Some $615,000 has been invested in the project, which is now in pilot with 310 homes.
+Pulse emitters send metered information to concentrators, which are connected to a Unix host.
+The host processes the readings and is responsible for the general  maintenance of the system.
+The two companies assert that the system avoids reading errors as well as avoiding the need to have inspectors tramping round trying to read meters in empty houses whose occupants are all at work.
+It can detect sudden increases in water consumption, such as leaks.
+The companies plan to apply the concept to gas and electricity supplies as well as security systems.
+BSI MULTIMEDIA FORMS UNIT TO DO OS/2, UNIX PRODUCTS
+Barcelona-based multimedia developer BSI Multimedia SA is setting up a new division to specialise in Unix and OS/2 products.
+The aim is to develop a wide range of office automation software.
+The new division is ready with its JetForm 3.0 family, which enables users to design business forms under Microsoft Corp's Windows and to enter data from different open systems environments.
+The division resulted from user demand for open products.
+MINIGRAMS
+Following in the footsteps of its peer group, Unix International, the Open Software Foundation is going to take its own pot shot at Microsoft Corp's Windows NT.
+Its preparing a white paper like UI's ‘Desktop Unix and NT: A Functional Comparison’ that will presumably seek to bloody its potential rival.
+OSF's press office says the thing is nearing completion.
+VenturCom Inc, Cambridge, Massachusetts has released a high-speed accelerator for its Venix real-time Unix system.
+The company says all previous Unix systems have been based on a clock granularity of 100Hz and that it has developed an extension that allows an operator to select the clock or alarm granularity that optimises the equipment.
+It is not dependent on the operating system, the faster the CPU, the faster the data acquisition.
+A beta site reportedly accelerated a 33MHz 80486 2,000%.
+It is being provided free to customers.
+IBM Corp claims its 100MHz ‘Blue Lightening’ chip is the world's fastest 80486.
+Right now it's only a technology demo but it's believed it will be marketed to system OEMs as part of motherboards and CPU daughtercards.
+It can plug into a 33MHz system design.
+Objectivity Inc is introducing interactive object browsing of its ODBMS with CenterLine Software Inc's ObjectCenter C++ programming environment.
+CenterLine's software can now define object classes with Objectivity/DB and interactively access Objectivity/DB objects.
+Developers can use ObjectCenter to create and test an Objectivity/DB application.
+They can check syntax and access object while debugging.
+Meanwhile, Montreal's Visual Edge Software Ltd is integrating its UIM/X 2.0 interface development tool with Objectivity's ODBMS to allow creation of custom interfaces to specialized Objectivity applications.
+Wang Laboratories Inc has asked the US Bankruptcy Court to extend by 90 days — to March 16 from December 16 — the time during which Wang has the exclusive right to file a plan of  reorganisation under its Chapter 11 bankruptcy proceedings.
+Roger Sippl quit as Informix Corp chairman to pursue his start-up interests: Phil White, president and chief executive, succeeds him.
+Sippl's new venture ProActive is staffing up, hiring itself a vice president of sales Paige Hiatt, ex of Grid Systems, and a vice president of consulting Bill Morton, formerly of ViewStar Corporation.
+Littleton, Massachusetts-based Alliant Computer Systems Corp is taking a long time to die — too long for Craig Mundie, who resigned as president and chief executive to accept a position with Microsoft Corp as general manager, Advanced Consumer Technologies.
+Mundie, one of the three founders of Alliant in 1982, will remain on the board to advise in final sale of the service business and ultimate liquidation of the company.
+IBM UK Ltd lost its RS/6000 chief Clive Parminter to Oracle UK Ltd last week: Parminter will head Oracle's major accounts division from the new year and report to Allen Swann, director of Oracle's direct sales channels.
+The incumbent, Steve Hill, was said to be ‘considering his options.’
+Informix software house Mountfield Software Ltd of St Leonards-on-Sea, East Sussex, is to supply its Informate II code generator and report writer to Informix Software Inc in Menlo Park, California.
+The system will be used in an internal pilot project in Informix's US and UK offices and should lead to a major deal across the US if all goes well.
+Mountfield says most Informate customers are UK-based, including 15 local councils and the Inland Revenue.
+The system is also used by the Government of Malta.
+Alpha Microsystems Inc is anticipating a mild comeback figuring it'll have a profit between $190,000 and $250,000 for the third quarter ended November 28 on revenues between $10.5m and $11m.
+FourGen Software Inc opens its first overseas offices this month in Amsterdam, hoping to capitalize on downsizing trends among large European corporations.
+It will focus its sales efforts on companies that have departments or divisions in several countries and need a global package.
+Applix Inc claims it's battering the heck out of Uniplex Ltd, especially in Europe where folks are reportedly getting sick and tired of waiting for Uniplex's graphical upgrade.
+It's latest coup however came out of the US.
+It's part of an eight-year $92m government contract called JSAM that its group, including GTE and IBM with the RS/6000, won over two protests by the opposition, Grumman, Pyramid, AT&T and of course Uniplex.
+Hewlett-Packard Co is crossing itself to ward off any demons that would give it the same misery Sun Microsystems Inc is going through moving from Solaris 1.0 to Solaris 2.0.
+Far from adopting a desktop solution like SVR4.2, HP is streamlining and modularizing its own HP/UX to suit upcoming low-cost boxes.
+Of course it may define desktop differently from other players and forego a saturation strategy.
+HP by the way thinks 1993 will be the year the market comes to appreciate Unix.
+Solbourne Computer Inc's vice president of marketing, Travis White, has resigned from the company for personal reasons.
+It is looking for a replacement.
+Meanwhile, the company is working on getting Kbus-based half-gigabyte RAM boards out in the first quarter, followed 1GB boards in the second though that later date is still kind of iffy.
+Hewlett-Packard Co is starting to realize a heartfelt wish: passing DEC as number two computer maker.
+According to numbers InfoCorp worked up HP has finally surpassed DEC in US revenues from midrange systems (priced from $25,000 to $699,000), giving HP the spot right behind IBM.
+InfoCorp figures HP owns 17% of the $14.1b market versus Blue at 24% and DEC at 13%.
+HP claims the number one spot in the Unix midrange.
+System builders that Microprocessor Report spoke to at Comdex last month said they did not expect volume production of Intel Corp's Pentium chip until mid-1993 at best, suggesting the part has slipped another few months.
+The OverDrive, P24T, version of Pentium will not ship until early 1994.
+Microsoft Corp has started delivering a preliminary version of its Windows NT device driver kit.
+It's hard to keep your eyes away from documents people beside you are reading on the train, especially when they are X/Open Co Ltd internal memoranda: the one seen by a Unigram.X spy at Lewisham, South London last week promised in its first paragraph ‘a 0% payrise’ for unfortunate X/Open employees.
+Happy Christmas?
+WHAT DRIVING TO THE STORE WOULD BE LIKE IF OPERATING SYSTEMS RAN YOUR CAR
+MS-DOS: you get in the car and try to remember where you put your keys.
+Windows: You get in the car and drive to the store very slowly, because attached to the back of the car is a freight train.
+Macintosh System 7: You get in the car to go to the store and the car drives you to the church.
+Unix: You get in the car and type GREP STORE.
+After reaching speeds of 200 miles per hour en route, you arrive at the barber shop.
+Windows NT: You get in the car and write a letter that says ‘go to the store.’
+Then you get out of the car and mail the letter to your dashboard.
+Taligent/Pink: You walk to the store with Ricardo Montalban, who tells you how wonderful it will be when he can fly you to the store in his Learjet.
+OS/2: After fuelling up with 6,000 gallons of gas, you get in the car and drive to the store with a  motorcycle escort and a marching band in procession.
+Halfway there the car blows up, killing everybody in town.
+S/36 SSP [mainframe, obv.]:
+You get in the car and drive to the store.
+Halfway there you run out of gas.
+While walking the rest of the way, you are run over by kids on mopeds.
+OS/400: an attendant locks you into the car and then drives you to the store, where you get to watch everyone else buy fillet mignons.

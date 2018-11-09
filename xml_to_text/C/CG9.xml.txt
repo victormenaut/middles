@@ -1,0 +1,702 @@
+
+
+Teaching electronic publishing: a Scottish example
+ALISTAIR McCLEERY 
+This paper outlines the background to the introduction of an electronic (non-print) publishing strand to an undergraduate degree in publishing.
+The degree has already successfully incorporated desktop publishing throughout its editorial, production and marketing strands.
+Desktop publishing had enabled fulfilment of a primary educational aim of the course to integrate theory and practice but challenges remain before the commercial production of electronic (non-print) publications can be undertaken by students with equal facility.
+KEYWORDS Publishing Teaching Electronic publishing Desktop publishing Non-print publishing Simulation
+INTRODUCTION
+Napier University has been providing full-time undergraduate teaching in publishing since 1968.
+It has been organized around the three major publishing functions: editorial, production, marketing.
+For some time this provision represented the sole full-time undergraduate degree in the UK devoted uniquely to publishing.
+Annual intake is fixed by the Scottish Education Department at approximately forty students but applications outnumber that quota in a ratio of something like 12 to 1.
+This long experience, monopoly position and continued popularity might have engendered an element of complacency were it not for the enthusiasm and dynamism of the teaching team assisted by the advice and encouragement of industry representatives.
+The need to innovate and update is a personal, vocational and educational imperative within the course.
+Two waves of innovation are relevant here: firstly, the permeation of Information Technology, particularly desktop publishing, across the curriculum in the 1980s and, secondly, the attempt in the last four years to position electronic, in the sense of non-print, publishing within the course.
+THE FIRST WAVE
+In the early 1980s the need to incorporate IT within the teaching of publishing led to participation in industrial panels monitoring the development and adoption of SGML (Standard Generalized Mark-up Language), investment in the first generation of dedicated word-processors, and research into communication protocols between what might now be characterized as taciturn dinosaurs.
+These changes essentially affected only the production strand of the course as editorial staff retained an element of scepticism about the evolution of SGML (and ASPIC) and its significance for copy-editors, preferring to inform students of its existence rather than include it within working practice.
+However, collaboration with Apple in 1986 in the publication of a daily newspaper for the athletes' village at the Commonwealth Games, held that year in Edinburgh, resulted in the acquisition of several Apple Macintoshes and a laser printer.
+It also resulted in the interest in the potential of the Macintosh extending beyond the production area to design and editorial staff where it developed into passionate enthusiasm.
+Adoption of the Macintosh as the basic tool within the teaching of all aspects of publishing followed rapidly because of:
+The efficient learning curve of students on the Apple Macintosh, due to its (now well-known) intuitive and consistent interface.
+The avoidance of the need to teach anything of programming or electronic engineering to students whose interests, aptitudes and qualifications were almost entirely based in art and language.
+The possibility of allowing students to produce near-typeset quality material at relatively little cost in order both to experiment in graphic design and presentation and to expand the number of publications as practical work.
+The spread of the Apple Macintosh within publishing to the point where it has become an industry standard.
+The ability to move over the next seven years from the fairly primitive to the most advanced Macintosh–Quadra models without sacrificing the benefits of the learning curve or the experience gained previously.
+All these factors contributed to the increasing IT competence of students in terms of the digitization of texts and graphics in a production process which was more flexible and more cost-effective.
+All elements of the course could be integrated through practical work which, far from remaining an inchoate classroom exercise, could go through all publishing stages, including production, to be sold to the appropriate market like any other commercial publication.
+Production of the graphic image has been further enhanced by the introduction of a Crosfield 636E colour scanner and related hardware and software (Imaginator, Scan View and Sirius systems) for post-scan manipulation of colour images.
+The Macintosh area of origination and the colour scanner area of graphic reproduction are increasingly converging due to the introduction to the former of high-resolution scanners, a colour laser printer, an on-line phototypesetter (Linotronic) capable of directly producing colour separations (film), and software permitting extensive manipulation of captured images.
+Close links with Heidelberg, the major German printing press manufacturer, give us hope that we may in time become a test-bed for Direct Imaging driven from our Macintosh pre-press system.
+The high level of graphic design work in the course — in terms both of quality and quantity — is now based on the extensive use of this equipment.
+On-screen editing has become the norm for all student work.
+All student exercises have to be submitted in typescript (an innovation in UK higher education).
+This requirement has been facilitated by the department's open studios of some fifty networked Macintoshes, most at ‘Classic’ level.
+Spreadsheets and project management software are routinely used for costings, databases of customers for the publishing house run by students as part of the course, and organization of publication schedules.
+Text is captured through OCR if not already available in electronic form.
+A multi-disc reader is also part of our working environment.
+Most staff have Macintoshes for their personal use and IT, particularly desktop publishing, permeates teaching and learning throughout all aspects of the course.
+THE SECOND WAVE
+We are proud of our record in making this equipment, the techniques and the opportunities to stretch creativity in the production of print material, part of every student's competence.
+However, we became aware in the late 1980s of the need to address a wider definition of publishing beyond the print-based expectation that has held sway since Gutenberg.
+The commodity of the publisher is ideas and knowledge and as new technologies become available to act as vehicles for this commodity, then the publisher is obliged, for commercial reasons if no other, to use them when appropriate.
+Although at the time some of these vehicles seemed, and have since proved, to be new forms of dinosaur, that did not exempt us from our obligation as educators to prepare our students for the world of work some ten, twenty, thirty years ahead when they would be the key executives in the publishing industry.
+For the course seeks not only to prepare graduates for immediate employment in a range of positions within publishing but also to provide them with the intellectual equipment to become in the longer term the managers, the decision-makers and strategy-formulators.
+To this end, we must inculcate in our students not only enabling skills such as fluency in English, particularly written English, IT competence, and the ability to communicate but also creative, problem-solving skills — the phrase that is most often used is ‘transferable skills’— which include a willingness to engage with new concepts and techniques.
+Desktop publishing is current practice and orthodoxy, a matter almost of routine, and we must move on.
+We realized at this stage that it would be difficult for this strand of non-print publishing to develop from existing production expertise, however advanced the latter's use of electronics to produce print more cheaply and more flexibly.
+Close ties with a medical publisher had enabled us to monitor early attempts to move from a traditional print-based publishing enterprise to new technologies: laser-disc publication had proved wasteful and made too many demands of staff with no experience in editing or marketing such material, let alone its production; on-line database publication drawing on the company's range of printed publications, many of which were in electronic form anyway before imprisonment on paper, proved more compatible with existing operations and more amenable to the skills of existing staff.
+We also maintain close links with the electronic publishing division of a large conglomerate.
+Its analysis of market trends gave cause, moreover, for general optimism:
+Print publishing over the past four years has shown an annual growth of some 8% but electronic (non-print) publishing over the same period has reached an annual growth rate of some 20%.
+The non-print market should have overtaken the traditional print publishing market in overall value by 1996.
+It was forecast that by the close of 1991 the revenue from sales worldwide of CD-ROM hardware and software would have amounted to some $3.2 billion of which the title component would be $2.3 billion, a proportion which would steadily increase.
+The introduction into the mass market (as opposed to business and education) of CD-I, CD-ROM XA, and the ‘electronic book’ will expand the demand for titles increasingly initiated and produced exclusively as non-print publications.
+An Information Science element had existed in the course for some time and included not only an introduction to libraries and the nature of information but also on-line retrieval systems and other forms of electronic information provision.
+This seemed a more promising foundation upon which to develop electronic, in the sense of non-print, publishing: sufficiently removed from print production, yet strong enough intellectually to fulfil our overall educational aims.
+The development of:
+students' intellectual and imaginative powers
+their understanding and judgement
+their problem-solving skills
+their ability to communicate
+their ability to see relationships within what they have learned and to perceive their field of study in a broader perspective
+in , the stimulation of an enquiring analytical and creative approach, encouraging independent judgement and critical self-awareness
+Accordingly, three modules were drawn up offering a progression in the three years of the course from Information Sources through Information Systems to Information Management.
+We have avoided the specific title ‘Electronic Publishing’ in order to emphasize the wider perspective which our aims demand.
+In Information Sources in first year, the Information Science base is retained.
+It would have been all too easy simply to offer a descriptive list of current technologies, as is the case with many books on electronic publishing, but students can always read, and would be encouraged to read, about these in current journals.
+Instead, we have to offer a conceptual and contextual account which would open electronic publishing to the knowledge and skills being developed in other areas such as Editing and Marketing.
+So students consider information flow, particularly within scholarly communities, and the role of both the publisher and technology within that flow.
+As was the case with desktop publishing, we are essentially teaching the applications of electronic publishing rather than the ‘hard’ science, whether electronics or computing, that lies behind it.
+From that initial base, it is possible in Year Two to examine particular technologies and to evaluate the benefits and economies of their implementation within a publishing operation.
+In Year Three students consider information systems in a management and societal context.
+The concept of information as a management resource and of the role of the information manager broadens again the context within which electronic publishing is considered.
+In addition, within specialist areas such as Editing, Marketing or Graphic Design, electronic publishing, its particular requirements and differences, are examined.
+For example, students may opt to take a specialist module in Graphics for Screen Media, the objectives of which include critical study of the application of graphic design to electronic publications and investigation of the design initiation and design development procedures for electronic publications.
+We can discuss and demonstrate electronic publishing both within the University and outside, for example, at the National Library of Scotland, where we have access to the Business Information Service, or at the commercial electronic publishing house of Longman Cartermill.
+However, we are as yet unable to provide the complete simulation of electronic publishing that we have successfully organized for print publishing.
+One of the traditional characteristics of Scottish education lies in its refusal to distinguish theory and practice.
+Students demonstrate their intellectual and imaginative powers, their understanding, judgement and critical self-awareness through practical work that, as far as is possible, reflects the actual conditions of publishing, including the commercial imperative.
+The existence of our own imprint, Merchiston Publishing, permits students to experience taking an actual publishing project from inception through every stage of research and development, editing, design, production and marketing.
+If students can argue for the project's viability, through research and costings, then finance is released for production by a commercial printer and the students follow through their marketing plan in order to recoup the investment.
+When all goes well, and a profit is made, then this is ploughed back into the course as subsidy for field trips or visits.
+Students derive enormous satisfaction, which is important in terms of morale and enthusiasm for learning, from seeing both a finished product, book or magazine, and a healthy balance-sheet resulting from it.
+Merchiston Publishing has become a small but not insignificant niche publisher.
+How can we then translate the success of its print-based activities into electronic publishing?
+It is not that students, or staff for that matter, lack ideas for what might be possible.
+At this point, it would have been pleasant to record a series of strategies by which they had been facilitated.
+Instead, what follows is a brief catalogue of what remains embryonic or unrealized.
+Our chief difficulties are the unfamiliarity (to those rooted in print-based technologies), lack of availability and cost of current media to take these possibilities to the point of sellable products.
+Whereas we have, or can afford to buy, the equipment and expertise in print production which makes relatively small print-runs but high production values viable, we cannot do the same so readily and so confidently for, say, CD-ROM.
+We cannot sustain the investment of time and money necessary for successful database publishing — although we are going ahead with a pilot scheme to make an on-line version of the annotated catalogue of our world-famous Clark Collection available at no charge through JANET.
+Even where we have overcome difficulties of technology and resources, as, for example, in producing multi-media stacks using Apple's HyperCard (or SuperCard), there is market resistance to purchasing what might otherwise come as public domain or ‘shareware’ and little that can be done to prevent illegal copying and resulting saturation of a limited market before costs are recovered.
+There, it might be argued, Merchiston Publishing, and our students, face the same dilemmas as many commercial publishers, particularly in the STM (Science, Technology, Medicine) field.
+However, this cannot be used as a pretext to justify inertia.
+We do, as stated earlier, have an overriding obligation to prepare our graduates for their future through provision of not only conceptual understanding but also practical experience across all sectors of the profession.
+At the moment, students ‘know’ about electronic (non-print) publishing.
+They have creative flair in editorial and marketing, good management and communication skills, the ability to master and keep on top of detail, a keen awareness of commercial values: all of which are as applicable to non-print as to print publishing.
+Within the next few years, on the other hand, these will have to be complemented by the opportunity to follow through commercial non-print publishing projects.
+We can not stand by and wait for the equivalent of the Apple Macintosh to create a second empowerment of our students.
+Stage 1
+Contemporary Publishing I Copy Editing I Editing Core Language I Production Technology Practice I Graphic Studies I Project I Information Sources
+Media Studies (Newspaper & Magazine) European Studies I Electives Foreign Language I (French or German or Italian)(2 to be chosen)Literary Codes Contemporary Studies I AWBL (Accreditation of Work-based Learning) I
+Stage 2
+Contemporary Publishing II Copy Editing II Production Technology Practice II Core Graphic Studies II Project II Information Systems Buying Print Marketing
+Modern Literature Language II European Studies II Electives Foreign Language II (2 to be chosen)Contemporary Studies II Market Research AWBL II Writing for the Media
+Stage 3
+Issues in Publishing Issues in Graphic Management Core Information Management Project III Book Marketing
+Advertising & Promotion European Studies III Foreign Language III Contemporary Literature Language III Modernism Business Enterprise Electives Magazine Journalism (5 to be chosen)Quality Control Systems Printability Technology Developments in Finishing Colour Reproduction in Computer Graphics Electronic Film Separation Electronic Colour Image Assembly Graphics for Screen Media AWBL III The Past of Publishing
+The curriculum as a hypertext
+MARY C. DYSON 
+SUMMARY
+In this paper the interdisciplinary nature of electronic publishing is addressed by raising two issues relating to the content and structure of an electronic publishing course.
+The first is whether it is possible to agree upon a generic curriculum, based on a set of headings or topics, which may be treated quite differently by those in different disciplines (e.g. typographers, computer scientists).
+The second related issue is whether it is appropriate to set down a single structure which puts topics under specific headings, given the interdisciplinary nature of the subject.
+A course on the theory of electronic publishing given to typography students is used as an example of the type of material that might be covered and how it may be structured.
+A HyperCard has been developed alongside part of this course.
+The way in which this subject fits in with the course in Typography & Graphic Communication as a whole is briefly described.
+It is proposed that hypertext systems go some way towards providing students with alternative structures for organizing their knowledge of electronic publishing.
+This platform could therefore be used as the basis for a core curriculum from which various material is developed and structures created.
+KEYWORDS Hypertext Electronic publishing Curriculum Document preparation Information retrieval
+1.
+INTRODUCTION
+1.1.
+What is electronic publishing?
+One of the difficulties in teaching, or learning about, electronic publishing seems to be identifying the scope of the subject.
+It is probably wrong to attempt to define electronic publishing unless it is done in a very general way.
+Brailsford and Beach adopt a general view, regarding electronic publishing as the use of computer science and electronics to present information.
+The literature on electronic publishing does not appear to provide a framework for studying the subject.
+But, it is probably fair to say that any relatively new and expanding area lacks this global treatment.
+Topics may have been defined, but they cannot always be slotted neatly into an existing structure.
+If we attempt to do so, we may leave out whole areas of study.
+For example in using traditional publishing as a model for electronic publishing, we may fail to encompass innovation, or to address issues and products that only emerge with new technology (e.g. access to information, data protection, expert systems).
+1.2.
+Approaches: users versus functions
+It is likely that all those who choose to study electronic publishing interact with these systems in some way.
+However, it is simplistic to group all users together.
+Although we can specify types of people, e.g. computer scientists, typographers, editors, publishers, and more generally scientists versus humanists, much of the current technology breaks down these specializations.
+A desktop publisher may be an author, editor, copy editor, designer, production controller, picture researcher, keyboard operator, indexer, printer and binder.
+In practice, these roles are not made explicit and some may even be disregarded.
+A more useful approach may be to identify uses of electronic publishing systems and to examine these.
+I have followed this approach by distinguishing two major functions: document preparation and information retrieval.
+More specifically, part of the curriculum is assigned to tools for input, writing, design and composition.
+Although types of users can be mapped onto these specific functions, this restricts the generality and flexibility of the curriculum.
+Within this framework, a typographer can learn about various stages in the publishing chain, about the hardware and software components of document preparation systems, whilst a computer scientist may appreciate aspects of design through evaluating design tools.
+2.
+CURRICULUM DEVELOPMENT
+2.1.
+Specialization
+This approach supports the view that students from different disciplines will benefit from a broad outlook on the subject which cuts across any boundaries imposed by specific roles.
+It is difficult to argue against this general philosophy, but there is also a need for specialists.
+Those who design and build systems require a different type of knowledge from those who use and evaluate the system, although there is bound to be some overlap.
+There are a number of alternative routes to specialization:
+a tailor-made curriculum for each discipline or specialization
+a broad-based curriculum (similar to the sum of the individual curricula) from which components are selected according to students' needs
+a generic curriculum with a set of core headings which are interpreted and elaborated upon according to the orientation of the particular discipline
+The first alternative fails to exploit the interdisciplinary nature of the subject.
+Topics are likely to be examined only from the viewpoints held within the individual disciplines.
+The second approach may have similar weaknesses, but this will depend on how the individual curricula are combined.
+The more that generalities across the curricula are emphasized, the closer this alternative comes to being a generic curriculum.
+2.2.
+Generic form
+Although the generic curriculum appears the most parsimonious solution, it may require the most work to set up, as various disciplines must agree upon a set of headings.
+The difficulty of this task is likely to vary depending on the level of headings we wish to use, in other words the amount of detail that is specified in the course curriculum.
+However, the degree of difficulty in agreeing upon headings does not necessarily increase with greater detail.
+For instance, we may agree that the course should include such topics as word processing, graphics scanning and page makeup applications, but there could be debate as to which heading(s) they fall under.
+I have used the analogy of the structure of a document to describe the basis of the curriculum.
+I am suggesting that to formulate a generic curriculum, we must attempt to separate the core outline from its interpretation or implementation (in a similar manner to SGML).
+But we need to decide the level at which we will set the core curriculum, the point at which individual interpretation begins.
+2.3.
+Structure
+In developing a curriculum, it is necessary to define topics which can then be put into more general categories.
+Alternatively, general categories or headings are established and topics listed under these headings.
+Whether a top-down or bottom-up approach is used, this categorization, though useful in creating a structure, often obscures similarities between items that have been placed in separate categories.
+This result is inevitable if we classify topics using only one dimension, such as function.
+However, a single structure is insufficient when dealing with an interdisciplinary subject.
+Each discipline may choose not only to put their own interpretation on the material they incorporate under a heading, but also choose to organize the material in a different way, e.g. classify according to the type of processing, rather than function.
+The same principle can also be applied within one specialization, e.g. typography.
+A better understanding of electronic publishing is likely to come from a multidimensional approach which draws on different types of similarities between topics and offers alternative ways of structuring knowledge.
+Wilmott suggests that SGML- based markup can capture structural relationships between items.
+This form of markup may be useful in developing documents for hypertext systems, which make these relationships explicit through building links.
+3.
+ELECTRONIC PUBLISHING CURRICULUM AT READING
+3.1.
+Context
+The course in electronic publishing at Reading University can be used as an example to illustrate the above issues.
+This course is part of a degree in Typography & Graphic Communication.
+Students of typography come from quite a wide range of backgrounds.
+Although students of design, it is not a requirement that all students have studied art.
+The course deals with the communication of messages which can require logical thought, creative talent, organizational skills, etc. and draws upon various disciplines, such as history of art, linguistics, psychology, computer science.
+As with other subject areas of the course, electronic publishing is taught through theory and practice.
+Practical work takes the form of projects which explore design problems using specific software tools.
+Some of these projects are real jobs, where a client provides the brief.
+This paper deals only with the theory of electronic publishing.
+Although the practical work is closely related to some parts of the theory, there is a discrete set of lectures on the subject.
+A HyperCard system has been developed to support the lectures.
+3.2.
+General approach
+A broad interpretation of the term electronic publishing is taken such that digital typography is seen as synonymous with electronic publishing; desktop publishing is regarded as a subset of electronic publishing.
+The subject is divided into two main areas: document preparation and information retrieval (Figures 1 and 2).
+But these two functions should not be seen as entirely discrete.
+There are general similarities between the two areas.
+For example, both systems have input, display, storage and processing components.
+Furthermore, we can also classify the source of information in information retrieval (multimedia products or databases) as structured documents and consider the preparation of these documents.
+These examples illustrate the need for a flexible classificatory structure which can incorporate cross-references or links between items which have been separated.
+Nevertheless, some initial categorization is necessary, at the very least for convenience, but also to signal the orientation of the course, i.e. what is considered important.
+The distinction I have made focuses our attention either on the production of information (document preparation) or the receipt (information retrieval).
+One reason for this approach is that the design issues and their treatment may not be the same in both cases, although we would be advised to look for similarities.
+Figure 1.
+Part 1 of the course outline
+Figure 2.
+Part 2 of the course outline
+3.3.
+Aims
+The broad aims of the course are to:
+promote efficient use of computers as design tools
+analyse design aspects of electronic publishing systems
+examine current and past systems within the context of various industries, such as the publishing industry, the computer industry and the entertainment industry
+To devise the material and structure of the course, these aims must be interpreted with regard to the more general interests, existing knowledge, and level of understanding of typography students.
+Some of these factors are:
+generally little technical knowledge, nor interest in technical detail
+some knowledge of publishing procedures
+an appreciation of design issues through other course work
+limited use of desktop publishing and associated tools
+3.4.
+Treatment of material
+I have developed a simple analytic treatment which can be applied to the main areas of electronic publishing.
+Essentially, we deal with the recent historical context (development), the common configuration of the systems (components), the software that has been developed for specific uses (tools) and the outcome of using these tools (applications and implications).
+In treating the subject in this way, I have necessarily imposed my own interpretation on the material.
+This could be construed as a tailor-made curriculum, which cannot be developed into a generic or core curriculum.
+But, the material spans more than one discipline, suggesting that at least some headings may be translatable into material for a course within a different discipline.
+3.5.
+Course outline
+An outline of the two parts of the course is given in Figures 1 and 2.
+More detail is given for the first part on document preparation systems as this has been developed into the HyperCard system described below.
+The final part of the document preparation section is a simple classification which identifies five dimensions of the systems which emerge from the analysis.
+4.
+SUPPORT MATERIAL
+The development of the HyperCard was motivated by what I perceived to be missing from the literature of the subject: a framework for the study of electronic publishing.
+A hypertext environment seems to provide an ideal platform for tackling the issues of a core curriculum with flexibility in the choice and structure of material under specific headings.
+4.1.
+Content
+The HyperCard is based on the above outline of document preparation systems, with tutorials corresponding to each of the third level of headings (e.g. the computer industry, publishing industry, hardware, software).
+Each tutorial is broken down into smaller more manageable sections (Figure 3) which contain from one to nine screens or cards; most are not more than three cards.
+Each section is relatively short, the idea being to avoid extended periods of continuous reading from the screen.
+Sentences are also kept short and lists used where possible.
+The tool is intended to be an accessible reference source, and generally contains key points.
+The level of detail may be compared to an encyclopaedia, with the entries arranged according to their content, rather than alphabetically.
+Figure 3.
+A HyperCard ‘contents page’ containing eight sections
+4.2.
+Features
+The HyperCard has a modular structure, made up of nine stacks.
+An ‘introduction’ provides an overview of the general area, but the main tutorial material is held in the stack ‘tutorials’which has links to all the other stacks.
+A main feature of this tool is the ease with which levels of information can be incorporated into the document and unfolded if desired (Figure 4).
+The top level is the text contained in the tutorials.
+Additional material is available in the form of:
+definitions of words which may be new to students, or which have a specific meaning
+references to articles or books which expand on a topic
+examples of items
+explanations or further information on topics
+illustrations of items
+Figure 4.
+Additional information on laser imaging technology is made available through the query button.
+The book button reveals a reference on PostScript.
+Definitions of ‘page description language’ and ‘RIP’are provided through clicking on the words in the text
+I have also created a stack of ‘departmental facilities’ to provide students with familiar examples of some of the systems which are discussed.
+This medium is ideal for encouraging students to pursue similarities between apparently discrete topics, and consequently to appreciate alternative ways of organizing information.
+On a general level, some of the connections between the two categories of document preparation and information retrieval systems have already been noted.
+More specific similarities between separate topics have been indicated in the hypertext.
+One example is the method of recognition using template matching which is applied in both speech recognition and optical character recognition.
+To signal these relationships, links have been incorporated into the document, modifying the structure.
+They are implemented through pop-up buttons which give the section or topic name (Figure 5).
+The classification tutorial in particular encourages students to look at the material in different ways.
+Figure 5.
+A card showing the method used to link different sections
+4.3.
+Problems
+There are well-documented problems in navigating through documents of this nature, such as disorientation and cognitive overhead But, in a sense, I am trying to exploit these properties.
+I would like students to maintain several trails at once.
+However, despite my aim to provide flexibility in structure, the HyperCard still imposes a primary organizational structure and it may be difficult to extract information that has no relation to the original structure imposed by the author Nevertheless, some links have been made between tutorials which cut across the primary categorization and users are able to move between different sections as easily as moving within sections.
+5.
+CONCLUSION
+Through reorganizing my course material over the last five years I have come to the conclusion that there is no one definitive structure for the study of electronic publishing.
+However, there is a conflict between the multidimensional nature of the subject and the need to provide structure.
+The major feature of hypertext, non-linearity, helps to resolve this conflict by providing a means of defining a core curriculum, at some level, and enabling various structures to emerge from this base of information.
+Marking EP coursework using electronic communication
+P. J. BROWN AND R. E. JONES 
+This paper discusses experience of getting students undertaking EP coursework to submit their work electronically.
+This has a surprising number of advantages, beyond the obvious saving of paper, though there are disadvantages too.
+KEYWORDS Assessment Coursework Electronic publishing Hypertext Test harness Virus
+INTRODUCTION
+Electronic publishing is a practical subject and one of the most important aspects of any EP course is the coursework: exercises undertaken by the students and marked by the teachers.
+The aim of marking is, of course, not just to assign a number to a piece of work but to give constructive feedback so that the students' work steadily improves.
+Increasingly EP involves dynamic on-line documents rather than nicely formatted pieces of paper.
+Even if the final goal is a paper, as it is with a DTP system, it is important how the paper was produced.
+For example most teachers would prefer their students to make consistent use of style sheets rather than fix details of a document so that they are next-to-impossible to change.
+Therefore what the teacher wants a student to hand in for marking is often not a piece of paper but a source file.
+In this discussion we want to concentrate on one aspect of marking: how the source file can be sent electronically to the marker and how the marker can make use of this electronic form.
+We will call this electronic coursework .
+We should emphasize that the marking itself is not electronic but is done by a human.
+We are a long way from the time where a computer could pass a reasonable judgement on the quality of an electronic document.
+Electronic coursework is widely practised, and the purpose of this paper is not to expound any revolutionary new ideas, but to relate some experiences and to present some issues for discussion.
+SIZE PROBLEMS
+A common message throughout computing, and indeed human endeavour in general, is that the large is different from the small.
+In particular this applies to the submission of work for marking.
+Informal methods are fine for small numbers of students (say less than 20), but for larger numbers some more formal mechanisms are necessary to record that students have submitted their work, and that it has been marked.
+This may sound bureaucratic and boring but without it there are bound to be anguishing problems of the kind: ‘I handed in my work on time but it must have got lost in the pile’.
+An advantage of electronic coursework is that recording mechanisms are easy to install, and we shall dwell on this aspect as it is a vital one, not only in our own institution but also in many others.
+AN EXPERIENCE
+The bulk of this paper is devoted to relating our experience, over the last three years, of using electronic coursework on an EP course at the University of Kent at Canterbury.
+Our particular experience has been mainly concerned with hypertext coursework, though we have also given thought to other document preparation systems.
+Hypertext is not concerned with paper at all, so there is no possibility of students handing in pieces of paper for assessment.
+The hypertext course involved about seventy students initially, rising to over a hundred this year, so the need for formal mechanisms for managing marking was paramount.
+The students were partly computer scientists and partly students with widely varying backgrounds who were taking a ‘conversion course’ to learn computing.
+All took readily both to the idea and the details of electronic coursework.
+The coursework involved producing a hypertext document.
+The nature of the document has varied from year to year but always involves presenting some reasonably complex material in a form that allows different readers to pursue different paths through it.
+The work was done, as it happens, on Sun and DEC workstations running UNIX, but, as far as this paper is concerned, could have been done on any networked computers.
+TRANSMISSION FROM STUDENT TO MARKER
+When some coursework is set, each student is given a unique directory for preparing their work.
+(The directories are created by the system administrators, who run a UNIX shell script that takes the login name of each student registered for a course and prepares a directory accordingly.)
+Each such directory is only accessible to the student who owns it, and to a group called ‘marker’, which consists of the markers.
+The student prepares his coursework in the given directory.
+At the cut-off time for the coursework an electronic drawbridge goes up: students are no longer allowed to write to their directories.
+At this stage it is possible to run electronic checks to identify the students who have not handed anything in, and/or to send electronic ‘receipts’ to those who have.
+(With handing-in on paper for large courses we have found a need to issue paper receipts to help resolve cases where students' work has allegedly been lost or mislaid.)
+An advantage of this use of directories is that it caters naturally for cases where a student's work involves several different files.
+An alternative approach is, of course, for students to use electronic mail to submit their work, and this may be the only option if the course involves distance learning.
+It is, however, not always easy to transmit non-textual files (e.g. files containing bit-map graphics) using electronic mail.
+Moreover mail delivery cannot be guaranteed.
+In the absence of networking, students need to submit work on floppy disks.
+With large numbers this can cause even worse handling and registration problems than for paper, and even, perhaps, extra complications if a disk turns out to be corrupt (‘It was OK when I handed it in.’)
+PROPERTIES OF THE EP SYSTEM
+Before discussing the marking itself, we would like to highlight two properties that are desirable in the EP system that is the vehicle for the coursework.
+The first is that the source format be such that all or nearly all of the available computing tools can be applied to it.
+Thus if the coursework involves using an EP system called X, then X source files should be in a form that other tools can read.
+This applies for example if X uses SGML or troff mark-up, but does not apply if X source files have lots of idiosyncratic binary codes embedded in them.
+This reinforces the view that EP systems should be designed to be well integrated with their environment, rather than being stand-alone systems.
+The second requirement is that the EP system should support annotations, and moreover that there should be provision for several sorts of annotation, e.g. the student's annotations explaining why he has done what he has, and the marker's annotations commenting on the student's work.
+The system for annotations should have the following properties:
+the annotations stand out as separate from the original.
+a student can systematically proceed through all the marker's annotations.
+annotation is possible on all objects, e.g. on pictures as well as text.
+Fortunately these needs can be met by most EP systems (perhaps by using style sheets or higher-level logical objects).
+If all else fails, some kludges are possible, such as putting a unique character or string of characters before each of the marker's annotations.
+Students can then search for this in order to find all the annotations.
+ADVANTAGES TO MARKER
+Having coursework available electronically helps the marker to do a better job, and thus give better feedback to the students.
+This is what really justifies electronic coursework.
+We have emphasized that marking involves human judgement rather than computer-generated ratings, but nevertheless the human marker can find computer-generated background material useful.
+On the hypertext coursework, for example, we ran the following electronic checks:
+a spelling check.
+an embryonic style check, that counted the number of usages of various hypertext facilities.
+See [1]for details.
+a consistency check that made sure that all hypertext links were properly connected.
+a size check.
+Obviously the detailed nature of these checks depends on the material submitted, but we found it invaluable to look at the output from these checks before looking at the coursework itself.
+For example if the style check showed that the student had an unusual balance in the use of facilities, it made us curious as to why: perhaps the work was just plain bad, or conceivably it was an unusual and original approach that was highly successful.
+When looking at individual assessments it is valuable to have available the whole armoury of tools provided by the computer, in order to satisfy the marker's ad hoc needs for further information.
+Examples are searching for all occurrences of a given pattern or even comparing two students' work where copying is suspected.
+MARKING
+Though some EP coursework will involve doing prescribed closely defined tasks, a lot will involve creative design work.
+Marking here is somewhat subjective and it is hard to give general guidelines beyond the obvious one that the aim of the marker is to help the student do (even) better next time.
+A problem we have encountered when marking hyperdocuments is knowing whether we have explored the whole document.
+Unfortunately most current systems do not have systematic aids for checking this, though the KMS hypertext system automatically marks the buttons that have been selected.
+With linear documents such problems do not apply.
+On all but the smallest courses, marking is a chore.
+A happy side-effect of electronic coursework is that we found marking less of a chore: indeed in small doses it has been interesting.
+Probably this is because we were able to explore students' work in an active way.
+TEST HARNESSES
+With programming assessments it is possible to write test harnesses that check whether the program works.
+Several such exercises have been reported in the literature.
+Such thorough testing is, however, unlikely to be possible in EP work, though markers may find the following checks valuable:
+syntax may be checked through scrutiny of the log files for LaTeX documents, or by the use of the checknr verifier for troff documents.
+structural checks can also be made.
+For a DTP exercise students might be expected to make use of style sheets rather than hard-wire formats into a document.
+Many systems either offer a hierarchy of styles (e.g. Microsoft Word ,Aldus PageMaker ), or allow a hierarchy to be created,(e.g. troff ,LaTeX ).
+Any changes to a style (possibly to an ancestor style held centrally on the network) will permeate to all other styles inheriting from this style.
+In order to test whether a student is using such a hierarchy correctly, the marker can make an eye-catching change to an element of the hierarchy (e.g. section headings to be red) and observe whether the document changes in the way it should.
+device independent checks may also be made, to a limited extent.
+If a document was formatted by the student for A4, what happens if the marker alters the size to US Letter, or even A5?
+RETURNING WORK TO THE STUDENTS
+There is a danger that, once hooked, one uses electronic methods just for the sake of it, rather than to bring measurable benefits.
+Even if students submit their coursework electronically, it is not necessary for the marker to return his comments electronically.
+Indeed, we have, in the past, returned comments to students on paper rather than via electronic communication.
+If, however, the coursework is such that it would be helpful for the marker to make his comments as annotations on the student's work, then the annotated work should be returned electronically to the student.
+Such annotations have several advantages:
+if the student is going to pursue his work further, it is easy for him to insert the marker's suggested changes if these are embedded within the document.
+This is an advantage for all documents written or approved by more than one author, not just the rather artificial example of education.
+there is some potential for testing consistency of marking — it is a big worry to most of us, when marking a hundred different pieces of coursework, that the hundredth might have been marked to a different standard to the first.
+If the marker uses semi-standard annotations (e.g. ‘Style-sheet not used:…‘), this opens up the possibility of writing a checking program that analyses the annotations in some marked work and checks whether the mark suggested by the annotations is seriously out of line with the given mark.
+The marker can then have another look at any apparently anomalous cases.
+Even if comments are returned to students on paper, the paper can, of course, be prepared using DTP.
+In particular copy-and-paste is valuable for:
+inserting pieces of the student's work into the marker's comments.
+inserting the output from checking programs, for example a list of spelling errors.
+inserting common paragraphs, for example if half the students make the same mistake, it is useful for the marker to prepare a paragraph explaining the error, and to paste this into each of the documents he is returning to the errant students.
+THE VIRUS THREAT
+Perhaps the biggest worry that most people have about embarking on an electronic coursework scheme is the problem of potential viruses.
+We shall therefore end by discussing this issue.
+A current trend in electronic publishing is to allow programmability.
+Thus there is a move towards active documents , where part of a document (for instance a table) can be generated by running a program rather than by being wired in.
+Similarly, hypertext facilities often involve programmability, such as is provided by the HyperTalk facility of HyperCard.
+Many systems allow completely unrestricted programmability, in the sense that it is possible to call up any other application or to execute any system command.
+Such programmability is an ideal platform for a virus: for example the marker might view a table in an active document; this runs a program that indeed generates a table, but as a side-effect deletes all the marker's files, and, for good measure, also sends some obscene mail to the University Chancellor, emanating apparently from the marker.
+Because of this danger we have taken the following preventive measures:
+running in a protected environment.
+Our ‘marker’ login is a separate login from our normal ones, and does not have write-permission to our other files.
+Thus the only files a student can delete or change are the files concerned with the marking exercise.
+(We wrote the marks themselves on paper, so that these could not be changed by program, though we also kept them electronically in order to allow electronic analysis of marks.)
+using the protections offered by the EP software.
+Specifically the hypertext system that we were using, Guide, offers a ‘safe’ mode whereby the reader is alerted before any program (or other potentially dangerous operation) begins.
+The reader can examine the program and prevent it running if it looks suspicious.
+It is also a comfort that we run in an environment where the whole file system is backed up every night.
+Perhaps disappointingly, after all this thought to protection from viruses, we have not been seriously attacked: the worst that happened was an attempt to lead us into an adventure game.
+However the best crime is undetected….
+CONCLUSIONS
+In conclusion, we can say that our experiences have been positive.
+In many fields of electronic publishing, electronic coursework is a must.
+Even if it is not a must, it is often worth applying as it helps the marker do a better job, in particular because he can use electronic tools to provide data that will aid his judgement.
+Electronic marking is particularly appropriate on large courses, since it helps avoid the problems of managing the handing-in of work.
+Lastly, perhaps the biggest danger of electronic coursework is the possibility of a virus attack, but if the marker is aware of the problem he can take reasonable preventive measures.
+ACKNOWLEDGEMENTS
+We have had useful discussions with our colleague, Ian Utting, and have drawn upon his experience of electronic marking.
+Our colleague Mark Wheadon has also given valuable help.
+Teaching electronic publishing to computer scientists
+H. BROWN AND I. A. UTTING 
+This paper discusses some of the issues involved in teaching electronic publishing to undergraduates specializing in computer science.
+It attempts to identify the significant differences between a course designed primarily for users and a course designed for specialists who may also become future developers and implementers.
+KEYWORDS Computer scientists Electronic publishing Principles Design
+INTRODUCTION
+Introductory electronic publishing courses are typically designed to teach students how to use a particular system.
+More advanced courses may include elements of document design, and a survey of available systems and technologies with a comparison of their capabilities, but they are still normally designed to teach specific skills and so may be considered as ‘service’ courses.
+An electronic publishing course for undergraduate computer scientists needs to cover a significantly wider range of topics.
+In order to be considered academically respectable it must provide an appropriate balance between theory and practice and — in addition to teaching specific skills — it should:
+identify and teach the fundamental techniques and principles used by electronic publishing systems;
+cover areas that are often carefully hidden from users (such as document structures, font information, and page description languages);
+take a broad definition of electronic publishing, covering hypermedia and active documents as well as high-quality formatting systems;
+look at existing and emerging standards.
+The advent of all-electronic documents and the incorporation of active elements into these and into documents intended for paper is leading to an integration of electronic publishing and other areas of computing.
+For instance, documents with processable elements can be viewed as interfaces to other systems, and hypertext and user interface design overlap substantially.
+Computer science undergraduates are in an ideal position to appreciate the possibilities of these advances, and to understand some of the more general technical problems associated with hypermedia.
+The sections below discuss the goals of undergraduate electronic publishing courses, and attempt to show how their content can be tailored to exploit the background and knowledge of computer science students.
+The discussion is based primarily on a current course at the University of Kent, but draws on experience we have gained from teaching electronic publishing in New Zealand, North America and elsewhere.
+TEACHING ELECTRONIC PUBLISHING AT KENT
+We have been teaching electronic publishing to undergraduate students for some ten years now, and to computer science undergraduates for six years.
+The course currently occupies one unit (one-eighth of a year's work) in the final year, and is optional for most students.
+It has regularly proved to be one of the most popular options.
+Since the course was set up, we have attempted to combine the service and academic elements introduced above.
+In deciding on the balance we consider the situations the students are likely to find themselves in during their future careers.
+Nearly all of them will become users of electronic publishing systems, many will find themselves responsible for such users (as advisers and managers), and we hope a significant number will become developers of innovative systems.
+We thus attempt to combine a general ‘literacy’ approach with a study of principles and design decisions, and to identify and describe relevant standards.
+The students have all used document preparation systems in earlier courses, and perhaps in previous careers, but they have no background in design.
+It is thus essential to cover the basic principles of digital typography and document design near the start of the course.
+Even for design, however, the skills of the computer scientists can be exploited in translating designs into the increasingly complex notations used by electronic publishing systems, and in understanding how the limitations and advantages of current and future technologies can affect design.
+Given the above considerations, our electronic publishing course covers the principles of the following areas:
+imaging device technologies;
+digital typography;
+basic document design;
+paragraph and page layout (based on the TeX model);
+penalty copy (tables, diagrams, mathematics, etc.);
+device independence;
+page description languages;
+structured documents and standards;
+hypertext and active documents.
+Throughout the course the principles are reinforced with practical experience and assessment exercises.
+Time and financial constraints, as well as a recent rapid increase in student numbers (90 in 1991, 125 in 1992), mean that we cannot make this as wide-ranging as we would like.
+In the early stages of the course, students use troff (plus preprocessors),LaTeX , and a small range of interactive systems, all running on our workstation network.
+At this stage they are encouraged to compare and contrast the facilities and user interfaces provided.
+Later on they write a PostScript program and use Guide and an SGML parser.
+DESIGN/LAYOUT
+This is undoubtedly the area in which the average computing undergraduate student is weakest.
+Experience has shown that, although all of them are readers, few if any have noticed that the design of the documents they read is the product of a rational process, let alone developed an awareness of what such a process involves.
+Given the disagreement between design practitioners as to what constitutes ‘good’ design, this undiscerning approach is hardly surprising.
+But it does mean that ‘principles of good design’ are hard to expound, ambiguous when they can be discerned, and hedged around with many caveats as to their applicability.
+There is no silver bullet, even on issues as basic as the preferability of ragged or flush-right margins.
+Fortunately (in an argument taken from Pirsig's Zen and the Art of Motorcycle Maintenance ) there is an amazing degree of agreement as to whether any particular example is of ‘high’ or ‘low’quality — which can be a useful lifeline for those lost in a twisty maze of conflicting advice.
+This approach can be combined with physiological and cognitive arguments (such as those rehearsed in Rubinstein) to which computing students are particularly susceptible.
+Unfortunately design issues are also the area in which most computing staff are weakest.
+It can be difficult to justify spending a large large amount of course time on design, but asking colleagues in design institutions to recommend or teach a useful (and usable) subset of document design to occupy just a few hours is not likely to elicit an encouraging response.
+The approach we have adopted is to provide an overview of current practice, and to reinforce this with examples from as wide a spectrum of opinion as possible.
+CHOICE OF SYSTEMS
+Teaching of general principles is often supported by the use of particular systems which embody them.
+This is the method which we have attempted to follow in our teaching of electronic publishing: using document preparation and hypertext systems to reinforce and practice the underlying ideas being expounded in lectures.
+In the area of hypertext, the choice of which particular system to use is essentially a pragmatic one; many of the available ones display appropriate behaviour at the depth to which they are likely to be investigated.
+In the area of paper-based systems, however, there is a more sharp delineation to be addressed.
+Document preparation systems based on mark-up (such as LaTeX ), while making explicit the crucial distinction between logical and physical structures of a document, are difficult for beginners to use, and provoke the frequent cry from those more interested in use than principle of ‘why use this, it's so much easier using [my favourite word processor]’.
+This argument will be familiar to anyone who has attempted to introduce new concepts to those with skills in an associated (but simpler) paradigm.
+However, it can be effectively combatted by setting exercises involving changes to an existing large piece of work, which has the added advantage of letting the students see the use of techniques beyond the scope of the assessment.
+We make relatively little use of the simpler DTP systems because they tend to obscure the logical/physical distinction and encourage students to invent design elements on a case-by-case basis as they create a document, leading to incoherent and inflexible document structures.
+On a more pragmatic note, using a DTP system for coursework requires that students have access to workstation or PC/Macintosh screens (of which we have dozens) for all stages of the assessment, whereas using markup-based systems most of the work can be performed from simpler terminals (of which we have hundreds).
+Despite this, the choice we make must be based on the degree to which the system exhibits the principles we are teaching.
+The recent negotiation by UK universities of favourable educational licences for Interleaf will enable us to take advantage of its object-oriented and highly structured approach to document specification, while giving students a much more attractive and easy-to-learn interface.
+DOCUMENT AND INFORMATION STRUCTURES
+ Throughout our course we place a strong emphasis on the logical structure of information and on the document and hypertext structures available to support it.
+Computing students are particularly strong in this area.
+Trees and directed graphs come naturally to them; they can understand the use of simple grammars to describe document classes and readily appreciate issues of object-oriented design, inheritance, and dangling cross-references.
+Similarly, when moving into areas of hypertext and active documents, they quickly understand how scripts or methods can be associated with active document elements and how these may launch other programs in order to provide database searching or other forms of specialized processing.
+There is little time within our course for students to experiment with information design in any serious way, but those who also undertake their major undergraduate project in this area frequently become ambitious in experimenting with complex information structures.
+Possibly they are apt to become too ambitious — they rarely succumb to the disease of ‘fontitis’ but are only too apt to have bad attacks of ‘linkitis’and ‘activitis’.
+This is an illustration of the well-known problem of computer scientists becoming so enthralled with their own inventions that they lose sight of the needs of users.
+STANDARDS
+At present there is little doubt about the important standards that need to be covered in an electronic publishing course.
+SGML and ODA are essentially the only two well-established official standards in the field.
+Currently the course covers PostScript as the de facto standard for page description languages, and introduces ODA and SGML as examples of standards for structured documents and as a vehicle for illustrating how to derive multiple views of a document from a single logical description.
+The picture will be a lot less clear in the near future.
+Many standards related to document processing have just been published or are currently going through the later stages of the ISO process on their way to becoming official standards.
+These can be divided into three distinct groups as follows:
+ODA-related — document application profiles (DAPs) and formal specifications;
+SGML-related — DSSSL for SGML document formatting and processing, SGML applications for hypermedia and music, and many miscellaneous support facilities;
+Document printing, filing and retrieval — the standard page description language (SPDL), font information, and document handling in a distributed environment.
+In addition, a number of hypermedia frameworks have been proposed, including HyTime which is an application of SGML for hypermedia and time-based documents.
+While no electronic publishing course can hope to cover the whole field, students should have some idea of the existence and relationships of all these standards.
+Within two years our course will probably include SPDL, a brief coverage of the ODA DAPs, and one hypermedia framework.
+DSSSL is a standard aimed at an important area, but including this may be a longer-term change as the current draft standard is unusable (there were 300 pages of adverse comments submitted during the recent international ballot).
+CONCLUSION
+Electronic publishing is a rapidly growing area with a multitude of different systems and techniques available.
+Our course makes no serious attempt to cover all areas that could reasonably come under the electronic publishing umbrella — database publishing, network information services, and (perhaps more seriously) CD-ROM publishing techniques are only given passing mentions.
+In spite of the incomplete coverage, however, we believe our students acquire a good understanding of most of the important basic principles and techniques.
+Their background makes it easy for them to appreciate and exploit the latest advances in active documents, and to see how document standards and document handling fit into the wider computing scene.
+Their experience of programming and software engineering enables them to accept the need for discipline and good design, and to understand the problems of handling really large documents.
+Although we cannot expect them to become typographers or graphic designers, we do believe that even in the short time available during our course we can give them what might be called an aesthetic awareness that will enable them to make reasonable decisions in their future work.
+ACKNOWLEDGEMENTS
+We would like to thank our colleagues, Peter Brown, Dick Jones, and Eve Wilson (who also teach on our undergraduate electronic publishing courses) for their help and ideas, and our students for keeping us on our toes.
+A Curriculum for Electronic Publishing
+P. HAMMERSLEY 
+1.
+INTRODUCTION
+In most disciplines it is not possible to say exactly when the discipline has achieved sufficient breadth and depth to be able to be considered as a subject in its own right.
+Is time alone the criterion?
+Computer-based typesetting began about thirty years ago, information retrieval is just as established whilst the ideas of hypertext go back even further.
+On timeliness alone Electronic Publishing (EP) could be seen to be established.
+Is this enough?
+Perhaps the true criterion is when the subject can justify an in-depth academically based course of honours degree standard, for which there is a market demand and a significant take-up.
+The papers presented at TEP'92 describe the objectives, content, learning strategies and assessment methods of a number of courses currently being mounted and all concerned with aspects of EP.
+They share the fact that they have all been of limited duration but, within that framework, one has been concerned with local skills training, four have involved modules contained within honours degree courses (Typography and Graphic Communication, Library Science, Publishing and Computer Science respectively) and one has been at postgraduate level.
+The content and learning strategies have been widely different.
+The courses described have all been European-based.
+Does this mean that, within Europe at least, the climate is not yet ripe for EP to be presented as a single-subject course in its own right?
+This paper attempts to address the question.
+It looks first at market demand.
+It then relates this to possible course contents.
+It examines the disciplines which must come together to support EP as a single subject, and it offers a possible global content for a degree-level course in EP.
+Initially this could be a minor subject in a combined studies degree (Computer Science and EP or Library Science and EP) but this is likely to be only a short step before the full degree course materializes.
+2.
+MARKET NEEDS
+For the purposes of this paper the market for EP professionals will be considered as divided between text, graphics and video processing and between technical or design issues and publication.
+In newspapers, for example, the production team are concerned with coordinating information retrieval and journalism with typesetting and composition.
+The publication team are concerned with the worldwide distribution, with local inserts, of the material generated.
+The publication team are also, however, concerned about competition and the impact of new technologies on competitive advantage.
+In this environment the production team will be looking for skills directed at the various processes used by the organization.
+They will see the gradual integration of text, graphics and video into a single multimedia approach as something which can be handled within the reskilling tradition which is now being established.
+The publication team will be concerned with much wider issues and the relationship of each to each other and to the future of the business.
+Hence the different parts of the organization will be looking for both short skill-based courses and longer discipline based courses to meet their needs.
+In the film and TV industry there is a mirror process.
+Computer-based techniques are both replacing existing techniques (in animation, titling, etc.) and offering extensions (interactive video, virtual reality, etc.).
+Again the technicians will continue to be skill-based.
+The programme developers and marketing departments must be more outward-looking.
+The scene in the newspaper industry is duplicated.
+Newspapers and film and TV are, however, the major players.
+Alongside them there are many minor players.
+Consider the small company which is in advertising.
+It produces adverts for TV, newspapers and quality magazines, and it uses the same initial filming for all three.
+Such a company will employ many skills associated with EP (integrating text and image, generating high-quality and low-quality frames from the same image, scaling, etc.) but it will be on a tight budget.
+It will be looking for widely based skills but will still be skill-orientated.
+The growth of EP has had a marked influence at the low end of the publishing business.
+Small companies have grown to exploit the cheapness with which low-print-run books can now be produced whilst many larger organizations have brought their company printing in-house.
+This has again generated a demand for specialists in the EP area.
+All of the above refers to the publishing industry alone.
+One must not forget that EP has generated its own industry as well.
+This also will require a mixture of skill- and discipline-based courses, although there is likely to be a greater emphasis on technical computing aspects.
+3.
+A RANGE OF COURSES
+The breakdown of requirements sketched out in Section 2 suggests a need for courses of each of the types given below.
+The courses would be organized around the concept of a module, which represents sixty hours of ‘class-contact’.
+This contact could be tutor-led, or could be practical or project-based.
+In a Diploma Level course it would be supplemented by self-organized practical work whilst, in academic courses ((c)–(g) below) there would be a requirement for personal reading and assignments.
+Either of these would double the study time needed.
+The types are as follows:
+(a)
+Directed skills training — Here the emphasis would be on acquiring the skills needed to operate particular packages effectively.
+Each package would probably equate to a half module and there should be a clear set of prerequisites.
+For example, no student should begin a DTP course without full competence in some word-processing package.
+No student should be introduced to troff or TeX without skills in both typographic design and computing.
+(b)
+Diploma-level skills-based education — Here the course would be longer-term (say twelve modules) and would assume that the students were either direct from secondary education or retraining from another discipline.
+Hence there would be a need for all the basic technology, design and business topics to be covered followed by appropriate modules in EP, again covering the technological, design and business aspects.
+(c)
+Modules in other academic courses — Such courses would be one module in duration and would concentrate on those aspects of EP of more direct relevance to the host subject.
+If, for example, the module were for Computer Science students then there would be a concentration on text processing, database publishing and communications.
+If it were for students in Writing, Publishing and Communications then more emphasis is likely to be given to editorial aids and to the structure of the publishing industry.
+Obvious candidates for EP modules are degrees in Writing and Publishing, Publishing, Information Science, Typography and Graphic Communication and Computer Science.
+Not surprisingly, most of these have been covered in the papers presented at TEP'92.
+The different emphases in the different courses leads to a particular problem for institutions with a fully modular structure.
+Here there will need to be not one module in EP but a variety of modules each geared to a particular path and each with a different set of prerequisites.
+Another option might be to regard EP as another aspect of IT Basic Skills (spreadsheet, word processing, data management, statistics, etc.) but such a module would seem to be consigned to the category of ‘skills training’ rather than being wholly educational.
+(d)
+A minor option in a combined studies degree — Such an option usually represents four or five modules.
+Here it would be wise to offer a set of modules limited to some aspect of EP rather than try to cover the whole in less depth.
+The set could be made up from many of the combinations suggested within the framework given in Section 4.
+(e)
+Degree course in EP — At present it might not be possible to justify a degree devoted wholly to EP but a twelve-module course covering the subjects listed in Section 4, with considerable emphasis on the analytical content and on multimedia project work, would certainly justify the provision of a course covering the final two years of a degree course.
+This would correspond to a named award in a combined studies degree or a tripos award in the Oxbridge sense.
+(f)
+Postgraduate conversion course — Such courses correspond in nature to the honours degree course for the conventional undergraduate.
+They must, however, take the subject to the limits of current knowledge and they are increasingly being based on the concept of a course built around a major (ten man-year) project.
+Frequently such courses are used by members of the publishing industry to introduce awareness into their organizations of what is likely to become possible in the future.
+Middlesex University currently offers such a postgraduate course.
+The length (48 weeks full-time) corresponds to the twelve modules of an undergraduate equivalent and covers all the topics listed in Section 4.
+There is, in addition, a heavy emphasis on personal research expressed in terms of contributions to major group projects.
+(g)
+Postgraduate special subject courses — However deep a conversion course may go there will always be a need for summer schools and for taught masters courses which investigate a narrower subject to the full depth of current knowledge and seek to probe even deeper.
+Digital Typography has achieved such status, Hypermedia is following.
+Middlesex University offers taught master's courses in Computer Animation and Computing in Design, and is proposing Design for Interactive Media.
+Perhaps a catalogue of such courses is overdue.
+4.
+COURSE CONTENT
+Electronic Publishing can be viewed from many directions.
+It is based on a number of fundamental technologies, such as hardware developments, software engineering (taken to include all aspects of programming and software development), telecommunications, computer graphics, human–computer interaction and information retrieval.
+On top of these one can consider paper-based publishing against video-based publishing or, alternatively, one may consider technology, design and information management (i.e. publishing) as three aspects of the problem.
+Whatever breakdown is chosen, the course content must address all the ensuing topics.
+What is important is that the three aspects of technology, design and publishing conventionally are addressed by different faculties in educational institutions.
+Technology tends to be the responsibility of the Faculty of Science, Publishing the Business School and Design the Faculty of Art and Design.
+It follows that, if a full course is to be mounted it must either attract support from all of the three faculties or must bring together an unusually diverse group of colleagues.
+Within the above breakdown one can suggest the following modules (none of which is comprehensive, only the flavour is indicated)— the way in which each of the modules would be approached is indicated in the sample courses given in Section 5:
+Supporting modules:
+(a)
+Hardware — characteristics and potential of the basic elements needed for EP operation and likely developments;
+(b)
+Software Engineering — principles of software design and generation;
+(c)
+Telecommunications — characteristics and potential of telecommunications plus a survey of carrier services available and projected;
+(d)
+Computer Graphics — characteristics and potential;
+(e)
+Human-Computer Interaction — psychological, ergonomic and social considerations;
+(f)
+Information Retrieval — databases, on-line and CD-ROM services, network services (VANs), broadcast services.
+Core modules:
+(a)
+Technology for Print — document structure, document preparation systems, DTP, DDLs, page description languages, text databases, standards;
+(b)
+Design for Print — type design, graphic design, composition products, separation;
+(c)
+Print Publishing — history, financial strategies, distribution, contracts, social considerations;
+(d)
+Technology for Multimedia — hypermedia etc., music and sound, interactive software, multimedia databases, intelligent systems, visualization, virtual reality, CAL, standards;
+(e)
+Design for Multimedia — design methodologies, media evaluation, HCI considerations;
+(f)
+Multimedia Publishing — financial strategies, market sectors (educational, music, art, etc., versus academic, business, popular, etc., versus newspaper, magazine, journal, book, video, etc.), comics.
+Elective modules (in the sense that the student chooses what to do, not whether or not(s) he does it):
+(a)
+Group Project Modules (from 1 to 4)
+(b)
+Proposition Modules (i.e., the study of a particular aspect to a depth greater than the other course members)
+5.
+SAMPLE COURSES
+Within the framework of the market needs, the suggested course offerings and the proposed course contents, the following sample courses are suggested.
+5.1 DTP skills
+Such a course would operate for one week full-time (half module), it would assume that the students are fully conversant with the principles of word processing and have the computer skills (i.e., disc and file handling, security, etc.) needed to operate a personal computer effectively.
+No knowledge of computer science or of the printing industry would be assumed.
+The course would be a very detailed coverage of the potential of and techniques for using a particular DTP package (e.g., Ventura) with some attention to questions of design.
+There would be no reference to the wider context (e.g., to compare Ventura with Quark-Xpress say) or to the techniques adopted by the package to produce its results.
+Assessment would be no more than a subjective judgement of how well the student could perform specific DTP tasks.
+To the successful a certificate would be awarded.
+5.2 Diploma-level courses
+In the United Kingdom diploma-level courses are normally associated with either school-leavers or individuals already at work who are seeking career advancement whose academic qualifications are weak but who would benefit from an extensive course but one whose approach is related to skills acquisition rather than in-depth analytical studies.
+The duration of the course would be two years full-time (12 modules plus a project).
+All of the topics listed in Section 4 would be covered but in a way that emphasizes the practical.
+Two possible approaches can be seen.
+For students who have a background in computing the treatment of the core modules could be in some depth, placing the emphasis, say, on producing software to implement new extensions of EP.
+For students whose background is more creative the treatment of the core subject areas would be more descriptive and more geared to understanding new applications of the existing technology rather than developing the technology itself.
+A mixed group of students would be catered for by placing greater emphasis on electives.
+All the topics covered would have to be placed in context but there would be no, say, comparative studies.
+Assessment would be by a combination of assignments, usually practical (e.g., prepare a magazine), projects and formal examinations.
+Although the latter would seem to be essential, they could contain a large proportion of practical exercises, as is common in papers in mathematics.
+Successful students would receive a diploma which would have a national (international?) standing.
+5.3 Single-subject degree or postgraduate conversion courses
+This paper assumes that students entering a course for a single-subject degree will have come from many backgrounds.
+Some will be technology-orientated, some will be creative and some will be business-orientated.
+Some will come directly from school, some will have spent a time in business and will be wishing to improve their qualifications.
+Some will have a clear career path, other will just be seeking education.
+All will have a positive academic ability.
+In such a course the emphasis will be on a uniform coverage of all the subject areas, allowing specific individual interests to be catered for by electives.
+The emphasis will be on putting everything into context, not only what a particular package achieves but how it does it, how it relates to the other packages in the same area and how it might be extended.
+A typical examination question could ask for comment on, say, how the designers of Word for Windows might have been influenced by Ventura Publisher.
+If a three-year course could be justified the supporting subjects would probably be covered in the first year but care would have to be taken not to put too great an emphasis on the technology.
+Assessment would include major group projects, in which the conduct of the project would count for as much as the end product, as well as written examinations.
+The written examinations would provide the opportunity for assessing whether the student had acquired a sufficiently analytical approach to the subject.
+Degree qualifications, of course, already carry international recognition.
+6.
+SUMMARY
+A set of modules, a selection of which should appear in any EP course, has been presented.
+A number of courses, which are operating now in institutions in Europe and were described in TEP'92, can be seen to fit within this framework.
+Often, however, the course content and objectives are determined by the special interests of individual members of staff in a particular department.
+It is suggested that the framework is sufficient to allow for the definition, within it, of an honours degree course in Electronic Publishing and that the time is ripe for such courses to begin to appear.
+These courses would be much more cross-disciplinary than is the case now.
+In the present paper no reference has been made to teaching strategies, teaching materials, bibliographies, equipment and software or other necessary support.
+The author would welcome responses from teams developing courses in EP, particularly in North America, with a view to publishing a much more elaborate framework (akin to that available for Computer Science), including the items which have been omitted this time.

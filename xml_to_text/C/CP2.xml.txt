@@ -1,0 +1,255 @@
+
+
+IBM ANNOUNCES SERVER VERSION OF CICS OS/2, PROMISES MAC CLIENT
+IBM Corp yesterday announced CICS OS/2 Version 2.0, a full function server implementation of the transaction processing monitor.
+It will be available on September 24 in the US and costs $800 for the single user version — direct successor to CICS OS/2 1.20, and $4,000 for the multi-user version; it also plans CICS for Mac.
+ICL DATA OF NORWAY TIGHTENS ITS GRIP WITH MERCANTILE DATA BUY
+ICL Plc's Helsinki-based ICL Data Oy yeeased its domination of the Finnish computer market by buying all the operations of Oy Mercantile Data Ab apart from its business of importing and marketing Compagnie des Machines Bull SA computers.
+The price paid was not disclosed.
+Mercantile Data's 1992 turnover was $23.2m; it was 80% owned by Oy  Mercantile Ab and 20% by Bull.
+ICL says that the deal gives ICL Data professional staff, new customers and significant new product representations.
+KUBOTA ANNOUNCES DENALI SUBSYSTEMS FOR ALPHA AXP
+As expected (CI No 2,116), Kubota Pacific Inc, Santa Clara, California, yesterday announced the availability of Titan 2.0 — now renamed Denali — a line of three-dimensional graphical and imaging subsystems for Digital Equipment Corp's Alpha AXP workstations running the OSF/1 operating system and built on the firm's own custom chip technology.
+Denali is configured at three levels: low-end E series models 15, 25 and 35 offer mid-range graphics performance; P series models 310, 410 and 510 deliver high-performance three-dimensional graphics imaging; while V series model 520 and 620, offer high-end texture mapping and imaging functionality.
+The eight models will be housed in pizza box desktops that plug into TurboChannel slots on DEC AXP 3000/400 and 500 workstations.
+Kubota claims performance ratings of between 200,000 and 1.2m shaded triangles per second and 350,000 to 2m three-dimensional vectors per second.
+The subsystems include texture mapping support, double buffer colour animation and hardware image processing.
+Two- and three-dimensional graphics and image processing is provided through a set of Transform Engine Modules and Frame Buffer Modules.
+Transfer Engine software handles functions such as light reflection calculations and geometry, while Frame Buffer Modules provide off- and on-screen memory, Z-buffer comparisons, alpha blending and compositing functions.
+Kubota says Denali offers binary compatibility with all applications supported by DEC's Alpha-OSF/1 systems and is upgradable from its existing Titan 1.0 series.
+Graphics standards support ed include PEX, PEXlib, DEC PHIGS+ and NPGL.
+UK prices start at from £11,300 to £40,700.
+The name Denali is the Innuit (Eskimo) name for Mount McKinley, which is Alaska's highest peak.
+HAL IS WORKING ON FOUR 64-BIT SPARC SYSTEM LINES
+HaL Computer Systems Inc, Campbell, California, remains secretive as ever, but a few details have emerged about the Fujitsu Ltd-backed company's plans — although some of it may be dated.
+The start-up company has been working on four lines of development, all using its own proprietary 64-bit Sparc implementation and the VME bus.
+Included are entry-level workstations, uniprocessor servers, a one-to-four CPU symmetric multiprocessor, and high-end clusters that come in both tightly and loosely coupled versions.
+At one time or another these projects were respectively code-named Alaska, California, Montana and Nevada.
+Alaska and California each had two versions named after cities such as Fairbanks and Nome.
+These two are still believed to be targeted at the sub-$10,000 and sub-$20,000 price points respectively.
+Product plans from 18 months ago called for first Alaska shipments this quarter, a date HaL is obviously not going to make.
+Observers however believe it will ship its first product before the end of the year after a lengthy alpha and beta test cycle.
+These observers also think HaL has outdone its original specification for Fairbanks and Nome and will get better than the 100 MIPS and 175 MIPS it was shooting for.
+California had been due in second quarter 1993, Montana at the end of 1993, Nevada, end-1994.
+DELL SAYS YES TO SOLARIS
+At the unveiling of Sun Microsystems Inc's Solaris implementation of Unix for Intel Corp processors, Dell Computer Corp finally confirmed that it will offer Solaris on its 80486 machines, and on its Pentium machines when they arrive.
+RACAL DATACOM WINS PREFERRED SUPPLIER STATUS AT BRITISH TELECOM
+Racal Electronics Plc's problematic data communications equipment business won a big fillip yesterday when British Telecommunications Plc announced that it would make the company its preferred supplier of new data communications equipment in the UK and internationally.
+The agreement covers high capacity integrated services digital networks terminal adapters, circuit back up units and digital multiplexers, dial-up and leased-line modems, and network management products and support services, and could be worth up to £40m to Racal-Datacom over the next three years.
+Shipments start in June.
+CRAY REPLACES ENTRY-LEVEL Y-MP EL WITH TWO-PROCESSOR EL98
+Cray Research Inc has completed the renewal of its supercomputer line with launch of the Cray EL98, its new entry-level machine, which offers times the memory of Cray's original Y-MP EL.
+Pricing for the two-processor EL98 begins at $340,000, the same price as the single processor Y-MP EL, and can be expanded to eight processors; existing Y-MP ELs can be upgraded to the new version; Cray says that it has taken five orders for the new machines, and expects to introduce the next generation of its supercomputer family by the second half of 1994.
+MCI DISPARAGES FUN-AND-GAMES TALE
+MCI Communications Corp describes a report in the Wall Street Journal that it is talking with several cable television companies about partnerships, with them possibly buying a stake in MCI as no more than rumour.
+IBM's FULL-FUNCTION CICS/2 FOR OS/2 2.0 HERALDS AN ERA OF CICS WITH EVERYTHING
+If you need a symbol for the changes going on in IBM Corp, look to further than the fortunes of CICS.
+The Customer Information Control Service once the most mainframe-esque piece of software, will ship on the AS/400 this month and on the RS/6000 in June.
+Yesterday IBM formally unveiled its full-blown version for OS/2.
+On top of that CICS, isn't even limited to IBM machines any more: last October an agreement was signed that will see it running on Hewlett-Packard Co's machines (CI No 2,019).
+IBM's portrayal of the subsystem has also evolved — originally it was a way to control thousands of terminals; now it is ‘middleware’ that helps developers to construct distributed applications.
+Indeed, ask an IBMer what the letters CICS stand for these days and the answer, delivered with hardly a grin will be ‘Certainly Is Client-Server’.
+CICS for Mac
+The process reaches its logical conclusion in OS/2 Version 2 and the news that Apple Computer Inc and IBM have started a joint project that will produce a CICS client for the Apple Macintosh.
+IBM says that it already has a prototype of the latter running in its Hursley Park facility and that the two companies ‘will move very quickly’ to bring the product to market.
+The Macintosh implementation, like OS/2 version 1 before it and the MS-DOS and Windows versions, are clients: simple, thin layers of software that provide application programming interfaces enabling the machine to interact with the main part of the application that runs on the server.
+But Version 2 of CICS/2 enables an OS/2 machine to act as the server for the first time — running fully-fledged CICS applications.
+If the product works as advertised, it could promote downsizing with a vengeance.
+At an early briefing the company said a high-end PS/2 Model 95 will be able to support 40 dumb terminals all carrying out transaction processing work — and that the limitation is imposed, not by processing power, but by the number of terminal adaptors that can be crammed into the back of the server.
+As for how many personal computers could be supported by a local network-connected PS/2, the company admits that it simply won't know until the code is finished, but the implication is that it will be many more than 40, and that the local network might run out of capacity before the server will.
+So it's not just the users that will be waiting for the results with interest — so will IBM's AS/400, RS/6000 and Enterprise Systems divisions.
+But who will buy CICS/2 version 2?
+IBM is going for two quite different markets.
+On the one hand there are the downsizers, who will be able to transfer their existing CICS programmers to the new smaller systems.
+All server versions of CICS should give programmers the same familiar application development environment and rich set of programming interfaces to hide the underlying machine and network — it's easy to see why this will aid downsizing, but it is not going to do much for IBM's hardware sales.
+The other market for CICS/2 may do something — the company hopes to sell it to are those businesses ‘upsizing’ their applications.
+This is a rather more nebulous concept, but IBM seems to believe that there are loads of small businesses that are currently running their operations on local network-based systems and are beginning to get to the size where they are beginning to need transaction processing facilities on their server.
+The example cited is something like a dentist's surgery where the system has to cope with payroll, patient records, appointments and the like.
+The problem for IBM is going to be how to sell it.
+Most of these potential customers are buying shrink-wrapped applications and dental practices are not suddenly going to employ a couple of CICS programmers to develop and maintain a bespoke system.
+Realising this, the company is trying to persuade value added resellers to incorporate CICS/2 into their applications.
+It is an imaginative plan — CICS becomes pure ‘middleware’, an application development layer buried deep within someone else's product, with IBM collecting revenue in terms of a licence fee.
+Early code
+This may prove CICS's biggest challenge.
+All of the other implementations (apart from the forthcoming Hewlett-Packard version) are sold on the back of legacy systems, or true-blue sites where CICS programmers abound.
+Selling to hard-bitten local network application developers will be quite a different prospect — there is no shortage of application development tools already available, though none has CICS's 24 years of transaction processing experience to draw on.
+Nonetheless 35 application developers have signed up to the early code programme, with the intention of modifying or developing applications to work with CICS/2, and IBM will break with tradition in mid-April when anyone will be able to get beta test versions as part of an early implementor programme.
+In the future we can expect to see CICS appearing on yet more machines, says Pat Sueltz, transaction systems director at Hursley Park.
+Perestroika has reached the point where she says ‘you are talking about Hursley Plc essentially…it's a question of ‘you go run it and do your thing’’.
+Doing their own thing in this case means spreading CICS around as promiscuously as possible: nothing is ruled out, they say — assuming that they customer wants it, not even a Macintosh server version.
+It seems a safe bet that a CICS NetWare Loadable Module will be forthcoming.
+YET ANOTHER NEW SUN UNIT TO BE FORMED, TO PUT MORE MUSCLE BEHIND PEDDLING SUN's CPU, SYSTEM DESIGNS…
+Looking to get more serious in its efforts to encourage the emergence of a thriving Sparcsystems-building community, Sun Microsystems Inc will open yet another new business unit this month that will licence the silicon and system designs of its next generation 64-bit UltraSparc, SuperSparc+ and MicroSparc processor families.
+To be called the Sparc Technology Business division, it will operate out of Sun Microsystems Computer Corp offices in Mountain View, California, and is to be headed by Sun vice-president Derek Meyer.
+Sparc Technology plans to offer three types of specifications; for silicon, Sparc Unix system and operating system-independent hardware.
+SuperSparc+ and MicroSparc-II specifications will be out in the summer, SuperSparc designs should be available next month, while the UltraSparc specifications won't be ready until the fourth quarter of next year.
+Sparc Technology will also market Sun's home-grown chip design tools, which include a database for each processor, plus diagnostic, simulation and debugging software.
+Sparc Technology's brief also covers responsibility for third party distribution rights.
+Sparcstation 10 and Classic LX system specifications will be available next month: plans for 45MHz SuperSparc+ Sparcstation 10 Models 52 and 54 and 50MHz SuperSparc+ Models 62 and 64 will follow later this year.
+Hardware design kits for boxes that will run non-Unix operating systems already announced for Sparc — such as Novell Inc NetWare and real-time environments — are available from next month, and other operating systems will no doubt follow.
+No prices were available.
+…
+AS 45MHz AND 50MHz SPARCSTATIONS, AND EIGHT-WAY SUNBOX ARE SEEN
+Meanwhile sources report that orders for Sun Microsystems Inc's SuperSparc-based Sparcstation 10 Model 41 dried up pretty early in the current quarter, because, it is said, the boxes weren't sufficiently leading edge in terms of performance, or priced low enough to satisfy.
+The company is also said to be having difficulty moving a significant amount of lower-end Sparcstation series 10s out of the channel and into end-user sites.
+Meanwhile, expectations are rising that Sun will soon announce its awaited 45MHz Model 52 and 54, which are to be dual and quad processor machines, along with perhaps an unanticipated 45MHz uniprocessor (the Model 51?) and a 50MHz single, dual or quad configuration (the Model 61?).
+There is also talk of an eight-way desktop and deskside system called the SunBox, which is again tipped to appear during the current quarter.
+CYPRESS WANTS INTEL TO TAKE ITS CACHE, MEMORY CONTROLLER FOR P6
+Cypress Semiconductor Corp's Ross Technology Inc microprocessor unit is talking to Intel Corp about applying HyperSparc's cache controller and memory management and multiprocessor technologies to the P6 chip — follow-on to the Pentium in the iAPX-86 family, Electronic News reports.
+The company did not deny the story.
+Quoting Cypress chief T J Rodgers, Electronic Engineering Times adds that the Ross Technology subsidiary could be shuttered if Sun Microsystems Inc doesn't pick up the 66MHz HyperSparc chip in a next-generation box — there has long been talk on Wall Street of a reorganisation of Ross.
+The company's next Sparc processor, the 100MHz Viper, has been put on the back burner pending Sun's decision.
+Samples of an 80MHz HyperSparc are expected to be offered by Cypress soon.
+NETWORK SYSTEMS CORP ANNOUNCES 5-STAGE STRATEGY FOR CONVERGING SNA, LOCAL NET, ADDING ATM
+Minneapolis, Minnesota-based Hyperchannel specialist Network Systems Corp has announced a five-stage strategy for converging SNA and local area networks, as well as plans for incorporating Asynchronous Transfer Mode onto its products.
+The announcements were made at the InterOp conference in Washington.
+As regards SNA and local network convergence, for the first half of this year the company will continue with its existing 4100 series,(used to integrate SDLC traffic onto Token Ring networks), the 6600 system for multiprotocol Token Ring routing, and the 6400/6800 modular system with multiprotocol routing.
+The second phase of the plan, to be implemented during the second half of the year, will see the company implementing 8209 bridging and router-based SDLC conversion on its 6400/6800 modular system.
+IBM Corp 3172 functionality will be provided on the company's router systems as phase 3 of the plan during the first half of next year, while during the second half there will be an expansion of multiprotocol routing with the inclusion of APPN/NN routing.
+Finally, in 1995 the company will implement encapsulation schemes for non-routable protocols within SNA/APPN and IP.
+The company's Asynchronous Transfer Mode strategy kicked off last month with the addition of an external Asynchronous Transfer Mode interface to its DXE product system using a cellifier from Digital Link, the DL3200/A.
+This is claimed to enable the DXE-based routers to communicate over an HSS interface at speeds from 1.5Mbps to 52Mbps.
+A significant advantage the company claims with this approach is that individual Permanent Virtual Circuits can each define its own Committed Information Rate, so that, for example , one virtual circuit could support channel extension while another handles bridged and routed traffic.
+During the fourth quarter of the year, an internal Asynchronous Transfer Mode interface will will be added, which is claimed to run at speeds of up to 155Mbps.
+The final stage of the implementation is to be a new system, the Enterprise-Router-Switch, built as part of the company's alliance with Northern Telecom Ltd.
+To merge routing and cell-switch functions, it is claimed to perform direct switching of Asynchronous Transfer Mode traffic, as well as Ethernet, Token Ring and FDDI traffic.
+It is to include direct wide area network connections for voice, data and video traffic, and provide redundancy, provisioning and management features.
+The company is claiming that it will offer a switching fabric bandwidth of 1.6Gbps (equivalent to a backplane of 3.2Gbps), have a modular 16-slot chassis, redundant power supplies, hot-swappable interfaces, offer auto-configuration, and network management and remote diagnostics features.
+ELTEC WANTS TO DIVERSIFY FROM CORE TRANSACTION PROCESSING MONITOR BUSINESS INTO SUPPORT SERVICES
+Eltec SA is keen to specialise in support services, forging alliances as and where necessary, rather than prolong its reputation as a transaction processing monitor firm.
+Managing director Jaume Brossa aims to boost the Barcelona-based company's hotline service, grow the communications and office automation business, and develop facilities management activities.
+About a year ago, Eltec set up 15 Service Centres for the Public, CAPs, which deal solely with repairs for anything from personal computers and mobile phones to Nintendos.
+The CAPs currently generate 3% of the firm's turnover, but Brossa plans to double the number of centres in the near future.
+He also intends to develop the cash dispenser business, which accounts for 1.5% of turnover at the moment.
+Microcomputing makes up almost 50% of revenues, point-of-sale terminals 29.8%, and terminals, 18.8%.
+Eltec is 100%-backed by Spanish capital and is part of the Barcelona-based Aguas de Barcelona Group.
+It was set up in 1985 as a pioneer of transaction processing monitors, but developed into a computer services company.
+In Brossa's opinion, the transaction processing monitor market has matured considerably over the last eight years.
+And, as industry opens its eyes to the benefits of computer services, the balance is now changing.
+He believes the ‘crisis’ in the computer industry stems from the market changing from being technology-driven to customer-driven.
+Manufacturers and specialists are struggling to respond to constantly changing requirements, he said.
+Still, he does realise that service companies will feel the pinch too, and won't be immune from the effects of the personal computer price war.
+The group, with a total of 1,500 customers, has focussed primarily on the financial sector, where it generates 69.8% of turnover.
+Some 11.5% comes from industry, 9.8% from government, and 7.5% from and small to medium-sized companies.
+With an estimated 1992 turnover of $36m, up from $31.5m in 1991, Eltec is currently pursuing an expansionist strategy.
+It has both acquired computer maintenance firm, Barcelona-based Morsa Mantenimiento de Ordensdores SA, which turned over $2.7m in 1991 and was also part of the Auguas de Barcelona Group, and last year, set up a subsidiary in Portugal, which it called LUMA.
+In addition, the group is closely involved with developments in the rest of Europe via its affiliation to Euroserv.
+While it intends to move into overseas markets, it will do so at its own pace, Brossa added firmly.
+IBM REMAINED THE MARKET LEADER IN SPAIN IN 1992
+While IBM Corp is still the most popular manufacturer in Spain, in 1992 both hardware and software sales from all vendors were below forecasts made at the end of 1991.
+These are the findings of a Price Waterhouse report, based on questionnaires sent out to all major information technology purchasers in the country.
+The study was subsidised by the General Board of Electronics and New Technologies, which is answerable to the Spanish Ministry for Industry, Commerce & Tourism.
+While some data is yet to be confirmed, hardware had a bad time in 1992.
+Some 51.2% of those questioned at the end of 1991 said that they planned to buy more hardware but only 40.3% actually did.
+Software sales also declined.
+About 44.9% of purchasers in 1991 said they would buy more software.
+Only 39.8% did.
+The only software sector that improved was finance and insurance, with 53% saying they had bought more.
+Development of proprietary applications fell 10 points.
+But users' manufacturer preferences changed little from previous years: 90.4% chose IBM, followed by Digital Equipment Corp at 45.6%, Hewlett-Packard Co at 43%, NCR Corp 41.1%.
+NORTHERN TELECOM WINS DPN-100 BUSINESS FOR BUSINESS NETWORK
+Northern Telecom Ltd's DPN-100 broadband data network system is to be installed for a new system created by Telefonica de Espana SA called the Advanced Business Services Network, in an order worth $23m.
+The first 1,000 ports of this network have already been installed and accepted by Telefonica, which intends to introduce a large number of new network services aimed at covering the information needs of Spain's largest companies.
+Telefonica's users will also gain access to its Virtual Private Network, and Telefonica will have at its disposal the features of a SNA/SDLC advanced network for users with IBM Corp equipment running NetView.
+The DPN-100 is based on wide area data network systems which offer the user interconnection with multi-vendor data processing developments, including high-speed point-to-point interconnection.
+So far more than 100 DPN-100s have been installed in private and public companies around the world, including the SITA airline and SWIFT interbank networks.
+ONLY SOFTWARE AND SERVICES SAW ANY GROWTH IN 1992 — SEDISI
+With the exception of software and services, the Spanish computer industry suffered negative growth in 1992.
+These were the findings of the Spanish Association of information technology companies, SEDISI, after questioning some 58% of all information technology companies in the country.
+SEDISI concluded that volume sales were down 5.7% on the previous year at $6,918m.
+In contrast, 1990 saw the market grow 8.9%, and 3.9% in 1991.
+The most badly effected sector was consumables, where revenues dropped 19.7%.
+Hardware sales also fell 15.4% compared with last year, followed by employment figures, down 3.72% on 1991.
+The only bright spot was provided by software and services, where turnover increased by 4.3% and 12.1% respectively.
+Alarmingly, the last quarter of the year, which traditionally shows good levels of business, saw volume sales decline 20.2% to $2,011m.
+Hardware revenues dropped 30.8%, consumables by 30.6%, employment declined 4.2%, and even software fell 1.7%.
+Only services managed to grow by a meagre 2.4%.
+RUBI GETS TECHNOLOGICAL DEVELOPMENT CENTRE
+A Technological Development Centre is being set up in Rubi, near Barcelona, to offer local companies specialised support services with the aim of boosting business management and new technology.
+The move stems from the acceleration of technological change in the region, and from the need for firms to be ever more technologically innovative and competitive.
+The project is a joint venture between the Catalan Institute of Technology and the Rubi Town Council's Institute for Economic and Social Advancement.
+The centre, at the Information Technology and Tele-communications Services Office, will provide a viewdata service, with in-formation on companies, trade fairs, legal and technical regulations, and the like.
+It will also offer specialised training, both at the centre and on site with individual firms, while a consultancy service will advise customers on such topics as industrial quality, industrial automation and the environment.
+PSION RETURNS TO £1.4m PROFIT FOR 1992, HELPED BY IN-HOUSE MANUFACTURE, DACOM IN THE BLACK
+Psion Plc has made a strong recovery for the year to December 31 due to a large increase in both international sales and sales of its Series 3 range of handheld computers to the retail sector.
+The portable computer, data communications equipment manufacturer and software developer turned in pre-tax profits of £1.4m against losses of £2.2m last time.
+This helped reduce gearing from 28.1% in 1991 to 21.7% in 1992.
+Turnover also grew 64.5% to £35.1m, which chairman David Potter said ‘represented both recovery and growth’.
+As a result of this increase in sales, and caution on the company's part following financial difficulties during 1990 and 1991, research and development expenditure has now fallen to approximately 4% of turnover, or £1.5m.
+This investment will increase over the next two years though, Potter said, to maintain growth and ensure that the company remains competitive.
+Gross profit margins were lower than budget though, he said, which resulted in a ‘less than satisfactory return on sales’— high sterling levels during most of 1992 and higher costs than anticipated during the early development phases of Series 3 had a negative impact, while modest sales levels to the traditionally lucrative UK corporate market meant that margins were below expectations.
+Still, Potter said that as ‘sales, profitability and liquidity have progressed well in the first quarter and the outlook is good’, the board is recommending an increase in the final dividend to 1.5 pence from 1.4 pence per share last time.
+This brings the total to 2.5 pence for the year, 4% up on 1991.
+Overseas business is fundamental
+International sales, equally divided now between corporate and retail sectors, rose 64% to £15.8m, and currently generate over half of the London-based group's turnover.
+Approximately 60% of this growth came from Europe and the rest from the US.
+But according to Potter, further development of overseas business is fundamental to Psion's future growth strategy.
+So, in an attempt to focus more strongly on these markets, the company centralised its operations as of January 1 1993.
+While Psion Plc was formerly just a holding company that also conducted research and development, it now undertakes procurement, manufacturing and supply for both trading companies and distributors worldwide.
+Psion UK, associate company Psion BV in the Netherlands, Psion GmbH in Germany, and Psion Inc in the US simply market and distribute products to their local markets.
+Third party distributors perform the same role in areas where the group does not have offices.
+The company considers Germany to be a particularly key market, and during the year Psion GmbH broadened its customer base to cover not just the corporate market, but also retail outlets.
+As a result, turnover rose 90% to £3m, with profits of £131,000.
+Potter expects this operation to show further growth and increased profits over the coming year.
+Psion Inc also began selling via retail outlets in May, and by the end of the year had some 200 under its belt.
+Although Potter said that sales via these outlets were strong, he is keen to win more, the aim being to increase market share.
+He is eager to cultivate such sales channels worldwide because he feels them to be an under-exploited source of revenue.
+And he certainly believes that retail outlets offer massive sales opportunities for the company's Series 3 palmtop computer.
+In the UK retail market, at least, strong sales of the machine led to a trebling of turnover, to £10m in 1992 from £3.4m in 1991.
+Psion intends to invest substantially in expanding the range, but reckons it will have to cut prices below $500 to sell in high volumes.
+Total revenues generated from Series 3 sales rose to £18.2m this year from £1.9m last, including £2.5m sales from peripheral products.
+But since the company opened its surface mount assembly and final assembly facilities at its factory at Greenford, Middlesex, the cost of assembling each unit has fallen progressively, Potter said, while production rate has increased.
+This means that manufacturing has become more cost-effective, he claimed, as stock turnover is faster and there is no material increase in the value of the company's inventories.
+Psion also intends to implement a just-in-time strategy both at this site and at Psion Dacom to further reduce working  capital requirements.
+It now manufactures and assembles over 65% of its products in-house.
+Other offerings include the entry-level Organiser II portable range, which after eight years on the market saw sales drop to £10.3m from £13.8m.
+Although financial director Michael Langley said that the product is approaching the end of its life, he believes ‘there are a few years in it yet’, and expects 1993 sales levels to be maintained at roughly the same as 1992s.
+The HC line complements the Organiser at the high end of the market, and generated £2.6m turnover this year compared with £900,000 in 1991.
+Sales at data communications equipment manufacturer Datacom grew to £2.9m this time from £2.7m last, and it has finally returned to profit after a troubled 1990 and 1991.
+While in the past, Dacom sold purely to the UK corporate market, it will soon begin exporting to Germany, having won a government licence to sell there.
+It also hopes to procure similar licences elsewhere in Europe.
+All of the above products are sold predominantly to the corporate market, and are particularly successful with field workers such as service engineers, salespeople and insurance agents.
+Despite squeezes on capital expenditure in this sector, total sales did increase slightly to £9.3m from £8.3m in 1991.
+COMPANY RESULTS
+Celutel Inc has turned in third quarter net losses of $1.5m down from losses of $1.7m last time, on turnover up 69.4% at $5.8m; net losses for the nine months stood at $3.9m down from losses of $5.2m last time, on turnover that rose 52.2% to $15.3m.
+DBA Systems Inc has reported second quarter net profits up 6.8% at $595,000, on turnover down 20.5% at $7.9m; mid-term net rose 16% to $1.1m, on turnover down 15.3% at $16m.
+Net per share fell 11.8% to $0.15 in the quarter, 6.5% to $0.29 in the half.
+Data Switch Corp has reported fourth quarter net profits down 74% at $233,000, on turnover down 36.3% at $18.6m; net losses for the year to December 31 stood at $1m down from losses of $32.4m last time, after $425,000 extraordinary gains last time, on turnover that fell 18.4% to $84m.
+Net earnings per share fell by 75% to $0.02 in the quarter.
+Psion Plc has reported net profits of £960,000 for the year to December 31 against losses of £1.8m last time, on turnover up 64.5% to £35.1m.
+Pre-tax profits stood at £1.4m against losses of £2.2m last time.
+Earnings per share amounted to 4.3 pence.
+WALL STREET AWAKES
+Wall Street yesterday finally woke up to what we have been saying since January — that IBM Corp sets its dividend for one quarter at a time, and that there is no guarantee that the level declared for fourth quarter 1992 will be maintained quarterly this year: market dealers in Europe say a rumour surfaced here yesterday morning that another cut may be coming.
+WESTERN DIGITAL CHAIRMAN GETS NOMINATION
+Western Digital Corp chairman and chief executive Roger Johnson has been nominated to head the General Services Administration US government watchdog by President Clinton.
+AVESCO TO DEMERGE VIDEOLOGIC SUBSIDIARY
+Avesco Plc yesterday announced plans to demerge its VideoLogic Ltd multimedia subsidiary, which has joint venture agreements with IBM Corp: it says that Videologic's turnover for the year that ends today will be not less than £10.4m, which is an increase of 44% over last year: Avesco also plans to raise £12.1m net of expenses in a one-for-three rights issue at 63 pence; the news put 12 pence on the share price, which reached 97p.
+QUALITY SOFTWARE PRODUCTS HOLDINGS SOAR
+Shares in Gateshead-based Quality Software Products Holdings Plc soared to a 41% premium to the 380 pence issue price when trading began yesterday on the London International Stock Exchange: they were firm at 537 pence by mid-morning.
+AT&T REPORT $100m POLISH ORDER
+AT&T Co reports a $100m order for telecommunications equipment from the Polish PTT, Telekomunickacja Polska: the order covers 200,000 digital telephone lines, optical transmission systems, operations systems for network management, and fibre cable equipment for Gdansk.
+7-ELEVEN JAPAN CHOOSE HEWLETT-PACKARD
+Hewlett-Packard Co has been chosen by 7-Eleven Japan Co Ltd to supply an open-system-based computer network worth more than $12.5m, which will link 7-Eleven headquarters in Tokyo and about 30 district offices throughout Japan: the system consists of five HP 9000 Series 800 business servers and more than 200 HP Apollo 9000 Series 700 workstations and HP 700/RX stations, to be linked to an Hitachi Ltd mainframe.
+DIGI INTERNATIONAL AGREEMENT TO ACQUIRE STAR GATE TECHNOLOGIES
+Minneapolis-based Digi International Inc has definitive agreement to acquire fellow data communications systems specialist Star Gate Technologies Inc in a share exchange transaction valued at about $10m: Solon, Ohio-based Star Gate did $885,000 net on turnover of $10.7m for the 10 months to January 31.
+VODAFONE COME OUT WELL IN OFTEL SURVEY
+Vodafone Group Plc claims that a survey by the Office of Telecommunications shows that it provides the best quality of service available to mobile phone users: Vodafone has more than 820,000 of the 1.4m UK subscribers and in its first quality survey Oftel monitored 120 routes across the UK, finding that Vodafone had an overall success rate for call connection of 93% against 88.7% for Cellnet Mobile Communications Ltd; some 95.8% of calls on Vodafone's network from mobile to fixed line phones were set up and completed at the first attempt, said Oftel, compared with 92.5% on Cellnet's network; fixed to mobile on the same basis were 92.4% for Vodafone and 89.8% for Cellnet; Cellnet reckons it comes out tops in trials of hand portables in the Greater London area.
+IMPROV FOR WINDOWS SALES SURPASS 125,000 UNITS
+Lotus Development Corp says it has sold more than 125,000 units worldwide of its new dynamic spreadsheet, Improv for Windows, in the first month since it became available in retail outlets: Improve is being offered at $100 until May 31.
+RELEASE 2.0 OF CA-CRICKET DRAW III NOW SHIPPING
+Islandia, New York-based Computer Associates International Inc says it is shipping release 2.0 of its CA-Cricket Draw III object-oriented drawing program for producing graphics on Apple Computer Inc's Macintosh; the thing sells for $250.
+NEWBRIDGE TO SUPPLY PRODUCTS FOR GLOBAL FINANCIAL NETWORK
+Newbridge Networks Corp reports that the Financial Network Association made up of 12 telecommunications companies, has chosen Newbridge to supply network management products for its global financial network: the Association includes Bell Canada Inc and MCI Communications Corp; construction and testing is due for completion in June, with customer trials and service to follow; Stentor, the Canadian consortium that includes Bell Canada, is global network administrator.
+SHARP R&D EXPENDITURE REMAINS UNCHANGED
+Investments in Flash memory and liquid crystal diode displays mean that Sharp Corp will keep both capital and research and development expenditure almost unchanged in the fiscal year starting tomorrow: Sharp will invest $225m to double output to 200,000 displays a month and will add $130m to the $86m already invested in fabrication plants for Flash memory, using the design it licensed from Intel Corp; and it is plans to invest $86m in research and development.
+STAC ELECTRONICS MEETS COMPRESSION CHALLENGE
+Carlsbad, California-based Stac Electronics Inc is meeting the challenge of the built-in data compression in MS-DOS 6.0, formally launched by Microsoft Corp yesterday with its own new Stacker 3.1 for Windows and MS-DOS: the company says the new version achieves new levels of safety and ease of use by taking advantage of special operating system features available for the first time in MS-DOS 6.0; when loaded, it replaces Microsoft's DoubleSpace, and integrates the Stacker LZS compression into the operating system, and Stac claims that unlike DoubleSpace, which is based on data compression technology licensed from Vertisoft Systems Inc, $150 Stacker 3.1 is also fully compatible with earlier MS-DOSes.
+NT-BASED SQL SERVER TO SHIP IN THIRD QUARTER
+Microsoft Corp says its NT-based version of SQL Server will ship in the third quarter with full multi-processor support; SNA server gateway will arrive at the same time, while products from its Hermes network management technology effort, will appear in the fourth quarter.
+IBM'S PERSONAL COMPUTER PROMISE
+Trying to get an edge — which will count for very little unless the price is right, the IBM Personal Computer Co says that all its new business-oriented personal computers will be designed to comply with the most comprehensive worldwide health, safety and ergonomic standards by year-end: the promise covers desktop and floor-standing units, displays and keyboards; it claims it will also be the first computer manufacturer in the world to test these products for compliance with the International Standards Organisation Standard 9241, which addresses the health, safety and comfort of display terminal users starting with premium PS/2s.
+APPLE TAKE POWERCD TO THE US MARKET
+Apple Computer Inc yesterday took the new PowerCD CD-ROM product, announced at Hannover last week, to the US market, saying that it expects to sell 1.5m of the things by the end of this year; it also said it has shipped more than 1m copies of its QuickTime multimedia software since its launch in January 1992, and has formed a new unit, New Media to increase market access to multimedia technologies, expand multimedia content and develop new markets for Mac technology; the PowerCD comes with AppleDesign Powered Speakers claimed to deliver high-quality sound at half the price of similar stereo speakers.
+PASSING THE BUCK
+Overheard backstage at a UniForum party in San Francisco: AT&T Co's Bob Kavner, speaking to Novell Inc's Ray Noorda and Santa Cruz Operation Inc's Doug Michels —‘I've had it, dealing with this crap all these years — now I hope that you guys can make a buck out of it.’

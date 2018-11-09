@@ -1,0 +1,594 @@
+
+
+COMMENT
+Free the campus entrepreneurs
+BREATHLESS PHONE calls first thing in the morning; indecipherable typescripts bristling with spidery illustrations; wild-eyed magnetic levitationists turning up at reception —New Scientist has dealt with the British inventor in his most extreme forms.
+Lone inventors are by no means all nutters, but we can sympathise with anyone who has to deal with them all the time.
+That is one of the jobs of the British Technology Group (BTG), which the government created in 1980 by merging the National Enterprise Board with the National Research Development Corporation.
+The BTG's job, according to its latest annual report, is ‘to promote the development of technology throughout British industry and to advance the use of British technology throughout the world’.
+To achieve this goal, the MTG has a priceless asset a ‘first bite’ at the patent rights and market opportunities of any invention developed in Britain's universities and government research laboratories.
+Now the departments of education and industry — against the wishes of the Treasury — want to take away that first bite.
+They plan to give university researchers the chance to patent and exploit their own inventions (This Week, p 141).
+Such a move will provoke howls of rage within the BTG —‘Britain will lose the fruits of its research’, ‘where will inventors turn to for impartial advice’— and so on.
+But for once, the government is right in this move to ‘privatisation’.
+Although it has mended its ways in recent years, the NRDC deserves some of the criticism that has come its way.
+It has been too complacent in collecting large sums of money from a few lucrative inventions, such as the cephalosporin antibiotics, and has not taken on enough risky new ventures.
+Indeed, its method of taking decisions is inherently biased toward caution.
+As one vice-chancellor said to New Scientist this week, ‘a government scientist does not stand to gain anything by backing a successful idea.
+But if he recommends support for an idea that does not work, he will hear all about it.’
+Caution and innovation do not mix.
+So what can be done?
+First, the government should not abolish the BTG.
+If anything, like the Patent Office, it probably needs more staff to deal properly with new ideas and to advise inventors.
+Most importantly, it needs to be able to tackle the ‘pre-development gap’— the time between an idea and a prototype.
+To develop ideas at this stage means taking risky decisions, so the BTG must have the cash to throw after promising ideas.
+And it must be prepared to lose a few million pounds in the process.
+Where does this leave scientists at universities?
+Some innovation-inclined institutions, such as Salford and Heriot-Watt, already have the expertise to put inventions on the market.
+Others will have to learn, and some will get their fingers burned.
+Without the NRDC to blame, academics will have to take the task of innovation more seriously.
+The British Technology Group should be there to support them — but it should not have a monopoly on Britain's brains.
+The shadow of Zeta
+TWENTY-FIVE years ago Zeta was heralded as proof that science had tamed the process that powers the hydrogen bomb — fusion.
+Cheap electricity would soon be issuing forth from reactors fed by an inexhaustible resource — seawater.
+It did not work out like that, and the world still awaits that scientific proof (this issue, p 166).
+The scientists involved blame the press and its lurid headlines for giving people the wrong impression about Zeta.
+But if the project's scientists — and the intellectual giants who ran Britain's nuclear programme at the time — weren't all that sure about the measurements, why did they call large press conferences (on 23 January, 1958) and flood the scientific press with detailed descriptions of the work?
+The answer to these questions lies in the intense international rivalry to be first with fusion, a rivalry that persists to this day.
+Also still with us is the ‘imminent’ proof that fusion will work, not to mention the hyperbolic headlines.
+‘Scientists achieve nuclear fusion’, ‘US triumph in race to tame nuclear fusion’, they said when Princeton turned on its large new experiment (New Scientist , 6 January, p 8).
+Well, not quite.
+Maybe next year, or the year after.
+In the meantime we can mark the anniversary of Zeta.
+It isn't rewriting history to say that the project was a successful one, albeit less spectacular than first thought.
+Perhaps next time…
+An ear for detail
+Acoustic microscopy uses sound waves to reveal the structure of materials in fine detail, even probing within specimens where optical microscopes cannot see
+James Hansen
+Microscopy has come a long way since the 1670s when Antonie van Leewenhoek used his relatively crude instruments to see for the first time the bacteria that inhabit worlds normally hidden from the naked eye.
+In recent years first electrons, and now sound waves, have become tools of the microscopists' trade that were unimagined in van Leewenhoek's day.
+Indeed, the acoustic microscope complements well the capabilities of optical and electron microscopes, offering important advantages in certain areas.
+When you ‘look’ with sound you may discern things not visible with light or electron beams; it is even possible to look inside a piece of material, whether a living cell, a printed circuit or a block of metal.
+The first scanning acoustic microscope (SAM) was built in 1973 by a team at Stanford University in California, headed by Professor Calvin Quate.
+This group has been doubling resolving power of the SAM (its ability to see detail) every year since its invention, and the device can now surpass the resolution of the best optical instruments.
+The most recent results indicate a resolution of 0.09 micrometres, which means that the SAM at Stanford can distinguish two points separated by one ten-millionth of a metre.
+This is an important achievement, for microscopy is concerned not only with magnification; you could project a tiny image on to a cinema screen and obtain enormous magnification without seeing any more detail.
+Quate says that the latest result is so close to the theoretical maximum that his team is now going to concentrate on making the SAM easier to use, rather than pushing ahead with improving the resolution still further.
+But how did the idea that sound might be suitable for microscopy arise?
+The original suggestion was made by a Russian physicist, D. Y. Sokolov, in the early 1950s.
+He noted that the wavelength of sound in water at a frequency of a few gigahertz (thousand million cycles per second) is comparable with that of visible light.
+And because the upper limit of a microscope's resolving power depends on the wavelength of the waves illuminating the object under study, Sokolov suggested that an acoustic microscope should in theory be able to resolve images just as well as the standard optical system.
+Sokolov's idea was good, but it had to wait more than 20 years before the technology to implement it was invented.
+An acoustic microscope depends, logically enough, on an acoustic lens.
+In the case of the SAM, this is a tiny spherical depression ground into the end of a sapphire rod.
+At the other end of the rod is a transducer which sets up a controlled vibration within the sapphire.
+The vibration takes the form of an acoustic wave travelling down the rod.
+The depression at the end serves to focus the wave to a fine spot, which ideally should be in the region of one wavelength in diameter.
+The acoustic ‘illumination’ focused by the sapphire lens quickly dissipates in air, and so the lens is held in indirect contact with the specimen being studied by a ‘coupling medium’.
+The coupling medium in the first SAMs built at Stanford was water.
+In this case the high-frequency waves pass through the medium, are reflected off the specimen and then bounce back up the sapphire rod to the transducer, which converts the returning sound into an electrical signal.
+The strength of the sound wave coming back up the rod depends on how much acoustic energy is absorbed by the material at the microscope's focal point.
+An image, an acoustic picture is built up by scanning the focal dot over the specimen's surface.
+The mechanical scanning is synchronised with the scan of a television tube.
+So, in effect, the SAM works by taking an enormous number of individual measurements of acoustic reflectivity and converting them to equivalent light and dark dots on a TV screen where they can be seen by the human eye.
+The convention is for light dots on the screen to represent areas of high sound reflectivity, that is, areas where a greater amount of acoustic energy bounces back to the lens.
+The dark dots then show where more sound is absorbed.
+When it comes to making practical use of this new technology, one of the important aspects of acoustic reflectivity is that it does not always paint the same picture as does light.
+Two substances that look about the same under light, or in other words, reflect light in about the same way, may be totally different in regard to how much sound they absorb or reflect.
+This means that acoustic microscopy shows exceptional potential for the study of biological systems in particular.
+To be seen clearly under an optical microscope, cell tissues often have to be stained to increase contrast.
+This is time-consuming, often kills the specimen and, in any case, raises the question of whether the staining itself might not affect the very phenomenon being studied.
+Because acoustic absorption and the absorption of light depend on different principles, there is no need to boost artificially visual contrast by staining.
+Acoustic microscopy also offers certain important advantages over electron microscopes, which are very difficult to use to study life in action.
+For instance, the specimen in an electron microscope has to be held in a vacuum to minimise the scattering of the electron beam due to collisions with molecules in air.
+The usual way to overcome this problem is to cover the specimen with a liquid to protect it from the vacuum and then increase the power of the electron beam so that it can penetrate the protective fluid.
+Then, though, there is the risk that the beam itself will interfere with and possibly kill the organism under study.
+On the other hand, room temperature acoustic microscopy with a harmless coupling medium such as water seems not to interfere with the processes of life.
+At least as much interest has been stirred up by another special ability of the acoustic microscope; to see beneath the surface, look into things, whether or not they are transparent to light and other forms of radiation.
+Sound waves can go where light cannot.
+Think of the man who has to hang a kitchen cabinet in a frame house.
+Behind a blank and perfectly uniform wall, he needs to find the studs to which he can attach the cabinet.
+If he takes an (optical) photograph of the wall he will have a snap of featureless plaster, as the light is reflected back from the surface and not from inside the structure.
+A few clever and overequipped craftsmen have a little magnetic device to locate the studs by finding the nails driven into them, but most people would just bang on the wall until they hear a thud that is duller than the others.
+They are, in effect, measuring differing levels of sound absorption.
+The scanning acoustic microscope can turn this sort of variation in the amount of sound energy absorbed or reflected within a specimen into an image that the human eye can interpret.
+In practice, the SAM cannot look very deeply below the surface of an object.
+The more material the sound wave must pass through, the more it becomes attenuated, losing its strength and ability to carry coherent information.
+The necessary trade-off between resolution and penetration limits the maximum depth presently attainable to a few millimetres.
+But that can be enough to allow some interesting results.
+Robert Gilmore, of General Electric in Schenectady, New York, has used the SAM to make a microphotograph of the image of the Lincoln Memorial that appears on the American one cent piece, but from the wrong side of the coin!
+While no one is ever going to be able to focus a SAM on a human heart operating in the ordinary way within the body, many researchers are interested in exploiting this special ability of the acoustic microscope in other ways: to detect otherwise invisible defects inside silicon chips and other microelectric assemblies.
+A team at University College, London, produced the first clear pictures of interiors, using microchips as the specimens.
+These defects, which are bubbles, cracks and delaminations, are not necessarily visible even under the highest magnifications of optical or electron microscopes as they may be hidden by other elements of the circuit in layers above the flaw.
+Straightforward electronic testing of the assembly, that is, seeing if it does all the things it should, is slow, costly and may still fail to reveal some imperfections.
+A circuit with a tiny hidden crack may seem to function adequately, but that crack can become a pathway for corrosion which can cause failure of the device later on.
+The technique is likely to have other applications in the electronics industry.
+It should prove an efficient means of probing microcrystalline grain structure, properties of alloys and the surface texture of materials used to fabricate electronic components.
+It is this industrial market that excites potential manufacturers of acoustic microscopes.
+Olympus Optical of Tokyo, is already marketing a SAM and the West German company Leitz is preparing a model that it will reveal in public later this year.
+Towards higher resolution
+The scanning acoustic microscope will have other commercial uses outside the electronics industry.
+At Stanford, Quate has been using the instrument to study coal.
+The advantage of the SAM over optical equipment for the same purpose, he says, depends on the fact that coal is black, and absorbs most of the light you point at it.
+The SAM may also help solve some of the riddles remaining in the field of polymer chemistry.
+Long polymer chains tend to break down under strong light, particularly at ultraviolet wavelengths, and so they are difficult to observe.
+Quate would like to see the SAM used to watch polymer chains in rubber as they stretch and bounce back.
+Other more exotic applications for the device will appear as it undergoes further improvement.
+Because the upper limits of resolution depend on the acoustic wavelength being used, the path researchers are following is to increase the sound frequency, thereby shortening the wavelength.
+There are several ways of accomplishing this.
+All depend on eliminating water as the coupling medium, because at very high frequencies the sound waves are rapidly attenuated in the liquid to the point that no sound at all reaches the specimen.
+The team at Stanford achieved its record resolution by using liquid helium gas as a coupling medium at a temperature just above absolute zero, 0.1 K. At extremely low temperatures acoustic attenuation becomes almost insignificant, but the range of materials that can be studied is severely limited.
+Living things prefer a warmer climate.
+A team in Britain, at University College, London, is exploring another approach towards increasing resolution which would still permit the study of living tissues.
+The group, led by Eric Ash and H. K. Wickramasinghe, is investigating the use of  inert gas under high pressure as a coupling medium.
+Under normal atmospheric pressure gases  attenuate sound so rapidly that they are useless as a coupling medium for acoustic microscopes, but under pressure the picture rapidly improves.
+According to Wickramasinghe, xenon at 40 atmospheres should provide a fivefold improvement in resolution over a water-coupled instrument.
+He says these figures imply a SAM that can operate at room temperature with a resolution 0.1 micrometres.
+The group at University College is attempting to build such a microscope, and has produced an instrument that is close to working.
+Microscopes that ‘see’ with sound are not intended to take the place of electron and optical instruments.
+These too are undergoing rapid improvement and new devices, such as the scanning ‘soft’(low energy X-ray microscope, show great promise.
+The state of the microscopist's art is now such that the choice of instrument to use depends largely on what he wants to see, and in some applications the acoustic microscope may give him the sharpest pictures ever.
+Acoustic microscopy offers the opportunity to study tissues that may reflect light in a similar way but which look quite different in sound waves.
+The image shown left reveals the nucleus, clearly visible, at the centre of a cell from a human cheek.
+At the right is the first image ever produced from an acoustic microscope that uses gas as a coupling medium, enabling the device to work at room temperature .
+The grid of wires has a spacing of 100 micrometres 
+Medicine from beyond the fringe
+Western medicine would benefit from ideas from systems such as yoga and acupuncture.
+They should be seen not as ‘fringe healing’ but as ‘complementary medicine’
+Robin Munro
+Western medicine, rooted in science and practised by people with acknowledged medical degrees, is only one of many systems of healing.
+The rest, collectively categorised as ‘alternative medicine’, ‘fringe medicine’ and ‘natural therapeutics’, have sometimes been ignored by orthodox Western medical practitioners, and sometimes derided.
+But interest is growing in alternative medical systems, both among patients and lay healers who have found them helpful, and among physicians and scientists, who are beginning to find that they really do have something to offer.
+Indeed one of the crucial developments is that scientists are now finding ways of investigating systems whose effects may be subtle and whose mechanisms may be elusive and complex.
+But scientists and lay practitioners alike must recognise that the terms and concepts used in alternative systems of medicine may have no exact equivalent in Western medicine, and must to some extent be-seen as metaphors; and that standard ways of assessing therapy, notably by the double-blind controlled trial, may simply not be applicable to many alternative systems.
+With such caveats, and open-mindedness, I believe that alternative systems of healing, which I prefer collectively to call ‘complementary medicine’, should and will operate in partnership with conventional medicine.
+Exclusion and opposition are outmoded.
+The practices of complementary medicine fall roughly into the following categories: 1.
+Diet and fasting 2.
+‘Remedies’(herbalism, homoeopathy) 3.
+Balneology (water/mud baths) 4.
+Manipulation (chiropractic, massage, osteopathy) 5.
+Exercises and posture (Hatha Yoga, T'ai Chi, Alexander Technique) 6.
+Acupuncture 7.
+Hypnotherapy 8.
+‘Healing’(’ laying on of hands’, meditation, prayer).
+Many complementary practitioners use combinations of these disciplines.
+Despite their apparent diversity, most of these practices have certain features in common.
+They are generally based on the belief in health as the result of a harmonious whole.
+The word ‘health’ has the same root as ‘whole’and ‘holy’, the German words heil and heilig meaning, respectively, ‘being healthy and complete’, and ‘holy’.
+So complementary medicine looks for the healing of the whole individual: the different parts of the body as they interact with one another, the mind-body as an integral system, the harmony of the individual with his/her surroundings and the harmony of the Universe at large .
+In practice, complementary medicine helps individuals to become sensitive to their own systems and surroundings and to find fitting new life styles.
+It acts at both psychological and physical levels, and involves active efforts on the part of patients.
+In contrast, conventional medicine has tended to emphasise the treatment of specific physical lesions, by means of drugs and surgery, with a minimum of conscious involvement on the part of patients.
+Some doctors, however, have recognised the two-way interaction between mental states and disease processes, and behavioural approaches are becoming increasingly popular.
+This is partly because surgery and drugs have not succeeded in banishing the ‘diseases of civilisation’(such as cancer, degenerative diseases of the cardiovascular, respiratory and other systems, and allergies) and there is growing realisation that many of these diseases are intimately related to life styles and attitudes.
+Also, advances in neurophysiology and medical technology are reducing the gap between physiochemical and behavioural approaches.
+Such developments are paving the way to rapprochement between conventional and complementary medicine.
+Most forms of complementary medicine are framed in terms of traditional medical systems from other cultures.
+Accordingly their conceptual frameworks are incommensurable with those of modern, Western medicine.
+And as is now widely recognised (see Thomas Kuhn's The Structure of Scientific Revolutions), scientists, like other thinkers, tend to get stuck in particular conceptual frameworks, and hence to be blind to possible alternatives.
+Such dogmatic tendencies are often strengthened by social and economic factors.
+In a profession like medicine this is especially apparent because it stretches over the whole spectrum of human activities.
+At the research and professional level, scientists and doctors have vested interests in their form of knowledge and expertise.
+At the governmental level, administration and whole health care systems become geared to particular forms of approach.
+At the industrial level, pharmaceutical and other biomedical enterprises do all they can to promote their products.
+At the personal level, doctors and their patients become conditioned to particular forms of treatment.
+It is not surprising, then, that there has, for many decades, been strong resistance to complementary medicine, on the part of conventional medicine.
+However, science springs ultimately from the human urge to truth, and dogmatism eventually gives way under this impetus.
+Revolutions occur from time to time in nearly every field of science, and I believe that such a revolution is occurring in medicine — largely through the impact of complementary medicine.
+Because complementary medicine has been unacknowledged by conventional medicine (and hence also by governments), relatively little systematic information has, until recently, been obtained about its impact on society.
+Against this background, the Threshold Foundation provided Stephen Fulder and me with funds to carry out an 18-month survey to gather information on scientific, social, education and legal aspects of complementary medicine.
+As we outlined in our report (footnote, p 151) there are an estimated 7800 full and part-time professional complementary therapists in the UK, which is equivalent to 28 per cent of the number of doctors in general practice.
+Of these therapists 4100 are practising members of professional bodies.
+In addition, an estimated 20 000 people practise ‘healing’ of one form or another.
+The number of therapists who belong to professional bodies in the UK is increasing by 12 per cent per year, which is more than five times the rate of increase of medical doctors.
+Despite the increase in numbers of therapists, and the high fees, demand continues to outstrip supply and many therapists have waiting lists of several weeks.
+There are 54 separate professional complementary medicine associations in the UK. varying from small groups and societies to large, respected and authoritative organisations.
+In addition there are 44 colleges, 11 of which offer full-time courses of at least three years.
+It is the more-educated people who most use complementary medicine, thus helping to dispel the idea that it is ‘unscientific’ and used only by the uncritical; and about 10 per cent of clients going to complementary practitioners are referred by doctors or paramedics.
+Complementary medicine is a major social movement.
+The rift between conventional and complementary medicine has had many harmful effects.
+It has inhibited doctors from recognising practices that really do work.
+It has polarised popular opinion such that sick people tend to use only conventional medicine or complementary medicine, thus failing to reap the benefits of knowledge which could help them.
+Because most forms of complementary medicine are not officially recognised, social controls on professional standards, appropriate to health professions, have been largely absent in complementary medicine so that many of its practitioners are of relatively low quality.
+This can be positively dangerous, if only because such practitioners may not recognise when a person is seriously ill.
+Finally, it has slowed down scientific research into complementary practices.
+In my view, scientists have a crucial role to play in the rapprochement of conventional and complementary medicine.
+Much of conventional medicine has its roots in traditional medicine.
+For instance, smallpox vaccination was being used centuries before Edward Jenner, and many modern drugs (such as atropine, digitalis and reserpine) have been derived from folk remedies.
+Systematic research can extend and refine traditional and anecdotal knowledge.
+Improvements in smallpox vaccination, starting with Jenner, have led to the complete, worldwide eradication of this disease.
+Moulds were used as antiseptics long before the discovery of antibiotics, but modern pharmacology has vastly extended their utility by analysing their active products, producing these in large amounts and making variations on their structures.
+Large areas of conventional medicine thus represent particular aspects of traditional medicine systematically developed and extended.
+In some of these areas.
+the traditional heritage is openly acknowledged and utilised.
+For instance, anthropological and ethno-botanical field studies on drugs used by traditional societies are backed by the World Health Organisation and by-large pharmaceutical corporations.
+But some aspects of traditional medicine have received more attention than others, and it is reasonable to suppose that at least some of the neglected aspects embody knowledge of potential value.
+Acupuncture for example, has been practised in China for thousands of years.
+It has been known to the West since the 17th century.
+Sir William Osler, one of the most respected medical practitioners of the early 20th century, recommended it as the best means to reduce pain in lumbago.
+However, largely because the drug approach rose to dominance, conventional medicine almost completely ignored acupuncture throughout the mid-20th century.
+Then, with the increasing impact of China, first on the Soviet bloc, then on the West, interest has blossomed.
+Acupuncture conceives of a kind of ‘bioenergy’, which flows along channels in the body and can be manipulated by acting at particular points on those channels (by needles, heat or pressure).
+There is no corresponding concept in Western science, and much confusion has resulted from the naive equating of this ‘energy’ with the concepts of physiology (such as nerve impulses) and physics (heat, electricity, electromagnetic radiation).
+Such confusion has, on one hand, led many scientists and doctors to reject acupuncture as a foreign superstition, while on the other it has led many people, not trained in science, to react by rejecting modern biomedical science as being blinkered and dogmatic.
+But in the past 10 years physiological and pharmacological laboratories around the world have done a lot of research on acupuncture.
+The discovery that acupuncture could replace anaesthetics in major surgery attracted the attention of biomedical scientists in the early 1970s.
+In the 1950s, Ronald Melzack and Patrick Wall proposed the gate theory of pain, which held that the nerve impulses that conveyed the sensation of pain to the brain could be actively blocked by nerves in the spinal cord (see Box).
+This theory had opened the way for Western physiologists to recognise that the anaesthetic effect of acupuncture might at least be possible.
+The subsequent discovery of the endorphins and encephalins, hormones in the brain that act like morphine and so act as a natural analgesic, and their implication in the action of acupuncture, provided further theoretical explanation for its efficacy.
+Many doctors and scientists now recognise that acupuncture can be of value for treating pain, and with this have come interesting new applications, bringing together traditional acupuncture and modern conventional medicine, as in electroacupuncture, and the combining of acupuncture analgesia with anaesthetics for major surgery.
+Many conventional doctors and scientists, however, are still reluctant to accept that acupuncture can have therapeutic as well as analgesic effects, and this is at least partly because there is as yet little theoretical explanation of how acupuncture could exert therapeutic — as opposed to analgesic — action.
+The scientific investigation of therapeutic effects of acupuncture, and most other forms of complementary medicine, raises difficult methodological problems.
+The model for much contemporary medical research is the double-blind trial, in which neither the patient nor the person administering the treatment knows what the treatment is; controls (such as sugar pills) are always included.
+The purpose is to determine which treatments produce effects over and above placebo levels.
+This is necessary because the psychological action on many bodily processes can be so great that even a sugar pill can have striking therapeutic effects if the person believes it will.
+While the double-blind trial is well suited to testing of conventional drugs it often cannot be applied to complementary therapies, for instance, the acupuncturist must establish a close link with the patient during treatment, and the therapist must know which points he is needling and possibly modify them as the patient's responses change.
+Most complementary therapies act largely in the domain between the psychological and the physical, so that placebo-type effects, involving conscious mental participation, are often part of the treatment.
+To eliminate this, as in double-blind trials, would in many cases render the therapy impotent.
+This is not to say that complementary therapies act only at the psychological level.
+Anyone who has actually experienced acupuncture, or several other complementary therapies, will agree on this.
+The problem for the research scientist is to devise methodologies that can detect and receive the different modes of action of a therapy without distorting it.
+This may be difficult, but in my view it is possible.
+For instance, the electroencephalograph patterns (’ brain waves’) of people undergoing acupuncture analgesia are quite different from those of people put into states of analgesia through hypnotic suggestion.
+Pharmacological studies also indicate that these two forms of complementary therapy act through different pathways.
+Osteopathy and chiropractic are closely related to one another and work through manipulation of the spine and (in some cases) other joints.
+Large numbers of laypeople from all walks of life resort to them for back disorders, often after having tried conventional medical approaches unsuccessfully.
+I know dozens of people who attest to their effectiveness.
+However, the medical profession in many countries has been very reluctant to recognise them.
+Again, part of the reason for this reluctance is that little is known, in terms of conventional anatomy, of the physical basis of back pain.
+Accordingly, assessment of results must rely largely on subjective reports; and the subjective experience of backpain varies greatly from person to person, and is much influenced by mental states (and hence placebo effects).
+Osteopaths and chiropractors believe that their methods are also therapeutic for a variety of disorders besides back pain.
+In agreement with several other complementary therapies, they consider that the spine plays a central role in the link between mental and bodily states.
+As with acupuncture, this is a difficult field for research, but the time is ripe for active scientific investigations.
+Then again, many people throughout the world now practice yoga daily; the most common form entails a range of postures and breathing exercises, which stretch, relax and vitalise the body and mind.
+Many believe yoga has helped them to cure, manage and prevent a wide range of disorders.
+Research into the therapeutic effectiveness of yoga faces problems similar to those we have noted, but with yoga the inappropriateness of the double-blind trial is even more obvious.
+One could not do exercises without knowing which exercises one was doing — especially as active mental involvement is needed for the exercises to be effective!
+Despite such problems, a growing body of scientific evidence attests that yoga can influence nearly all the Physiological systems of the human organism, and has therapeutic effects on a wide range of disorders.
+Yoga also highlights the need for investigating the preventive as well as the curative effects of complementary therapies.
+Long-term trials and epidemiological studies will be needed to explore this domain.
+A land fit for tortoises
+The native fauna of the Galapagos Islands is threatened by exotic species.
+The military may now be called in to redress the balance
+Nigel Sitwell
+The government of Ecuador is seriously considering sending its armed forces on a major exercise in the Galapagos Islands.
+The manoeuvres would involve several hundred soldiers, plus helicopters and naval support ships.
+But hold on.
+Is not 90 per cent of the Galapagos land surface a national park?
+And is not the creation of a complementary marine park said to be imminent?
+The answers to both questions are yes — but before conservationist indignation takes hold it should be pointed out that if the military do ‘invade’ the Galapagos (which is, of course, a province of Ecuador) it will be at the express invitation of the Galapagos National Park Service and the scientists of the Charles Darwin Research Station: for the sole purpose of eradicating feral animals.
+The Galapagos archipelago is one of the most treasured biological sites on Earth.
+However, the famous giant tortoises, iguanas, penguins, flightless cormorants, Darwin's finches, and a host of other endemic animals and plants are now gravely threatened by a bewildering array of introduced organisms.
+Some of these arrived accidentally, but many were released deliberately for the benefit of seafarers and settlers.
+Control of these newcomers is now the number one priority of both park service wardens and scientists at the Darwin station.
+The exotic animals include goats, pigs, donkeys, horses, cattle, cats, dogs, mice, rats and fire ants.
+Introduced plants are also a major problem, but in this article I shall deal only with the animals.
+The wild goats, highly fertile and able to drink sea water if necessary, are probably the biggest single danger.
+They strip the leaves and often the bark off all the trees and shrubs they can reach.
+They compete with the giant tortoises and land iguanas for food, and by removing the vegetation alter insect habitats and so affect insectivorous creatures such as finches, flycatchers, warblers and bats.
+Pigs, which are even more fecund than the goats, take the eggs and young of ground-nesting birds, the eggs of tortoises and turtles (and young tortoises up to the age of five), and destroy vegetation by digging for roots and soil invertebrates.
+Donkeys also compete with the tortoises for food, trample vegetation and cause erosion.
+Cattle and horses cause similar problems where they occur.
+Cats take a variety of small animals.
+They are a particular threat to the marine iguanas, and in some areas iguana remains have been found in nearly all cat faeces examined.
+Cats may, however, prove impossible to eradicate.
+Dogs, too, prey on the marine iguanas, but they eat a wide range of other animals including the rare Galapagos penguin.
+Travelling in ferocious packs, they sometimes menace humans as well.
+The omnivorous black rat consumes seeds, flowers and fruits, and many small animals.
+It has already caused the extinction of several species of native rice rats, and is a big threat to the Hawaiian petrel, which breeds only in Hawaii and Galapagos and is endangered in both places.
+Amongst smaller introduced animals are fire ants, which out-compete with the native ants (and which can cause uncomfortable nights for camping scientists); and cockroaches, which have been discovered on one or two islands and may have been transported inadvertently amongst supplies destined for scientists doing long-term research.
+Most scientists are now persuaded that control of the exotic animals takes precedence over much other work.
+For many years the station scientists did little research on these introduced species, probably because no one could foresee the possibility of eradicating them.
+But times have changed, and with several successful campaigns behind it (goats have been eradicated from five islands) Galapagos conservation is taking a new direction.
+‘We now have a better idea how to control these animals,’ says Dr Friedemann Koster, director of the Charles Darwin Research Station.
+‘Even where we have no solution, as with the black rats, we must try to keep their numbers in check.
+We have to think a hundred years ahead, not just for the next year or two.
+After all, some day someone may find a solution.
+We wouldn't look very smart if we had simply given up and allowed some precious Galapagos species to become extinct, by letting the introduced animals get out of control.’
+Dr David Duffy, a former station director, has said: ‘We now have abundant, if unquantified, evidence of the impact of feral animals.
+Money and time should be spent on the solution, not on documenting the problem.’
+The anti-dog programme is meeting with some encouraging success, using poisoned bait which is hidden under dark ledges.
+The dogs locate the bait easily by smell, but the native Galapagos animals, which seek food primarily by sight, do not manage to find it.
+A limited poisoning campaign is being used against rats, especially during the Hawaiian petrels' breeding season, when the birds are particularly vulnerable.
+Cats are smaller and more secretive than dogs, and correspondingly harder to control.
+Any campaign would have to be preceded by detailed behavioural research.
+One proposal for research lasting 2 ½ years was costed at £50 000 or more.
+The money is not available.
+Money, in fact, dominates the thoughts of many of those involved in Galapagos affairs.
+Koster was recently typing a report, which ended with a section headed ‘Final outcome’.
+When he re-read it he discovered he had typed ‘Financial outcome’.
+Fortunately the Ecuadorian government is sympathetic and in 1982–83 will have paid at least 60 per cent of the station's budget, or about $750000.
+It has also granted a hefty wage increase to the park service personnel, though they had to strike to get it.
+Outside funding is not easy to get for some of the feral animal programmes.
+It is, for example, a lot easier to obtain money for controlling rats than dogs or cats.
+One large funding organisation has admitted privately that it does not dare to support such campaigns for fear of complaints from its own donors if the news leaked out.
+Santiago (or James) Island is one of the larger uninhabited islands, and presents a major challenge to the conservationists.
+It has no cats or dogs, but there are upwards of 100 000 goats roaming its 580 square kilometres.
+There are also perhaps 20 000 pigs and an unknown number of donkeys.
+A lethal combination, says Dr Bob Reynolds, staff herpetologist at the Darwin station.
+‘The goats gobble up the vegetation, the pigs dig up the roots and the eggs of tortoises and turtles, and the donkeys trample paths on the hills, causing erosion, so that in the rainy season whole hillsides fall down.’
+Until recently most attention was paid to the island's goat population, but now pigs are the first priority.
+This follows the realisation that if the hunters succeeded in wiping out the goats the vegetation might swiftly regenerate, making it impossible to see the wary pigs.
+Luis Calvopina, the station scientist responsible for feral animals, thinks the pigs could be eradicated in as little as nine months, with a concentrated campaign in the dry season when the few water sources would act as baits.
+Soldiers to the rescue?
+Conditions on Santiago, however, are truly formidable, In 1982 I spent several days in the interior of the island, seeing the terrifying flows of jagged, jumbled lava that makes walking difficult and cuts shoes to shreds in a short time.
+There is no potable water, except what you carry with you, and the equatorial sun beats down with fierce intensity.
+The vegetation that has not yet been destroyed by the goats and donkeys seems a mass of sharp thorns, and in some places it is so thick that even the goats can get through only on their knees.
+About the only people who can move rapidly over such terrain are the tough and wiry park service hunters.
+Preferring to carry only a light rifle, such as a .22, and ammunition, but unburdened by other supplies, even water, they chase goats from about 7 am until noon, when they have to quit for the day Sometimes they will put down their guns and stalk a goat, leaping on it to deliver the final coup de grace with a knife.
+Effective though such techniques may be when goat numbers are low, they make little impact on a large population.
+So Koster is considering calling in the army.
+‘It would need a large number of men,’ he points out, ‘who would have to stay until the job is done.
+There's no point in killing only some of the goats, because of their fantastic ability to rebuild their numbers.
+The cost would be substantial, even when viewed as a military exercise, for the men would have to be supplied with food, water and ammunition by helicopter, and there would have to be medical facilities aboard nearby ships in case of broken legs and so forth.’
+There are some dangers in such an approach.
+The men would have to be well trained and supervised, not least to guard against incidental damage to native Galapagos animals.
+Galapagos hawks, for instance, are numerous on Santiago and would quickly gather round the plentiful carcasses.
+On one occasion I lay down for a rest, dozed off for 15 minutes, and awoke to find half a dozen sitting on branches within a few metres of my recumbent form.
+The hawks could all-too-easily become tempting targets for the soldiery.
+Other tactics being considered to deal with the goats include shooting only females, to cause unnatural social stresses in the population, and the use of dogs to hunt them — though these would have to be neutered to avoid the danger of establishing a new feral colony.
+as if the park wardens and scientists do not have enough problems already, they have to watch the ecological implications of their control programmes.
+The dogs, for example, not only prey on native animals, but also attack wild cattle and help control cats.
+In one area of Isabela Island the donkeys seem to be keeping goat numbers in check, while cats, wherever they occur, tend to keep down the rats.
+‘I sometimes wonder,’ says Dr Andrew Laurie, who is studying marine iguanas, ‘if we are fighting the right battle.
+Perhaps what is needed, rather than ambitious attempts to eradicate feral animals totally, is more emphasis on local control, and the protection of certain breeding colonies of the species we want to conserve.’
+The natural history of boils
+Cells of many kinds flood to the site of a carbuncle, intent on ridding the body of infection.
+What attracts them and what exactly do they do?
+Robert Mandeville
+We are all too familiar with the throbbing ache of a boil or carbuncle on the neck.
+The infection happens when the body's primary defence, which is its unbroken skin, fails.
+In the days before antibiotics, it occasionally led to septicaemia and even death.
+Usually, however, the painful lump comes to a head, and there is relief when the pus bursts out, carrying with it what is left of the invading bacteria.
+The temporarily distorted skin then heals, and little is left to show of the battle.
+This normal physiological reaction to invasion by foreign organisms is called inflammation.
+In evolutionary terms it is quite old — worms and other primitive life forms have analogous processes.
+Pus may not form, and so the only signs may be the red, hot and painful mass which, combined with loss of function, defines ‘inflammation’ in any part of the body.
+Doctors call this reaction chronic inflammation to distinguish it from the immediate, acute reaction or injury or allergy.
+If the chronic form of inflammation occurs simultaneously all over the body, as can happen in rheumatoid arthritis, the sufferer may feel physically weakened by the strength of the reaction.
+Direct measurements have shown that the inflamed tissues consume large amounts of energy.
+But why does the body burn so much energy when it gets rid of infection?
+Pus cells are obvious in discharges from infected sites — even in a rheumatoid arthritic knee a thousand million may enter an inflamed joint in a day.
+But they live only four to six hours, and are by no means the most common cell in the area.
+So their contribution to local energy consumption is fairly small.
+But concentrating all attention on the pus cells, as researchers have done for the past 20 years, is perhaps to miss the most important elements of process.
+These lie in the surrounding tissues.
+Lymphocytes and macrophages (see Boxes B and C) are two kinds of cells that by close cooperation between all their different forms are responsible for immunity from harmful infection.
+They make up the active elements of inflammation, and are concentrated in ‘lymphoid tissue’ such as: the tonsils; the ‘glands’in the groin, armpit and neck (more properly called lymph nodes); and the spleen which lies next to the stomach in the abdomen, as well as the bone marrow where they are made.
+If we look at the tissues as they become increasingly inflamed in, for example, a developing boil, we can see how the cells work together.
+Macrophages (’ big-eaters’) are, as the name implies, large cells which scavenge the tissues for debris.
+Most tissues of the body contain scattered macrophages, which lead an inactive, sedentary life until stimulated by encountering foreign debris.
+Mobile forms of macrophage circulate in the blood, ready to be recruited into inflamed tissue to reinforce the cells already there.
+The macrophages are particularly useful in the lymph nodes, where they filter the tissue fluid (lymph) and can then offer the antigens (immune response stimulators) of the invader to the lymphocytes concentrated there.
+Lymphocytes are small round cells which appear under the microscope as black dots, like tail-less tadpoles, working their way through the tissues.
+Despite their uniform appearance, each has a unique identity conferred by the receptors it bears for antigens.
+When a lymphocyte is presented with an antigen that fits its receptor as a key fits a lock, the lymphocyte is literally ‘turned on’, with its metabolism rapidly increasing.
+The cell divides rapidly, increasing the numbers of cells with this identity exponentially.
+Most of this recognition process takes place where the numbers of lymphocytes and macrophages are greatest, in the lymphoid tissues of the body.
+From these sites the activated lymphocytes circulate through the body.
+Back at the site of the developing boil, there is a tremendous squeezing-in of activated lymphocytes and macrophages.
+But what are they doing there?
+You would deduce that the lymphocytes, having specific receptors, would be selectively concentrated at that site.
+But all the experimental evidence would be against you.
+Only a tiny minority of the lymphocytes, probably fewer than 3 per cent of them, have receptors specifically fitting those of the antigens of the invader.
+The remainder seem to be there as bystanders, sharing only the characteristic that they are in an activated form.
+Despite the lack of specific reacting cells, there is no doubt at all that the lymphocyte is the ‘master of ceremonies’ for all the activity.
+We know from animal experiments that if there were no lymphocytes there would be no inflammation and no pus, despite normal numbers of pus cells in the body.
+An animal or human without functional lymphocytes as may happen in some disease states, is extremely vulnerable to overwhelming infection.
+Lymphocytes make up the predominating population of cells in site of florid chronic inflammation with many of the cells in a metabolically activated form.
+If they were packed tightly there could be 5 thousand million of them in a cubic centimetre of inflammation.
+Even allowing for original tissues such as connective tissues, fat and blood vessels, probably many hundreds of million lymphocytes surround every boil.
+In a rheumatoid arthritic's inflamed knee there might be 50 cu.cm of inflamed joint capsule, consuming energy at 30 to 40 times the normal rate.
+All the evidence points to the lymphocytes and macrophages being responsible.
+Lymphocytes as competitors
+The cells crucial for immunity, lymphocytes and macrophages, gather in very large numbers at sites of infection.
+Between them, those cells produce a highly sophisticated and intricate attack upon the source of infection.
+Appropriate populations of lymphocytes make specialised proteins that attach to antigens on the infectious organism.
+But many other cells concentrate there, too.
+Whole networks of macrophages stimulate lymphocytes to control other lymphocytes which stimulate macrophages; special factors attract other cells, including pus cells, into the area; and proteins called complement are also produced that can act alone or with antibody to make bacteria much more easily absorbed.
+We are still left with the dilemma that despite all the potential sophistication, the lymphocytes actually in the infection seem to be there using up energy for the sake of using up energy — like cars stuck in a traffic jam with their engines racing.
+Perhaps this is a clue to their function.
+It would make sense that the conditions that the invader encounters  initially , which include a luxuriant supply of nutrients, should be changed as rapidly as possible.
+Lymphocytes that enter the site could achieve this by competing with the invader, thereby lowering the level of nutrients and raising the level of the products of metabolism locally, for example making the environment more acid.
+In order to seal off the source of nutrition it is necessary for the activated lymphocytes to gather round the blood vessels once they have used up the local resources.
+Indeed, the hallmark of chronic inflammation is the appearance under the microscope of ‘tail-less tadpoles’ gathered around every blood vessel in the field.
+In order for them to find the blood vessels they must have some way of sniffing out nutrition, or fleeing from the products of metabolism.
+This part of the story can be tested and recently I have had the opportunity with Dr Peter Wilkinson at the University of Glasgow to do so.
+We set up experiments on purified lymphocytes in test tubes to see if nutrients available on one side of a filter would provoke lymphocytes on the other side to wriggle their way through the membrane in that direction.
+Normal resting lymphocytes could not be coaxed to move.
+Oxygen had relatively little effect even on activated lymphocytes, which actually moved faster without air.
+It proved technically difficult to test whether these cells fled from acid conditions because they died when exposed to too great a gradient, although they could move about well in extremely acid conditions.
+When we tested the influence of glucose, however, we found that activated cells moved faster and more purposefully toward sources of this, the normal energy-giving molecule readily available in the blood.
+The activated lymphocytes are able to use up glucose extremely quickly.
+From the results of these experiments they appear to have receptors that give direction to their movement to search out the source of this sugar.
+Thus these cells appear to have the equipment to pre-empt the energy needs of infected tissues, and if the stimulus is strong enough, with all nutrition cut off, such tissue will die.
+This can be seen in the liquified, dead centre of the carbuncle.
+In the inflamed rheumatoid joint there is inflammation without any evidence of infection, yet glucose and oxygen levels drop to vanishing point in the fluid, depending on the numbers of lymphocytes there.
+Cutting off the supply of nutrition to tissues in any part of the body has a further consequence — new blood vessels bud out from the already dilated vascular bed to make up the nutritional deficit.
+The presence of all this extra blood is obvious in the throbbing red region around an infection, and in the rheumatoid joint these new blood vessels extend like fronds into the joint cavity.
+Tracer substances such as radioactive xenon are more rapidly removed from an inflamed joint — their half-life in the joint inversely correlating with the degree of inflammation — and so attempts to blame poor blood supply for the nutritional deficit are probably misconceived.
+If the infection is discharged or the stimulus of the inflammation removed, all these new blood vessels make up ‘granulation tissue’(because it looks granular), and this is an excellent foundation for the rapid regeneration of the tissues.
+If the underlying cause persists, however, then a suffocating blanket of activated lymphocytes surrounds every new blood vessel.
+This squeezing in of lymphocytes and blood vessels is itself very destructive to the normal architecture of the tissues, and in rheumatoid arthritis even erodes the bone until the joint is completely destroyed, causing crippling deformities.
+In a fight against infection local tissue has to be sacrificed if by that sacrifice the body is saved.
+But where the inflammation is directed against its own antigens (in ‘auto-immune’ diseases).
+as is probably the case in rheumatoid arthritis, then the whole process is a wasteful and destructive war.
+It is my guess that metabolic competition is a very old form of protection from infection — crude, destructive but very effective.
+Deprived of nutrition, the invading bacteria and viruses are held in check while the body gathers more selective weapons for their ultimate destruction.
+Fusion research of years after Zeta
+A quarter of a century ago the news broke that scientists had come near to taming the hydrogen bomb and turning fusion power into a source of energy for power stations.
+In the event, the announcement was premature; but fusion researchers have come a long way since then
+R. S. Pease
+The earliest identifiable event in research on controlled nuclear fusion in Britain is probably the patent taken out in 1946 by Sir George (G.P.) Thomson with Moses Blackman.
+This was for a toroidal magnetic confinement system (see figure) with a circulating current of electrons pinched in by the magnetic field generated by the current.
+The first results on the pinch system were reported by Stanley Cousins and Alan Ware from Imperial College, London, and, independently, from Peter Thonemann working at Oxford University in 1951.
+These results passed largely unnoticed.
+However, the possibility that hydrogen atoms could undergo fusion reactions and produce large amounts of neutrons led to the work being classified in 1951.
+This was done because in theory fusion neutrons could be an alternative to fission reactors for making fissile elements for weapons.
+The government expanded the work and moved it to Harwell and to the AEI laboratories at Aldermaston.
+Parallel activity was under way, also behind the barriers of classification, in the United States and the Soviet Union.
+The first published indications of fusion research appeared in 1956.
+At the time the largest fusion research unit in the United Kingdom was at the Atomic Energy Research Establishment (AERE), Harwell, under the leadership of Peter Thonemann, now Professor of Physics at University of Wales, Swansea.
+Harwell's director, Sir John Cockcroft, was an enthusiastic supporter of fusion research.
+The AERE team's main system was the toroidal pinch and there were several machines of this type.
+Generally the experiments were small, with a current of around 10 kiloamps passing through hydrogen gas at low pressure and in a torus of about 30-cm bore.
+Temperatures in such systems reached about 10 electron volts (eV), about 100 000 K. Experiments had shown that the current-carrying ring of hot gas in a simple toroidal pinch was unstable, so that the hot gas (plasma) struck the walls and was cooled far too rapidly.
+Theoretical research in the United States confirmed that these instabilities were a natural characteristic of the system.
+This result was interpreted as having some favourable aspects.
+In particular, the resulting motion of the plasma column in the magnetic field — motion that eventually destroyed the containment — might heat the ions in the plasma; also, image currents in  metallic conducting walls of the torus might limit the  excusions of the plasma column.
+While both ideas turned out to be partially correct, the essential step in overcoming this difficulty was the application of an extra magnetic field — the so-called toroidal field — with lines of force parallel to the current flow round the torus.
+Perhaps the most striking feature of fusion research at that time was the primitive state of understanding and measurement — a characteristic of a genuine pioneering phase of research.
+There were no text books on plasma physics or fusion.
+We knew next to nothing experimentally of the elementary properties of matter at such high temperatures.
+One of the problems was in measuring what went on in a plasma.
+Researchers could measure densities and temperatures, or could infer them approximately, from Langmuir probes — small electrodes inserted into the plasma.
+The currents to these probes give a measure of the density and temperature of the plasma's electrons.
+But Langmuir probes work only at low temperatures, far below that needed for fusion.
+As solid insertions into the very hot gas, probes can significantly alter the local properties of a plasma that they are supposed to be measuring.
+‘Search coils’ can measure local magnetic fields, but with the same problems as Langmuir probes.
+Microwaves are refracted by plasma, and microwave interferometers can measure average electron densities, so long as the density is in a suitable range.
+Hot ionised gases, and the impurities they contain, also produce spectral lines that are characteristic of the plasma temperature.
+So spectroscopy can yield information on plasma temperatures.
+Spectroscopy — in the optical and ultraviolet parts of the spectrum — of impurities and hydrogen played an important but not wholly reliable role in estimating the temperature and density of a plasma.
+The imperfections. of these methods of plasma diagnostics — the term used to describe the art of measuring what is going on in a plasma — gave rise to persistent difficulties and ambiguities until the late 1960s, when lasers had arrived on the scene.
+In 1956, the Soviet scientist, Ivor Kurchatov removed some of the secrecy surrounding research on fusion in a lecture he gave at Harwell.
+The Soviet work described in this historic talk concentrated on high-power pinch discharges lasting only a few microseconds with currents of up to two million amps flowing between electrodes in straight tubes.
+The Soviet diagnostics were of the same primitive type as those used in the UK.
+But the research in the USSR had produced strong bursts of neutrons from reactions between deuterium nuclei.
+In a true thermonuclear reaction, the ions taking part in the reactions are those that form part of the classical Maxwellian distribution of particle energies.
+However, the neutrons in the Russian experiments were not thought to come from true thermonuclear reactions but rather from a few very energetic ions accelerated directly by the electric fields in the discharge.
+Later that year we met other Soviet researchers and found that they were also studying the stabilising effect of longitudinal fields on pinches.
+A major review paper in 1956 also revealed something of the fusion research under way in the US.
+That paper by Richard Post, appeared in Reviews of Modern Physics (vol 28, p 338).
+In the same year, Lyman Spitzer's slim volume Physics of fully Ionised Gases gave a canonical account of the theoretical basis of high-temperature plasma physics and the first real text-book on the subject.
+In the UK in 1957 the Physical Society published a group of reference papers on the British work, including the now famous Lawson criterion for the thermal insulation (confinement time) required to give a net gain of energy from a thermonuclear reactor.
+The Zero Energy Thermonuclear Assembly (Zeta) started working at Harwell in August 1957, just before the USSR launched the first Sputnik.
+The first results from Zeta — a one-metre-bore toroidal pinch device with a stabilising toroidal field — appeared in January 1958 in a paper in Nature.
+Zeta passed currents of up to about 150kA through deuterium gas, for periods of two to three milliseconds.
+Nuclear fusion reactions between deuterium ions produced between 10 5 and 10 6 neutrons per pulse.
+In these conditions spectroscopy of the light emitted from the plasma indicated that the temperature was somewhere between 2 and 5 million K. (The spectroscopists looked at the doppler widths of spectral lines.
+This width is a measure of the velocity — and, hence the energy and temperature — of the ions in the plasma.)
+The difficulties arose over the interpretation of the fusion reactions observed when Zeta produced discharges in deuterium.
+But even at the time there were words of caution from those involved in the project.
+Indeed Cockroft discussed the doubts at some length in New Scientist (vol 3, p 14).
+He wrote: ‘In Zeta and the smaller AEI torus, temperatures have been measured spectroscopically and range from two to five million degrees.
+In all experiments on toroidal discharges neutrons have been observed in about the numbers to be expected if thermonuclear reactions were proceeding.
+It is well known, however, from previous experiments carried out in Russian and other laboratories that instabilities in the current channel can give rise to strong electric fields which accelerated deuterons and can produce  neutrons .
+So in no case have the neutrons been definitely proved to be due to the random motion of deuterium associated with a temperature of the order of five million degrees.
+‘Their origin will, however, become clear as soon as the number of neutrons produced can be increased by increasing currents and temperatures.’
+Even then, when others were talking of fusion reactors being just around the corner, Cockcroft warmed that ‘it is difficult for us with our limited vision to see far enough ahead to say whether and when the final goal can be achieved.
+Our experiments with Zeta are only the first milestone along what may be a longish road, and we cannot see the end of the road.
+We are, however, going forward with optimism and enthusiasm into this great new field of scientific research.’
+The optimism proved to be short lived.
+A team led by Basil Rose used a cloud chamber to measure the momentum of the neutrons coming from Zeta's plasma, the measurements which they made in the spring of 1958, showed that the fusion reactions producing them were between nuclei with on average a net directed momentum.
+This finding was incompatible with a simple thermonuclear origin.
+Spectroscopic measurements in 1960 indicated that small-scale motion of the plasma was producing the doppler broadening of the spectral lines.
+Zeta's failure to produce genuine thermonuclear neutrons, together with the implications of that failure, led to adverse public reaction and gave the impression that Zeta had been a complete failure.
+This was far from the case.
+In the event the experiment was perhaps one of the more useful of the pioneering experiments with controlled thermonuclear research.
+It achieved temperatures over a million degrees and sustained them for several milliseconds.
+More strikingly, it demonstrated that a toroidal discharge in a toroidal magnetic field established its own stable configuration.
+This was later found to be a general property of toroidal discharges, including pinches and tokamaks.
+Zeta also provided a major stimulus in diagnostic development: for example, the use of infrared emission and scattering techniques; and in engineering techniques, for example the use of a continuous stainless-steel bellows vacuum chamber.
+In the decades following declassification of fusion research in 1958 and publication of the subsequent experimental results in the US, USSR and UK, worldwide interest in fusion grew.
+The Euratom countries, which did not then include the United Kingdom, began a cooperative programme of research.
+Japan too initiated a fusion research effort.
+In Britain, the United Kingdom Atomic Energy Authority set up the Culham Laboratory in 1961 to provide a central fusion research laboratory free of classified research and the security restrictions that go with it.
+From its beginning, Culham encouraged international collaboration.
+Culham's early research programme recognised the need to understand a great deal more about the physics of plasma — that we needed a broad and systematic approach to the study of the physics of high-temperature matter and its confinement by magnetic fields.
+One consequence of this was that work on toroidal systems — especially pinch systems in which the plasma carried a large current with evidently unpredictable properties — became relatively unfashionable.
+Reality is sometimes too complex to understand easily.
+Culham's first confinement experiments were thus ‘open ended’, with magnetic fields topologically similar to those generated in a solenoid.
+These linear devices proved rather easier to understand.
+One group of experiments centred on the magnetic mirror device, using the ‘magnetic well’ system developed in the USSR .
+Another important Culham experiment was the 8-metre theta pinch Ion which New Scientist's present editor worked).
+This was the first device to show quantitatively that at least a straight magnetic field system could contain a hot, high-pressure hydrogen plasma without having it diffuse across the magnetic field too rapidly.
+As you might expect, though, it is difficult to stop the loss of energy and plasma along the magnetic lines of force and out of the ends of these machines.
+On top of our better understanding of plasma physics, we also had a wide range of new diagnostic techniques.
+The most important of these was the ability to measure the temperature and density of a plasma at different times during a discharge.
+This was done by looking at the spectrum of laser light scattered off the electrons in the plasma.
+Once the research had established the physics of these losses — and provided a great deal of general information or the physics of plasmas — Culham returned to the development of toroidal systems.
+This included the work on Zeta.
+The machine carried on producing results until it was closed down in 1969, with some of its hardware transferred to Culham for use on an apparatus for new pinch studies, HBTX, built in 1969/70.
+In addition, Culham started studying a basic system of toroidal confinement called the Levitron, and a system with practical potential called the stellarator, both system's originating in the US.
+The work on tokamaks was conducted as part of a cooperation with the Soviet Union — the pioneers with that system.
+In a tokamak, external windings generate a very strong magnetic field which stabilises the toroidal discharge.
+The close relationship between the research on Zeta and tokamaks led to a cooperative experiment involving the UK and the Soviet Union in 1969.
+In this experiment a team from Culham went to the Kurchatov Institute to measure the temperature with the new laser-scattering technique that I have already mentioned.
+The joint team established that the temperature of the electrons in the T-3 tokamak really was as high as the Soviet scientists estimated they were on the basis of their less-direct measurements.
+The high temperatures of 10 mill K and more lasted for many milliseconds, and implied that there was a high degree of plasma stability, and large reduction of the unaccountable loss of energy and plasma across the magnetic field found in early experiments on Zeta pinches and on stellarators in the US (though indeed some unaccountable loss still exists).
+In a sense, the modern era of fusion research dates from that measurement in 1969.
+From then onward, fusion researchers had the conviction that at least one magnetic system could yield the confinement needed for a reactor.
+Since then, research on numerous tokamaks has enhanced that confidence.
+Culham's first tokamak, CLEO, came into operation in 1972.
+Tokamaks have achieved a confinement time within a factor of four of the Lawson criterion and ion temperatures of 80 million degrees, compared to a minimum ideal ignition temperature of 50 million degrees.
+These results give us some reason to hope that experiments on the extrapolation towards reactor conditions — on the Joint European Torus that is now being completed at Culham, for example— will prove favourable.
+All that has happened in tokamaks has been consistent with the 1970 view, formulated by Lev Artsimovich, that achieving the conditions required for thermonuclear ignition in tokamaks would be only a matter of time and of larger machines and the development of ways of heating the plasma.
+The table shows the steady progress we have made with tokamaks over the past quarter of a century.
+The energy confinement time is the total thermal content of the hot gas divided by the rate of loss of energy from all causes.
+The Lawson parameter is this time multiplied by the number density, the number of ions in a unit volume of plasma, n: the sustainment time is the length of time for which these conditions are maintained.
+The progress made since 1970 came about through a number of technical advances.
+First, better vacuum systems have led to the discharge being much cleaner — impurities in the discharge cause the plasma to radiate away more of its energy.
+This improvement in plasma cleanliness has been further improved by adding magnetic divertors to containment systems.
+These divertors are magnetic additions to the containment field: they were originally invented for the stellarator but have now been tried in tokamaks such as Culham's DITE experiment.
+The Asdex tokamak at Garching in West Germany has what is known as a ‘poloidal divertor’ and holds the record for the duration of a plasma in a tokamak — Asdex has sustained its plasma for 10 seconds.
+The second technical advance that has improved the performance of tokamaks over the past decade has been in auxiliary heating.
+This has brought the temperature of the ions in a plasma right up to the regime required in reactors.
+To begin with plasmas were heated solely by the electric current flowing through the discharge, in a way similar to the ohmic heating of a wire element.
+Auxiliary heating was first used to supplement this ‘ohmic heating’, and then to dominate it.
+The record temperature for a plasma, 80 million degrees, was established in Princeton by what is called neutral injection heating.
+The increase in thermal insulation (energy confinement time) has come mainly from building larger machines, as well as from higher magnetic fields and cleaner plasmas.
+The increase of confinement time with radius follows approximately a diffusion law-confinement time proportional to the square of the radius.
+The effect of high magnetic field is indirect.
+High fields permit experiments to operate at high densities, and the higher the density the better the confinement time.
+The record value of nt, is currently held by the high-field tokamak at Frascati in Italy.
+Unfortunately, these encouraging values are not delivered simultaneously in the same machine.
+Also it is disappointing that despite these improvements in performance we still do not understand properly the physics of thermal insulation and we did not expect that increased density (up to the limit when particle collisions take over) would have quite the favourable effect that we have found in many machines.
+Nor is this fact yet understood.
+Another difficulty is that the plasma pressure so far confined in a tokamak appears to be a rather low fraction of the magnetic field pressure, but the upper limit — very important for reactors — has not been established.
+There are, therefore, still some basic uncertainties in the physics of a tokamak plasma.
+Consequently, there is real uncertainty about the outcome of the large experiments that are now about to start.
+All this progress with tokamaks has not brought work on other confinement systems to a standstill.
+There is a growing interest in other systems with possible advantages over tokamaks.
+The latest results seem to show that both the stellarator and a configuration known as the Elmo Bumpy Torus (EBT) will also confine hot plasma as well as a tokamak.
+One disadvantage of the tokamak is that it has a pulsed discharge (although there have been various suggestions as to how we might design a continuous tokamak) while the stellarator and EBT are DC (continuous) toroidal configurations.
+Even Zeta's approach to confinement lives on, in the shape of the reversed-field pinch (RFP).
+The RFP has the potential advantage of a theoretically high plasma pressure relative to the external magnetic field pressure.
+This means that the RFP can make more efficient use of its expensive magnetic field.
+The objective of the RFX experiment, a collaborative project between Italy and Britain that is to be built in Italy at Padua, is to find out directly whether the RFP can confine high-temperature plasma well enough for the configuration to form the basis of a reactor.
+These then are some of the landmarks of the research.
+What can we expect in the future?
+In Western Europe, the Joint European Torus (JET) is the focus of attention, and is due to begin its first experiments later this year.
+JET's primary characteristics were established in 1973, from quite simple considerations.
+If we are ever to achieve a magnetically-confined plasma that is kept hot enough by thermonuclear reactions, then the confinement system must contain the electrically-charged alpha particles that are produced by the fusion of deuterium and tritium.
+Most of the alpha particles will be contained only if the current flowing through the discharge is higher than about 2.5 million amps: so JET was designed to have a current of 3 MA.
+It also appeared that this current and the dimensions of the machines would give a thermal insulation approaching that needed for a self-sustained thermonuclear reactor — the bottom line of the Table.
+JETs highest temperature and the best thermal insulation — both are necessary for the assault on the actual ignition conditions — will come some time after JET has started working.
+Actual operation of JET in deuterium-tritium mixtures is scheduled for the final stages of the project's experimental programme.
+Comparable tokamaks to JET are under construction in Japan and the United States.
+The US's large Tokamak Fusion Test Reactor (photo) produced its first plasma on Christmas Eve.
+But progress will come not only on large machines.
+On small tokamak experiments, we look for several developments: continuous operation of a toroidal discharge probably by driving the current in the discharge other than through induction; a proper understanding of the relationship between the plasma's internal magnetic pressure and that of the confinement system; completion of the work on divertor systems and ways of exhausting spent fuel from the plasma; and the development of more efficient ways of heating the plasma and in-depth understanding of the confinement physics.
+If machines such as JET prove the scientific feasibility of fusion there will have to be even larger machines if we are to prove fusion's technical and economic feasibility.
+And just as JET was too large for any single European country to build, its successors may also be collaborative ventures, perhaps involving even more countries.
+One activity that has already been set up is the international Intor workshop, in which groups from the US, Europe, japan and the USSR have met to establish a common set of objectives and an optimum design for demonstrating the technology needed for a fusion reactor based on the tokamak system.
+The International Atomic Energy Agency of the United Nations organises the Intor workshops (Intor stands for International Tokamak Reactor) although most of the work is actually carried out by groups working in their various home laboratories.
+The leading groups meet in Vienna periodically to bring the work together.
+The Intor workshop has already produced a first broad proposal a definition of the envisaged plant and its objectives.
+Intor is presently conceived as a 600 MW (thermal) reactor that would run for 10 years, researching and, we hope, demonstrating the practicability of repeated long pulses burning thermonuclear fuel in a tokamak.
+Intor could also test the life of components in the flux of neutrons — at an energy of 14 MeV — produced by reactions between deuterium and tritium.
+Such a device would become radioactive because of those neutrons and Intor would also have to demonstrate the practicability of maintenance by remote control.
+Intor would not produce electricity, that would come later in the so-called demonstration plant.
+The Intor work could form the basis of the ‘Next European Tokamak’ called for in the 1982–1986 fusion research programme of the European Economic Community.
+With this scenario for fusion research, the timescale would still put demonstration of the feasibility of fusion power some decades away, even assuming that the outcome of JET is satisfactory.
+One task of plasma researchers is to try to shorten this development period.
+The physics of fusion
+Toroidal fusion machines contain a hot ionised gas (plasma) in a complex magnetic field.
+The field lines form a helix on a toroidal surface.
+The field has two components: toroidal and poloidal.
+Large external field coils produce the toroidal field.
+The poloidal field is produced in different ways, depending on what sort of machine it is.
+In a tokamak an external transformer winding induces a current in the plasma, and that current creates the poloidal field.
+In a pinch, such as Zeta, the approach is similar, but the toroidal field is much higher.
+Tokamaks have dominated fusion research since 1970, following a successful experiment in the USSR.

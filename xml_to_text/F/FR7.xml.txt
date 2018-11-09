@@ -1,0 +1,820 @@
+
+
+1 INTRODUCTION
+The ocean bill of lading is undergoing a radical transformation.
+Up until the 1960's, most commercial letters of credit, reflecting documentary sales terms, called for payment against presentation of negotiable ocean bills of lading indorsed to the issuing or confirming bank.
+Bankers regarded the ocean bill of lading as sound collateral, and as a secondary source of repayment of the account parties' reimbursement obligations to the  issuing bank.
+This is no longer the case.
+During the last two decades more and more bankers have come to regard the bill of lading as just another letter of credit document.
+Issuers of letters of credit now view themselves, not as purchasers of bills of lading, but as mere examiners of the bills' facial compliance with the terms of the letter of credit.
+The banker's decision to issue a credit nowadays is rarely based upon the availability of a ‘clean, on board, negotiable’ ocean bill covering the shipment of a readily marketable commodity.
+Prominent American bankers recently informed me that half of their commercial letters of credit provided for payment not against ocean bills of lading, but against freight forwarders' cargo receipts.
+These forwarders' receipts lack essential elements of ocean bills of lading.
+Their popularity is due to the lower cost of ‘consolidated’ shipments, in which freight forwarders place the cargo of several shippers in the same container or on pre-leased space in a vessel.
+In a similar vein, representatives of one of the most active carriers in the North Atlantic trade recently told me that most of its North Atlantic and Baltic business is documented with sea waybills, which also differ sharply from the negotiable ocean bill of lading.
+During the mid 1980's, a major bank attempted to develop electronic procedures to facilitate trading in North Sea crude oil with the support of a centralized registry.
+At the same time, carriers have begun to switch to paperless or electronic bills of lading.
+In response to the need for paperless bills of lading, in June 1990, the Comité Maritime International (CMI) approved a set of rules covering the electronic bill of lading.
+The ocean bill of lading's demise or metamorphosis can be evaluated from a strictly maritime law perspective (an evaluation that this writer is not equipped to make), or from a banking law perspective.
+The banking law perspective, although narrower in scope, is likely to reveal what lies ahead for the ocean bill of lading.
+Bankers' willingness to purchase ocean bills of lading and to rely on them as collateral provided much of the impetus for universalizing bill of lading practices until the 1960's.
+Conversely, bankers' unwillingness to rely on some electronic sea waybills as collateral for present day letter of credit issuances has thwarted generalized acceptance.
+The acceptability of legal institutions in the financial marketplace usually depends upon how fair and certain their users perceive them to be.
+Hence, the following historical and comparative analysis will seek to identify those features that made the bill of lading the fair and certain negotiable document of title it was until the advent of containerization.
+Having identified such certainty and fairness features, it should be easier to determine which contemporary variant will reinvigorate or replace the ocean bill of lading.
+The analysis will also perform the more mundane task of acquainting bankers and banking lawyers with fundamentals of ocean bill of lading law which made the ocean bill a merchantable document, including landmark statutes, decisions, conventions, and contractual clauses.
+The analysis will also acquaint maritime lawyers with banking-bill of lading law.
+2 EVOLUTION OF THE BILL OF LADING
+2.1 Appendage of the Charter Party and Contract of Ocean Freight
+During its early history the bill of lading was an appendage of the charter party and of the contract of ocean carriage The function of the bill of lading was to acknowledge receipt of the cargo delivered by the shipper to the shipowner, charterer, or master of the vessel and to summarize the principal terms of the contract of ocean freight.
+In a typical 16th century English charter party the owner of the vessel acknowledged, directly or through the ship's master, that: 1) he had let the ship and promised to prepare it, by a fixed date, to take in the goods provided by the charterer; 2) the ship would sail with the first convenient wind to the stipulated port; 3) in accordance with a receipt or bill of lading he would deliver the goods in good condition to the designated person; 4) the ship would remain at that port for a fixed period to take in such goods as the charter party nominee party needed to reload, and that the ship would then return to the port of origin, and deliver the reloaded goods in good condition; and 5) the crew would be as described, and would be furnished with the proper gear.
+The charterer, on the other hand, promised: 1) to load the ship within the stipulated time; 2) to pay freight on the discharge of the goods; and 3) to pay customary fees such as‘primage’(a small payment to the master for his ‘trouble’), ‘pilotage’(pilot's fee), and ‘average’(an assortment of small fees for services, such as towing shared by ship and cargo, not to be confused with general or particular average).
+The charter party made the shipowner liable for very little; it exempted him from liability for accidents, and listed instances in which the losses were shared by the shippers as ‘general average’ losses.
+The inclusion of the charterer's duties in the text of the charter party made this contract conditional in the sense that its enforcement by the charterer depended upon fulfillment of the specified conditions.
+Since the bill of lading promise of delivery was subject to charter party stipulations, the bill of lading conveyed no rights beyond those in the charter party.
+Malynes' description of 17th century English shipping practices makes clear that bills of lading were not issued separately from charter parties.
+In fact, it seems no ship without a charter party could be loaded (’ freighted’); and bills of lading were supposed to be drawn up to declare the nature of the cargo and to bind the master of the vessel to deliver in accordance with the charter party.
+Consequently, Malynes' 17th century bill of lading included, among other recitals: the name of the ship, the date of sailing, the cargo, conditions under which the freight was paid or payable by the ‘laders’ of the goods entrusted to the charterer, disclaimers or exceptions for non-performance, and the promise of delivery of ‘the said goods also well conditioned, to the…merchant or his assigns.’
+Malynes' explanation for the use of several copies of the bill of lading was:
+Of these bills of lading, there is commonly three bills of one tenor made of the whole ship's lading, or of many particular parcels of goods, if there be many laders; and the mark of the goods must therein be expressed, and of whom received, and to whom to be delivered.
+These bills of lading are commonly to be had in print in all places and several languages.
+One of them is enclosed in the letters written by the same ship, another bill is sent overland to the factor or party to whom the goods are consigned, the third remaineth with the merchant, for his testimony against the master, if there were any occasion for loose dealing; but especially it is kept for to serve in case of loss, to recover the value of the goods of the assurors that have undertaken to bear the adventure with you.
+The issuance of multiple copies was thus intended to assure that the consignee received at least one.
+Multiple copies also enabled the consignor, the consignee, or the consignor's assigns to claim a breach of the carrier's duty of safe carriage and to lodge a claim against the cargo insurers.
+It should be noted that Malynes used the expression ‘assigns’ and did not describe the claimant of the goods or proceeds as a ‘holder’of the bill of lading.
+The claimant could not be described as the lawful holder of the bill of lading unless a given copy or all the copies issued by the carrier were designated as the original bill or set of bills.
+Eventually, tender of such a bill to the carrier became a prerequisite for the latter's delivery of the goods to the bill's holder.
+Unless it was an ‘original’ a document could not carry with it the right to claim delivery of the goods.
+2.2 Document of Title Linked with the Documentary Sale: Assignability, Negotiability, and Abstraction
+The availability of good roads in Central and Mediterranean Europe, during the first half of the 19th century, made possible sales contracts under which the buyer paid for the goods upon the seller's tender of the bill of lading at the port of shipment or transhipment.
+For example, a Belgian seller would agree with his Algerian buyer that payment of the purchase price would be due in Marseilles upon delivery, not of the goods, but of the bill of lading, an invoice that described the merchandise and listed its price, and an insurance policy that covered shipment risks.
+In the above example, the ‘cost, insurance, and freight’ or ‘CIF’stipulation was made possible by the likelihood that the Belgian bill of lading would arrive in Marseilles by land before the goods would arrive by sea.
+Timely arrival of the bill of lading prevented the accrual of costly demurrage, storage, and customs charges, which might have been incurred had the vessel arrived before the bill of lading.
+The ocean bill of lading's transformation from an appendage of the charter party to a document of title was inevitable once shippers discontinued the practice of accompanying their wares during maritime carriage, and entrusted them to the ocean carriers.
+The consignee needed a document that justified his claim to the goods at the journey's end and the bill of lading became such a document.
+In this writer's opinion, the bill of lading's transformation into a document of title was made possible by the notarial and fiduciary role vested in the ship's master.
+Jacques Savary, one of Europe's leading 17th century commercial lawyers illustrated in an answer to a consultation (Parere ), the importance of the captain's public fiduciary role.
+Savary explained the distinction between a charter party and a bill of lading as follows:
+The charter party is the document made between the merchant and the bourgeois or the owner of the ship to make a voyage…
+The bill of lading is a document that the master of the vessel gives to the merchant-shipper in which he acknowledges having received on board a number of packages or cases containing the quantity or quality of merchandise to be consigned or delivered to a person in the place where the ship must go.
+Earlier, Savary had responded to the question whether a shipment by the owner of the vessel still required a charter party and bill of lading issuance by stating:
+If it is the owner of the ship who has shipped the goods one cannot force the master of the vessel, who is on board the vessel for the purpose of sailing to its destination, to enter into a charter party because the ship belongs to the merchant shipper.
+Yet, if the ship has been leased to a merchant shipper, the master must enter into a charter party or a contract of freight .
+(Emphasis added).
+Then, Savary added an important clarification:
+If the shipowner has loaded the ship for his own account he must have a bill of lading which must state that the merchandise loaded on board belongs to him, that is to say, the quantity of packages or boxes, the marks and the name of the consignee.
+Hence if the master does not issue the above mentioned bill of lading at the time of loading, the merchandise is declared well taken or captured.
+It being of no use for the master to say that the merchandise belongs to the owner of the ship because he cannot be believed upon his word; and he is not believed on his word when he declares that the ship belongs to the bourgeois and that there is no point to the charter party for the above stated reasons.
+Savary's statements show that the 17th century bill of lading had begun to function as a ‘necessary’ document; only by showing the document could Savary's shipper-owner claim lawful possession of the goods he had shipped in his own vessel.
+A charter party did not necessarily attest to the ownership of the goods shipped because the charterer might not have been a shipper, but merely a lessor of space.
+On the other hand, the charterer himself might not have dealt with any or all shippers, because he delegated this function to the vessel's master.
+Shippers needed a document that could be issued by someone trustworthy in control of the shipping space and who was presumably aware of who shipped what.
+This trustworthy person was the ship's master, and the document he issued served as an attestation to both shipment and ownership.
+In placing this responsibility on the master, European maritime law likened the master's duties of certification and giving notice to those of a quasi judicial official referred to in the law of land based trade as a ‘scrivener’ or ‘notary public.’
+This certifying function was confirmed in a subsequent paragraph of Savary's opinion.
+Savary was asked whether a bill of lading that did not state for whose account the goods had been shipped was valid.
+He responded:
+…one must absolutely state the name of the person for whose account the merchandise is loaded; otherwise it is a fraud…
+[I]f the shipper's name were not stated, the master would be able to take the merchandise on board for the account of a merchant who is a citizen or subject of an enemy state,[and this]merchandise [could be]subject to confiscation.
+It is the law [jurisprudence]of the usages and customs of the sea of all the European nations, and it conforms to the Maritime Ordinance of August 1681.
+The requirement that the consignor's name be stated was only half of the document of title equation.
+The other half was the requirement that the cargo be delivered only to the lawful holder of an original in the set of three bills that Savary referred to as a ‘triplet.’
+If the consignor wanted to ensure that no person other than the consignee or the lawful holder of the bill could claim delivery, he could stipulate that delivery required production of all the copies or parts of the set that were not in the master's possession.
+The Lickbarrow v. Mason decisions by the House of Lords were the first (at least in Anglo-American law) to establish that a consignor's right to stop the goods before they reached the consignee was subordinate to the rights of the consignee's endorsee holding such a bill.
+In addition, the special verdict of the jury in this case established that by custom of merchants a bill of lading was transferable by endorsement, and capable of transferring title to the goods.
+Lickbarrow v. Masons' sanction of commercial custom as a source of documents of title law is significant.
+Although common law jurisdictions are more willing to validate judicial customs that create documents of title than are civil law jurisdictions even in common law validation has been mostly legislative.
+It is important to note that in shipping practice, possession of all the originals continues to be a prerequisite for the exercise of the consignor's right to control the goods delivered to the carrier.
+This right of control is manifested in, among other situations, the consignor's retrieval of goods from the carrier or the carrier's warehousing agent and in the consignor's instruction to refrain from delivering to the named consignee or to deliver to another consignee.
+Therefore, when the bill of lading is described as a necessary document of title, this description includes the claim for delivery at destination as well as the control over the goods in transit or in custody awaiting transit or delivery.
+In this sense, a common carrier's ‘straight’ or non-negotiable bill of lading is a document of title under United States law, especially since title to the goods (although not as full fledged a title as with a negotiable bill of lading) is acquired upon the transfer of a straight bill.
+By the middle of the 19th century, European commercial codes sanctioned the assignment or transfer of bills of lading by endorsement or delivery.
+Assignment or transfer conveyed to the assignee the rights, and burdens or disabilities of the transferor-assignor.
+If the transferor's rights were subject to a third party claim, or if the transferor was not the true owner of the goods shipped, his assignee-endorsee had no better rights than the transferor.
+Beyond assignment and transfer, however, was true negotiation; i.e., the creation of new, independent or ‘abstract’ rights to protect the increasing number of bona fide purchasers, pledgees or mortgagees of bills of lading against claims by current or previous owners or possessors of the goods or bills, or by parties with legal or equitable claims against or derived from the shipper-consignor.
+Once the bill of lading became an abstract document, it conveyed to a good faith holder what became known as a ‘mercantile’ title to the goods — the lawful holder of the bill of lading acquired a better right to the possession of the goods than his transferor.
+The United States Pomerene Act, provided that if the goods were delivered to a common carrier by their owner or by the owner's agent, once an order bill of lading was issued, the goods could not be attached or levied upon, under an execution, unless the bill was first surrendered to the carrier, or its negotiation was enjoined.
+Moreover, if shipper A entrusted his goods to faithless agent B who shipped the goods, obtained an ‘order’ bill of lading and endorsed it to C who acquired it for value and in good faith, A could not replevy the entrusted goods from C. A bank then, could be assured that it would become an ‘absolute purchaser of goods upon deposit with it of [a]draft and bill of lading…[and would acquire]absolute title to property, unless it took with notice of some infirmity.’
+With the early 20th century enactment of the Uniform Bill of Lading and Pomerene Acts in the United States, American issued bills of lading attained the highest level of abstraction available at that time.
+If a bill of lading was issued either by a carrier or by its employee or agent whose authority included receiving goods and issuing bills of lading, the carrier was liable for damages: a) to the owner of the goods covered by a straight bill of lading; or b) to the holder of an order bill who gave value in good faith, and who relied upon the description of the goods or upon their shipment on the date shown.
+This meant that even though no goods had actually been received by the carrier's faithless agent or that the goods received were misdescribed, the mere fact that a bill of lading had been issued by someone empowered to do so created a right to claim the value of the described goods.
+Such a right instilled trust in the written statements by carriers and encouraged consignees to deal with distant and unknown sellers.
+At the same time, however, the practice of issuing multiple originals gave rise to the problem of choosing among the rights of multiple holders.
+To protect the carrier against conflicting claims by more than one holder it became customary for bills of lading and letters of credit to require that delivery of the goods, or payment of the documentary draft or letter of credit by a bank be made against presentation of the ‘full set.’
+The 19th century English ocean bill of lading was considerably less abstract and incorporated or merged fewer possessory rights than did its 20th century American counterpart.
+First, the contractual relationship between the shipper-consignor and the carrier issuer of the bill controlled subsequently acquired rights.
+In typical nemo dat quod non habet (no one can convey what he does not have) fashion, the rights acquired by the consignee or transferee of the bill were measured by the rights conveyed or retained by the shipper.
+One of these rights, the right to sue the carrier, to this day is not fully lodged with the holder of the bill.
+Also in typical nemo dat quod non habet fashion, the rights of the holder of the bill were connected with his acquisition of title to the goods.
+Furthermore, in 1851 the Court of Common Pleas held in Grant v. Norway that a master who signed a bill of lading for twelve bales of silk that had not been shipped had no authority to issue such a bill and thus the bill was unenforceable.
+Section 3 of the 1855 Bill of Lading Act was intended as an assurance against Grant v. Norway :
+Every bill of lading in the hands of a consignee or endorsee for valuable consideration representing goods to have been shipped on board a vessel shall be conclusive evidence of such shipment as against the master or other person signing the same, notwithstanding that such goods or some part thereof may not have been so shipped, unless such holder of the bill of lading shall have had actual notice at the time of receiving the same that the goods had not been in fact laden on board: Provided, that the master or other person…may exonerate himself…by showing that it was caused without any default on his part, and wholly by the fraud of the shipper or the holder, or some person under whom the holder claims.
+Yet, the same Act subjected the bill of lading endorsee ‘to the same liabilities in respect of such goods as if the Contract contained in the Bill of Lading had been made with himself.’
+Moreover, a close reading of the quoted language in Section 3 above reveals that it neither provided a cause of action for non-delivery of the goods stated to have been shipped, nor deemed the statement in the bill conclusive evidence of shipment against the carrier.
+What is stated in the bill is only conclusive evidence against the master or agent who signed it, ‘even where the carrier's agent had actual authority to sign.’
+Nevertheless, despite these obvious failures to protect holders of bills of lading, English merchant banks continued to buy the lion's share of the world's sterling documentary drafts during the remainder of the 19th century.
+English central banking policy was a major contributor to the development of this, the first worldwide, sterling denominated, documentary draft and bill of lading market.
+The Bank of England adopted a policy of encouraging ‘self liquidating’ commercial loans.
+A transaction that conveyed title to readily marketable staples by endorsement of the bill of lading or warehouse receipt to the commercial, and subsequently to the central banker was encouraged.
+A similar official encouragement became apparent in United States central banking policy in the middle of the 19th century.
+2.3 The Merchantability of the Bill of Lading: Cleanliness and On Board Requirements
+From a merchant banker's standpoint, a desirable bill of lading has to be ‘merchantable’ i.e., it has to be easily resalable.
+In order to be easily resalable, it must allow quick and low cost possession of readily marketable goods.
+Hence, whenever possible, bankers require bills of lading that contain no notations stating defective conditions in the goods or their packaging.
+These are referred to as ‘clean’ bills of lading, and are contrasted with ‘foul,’‘unclean,’or ‘claused’bills, which do contain qualifying statements or notations.
+Furthermore, from a banker's standpoint a bill that indicates that the merchandise has been ‘shipped’ or placed ‘on board’is preferable to one which merely states that it has been received for future shipment.
+The on board statement establishes a direct link between the goods and the vessel, a link that facilitates not only the holder's recovery of the goods or insurance proceeds, but also his arrest of the vessel in the event of loss of or damage to the cargo.
+Unquestionably, a bill of lading is more merchantable when issued by the owner or master of a ‘seaworthy’ vessel, i.e., a vessel capable of providing both a safe journey and reliable stowage facilities.
+Hence, for years bankers have disliked bills issued by owners or masters of ‘sailing vessels.’
+Underlying these concerns is the bankers' need for a fair document of title, and fairness requires first of all honesty.
+Honesty exists when a document is enforceable on the basis of its ostensible (as opposed to‘small print’) terms, or when express warranties are not disclaimed in the small print.
+A modicum of ocean bill of lading honesty and fairness was attained through late nineteenth and early twentieth century statutory, decisional, and treaty law.
+2.4 The Carrier's Historical, Treaty, and Statutory Liability
+2.4.1 The Strict Liability of Carriers
+The term ‘carrier’ seems to have been coined in Anglo-American legal discourse largely to aid in the assessment of liability for damage to cargo.
+If cargo has suffered damages while in transit or in custody awaiting transit, Anglo-American law usually decides liability after determining the identity of the carrier.
+This is not to say that the term ‘carrier’ has no purpose in bill of lading law other than to assess damage liability.
+A good deal of the administrative law of ocean transportation is concerned with licensing and tariff issues, which also require a definition of ‘carrier.’
+Nevertheless, multiple persons and entities, such as‘shipowners,’‘charterers,’‘possessors of property shipped,’‘masters of the vessel,’ their ‘agents,’and even ‘ships’are referred to as carriers in bill of lading law and practice once they are made responsible for loss or damage to cargo.
+According to the Justinian Digest, ocean carriers, among others, were distrusted by their clients, and this distrust resulted in strict liability for delivery.
+The ocean carrier in the Roman receptum nautae was liable to his consignee to deliver the goods at the end of the journey in the same condition as delivered to him by the consignor, even if the damage occurred without the carrier's fault.
+The ocean carrier, therefore, was deemed to warrant to the consignor safe transport and delivery and could avoid liability only if he proved that something in the nature of force majeure had intervened.
+This principle of strict liability prevailed through the Middle Ages in Mediterranean countries, including Western France.
+In slightly modified fashion, the same principle still governs the liability of common carriers in English common law.
+Instead of the Roman damnum fatalis,the common law carved out exceptions for inherent defects or vices of the goods, shipper's contributory negligence, and acts of God or of the King's enemies.
+The English law strict liability principle, however, was not mandatory and thus carriers could contractually disclaim it.
+And disclaim it they did, especially with the advent of steamer shipping across the Atlantic Ocean.
+Steamers could carry larger volumes of cargo than sailing vessels and do it more frequently and regularly.
+The sharply increased volume of traffic increased the opportunities for profits, but also for crippling losses.
+Since Britannia ‘ruled the waves’ for at least half of the 19th century and for the early part of the 20th century, and since profitable shipping was of paramount British national interest, British legislators and judges were sympathetic to the British carriers' use of extremely broad disclaimers.
+Once the 1855 English Bill of Lading Act upheld the ‘common law’ exemptions to the strict liability principle, English shipowners felt reassured in their liberal use of disclaimers.
+Thereafter, the number and reach of disclaimers grew to the point where carriers customarily exempted themselves from liability for every conceivable act or event that could damage the goods, including their own negligence.
+In addition to the disclaimers, carriers used other clauses that limited the amount recoverable to very low sums, and established unreasonably short periods for the presentation of a claim.
+English courts, in particular, were reluctant to invalidate such disclaimers and limitation of liability clauses.
+The result was described by a leading U.S commentator as a ‘free contract of carriage…to the point where it could be said that the carrier accepted the goods to be carried when he liked, as he liked, and wherever he liked.’
+In the United States, carriers encountered a much less sympathetic judiciary.
+Only four years after the enactment of the English Bill of Lading Act, the United States Supreme Court subjected  bill of lading exemption clauses to obligations which were described as ‘overriding’: 1) The obligation to use due care with respect to the cargo; and 2) the obligation to furnish a seaworthy ship at the beginning of the voyage.
+as if to remove any doubt about the prevalence of an American view contrary to the English view, an 1889 United States Supreme Court decision expressly denied enforceability to the ‘negligence’ exemption.
+Even where a particular exemption clause or disclaimer was deemed valid, the shipper could avoid it if a breach of one of the overriding obligations was a concurrent cause.
+The main judicial concession to the carriers' interests was that in such a case, the burden of proving such breach was placed on the shipper.
+This evidentiary burden acted as an encouragement for carriers, United States and foreign, to continue to insert as many disclaimers as possible.
+Lacking today's liberal pre-trial discovery, 19th century United States shippers suing in the United States had a difficult time proving the carriers' negligence.
+Conversely, if United States shippers were to sue the carriers in Great Britain, where most of the sources of information on the defendants' diligence and assets were located, they would be bound by exemption clauses that the United States courts had voided.
+The result became apparent in cases such as In re Missouri S.S. Co. where an English court held that a bill of lading issued in Massachusetts, to an American shipper for goods loaded in Massachusetts, was subject to English law because the carrier was British and the parties were presumed to have intended the application of English law.
+2.4.2 The Harter Act Compromise
+U.S. shippers eventually took their case to the United States Congress which enacted the Harter Act of 1893 The Harter Act effected a compromise between the competing interests of shippers and carriers.
+This compromise distinguished between fault in the navigation and management of the vessel versus fault in the custody and care of the goods and in equipping the vessel.
+The Harter Act voided any bill of lading clause that sought to relieve the carrier from the consequences of negligence in proper loading, stowage, custody, care, or proper delivery of the goods.
+It also voided any disclaimer or limitation of the owner's obligation of due diligence in regard to seaworthiness, or in equipping the vessel.
+If a shipowner exercised due diligence to see that the vessel had been made seaworthy in all respects, the Harter Act exempted the shipowner from the consequences of errors in navigation and management.
+The Harter Act was also the first United States federal statute to specify what had to be stated in a bill of lading.
+Required to be stated were the goods' identification marks, the number of packages or quantity of goods and the indication whether the stated weight was the carrier's or the shipper's, and the apparent order and condition of the merchandise when received by the carrier.
+The requirement of an indication of the apparent order or condition of the goods encouraged the use of clauses or notations such as‘shipper's load and count,’‘shipper's description,’ and ‘said to contain.’
+From the carrier's standpoint, these as well as any other clauses or notations that indicated apparent irregularities made legal sense because they protected it from the allegation that the goods had been delivered in a sound condition and could have been damaged only because of improper loading, stowing, or care.
+At the same time, the Harter Act requirement encouraged the practice of indicating on the bill of lading the slightest apparent irregularity in the goods or their packaging, even when the apparent irregularity was inevitable with the type of goods shipped, such as‘wrappers bloodstained’ for meat shipments, or ‘rusty’for iron shipments.
+In due course, when internationally observed standard terms and sales rules, such as INCOTERMS required the seller to supply the buyer with a ‘clean’ document of title, the determination of what notation rendered the bill of lading unclean became essential to sellers, buyers, and their bankers.
+Although the Harter Act compromise was seemingly counterintuitive (how could the carrier be allowed to exempt itself for its own mistakes of navigation and management), it became one of the most internationally influential laws ever enacted by the United States Congress.
+Close restatements were enacted in common law countries, such as Canada, Australia, and New Zealand.
+The Harter Act was also highly influential in shaping the laws of leading civil law jurisdictions, such as Germany.
+Eventually, the Harter Act helped to shape the text of the 1924 Brussels International Convention for the Unification of Certain Rules Relating to Bills of Lading (The Hague Rules).
+As a statute that contained ‘protector of the weak’ features, the Harter Act became a precursor of contemporary consumer protection law.
+The Harter Act's protection of the weak betrays its perception of the bill of lading as a contract for the carriage of goods, whose terms are dictated by the carrier.
+In contrast, the Harter Act's draftsmen regarded the charter party as a contract for the lease of vessel space by parties of relatively equal bargaining power and knowledge.
+This perception continues to prevail, hence, while the bill of lading continues to be the subject of considerable national and international regulation, the charter party has until very recently attracted little regulatory attention.
+The protection given by the Harter Act to shippers and consignees  benefited banks and secured creditors.
+After the Harter Act, United States issuers, confirmers, and negotiators of letters of credit and documentary drafts who paid monies or extended credit on the strength of,inter alia , ocean bills of lading, could count on a minimum enforceable carrier liability, even where such a liability was artfully disclaimed.
+This is not to say that the Harter Act provided an adequate measure of compensation or a sound claims procedure against carriers, for it did not.
+The Harter Act failed, for example, to forbid the low limits on damages that prevailed throughout the shipping world at the turn of the century.
+It also failed to deal with the unreasonably short times for notices of claims against carriers; and it did not reverse the burden of proof that weighed upon the shipper whenever the carrier claimed the application of seemingly valid exculpatory clauses.
+2.4.3 The Hague Rules
+In September of 1921, the International Law Association (ILA), an English based private association met in The Hague, Netherlands and drafted a set of voluntary rules to govern some of the main aspects of ocean carriage liability.
+These rules were subsequently amended by the CMI, which although affiliated with the ILA acted as an independent entity.
+The amended text produced by the CMI reflected the strong influence of the Harter Act.
+In August of 1924, the Belgian government hosted an International Conference on Maritime Law to discuss the Hague Rules as amended by the CMI.
+Despite the fact that the Harter Act was a prime source of the Hague Rules, the United States Senate did not enact an implementing statute, the Carriage of Goods by Sea Act (’ COGSA’), until April 16, 1936.
+In this article, when appropriate, this implementing statute will be used as the relevant version of the Hague Rules.
+The Hague Rules as well as COGSA are applicable to shipments under a ‘bill of lading or similar document of title.’
+When applicable, these two sources of law provided shippers with benefits that had been unavailable under the Harter Act.
+Among these benefits were: 1) Bill of lading provisions that granted the carrier the benefit of the shipper's insurance were outlawed; and 2) The right of the carrier to limit liability to a fixed sum per package or shipping unit was modified so as to specify a mandatory minimum of 100 Pounds Sterling (or English Gold Sovereigns) or the the national currency equivalent per package or unit.
+As did the Harter Act, COGSA also required that carriers exercise due diligence to provide a seaworthy ship.
+Unlike the Harter Act, however, unseaworthiness did not deprive the carrier of immunity for liability for the consequences of errors of navigation and management because COGSA required that the alleged unseaworthiness be the cause of the loss.
+The 1990 decision by the United States Court of Appeals for the Ninth Circuit in Damodar Bulk Carriers Ltd. v. People's Insurance Company of China makes the effect of this distinction eminently clear.
+Prior to COGSA unseaworthiness was determinative of liability; after COGSA a carrier could rely on the Harter Act derived exemptions for errors in navigation or management, even though the vessel was unseaworthy as long as the unseaworthiness was not the cause of the loss.
+The Hague Rules, COGSA, and the Harter Act regarded the sea voyage itself as a risk sharing venture between shippers and carriers.
+Since the carriers risked their ships, it was assumed that they would select and supervise their crews with enough care to prevent the damages that could result from improper management and navigation of the ship.
+Such damages were therefore exempted by the Hague Rules, as were those caused by fire (unless caused by the design or neglect of the carrier), and by traditionally exempt perils, acts, and events.
+In order to standardize bill of lading texts and to promote uniformity of practice, the Hague Rules listed a number of required statements reminiscent of the Harter Act's requirements.
+Prominent among these requirements were: a) the leading marks necessary for identification of the goods; b) either the number of packages or pieces, or the quantity or weight; and c) the apparent order and condition of the goods.
+Court interpretation of the Hague Rules' implementing statutes detracted from international uniformity.
+International uniformity on the amount of compensation became an unrealistic goal.
+Courts in country B (the country of shipment) would not award the amount stipulated in the per package limitation of country A (the importing country) even though A's implementing statute stated that it applied to inward as well as to outward bound shipments.
+Accordingly, depending upon whether a bank holder of a bill of lading sued in the United States or in England he could get $500 instead of £100 for loss of the same package or unit of freight.
+Similarly, the question of whether the per package limitation applied to containers (regardless of size) became a lex fori determination.
+Despite the lack of international judicial uniformity on several important issues, the Hague Rules made a signal contribution to international trade.
+The Hague Rules eliminated uncertainty of liability by setting standards of responsibility and establishing a mandatory minimum of compensation.
+These mandatory standards and minimum compensation made the international ocean bill of lading a more honest instrument.
+The Hague Rules ‘boundaries’ of liability encouraged less costly schemes of risk assumption.
+COGSA, for example, applies from the time the goods are loaded on board the vessel to the time they are discharged; i.e.,’ tackle to tackle.’
+This was only one among the many spatial, time, and monetary boundaries of liability set forth in the Hague Rules.
+Once established, these boundaries enabled shippers, carriers, banks, and insurance companies to contract for appropriate insurance coverage.
+Soon a basic arrangement emerged whereby carriers purchased hull and ‘liability’ insurance, and shippers or their consignees purchased ‘cargo’insurance.
+It is true that a considerable overlapping of insurance coverage has resulted from this basic arrangement.
+Yet, overlapping is inevitable whenever risk categories fit easily into more than one compartment.
+Consider, for example, the risk categories of improper stowage, error in the navigation and management of the vessel, and unseaworthiness.
+Assume that goods became loose in rough seas either because of improper lashing or because of heavy seas that could have been avoided with better navigation.
+Assume further that the loose goods caused damage to a vulnerable vessel structure, which damage, in turn, caused damage to the goods themselves.
+Under these circumstances, how could overlapping be avoided?
+Overlapping coverage, albeit wasteful in some respects, ultimately contributed to the certainty and merchantability of bills of lading.
+In the event of loss or damage, carriers, shippers, consignees and their financiers could count on sets of insurers to pay the claims.
+Once the claims were paid, the insurers decided amongst themselves who bore the loss and in what proportion.
+The standardization of textual requirements was an equally important contribution of the Hague Rules to the certainty of the ocean bill.
+If prior to the Hague Rules bankers had legitimate concerns that a bill of lading issued in country A, the place of shipment would not be enforceable in country B, the place of issuance of the letter of credit and arrival of the goods, such concerns were lessened by the enactment in more than 70 nations, of statutes implementing the Hague Rules.
+While a Hague Rules inspired bill of lading can be challenged by an issuing bank on the basis that Article 3(3) of the Hague Rules defers to municipal law for unlisted requirements, decisional law does not reveal any such challenge.
+In this sense, the Hague Rules'’ incomplete’list of ocean bill of lading requirements has withstood inconsistencies with municipal law.
+2.4.4 Hague-Visby
+The so-called Visby Protocol which amended the Hague Rules, was adopted in 1968, after approximately a decade of negotiations.
+As with the Hague Rules, the Visby Protocol applies to bills of lading ‘or other documents of title.’
+2.4.4.1 Package, Unit, and Tort Action Limitations
+The Hague Rules mandatory minimum compensation for loss or destruction of cargo became outdated.
+The Visby Protocol raised the package and freight unit limitation and expressed the amount as the equivalent of a specified quantity of gold: 10,000 Poincaré francs per package or 30 Poincaré francs per kilogram.
+At the time of the adoption of this standard 10,000 Poincaré francs were worth approximately $660 dollars or £235.
+Carriers, on the other hand, gained increased protection against tort lawsuits as a result of the Visby Protocol's clarification that the limits of liability and  defences of the Hague Rules applied equally to actions in tort and in contract.
+This clarification was particularly needed in common law countries, such as Great Britain, because of their procedural requirement of privity of contract.
+As noted by Anthony Diamond Q.C., if the cargo owner was a party to the bill of lading it was subject to the disclaimers whether it sued in contract or tort.
+If the cargo owner was not in privity of contract, the shipowner might need protection against claims in tort.
+Mr. Diamond provided some helpful illustrations of the need for the clarification.
+His first example concerned a bank which took a bill of lading as security for its loan to the seller or buyer of the goods.
+Since, under English law, the bank was not in contractual privity with the carrier until the bank took delivery of the goods, if the ship and cargo were lost the bank would have to sue the carrier in tort.
+In such a suit the carrier's right to rely on the Hague Rules  defence of error in navigation is uncertain.
+His second example involved a transhipment bill of lading issued by the first carrier and damage or loss occurring on the second carrier's vessel.
+As with the first example, it was not certain whether the Hague Rules  defences available to the first carrier were available to the second carrier.
+A similar uncertainty is apparent in the third example where a bill of lading was issued by a time charterer, but the shipper sued the owner of the vessel.
+Finally, his fourth example involved a freight forwarder's bill of lading.
+The freight forwarder stuffed the plaintiff's goods as well as other shippers' goods into one container, and then procured a single bill of lading in the forwarder's name from the carrier.
+Alleging lack of contractual privity with the carrier, one or all of the shippers whose goods were in the container sued the carrier in tort.
+Prior to the Visby Protocol there was a possibility that the carrier would be liable in tort in the four examples.
+Mr. Diamond asserts that under the Visby Protocol tort liability would be precluded in at least two of the examples.
+These would be examples 1 and 4, where the party who carried the plaintiff's goods had also issued the bill of lading or had entered into the freight contract with the shipper, whether or not the shipper was the plaintiff.
+2.4.4.2 Application of One Year Time Bar to Claims for Wrong Delivery
+Another Visby amendment was designed to ensure that the one-year time bar to claims for damages applies also to claims for misdelivery of the goods.
+This amendment addressed what has by now become a generalized practice and problem throughout the shipping world.
+If, upon arrival of the goods, the consignee does not have the required bill of lading in his possession, he often obtains the carrier's release of the goods by tendering an acceptable letter of indemnity.
+Often this letter of indemnity is issued or countersigned by a bank.
+As long as the carrier continues to be liable for the delivery of the goods to a holder of the missing bill of lading, the indemnity has to run for long or indefinite periods of time.
+With the application of the one year time bar to misdelivery of the goods, longer or indefinite term indemnities are no longer necessary.
+The amendment also protects the carrier from claims of ‘fundamental breach of the contract’ for misdelivery or deviation which would have otherwise voided the contract and rendered the one year time bar inapplicable.
+2.4.4.3 Conclusive Evidence of Shipment and Abstraction
+One of the most significant contributions made by the Visby Protocol to the merchantability of the bill of lading was the ‘conclusive effect’ amendment to the Hague Rules.
+The Hague Rules had adopted the principle that the bill was only ‘prima facie evidence of the receipt by the carrier of the goods as therein described…
+’ The Protocol added the following sentence: ‘However, proof to the contrary shall not be admissible when the bill of lading has been transferred to a third party acting in good faith.’
+This sentence overruled cases such as Grant v. Norway , which held that a captain or other owner's agent, who signed a bill of lading for goods that were not received, did so ultra vires or without authority.
+In doing away with the ultra vires doctrine, Visby increased the certainty and abstraction of international bills of lading to the level of the Pomerene Act.
+Depending upon the courts' interpretation of the term ‘good faith,’ this amendment may include a larger number of protected holders than the Pomerene Act.
+If good faith requires only that the holder have no actual notice that the goods have not been shipped or do not correspond to the bill of lading description, the holder does not have to prove that it give value or consideration, as it must under the Pomerene Act.
+2.4.5 The Hamburg Rules
+The Visby Protocol did not still the criticism of the Hague Rules.
+Dissatisfaction with the Hague Rules came from both the maritime carrier countries and the developing nations of Asia and Africa.
+Visby's compromise was regarded by the developing nations as responsive to the complaints of maritime carriers.
+Third world countries felt that their concerns remained unaddressed.
+In response to these concerns, the United Nations Commission on International Trade Law (’ UNCITRAL’) undertook a revision of Hague-Visby.
+A diplomatic conference was convened at Hamburg, West Germany in March 1978, under the auspices of UNCITRAL.
+The resulting convention, known as the Hamburg Rules is skewed toward the interests of cargo-shipping nations and against the interests of cargo-carrying nations.
+According to a member of the United States delegation, a spirit of economic warfare permeated the conference.
+The Hamburg Rules introduced radical changes, including a much larger scope.
+Hamburg eliminated the Hague and Visby Rules' disputed precondition of applicability only to documents of title.
+Hamburg applies generally to ‘all contracts of carriage by sea between two different States,’ and specifically to the ‘bill of lading or other document evidencing the contract of carriage by sea.’
+The omission of the words ‘of title’ allows applicability to non-documents of title, such as sea waybills and cargo and forwarders' receipts, as long as these waybills and receipts evidence the contract of carriage.
+Other changes were radical reversals of previous liability rules.
+For example, the Harter Act and Hague Rules'  defences of error in navigation or management of the vessel were eliminated, and replaced by liability for negligence in navigation or management.
+This new liability principle contained res ipsa loquitur provisions in accordance with which the carrier now had the burden of proving freedom from fault.
+The Hague Rules' fire  defence was changed to place liability on the carrier for fault or neglect in the causation of a fire or in measures to extinguish the fire.
+The burden of proof on a fire claim, however, remained on the claimant.
+Liability for delay in delivery was unclear under Hague-Visby; Hamburg made carriers liable for delay.
+The Visby limitations of 10,000 Poincaré francs per package or 30 Poincaré francs per kilogram were raised by 25%.
+The Poincaré franc was replaced by the Special Drawing Right (hereinafter ‘SDR’) at 835 SDR's per package and 2.5 SDR's per kilogram.
+The carrier was made liable, without limitation, if the loss, damage or delay in question was proven to have resulted from its act or omission ‘done with intent to cause such loss, damage or delay, or recklessly and with knowledge that such loss, damage or delay would probably result.’
+The same rule also applied to servants or agents of the carrier.
+The limitation of time for suit was increased from one to two years.
+Some of the changes in Hamburg reflected the increasingly important role of freight forwarders.
+Hamburg permits an issuer of a through bill of lading to contract out of liability for damage done during the carriage by another carrier only if the contract of carriage ‘provides explicitly that a specified part of the carriage is to be performed by a named person.’
+Hamburg covers the whole period during which the carrier is in charge of the goods at the ports of loading and discharge.
+This contrasts with the shorter, ‘tackle to tackle’ period of the Hague Rules.
+3 Present State of the Ocean Bill of Lading
+3.1 Practices determined by Specialization
+3.1.1 Types of vessels: Liners, Tramps, Tankers, Combination, General Cargo, and Container Ships
+The world's ocean transportation needs are serviced by ‘liner’ and ‘tramp’vessels.
+Generally speaking, If the service is scheduled along a fixed route, the vessel is a ‘liner’; if the service is not on a fixed route and is  unscheduled , the vessel is a tramp.
+In addition to requiring special types of vessels, containerization requires a special place for reception of the goods.
+If the goods are not ‘stuffed’ at the seller's place of business, they are stuffed at the consolidator's place of business or in terminals or container yards (usually referred to as Container Freight Stations (C.F.S.) or as Container Yard (C.Y) points.
+Thus, containerized loading commences, in many instances, not at dockside or on board the vessel but at inland points.
+Predictably, different types of vessels and methods of shipment entail distinct bill of lading practices.
+Consider, for example, the issuing and signing of bills of lading.
+Most oil or liquid gas tankers and dry bulk vessels, are not likely to issue many bills of lading to cover their full cargo load.
+Consequently, the master or captain of the tanker or dry bulk shipment vessel may reasonably be expected to sign each bill.
+Such an expectation would be unreasonable with container ships or with general cargo vessels, where hundreds of bills of lading may have to be issued, and the issuance of final documentation is often possible only after the vessel has departed from the place of shipment.
+In addition, general cargo vessels depend upon shipping agents and loading brokers to fill out their cargo space and to issue their bills of lading.
+In such a situation, the captain seldom issues or signs the bill of lading.
+Container transport documents are issued frequently by freight forwarders or ‘consolidators.’
+These freight forwarders frequently act either as carriers in their own right when they consolidate multiple shippers' cargo and hire space on the vessel or vessels involved in the maritime leg of the journey.
+Container shipping has, in customary letter of credit practice, caused the replacement of the presumptive requirement of ‘on board’ bills of lading with ‘received for shipment’bills.
+This replacement was brought about not only by the consolidation practices just mentioned, but also because containerized shipping entails a multi-modal method of transportation.
+A multi-modal carrier issues ‘transport documents’ that cover the non-maritime portion of the journey.
+If the maritime portion does not take place in the first leg of the journey, the transport document cannot attest to a loading on board the vessel when, in fact, the goods are only on board a truck or railroad car.
+The most such a multi-modal transport document can attest to is that someone in a position to effect a future ocean shipment is in charge of the cargo and will be responsible for effecting ocean shipment.
+The important event in container shipping occurs not when the goods are placed on board the vessel, but when the goods are taken charge of by someone entrusted with the ‘door to door’ carriage of the goods, including, when appropriate, vessel carriage.
+Containerized shipment is inconsistent with the prohibition against transhipment, as commonly insisted upon by applicants, in commercial letters of credit.
+Inevitably, containerized, multi-modal shipments require that the goods be unloaded from one mode of conveyance and reloaded on another.
+Thus, transhipment prohibitions in relation to multi-modal or inter-modal means of conveyance amount to impossible conditions.
+Hopefully, the revision of the UCP presently underway will correct this problem by clearly distinguishing between transhipment with respect to traditional ocean bills of lading and transhipment with respect to multi or inter-modal carriage.
+Finally, consider the practice of negotiating the bill of lading while the goods are en route or awaiting transhipment.
+Cargo carried by oil and gas tankers or in bulk vessels is much more likely to be sold afloat than is cargo carried by general cargo vessels.
+In fact, while an oil cargo could be sold and resold several times a day under the right market conditions, very few North Atlantic or Baltic general cargo shipments are sold on the water.
+One of the risks inherent in negotiating and transferring bulk cargo paper-based bills of lading is that an endorser-transferor may become insolvent prior to the transferee's or endorsee's acquiring possession of the bill of lading.
+In such a situation, it is not uncommon for a trustee in bankruptcy to claim the cargo as an asset of the bankruptcy estate, thereby rendering subsequent negotiation of the bill and delivery of the goods uncertain.
+3.1.2 Intermediaries: Lessees, Brokers and Freight Forwarders
+3.1.2.1 Contemporary Charter Parties
+Charter parties are common and can still be classified into the three main types that prevailed at the end of the second world war: demise, voyage, and time charters.
+To create a demise or bareboat charter, an owner must relinquish possession, control and navigation of the vessel the charterer.
+The other two types of charters are basically contracts of affreightment.
+That is, the charterer lets the vessel or part of the vessel (space charters) for a fixed term (time charter), or a certain number of trips or for a voyage to transport a designated cargo (voyage charter).
+Under normal practice, if the vessel is subchartered, the vessel is manned by the owner or head charterer.
+This type of charter party is most common with tramp steamers.
+Certain trades rely on special types of charter party bills of lading.
+For example, the commodity trades which generate a high percentage of charter party bills of lading rely on a ‘Master's’ bill of lading.
+Often this bill states that the freight is payable ‘as per the charter party.’
+The format of a charter party bill of lading differs from that of a liner bill of lading in that the latter stipulates the terms of carriage of the goods on the bill of lading itself.
+Traditionally, the long form bill of lading contained all the clauses of the contract of affreightment including charges, fees and related costs.
+In contrast, the charter party bill of lading did not contain the charter party contract, but incorporated it by reference.
+In some instances, the ‘port agents’(also known as ship agents, ship brokers and/or chartering brokers) act as agents for both the shipper and the tramp carrier.
+Acting in this dual capacity, the port agent gives the captain the forms of ‘consignment bills of lading’ subject to charter party conditions.
+The captain then signs the bills of lading and precedes his signature with a statement that shipment is subject to charter party conditions.
+More commonly, however, the agent for the owner or head charterer is a specialized ship's agent dedicated to service only specified owners or head charterers, who not only books chartered space but also provides port services for the chartered vessel.
+This agent, who may or may not be affiliated with a freight forwarder, prepares the charter party bill of lading and gives it to the captain for his signature, subject to charter party conditions.
+From a bank's standpoint, a serious danger with charter party bills of lading is the possibility of having to pay unexpectedly large freight charges in order to obtain possession of the merchandise.
+Usually this situation comes about when a voyage or space charterer issues his own (ordinary or non-charter party) bills of lading, without the master's or his agent's signature.
+If no bill or statement has been signed by the master or his agent indicating that the freight had been paid, the carrier may exercise a lien on the cargo for the unpaid freight.
+Alternatively, the master can refuse to deliver the cargo until freight is paid.
+An experienced maritime law practitioner has suggested that a charter party bill accompanied by a ‘Master's’ bill of lading showing freight paid or prepaid would eliminate this uncertainty.
+This is a commendable solution to a thorny problem because, unlike ordinary bills of lading, charter party bills rarely mention the total amount of freight paid or due.
+However, this solution does not address the problem of costs of delay known as demurrage which can be very substantial.
+Aside from incorporating charter party terms by reference, charter party bills usually disclaim liability for the specific weight, contents, quantity, and value of the goods.
+The mentioned features account for much of the unpopularity of charter party bills of lading with bankers.
+Nevertheless, bankers must face the fact that the charter party bill of lading is used extensively, and that in the commodity trades it is quite common.
+Thus, the Working Party for the revision of the UCP should reconsider the acceptability of charter party bills of lading, including requirements such as the carrier's name when bills are signed by the master.
+The Working Party should also consider the implications of various types of references in the body of the charter party bill of lading to the payment of freight, or to the lack thereof.
+3.1.2.2 The NVOCC Practice
+The appearance of the ‘non-vessel operating common carrier’(NVOCC) in the United States is a post World War II development prompted by containerization and multi-modal transportation.
+As defined in 3 of the Shipping Act of 1984,(the’ 1984 Shipping Act’) an NVOCC is ‘a common carrier that does not operate the vessels by which the ocean transportation is provided and is a shipper in its relationship with an ocean common carrier.’
+Much of the attraction of NVOCC carriage is that it offers discounted rates, especially for less than a full container load of cargo.
+In NVOCC practice, the vessel is operated by a shipping company; but vessel space is either ‘sold’ or leased to a freight forwarder or other intermediary who acts as a contractual ‘common carrier’for the actual shipper of the goods.
+As a common carrier, the NVOCC enters into contracts of affreightment with his shipper, issues his own bill of lading, and assumes full responsibility for the carriage not merely from port of shipment to port of discharge, but from the point of origin to point of destination.
+Under U.S. law, an ocean freight forwarder cannot act as a common carrier or as an agent for such a carrier and thus cannot be a NVOCC.
+Many freight forwarders, however, skirt this prohibition by forming separate subsidiary corporations for their NVOCC operations.
+The bills of lading issued by NVOCC's are subsidiary bills, in the sense that the right to claim the goods described in the NVOCC bill is predicated upon the NVOCC's rights under a ‘master’ or underlying bill of lading issued by the shipping company to the NVOCC, or upon a contract of affreightment between the same two parties.
+Delivery of the goods covered by the NVOCC bill is effected by presentation of the NVOCC bill to an agent of the NVOCC at the port of discharge.
+This agent, in turn, presents the required copy or part of the set of the master bill of lading to the shipping company and obtains the goods.
+Since it is up to the NVOCC's agent to obtain the goods, control of the goods by the consignee or his creditors is uncertain.
+Until delivery of the goods to the beneficiary, his creditors and buyers cannot ascertain whether the goods were actually loaded on board, or whether the freight was paid.
+A safer practice from a banking and sales law standpoint would have the NVOCC tender copies of the master or underlying bill of lading to the beneficiary of the letter of credit for presentation to the issuing or confirming bank.
+Such a copy would contain the statements or notations necessary to reassure the beneficiary and letter of credit bank that the goods had been loaded on board the vessel and that freight had been paid.
+Bona fide NVOCC's would have no objections to this practice, but bad faith NVOCC's would oppose it because it would prevent them from issuing their own bills on a ‘freight prepaid’ basis after they had obtained ‘freight collect’terms from the actual carriers.
+The suggested practice would also help the holder of the copy of the master bill trace his goods in the event of the NVOCC's insolvency or disappearance, especially if the NVOCC's bill does not name the actual vessel.
+In an attempt to bolster the reliability of NVOCC bills, the 1984 Shipping Act required NVOCC's to file tariffs with the Federal Maritime Commission (’ FMC’), regardless of whether they were domestic or foreign-based.
+Since lower tariffs were one of the main attraction of NVOCC's, NVOCC's were prohibited from deviating from the rates and charges that appeared in their filed tariffs.
+The use of NVOCC's has spread to Pacific rim countries, and as their use has grown concerns have been expressed by shippers, shipping companies, NVOCC's themselves, and bankers.
+Shippers are concerned that many NVOCC bills of lading are issued by unscrupulous or insolvent operators.
+The FMC has received frequent complaints about shippers having to pay freight twice, both to the insolvent NVOCC and to the shipping company which had not been paid by the NVOCC.
+Bona fide NVOCC's, on the other hand, feel that they operate at a competitive disadvantage with regard to unscrupulous NVOCC's which seem able to disregard the 1984 Shipping Act with impunity.
+Article 26 of the 1983 UCP enabled banks to accept freight forwarders' bills of lading when letters of credit required marine bills of lading if the freight forwarders' bills of lading indicated that they were issued by a ‘freight forwarder acting as a carrier, or the agent of a named carrier.’
+Since the 1984 Shipping Act authorized NVOCC's to issue bills of lading as carriers, NVOCC issued bills of lading which contain a signature of the forwarder ‘as carrier’ or ‘agent for the carrier’qualify under Article 26.
+Despite UCP Article 26 and the 1984 Shipping Act, applicants and issuing banks continued to require ‘on board’ statements or notations in the NVOCC bills.
+Since the tendered bills were issued by NVOCC's, and the NVOCC's had issued the bills while placing the goods on the first means of conveyance and not on the ocean going vessel, banks either rejected such bills or required additional statements or notations attesting to actual loading on the ocean going vessel.
+In addition, United States bankers, and beneficiaries of and applicants for the issuance of letters of credit remained concerned that unless the solvency and reliability of the NVOCC could be established by the FMC prior to the issuance of an NVOCC bill, cases of non-existent goods or of unpaid freight or related charges would multiply with the growing number of issuances.
+Australian bankers raised the question of whether NVOCC bills should be acceptable as marine bills of lading.
+These bankers claimed that NVOCC bills were not true receipts of shipments, contracts of  affreightment , or documents of title.
+The ICC Banking Commission decided not to consider the issues raised by the Australian bankers, pointing out, inter alia, that the legal nature of NVOCC bills was a legal determination to be made in accordance with the local law of the place of issuance or presentation of the bill.
+Thus, the issues raised by the use of NVOCC bills remain on the agenda of the UCP revision.
+The re-examination of NVOCC related rules has been made easier by the FMC regulations implementing the 1984 Shipping Act, as amended in 1990.
+According to these rules, NVOCC's must now file an up-to-date tariff with the FMC, and post a performance bond of no less than $50,000.
+This bond requirement is not a substitute for the normal liability insurance carried by freight forwarders.
+If the NVOCC is not United States based, it must now designate a resident agent for the service of judicial and administrative process.
+The FMC regulations also provide a means for notifying the public of the requirements and availability of surety bonds and enable ocean carriers to ascertain whether they are doing business with an untariffed or unbonded NVOCC.
+Carriers are prohibited from accepting cargo from NVOCC's which do not have an up to date tariff filed with FMC, or which have not complied with the new regulations.
+The expressed regulatory purpose was to apply the new rules equally to all NVOCC's, both foreign and domestic, ‘inasmuch as foreign NVOCC's were already subject to tariff filing requirements under the Shipping Act of 1984.’
+A public register that would provide an up to date list of legitimate NVOCC's, and, also, screening of NVOCC reliability and solvency by means of a licensing procedure would be desirable additions to the existing law.
+In the absence of a public registry, a private registry has been created by an NVOCC trade association.
+In addition to providing resident agent services for non-United States based NVOCC's and tariff filing services, bonding and insurance services for all NVOCC's, this private registry is attempting to gain industry acceptance of an NVOCC registration number.
+This number would be imprinted on NVOCC bills of lading and would certify that the NVOCC in question has complied with the tariff filing and bonding requirements.
+Since ocean carriers must now verify prior to accepting NVOCC shipments to or from the United States that FMC bonding and tariff filing requirements have been met, the registration feature is designed to facilitate the carriers' verification and to gain a standing for the NVOCC bill equal to that of its European counterpart, the FIATA bill of lading.
+3.2 The ICC Combined Transport Document and the FIATA Bill of Lading
+The rapid expansion of combined or multi-modal transport in the 1960's, and the fact that no convention or treaty existed covering such transport led the ICC to publish a set of Uniform Rules for a Combined Transport Document (’ CTD’) in 1973, and to revise these rules in 1975 (’CTD Rules’).
+The following were some the most important features of these rules: 1) The contractual undertaking involved was to perform or to procure performance of combined transport by two or more modes of transport, such as by sea, inland waterway, air, rail, or road; 2) The document of title function was retained by the CTD, but it was predicated upon presentation of the CTD only to the Combined Transport Operator or his representative; 3) The issuer of the CTD for the entire multi-modal carriage had to assume liability for the whole carriage, including delayed delivery, and this assumption of liability was as a principal and not as an agent of the shipper; and 4) Abstraction protected third parties relying in good faith on the text of the CTD, and this protection was couched in terms similar to those of the Hague-Visby rules.
+The preceding features required that certain traditional statements in the text of the ocean bill of lading be modified or replaced.
+For example: the traditional notation regarding ‘on board ’ loading was replaced by a ‘taking in charge’statement; the traditional prohibition against transhipment was eliminated, because transhipment was of the essence in combined transport; since the transport commonly originated and finished inland, the terms ‘place of receipt’and ‘place of delivery’were inserted in separate boxes, either replacing the traditional ‘port of loading’and ‘port of discharge’or joining them as additional specifications; and since often times the name of the vessel was not known or could not be established with certainty at the time of issuance, the box for the vessel's name was modified to refer to an ‘intended vessel.’
+The publication of the CTD Rules prompted the Baltic and International Maritime Conference (’ BIMCO’) to issue a conforming type of combined transport document (referred to as ‘COMBIDOC’).
+An equally conforming document was issued by FIATA, a European based association of international freight forwarders.
+The treatment accorded to the FIATA combined transport bill of lading (’ FBL’) in the UCP has generated controversy because unlike BIMCO and NVOCC bills of lading, the FBL, even though issued by freight forwarders, was singled out as acceptable by the 1983 UCP.
+Article 25 d. of the 1983 UCP provides that banks will reject a transport document issued by a freight forwarder ‘unless it is the FIATA Combined Transport Bill of Lading approved by the International Chamber of Commerce or otherwise indicates that it is issued by a freight forwarder acting as a carrier or agent of a named carrier.’
+The International Chamber of Commerce also took the unusual step of allowing the FBL to use the ICC logo.
+Non-FIATA members contend that such an endorsement of a FIATA document by a supposedly neutral, multinational entity such as the ICC creates an unfair competitive advantage in FIATA's  favour .
+FIATA, in turn, argues that those who complain are welcome to join FIATA, provided they can qualify for membership.
+In light of the sharp difference of opinion among freight forwarders and national delegations to the ICC, the Working Party for the revision of the UCP will need to review FIATA's status, especially in conjunction with a review of the status of the NVOCC bill of lading.
+The 1988 version of the FBL is a combined or multimodal transport document as well as a ‘carrier’ type document.
+When issuing the FBL, the FIATA freight forwarder acts as a carrier in that he concludes a contract for a combined or multi-modal transport with the shipper, and contracts or sub-contracts for the carriage with one or more carriers.
+Thus, the FIATA freight forwarder is not generally the actual carrier of the goods, although it can carry the cargo in vehicles or vessels it owns or has leased or of which it is the designated operator.
+In this respect, the FIATA issuer of a combined transport bill of lading acts as the issuer of a NVOCC bill.
+The distinctiveness of the FBL stems from its close conformity with the CTD Rules.
+One of the key features of the CTD rules is that the combined transport operator acts as a principal, not as agent of the shipper, when performing or procuring the performance of the combined transport contract.
+As a principal, he assumes responsibility for the performance of the entire transportation contract.
+It is also clear that even if the transport described on the face of the bill of lading is performed by one mode of transport only, notwithstanding the heading ‘combined transport bill of lading,’ the FIATA standard conditions apply.
+This provision has prompted FIATA to request that the ICC Banking Commission rule that a single transport FBL be deemed to satisfy the letter of credit requirement of a marine bill of lading if all the other requirements of UCP Article 26(b) are met.
+A comprehensive and reliable assumption of liability for late arrival and damage to cargo is one of the most attractive features of the FBL.
+As discussed earlier in connection with the Hamburg Rules, neither the Hague Rules nor Visby deal with liability for delayed delivery.
+If a FIATA freight forwarder is held liable because of delay for consequential loss or damages (other than loss of or damage to the goods) its liability is for double the freight covered by the bill of lading, or the value of the goods--whichever is less.
+In addition, the FIATA freight forwarders' diligence is encouraged by their duty to act as principals and to ascertain that certain basic procedural requirements have been met.
+The FBL's compulsory insurance requirement is intended to reassure shippers and consignees that they will be adequately and reliably compensated in the event of delay or accidental loss, from the time the goods were ‘taken in charge’ by the freight forwarder to the time of their delivery to the named consignee.
+The availability of the combined transport operator's comprehensive insurance is clearly better than a suit against an uninsured, insolvent issuer of a traditional ocean bill of lading.
+Yet, serious doubts have been raised about the soundness and adequacy of the FBL's insurance coverage.
+Undeniably, the holder of an FBL lacks the substantive and procedural rights he enjoys as a holder of the traditional ocean bill of lading.
+First of all, when holding an FBL he gives up his right of control and disposition of goods in transit.
+The right to claim possession of the goods from the carrier belongs to the FIATA issuer of the FBL (and holder of the actual carrier's bill), and not to the holder of the FBL.
+Whether this right can be used derivatively by the holder of the FBL is an open question.
+3.3 The Pressure to Eliminate Paper and Expedite Shipments: Fragmentation and Dematerialization of the bill of lading
+Regardless of the type of vessel and the type of ownership or intermediary arrangement involved, the ancient mariner's maxim ‘an idle vessel earns no freight’ continues to shape the world's shipping and documentary practices.
+One of the key features of contemporary ocean shipment is that many of the vessels travel faster than the airmailed ocean bill of lading.
+Delays not only affect the profitability of the shipping industry, but also frequently determine the success of the underlying business ventures.
+Unlike the 19th century bill, the contemporary bill of lading often does not arrive at the port of destination or transhipment prior to the arrival of the goods, especially when the maritime journey lasts a few days or less.
+Unless sent by an air courier, an ocean bill of lading can take as long as a week to arrive by air mail.
+Other delays in obtaining access to the goods are caused by the importers' need to produce an ever increasing number of documents.
+As shown by recent studies on the facilitation of trade, the weight of the documentation of all consignments on board a contemporary container vessel can exceed 40 kilograms.
+Further, the average number of documents required per international commercial shipment in the U.S. in 1970 was 45 documents.
+The number has risen to nearly 100.
+The cost of processing such a large number of documents has been estimated at approximately 10% of the invoice value of the goods -a significant cost by any standard.
+Electronic messages could reduce the cost of the unavailability of a paper bill of lading when the goods arrive at their destination.
+In addition, the electronic ‘documentation’ will facilitate the use of international standard data elements and codes, and cause a swifter turn-around of ships in port.
+Developing countries will benefit from avoidance of port congestion as a result of speedier clearance of ships and of goods.
+They will also gain from simplified procedures and from the use of standardized data for more efficient decision-making.
+Some of these cost reduction and efficiency considerations have prompted changes in maritime and customs documentation practices, including the trimming of the traditional functions of the ocean bill.
+In some of the most active maritime routes, such as in the North Atlantic and Baltic, the ocean bill has been largely replaced by sea waybills which are receipts of shipment and which can act as documents of title where the applicable law allows such a function.
+In United States maritime trade, both incoming and outgoing, freight forwarders' receipts have become as common as the traditional ocean bill of lading.
+The obvious question prompted by these practices is whether we are witnessing the demise of the traditional ocean bill of lading or the repackaging of its main, features in technologically suitable garb.
+The answer requires a brief detour to air transport documentation.
+3.3.1 The Air Waybill as a Model of the Sea Waybill
+The massive transportation of goods by air would not have been possible without a faster method of documenting shipments.
+If goods cannot be taken up by their buyers upon their arrival, many of the advantages associated with air shipments disappear.
+Perishable goods would perish or would have to be warehoused at an additional cost.
+Resale and transhipment by air would be curtailed, if not precluded.
+Consequently, the air waybill did not require presentation to obtain possession of the goods.
+The air waybill was designed as an acknowledgment of receipt of goods from the consignor, and as a notice of shipment to the carrier (and especially to his agent at the destination), a notice which would also enable the identification of the consignee.
+Interestingly, the receipt and notice features were not derived from the ocean bill of lading, but from 19th century European land transport documents, and especially from railroad bills and consignment notes.
+The receipt given to the air shipper is not the same arrival document sent to the consignee; it could hardly be the same document given the shortness of air travel time.
+Delivery of air cargo to a named consignee or agent merely requires his identification, and not a surrender of the air waybill.
+As do their land and sea counterparts, air carriers delegate the power to issue waybills to various types of agents.
+Several types of air waybills have emerged as a result of the type of agency relationship involved.
+In the ‘proprietary’ type, the agent acts for the airline whose name appears pre-printed in the air waybill.
+This proprietary air waybill can be issued only by the airline whose identity is pre-printed on its or its agent's document.
+In the ‘neutral’ agency type, the agent acts for different airlines, and, thus, the air waybill form does not contain a pre-printed reference to the airline's name and number.
+The agent enters the airline identification when the air waybill is issued.
+The purpose of a neutral air waybill is to enable agents for more than one airline to use one air waybill format, especially when these agents use automated systems of issuance.
+The ‘house’ air waybill uses the neutral format.
+Unlike the neutral air waybill, however, it is issued on behalf of a freight forwarder, not an airline.
+Normally such a document evidences only a contract between the shipper and the freight forwarder, who acts as a broker for air cargo space or as an independent commission agent.
+Since the airline is not a party to such contract it is not bound to carry or even to store the goods referred to in the house air waybill.
+When the freight forwarder joins the cargo of one or more shippers to form a unit of shipment to be transported by one or more airlines, the cargo is said to be ‘consolidated.’
+In such a case, the freight forwarder fills out a proprietary or neutral air waybill form, which bears the issuing airline's identification, and inserts the number of the air waybill of the first airline to fly the goods (often referred to as the ‘master’ air waybill).
+Since such a shipment normally involves different airlines, each airline segment of the consolidation may involve a house air waybill.
+Yet, such a house air waybill is not made available to the respective airline and does not bind either the airline responsible for the first leg of the journey (also referred to as ‘first airline’) or subsequent airlines.
+Banks have begun to recognize that consolidation of air transport is as common as containerization of ocean cargo.
+Accordingly, many banks accept consolidators' air waybills whose text contains a master or first airline air waybill number, and which also shows such an airline's reception stamp.
+Yet, since consolidation practices are not uniform, the task of banks verifying compliance with the terms of a letter of credit that, say, requires a ‘clean on board air waybill,’ is not easy.
+At times, house air waybills use neutral formats that do not identify the first airline.
+In other instances the consolidator provides a master air waybill that indicates the first airline by inserting that airline's stamp accompanied by a mention of the consolidator's agency but without an indicating of the flight number.
+For UCP purposes the air waybill is an Article 25 transport document, and as such, it must comply with Article 25(a) (i) and include, unless otherwise specified in the credit, a signature by a named carrier or its agent.
+As it did with the Combined Transport Bill of Lading, FIATA has proposed to help resolve the uncertainty of the carrier designation in the air waybill.
+FIATA now supplies an air waybill form which allows the freight forwarder-consolidator to sign as a contractual carrier, in a box in which he fills in his full name and his capacity as a contractual carrier.
+Another box in the same form is to be filled by the actual or ‘issuing carrier.’
+The air waybill differs from its land ancestors in two respects.
+Pursuant to the Warsaw Convention air waybills are issued in sets of three originals; one is retained by the issuer, another is sent to the consignee, and the third is sent to the shipper.
+Only when the shipper parts with his original is he deemed to have given up control of the goods.
+This feature accounts for the ‘quasi-document of title’ nature of the air waybill.
+The air waybill is not a full fledged document of title because the consignee does not need it to obtain the goods from the carrier.
+At the same time, by retaining his copy, the shipper retains the right to prevent delivery or other disposition of the goods.
+For this reason, commercial letters of credit usually stipulate that the bank's payment will be against presentation of the shipper's copy of the air waybill.
+Indisputably, the air waybill has attained sufficient significance to merit its own provision in the present revision of the UCP.
+Such a provision should specify the air waybill's basic requirements, including, given its peculiarities, its designation as an air waybill, or its functional equivalent, mandatory and optional statements or notations such as indications of receipt by the carrier or agent, reception stamps, flight dates and numbers, and airports of departure and destination.
+It should also reflect the practice of accepting the shipper's original in lieu of a ‘full set of originals.’
+3.3.2 The Sea Waybill and the Straight Bill of Lading
+As with the air waybill, the consignor of the sea waybill is issued a document, most often in the form of a receipt of shipment, which in some jurisdictions, such as Great Britain is neither a document of title nor a negotiable undertaking.
+As a result, a consignee of an English waybill does not need to present present the waybill to obtain the goods; all the consignee needs to do in order to obtain the goods is to identify himself.
+Nonetheless, since the sea waybill's text may be needed by the consignee or by customs brokers or authorities, it may be transmitted electronically to the port of destination.
+This feature is especially attractive to importers worried about the ship arriving ahead of the shipping documents.
+Container shipments are ordinarily unloaded without awaiting the arrival of the bill of lading.
+This is not true, however, with bulk shipments.
+Bulk commodity shipments are not unloaded until the bill of lading is presented to the carrier.
+Consequently, the sea waybill allows the ship to unload the bulk shipment immediately upon arrival, thereby reducing the time and cost of unloading and processing the cargo, and also lowering the costs of warehousing and maintaining goods in inventory.
+The sea waybill also allows the consignor to vary his delivery instructions to the carrier at any time during the carriage.
+The fact that the sea waybill is not a document of title in some important maritime jurisdictions such as Great Britain removes it, according to a widely held view, from the purview of the Hague Rules and Hague-Visby.
+The absence of mandatory liability detracts from the merchantability of the English sea waybill because consignors as well as consignees have to worry about the legal effect of small print and extremely broad disclaimers.
+Another consequence of the fact that the English sea waybill is not a document of title is that the consignor's endorsement or delivery of such a waybill to a third party is legally meaningless.
+This lack of transferability does not necessarily make the English sea waybill undesirable.
+Parties to the English sea waybill are willing to give up transferability in exchange for an extra measure of security, especially against fraudulent issuances.
+At the time of issuance, the English sea waybill is available to only the pre-designated parties, the consignor, consignee, and a notify party.
+This minimizes fraudulent issuances and transfers, which have become increasingly common to the negotiable ocean bill of lading.
+Several types of sea waybills are presently in use.
+Their features vary with the country or region of issuance, as well as with the types of goods and method of shipment.
+Professor Tetley attributes one of the oldest waybills in circulation, the ‘straight’ ocean bill of lading, to the United States Pomerene Act.
+Consequently, a sea waybill that meets the requirements of a straight bill of lading under United States law not only acts as a receipt of goods but also as a transferable document of title.
+Professor Tetley likes the regulated status of this United States version of a waybill and contrasts it with waybills in the United Kingdom and Canada, which, being unfettered by a particular statute stipulate their own terms and conditions often to the detriment of certainty and fairness.
+As indicated earlier, the United States straight bill of lading is, although not negotiable, a transferable document, and as such functions as a document of title.
+Under the Pomerene Act, a person to whom a common carrier's bill of lading has been transferred (not negotiated) acquires title to the goods, subject to the terms of the agreement between the issuer and the transferor.
+The transferee of a straight bill also acquires the right to notify the carrier of the transfer, and thereby to become the direct obligee of whatever obligations the carrier owed to the transferor of the bill immediately before the notification, including delivery of the goods.
+This statutory empowerment confers, upon the transferee of a straight bill, a number of rights not enjoyed by the holder of the British sea waybill.
+Not only can the transferee claim the goods on the same legal basis as his transferor, but he also acquires the rights of a seller and secured creditor to the proceeds of the shipped goods.
+In addition, if the transferee is the named consignee of the non-negotiable bill of lading, he can demand delivery of the goods without having to produce the bill.
+The dualism (document and non-document of title) of the Pomerene straight bill of lading poses serious problems in jurisdictions where the concept of a document of title is  synonymous with negotiable bill of lading.
+In these jurisdictions, carriers who deliver goods to consignees of straight bills of lading without obtaining the bills of lading from these consignees risk liability to subsequent transferees of these bills.
+This problem is compounded by the practice common with some United States carriers of issuing straight bills without stamping the words ‘non negotiable’ on the originals.
+At the same time, since the Pomerene Act applies to bills of lading issued in the United States, consignees abroad would be justified in characterizing the right to possession conferred by the Pomerene ‘straight’ bill, as enforceable by mere identification.
+Conversely, a carrier who issues a non-negotiable bill in a foreign port naming a United States importer as consignee may be held liable in the United States for refusing to deliver the goods to the United States consignee who does not surrender the bill of lading.
+To make matters worse, United States banks are unable to issue guarantees for missing bills of lading unless they have a ‘substantial interest in the performance of the transaction.’
+3.3.2.1 Two English Prototype Waybills
+Professor Tetley describes two representative types of English waybills.
+The first is the General Council of British Shipping (’ GCBS’) waybill.
+It is issued in a common form which any carrier may use and is designed to be filled out by the shipper and completed by the carrier.
+As with the charter party and short form ocean bill of lading, many of the parties' rights and duties under the GCBS waybill are dealt with in another document or set of trade rules.
+The standard form  analysed by Professor Tetley refers to the individual carrier's contract of carriage as follows:
+The contract evidenced by this waybill is subject to the exceptions, limitations, conditions, and liberties (including those relating to pre-carriage and on-carriage) set out in the Carrier's Standard conditions of Carriage applicable to the voyage covered by this Waybill and operative on this date of issue.
+Since the GCBS waybill lacks the spaces for the data that usually accompanies combined or multi-modal transport, it is suitable only for port to port and through transport.
+The second type of English waybill studied by Tetley is the Overseas Containers Limited (’ OCL’) waybill.
+This waybill is designed for computer use.
+Although it is to be used, filled out, and completed by one carrier only, its layout resembles that of air waybills whose text is flexible enough to include references to combined transport shipments.
+The OCL waybill refers to the applicable contract terms and conditions as follows:
+The contract evidenced by this waybill is subject to the Carrier's standard Bill of Lading terms and conditions and tariff for the relevant trade, copies of which may be obtained from the offices of the Carrier and those of his authorized Agents.
+Whether an OCL waybill would be subject to Hague or Hague-Visby rules if it were to incorporate them by reference, and whether if applied, these rules would exclude inconsistent contractual clauses seems to vary from statute to statute.
+By contrast with the Hague-Visby rules, the application of the UCP to sea waybills does not seem complex.
+For the same reason that UCP Article 25 applies to air waybills it also applies to sea waybills.
+Moreover, Article 25's application to sea waybills is less problematic because waybills are generally issued by the actual ocean carriers or their agents.
+As with air waybills, however, the widespread use of sea waybills requires separate UCP treatment.
+The new UCP provision should list the basic requisites of sea waybills, but should be flexible enough to allow the development of incipient electronic or paperless varieties.
+3.3.3 The Scandinavian Data Freight Receipt
+Sweden's Trade Procedures Council's (’ SWEPRO’) main function is to develop administrative, commercial and legal institutions that facilitate trade by simplifying and harmonizing trade related procedures.
+A large part of SWEPRO's work is devoted to the formulation of standards and protocols for computer to computer communications.
+The sea waybill is one of SWEPRO's most popular products.
+Roughly 50% of the North Atlantic trade involving the Nordic countries utilizes the sea waybill, although it seems more popular with Scandinavian initiated traffic.
+In 1971, the Atlantic Container Lines (’ ACL’), one of the world's largest container carriers, introduced a sea waybill labelled the Data Freight Receipt (’DFR’), for its North Atlantic shipments.
+As with the air waybill, the DFR eliminated the need to send paper documents along with the shipment.
+All that was needed was a computer at each end of a dedicated phone line, and software to allow computer to computer communications.
+ACL would communicate the issuance of the DFR to ACL's office at the consignee's location; this could be done in conjunction with the sending of an arrival notice and manifest, or separately.
+The consignee, notify party, or both, would then do whatever was necessary to expedite the claim and release of the goods.
+The goods would be delivered either upon the consignee's or notify party's identification, and delivery would not require presentation of the arrival notice.
+As with the air waybill, the DFR was non-negotiable.
+In addition, the DFR's text differed sharply from that of the ocean bill of lading in that it lacked the terms and conditions of carriage, including disclaimers.
+The DFR only acknowledged receipt for shipment and not receipt for on board shipment; and as did the air waybill, the DFR required only proper identification by the consignee or his agent to obtain delivery of the goods.
+Since the DFR was not a document of title, but merely a receipt and notice of shipment it did little to assure the consignee or bona fide purchaser of the goods that the shipper would not resell or reroute the goods in transit.
+Neither did the DFR reassure the bank that it would have an adequate security interest in the document representing the goods.
+In addition to its inability to reassure consignees and potential lenders, the DFR was generally viewed as not subject to the Hague or The Visby Protocol.
+Importers and banks who feared that DFR's would be used to evade carrier liability objected to their use.
+3.3.4 The Cargo Key Receipt
+The Cargo Key Receipt (’ CKR’) was designed by Prof. Kurt Grönfors of Gothenburg University in cooperation with Swedish shipping companies and SWEPRO to overcome some of the DFR's inadequacies, especially its inability to serve as collateral in documentary credit transactions.
+As with the DFR, the CKR provided an arrival notice given either to the consignee or to designated notify parties.
+Unlike the DFR, the CKR contained a ‘no disposal’(’ no disp’) clause, in which the shipper waived his right of disposal of the goods while in transit.
+This clause was expressly agreed to by the shipper-consignor and the carrier at the moment of issuance of the CKR and to be effective had to be noted in the original or master bill of lading.
+The CKR named the third party creditor as consignee and the buyer as notify party; no other parties participated in the transaction.
+The CKR, therefore, was designed as a closed system that precluded negotiations of either the CKR or of the master bill of lading that contained the no disp clause.
+The conceptual basis of the CKR was the conveyance to the secured party of the seller's right to control the goods while in transit.
+This is a ‘negative’ right because its object is not to gain permanent possession for the seller, but to prevent the buyer's acquisition of possession.
+Similar negative rights are conveyed by the transfer of the ‘shipper's’ copy of the air waybill, and are retained by unpaid sellers under Section 2–705 of the UCC.
+In addition, as indicated when discussing the concept of a document of title, whoever holds the full set of original bills controls possession of goods in transit.
+By means of the CKR's ‘no disp’ clause the shipper-consignor agreed to a known (although not widely used) method of creating a security interest, i.e., the conveyance of its negative possessory right to a consignee who was either an issuing or confirming bank.
+To be sure, this may be a partial and limited right of control because the consignor may have retained a right to change the consignee while conveying the right of  stoppage in transit.
+In addition, the right of control conveyed by the ‘no disp’ clause can be exercised only in a manner consistent with the carrier's normal operations of storage, loading, and unloading.
+Nonetheless, the right of control conveyed to the  consignee-bank in the ‘no disp’ clause ordinarily allowed the bank's stoppage in transit, withdrawal of the goods at the departure pier, unloading of the goods already placed on board the vessel, warehousing or re-routing of these goods, including the right to deliver the goods to another consignee.
+The buyer-importer, who, as indicated above, was usually designated as the notify party of the CKR, was one of the two parties to receive the arrival notice, the other was sent to the consignee-creditor.
+When the buyer-notify party paid the amount owed to the issuing bank, it received the latter's authority to claim the goods from the carrier.
+The use of paper documents was considerably reduced by the CKR.
+Instead of the numerous originals and copies generated in a documentary ocean bill transaction, the CKR created just a handful of documents, mostly in the form of simple statements.
+The first document was the CKR signed by the carrier, indicating that the goods described in the letter of credit were in his possession for shipment.
+This receipt also restated the description of the goods and the terms and conditions of carriage.
+Customarily, one of the terms and conditions of carriage associated with the CKR included application of the Visby Protocol.
+In order to convey the right of control to the consignee, the letter of credit beneficiary handed over his signed CKR to the confirming bank.
+If the confirming bank found the CKR in compliance with the terms of the credit, it paid the beneficiary's draft, or stamped its acceptance thereon and forwarded the tendered documents to the issuing bank.
+Release of the goods to the buyer, and verification of all the terms and conditions of the credit was a two step process.
+First, the issuing bank received, from the carrier an arrival notice of the goods and a printout of the CKR.
+The bank, upon verifying compliance with the terms of the credit, and obtaining its customer's payment or reimbursement, released the goods to the customer.
+Second, once the remaining documents were received from the confirming bank, they were checked against the credit, and upon verifying compliance, including consistency with the CKR, reimbursement to the confirming bank was authorized.
+Despite the CKR's reduced reliance on ocean shipping documents, its lesser chance of fraud and breach of security, especially when compared with paper based and telefaxed bills of lading, and its lower handling costs, North American banks, particularly United States banks, did not accept the CKR.
+The reasons for bankers' reluctance have not been articulated.
+In this writer's opinion the CKR process threatens two fundamental institutions of letter of credit law.
+First it threatens the principle of documentary examination, which requires that banks, meaning both the confirming and the issuing bank, verify the tender of the seller's document in a unitary, and not in a truncated or segmented, fashion.
+Second, the CKR threatens the issuing bank's perfected security interest in the ocean bill of lading and in the goods themselves.
+In United States law, for example, it is unclear whether a bank that relies solely on the CKR as its collateral can perfect a security interest in the goods, or whether having perfected its interest in the CKR it has priority over bona fide purchasers of the goods or over holders of purchase money security interests in the customer-buyer's inventory.
+Since banks were among the intended major beneficiaries of the system, the CKR was ‘mothballed.’
+3.3.5 The CMI Uniform Rules for Sea Waybills
+Despite the CKR's lack of acceptance, some of its basic features are apparent in the Uniform Sea Waybill rules adopted by the CMI in June 1990 (’ Sea Waybill Rules’).
+As stated in the prototypical CKR, Sea Waybill Rule 4 provides that the sea waybill will be subject to the application of any international convention or national law if such a source of law is compulsorily applicable or would have been if a bill of lading ‘or similar document of title’ had been issued.
+Sea Waybill Rule 6 restates another essential CKR feature, the consignor's right of control over the cargo, and sets the limits of this right.
+Until the moment that the consignee claims the goods after their arrival at destination, the consignor retains the right to change the consignee's name, provided that if the name is changed the consignor gives the carrier reasonable written notice thereby undertaking to indemnify the carrier for the additional expenses created by the change.
+Yet, the right of control can be transferred to the consignee up until the moment of receipt of the goods by the carrier.
+Reminiscent of the CKR's ‘no disp’ clause, however, the transfer will be effective only if noted on the sea waybill.
+In addition, the Sea Waybill Rules provide an important remedial clarification for those common law jurisdictions that predicate actionability between a plaintiff or defendant consignee and a plaintiff or defendant carrier on privity of contract.
+Sea Waybill Rule 3 imputes the status of agent for the consignee to the shipper-consignor.
+Accordingly, the shipper enters into the contract of carriage not only on his own behalf, but also as an agent of the consignee.
+The consignee is then able to sue the carrier directly, but is also subject to the latter's direct suit.
+Finally, Sea Waybill Rule 5 sets forth a level of abstraction, for the sea waybill's description of the goods, similar to that of a Hague-Visby bill.
+The carrier's description of the goods is prima facie evidence of the receipt of the goods where the shipper is concerned, but is conclusive evidence of receipt where the good faith consignee is concerned.
+3.3.6 Privity of Contract and the Modernization of English and Scottish Bill of Lading Law
+Contemporaneously with the CMI's adoption of its Sea Waybill rules, the English and Scottish Law Commissions prepared a report with respect to‘Rights of Suit in Respect of Carriage of Goods by Sea.’
+According to this report, privity of contract has remained the main obstacle to the modernization of English bill of lading law.
+Under the English Bill of Lading Act of 1855, the rights under the contract of affreightment are transferred only to a person ‘to whom the property in the goods passes upon or by reason of endorsement.’
+As pointed out by the report of the Law Commissions, this requirement causes problems whenever property either does not pass at all, or passes independently of the transfer of the bill of lading, or where the transfer of the bill is not causative of the passing of property.
+For example, under English sales law the buyer of a parcel of fungible goods, sold in bulk, does not get title until the parcel is apportioned to the buyer.
+Since the title to the goods does not pass to the buyer of unidentified bulk goods ‘upon or by reason of the endorsement’ he has no claim under the bill of lading contract.
+Not all the effects of the privity doctrine are necessarily damaging to third party purchasers or creditors.
+A House of Lords decision relied on lack of privity to protect a pledgee-endorsee of a bill of lading, such as a bank, with respect to a claim for the payment of freight unpaid by the endorser-shipper.
+The pledgee was immunized against the freight claim because of his failure to acquire full title to the goods.
+Yet, the benefit inherent in a holder's right to sue the carrier may well be worth the burden of having to pay unpaid freight.
+In light of the many problems connected with the passage of title as a basis for the right to sue, the Law Commissions recommended allowing the lawful holder of a bill of lading to sue the carrier in contract for loss or damage to the goods covered by the bill, irrespective of whether title to the goods passed by reason of the consignment or endorsement.
+The suit would be allowed even if the plaintiff did not suffer the loss, but was recovering damages for the benefit of the person who suffered the loss.
+Otherwise, English and Scottish bill of lading law would remain hopelessly behind that of other major trading nations.
+In exchange for this benefit, the holder of the bill of lading would assume the burden of becoming subject to contractual liabilities as if he ‘had been a party to the contract of carriage.’
+This symmetrical formula of benefits and burdens would apply to the consignee of the sea waybill, ‘or such other person to whom the carrier is duly instructed to deliver under the terms of the sea waybill.’
+It also would apply to the person entitled to delivery of the goods in accordance with the undertaking in a delivery order.
+The Law Commissions took a long needed step in the direction of abstraction, and recommended that the rule of Grant v. Norway be abolished.
+Accordingly, a bill of lading stating that goods had been shipped or received for shipment ‘and in the hands of the lawful holder, should be conclusive evidence against the carrier of such shipment or receipt.’
+With a view toward facilitating the use of electronic bills of lading, the Law Commissions recommended that the Secretary of State be empowered to ‘make provision by regulations for information given by means other than in writing to be of equivalent force and effect as if it had been given in writing.’
+3.3.7 The Electronic Bill of Lading Proper
+3.3.7.1 The SeaDocs Experiment
+The first serious attempt to facilitate the electronic transfer of bill of lading rights took place in 1986 and lasted less than one year.
+SeaDocs Registry Limited (SeaDocs), a London based Delaware corporation, was formed by Chase Manhattan bank and INTERTANKO, an association of independent oil tanker operators.
+By the end of 1986 Seadocs had closed its doors.
+SeaDocs was intended to bring about the telecommunicated negotiation of bills of lading issued in connection with oil shipments.
+It is quite common in the futures' market to sell one obligation to deliver specified commodities repeatedly during a trading day.
+The nomination of a specific cargo is made as the time for delivery approaches and the right to obtain delivery of this cargo may have to be transferred to buyers in different parts of the globe.
+Needless to say, it would be impossible to provide each buyer or its bank with an endorsed original bill of lading in time to provide the same bill to the following endorsee.
+An electronic or telecommunicated substitute for the paper based document is needed, and SeaDocs attempted to provide it.
+SeaDocs was set up to act as a depositary-custodian of the paper based original bill as well as a registry of bill of lading negotiations.
+The registry was to act as an agent for the parties' endorsement of bills, as well as for the delivery of the paper based bill of lading with which the goods would be claimed from the carrier.
+Under the Seadocs procedure, The bill would have been issued by the carrier in the traditional negotiable paper based manner, but would have been taken out of circulation immediately after issuance, and then sent to SeaDocs by courier for safekeeping in Seadocs' vault.
+Any endorsement reflecting the bill's negotiation would have been effected by SeaDocs as an agent for both endorser and endorsee.
+SeaDoc's system of registration and endorsement was reminiscent of that used by stock transfer agents in the United States.
+Upon delivery of the original bill to SeaDocs, the shipper was to receive a code or test key equivalent to the personal identification numbers (PIN) provided by banks for use with automated teller machines.
+When the bill was negotiated, the shipper would notify SeaDocs by computer of the buyer-endorsee's name and also provide the endorsee with a portion of his test key.
+The seller's message was to be tested by SeaDocs before it accepted the communication from the endorsee-buyer.
+The endorsee-buyer's message was also tested and accepted if it contained the portion of the original seller's test key.
+Upon compliance with the various checks, the name of the new owner of the bill was to be recorded in the registry.
+This name would also be entered on the documentary bill of lading deposited in SeaDocs' vault.
+When the goods arrived at the port of discharge, SeaDocs was to have transmitted an identifying code number to the ship's master.
+A similar identifying code was to be sent to the last endorsee or owner of record of the original bill, and this code allowed the printing of the bill of lading, which was used to claim the goods.
+While no operational difficulties were reported during SeaDocs' experiment, and while the fees per registration fluctuated between only $300 and $500, SeaDocs failed to attract a sufficient number of traders and financial institutions to survive.
+Many reasons have been given for its demise: the potential high cost of registry operations' insurance, especially since the participants' liability had not been established; the unwillingness of commodity traders to record their transactions in a central registry subject to inspection by competitors and tax authorities; the reticence by the ultimate buyers of spot crude oil to acquire bills of lading from an entity designed to service intermediaries and speculators; and the banks' discomfort with the exclusive control of the registry business by one of their competitors.
+Despite its demise, SeaDocs proved that an international, centralized, largely electronic bill of lading system could work reliably on a world wide basis.
+In this light, Seadocs' main shortcoming may have been not its premature ambition, but the modesty of its scope.
+As a private registry it was available only to the trading partners, and not to third parties interested in knowing whether a given shipment was sold, pledged, or had taken place.
+By preventing interested third parties from inquiring about the status of transactions, including shipments, the notice function of the registry was minimized, and its role in the business world may have been diminished.
+Trading partners should be allowed to retain their privacy within the limits of legality and public policy, and many may choose to do just that.
+Nevertheless, many traders will choose to avail themselves of public notice.
+Prospective as well as existing secured creditors, for example, must rely on appropriate notice in order to assess the feasibility of their loan and the perfection of their security interest.
+Similarly, buyers of goods susceptible to being sold without a right to do so also need notice to determine the advisability, as well as the validity of acquisition.
+On the other hand, it can be validly argued that it would be asking too much from a private entity to provide the same public notice that public registries have provided.
+3.3.7.2 The CMI's ‘Private Key’
+The Rules for Electronic Bills of Lading adopted in Paris in June 1990 by the CMI (the ‘CMI Rules’) are the most sophisticated attempt to date to regulate an ‘open ended’ computerized method of issuance and negotiation of bills of lading.
+Unlike the rules of trade networks, such as S.W.I.F.T., which are available only to participating banks, the CMI Rules are open to any contracting party willing to abide by them.
+Because of their contractual nature, however, unless the participating parties specify their application in the ‘master’ or individual agreements they have no effect.
+The contractual approach is consistent with the most general method of doing business with electronic data interchange (’ EDI’).
+The CMI Rules are intended to fill gaps in existing master and individual agreements and trading partner rules, and to provide norms to facilitate the enforceability of telecommunications in jurisdictions reluctant to accept such communications as binding.
+Thus, while one CMI Rules provision allows the bill of lading to be conveyed by electronic means, another preserves the option of relying on a paper document.
+This option is particularly important if municipal law or the Hague and The Visby Protocol require the issuance of a paper based bill of lading upon the shipper's demand.
+The main feature of the CMI Rules is the creation of an electronic bill of lading by the carrier who also acts as an unofficial registry of negotiations.
+Accordingly, the CMI electronic bill of lading can be issued by as many carriers as have the necessary hardware and software, and it can be ‘endorsed’ by as many endorsees as have the same facilities.
+The device that makes such issuance, endorsement-negotiation, and registration possible is the ‘private key.’
+The private key, in George Chandler's words, is ‘akin to a single transaction personal identification number (PIN).’
+Depending upon the specific system in use, the shipper and subsequent holders of the electronic bill of lading receive a password to access the carrier's computer network, and/or an identification number and a private key.
+The shipper or subsequent sending party then inputs the electronic address of the carrier-receiving party.
+As with telex messages, each party to the transmission sees the other party's address as the electronic ‘handshake’ takes place.
+After the security procedures are satisfied and the message is sent, the private key is used by the shipper or subsequent holders to verify the authenticity of the message.
+Thus, even though a fraudulent sender may know how to access the network and establish a valid identity, he can not obtain possession of the goods without the use of the private key.
+In an attempt to avoid multiple transfers of the same bill, the private key itself is rendered non-transferable.
+If a holder, nonetheless, transfers his private key, the carrier will be responsible only to the party to whom it issued the last valid private key.
+The carrier will be liable, however for misdelivery, if he issues similar private keys or breaches the private key security safeguards.
+Unlike the CKR and SeaDocs procedures, which require presentation of a paper based bill or authorization to obtain release of the goods, the private key functions as the equivalent of the negotiable ocean bill of lading.
+Lawful use of the private key entitles the holder to the delivery of the goods.
+In addition to setting forth rules of ‘traffic’ on issues such as the means to verify a binding transmission, the CMI Rules adopt the United Nations ‘Layout Key’and EDIFACT standards of message transmission.
+The terms and conditions that govern the electronic bill of lading are incorporated by a reference to the carrier's ‘long form’ bill of lading, much as is done with paper based ‘short form’bills of lading.
+When not in conflict with the parties' agreement or with the CMI Rules, the Uniform Rules of Conduct for the Interchange of Trade Data by Teletransmission (UNCID) also govern the parties' conduct.
+Upon receiving the goods from the shipper, the carrier gives notice of the receipt to the shipper or the shipper's designees.
+The carrier sends this notice or ‘receipt message’ electronically to the electronic address specified by the shipper.
+The receipt message contains the description of the goods and reservations by the carrier on the state of the goods.
+The recipient confirms receipt of the message to the carrier, and following this confirmation the carrier provides him with the private key.
+If the shipper disagrees with the description of the goods, or with any other material statement in the receipt message he can  withhold confirmation until the disagreement is resolved.
+The above described procedure attempts to match the initial phase of contemporary paper based bill of lading issuance.
+In this phase, the shipper's freight forwarder prepares the text of the bill of lading and submits it to the carrier for calculation of freight, and for stamping or notation.
+Until the delivery of the bill of lading, the shipper is given a dock or mate's receipt.
+If the completed bill is unsatisfactory, the shipper can either refuse to exchange his dock receipt for the bill of lading, procure a satisfactory letter of indemnity or a substitute carrier.
+This comparison of procedures reveals that the CMI Rules' receipt message plays the role of both a paper based dock or mate's receipt and of a preliminary bill of lading.
+From a letter of credit standpoint, however, the receipt message can also play a more definitive role.
+When an issuing or confirming bank becomes the recipient of a receipt message, it has the same right to object to its terms as does the shipper.
+In addition, the bank's refusal of the receipt message and of the eventual transfer of the bill of lading can also amount to a final rejection of beneficiary's tender, especially when the discrepancy in the receipt message is major and incurable.
+If the receipt message is acceptable, the holder may subsequently update it by requesting, for example, that the date and place of shipment be inserted in the message as soon as the goods have been loaded on board .
+The holder is also given the same possessory and control rights as a holder of a paper based bill, including the rights to claim delivery of the goods, to nominate the consignee or substitute a nominated consignee, to transfer the right of control and transfer and to instruct the carrier with respect to the delivery of the goods.
+When the right of control and transfer is conveyed, the holder relies on the same method of notification by which he was made a holder, except that he will be the initiator of the message to the carrier, and will need to await the carrier's confirmation before the transfer process can be set in motion.
+Once the carrier provides confirmation, the carrier transmits the relevant information to the new holder.
+Upon the new holder's confirmation of the carrier's message, a confirmation that includes the new holder's acceptance of the right of control and transfer, the carrier will cancel the current private key and will issue a new private key to the new holder.
+In order to effectuate delivery, the carrier notifies the holder of the place and date of intended delivery.
+Once notified, the holder is placed under a duty to nominate a consignee and to give delivery instructions to the carrier with verification by private key.
+The carrier will then deliver the goods to the consignee, upon the latter's proper identification.
+This delivery automatically cancels the private key.
+The following diagrams prepared by a participant in the drafting of the CMI rules illustrate these successive steps.
+DIAGRAM 1 — TRADING TRANSACTIONS
+DIAGRAM 2 — LETTER OF CREDIT TRANSACTION (BANK IDENTIFIED AS AGENT OF CONSIGNEE)
+DIAGRAM 3 — SIMPLE LETTER OF CREDIT TRANSACTION (BANK IS CONSIGNEE)
+The initial reaction by the banking community to the CMI Rules has been skeptical.
+United States bankers object to the CMI's use of the UN/EDIFACT standards because they use ANSI X12.
+Unless ANSI standards are used, communications between foreign shippers, and carriers and banks in the United States will be either impossible or too cumbersome.
+The inadequate security of the private key is also a source of banking concern.
+Being comfortable with S.W.I.F.T.
+security procedures, bankers prefer the security of uniform login procedures, message numbering, error checking, encryption, record retention, uniform formats, and message-self auditing capabilities.
+Banks contend that unless the transmission of rights through the private key is made secure by means of an appropriate uniform encryption and authentication algorithm no responsible banker would wish to assume the risk of possible fraudulent issuances, negotiations, and pledges.
+Thus, banks suggest that each private key password also be used as an integral part of the encryption algorithm.
+The same suggestion applies to methods of establishing the existence and contents of bill of lading telecommunications.
+The CMI Rules' reliance on the ‘trade data log’ and ‘audit trail’is inconsistent with standard banking usage.
+Under banking usage, verification procedures depend upon passwords, private keys, encryptions and algorithms.
+The private key concept itself troubles bankers, who cannot visualize how telecommunications between strangers can be accomplished on a secured basis, especially when a large number of carriers and commercial parties is involved.
+They wonder why, if the private key is the means of authentication of the holder's rights, should the rules contemplate the possibility of an erroneous transmission.
+If the key and password are properly authenticated and used in connection with an encryption and algorithm, an erroneous transmissions should be clearly evident because it would not be readable by the recipient as a result of the failure of the process of message decryption.
+If, on the other hand, the private key process of verification of authenticity involves a manual or visual type of verification, and can be read by anyone, how does this procedure provide the minimum security required by the lawful holder?
+Finally, bankers are concerned with the availability of the terms and conditions of the contract to parties other than the issuer.
+How can the terms and conditions of every carrier and each transaction be made readily available to all the holders?
+As a holder, a banker would want to know the terms and conditions of the carrier from whom he will be claiming the goods, especially since these terms and conditions often change from one bill of lading to the next.
+From a strictly legal standpoint there are serious doubts as to whether the private key is the equivalent of the paper ocean bill of lading.
+In the private key procedure, the transferee's rights are predicated upon both, issuance of a private key and the transferee's acceptance of the right to control.
+Yet, the transferee's acceptance is based upon the information on the status of the shipment as transmitted by the carrier or by someone purporting to be the carrier in the ‘receipt message.’
+Accordingly, it is not clear what rights are accepted by the transferee; he may have accepted non-existing rights relying upon fraudulent information in a receipt message transmitted to him by someone pretending to be the carrier.
+Meanwhile, the carrier may issue the private key to the transferee in the belief that the latter accepted an honest receipt message sent to but not received by the transferee.
+The rights incorporated into the private key, then, depend not only on the lawful acquisition of the private key but also upon the text of the carrier's valid receipt message.
+And while no carrier would want to be bound by terms and conditions other than those on the receipt message he sent, no transferee would want to pay for an electronic bill whose terms and conditions are other than those he received.
+This difficulty cannot be overcome by a stipulation that the receipt message and the private key together are the equivalent of a paper based negotiable bill of lading.
+For, as a rule, the creation of negotiable documents of title is a prerogative reserved solely for statutory law.
+The dual source of private key legitimacy raises the question of whether the private key, by itself, is conclusive evidence of the carrier's receipt of the goods in the condition notified to the transferee.
+Since an innocent carrier, would, in all likelihood, not be estopped from asserting the terms and conditions of the message he sent (as contrasted with the message received by the transferee) the private key would be less certain and therefore less merchantable than the negotiable ocean bill of lading.
+4 Conclusions: Demise or Transition
+The widespread use of the ocean bill of lading until recent times was due to the certainty of its enforceability and to the relative fairness of its allocation of liability for carriage risks.
+Its certainty was attained once the bill was separated from the charter party and became not only a receipt for the goods but also an independent (captain or master of the vessel issued) abstract document of title.
+Treaty law contributed significantly to the certainty of the ocean bill by establishing uniform requirements concerning its descriptive information.
+Treaty and statutory also contributed to the fairness of the ocean bills of lading by establishing liability boundaries and reconciling the conflicting interests of shippers, carriers, and insurers on loss of or damage to the cargo.
+The certainty of the contemporary ocean bill is seriously threatened by the multiplicity of issuers, such as shipowners, charterers, ship agents, NVOCC's, and freight forwarders.
+Often shippers and their secured creditors ignore how much is owed for ocean or combined transport carriage and to whom, until the carrier claims unpaid freight or charges and refuses to deliver the cargo.
+Certainty is also threatened by the work of fraudsters, forgers, and modern day pirates and buccaneers.
+A contemporary dishonest bill ordinarily involves not an exorbitant disclaimer (although there are plenty of these disclaimers still in use), but a shipment that does not take place, or a vessel that does not exist or disappears without a trace after loading.
+Perhaps the most significant threat to the bill's certainty is posed by its unavailability at the time of the arrival of the goods.
+Sea waybills have reduced some of the above uncertainties by limiting the number of qualified issuers, minimizing the possibilities of fraud and arriving at the port of destination prior to arrival of the goods.
+Yet, these gains in certainty have been made at the expense of the title and negotiability functions, functions that will continue to be needed for the foreseeable future.
+A recent communication by a knowledgeable observer of maritime shipping practices validly asserts that the needs for documentation and negotiation of ocean shipments vary depending upon the nature of the cargo and the size of shipper and carrier.
+The chief need of large shippers and carriers is ‘to process information for the flow of goods.
+Yet, while this may be as much as 70% of the cargo for major container carriers, it would apply to less than 30% of all international cargoes.’
+The remaining shippers, carriers and consignees still need documents or their equivalents that can act as receipts, contracts of freight and documents of title.
+Mutatis mutandis , banks willing to finance the trade of the remaining 70% of shippers and consignees will need to rely on negotiable documents of title as collateral.
+In addition, as developing, nations attempt to market their raw materials or commodities on a global and ‘just in time’ basis, they will need to resort to SeaDocs' like systems.
+Bills of lading and warehouse receipts, therefore, will need to be designed to allow instantaneous sales and pledges across the globe.
+The precise electronic garb worn by these future negotiable ocean bills of lading is unclear, but at least some of their legal pre-requisites are discernible, especially if banking needs and constraints are taken into account.
+As trusted and ‘neutral’ paymasters, banks will continue to be asked to pay letters of credit after examining bills of lading whose principal item will be the stated capacity of the signer or authenticator.
+Since only a limited number of stated capacities grant possessory rights and enable liability those capacities must be easily ascertainable.
+Accordingly, banks will continue to determine whether the bill was signed or authenticated by someone stating the he was the ‘carrier,’ the ‘owner,’the ‘master’of the vessel, or the agent of any of the above.
+Given the volume and speed of the electronic transactions, bank customers are also likely to demand that banks ascertain the trustworthiness of the signers or authenticators.
+This determination will probably be made by means of paper based or electronic certifications issued by trustworthy entities such as FIATA or the NVOCC registries.
+Banks will also be asked to examine carriers' and inspectors' descriptions of the goods.
+As with the determination of the carrier's capacity, bank customers are likely to demand that banks ascertain the capacity of the issuer of the description by examining certifications issued by trusted third parties.
+Finally, to protect its own security interest in the collateral and its proceeds, the bank will need to acquire the equivalent of possession of the original bill.
+As apparent from the preceding description of likely examination and collateralization practices, these practices will not be possible without secure, reliable and quick access to the relevant information, whether in the form of an open ended message or a certification.
+Once third party rights are likely to be affected, as in the case of secured transactions or open market bona fide purchases, the information flowing from the carrier to the consignor-beneficiary of the letter of credit, and from the latter to the issuing or confirming bank can no longer remain private.
+To protect the bank as a secured party, as well as third party creditors and purchasers of the goods covered by the bill of lading, the information must become public, and acquire the legal status of public notice.
+Absence of such a public notice was, as will be recalled, one of the principal legal problems faced by the CKR.
+The first legal prerequisite involved in satisfying the transactional needs of the electronic bill of lading, therefore, is reliable public notice.
+Throughout the history of documents of title, possession provided reliable public notice of legitimacy of acquisition.
+Two reasons prevent it from continuing to provide this function.
+Possession of an electronic bill would be symbolic at best and, thus, would not be apparent to third parties and notice on items such as capacity or authenticity of issuance is not connected with possession of the bill or its electronic equivalent.
+Given the need for reliability, transactional neutrality and ease of access, a public type of bill of lading registry seems the logical choice.
+Although the relevance of recordable bill of lading data depends upon the type of transaction involved, the following data are sufficiently generic so as to become prime candidates for public registry recording: 1) storage of goods in carriers' warehouse or independent warehouses awaiting carriage; 2) issuance of port to port and combined transport bills; 3) on board loading; 4) carriers' (actual or contractual) names, and electronic signatures or authenticating devices; 5) certificates of carrier, freight forwarder, and other issuer solvency or sufficiency of insurance; 6) inspectors' and other examiners' names, electronic signatures or authenticating devices, and certifications of solvency or of sufficiency of insurance; 7) negotiation, transfer, pledge, and presentation (including cancellation) of port to port and combined transport bills; and 8) storage of goods upon termination of carriage, and issuance of warehouse and trust receipts.
+A large item in the contemporary bill of lading-letter of credit practice missing from this list is the letter of indemnity issued by banks to prompt the release of goods that arrive prior to the arrival of the original bill of lading.
+The reason for not listing this item is that, as proven by the SeaDocs experiment, such letters of indemnity may become unnecessary if the electronic registry succeeds in securing delivery to the rightful holder of the PIN or private key.
+At this time it is not possible to predict whether all or just part of the above listed data will be required by the public registry, or whether the public registry itself will be a part of a larger commercial registry that would include other trade and secured transactions.
+Given the possibility of pre and post-carriage storage of the goods, and the need to extend the bank's security interest to the sale of the goods upon their arrival, it would make sense to integrate the bill of lading registry with a more encompassing commercial property registry.
+Yet, such an integration would entail a highly ambitious legal and political undertaking.
+Neither can it be forecast whether registration will be an essential prerequisite for the creation of in rem rights in the cargo, as it is for the creation of in rem rights in real property in the German Grundbuch or whether it will have a purely notice giving function.
+A Grundbuch like approach may well require that the electronic document of title be issued only by the public registry as an agent for the carrier.
+Such an issuance will increase the certainty of the transaction, but will be unacceptable to carriers and intermediaries unable or unwilling to meet registry standards.
+The advent of global financial marketplaces, hemispheric free trade zones, and vast common markets suggests that public regional or hemispheric electronic registries are indeed inevitable.
+Proper notice through registry recordings can be accomplished without having to set up a universal or central registry.
+The technology for exchanging information among individual registries or groups of registries through computerized networks is sufficiently established to allow easy national and international access to the registry or registries in question.
+The obstacles in the way of the public registry, are not technological, but legal and political.
+International recordings, whether Grundbuch like or merely notice giving, are only feasible if nations and their international traders agree on the uniformity of the form and content of the recording messages.
+Having agreed on the medium of the message, the next step requires agreement on the contents of the message.
+Bills of lading will need to be issued in accordance with a uniform layout, whether it is the United Nations or any other universally acceptable format.
+The terms and conditions inserted in this layout will also need to be uniform for each type of bill or related electronic message.
+Last but not least, the legal effectiveness of recordings with a potentially world wide impact will require uniformity of legal consequences in each of the jurisdictions involved.
+Thus, uniformity of form and substance constitutes the second minimum legal prerequisite of a public bill of lading registry.
+The present study shows that substantive uniformity, whether in the message that constitutes the text of the bill, or in the legal consequences attached to the recording, is only attainable when the various participants in the transactions arrive at a consensus with respect to the fairness of their rights and duties.
+This was the lesson of the success of the Harter Act and of the Hague and The Visby Protocol, and of the failure of the Hamburg Rules.
+These lessons should be put to good use by the rightful participants in an appropriate forum.
+In this light, the task of attaining uniformity and harmonization is not as difficult as it appears.
+Some of the participants in the bill of lading transaction have either drafted universally minded law, such as the CMI Rules, or are in the process of drafting such rules, as is the case with the present revision of the UCP by the ICC.
+What is missing is an appropriate forum to merge the various efforts into a functional and widely acceptable whole.

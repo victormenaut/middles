@@ -1,0 +1,862 @@
+
+
+JFIT NEWS Issue No 19 December 1990
+DTI and SERC working together within a Joint Framework for Information Technology
+IT security: a universal concern
+by Geoff Hayes, TSB Bank plc
+The security of IT systems is a matter of universal concern to all businesses which place any kind of reliance on IT for their continuing viability.
+For, not only must these systems perform the required service in a timely and efficient manner, but also they must not be exposed to the threat of failure or interference.
+The consequences of a major breach of security can result in an organisation being put out of business, such is the dependence of today's information society on its technology.
+A serious threat to an IT system is, for example, the rather obvious but nonetheless disastrous consequences of fire where inadequate data protection and contingency arrangements apply.
+Rather more obscure, but equally disastrous, could be the effect of a ‘malign computer virus’ introduced into critical systems, which would be difficult to detect, and once ‘infected’, very difficult to remove.
+Uncontrolled access by unauthorised users of IT systems can result in the disclosure of company secrets damaging to the business, or in fraudulent manipulation of records.
+Fraud could also result, again in a more obscure way, by unauthorised modification of company software, not detectable by conventional testing procedures, and a consequence of poor development controls.
+These are just a few examples of a wide range of security problems that can be encountered in the many disciplines of IT system development and operation.
+It can be a daunting task to catalogue all the possible dangers, and even more difficult to develop a practicable and sensible response by way of countermeasures.
+But one thing is certain, it cannot be ignored.
+The best place to start is to consider the business you are in, and what are the assets on which your business depends which are themselves dependent on IT services.
+With a bank, for example, the money that it manages on behalf of its customers, and also the various financial services provided to its customers, are both entirely integral to and dependent on IT systems.
+Security of IT in a bank is therefore of paramount importance, and in this example it is principally the integrity of its systems about which there is most concern.
+Advanced techniques are used in a bank's systems which will not always be appropriate in other businesses.
+In terms of identified IT related assets and the potential threats, the business then needs an IT security policy so that there is no doubt concerning the company's stance on the matter.
+This will serve to identify responsibilities and authorities, and to state the requirement for particular controls over the various IT functions.
+It is essential to obtain the highest authority for such a policy, so as to emphasise the importance of its achievement.
+To achieve appropriate security consistent with a declared policy will require a methodical approach based on a suitable qualification of the risks involved, so that cost-beneficial countermeasures may be specified and implemented.
+It will be helpful to define security arrangements, technical measures integral to the IT systems themselves, and supported by contingency arrangements.
+In essence, practical security is concerned with preventive measures to guard against error, failure or attack, with damage limitation measures should these fail, and with adequate recovery capabilities to allow for business continuity.
+While these are the formal steps that should be taken (threat analysis, policy making, risk assessment, and implementation of particular measures), and it may be appropriate to assign the task to a team responsible for IT security, it should nonetheless be recognised that security is predominantly a problem  that has its roots in people and what they can do or fail to do.
+From this point of view IT security in a business is everyone's responsibility.
+To ensure that this is both recognised and accepted, an effective programme of IT Security Awareness is essential.
+Security Awareness must be part of the company culture.
+Whilst this is perhaps more straightforward in certain businesses like banks, or in other activities such as in the military or diplomatic field, it is no less important in other sectors where a security culture has in the past seemed unnecessary.
+Today's IT world is a different ball game.
+Geoff Hayes is Chairman of the IT Security Advisory Group.
+The Challenge of IT in the 1990's
+As the banner headline in last month's JFIT News proclaimed, IT Division has a new Director.
+I took over from John Thynne at the beginning of December.
+John's is, of course, a hard act to follow.
+He brought a very detailed knowledge and understanding of the IT industry to the job together with great profession competence that was apparent to all who saw him in action.
+John played a leading part in the DTI's support for the IT industry and research base for many years, and I know that he will be greatly missed by all involved.
+I should like, on their behalf, to thank him for all he has done and to wish him every success in his new appointment as Director General of the Electronic Components Industry Federation.
+I look forward to working with him in his new role.
+IT is a new area of specialisation for me.
+I trained as a physicist and spent many years in laser research, first in Canada and then at the NPL in Teddington.
+My last post, however, was in the Department's Division of Radiocommunications as Director of Radio Technology.
+In many ways, it is only a short step from communications to IT and, with every year that passes, the gap is closing.
+It is therefore not only with a sense of excitement that I approach my new responsibilities, but also with a keen awareness of the importance of IT to industry, to the service sector, to research and to the strength and wellbeing of the UK as a whole.
+Leading IT Division in the 1990's is a challenge, but one that I am looking forward to enormously.
+One of my first priorities is to get to know the IT community, firstly in the UK, but also in Europe and beyond.
+I particularly wish to meet as many of you as possible involved in JFIT programmes.
+I know that I shall make only a small start before Christmas, so perhaps I can take the opportunity afforded by this Newsletter to wish you all a very happy Christmas and a good New Year.
+Keith Shotton.
+Expert systems opportunities conference repeated
+‘By popular demand’ on the 15th November we repeated the experts systems opportunities conference ‘Turning Knowledge into Profits’, first held in May to launch the DTI's set of expert systems case studies and guidelines.
+The conference was again chaired by Brian Redhead, and the 250 delegates heard presentations from David Lindsell (Ernst & Young), Mike Shaw (Marks & Spencer), James McAteer (Shell International Chemicals) and Geoff Dalton (ICI).
+The presentations covered applications in the financial, personnel commercial and process plant management areas, all based on the published case studies.
+A presentation by Bob Wiggins (ITD/DTI) discussed sources for help available for organisations wishing to pursue an interest in expert systems, and future plans for developing the expert systems opportunities programme.
+After the formal presentations, many of the delegates stayed to view demonstrations of expert systems applications by British Nuclear Fuels, British Coal, Ernst & Young, Glasgow Southern General Hospital, Image Automation, Lucas Engineering & Systems, Marks & Spencer and Rolls Royce & Associates.
+Again, all the applications demonstrated were based on the published case studies.
+During the next 12 months we shall continue to promote the case studies and guidelines material, and this will include a number of regional conferences and seminars.
+The publications will be further enhanced, and we have started work on the preparation of an experts systems version of the guidelines themselves, which is expected to be ready early in the new year.
+In the new year we also expect to launch a forum which will promote information exchange between users and potential users of expert systems.
+If you would like to receive further details about developments in the expert system opportunities programme please contact Richard Pitts.
+1990 JFIT Annual Report and Poster Supplement
+The 1990 Annual report has now been published together with the poster supplement which contains details of all projects in all programmes supported under JFIT.
+Also included are listings of SERC-funded academic-only and LINK grants administered under JFIT.
+The report is available from DTI Headquarters Library.
+Price £15.
+Cheques should be made payable to the Department of Trade & Industry.
+European X25 backbone network for researchers
+The Eureka COSINE project is designed to establish a pan- European OSI standards-conformant computer communications infrastructure for academic, industrial and public sector research.
+As part of the project, tenders will soon be sought for a backbone X25 service which will interlink national public or private networks used for research in European states.
+The initial contract will probably be for two years replacing the current pilot service.
+Complete or partial tenders will be requested to meet the objectives which are that the service will be available for non-commercial traffic in connection with academic, government and industrial research activities and, in doing so, it must not contravene any European or national laws or regulations.
+The network must be capable of offering access between 64 kbit/s and 2 Mbit/s with usage charges being related primarily to the capacity of the access link.
+Tendering organisation(s) must be based in one of the COSINE countries and the successful proposal will need to show experience in implementation and management of major international projects and OSI and multivendor interworking, preferably with regard to X25 networks.
+It is expected that the closing date for completed tenders will be late January 1991 and organisations with an interest in this invitation should contact: COSINE Project Management Unit (S1.1).
+Researchers who can take advantage of such a service should note that a pilot service is already available which connects with most other European countries.
+Further information can be obtained from Tony Jeffree in the Joint Network Team at RAL.
+‘Usability Now!’— a new programme and exhibition
+On Wednesday, 14th November 1990, DTI formally launched its two-year HCI technology transfer programme ‘Usability Now!’, when Brian Oakley, Chairman of Logica Cambridge Ltd opened the ‘Usability Now!’ exhibition mounted by the Design Council at its London Innovation Centre.
+The ‘Usability Now!’ exhibition includes 28 interactive exhibits which show British human factors expertise effectively applied.
+Two of the displays also show the results of paying too little attention to human factors!
+The exhibition will continue until the end of January 1991.
+The aims of both the programme and the exhibition are to promote the importance of usability in IT systems and to provide suggestions as to how this aspect of systems development can be improved.
+Further information on this new programme, which forms part of DTI's ongoing Advanced IT Technology Transfer Programme, can be obtained from the ‘Usability Now!’ inquiry point.
+Anyone interested in participating or contributing to the programme should contact Ray Browne.
+Brian Oakley, Chairman of Logica Cambridge, accompanied by Dick Butler of marketing consultants MSA/ITW, at the launch of DTI's Usability Now! programme
+IT Security Advisory Group
+The IT Security Advisory Group (ITSAG) was established by the DTI a year ago to obtain strategic advice from industry and commerce on the Department's policies and programmes in the field of IT security.
+It derives from an earlier advisory group on computer security, although ITSAG draws on a wider membership than its predecessor (including a bigger proportion of end users).
+Its terms of reference reflect the current objectives of IT Division.
+Among the members of ITSAG are representatives of major IT suppliers, users in the financial services, engineering and retail sectors, IT consultants and individuals closely involved in IT standards-making at national and international level.
+Although there is currently no formal relationship between ITSAG and the ITAB joint committee structure, the Group will be considering in the coming months whether there is scope for creating a close link.
+Such a link would help make IT security issues and concerns more widely known so that these can be taken fully into account in the formulation of appropriate DTI policy and programmes.
+The Chairman of the Group is Geoff Hayes, Head of Computer Security at TSB Bank plc.
+An article by him on IT security appears on the front page of this issue.
+Further details about the Group, including its membership, are available from the Secretary.
+SERC Directorate
+Systems Engineering Subcommittee B:
+Please note that Helen Fitzpatrick has now left SERC and until a new committee secretary is appointed the contact person for Subcommittee B at SERC will be Mrs Pru Backway.
+European briefing
+European Support For Information Technology R & D
+Further to the last issue, you are reminded that we are organising a seminar for SME's and firms new to ESPRIT on the 31 January 1991.
+The seminar aims to introduce the ESPRIT programme and outline the costs and benefits of participation.
+We will endeavour to provide helpful advice on finding partners and submitting proposals.
+If you would like any further details or an application form please contact Yina Sharma on 071-215-8668.
+The Telematics Programme
+Consideration of the Commission's proposal for the telematics programme by both the European Parliament and the advisory bodies to the Research Council is going on apace and it is hoped that this programme will be one of the first from the third Framework programme to be adopted in 1991.
+The Commission's proposal was due for debate at a plenary session of the European Parliament on the 20 November.
+It has already been considered by the relevant Parliamentary committees and this debate will complete its first reading.
+Consideration by Ministers of the member states at the Research Council is likely to follow at the end of December and it is hoped that this will produce a ‘common position’, that is agreement on the proposal possibly as amended in the light of the comments of the Parliament and of the advisory bodies to the Council.
+The proposal as agreed by the Research Council will have a second reading in the European Parliament and adoption of the programme, if there are no delays, could be expected in March of next year.
+Adoption of workplans and the first call for proposals should follow soon after, and first contracts could be signed by November 1991.
+The total amount of Community funding for telematics (380 MECU) was agreed at the adoption of the Framework programme back in April 1990; however, the breakdown of this total between the six areas within it (Administrative Networks, Transport, Health, Training, Libraries, Linguistics) will not be certain until the programme is adopted.
+The contact point for the telematics programme is Graham Jenkins.
+Progress with a new IT programme
+The new EC Framework Programme for 1990–94 was adopted earlier this year and since then negotiations about the individual programme lines have been taking place.
+During the third Framework Programme 5.7 BECU will be spent over 15 different programmes covering six different action lines.
+These range from Information Technology and Telematics to Environmental matters, Industrial to Life Science and Technology and Energy to intellectual resources.
+The new IT programme following on from the ESPRIT 11 will be the largest of the Framework lines with a total allocation of 1352 MECU (£950 million).
+Details of the programme have not yet been decided but are likely to fall into five main areas of research: Information Processing Systems and Software; Advanced Home and Business Systems and Peripherals; Computer Integrated Manufacturing and Engineering; Microelectronics; and Basic research Actions.
+Over the past few months there have been detailed discussions (which are continuing) in Brussels over the technical context and allocation of funding for the new workplan.
+Industry and academia have had an opportunity to participate in these discussions through Industrial Working Groups, and the open workshops held in conjunction with the ESPRIT conference in November.
+The aim is to provide a workplan which will be used in conjunction with a new call for proposals likely to be held in 1991.
+We will keep you informed of developments, but if you wish to be among the first to know you should sign on to our mailing list if you have not done so already.
+ESPRIT Conference
+The ESPRIT Conference and Exhibition held in Brussels in the week commencing the 12 November was a great success, and was attended by around 2,000 people from all over Europe.
+During Monday to Wednesday there were over 100 separate sessions covering all areas of the programme, and on Thursday delegates to the IT Forum were addressed by Mr Pandolfi, Vice President of the Commission of the European Communities, Mr Th. von der Vring, Chairman of the Committee on Budgets of the European Parliament, and other notable luminaries, including representatives of Siemens, AEG, Thomson and Logica.
+Throughout the week an exhibition of past and existing ESPRIT projects was held, at which around 80 projects were represented.
+ODP Programme —‘marriage broking’ service
+In response to requests made at the ODP workshop in August, a ‘marriage broking’ service is being provided to assist in the forming of consortia.
+Those interested in using the service are being asked to provide details of whom to contact, expertise available and areas of interest in ODP.
+We propose combining all completed forms, probably as simple photocopies, into a single document for distribution to all those interested.
+Forms can be obtained from the contact given below.
+This is a collaborative programme funded by DTI/SERC.
+As part of the pre-programme activity, a number of ‘end-users’ will be contacted to gauge their interest in Open Distribution Processing.
+If you are an ‘end-user’ with a potential interest in an open systems approach to distributed processing, particularly if you are using OSI products, why not contact us for further details and a copy of the ‘marriage broking’form?
+DTI Human Interface Club Special Interest Groups
+The following two special interest groups are organising workshops early in 1991:
+Organisational Aspects of IT (OASIG) has its next meeting to discuss ‘Organisation design and information technology’ on the 13 February 1991 at the University of Sheffield.
+The aims of this group are:
+to promote debate and action on the wider organisational aspects of IT
+to create a forum for interaction amongst users, system developers, IT strategists, business managers, researchers and others with a professional interest in this area
+to disseminate available expertise and knowledge to the wider business and education communities.
+Details of the above meeting are available from Debbie Hauton MRC/ESRC Social and Applied Psychology Unit, University of Sheffield.
+A second group, Methods and Modelling for Interactive System Design (MMISD) is running two one day workshops on the following:
+Human Computer Interaction and Users with Special Needs in February 1991 at York University.
+The purpose of this workshop is to bring people together who have been working in the area of users with special needs or disabilities.
+In the past, accommodating such users has been largely the province of a small number of individuals.
+Research in HCI has now reached a stage where it can begin to tackle these problems effectively.
+User Interface Architectures on the 4th March 1991 at King's Manor, York.
+This workshop will examine user interface architectures from two perspectives:
+their semantics — the models they provide, their usefulness and applicability
+their behaviour — communication and timing requirements and limitations.
+Please contact Prof Mike Harrison, Dept of Computer Science, University of York, Heslington, York.
+DISC ready to fly
+DISC, the new UK IT standard organisation, is now ready to take off.
+After gathering momentum over the past six months under the guidance of an Interim Action Board while fundamental matters such as constitution, scope, budgets and organisational structures were determined, DISC is now poised to seek confirmation from the BSI Board that DISC may be formally established within the BSI framework.
+At the meeting on the 5 November the BSI Standards Board agreed to recommend to the BSI Main Board, which met on the 28 November, that the new body be permanently established.
+DISC will now start a general recruitment plan to raise the revenue it requires to meet the priorities that have been determined by its Business Strategy Forum.
+The first general assembly will soon be convened and the membership of DISC will be able to elect a board.
+The general aims of DISC are:
+to man, manage and maintain an effective UK ability to contribute to and influence international and European standards making
+to provide a forum in which users and suppliers can meet together to understand and prioritise requirements and reach commercial agreement on solutions
+to deliver to users the information they need to exploit the standard available, planned or foreseen.
+The DTI (ITSU-ITD6A) was a founder member and is represented on the Interim Action Board by Harry Ivey and on the Business Strategy Forum by George Sidney.
+Gordon Manning, DTI.
+Parallel processor assessment at the National Physical Laboratory
+A Parallel Processor Assessment Group has been set up at NPL as part of a wider interest within the System Architectures Committee in the collection and dissemination of reliable information on performance assessment of novel computer architectures.
+NPL interests include:
+design criteria for benchmarks
+methodology of testing
+application kernel benchmarks
+parallel processor languages.
+The team at NPL would welcome contact with individuals or groups interested in participating in or contributing to the work.
+Information about the interests of external contacts will be treated in confidence within the programme.
+NPL is now an Executive Agency of the DTI and will issue reports on this work free to interested parties.
+For more information please contact Ed Brocklehurst.
+Calendar of Events
+3–4 January 1991, University of Essex, SALT Workshop on Dialogue Systems as a Focus for Speech and Language Processing.
+Contact: Katharine Morton, Linguistics Department, University of Essex, Colchester.
+22 January 1991, Royal Society, London.
+One-Day Symposium on the True Prize of Collaborative Research.
+Contact: Mrs H M Wilkin, Segal Quince Wickstead Ltd.
+The Grange, Market Street, Swavesy, Cambridge.
+24–27 March 1991, Cambridge, Second European Conference on the Practical Applications of Lisp.
+Contact: EUROPAL, PO Box 110, Dorking, Surrey.
+25–27 March 1991, University of Birmingham, EASE 91 — Development Environments for Engineering Applications.
+Contact: Susan Hilton, Room 2.76, R1, Rutherford Appleton Laboratory, Chilton, Didcot, Oxon.
+9–10 April 1991, Walsall Polytechnic, Conference on Object Oriented Data Management.
+Contact: Michael Jackson, DM91 Organiser, Wolverhampton Polytechnic, Wilfruna Street, Wolverhampton WV1 1SB.
+2–4 July 1991, University of Oxford, AIENG91 — Sixth International Conference on Applications of Artificial Intelligence in Engineering.
+Contact: Jean Croucher, Computational Mechanics Institute, Wessex Institute of Technology, Ashurst, Southampton.
+9–11 July 1991, UMIST, JFIT Community Conference.
+Contact: Fiona Lubbock, Concorde Services Ltd, 10, Wendell Road, London W12 9RT.
+JFIT NEWS Issue No 20 February 1991
+SERC financial provision
+Many readers will be aware that because of a lower than expected settlement for the civil service in the Chancellor's 1990 Autumn Statement, higher than expected inflation, and exchange rate effects on international subscriptions, SERC has announced that certain activities will have to be curtailed if the Council's programme is to stay within its budget.
+The estimated shortfall in financial year 1991/92 is about £40 million.
+Council has asked all its Boards to consider how savings might be made, and expects to decide on some of its longer term options in the context of its ‘forward look’ in February.
+Meanwhile it has been necessary to delay most new grant announcements, and to achieve immediate savings elsewhere in other activities such as seminars and workshops and to freeze recruitment to the Council's laboratories and to the Swindon office.
+The precise outcome of these changes will not be known for a little while, but regrettably it will almost certainly result in a lower financial provision for IT and many other areas in the longer term, and quite probably a significant lower level of commitment to new grants in all areas in the current academic session, since the sharpest adjustment needs to be made for 1991/92.
+Naturally we regret very much that these unwelcome changes are necessary, and at short notice, SERC will be consulting with the IT Advisory Board and with our colleagues at DTI on how to respond, and we will provide updates in successive editions of JFIT News .
+Meanwhile, for up-to-date news on the position regarding grants, please consult the relevant SERC committee secretary.
+Mark Wilkins, SERC.
+1991 JFIT Community Conference
+IT Division is organising the 1991 JFIT Conference at UMIST on the 9th–11th July with the primary aim of discussing objectives of the JFIT programmes and they way in which they are meeting the requirements of users.
+There will be a number of interactive plenary sessions on the first day with discussions on the future requirements of users from a variety of industries, and on how the emerging technology can be related to their needs.
+This will stimulate suggestions for new or further research.
+These discussions will include representatives from supply and end-user companies which gain their competitive edge from putting advanced information technology into their products.
+Parallel workshops on the second day will provide an opportunity to discuss in more detail the matching of user requirements in the individual technology areas.
+Clubs and special interest groups will be given the opportunity to discuss technical matters on the third day.
+The conference dinner will be held on the evening of Tuesday 9th July at Manchester Town Hall, preceded by a Civic Reception.
+Do please mark the dates in your diaries: 9th–11th July at UMIST.
+Registration forms will be available in a later issue of JFIT News .
+For further details, please contact Linda Prior.
+On The Move!
+Information Technology Division is on the move to 151, Buckingham Palace Road, London SW1W 9SS — opposite Victoria Coach Station.
+It is a brand new architect-designed building which will offer us improved space and usage and we are taking advantage of the opportunity provided by the move to install an enhanced IT system.
+We hope to move there, subject to any last-minute hitches, on the 18th February 1991.
+New telephone numbers have been issued to all staff, but a few main enquiry numbers will be retained and calls on the old numbers will be transferred to the new building for the first couple of months.
+In the event of problems, the main DTI Inquiry Unit is 071–215 5000, and they will be able to advise callers of the new numbers.
+We shall be holding meetings in the new offices, but we shall continue to use Kingsgate House and other DTI buildings in the Victoria Street area.
+We look forward to welcoming you at our new offices.
+New Year's Honour
+Congratulations to Tony Egginton on his appointment as a CBE in the New Year's Honours List.
+Tony is Director Programmes and Deputy Chairman SERC.
+Special Report — Strategy
+This issue is the first in a series of occasional special issues which incorporate a supplement devoted to longer feature articles and commentaries.
+The theme of this month's supplement is JFIT strategy — the thinking behind the Joint Framework and its programmes and the ways in which some current issues are being addressed.
+Progress on the ‘IT in Engineering’ Initiative
+A working party chaired by Dr Nigel Kingsley reported to SERC's Engineering Board in July 1989 on ‘The Application of Information Technology to Engineering Research’.
+The working party found that the linkage between the IT research community and the IT industry is very strong, but that there is little linkage between the IT research community and the wider engineering research community or engineering industry.
+It perceived that there was an awareness gap — where the engineering community was ignorant of the full scope of IT — and an applicability gap, which reflected that the engineering community perceived that much of the IT research was inappropriate to its needs.
+To implement the recommendations of the working party, an initiative to promote IT in engineering was launched jointly by the Information Technology Advisory Board (ITAB) and the Engineering Board.
+The initial effort concentrated on the applicability gap, where the working party recommended:(i) that there should be a programme of collaborative research between the IT research community and the other engineering communities supported by the Engineering Board,(ii) that the research projects should be jointly funded by ITAB and the Engineering Board, and,(iii) that funding should build up to a total of £10 million per annum over five years.
+It was decided to focus initially on four topics or themes put forward by Engineering Board committees.
+These were:
+(A)
+Vision and other sensors in manufacturing and civil engineering
+(B)
+Non-linear dynamic modelling of chemical processes
+(C)
+Design of molecular materials
+(D)
+Massive databases and decision support systems as applied to transport.
+Bids were invited against each of the above themes in March and in October 1990.
+The proposals were appraised by the relevant ITAB and Engineering Board committees.
+There was considerable interest in the initiative, with 60 proposals in the first call and 36 in the second.
+Regrettably, in the first round only three projects received alpha gradings; this has improved to five projects in the second call, although they were concentrated in Theme D, put forward by the Built Environment Committee of the Engineering Board.
+The initial objective of the ITE initiative had been to encourage a reorientation of the work supported by ITAB into avenues of relevance to the engineering community, using the existing committee structure as far as possible.
+The experience of the first two calls shows that, with one noticeable exception, the two sides are still relatively far apart, and that the success of the initiative is likely to depend on a considerably increased effort devoted to co-ordination, workshops, and other bridge-building methods.
+The Built Environment Committee has actively promoted use of IT for many years through its IT Applications Programme.
+The current situation is that several new themes are being worked up, and it is likely that the existing themes will be broadened to cover a wider range of engineering interests.
+Discussions are taking place on a number of other issues, for example, to ensure that these themes are co-ordinated and promoted more strongly, and to investigate the funding of short- term feasibility studies involving applicants from both IT and engineering departments.
+We shall publish details as they become available.
+Meanwhile the existing themes remain open to applications until further notice.
+For general information and advice on the initiative contact Dr A Bryden in Information technology Directorate at SERC Swindon Office.
+For detailed advice on themes contact the relevant committee secretary.
+Neural and parallel computing OSTEMS mission report
+The findings of a recent mission to Japan to study developments in neural computing and parallel processing were reported at a meeting held at the Café Royal on the 4th December.
+The mission was sponsored by University College London, and funded by DTI and SERC under the Overseas Science and Technology Expert Missions Scheme (OSTEMS).
+The team of three academics and six industrialists visited ICOT and discussed progress in the Fifth Generation Computer Systems Programme (due to be completed in 1992) benchmarking of parallel systems and decomposition of parallel applications.
+They were also able to make site visits to major Japanese industrial research centres, including Electro-Technical Laboratory, Fujitsu, Hitachi, Mitsubishi, Nec and Sony, to discuss their activities within the Fifth Generation Programme and see demonstrations of some of the deliverables.
+MITI is now developing the workplans for a ‘New Information Processing Technology Programme’ as a successor to the Fifth Generation Programme.
+This will consist of two components: ‘soft’ information processing and massively parallel and distributed architectures, where neural network technology is dominant.
+The team was able to discuss the proposals for the new programme with MITI and with a number of the key industrial participants.
+They concluded that the goals for the new programme were ambitious, maybe too ambitious, but that this was a programme to be taken every bit as seriously as its predecessor.
+MITI is working to ensure that there is broader and more open international collaboration in the New Information Processing Technology Programme than was possible in the Fifth Generation Programme, and it is hoped that organisations in other countries may be able to play a major role both in the research and its exploitation.
+Further information about the findings of the OSTEMS mission can be obtained from Dr Paul Refenes.
+Peter Rothwell, DTI.
+Parallel processors: a glossary
+The National Physical Laboratory has compiled a list of 120 parallel processor terms and acronyms together with brief explanations and references.
+Entries cover machines, projects, hardware and communication, software, and techniques.
+Copies can be obtained free from Ed Brocklehurst.
+Developing fault-finding expertise in a hot strip steel mill
+The collaborative Alvey project (MMI 106) on fault-finding for hot strip steel mills, between British Steel, Port Talbot and the University of Wales College of Cardiff, began in 1987 and will be completed in 1991.
+The project was focused on improving fault-finding expertise in part of a largely automated, hot strip mill at British Steel.
+Faults need to be diagnosed quickly and efficiently since quality of steel is increasingly important and mill shutdown costs at least £10,000 per hour.
+The project is divided into four main phases: analysis, design/development, evaluation/modification and dissemination.
+The most difficult phase was the analysis of cognitive processes in fault-finding in such a highly complex process plant.
+Analysis comprised three main activities:
+(a)
+Identification of errors and problems experienced by technical personnel whilst fault-finding.
+(b)
+Development of a prescriptive model of fault- finding which specifies the goals and sub-goals associated with fault finding and their interrelationships.
+This model of fault- finding identifies three main goals: initial symptom identification, the fault-finder has to be aware of symptom sources, contingencies existing between them and their relative informational value.
+Initial symptoms need to be examined systematically and exhaustively.
+The second goal of fault-finding is also critical since it is where the fault-finder narrows down the area of search to, hopefully, one computer-controlled subsystem.
+(c)
+Specification of different fault-finding strategies in terms of cognitive process and type of information used.
+(Three types of cognitive process are pattern matching, use of rules/heuristics and some form of reasoning.
+Fault-finding strategies might also use structural, functional, probabilistic or temporal information or information concerning system variables).
+An intelligent training system was designed and developed to support the development of this fault-finding expertise.
+it mapped directly onto the fault-finding model and coped with both experienced and inexperienced personnel.
+Tutorials provided the knowledge required to achieve subgoals (eg a fault-finding strategy) whilst simulated faults enabled trainees to practise one or more of the main goals.
+Intelligent feedback and advice is provided on the basis of current and past interactions.
+Trainees are provided with some choice over the sequence of training material depending on competence demonstrated.
+Evaluation studies have been completed.
+Use of the intelligent training system can result in significant improvements of up to 50% in speed together with qualitative improvements in how the fault-finder tackles a fault.
+Trainee reactions to use of the system have been very favourable.
+To date 15 personnel from British Steel have been trained using this system which is now being used as part of normal training practice.
+For further details contact John Patrick, Project Manager, University of Wales.
+Usability Now! management briefings
+The successful launch of the DTI's two year HCI technology transfer programme ‘Usability Now!’ is now being followed up by a series of half-day management briefings.
+Briefings have been developed exclusively for senior management ultimately responsible for the design, development, marketing and selling of IT-based products and systems.
+The management briefings provide an introduction to the importance of usability as well as practical advice about how to improve usability using new methods and tools.
+Demonstrations of good and bad usability will be on show and delegates have the opportunity to discuss usability, as it applies to their business, with recognised experts from the HCI field.
+The briefings will take place during February, March and April at venues in Edinburgh, Glasgow, London and Loughborough.
+Details of some of the programme are in the Calendar of Events.
+If you are interested in attending one of the briefings or would like further information please telephone the venue directly.
+Further details on the Usability Now! programme can be obtained by telephoning the Usability Now!
+Enquiry Point.
+Mervyn Hillier
+Mervyn Hillier died suddenly on 25th December 1990.
+Many people will remember him from his days at DCVD (MoD), from which he brought much valuable experience to his role as Co-ordinator of the LINK Opto-electronics Systems Programme.
+His expertise and enthusiasm will be greatly missed.
+Our condolences go to his wife and family.
+Invitation to join a SIG on CKBS
+This is to invite you to join a new Special Interest Group (SIG) on Co-operating Knowledge-Based Systems (CKBS), as proposed at the international working conference on CKBS, held at the University of Keele on the 3rd–5th October 1990.
+This conference was sponsored by the BCS Data Management and Expert Systems Specialist Groups, ESPRIT and DTI/ITD among others, and was attended by over 80 delegates from 15 countries.
+The conference agreed to form an International Special Interest Group in CKBS, with strong European and British components.
+An invitation to join a British group was also circulated earlier in the October 1990 issue of the JFIT News .
+I now repeat the invitation (no need to respond if you have already written to me).
+It is hoped that part of the administrative cost of the British group will be covered by the DTI/ITD Initiative.
+As the research in intelligent knowledge-based systems has progressed steadily over the past decade, it has become increasingly clear that there are classes of complex problems which cannot be solved by a single system in isolation; they require several systems to work together interactively in a co- operative framework.
+Furthermore, as the number of knowledge-based systems are growing, it makes sense to use pre-existing systems in co-operation, wherever possible, rather than developing new systems from scratch.
+This is an area where techniques of distributed AI (DAI) and distributed databases (DDB) blend together to provide good solutions to many industrial problems such as investment advice systems, intelligent manufacturing systems, automated engineering systems, air-traffic control, network management, travel plans, complex diagnostics systems, real-time monitoring systems, and so on.
+It may be noted that this area is supported by the ESPRIT 11 programme.
+The topics that fall under CKBS include:
+Distributed data/knowledge bases
+Co-operating expert systems
+Multi-agent systems.
+The objectives of this British SIG are:
+To provide a focus for the UK activities in this growing area
+To help establish a strong UK base to enable participation in the EEC programmes
+To facilitate technology transfer from research to industrialisation.
+Once the group is formed, it can sponsor seminars and workshops, and its mailing list can be used for information dissemination.
+If your interest lies in any of the following areas, then this is the SIG for you:
+Industrial applications in multi-agent systems
+DAI research with interest to know about the parallel developments in DDB's
+DDB research with interest to know about the parallel developments in DAI.
+If you are interested in this new SIG, then please send as soon as possible your name and address with affiliation to Prof S Misbah Deen, University of Keele, Staffs.
+Safety critical systems research programme
+A diary date; 11th July 1991.
+This is the Thursday at the end of this year's JFIT conference in Manchester when we plan to hold our inaugural workshop for the safety critical systems research programme.
+We do expect organisations from the projects in the programme to attend.
+This is their opportunity to meet the others in the programme and to find out what they are doing, We will also be briefing participants on the latest pertinent developments outside the programme, as well as the latest administrative news.
+So, for all you who said that last year's Contact Day was the best thing DTI and SERC had ever done and could there please be another — this is it!
+We also hope to have started up the ‘community club’ by the time of the JFIT conference.
+So those of you who have shown any interest at all in either the research programme or the SafeIT consultative documents can expect the eventual club organisers to be in contact with you between now and then.
+We have a good response to our call for proposals.
+For the most part they are as we hoped — industrially oriented, driven by real user problems, and with some gleam of an idea on how to solve them.
+Now begins the process of sifting and approval.
+Bob Malcolm, DTI.
+‘Gaijin Scientist’
+The Science and Technology Group of the British Chamber of Commerce in Japan has published a book entitled ‘Gaijin Scientist’.
+The book costs £10 and gives details of how a UK scientist can find a research post in Japan.
+A variety of Government and company schemes are outlined.
+The book also records the comments of 20 UK gaijin (foreign) scientists who have worked in Japan on these schemes.
+It is obtainable form Dr Louis Turner, Royal Institute of International Affairs, 10, St James's Square, London.
+One of the Research Grant Schemes listed in ‘Gaijin Scientist’ in the field of information technology is run by Fujitsu Ltd.
+The scheme allows about ten UK researchers per year to spend three months to two years in a Fujitsu research laboratory in Japan.
+Usually these researchers work with organisations already associated with Fujitsu or are university researchers.
+There are many other schemes described in the book.
+For details, contact Fujitsu's 1st Personnel Division, 1–6–1 Marounouchi, Chiyodaku, Tokyo 100.
+7th UK DKBS Workshop Proceedings now available
+The 7th UK Deep Knowledge Based Systems (DKBS) Workshop was held on the 9th–11th April 1990 at Gregynog Mansion at University of Wales.
+The DKBS workshops have been running since 1985 and were operated under Alvey Directorate as part of the Alvey IKBS initiative.
+Now that the Alvey programme has ended, the DKBS workshops have to find alternative sources of funding if they are to survive.
+However, this small series of meetings (of usually around 30 people), have been very successful in the past and by almost unanimous agreement each meeting has requested that the series continue.
+Following the 6th workshop held at Sunderland Polytechnic, we were asked to organise another workshop at the University College of Wales, Aberystwyth.
+Fortunately, with much appreciated financial support from IEATP and the AISB (Society for the Study of Artificial Intelligence and Simulation of Behaviour), the workshop was organised and held successfully.
+The workshop was attended by 25 participants from academia and industry.
+Each workshop usually has a particular theme and the theme for the 7th workshop was model-based reasoning with particular emphasis on applications.
+Intending participants were asked to provide either an extended abstract or a position paper for the workshop, and a number of these were selected for presentation.
+The papers are a reasonable cross section of the research being done on these topics in the UK today.
+Copies of the proceedings are available from Prof M H Lee, department of Computer Science, University College of Wales, Aberystwyth, Dyfed.
+Royal Society/SERC Industrial Fellowships Scheme
+Now in its tenth year of operation, the Royal Society/SERC Industrial Fellowships Scheme was established with the primary aim of enhancing communication between academe and industry.
+Its fellowships are designed to help scientists, engineers and mathematicians to move, on a temporary secondment basis for between six months and two years, either from an academic institution into industry, or vice versa, to undertake an agreed project of significance both to the academic department and to the company concerned.
+Typically, this project will be part of the company's engineering or science programme (but not necessarily research), or alternatively, it may consist of course development.
+Awards may be held on either a full-time or a part-time basis.
+Fellows, who will be expected to be of PhD status and/or to have an appropriate track record, retain their permanent employment so that their salary position and superannuation arrangements are undisturbed by the secondment.
+The Fellowship stipend, which will normally be at the appropriate academic salary scale, is paid direct to the fellow's employer, and help towards other costs involved in the Fellowship may also be available.
+Further details of this highly successful Scheme, together with application forms are available from SERC.
+EASE 91
+In the present difficult financial situation, SERC has regretfully taken the decision to cancel EASE 91 conference and exhibition which was to be held at the University of Birmingham on the 25th–27th March 1991.
+We apologise to all those who have submitted registration forms and who will be disappointed as a result of this decision.
+European briefing
+UK Research Council's European Office
+Have you considered applying for research funding from the European Commission?
+If you are an academic, did you know that the SERC, jointly with other UK research councils, maintains a European Office in Brussels which can help you do so?
+There are considerable sums of money available from the Commission for research and development, but one of the problems is finding out the relevant information at the right time.
+SERC's European Office promotes UK participation in EC programmes.
+Currently, all the staff of the office are secondees from SERC.
+They are headed by Dr Alf Game who until recently was in the Engineering Division at SERC.
+They are in regular contact with the officials of the Commission, and so provide a ‘listening post’ for advance information.
+An important role of the office is to alert researchers in UK higher education establishments to the opportunities available, and to provide them with advice on the programme most relevant to their research needs.
+The services of the office include:
+a bulletin produced every 3 weeks which gives up-to-date information on funding opportunities, calls for proposals, new initiatives, publications, seminars, etc.
+help in response to specific enquiries.
+the follow-up of proposals and feedback of their evaluation.
+help with visits to the EC both in planning and during the visit.
+an annual seminar for members, dealing specifically with live opportunities and issues.
+regular visits to UK universities and polytechnics to give general presentations or advise individuals.
+The services of the office are available, for a fee of £1500 a year, to all UK universities and polytechnics, 65 of which are already members.
+Further information about these services can be obtained either from Dr A Game, UK Research Councils European Office, BP10, Rue de la Loi 83 1040 Brussels.
+Belgium.
+Postscript:
+Within the It Directorate at SERC, Dr David Worsnip is in charge of European affairs.
+He will, however, be away for about the next six weeks.
+Richard Lindgren, SERC
+The Telematics programme
+A Common Position was reached on the telematics programme at the Research Council meeting on 21st December 1990.
+Before the programme is finally adopted it has to be referred back to the European Parliament for a second time.
+Assuming no undue delays this means that telematics may be adopted in the next few weeks.
+A first call for proposals may be made in April with a deadline for submission around the end of May.
+The programme will be worth 380 MECU of Community funds and, according to the Common Position, the breakdown between the different application areas will be:
+In addition a small amount will be devoted to a centralised scheme for dissemination and exploitation of results.
+Workplans are being drafted  at present and will be finalised after adoption of the programme.
+The contact point is Graham Jenkins, DTI,.
+Computer Integrated Manufacturing and Engineering (CIME) in the new IT programme
+The first call for proposals under the new Information Technology Programme that succeeds ESPRIT 11 is now rapidly approaching.
+There are new opportunities in all areas and DTI's ESPRIT Project Office continues to provide support services.
+However, DTI recognises the need to provide additional support to CIME proposers where UK collaboration is not strong by comparison to that in other areas and in other countries.
+The PA Consulting Group have been appointed to promote a more concerted effort.
+PA's involvement will cover the period of the new IT programme which will provide 250 MECU (£175 million) of new support to CIME.
+The new programme will cover the traditional engineering areas, including construction as well as areas such as chemicals and food processing.
+The aim is to involve more manufacturing users.
+Project proposals will be invited in the following areas of technology:
+Infrastructure for CIME — the architectures and communications that provide the basis for integration.
+Management and design of industrial enterprises — design, engineering, production management and logistics including horizontal considerations such as quality, the environment and human factors in manufacturing.
+Robotics and shop floor systems — control systems, industrial robots and manufacturing equipment.
+PA will provide support from the address below and will be able to assist potential CIME participants by offering a range of services which will include:
+the circulation of CIME information, workshop and programme summaries
+holding seminars, briefings and key technology workshops
+assistance in the formulation of CIME projects and in locating partners
+advice in the preparation of proposals and their progress through evaluation and selection.
+PA has over 1600 consultants working with UK and continental European industry.
+Its Cambridge laboratory specialises in manufacturing and logistics and houses its CAD/CAM/CIM support facilities.
+This depth of experience and wide contact base is now available to assist all potential participants in CIME projects.
+Key PA staff involved will be Norman Schofield, Chris Strachan, David Howard and Rebecca Oxenford.
+Subject to the necessary agreements being reached in Brussels and Luxembourg, the next call for proposals is expected in May.
+In preparation for this a UK CIME Day will be held in London on the 15th March and details will soon be available from PA.
+If you are in any way involved, potentially involved, or interested in ESPRIT CIME, you should make sure that PA are aware of you.
+PA are building up a definitive database of companies and contacts interested in ESPRIT CIME.
+Don't risk being left out.
+Please do not rely on the fact that you have previously received information about ESPRIT CIME or entered your details on a previous database.
+Make sure that you receive the maximum value from DTI and PA by contacting Rebecca Oxenford,.
+Pilot scheme for post-experienced training in advanced IT
+The September 1990 issue of JFIT News (issue No 16) announced the launch of an exploratory scheme to support and encourage the development of post-experience training courses in advanced information technology (AIT).
+The courses are aimed at senior management and are intended to provide them with the knowledge and skills to exploit AIT effectively in their business.
+The DTI received some 60 applications, many more than could be supported within this pilot scheme.
+A final list of eight proposals was chosen for support and these (showing institution and course title) were:
+University of Bradford Management Centre — Improving decision making using strategic models
+Edinburgh Parallel Computing Centre — Parallel systems: getting the benefits
+London HCI Centre — Computer usability and its impact in business
+HUSAT Training — Post-experience training in human factors for AIT design in SME's
+Kingston Polytechnic — Advance information technology short course
+PEVEIT Unit University of Manchester — Key enablers for advanced IT (AIT) in the 1990's
+South Bank Polytechnic — Hypermedia
+ITACS University of Strathclyde — Advanced information technology and business development.
+It is very encouraging to know that so many institutions are keen to establish themselves in the important area of advanced IT training and that a significant contribution to costs came from industry.
+The development and running costs for the proposed courses will exceed £890,000, of which £250,000 (28%) will come from the DTI.
+Subject to the overall success of this exploratory stage, it is hoped that an expanded scheme can be considered this year.
+Calvin Finn.
+DTI
+The Alvey Index
+An index of selected projects carried out under the Alvey programme is being prepared.
+The index will list some of the reports and papers related to each project and give contact points to whom inquiries about them should be addressed.
+The index is expected to be available in mid February 1991.
+It will be distributed to project managers, collaborators and other interested parties as well as to the UK subscribers to the JFIT News .
+Additional copies will be made available on request from Kevin Cooper.
+Calendar
+13 February 1991, University of Sheffield, OASIG Meeting on Organisation Design and Information technology.
+Contact: Debbie Hauton, University of Sheffield.
+20 and 27 February 1991, London.
+Management Briefing on the Importance of Usability in IT Systems.
+Contact: Mark Parsons, Queen Mary and Westfield College.
+London.
+4 March 1991, York.
+MMISD Workshop on User Interface Architectures.
+Contact: Prof Mike Harrison, University of York.
+4–8 March 1991, London.
+SISPA Intensive Course on Introduction to the Theory and Practice of Automatic Speech Recognition.
+Contact Bert Saunders, 212, London Road, North End, Portsmouth.
+6 March 1991, London.
+Management Briefing on the Importance of Usability in IT Systems.
+11, 13 and 15 March 1991, Glasgow.
+Management Briefing on the Importance of Usability in IT Systems.
+Contact; Marion Benton, Heriot-Watt University, Edinburgh.
+24–27 March 1991, Cambridge.
+Second European Conference on the Practical Applications of Lisp.
+Contact: EUROPAL, Dorking.
+9–10 April 1991, Walsall Polytechnic.
+Conference on Object Oriented Data Management.
+Contact: Michael Jackson, Wolverhampton Polytechnic.
+1–3 July 1991, London.
+Bicentennial Conference on Computing.
+Contact IEE Conference Services, London.
+9–11 July 1991, UMIST, JFIT Community Conference.
+Contact: Fiona Lubbock, Concorde Services Ltd.
+JFIT NEWS Issue No 22 April 1991
+Improving colour visualisation for textile designers
+An exciting new technology demonstrator has been developed as part of the CARISMA research project, with support from the DTI/SERC under the IEATP programme.
+‘ColourTalk’ enables a textile designer to create and manipulate a palette of fashion colours on a display screen and to generate dye recipes that will reproduce the colours on fabric to a high degree of accuracy.
+There is a growing trend in the textile trade for designers to make use of computer-aided design, in order to explore a greater number of design ideas and to shorten lead times on production.
+The problem to date has been that the colours seen on the display monitor are difficult to reproduce accurately in the final dyed or printed product: what you see is not always what you get!
+ColourTalk solves the problem of WYSIWYG colour by incorporating a sophisticated mathematical model of colour appearance, that takes into account differences in media, illumination and viewing conditions.
+This model has been developed and validated over the past four years by a research team at Loughborough University through extensive experimentation.
+Accurate control over displayed colour is guaranteed by use of a state-of-the-art Barco ‘calibrator’ monitor.
+All colour measurement is performed by a telespectroradiometer which is regularly calibrated against a standard lamp traceable to the NPL national standard.
+Detailed analysis of the monitor has enabled its colour response to be predicted to a very high degree of accuracy.
+A user-friendly design environment is provided on the Sun workstation for creating colour palettes and for selecting and adjusting colours.
+All the most popular colour specification systems are provided, including CIELAB, Munsell, NCS and Pantone, allowing the designer to work in the most convenient manner.
+Functions are also provided for quantitative colour quality control purposes, such as setting pass/fail tolerance limits, checking the effects of metamerism under different illuminants, and selecting colour constant dye recipes.
+ColourTalk is now being evaluated by several divisions of Coats Viyella, one of the industrial partners in the CARISMA project, with a view to developing the technology into a commercial product.
+For further information please contact the CARISMA Project Manager, Lindsay McDonald at Crosfield Electronics.
+Open Systems supported by research survey
+DTI's Open Systems Technology Transfer Programme, with the aim of promoting widespread awareness amongst UK enterprises of the need for, and benefits of, Open Systems, is now just over half way through its three-year life.
+Just before Christmas, the St John's Innovation Centre conducted a survey amongst 600 senior executives to find out the levels of understanding of Open Systems concepts and of practical implementation issues.
+It revealed that 79% of the sample was now aware of the term ‘Open Systems’— a dramatic increase since the launch of the programme.
+63% of those managing directors and IT directors interviewed had heard of DTI's Open Systems Technology Transfer programme, with 47% having read or heard about aspects of Open Systems through DTI material — beating ‘Technical Press’(44%) into second place.
+Over half the sample stated that the information that they received from DTI prompted them to consider Open Systems for their company.
+Over a quarter of respondents claimed that their organisation was either implementing and operating an Open Systems strategy.
+A further quarter were investigating or planning Open Systems implementation.
+It is DTI's intention and remit to continue promoting awareness of Open Systems in the second stage of the programme, and the OSTT Programme is keen to work closely with industry bodies and organisations in order to ensure that information and guidance is widely distributed to their clients when planning or implementing Open Systems strategies.
+Proposed Compound Semiconductor Advanced technology Programme
+In a previous issue of JFIT News we announced that we were beginning to draft a proposal for a new Compound Semiconductor Advanced Technology Programme, and we asked for your views and ideas as to the scope of the workplan and the size of the budget.
+Draft plans are now available for those who would like to read and comment on the proposal.
+Alternatively, we would be happy to talk to you on the telephone if that is more convenient.
+Please contact Martin Ridge.
+Steering Research towards user requirements
+The theme of the 1991 JFIT Conference is ‘steering research towards user requirements’ and the main aim of the Conference will be to discuss the objectives of the programmes funded under JFIT and assess the ways in which they are meeting the requirements of the users.
+Discussions will involve representatives from supply and end-user companies which gain a competitive edge from the use of advanced information technology in their products.
+The conference will seek to identify ways in which emerging technology can be more closely geared to end-user needs.
+We hope that as many of you as possible will attend and participate in the discussions.
+Do mark the date in your diaries: 9th–11th July 1991 at UMIST, Manchester.
+The preliminary programme is printed in this issue.
+registration forms will be available in the May JFIT News .
+Third Annual Conference shows way for logic programming
+The UK branch of the ALP (ALPUK) will be holding its third annual conference in Edinburgh from the 10th to 12th April 1991, hosted by the AI Applications Institute (AIAI).
+The conference will offer a series of specialist tutorials in addition to speakers from the logic programming community.
+Invited speakers, including Maurice Bruynooghe, Alan Bundy, John Lloyd, Frank MacCabe and Robin Milner, will address a range of topics in logic programming, including recent research in constraint logic programming, deductive databases and parallel and concurrent logic programming languages.
+Tutorials will be led by Tom Conlon of Edinburgh University, Ian Jones of BULL HN, and Dale Miller of Pennsylvania University, specialists in the areas of parallel logic programming, constraint programming and meta-programming, respectively.
+The programme chairman is Chris Mellish.
+There will be an exhibition of Prolog systems and books about logic programming.
+For further information on the conference contact Tim Duncan at AIAI, Edinburgh.
+Ada UK
+Ada UK is a non-profit organisation which serves a membership of more than 100 in the UK and further afield.
+Ada UK's objective is to further the acceptance of Ada in all software applications.
+This is done by distributing to the membership a quarterly magazine (Ada User), organising an annual conference and an exhibition.
+Workshops are also held on various topics, for example real-time Ada issues.
+In order to encourage participation, task groups are supported which consider, in depth, various Ada-related aspects.
+Currently there are two task groups, one monitoring the Ada 9X process (the Ansi revision to the Ada standard) and one holding events to encourage the use of Ada in the commercial application area.
+The 1990 Ada UK International Conference was held in Brighton on 23rd–25th October.
+The format of the conference was a mix of tutorials and technical presentations (including management issues).
+Ken Shumate (ASDC, USA) gave a half-day tutorial on how to convert the functions described in a requirements specification to the objects of an object-oriented design (including mention of data-flow diagrams and object-oriented design).
+Maurice Heitz's (CISI INGENIERIE, France) half-day tutorial was a description of HOOD version 3.1.
+The quality of the papers given in the technical stream was high.
+Copies of the papers were issued at registration which enabled delegated to prepare for the presentations.
+There was a mixture of papers from academia and industry, representing the more theoretical and practical technical issues of Ada.
+The 1991 Ada UK International Conference will be held in Brighton on 8th–10th October.
+If you would like any details about the conference, or any information about Ada UK please contact our Administrator.
+Three-dimensional semiconductor device stimulation
+January marked the successful completion of the EC funded EVEREST Project (ESPRIT 962E) of which RAL was the leading contractor.
+EVEREST was a four year project investigating improved physical models and computational algorithms for the solution of the drift/ diffusion representation of the electrical properties of silicon-based semiconductor devices.
+The main thrust of the project was towards the creation and analysis of three-dimensional models of both MOS and bipolar technologies, and the extraction of performance parameters for use in circuit design analysis.
+The project addressed five main areas: physical models and validation, discrete formulations, mesh generation and refinement, linear and non-linear algebra and software development.
+The project has produced over 100 reports and papers in these areas and many algorithmic and software developments.
+As well as being leading contractor, RAL led the software development team in the project.
+A major output of the project is one of the world's most advanced three-dimensional device simulators, EVEREST.
+The EVEREST suite includes a geometric modeller, mesh generator, impurity profile generator, simulator and post-processor.
+The simulator performs both steady-state and transient analysis of devices and provides automatic generation and refinement.
+Although the EVEREST Project has now ended, EVEREST is being used at Philips and STC and development of the simulator is continuing at RAL.
+Work is in hand to include more advanced physical models and to produce implementations of the suite on vector and concurrent architectures.
+We intend to form a new consortium to continue this type of work in a bid to the EC under ESPRIT 111.
+For more details about the project and the availability of the software, please contact Chris Greenough at RAL.
+Reminder: Cognitive Science/HCI 3rd Annual Scientific Meeting
+The 3rd Annual Meeting of the JCI in Cognitive Science and Human Computer Interaction will take place in Leeds on the 20th April 1991.
+This will immediately follow the AISB ‘91 conference to be held on the 16th to 19th April 1991.
+The theme of the meeting is ‘The nature and merits of the relationship between cognitive science and HCI’.
+The year 1991 marks the half-stage of the initiative.
+It therefore provides a good time to reflect on the experience so far in trying to encourage the transfer and synthesis of knowledge across the two fields and to look to the future in the light of that experience.
+The emphasis in the programme will be on the problems and requirements of using computational and multidisciplinary approaches to further this objective.
+The purpose of this meeting is to provide a forum for discussion of topical issues and to permit members of the cognitive science/HCI community to:
+exchange views on the current state of the relationship between the two fields
+take stock of their respective achievements
+establish closer links
+help to plan for the future development of the subject area.
+The programme of the meeting will include:
+a talk by a distinguished invited speaker
+presentations from selected grant holders
+appraisal of the training programme
+Poster exhibition containing summary descriptions of projects funded to date
+Computer demonstrations of methods, tools and models relevant to the design of systems involving human-computer interaction
+plenary session.
+It is hoped also to include a demonstration of the Directory of Cognitive Science/HCI Community.
+The proposed directory will include names and addresses of individuals participating in research in these two fields in the UK together with a key word description of research interests and a short list of recent publications.
+For further information on administrative issues contact JCI Secretariat, Medical Research Council, London.
+Workshop on Hybrid Models of Cognition
+The 1st Workshop on Hybrid Models of Cognition will take place on the 2nd–3rd September 1991 at The Royal Society, London.
+The Workshop is organised by the ESRC/MRC/SERC Initiative in Cognitive Science and Human Computer Interaction.
+Its objective is to address fundamental issues of hybrid models of cognition.
+The workshop will bring together neuroscientists, computer scientists, cognitive scientists, physicists and mathematicians whose research interests lie in modelling aspects of information processing underlying natural and artificial intelligence.
+The theme of the meeting is ‘Models of cognition: the problems and requirements for combining the use of subsymbolic and symbolic computing’.
+The purpose of the meeting is to encourage a multidisciplinary discussion of the problems associated with the use of subsymbolic and symbolic approaches to the design and implementation of models of cognition.
+This will be done by providing a forum for the:
+exchange of views on the current state of the field
+assessment of the respective contributions of individual disciplines
+establishment of closer links between the different disciplines
+consideration of the future development of the subject area.
+To provide an effective working atmosphere, the number of participants will be limited to approximately 50.
+Therefore, participation will be by invitation only.
+In order to draw up a balanced invitation list, prospective contributors are asked to state, in less than 100 words, their perspective on the topic and return it to the Initiative's Secretariat by the 30th April 1991.
+All relevant theoretical and design/implementation issues will be considered, including, but not limited to, general principles and problems, neurobiological systems and models, novel computational architectures, and cognitive analyses and models.
+For further information on administrative issues contact JCI Secretariat.
+For further information relating to the programme contact Dr Elizabeth Pollitzer, Imperial College, London.
+Supercomputers in Europe
+The Advanced Computer Research Institute (ACRI), based in the south of France, is the only current supercomputer development project in Europe.
+It has been operating for 12 months and has assembled a team of 30 engineering staff.
+Its aim is to bring the machine to the market by late 1993, and in order to achieve this goal it needs additional engineers.
+Opportunities exist for a wide range of engineering staff: electrical, logic and systems design, memory systems design, operating systems design, optimising and compiling development, and CAD/CAM.
+The level of staff required range from post-graduates with 12 months experience to senior managers with 10–15 years post-qualification experience.
+ACRI offers competitive salaries and an English speaking environment.
+For more information please contact Neil Hadfield or Sara Ward.
+European Briefing
+Latest developments
+Following discussions with the European Parliament, the European Commission are considering withdrawing the five proposals under the Third Framework Programme for R & D on which a Common Position has been achieved.
+This includes the RACE and telematics programmes.
+ESPRIT has not yet reached a Common Position and so is not among the five; however, it is extremely likely that its timetable will also be affected.
+The action has nothing specifically to do with the technical content of the programmes but relates to wider difficulties between the Council of Ministers, the Commission and the European Parliament.
+It is expected that adoption of each of these programmes will be delayed and this in turn will affect dates for calls for proposals, publicity events, etc, although we cannot tell at the moment how long the delay will last and the consequences it may have.
+It may be that the programmes will eventually be adopted at the Research Council in June but this is far from certain.
+In particular, the technical panels set up to consider workplans for the administrative networks component of telematics are currently in suspension, but the Commission has urged that replies to the questionnaires should still be sent in since these will be worked on and evaluated in the meantime.
+R & D in software maintenance — a co-ordinated approach
+The Centre for Software Maintenance is aiming to bring together 10–15 organisations to form a Consortium.
+The group would jointly fund a project to develop a method for software maintenance, based on a process model.
+The consortium approach is a particularly cost-effective means of undertaking this project as each Consortium member benefits from a substantial body of work for a fraction of the cost.
+The deliverable will be a method adaptable to the needs of individual organisations.
+The Centre was established in 1986 within the University of Durham as a centre of excellence to promote Research & Development in Software Maintenance with direct relevance to business needs.
+The Centre for Software Maintenance Ltd undertake a wide range of research and development into all aspects of software maintenance, including procurement strategies to develop inherently more maintainable software, reverse engineering, inverse engineering, testing, management and quality.
+Managing maintenance
+The Centre has become aware of the vital role played by the Software Maintenance activity in the business world through extensive contact with those working in industry and commerce.
+Software can form part of an organisation's assets, but may need continual adaptation and enhancement in order to keep it effective.
+Successful management of this maintenance is the issue underlying one of the Centre's latest research proposals.
+If you would like further details contact Peter Carroll    
+JFIT NEWS Issue No 23 May 1991
+Involving the user in IT research & development
+The trouble with our research and development programmes in information technology (IT) today is that they concentrate on technology push.
+Such is the fear of funding ‘products’ or of being too ‘near market’, that we are failing to address the needs of 80% of today's IT professionals — the users of IT, most of whom work outside academia and the IT supply industry.
+The situation is even more strange when one considers that IT is, above all, a practical subject which has no manifestation, benefit nor significance unless it is applied.
+Stranger still, IT is now so important in our lives that no aspect of work, leisure and home life can be conducted effectively without it.
+For the UK in particular the use of IT is far more important than the development of the technology itself.
+If one looks at the history of the advance of IT, it starts with the development of the science and technology .
+It then moves on to simple applications of that technology (standalone applications)normally driven by technologists.
+More complex applications follow (integrated applications), still mainly driven by the technologists.
+It is this phase where there are many failures because the size of task being addressed is large; normally there has been a formal specification of the work to be done, and the technologist has not the experience nor the qualifications to carry the work through.
+Once the user becomes more technology literate, the next phase (exploitation of IT)occurs.
+Here the user appreciates the potential of the technology and exploits it to solve his problems.
+In the final phase users become masters of the use of the technology and change the nature of organisations, products and services as a result (competitive weapon).
+Because IT technology is developing all the time, we have reached the point where all five phases are proceeding simultaneously.
+There are few examples of the last two phases, primarily because we cannot specify unambiguously the user problem to be solved — beyond very simple situations.
+So far most research and development programmes have addressed comprehensively only the science and technology phase.
+Such has been the fear of being ‘near market’ that the vital link between suppliers and users — the derivation of a formal, detailed user specification — has been missed.
+If real progress is to be made in IT in future we must solve the problem of specifying the need and thus pull through the use of IT as well as the technology itself.
+From the point of view of the management of research and development, one can see four activities for the future.
+First, science and technology push, the activity which we have concentrated on so far.
+This must continue to be funded as before to maintain basic development of the technology.
+Second,(application of known technology).
+This has been covered to some extent in the past by ‘awareness’ and ‘technology transfer’programmes.
+But the crucial missing link has been the failure to recognise the user need to develop unambiguous specifications which can be used by IT suppliers as a target for IT products and services.
+The derivation of such specifications cannot be done by the user alone.
+Mostly, he does not have the skill and, there is no use in a specification that current technology cannot meet.
+The need is for collaboration between users and suppliers of technology working together in the derivation of a specification which can then be handed over to IT suppliers as a requirement.
+Third,(standards and best practice)in IT.
+here again there is a need for collaborative work between suppliers and users, but the collaboration goes further than just the specification of a problem.
+Many IT applications required standards without which they will not work, eg, electronic data interchange.
+Derivation of those standards is difficult and costly and must take account of the needs of both user and supplier.
+Finally,(user pull beyond known technology), involves users and suppliers working together to solve problems beyond the scope of present ability.
+It is time to recognise the last three phases — currently we have concentrated primarily on the first phase.
+The need is formally to recognise the role of the user in IT R & D in collaboration with IT suppliers, IT academics and academics from other disciplines.
+We need to define that role and monitor the progress of projects from the user perspective in just the same way as we do from the supplier perspective.
+The two roles should be documented separately.
+Ideally, collaborative R & D programmes should continue only if progress is satisfactory from the point of view of both users and suppliers.
+Collaborations between users and suppliers are the next major step to be taken in the progress of IT.
+We need to extend our R & D programmes beyond basic technology to recognise the needs of users to define the complex large problems now beyond our scope.
+In this way we will provide the user pull to accelerate the integrated application, exploitation and competitive weapon phases in IT development — without funding ‘near market’ activity nor distorting the market by funding products.
+DTI delegation visits MITI in Japan
+A delegation from IT Division visited Japan for the annual DTI/MTI Talks held on 25th–26th March, which included an Expert Session on IT.
+Keith Shotton led the delegation, which comprised also, George Sidey, to cover open systems, Mike Jones, on security and Bill Lunny, for software quality.
+In the week before the Talks, visits were made to organisations in and around Tokyo.
+The information gathered was extremely valuable and the discussions frank and positive.
+Company visits indicated a trend on open systems evident in other regions: steadily increasing user interest and demand but present incompleteness of standards inhibiting the supply of fully open systems.
+We visited and discussed three outstanding implementations which demonstrated how the Japanese have solved these problems using a combination of open standards (mainly for communications) and de facto and proprietary solutions for applications and software portability.
+These implementations were at Nomura (a global securities company), the Japanese Patent Office (where they are implementing a paperless application and investigation system), and NTI (their multi-vendor integrated architecture for their own internal operation).
+During the talks with MITI they described plans completed only the previous day for their future programme of support and promotion for open systems.
+These include a more robust support for international standards, creation of certification and accreditation systems and increased involvement in international standardisation for EDI.
+Their plans reflect closely much of our UK activity and were an encouraging result for several years patient co-operation with the Japanese.
+Now that their thinking has been completed we must, however, expect them to make very rapid progress and be prepared to closely track their developments.
+The Japanese are, for their own sound commercial reasons, moving towards more open dialogue in the field of software quality.
+They perceive the issue of good software quality as a global concern and realise that no one has a ‘magic bullet’ solution to the software crisis.
+Hence they feel that it is in everyone's interest to have full and open dialogues.
+As such, the Japanese are internationalising their Sigma project, now in the private sector, and actively seeking international collaboration in research into fundamental software architectures.
+In discussing IT security with a number of organisations, particularly in relation to misuse, it was clear that, in general, the subject lacks the focus that it has in most of the Western World.
+This was in terms of both products supplied and attention to systems within the organisations themselves.
+The explanation for this is partly cultural — the legendary loyalty of the Japanese employees (and bearing in mind that an estimated 75% of misuse in the West is carried out by insiders); and partly technical — the current predominance of internal networks.
+Detailed reports, and information papers, are available from members of the delegation.
+We will be maintaining close contact with the Japanese to track developments.
+HCI '91 — Usability Now!
+Edinburgh is to be the venue for the HCI ‘91 — Usability Now!, this year's conference of the Human Computer Interaction group of the BCS.
+The conference will be held on the Heriot Watt campus at Riccarton on the 21st to 23rd August, and will contain a busy mix of invited talks, papers, presentations and panel sessions as well as an exhibition and full tutorial programme.
+Day two will focus on the commercial implications of HCI and Usability and will be of particular interest to delegates from industry.
+The event now claims international status with speakers from Europe and the USA, and this year it is sponsored by DTI under its Usability Now! technology transfer programme.
+HCI ‘91 offers a valuable opportunity to those with either an academic or commercial interest in human or computer interactive systems to present, attend and respond to a wide range of HCI issues.
+The conference has also been timed to coincide with the Edinburgh Festival.
+For further information contact HCI '91 Administrator, Margaret Kilgour,, or telephone .
+Evaluation of the Alvey Programme
+The Final report of the Alvey Evaluation should now be available.
+from HMSO.
+Prepared by teams from the Science Policy Research Unit (SPRU) at Sussex University and the centre for Policy Research in Engineering Science and Technology (PREST) at Manchester University, the report summarises the work of both teams since the onset of the evaluation in 1984.
+The report reviews Alvey's appropriateness as a policy prescription for the UK IT sector in the 1980's, and assesses its achievements relative to its technical, structural and strategic goals.
+The conclusions include lessons for participants, programme administrators and policy-makers.
+A substantial section of the report examines achievements at the level of individual projects and programme sub-areas.
+For further information contact Ken Guy () or Luke Georghiou ().
+IEATP Third Call
+Applications submitted under the Third Call were considered by advisory committees in March.
+They have recommended 23 of 40 project applications received.
+All consortia should now have been informed of the advisory committees’ recommendations.
+If you have not yet heard, please contact your DTI officer.
+A full list of projects will appear in JFIT News and also in the 1991 JFIT Annual report due to be published in October.
+Support recommended for IEATP Third Call projects, together with offers on IEATP First and Second projects, brings the expected total DTI commitment to £35.8 million compared with £36 million available.
+For SERC the expected total value of support is £24.9 million.
+LINNET: the neural network technology transfer club
+LINNET was set up by Logica, SD-Scicon and University College, London, in association with DTI, to introduce organisations to the practical application of neural network technology in the context of their own business areas.
+Club activities centre on monthly meetings, an information service and the production of application demonstrators.
+The monthly meetings include discussions of Club business, talks by guest speakers and vendor presentations.
+The information service, run by UCL, provides a library of books, periodicals, conference proceedings, research papers, and a monthly newsletter.
+UCL also hosts a demonstration area with a variety of hardware and several neural packages.
+The main activity supported by the Club is the implementation of neural applications.
+The purpose of these is to produce prototype implementations as a vehicle for the technical team to explain to members the factors involved in the development of neural network-based solutions across a range of applications.
+The first year
+LINNET has been running since May 1990 and currently has 16 members, plus the three members of the technical team.
+These include banks, building societies, chemical companies, transportation and public utilities.
+The Club is run by a steering committee elected from the membership.
+Three application areas have been addressed so far:
+analysis of the replies to mailshots, to determine which factors are significant in a positive outcome
+processing of video images of underground platforms to estimate the concentration of people present
+forecasting of gas demand in the national network, the latest project is for the control of a chemical distillation column.
+The avenues explored in applying neural computing to these three applications and the results from these have been reported on at the regular monthly Club meetings.
+The coming year
+Current members seem satisfied that they are receiving good value for money, and are signing up for the second membership year which starts in May.
+Each member's contribution has been held at £15,000 for the second year.
+These contributions, when pooled and combined with support from the DTI, result in an annual programme of about £400,000 — a considerable gearing factor and a significant reason for the success of the Club.
+Should you wish to join, LINNET would be pleased to hear from you.
+For further information please contact the Linnet Club manager .
+Workshop report
+A case study in formal methods, showing the use of VDM in specifying an international banking standard, and based on a workshop held at NPL in July 1990, is now available.
+The documentation includes:
+bound copies of speakers' slides
+NPL report on the VDM specification
+survey of tool support for VDM
+the banking standard ISO 8730: 1986
+listing of Modula 2 implementation
+The total cost is £50.
+Cheques should be made payable to the National Physical Laboratory and marked on the back ‘Formal Methods 1990’.
+Orders and enquiries should be sent to Information Services..
+Topics in advanced control
+Following the announcement in the February 1991 JFIT News , a meeting was held on the 12th March 1991 at DTI, involving academe and industry to discuss control as a strategic theme.
+Originally scheduled to be for a morning only, the response was so enthusiastic that the meeting grew to an all-day event with a full billing of committed speakers.
+The response from the audience during the discussion sessions was no less enthusiastic, particularly from industry, which was highly represented.
+The attendees were given a large package of data, including a precis of interests about themselves and a questionnaire which was completed by 75% of the audience.
+One section of the questionnaire invited the audience to prioritise the areas of work in control and express degrees of importance.
+The results are shown in the Figure.
+Both academe and industry scored technology transfer at the 90% level with demonstrators and case studies at the mid 70% level.
+For the industrialists research was right down there at 50% with standards.
+The same low rating was given to standards by academics who rated research at 80%.
+Gerry Gavigan at DTI would still like to receive your views by letter preferably, but his telephone number is .
+Response from conference delegates to five areas of work
+Flat Panel Displays
+DTI's Information technology Division (ITD) recently commissioned Mackintosh-generics to prepare a report on the feasibility of mounting a Eureka project in flat panel colour display technologies.
+The aim of the initiative would be to extend the ubiquitous liquid crystal display technology already used in watches, calculators and simple laptop computers to applications requiring superior resolution, colour definition, speed and size.
+UK industrialists in key sectors are currently being briefed on the findings of the report, and so far initial reactions have been extremely favourable, inasmuch as there is agreement that Europe cannot be totally bereft of the technology.
+This is hardly surprising since display technology is expected to dominate many sectors of the electronics industry, both industrial and consumer.
+In fact, such was the response to our initial soundings that we now wish to broaden the discussions to include a much larger audience and would therefore be keen to hear from anyone with a view to express or, an interest in this area.
+In essence, today's flat panel liquid crystal displays are made up from two thin sheets of glass, separated by an ultra-thin layer of liquid crystal material.
+The image is formed by as many as 1.5 million individually addressed pixels which are defined on the surface of the glass sheets during processing.
+The problems of production yield and scaling up to larger areas are, however, formidable.
+In addition, video rate addressing, grey scale, good colour definition and contrast are required for TV applications including HDTV.
+Indeed, much development work is required before cathode ray tube performance can be attained.
+Despite the challenges associated with building up large-scale production, the Japanese are forging ahead in display technology — and for very good reasons.
+Obviously the straightforward replacement of bulky cathode ray tubes with flat panel display leads to significant power and weight reductions as exemplified in the commercialisation of laptop computers.
+The most strategically important reason for investing in flat panel display technology, however, is that with continued miniaturisation of the integrated circuits the display itself will become the platform on which the system is built.
+This raises the prospect of fully integrated systems for which the sourcing of individual components such as drivers, memory chips and processors on the world market would no longer be an issue.
+Countries with such a display manufacturing capability would dominate the market and effectively eliminate competition based on older technology made up from discrete components.
+Small wonder that display technology is generating such interest worldwide and why electronics companies do not want to be excluded from this technology.
+The problem we in Europe face is that Japanese companies have been active in scaling up production for some years, whereas in Europe the emphasis has been on high-quality research, which has only been significantly exploited in the area of basic liquid crystal materials.
+One of the major recommendations of the report was that future emphasis should be based on not just large scale production, but also on building an effective infrastructure for display-related technologies such as filters, polarisers, glass production and inspection equipment.
+Of course none of this will happen if European electronics companies do not commit themselves to the manufacture and use of flat panel displays.
+It's a vicious circle from which the only escape is to bring all parties together with some common framework such as Eureka with the prospect of Government support in order to reduce the very real financial risks involved.
+A short summary of the report is available and can be obtained by contacting either Dr Stephen Parker or Mr John Raines ..
+European briefing
+Framework programmes for R & D
+Negotiations are still continuing on the R & D Framework programmes, such as ESPRIT and Telematics, which have been delayed.
+As such there is little to report since the last European briefing.
+The position may vary a little for each programme, but essentially timescales are still uncertain.
+As far as ESPRIT is concerned discussions on the workprogramme are progressing and once agreement is reached between the Council of Ministers, the Commission and the European Parliament, a call will probably be launched very quickly.
+The earliest likely date for the launch of an ESPRIT call would be June, although this could easily slip into the autumn.
+This postponement does, however, give organisations more time to make initial preparations, such as researching past projects and liaising with prospective partners.
+If you wish to discuss any of the new programmes further, we suggest you ring the appropriate enquiry point.
+Latest research results presented at H-infinity symposium
+A two-day symposium on ‘Robust control systems design using H-infinity and related methods’ was held at Cambridge University Engineering Department and Queens' College on the 21st and 22nd March 1991.
+Organised by the Institute of Measurement and Control, the event was co-sponsored by SERC, DTI and USAF EOARD.
+Research on the subject of control system design using H- infinity methods has been supported in academia by SERC since 1984.
+Under the CDTCE initiative (Computing Design Techniques for Control Engineers) which the Control and Instrumentation Subcommittee funded between 1984 and 1990, research grants totalling £400,000 were awarded.
+SERC commitment to the subject has ensured that the UK has a strong, possibly pre-eminent, place in research in this field.
+Applications to control-system design were first proposed in the mid-1970s, and incorporation of the techniques into industrial and military control systems is just beginning.
+The symposium presented tutorials on H-infinity and related methods, aimed at potential practitioners, together with applications to control problems.
+It also provided a forum for the latest research results.
+Attended by over 100 delegates, the symposium attracted many from overseas plus students and research assistants.
+A total of 23 theoretical and application papers were presented with four addresses by invited speakers.
+It is hoped that the symposium will have the effect of hastening applications and heightening awareness of techniques among practical designers.
+Selected papers will be published in a special edition of Transactions of the Institute of Measurement and Control , with all papers, together with discussion, to be published in book form as soon as possible.
+Neural networks conference
+A one-day conference on Neural Networks is to be held in the Council Chambers, Queen's University, Belfast, on Friday, 21st June, 1991.
+The objective of the conference is to bring together workers in neural net research and applications across a number of academic disciplines and from industry.
+Papers have already been proposed relating to research in psychology, pharmacology, biology, mathematics, philosophy, electrical and electronic engineering and to industrial applications in vision and speech recognition.
+The level of interest requires that presentations must be limited to 30 minutes per paper, which should include five minutes for questions.
+Given the interdisciplinary nature of the conference, participants are encouraged to design their presentations to facilitate cross-disciplinary communication.
+The formal deadline for submission of abstracts is the 30th April 1991.
+However, abstracts (one side A4) promptly submitted after this date may still be considered.
+For further information please contact Dr Gerry Orchard.
+TPM completed
+Expert Systems Ltd has recently completed the final stage of an Alvey funded project, producing a graphical debugger for Prolog programs.
+The Transparent Prolog Machine (TPM) was the result of collaboration between the Open University, where the original research was performed by Marc Eisenstadt and Mike Brayshaw, and Expert Systems Ltd which implemented TPM in its own Prolog-2.
+The project was funded by the Alvey Programme as part of the Logic Programming initiative.
+TPM provides an innovative execution model for Prolog and graphical views of the execution of a Prolog programme.
+The programmer may choose a long-distance view of the whole execution space of a program, a reduced view as an AND/OR tree, or zoom in to see the details of a single call.
+Very large execution spaces (i e, several thousand nodes) may be viewed in the long-distance view.
+Once the execution history has been generated, TPM allows the program to be stepped or run forward and backwards so that the programmer can see exact details of the run.
+There are benefits in this approach for both experienced and novice Prolog programmers.
+The whole development cycle is streamlined when the programmer can visualise and monitor program execution.
+TPM will be the subject of a book to be published shortly by Intellect Press, describing the theory behind the graphical debugger and providing a tutorial.
+TPM is implemented in prolog-2 and runs on SUN-3 and SUN-4 machines.
+For further information please contact Dick Broughton.
+‘Proof’ Club to be formed
+An awareness club in the area of Computer Assisted Formal Reasoning is being formed.
+The inaugural meeting will take place in London on Wednesday, 12th June.
+Europe, and particularly the UK, is at the forefront in the research and development of the theories, methods and tools with which to support the formal analysis and design of computer systems.
+This club is open to all those interested in the development and application of theoretically sound ideas in the construction of computer systems.
+The membership will range from those researching new theories in the area, through researchers in universities and industry who are developing and experimenting with new methods and prototype tools, to industrial designers who use formal reasoning techniques in practice.
+This is important as the area is still young and both theorist and practitioner will benefit from mutual and current awareness of each other 's achievements and problems.
+Breadth of approach is also important!
+Traditional engineering is pluralistic, systems engineering will be no different, and so no single approach can hope to support all aspects of system construction.
+We therefore hope to have wide representation from the many areas in which formal reasoning is being used and developed.
+These could include:.
+All of these are in use in industry.
+The Club will be of particular interest to those who aspire to reason about the systems they are building, in addition to specifying them.
+Research areas of interest include; Theorem Proving and Proof Assistants, Logics and Logical Frameworks, Concurrency, Language Design and Semantics.
+To register your interest in the Club and to receive further information about the first meeting, please contact the address below.
+You may also be able to suggest others who may be interested.

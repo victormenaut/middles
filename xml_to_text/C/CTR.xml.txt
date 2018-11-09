@@ -1,0 +1,421 @@
+
+
+NOW UNIX SYSTEM LABS TURNS THE HEAT ON UNIVERSITY OF CALIFORNIA OVER BERKELEY CODE
+In an unprecedented action against one of its own educational licencees, Unix System Laboratories has filed suit in the US federal courts against the University of California, Berkeley, charging the prestigious institution with breach of contract, copyright infringement, misappropriation of trade secrets and Lanham Trademark Act violations.
+The move makes UC Berkeley a party to USL's existing suit against software start-up Berkeley Software Design Inc (UX Nos 392, 394) for unfair competition, deceptive trade practices and false advertising.
+USL has now amended that suit against BSDI to include additional charges of copyright infringement, trade secret violations and inducing breach of contract.
+Harassment
+BSDI's response to the amended suit, which was served last Thursday, was to declare it ‘totally without merit’ and ‘another step in [USL's]harassment campaign.’
+BSDI, an alleged spin-off of UC Berkeley's Computer Sciences Research Group, author of the famous Berkeley code, is attempting to commercialise a 386 operating system called BSD/386 based on the university's Network Release 2.
+Berkeley and BSDI claim NET2 is AT&T code-free and owes no licensing fees to USL.
+USL says it ‘knows for a fact’ NET2 contains proprietary AT&T code.
+USL also says UC Berkeley rebuffed every proposal it put forward over the last few months to resolve the dispute without recourse to litigation.
+According to USL, the school effectively rejected a proposal for a full comparison of Berkeley versus USL code by unbiased third parties by demanding that the evaluation be limited only to USL-specified snapshots and by selecting as arbiters for its side members of the Computer Systems Research Group whose credentials, USL claims, were already tainted.
+CSRG, in what appears to be a form letter over the signature of CSRG team member Marshall Kirk McKusick, made written representations to BSDI on April 30, 1991 that Berkeley software ‘may be freely redistributed…’ and ‘requires no previous licence, either from AT&T or The Regents of the University of California.’
+The university reportedly picked McKusick as one of its evaluators.
+Public opinion
+Had that proposal been acted on, McKusick, CSRG senior programmer and past president of Usenix, would have found himself in another conflict of interests since he is believed to be a secret a director of BSDI.
+BSDI, which the USL suit suggests is in collusion with CSRG, declines to publicly identify any of its founders or investors declaring such information ‘proprietary’ on the basis that BSDI is a closely held company.
+No names appear on BSDI's papers of incorporation except the company's nominal president Rick Adams who was described to Unigram last week by Donnalyn Frey, BSDI's spokesman, as merely a figurehead, soon to be replaced when BSDI completes its current search for a chief executive.
+Adams, she said, is actually the president of UUNet Technologies, a long-established company currently distributing BSD/386.
+Donnalyn, well-known as Usenix's erstwhile spokesman, should know since she is in fact Mrs Rick Adams.
+Besides McKusick, there are other ties between CSRG and BSDI.
+According to an April filing with the Virginia Commission on Corporations, where BSDI is headquartered, CSRG senior programmer Keith Bostic and former CSRG mainstay Mike Karels, the acknowledged architect of the university's 4.3 BSD release, are also directors of BSDI.
+BSDI describes Karels simply as an employee, claiming he joined the company after BSD/386 was established.
+Another director is Don Seeley, an employee of UUNet Technologies, the supplier of UUNet.
+Clearly USL will argue that CSRG staff gave themselves permission to commercialise the system and will doubtless note a violation of the university's established code of ethics which requires university personnel with a financial interest in a university decision to disqualify themselves.
+BSDI, meanwhile, is attempting to try the case in the court of public opinion.
+The week before last it put the full text of the initial complaint (but not the expanded suit) on UUNet ostensibly because so many were asking to see the exact wording.
+More details on page four.
+USL ‘EYES SANTA CRUZ’
+The rumour mill claims Unix System Laboratories Inc has been sniffing around the Santa Cruz Operation Inc over the last few months — with takeover in mind.
+Our armchair strategists say USL must achieve critical mass practically overnight to ward off the threat from Microsoft Corp's NT and ensure a successful public offering in the next year or so.
+SCO, whose revenues are thought to be double USL's and whose board reportedly wants to cash out, makes no secret of the fact that it has been contemplating its own initial public offering (IPO) for some time.
+However, its founders, Larry and Doug Michels, are now said to be reluctant because the future is uncertain — it's a heck of a time to have to start posting quarterly reports.
+The Mexican stand-off between USL and SCO is thought to be price.
+SCO has never been known for its realism.
+If the deal ever comes to pass, it will probably have to be a stock swap: USL doesn't have the cash.
+SYBASE's MULTI-MEDIA GAIN
+Emeryville, California-based relational database developer Sybase Inc has reached a definitive agreement to acquire Palo Alto-based object-oriented multi-media tools developer Gain Technology Inc — previously known as Cayenne Systems — for 2m new Sybase shares, valuing the target at about $56m.
+The aim of the deal is to combine Gain's tools — which include the GainMomentum applications developer and GainExposure software demonstration tool (UX Nos 363, 365)— with Sybase's SQL Server technology to enhance ease of use for client-server computing.
+Privately-held Gain is 100% owned by its directors and 100 employees.
+It was profitable on turnover of $3.2m for the quarter to March 31st.
+Sybase says it plans to run Gain as a subsidiary at its existing base.
+The news appears to scotch rumours that Sybase was looking to spend its money on fellow database vendor Unify Corp, which over recent years has also majored on database independent development tools, although more geared to character-based and transaction processing applications.
+Unify director Tony Bowden denied that there was any truth in the rumours last week, but said that Unify was ‘signing deals on Sybase left right and centre’.
+DU PONT PIXEL LAUNCHES IRIS/GL FOR SPARC
+Du Pont Pixel Systems Ltd, Weybridge, Surrey, has launched PX/Iris GL, a compatible implementation of Silicon Graphics Inc's three-dimensional graphics library for Sun Microsystems Inc workstation users.
+SGI's Iris GL has already been endorsed by large sections of the industry, including DEC, IBM, Microsoft Corp and Intel Corp, as a standard for their high-end graphics developments.
+Du Pont Pixel, formerly benchMark Technologies, started work early on this project — before a reference implementation suitable for other CPU architectures was available from SGI, so it did a bottom-up re-working of GL optimised for the Sparc RISC processor.
+Although GL is gaining ground as a de facto standard it does not support PEX, the Phigs extensions which allow developers to write distributed, three-dimensional graphics applications for X-Windows: ‘because PHIGS is years behind the marketplace,’ insists SGI.
+For its own purposes, however, DEC is working on a PEX version of GL for use on its systems.
+PX/Iris GL is based upon version 4.0 of SGI's environment and will migrate to version 5.0 reference implementations — with the OpenGL programming interface — which SGI is now delivering to its OEMs.
+Version 5.0 is claimed to be more portable, with better application programming interfaces: ‘commercially cleaned up’, is how SGI described it.
+PX/Iris GL will run on most Sun workstations with a colour frame buffer under Open Look or Motif — it doesn't require one of Du Pont's Intel 80860, Sbus-based graphics accelerator boards.
+Du Pont hopes to sign distributors like Frontline Distribution Ltd, Basingstoke, Hampshire, to peddle the thing in the UK — its US reseller network will handle the things in North America.
+Du Pont will also market SGI's Iris Explorer visualisation development system to Sun users alongside its graphics subsystem products.
+As benchMark Technologies, the company was primarily a technology OEM and developer of graphics accelerators, as Du Pont Pixel it wants to become much more involved in software publishing.
+It says it has half a dozen ports of packages to GL from large software house which will be released for PX/Iris GL users within three months — it'll also help smaller firms without its marketing muscle bring their applications to market under PX/Iris GL, which is priced at £3,250 for a development licence — £320 for a run-time version.
+SGI claims some 1,600 applications now run on GL.
+Du Pont has also concluded a deal with RasterOps Corp which sees the Santa Clara, California-based company handing all of its Sun Sbus products over to Du Pont in return for Du Pont's GL implementation, which RasterOps will productise for the Apple Computer Inc Macintosh market.
+RasterOps' Sbus products are TC, a framestore card, TC Pip, a 24-bit frame store card and video mix and a TV card that grabs video images for processing on a workstation.
+These fill in the gaps, Du Pont says between Sun's own 8-bit frame store card and its own high-end options.
+In the face of recent doubts surrounding Intel's future plans for its i860 RISC, Du Pont says it is now under non-disclosure for a new iteration coming down the line — though there's no hint of silicon just yet.
+…
+NAG PORTS EXPLORER TO SUN, DEC, HP, IBM
+Separately, Silicon Graphics has also licensed Iris Explorer to UK, Oxford-based Numerical Algorithms Group, which will turn the stuff around for Sun, DEC, Hewlett-Packard and IBM workstation users.
+NAG regards Iris Explorer as one of the three leading visualisation packages on the market, the others being Precision Visual's PV-Wave and Advanced Visualisation Systems' AVS.
+SUN TURNS SUNVISION OVER TO AVS
+After having to take development and marketing of its VX and MVX Intel Corp 80860-based graphics accelerator boards back under its wing after the collapse of its partner in that area, Fremont, California-based Vicom Systems Inc (UX No 381), Sun Microsystems Inc is hoping for more success with its SunVision graphics software environment which it has now turned over to Advanced Visual Systems Inc.
+AVS Inc, Waltham, Massachusetts, will assume all future development and marketing of the product and other packages based upon it, and is to integrate SunVision into its own Advanced Visualisation System.
+SunVision functions will be offered as AVS modules and as portable libraries for building applications on Unix workstations which support AVS.
+AVS has also undertaken to port the SunVision imaging library — IPlib — and volume visualisation tool — SunVoxel — to Solaris for Sun as well as to the Mountain View, California firm's XIL video and imaging software foundation library.
+SunVision 1.2 is available from AVS now.
+In the past, Sun has turned over high-end graphics products to third parties  because it has deemed growth at the high-end of that market to small to  warrant its  continued investment (UX No 357).
+DEC CLEARS UP ITS DESKTOP STRATEGY WITH IXI DEAL
+As expected (UX No 394), IXI finally got its ‘multi-million’ OEM deal with DEC to the announcement stage last week, a process its been working towards for quite some time.
+While DEC Europe has long been a strong advocate for X.desktop, DEC US originally opted for the rival Visix Looking Glass product (UX No 306), and more recently began evaluating HP's Visual User Environment (UX No 377).
+X.desktop had the edge over VUE because of its availability under VMS, aside from any uncomfortable feelings DEC might have had opting for a product from one of its biggest competitors.
+DEC has licensed X.desktop, and both companies will work together to supply and integrate the product for DEC's Motif-based Ultrix, Open VMS and OSF/1 platforms, both MIPS and Alpha.
+Deals for existing DEC customers are currently being negotiated.
+DEC's input into the product will be in the fields of usability, multi-media and document management, but the company is also considering how X.desktop might relate more closely to its other desktop platform, Microsoft Windows and NT.
+IXI has its eye on the very same area, but is still working on the details.
+For the record, IXI's other OEMs are IBM, NCR, NEC, SCO, Fujitsu, Bull and ICL, accounting for one third of IXI's business.
+There are currently over 200,000 copies of X.desktop out there, meaning, says IXI's Ray Anderson, that over 75% of Motif users are now using X.desktop as their desktop manager.
+That makes it ‘almost’ a de-facto standard, he says.
+INTEGRATED COMPUTER SOLUTIONS' WIDGET DATABOOK FOR MOTIF
+Integrated Computer Solutions Inc has published the Widget Data book, a collection of XT-based widgets and other objects that speed the development of graphical user interfaces.
+A widget is a user interface component, such as a pushbutton or scroll bar, and the Widget Databook includes those commonly requested by developers when designing applications for OSF/Motif-based interfaces.
+The databook provides descriptions and pictures and a CD-ROM disk includes the binary code for each widget.
+Unlike common widgets that offer basic functionality, the company says that the Databook widgets range from generic types not available in Motif to industry specific widgets.
+The widgets described in the databook can be used with BX, Integrated's graphical user interface builder, and with any graphical user interface builder that runs under X Window and Motif.
+The Widget Databook, available now at $10, includes access to six public domain widgets provided in source code form, but additional widgets, provided in binary form, can be accessed by obtaining the required access code from the Cambridge, Massachusetts-based Integrated Computer Solutions at prices between $200 to $3,000.
+UNISYS LAUNCHES NEW UNIX-TO-SNA PROCESSOR
+Unisys Corp has launched a major new product line that is designed to integrate Unix and IBM Corp Systems Network Architecture networks across heterogeneous networking environments.
+The Communications Access Processor is designed to enable mainframe users to add Unix systems to their SNA networks without the risk and high costs of redundancy or re-engineering networks — existing SNA networks and terminals can be used to access Unix, and the processor also provides complete SNA-Unix integration from the desktop devices in each environment, preserving the current user interfaces of each environment as well as integrating multiple network architectures over one SNA backbone, managed by IBM NetView; a CAP 200 for 30 lines is $70,865, CAP 250 for 180 is $94,392, from September.
+SIEMENS NIXDORF HITS MORE SNAGS
+The launch of Siemens Nixdorf Informationssysteme AG's new multiprocessor computer line has been delayed.
+Topix Abteilungsrechner & Workstations magazine reports that an announcement regarding the B20, on which Siemens Nixdorf has been pinning so many hopes, was planned originally for the autumn.
+It now seems set to be pushed back at least three months, as the chosen central processing units are causing problems.
+It therefore seems possible that the B20 will be equipped directly with Intel Corp's P5 chip rather than upgradable 80486 CPUs.
+However, work on the MIPS Computer Systems Inc R-series RISC-based B20 line is going ahead somewhat quicker, with a launch expected by the start of 1993.
+The multiprocessor version of the R4000 central processing unit is expected, finally, in November.
+Even MIPS' owner Silicon Graphics Inc is said to want to speed up its multi-processor work by using the P5 chip.
+HP MAPS OUT PLUNGE INTO OBJECTS…
+Hewlett-Packard Co is racing down the object-oriented programming road and last week it inaugurated a distributed-object-computing programme that it says will accelerate its efforts to develop and deliver a distributed object computing environment for heterogeneous networked systems.
+The company is building on the Object Management Group's Common Object Request Broker Architecture standard, and says its new environment provides the benefits of distributed object technology without requiring users to adopt a new operating system.
+The planned environment will integrate all the company's framework products, which currently include its NewWave, Visual User Environment, OpenView, OpenODB database and C++ and the SoftBench development environment.
+First software is expected to be ready in the first half of 1993.
+…
+LICENSES OpenODB TO INFORMIX
+Hewlett-Packard has also signed its first licensee for its OpenODB object-oriented database management system: Informix Software Inc is to integrate OpenODB it with its Informix OnLine relational database, making OpenODB available on several of the hardware environments on which Informix runs.
+Hewlett will share other object-oriented technologies for distributed object environments with Informix, which will integrate them into its Open Case/ToolBus environment, which is already based on the Hewlett-Packard SoftBench software development framework.
+Informix looks to OpenODB to enable it to provide customers with an easy evolution to object-oriented technology that enables them to use data already stored in the Informix-OnLine database.
+BANYAN VINES UP ON SCO
+Westborough, Massachusetts-based, Banyan Systems Inc and the Santa Cruz Operation Inc yesterday launched Vines for SCO Unix — seen by observers as SCO's  riposte to the shrink-wrapped UnixWare collaboration between Unix System Labs Inc and Novell Inc — targeting SCO's large base of Intel Corp system users.
+The agreement to develop Vines for SCO was made public at last year's SCO Forum.
+Vines for SCO Unix — unlike Banyan's vanilla implementation of Vines which functions as an integrated network operating system incorporating AT&T's System V Unix — sits on top of SCO Unix in a layered configuration engineered by SCO.
+According to Banyan, Vines for SCO includes increased security, management and administrative functions, the StreetTalk global directory, intelligent messaging, terminal emulation and client services over its standard product.
+SCO is determined to stick close to the Intel trail, whilst dismissing UnixWare as ‘server-centric,’ saying ‘Unixware won't hit the Intel market…it is not comparable to Vines’enterprise-wide networking capabilities.’
+With both Vines for SCO Unix and UnixWare due in September its going to be an interesting duel.
+Vines for SCO will be be marketed as a Banyan application, and sold by both companies via their usual outlets.
+Banyan also took the opportunity to announce that its StreetTalk global directory will also support Novell NetWare by the end of the year.
+Vines for SCO Unix goes from £3,500 to £12,500 for a fully configured package.
+SUPERUSERS CARVES OUT GURU NICHE FOR DANISH MARKETPLACE
+10-year old Danish company SuperUsers, which has its headquarters in a 16th century castle overlooking the sea North of Copenhagen, is carving out a niche for itself as a Unix ‘knowledge house’ for Scandinavian and European countries.
+The company, now employing 15 staff, is run by Unix ‘guru’ Brian Eberhardt, and concentrates on training, product development and consultancy.
+Its own products include bespoke systems for the likes of the Danish Girobank (in conjunction with Control Data Corp, also very active in Denmark), and X-Windows system monitoring and debugging tools, such as XSpy.
+It also provides a channel to supply and support international products for the Danish marketplace — on the books at the moment are the UIM/X GUI builder from Teleuse, VisionWare's XVision, Glockenspiel's C++ range and CodeCenter/ObjectCentre from Centerline.
+Superusers recently collaborated with Uniras to interface its graphics software with UIM/X.
+The company works with multiple hardware platforms, including Sparc, DEC, HP, Intel and Control Data — it is about to take possession of a dual processor 4680 CDC machine — along with X-terminals from NCD, Tektronix and Tandberg.
+PRIME COMPUTER TO CLOSE DOWN ITS MINICOMPUTER MANUFACTURING BUSINESS
+The effort by management of Prime Computer Inc's core computer business has failed and the company has decided to close the business, once one of the most successful of the clutch of second-line US minicomputer manufacturers.
+The company says the attempt at a buyout failed because the managers realised that it would take longer than they had planned to develop a new generation of the 50 Series minicomputer line.
+The decision means that 300 to 400 more people will eventually lose their jobs, although the company plans to continue offering support to existing users through its PrimeService business.
+Already over 400 people have been shed since the beginning of the year, and the Prime Computer Inc that is going public on revised terms and will change its name to Computervision Corp, will end up with 5,900 people, and annual sales of some $1,200m, mainly computer-aided design software and maintenance.
+The computer unit that is being closed had sales of just $169m last year, down from about $1,200m at its peak, shortly before Prime completed a hostile  takeover of the original Computervision company back in early 1988.
+Prime was born in the early 1970s, structured around the PrimOS operating system, which was developed on Honeywell Inc minicomputer hardware under a government contract, which meant that when people on the development team wanted to take it into the commercial world, they were able to buy the operating system for a nominal sum, and developed a new processor optimised to run it to create the 50 Series, the customer base for which will now be subject to a flock of companies wanting to win users over to their open systems.
+Prime's Natick, Massachusetts headquarters has been sold and it is now headquartered at the old Computervision base in Bedford, Massachusetts.
+Prime was brought down when to escape a hostile bid from MAI Systems Corp, it agreed to one of the last — and most doomed — leveraged buyouts in the computer industry by a group led by J H Whitney & Co, just before the boom fell on such transactions, which saddled Prime with a debt burden that at the time looked unsustainable — as so it has proved.
+HP BITES BACK AT SUN's CARROT…
+What better way to liven up these lazy summer days than a little trade-up rumpus between Sun Microsystems Inc and Hewlett-Packard Co.
+HP has decided not to take Sun's move on its Apollo base (UX No 394), lying down and has decided to retaliate in kind.
+Under a new PowerUp Programme, it's offering Sparc users (and their own Apollo customers) up to a 44% credit if they switch to Series 700 Snakes.
+They have to trade in a minimum of 20 workstations by March 31, 1994 and place the orders by January 1, 1994.
+HP claims to have a better handle on the situation, providing a one-step upgrade and 18 months to plan and implement the migration.
+HP pooh-poohs Sun's programme for focusing solely on discounts and wanting to move Domain users to ‘ageing members of Sun's product family’ then on to Sparcstation 10s in two step process that would require going first to Solaris 1.0 and then to Solaris 2.0.
+It also takes a shot at Sun's December 31, 1992 deadline as not being enough time.
+…
+BUT HP FOLLOWS SUN TO LIKEN
+Xcelerated Systems Inc, the San Diego, California-based Unix-on-Mac company is building up a quite head of steam on its rivals like Quorum Software Inc.
+Now its has won favour with Hewlett-Packard Co which is endorsing Xcelerated's Liken emulator for its Series 700 workstations, claiming the software rivals the performance of the Macintosh IIci on Mac applications under Unix.
+HP is not allowed to sell Liken direct so it will put it through resellers.
+Productivity Computer Solutions Ltd of Wakefield, Yorkshire has both the Hewlett-Packard and the Sun Microsystems Inc versions of Liken under an agreement that it signed last week.
+Available now, prices start at $900 — £445 in the UK.
+Other European distributors are the Bristol Group GmbH, Morfelden and IPS GmbH, Bremen in Germany; Real Connection Oy, Espoo, Finland; StationSoft, Paris and KonsultHuset, Gothenburg, Sweden.
+100,000 USERS HAVE YET ANOTHER BERKELEY VARIANT — 386BSD…
+Maureen O'Gara
+Besides Berkeley Software Design Inc's BSD/386 operating system, there is another body of 386 code making the rounds.
+That code got started in conjunction with the same University of California lab that BSDI's did and traces its roots first to 4.3BSD Tahoe and ultimately to the same NET2 subset source.
+This code is confusingly named 386BSD after the original 386BSD project kicked off in the university's Computer Systems Research Group in 1989.
+The man who says he named both pieces of software is former 386BSD project leader and principal developer of BSD 2.8 and 2.9, Bill Jolitz.
+Jolitz reportedly mortgaged his house to start the initial 386BSD project and subsequently finished it in his own time.
+The code and its rationale were published over the course of a year in Dr Dobb's Journal beginning in January of 1991.
+It was also picked up by Dr Dobbs' sister publication Unix Magazin in Germany.
+The full code has been available on InterNet for the last two months and was to go on CompuServe last week, according to Dr Dobbs' editor Jonathan Erickson.
+He estimates that 386BSD is currently in the hands of 100,000 people.
+Jolitz, interviewed by Unigram.X last week, says that his 386BSD, at least in its initial versions, was encumbered.
+He also says that 386BSD is the basis of BSDI's BSD/386 which he worked on in 1991 at CSRG initially under the financial sponsorship of UUNet Technologies.
+Last summer his cheques started coming from BSDI.
+He claims he was never officially hired by BSDI and signed no employment contract with the firm, which he believes is the brainchild of UUNet chief Rick Adams and former CSRG staffer Mike Karels who was best man at Jolitz's wedding.
+However, Jolitz was apparently crucial to the project since none of BSDI's principals, alias CSRG's staffers, knew much about 386 Berkeley and couldn't maintain it.
+386BSD was originally intended to be ‘a university curiosity,’ Jolitz said, a non-commercial, non-industrial strength way for students, facility and researchers to have access to Berkeley code on inexpensive machines.
+Increasingly through last year it became apparent that what CSRG wanted was ‘basically the same thing as BSDI:’ an unencumbered commercial system.
+Ultimately, he says, he opposed it since it would mean terminating the 386BSD project, an action CSRG has taken, as well as having him renege on a published promise to produce freely accessible 386 code.
+He broke with BSDI in November, he says, but not before Usenix mysteriously refused to allow him to present a paper on his 386 work and BSDI offered to cut him in — in return for the title to his house.
+The first tack he regards as a way for CSRG/BSDI to limit competition.
+The second tactic he regards as an attempt to keep him in line.
+He says he attempted to bring what was happening to the attention of university authorities such as CSRG's faculty overseer Susan Graham and its Office of Technology Licensing but was  sloughed off.
+He claims the university is guilty of ‘incompetent stewardship.’
+He subsequently received letters from CSRG and university counsel claiming that all the work he had contributed to Berkeley since NET2 was ‘University proprietary,’ a phrase he had never heard before.
+In November he was asked to destroy all his own work and anything in his possession having to do with Berkeley or 386.
+He says he complied and rewrote the current 386BSD Release 0.0 from scratch.
+He says he receives no money from BSDI for his code though he alleges BSDI has told its customers that he does.
+Jolitz does not believe NET2 is encumbered.
+…
+AS BSDI PUTS THE WORD ON THE NET
+The week before last, BSDI put the full text of Unix System Labs' initial complaint (but not the expanded suit) on UUNet, ostensibly because so many people were asking to see the exact wording — see front page.
+As might be expected, the move has stirred up a hornet's nest of academic fear and loathing against USL and has created a cadre of naive tech  weenies ready to form a lynch mob.
+For all their thousands of lines of protests, however, no one has flat out denied USL's intellectual property rights.
+USL's suit asks the courts to oblige UC Berkeley to abide by its license from USL.
+It also wants the school to recall all copies of NET2.
+USL is seeking an unstipulated amount of actual and compensatory damages from UC Berkeley as well as legal fees.
+It wants the same from BSDI plus punitive damages.
+BSDI is reportedly getting set to move from a beta to a gamma version of BSD/386 either this week or next.
+It says it has distributed over 300 copies of the beta system to an assortment of users including hackers, old DOS buffs and big brand name computer makers.
+BSDI is also getting ready to expand its distributor base.
+SOLBOURNE ENDS DIRECT SALES IN EUROPE
+Following a decision earlier in the year to scale down its workstation business,(UX No 368) Solbourne Computer Inc, Longmont, Colorado, has pulled the plug on its direct sales operations in Europe, claiming ‘lack of business.’
+The decision can only fuel speculation that it is suffering badly in the heat of an overcrowded Sparc-compatible marketplace that it once had to itself.
+The firm quotes the recession and increased competition as reasons for its departure and describes its European sales division, headquartered in Swindon, Wiltshire, ‘as no longer appropriate.’
+Significantly, it says there has been slowing down of sales of its Sparc server systems over the last few months, and expects its European turnover for the coming year to remain flat at $15m.
+All direct European sales operations have been re-directed to corporate headquarters under the charge of Neil McNeil — formerly international marketing manager for the Middle East.
+The company will now rely on its indirect reseller channels across Europe.
+To mop up what's left of the direct sales budget, Solbourne will establish a chain of technical support offices across Europe, and admits it's a less expensive way of keeping the European market aware of its presence.
+The UK office will also support the Benelux countries — French and Scandinavian offices are due to open in the Autumn.
+Solbourne meantime, is steeling itself to launch Series 6 symmetric multi-processors, based upon Texas Instruments Inc's SuperSparc chip, in October.
+The machines are due to go into beta test in August and will run Solbourne's SunOS MP implementation.
+No word on pricing yet.
+OBJECT DESIGN RALLIES LEADERS TO ITS PARTNER PROGRAMME…
+ObjectStore object database developer Object Design Inc, Burlington, Massachusetts used the Object World show to launch its Object Design Partner Programme for ObjectStore, designed to advance the integration of ObjectStore with the best object-oriented development tools available.
+The range of tools offered by initial Partner Programme members covers the complete development cycle, including a variety of languages, graphical user interface builders, design and analysis tools, programming environments and re-usable class libraries.
+Companies so far signed on as members include Borland International Inc, CenterLine Software Inc, Hewlett-Packard Co, Lucid Inc, Fluent Inc, Oberon Software Inc, ParcPlace Systems Inc, Progress Software Corp, Spatial Technology Inc, STEP Tools Inc and Visual Edge Inc.
+Public domain class libraries also will be part of the tool catalogue, the first to support ObjectStore being the libraries from the US National Institute of Health.
+…
+OBJECTSTORE FOR NCR 3000
+Object Design also announced that it has done an implementation of its ObjectStore object-oriented database for the NCR Corp System 3000, making it the first object database on NCR kit under Unix System V.4.
+It will start shipping in September and pricing will be on a per-user basis, with a typical four-user configuration including server and client licences, training and technical support costing $11,000.
+The two companies are already best friends, having been partners in the initial joint submission to the Object Management Group for its request for object request broker technology, which was of course later combined with technology from Digital Equipment Corp, Hewlett-Packard Co, Hyperdesk Inc and Sun Microsystems Inc to become the Common Object Request Broker.
+ObjectStore is already on computers from Sun Microsystems, IBM, DEC and Hewlett-Packard under Unix and computers running Microsoft Corp Windows 3.
+GRESHAM HAS DATASERVE RPC FOR VME TO UNIX/VMS ACCESS
+Gresham Telecomputing has increased the scope of its Dataserve range of ICL communications products with the addition of client versions of the product for VME, VMS and Unix-based systems, with a Windows version following later in the year.
+DataServe for VME, the base software product, provides what is basically a remote procedure call mechanism for VME, and opens up corporate data stored on ICL's IDMSX mainframe data stores to different environments.
+Unix applications, such as Ingres or ICL's OfficePower, can make use of the client service for direct access to remote VME data, and Dataserve can work in conjunction with transaction processing monitors such as Tuxedo or Gresham's own tp+.
+Gresham also has plans for a VMS server version of Dataserve.
+Without access to corporate data, says Gresham, companies are unwilling to begin the shift over from proprietary systems.
+Gresham is an ICL software partner in the UK and Europe.
+Cost of the VME to ICL DRS 6000 version is £2,000, with a £300 per annum annual maintenance fee.
+OBJECT WORLD ‘92: STEVE JOBS AND THE OMG 1, MICROSOFT 0
+Two thousand, seven hundred people turned up for the opening session of Object World ‘92 in San Francisco a couple of weeks ago, Katy Ring was one of them.
+As expected Object World ‘92 got off to a dramatic and bitchy start with the opening panel session which, on the day, featured Paul Allchin, Microsoft Corp's vice president for advanced products, Philippe Kahn, founder of Borland International Inc, Steve McKay, SunSoft Inc vice president for user environment software and Joe Guglielmi, head of Taligent Inc as the great and glorious warm-up act for NeXT Inc's Steve Jobs who topped the bill.
+Lord's Prayer
+Developer conferences these days seem to harbour a deep-seated resentment of Microsoft and, unfortunately, Allchin is not the most charismatic senior executive that Microsoft could have fielded — frankly he killed himself by an overlong demo (and let us not forget that Gates himself is probably the only competitor to Jobs’ title of demo king) that crashed a couple of times.
+He also died by labouring the Windows strategy that we can all repeat like the Lord's Prayer and by demoing that well known object-oriented tool (NOT!)
+Visual Basic.
+Allchin began by admitting that Microsoft has had a problem communicating its approach to object technology and claimed he was on the panel to put the record straight: there are objects in Windows NT because there is an object management system in the kernel — its simply not exposed to users.
+Object Linking and Embedding, better known as OLE (as Kahn commented ‘the only object-oriented thing about OLE is its name’) is taking the initial baby steps towards object technology, but as far as Microsoft is concerned all object roads lead to Cairo.
+Cairo is, of course, the code name for the next generation Microsoft object layer comprising an object model, and object-based user interface (Windows lest anyone forget is event-driven), a fully distributed object file system and an integrated object management system.
+OLE will be replaced by Cairo services that will use the same programming model, the same behaviour between shell and application link and the same class model so no changes have to be made to applications.
+Cairo will interoperate with DCE and will have a distributed directory integrated with the object management system and the object filing system.
+The beauty of this approach from Microsoft's point of view is that it is evolutionary and scalable handling 1 byte to 1Gb objects.
+However, as Jobs asked rhetorically ‘can the horse evolve into the automobile?’
+Under attack from all the panellists and with a hostile audience Allchin admitted that Microsoft would be slower in the innovation stakes than its competitors when it came to object technology.
+No concern
+Kahn and McKay made their presentations with dignity but neither gave any new insights into their companies' strategies.
+Joe Guglielmi explained that Taligent is not building an operating system, rather it is building a total development environment for objects.
+It is starting with objects at the bottom or system level and then building in real-time features.
+Taligent has no concern with legacy systems — building adaptors and bridges from the past is seen as the role of Taligent's parent companies Apple and IBM.
+Guglielmi reckons that it is the system software that is slowing down innovation for applications and hardware.
+However, that is not the only level that Taligent is addressing.
+It is also adding object and application layers on top of the operating system.
+It will provide application, document, user interface, development tool, testing and system frameworks.
+ISVs will take these core frameworks and add features from their areas of expertise.
+There was some scepticism as to whether performance would be good enough in a system built from the bottom up in objects.
+Guglielmi believes that performance will not be a problem.
+Currently, Taligent needs to work with others in the area of distributed object models.
+However, Guglielmi would not commit in public to any of the OMG work in this or any other sphere.
+ObjectWare
+At this point it was Jobs's turn to take the stage claiming that NeXT is Taligent today.
+He pointed out that the client/server bottleneck is caused by the development time.
+His pronouncement that ‘when your application is not done in two years its running at zero MIPS no matter what hardware is running on your desk’ was greeted by cheers from the audience.
+Moving swiftly on he coined the phrase ‘objectware’ to refer to the hundred or so third-party objects that can be bought off the shelf to run in the NeXT environment.
+Chuckles of delight greeted his suggestion that ‘as the Microsoft monopoly puts programmers out of business they can move to writing objectware for NeXT.’
+Rubbing salt into Allchin's wound, spontaneous applause greeted Jobs's demonstration of NeXTStep, where as the Visual Basic demo was nearly slowclapped off.
+And finally, the man of the morning announced to more cheers that NeXT has joined the OMG and that NeXTStep 3.0, shipping in a few weeks, is already fully OMG  conforment mapping via IDL to the OMG object model.
+What is more Jobs has finally addressed the necessity of object storage by announcing a deal with Object Design Inc for ObjectStore to be ported to NeXTStep and for ObjectStore to be embedded in the NeXT operating system.
+Fairytales
+Allchin tried to get revenge by responding that if fairytales were true Jobs's nose would have grown.
+He had misjudged the audience, which, sitting rapt in Steve Jobs's hands greeted this comment with boos and hisses.
+There was simply no stopping Jobs when in full charm mode.
+He apologised for NeXTStep 3.0 being 60 days late, claimed that Mach is object-oriented and that a bit of Unix is only dragged along in NeXT for compatibility.
+An 80486 version of NeXTStep 3.0 will ship in the next six months when those oft-promised OEM deals with the likes of Dell Computer Corp will be announced.
+As for a version for the Sparc, Jobs said he'd love to port to this chip but that Scott McNealy has said ‘I'd rather stick needles in my eyes than work with NeXT.’
+The concluding score?
+Jobs and the OMG 1, Microsoft 0.
+We await the rematch with interest.
+ORACLE'S OBJECT DATABASE ORIENTATION
+After hearing so much about objects and Oracle Version 8.0 — object prototyping work has been going on at the firm since 1988 — at the moment it doesn't look as though Oracle will create a separate object-oriented database product, although Oracle's object guru, David Beech, believes it may eventually make marketing sense to do so.
+OO Oracle will in any case be upwardly compatible with the relational model which will remain a subset of the database.
+A relational flagger may be added to flag when a developer is leaving the relational subset, but Beech believes there is no inconsistency between the two basic models.
+Beech is not concerned about starting from a theoretical object model to build version 8.0.
+He is more concerned with the industry-wide slow progress in inter-language communication and believes Oracle could impose one kind of object system that would have a big influence on OO programming languages.
+If these languages conformed to one type of object database system then persistent objects could be shared between applications.
+Meanwhile, providing bindings between C++ and SQL3 (SQL3 does not exist but is a label for the ANSI SQL standard that will emerge in 1995/6) is one of Beech's chief interests and Oracle is investigating various styles of binding between the two languages.
+One thing is clear none of this OO stuff is imminent in Oracle as SQL 3 is pencilled in for 1995/6 and an object storage manager will most likely follow that.
+ROUNDUP: WHO, WHAT, WHERE, WHEN
+After surviving the acquisition by SunSoft Inc of the greater part of his former employer — Eastman Kodak Co's Interactive Systems Corp — where he was European director, before going to become manager of Northern Europe for Sun Microsystems Inc's software subsidiary, industry veteran Doug Miller last week resigned from the company ‘to pursue other interests’ after Peter Watkins was moved from SunSoft's Mountain View, California headquarters to take up the newly-created position of general manager for SunSoft in Europe; Watkins is also responsible for Northern Europe (which includes the UK) until a replacement for Miller is found.
+Meanwhile Dennis Peck, the erstwhile president of Interactive Systems Corp and the man who presided over the sale of half of it to SunSoft Inc, has joined Sequent Computer Systems Inc as senior vice president of marketing, a position that's been open for over a year.
+Retirement seems fashionable this season: next to go is Interleaf Corp CEO David Boucher who will hang around as chairman but give up his CEO role to company president Mark Ruport.
+Former director at Groupe Bull UK, Fred Bullock, has been appointed general manager of Swindon, Wiltshire-based Kode Computers Ltd, which sells Sanyo Icon and Dolphin Server Technology Triton Unix kit.
+Tandem Computers Inc veteran Steven Wierenga has been appointed vice president of engineering of Auspex Systems Inc.
+Kaleida Labs Inc, the IBM Corp-Apple Computer Inc multimedia joint venture, has now appointed its senior management team and opened new offices in Mountain View, California.
+Brad Beitel, the chief technical officer is a 25-year IBM veteran who has focused on multimedia since the early 1980s.
+David Kaiser, vice-president, engineering, was previously vice-president, product development at MacroMedia Inc, the company formed by the merger of MacroMind, Paracomp and Authorware.
+Dan'l Lewin, vice-president, sales and marketing comes from Go Corp and was previously co-founder with Steve Jobs of NeXT Computer Inc.
+Lawrie Lieberman, vice-president for corporate and business development is from Apple's Corporate Development and Strategic Investment Group, and was one of the principal architects of the Kaleida venture.
+On August 11th, long-serving press relations officer at Sun Microsystems UK Ltd, Ellie Pendrich, is moving over to become European marketing and communications manager for SunPro, one of the SunTech enterprises: Alison Dendy takes over the role for the time being.
+Thoroughbred Software International has set up a German office in Herrenberg under the charge of Lothar Jaus.
+Unidata Inc, which has opened a new office in Saint Cloud near Paris, says it will be porting its relational database to DEC's Alpha RISC.
+San Jose, California-based Frame Technology Corp is extending its operations to Europe opening its European headquarters in Dublin, Ireland: the office will directly market its FrameMaker suite of products and provide a range of technical support services.
+Austin, Texas-based CompuAdd Corp is opening a European headquarters in Bristol, UK, to co-ordinate the company's various European activities, which will be headed-up by Robert Todd as general manager.
+UK, Dudley-based open systems outfit, Largotim Holdings Ltd, has opened up in Ireland following the acquisition of Irish firm, Radiant Ltd, formerly part of Radius plc: Largotim says its next move will be into Eastern Europe.
+The Meta Group is putting together its Second Annual Application Development Strategies Conference, set for September 14–16 at The Buttes in Phoenix, Arizona.
+Entitled ‘Enterprise Re-Engineering Using Next Generation Applications,’ the seminar promises to focus on the business desktop, born-again CASE, object-orientation, client-server, development strategies and productivity and databases.
+The Federal Computer Conference, which reckons the federal market is worth $29.4bn, is scheduled for December 8–10 at the Washington Convention Center in Washington, DC.
+Usenix is hosting the third annual Unix Security Symposium September 14–16 at the Sheraton Inner Harbor Hotel in Baltimore, Maryland along with the Computer Emergency Response Team: Usenix is be holding its annual Winter 1993 Technical Conference at the San Diego Town & Country Hotel in California January 25–29.
+Sun Microsystems Inc turned biblical for the virtual reality display it mounted at Siggraph last week: equipped with a headset, the wearer got swallowed up and landed in the belly of a fish.
+X/Open's annual International Forum on Open Systems, Xtra 92, is set for November 30 through December 2 at The Capital Hilton in Washington, DC.
+The third annual Downsizing/Rightsizing conference and exhibition is scheduled for September 28-October 2 at The Crowne Plaza Hotel in New York City.
+88open is trying to pull together a meeting of consortia chiefs this month to mull over the kinds of business, customer and anti-trust issues they all share.
+Santa Cruz Operation Inc is circulating a 135-page spiral-bound octavo-sized ‘SCO Hardware Compatibility Handbook,’ listing the 200 systems and 800 peripherals it supports and tweaking SunSoft Inc for being able to do the same for Solaris 2.0 on a single sheet of paper.
+The Petrotechnical Open Software Corporation — the alliance of open systems users from the petro-chemical industry has publicly endorsed X/Open's XPG portability specification in its Software Integration Platform Specification volume 1 — Base Computing Standards version 1.
+X/Open says 500 products from 27 companies now comply with its XPG brand.
+TATUNG IS READY TO TAKE ON SUN's SPARCSYSTEM 10s
+San Jose, California-based Tatung Science & Technology Inc is still very much in the Sparcsystem-building game and has revealed product development plans that include introduction of three new series of MBus-based superscalar systems in the next six months.
+The new systems include the COMPstation 99, the Super COMPserver and Super COMPstation, each to be priced 25% to 30% cheaper than comparable systems of Sun Microsystems Inc.
+The systems will offer full binary compatibility and Solaris 2.0 as the operating environment.
+The COMPstation 99 Superscalar Series in September is to feature up to two 36MHz or 40MHz processors and do 64.7 SPECmarks.
+The Super COMPserver will follow, using up to four 36MHz, 40MHz or 45MHz processors, eight SBus slots, up to nine drive slots; Super COMPstation will have up to four CPUs.
+ICL GOES TO XYLOGICS FOR COMMUNICATIONS SERVERS
+It's becoming fashionable to buy in rather than build specialised servers — IBM Corp and Digital Equipment Corp are both doing it, and now ICL Plc has gone to Burlington, Massachusetts-based Xylogics Inc for the Annex Three and Micro Annex XL communications servers under an OEM agreement that will see the UK company marketing them as the DRS local network terminal server line with its DRS 6000 range of Sparc-based and DRS 3000 iAPX-86-based Unix systems.
+Other OEM customers for the communications servers include Siemens Nixdorf Informationssysteme AG, NCR Corp, Sequent Computer Systems Inc, Intergraph Corp and Unisys Corp.
+The Annex servers are the latest generation of the NS32000-based line that Xylogics bought from Encore Computer Corp back in 1988 (UX No 211).
+The servers tie modems, printers, terminals and other devices to local area networks, enabling the devices to be located any where they are needed.
+The Annex Three is a modular communications server offering from eight to 64 ports with security options such as audit trails, two levels of password protection and the ability to restrict access to network resources.
+The Micro Annex XL is a compact device with eight or 16 ports designed for small workgroups and remote sites.
+The value and the duration of the OEM contract was not disclosed.
+FIRST TOOLSET FROM PROACTIVE
+Roger Sippl's latest venture, ProActive Software Inc, Mountain View, California (UX No 394), has now launched its first product — what it calls a new generation of enterprise-wide Customer Information Resource management systems.
+The system is described as a comprehensive family of enterprise-wide, client-server applications and tools designed to help companies improve customer satisfaction for competitive advantage.
+The company says that Support Advantage for Windows 3.1, the first of six Customer Information Resource applications, is available now, as is the ProActive Toolset, an object-oriented customisation environment.
+The system was developed by database experts Sippl and company co-founder Steven Goldsworthy, former corporate vice-president of product development at Informix, in collaboration with Dr William Davidow, co-author of Total Customer Service: The Ultimate Weapon and general partner at Mohr, Davidow Ventures, which has invested $1.5m in the start-up.
+ProActive's system will support multiple SQL relational databases — Sybase, Informix, Oracle, Unix systems and Windows 3.1, X Window and Macintosh user interfaces.
+It also features its own workflow engine and Query-by-Example facility.
+Developed in C++ with a client-server architecture, it is built around a Dynamic Application Dictionary and the ProActive Toolset, which enables users to customise applications without changing source code.
+Coming up are Quality Advantage for quality assurance, SLT Advantage for sales management, Product Advantage for product marketing management, Customer Advantage and Field Engineering Advantage.
+Support Advantage, available now for Sybase, is designed to replace simple call tracking applications and home-grown and paper-based systems that have limited functionality, flexibility, and ease of use, and is aimed at Technical Support, Customer Service and Help Desk professionals in high technology, telecommunications, finance and medical equipment.
+It uses the database to access, capture and track complete profiles about customers, the products they have installed, and how they use them.
+It uses Object Linking and Embedding to link and attach multiple data types such as facsimiles, documentation, graphics, manuals, and technical bulletins to a customer case.
+It builds a library of catalogued solutions to previous cases, which can be searched using Query-By-Example.
+It's from $25,000 depending on number of users and hardware.
+The ProActive Toolset for customising the application in C++ starts at $15,000.
+The company was originally styled Information Workbench and Sippl provided the seed capital.
+It claims strategic alliances with Hewlett-Packard Co and Sun Microsystems Inc on the hardware side.
+RECOGNITION HAS OBJECT PROGRAMMING TOOL FOR NEURAL NETWORKS
+UK firm, Marple, Stockport-based, Recognition Research Ltd, is launching a new object-oriented visual programming environment for neural networks.
+Netbuilder will, according to the company, allow developers to build information analysis systems using multiple neural network and statistical analysis modules.
+The neural networking technique, developed in the 1970s, mimics the biological neural network, enabling a system to ‘learn’ by example, to recognise patterns and data and to classify data by association.
+Recognition, has launched Netbuilder to give the neural networking a more conventional look and feel, it says.
+Data operating in the Netbuilder environment is stored as a self-contained object module.
+Using an X-Windows interface called Netbench, an application is built by linking up multiple instances of these objects.
+Netbuilder also includes Netlib, a library which stores the object modules and Netmake — a CASE tool which allows a developer to build a shell of an object module.
+Once the application is built it can be committed to the neural network, and automatically trains existing neural networks in the environment.
+Available on Sun Sparcstations, Netbuilder is out in September and costs £4,000 for single users.
+ORACLE LAUNCHES RELEASE 9 OF ORACLE APPLICATIONS
+Oracle Corp hasn't been in the applications business that long, but the company is already onto release 9 of its Oracle Applications suite of financial, government financial, manufacturing, and personnel applications.
+The new release makes installation and upgrading less of a pig, improves performance, tightens integration between modules, and adds a new graphical user interface — the Business Manager — the company says.
+Oracle Applications Release 9 currently operates only with Oracle 6, but will be certified to run with Oracle7 when that finally comes out in a production release.
+Oracle Applications products cost between $26,000 and $166,000 per module, depending on the number of users.
+POSTMODERNIST C++ LIBRARY FOR OBJECTS UNDER TCP/IP
+PostModern Computing Technologies Inc, a 10-month-old Palo Alto, California-based software start-up with strong ties to Stanford University, is reportedly beta testing its set of C++ NetClass libraries for TCP/IP-based object transport among some 40 odd sites including Los Alamos Labs, Bell Labs, American Express, JP Morgan, US West, Shearson Lehman Japan and Ericsson AB.
+The company believes its development tool, dubbed NetClasses, is the only one to support direct C++ object transport in addition to remote method invocation (RMI) and fault tolerant peer-to-peer connections.
+The libraries run initially on networks of Sparcstations and are being ported to other hardware.
+The libraries are designed to allow programmers to move object between applications using TCP/IP and an asynchronous interprocess messaging paradigm.
+NetClasses transports generic C++ and National Institutes of Health (NIH) -derived objects as well as NetClasses Typed Objects which are run-time configurable objects whose structure is specified by programmers in external files using an abstract syntax notation.
+The NetClasses Distributed Services libraries form a connection management mechanism organised so network service providers don't have to set up explicit port numbers and remote procedure call connections.
+Instead they simply ‘advertise’ themselves on the network, PostModern said.
+Agents are active processes on the network that monitor network service advertisements and manage connections between information producers and consumers.
+The NetClasses RMI libraries allow methods to be invoked programmatically on objects from remote machines.
+They can be built on top of the software's Distributed Services package.
+Developer kits go for $3,000 and run-time versions start at $500.
+FUJITSU READIES MASSIVELY PARALLEL MACHINE
+Fujitsu Ltd is preparing to plunge into the massively parallel processing market with a machine that it claims delivers 300 GFLOPS peak using ‘only a few hundred processors’: on current plans, it will be the first major computer manufacturer to enter the market with its own machine rather than one bought in.
+The company has been familiarising itself with the technology with its own experimental highly parallel scalar machine called the AP1000, and it clearly does not trust the literature — it says that it was this machine that taught Fujitsu scientists that ‘parallel supercomputing requires a radically different approach to programming’.
+Having experimented with parallel scalar and parallel vector processing, and straight vector processing, the company concludes that while vector parallel processing is very efficient over a wide range of applications, conventional vector machines offer superior performance for many applications, so the company will continue to develop its USL SVR4-based Unix, UXP/M and proprietary MSP-based VP and VPX machines.
+However, Fujitsu reckons its Unix UXP/M systems business now accounts for 60% of worldwide sales, whilst its proprietary MSP-based VP systems hold onto a dwindling 40% stake.
+The company says it has a worldwide installed base of 160 systems, two thirds of which reside in Japan and at least 30 systems are thought to be in Europe.
+The company's planned highly parallel vector machine will consist of an array of proprietary vector processors, each the size of a large briefcase and each delivering GFLOPS performance, to get TFLOPS performance out of hundreds rather than thousands of processors.
+The company plans to launch its first machine before the end of the year: it will run its Unix UXP/M implementation and can be used with Fortran.
+INGRES PLANS TO ADD MULTIDIMENSIONAL DATA SUPPORT
+Ask Computer Systems Inc's Ingres Corp plans to enhance its relational database management system to manage multidimensional data by the end of next year.
+The Alameda, California company has signed a development agreement with ESL, part of TRW Inc's Sunnyvale-based Avionics & Surveillance group and a developer of spatial data management applications, under which it will integrate the new capabilities into the database.
+Multidimensional data refers to information such as maps, genetic diagrams and physical characteristics like height and weight and it is used in applications like geographic information systems and medical imaging.
+Ingres will collaborate with ESL to expand the Object Management capabilities of Ingres, and ESL will act as an value added reseller and systems integrator.
+Ingres will expand its database to include multidimensional data types, operators and access methods.
+MINIGRAMS
+Last Tuesday or Wednesday the traffic on UUNet over this BSDI suit (see front page) got so heavy the protesters formed their own group (alt.suit.att-bsdi)— and this before the news hits the fan that the University of California, Berkeley is being brought up on charges too.
+The group, reminiscent of the old drug-happy hippy-freak Unix culture that was so enamoured of free software, was at one point calling for a boycott of AT&T services.
+Sources say Unix System Labs didn't exactly want to sue the university, but basically has no choice and regards this as a test case.
+Now that NeXT Inc has joined the Object Management Group, it's threatening to submit its technology for consideration — only OMG doesn't know what technology NeXT means.
+Possibly it might have something to do with interoperability at the class library level or maybe a little something for OMG's next RFT on services.
+OMG figures it was easier for Next to join the organisation than to continue to explain why it wasn't a member.
+Sun Microsystems Inc is spreading its favours around, and after doing a big deal with Oracle Corp on its manufacturing software, has now signed a new unlimited use licence for various database products from Sybase Inc, Emeryville, California for deployment in its operations.
+Mac-on-RISC house Quorum Software Systems Inc said last week at Siggraph that it has started shipping Quorum Latitude, its developers-oriented cross-platform compatibility tool, for Silicon Graphics Iris machines.
+Software biggie Software AG is putting in an internal Industry Standards Program Office to guide it in implementing such things and communicate same to its customers: its initial focus will be on applications development, database and repository management, networking, GUIs and operating systems.
+Wang UK Ltd has signed an OEM agreement with UK firm JSB Computer Systems Ltd, Macclesfield, Cheshire, to distribute its MultiView Unix-to-Windows connectivity software in the UK, Middle East and English-speaking regions of Africa.
+Intergraph Corp has decided it will standardise on Menlo Park, California-based Versant Object Technology Corp's eponymous object-oriented database, reselling the product and using it in some future products.
+The Huntsville, Alabama company is to use Versant ‘across many of its product lines’ although its specific plans are still in evaluation.
+Toshiba Corp is still working on a fault-tolerant Sparc box using Sequoia Systems Inc software but ended talks on buying Sequoia's Motorola Inc kit OEM in the meantime.
+Sun's biggest US distributor Access Graphics has taken on Hummingbird's HCL-exceed PC X servers which offers a Sun interface with X Windows applications and can run on top of PC-NFS: IBM Canada has also picked up the product to run off networked hosts like the RS/6000.
+Meanwhile, Xerox has piggybacked on to Access with its ScanWorx high-speed document recognition system for Sun platforms trying to get into reseller channels.
+Showing true even-handedness, Lotus Development Corp has joined both Unix International Inc and the Open Software Foundation.
+An undisclosed part of IBM Corp's settlement with Microsoft Corp gives IBM rights to put Windows NT on the RS/6000, according to PC Week, and Microsoft is urging IBM to do so.
+With OEM deals already struck at Hewlett-Packard Co and Silicon Graphics Inc, Natick, Massachusetts-based Atria Software Inc, developer of ClearCase, a Unix software configuration management system which began shipping last month, has raised $4.1m in a second round of venture funding: two of the firms, Marix Partners and Sigma Partners were original investors in Atria back in 1990, they're joined by Highland Capital Partners and Morgenthaler Ventures.
+In the UK, Pyramid Technology Ltd, Farnborough, Hampshire, is to supply House of Fraser Stores Ltd — which owns Harrods — headquartered in Swindon, Wiltshire, with a Pyramid MIServer 4/2 and MIServer 12/6, beating off competition from NCR, Sequent, IBM and Bull.
+The MIServer 4/2 running Unix SVR4 will be installed at the company's Victoria offices in London running an in-house management information system used by the central buying office to analyse stock and sales information.
+Sun Microsystems Inc has gone to Digital Tools Inc, Cupertino, California for its AutoPlan graphically-based Unix project management system for use internally: the value of the contract was not given.
+Siemens Nixdorf is moving its Comet business software library over to its Sinix-based RM machines by making its Cross Basic migration software available on the RISC-based hardware.
+Empress Software claims to have the first RDBMS and 4GL running on MACH on a 486: The port was done for TRW Financial Systems which is standardising on MACH.
+The Mountain View, California-based Unicode Consortium has merged its multi-lingual encoding standard with the recently approved ISO 10646, developed by the International Standards Organisation: the idea is that computers all over the world should agree on which number stands for which character so they will be able to communicate other in any language.
+The government of the Republic of Hungary will become the first East European administration to adopt an open system strategy across the board, saying it intends to use X/Open Group Co Ltd's XPG brand in procurement and is to join X/Open's user council: a government action plan on information technology has been put togther with the assistance of the European Commission and individual national governments within the EEC.
+And the Australian Queensland Government Information Policy Board and the Malaysian Government Administrative Modernisation and Planning Unit have both endorsed X/Open's XPG3 branding specifications as part of their open systems architecture requirements.
+Silicon Graphics Inc reports that Digital Equipment Corp will be the first company to license its Iris Inventor object-oriented three-dimensional tool kit, which will be available to licensees in the first quarter of 1993.
+Iris Inventor is designed to simplify interactive development of three-dimensional applications, and to reduce both programming time and support requirements.
+Five-year-old graphical user interface house XVT Software Inc in Boulder, Colorado has picked up $1m in first-round financing from JMI Equity Fund Ltd in Sugar Land, Texas: the company says the money will be used to underwrite further development of portable interactive design tools and portable object-oriented tools.
+Network Computing Devices reported a net loss of $192,000 on record net revenues of $28.8m, an increase of 120%, its first quarter as a public company.
+The period covers the second quarter ended June 30.
+The loss was attributed to its acquisition of Spectragraphics' GSS Division and its PC technology in April.
+The ECCS Products Group unit of ECCS Inc, based in Tinton Falls, New Jersey has a new family of fault-tolerant network storage subsystems using RAID technology: ranging in capacity from 200Mb to 8Gb they will be pitched at users downsizing from mainframes to Unix environments and Novell Inc NetWare networks — prices start at $4,800 for RAID 1 going up to $13,750 for RAID 5, from this month.
+Glockenspiel Ltd, Dublin, has released version 3.1 of CommonBase its C++ framework for developing object-oriented applications.
+CommonBase — the database equivalent of the firm's CommonView graphical user interface application builder — supports SQL and ISAM under MS-DOS, Windows, OS/2 and most flavours of Unix.
+DEC UK's workstation product manager, Tom Yeates, says sales of VAXstations running VMS exceeded targets by two and a half times over the last quarter, something it attributes to increased confidence in VMS due to the launch of the Alpha chip.

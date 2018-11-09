@@ -1,0 +1,438 @@
+
+
+INTEL ‘TO BREAK iAPX-86 COMPATIBILITY WITH P6, P7’
+A planned P7 microprocessor in the works at Intel Corp — reckoned to be almost, though not entirely, a RISC affair, designed with multiprocessing in mind and still some three years out — will finally break compatibility with the company's current iAPX-86 CPU family, sources say.
+However, cutting apron strings to the MS-DOS world actually begins with the P6, a superscalar, superpipelined successor to Pentium.
+Fabricated in CMOS and running at 133MHz, P6 boards will, according to sources, be pitched as high-end building blocks, with spaces for up to four of the 250 MIPS parts.
+P6's RISC core will form the guts of future generations, including P7.
+Unlike P7, P6 will include an emulator that can run (recompiled) code developed for the iAPX-86 series.
+Although Intel was talking last quarter about getting P6 out of the door by the end of this year (UX No 405), it isn't about to sweat for it.
+It needs time to recoup its investment in Pentium, and still has plenty left to milk in the 80486.
+P6, we hear, is now slated for the end of 1994, and there maybe a P67 transition product to manage the change up to P7 (UX No 405).
+…
+PENTIUMS REACH CUSTOMERS, BUT 66MHz IS STILL TOO HOT
+Meanwhile, OEMs we spoke to say they are are now receiving 52MHz versions of Intel's next-generation processor, the as-yet unannounced Pentium, with 60MHz and 66MHz parts expected at the end of the second and third quarters respectively.
+Seen by some as just a price/performance kicker in its initial guises, Intel is having well-documented problems in getting yields of the more important 66MHz part (UX No 410), and is reportedly still unable to get power consumption on the thing down to four watts.
+Whilst the 60MHz iteration can't be clocked any faster, the 66MHz mask is designed to go to 100MHz and it is this part, touted as providing two-to-three times the performance of the 80486, which Intel will use as a springboard for the launch of other Pentium family members — see back page.
+Pentium has two instruction pipelines, so it can execute more than one instruction per cycle, but to take advantage of these facilities and keep the pipes filled, iAPX-86 software needs to be recompiled for it; not because of new instructions, but for a different call sequence that is required.
+Binary code compiled for the 80486 will run on Pentium with a 10% performance loss and binary compiled for Pentium will run on the 80486.
+Santa Cruz Operation Inc, however, says it may have to do a Pentium-specific version of its Unix operating system.
+Intel told it that running a current SCO binary on Pentium would win it only twice the performance of SCO Unix on the 80486, compared with a fourfold increase it could expect with code recompiled for Pentium, although it would mean giving up on backwards compatibility.
+…
+GETS TOUGH WITH ITS OEMS ON NON-DISCLOSURE
+Meanwhile, Intel's hardware OEMs, already totally paranoid about delays to Pentium, are said to have been threatened with dire consequences, even lawsuits, if they leak any information about Pentium or the systems they're building around it to the press.
+Intel has five beta companies for Pentium, including IBM and Unisys, and the list  undoubtedly includes Compaq Computer Corp, which dived out of the ACE consortium on condition of the Pentium.
+There is still talk of a planned Pentium announcement on March 15 — but a launch date has not been firmed up, and the thing will in any case remain a ‘boutique product’ throughout this year, although a P24T 80486 kicker — a 486 with Pentium's floating point unit — is being talked about for mid-year.
+SCO HAS NEW PRESIDENT, PREPARES FOR IPO
+The Santa Cruz Operation last week reorganised top management, a further result of the clouded departure of its co-founder Larry Michels right before Christmas.
+Board member Jim Harris, who took over immediately from Michels as president and CEO, has moved up to chairman, replaced by SCO's European chief Lars Turndal.
+Turndal, a Swede who reputedly delegates, will run day-to-day operations.
+It is believed SCO regards the shuffle as the springboard to a relatively imminent initial public offering despite mutterings on Wall Street that the sexual harassment suit brought against both Michels and SCO last month would be a millstone around its neck.
+Despite IPO preparations, the new team is still very open to an acquisition offer depending on the price offered.
+It would like to fetch five times revenues — which were $160m in the fiscal year ended September 30 — but then who wouldn't.
+Turndal predicted future growth would come from product development, strategic partnerships, alliances and acquisitions.
+Among these potential alliances is the possibility of pushing Windows NT through SCO channels, Harris said.
+The company has done away with its once-powerful executive committee: its top echelon will now report directly to Turndal.
+Co-founder and executive vice president Doug Michels has been named chief technology officer.
+Michels continues to have Jim Wilt, vice president, business development reporting to him.
+Other senior vice presidents report direct to Turndal.
+UNISYS' NEW INTEL BOXES
+Taking a leaf out of NCR Corp's book of strategies, Unisys Corp will next week unveil the first of a new line of highly configurable Intel Corp and EISA-based personal computers that, with few if any changes, will magically turn into Unix-run workstations and entry-level servers early in the second quarter.
+As U6000/DT Unix machines, they will initially run Unix SVR4 and UnixWare, the Univel Inc reprise of SVR4.2.
+Later in the year, a multiprocessing operating system derived from Unisys' current product will appear.
+As PW2 Advantage Plus PCs, available next week, the boxes will run SCO Unix, seen by Unisys as more of a desktop offering.
+Initially 486DX and DX2-based, there is a built-in upgrade path to Pentium, with 60MHz and 66MHz machines anticipated by mid-year.
+There will be a three-slot workstation, a six-slot workstation or server and a nine-slot server.
+Their design will allow Unisys to swap most components, such as chips, multiprocessing, memory, video controllers, disk and networking to leverage price, performance and reliability.
+The video and disk controllers and network interfaces have been integrated directly onto the motherboard.
+The line is touted as the first step in an aggressive effort to redesign the entire spectrum of Unisys desktop, workstation and entry-level server platforms and to accelerate its engineering, design, manufacturing and time-to-market.
+THANKS IBM: THAT's ANOTHER FINE MESS YOU'VE GOT US ALL INTO
+Tim Palmer
+Don't shed too many tears for the publishers of computer magazines and newsletters that major on the IBM Corp market: their readers need aid, comfort and advice more than ever now that the giant's feet of clay have been so mercilessly exposed.
+Sad to say, there are thousands of businesses that are now exposed.
+The software houses that hung their hats on the VM operating system, unable to believe that IBM would really squander one of the tiny handful of software jewels in its crown, and, 10 years ago, about the only operating system anywhere that offered the complete answer to the threat from Unix.
+The software houses that have been slow to see the way the wind was blowing and have hardly started recasting their applications for Unix.
+The software houses that believed all the hot air about AD/Cycle, the Repository and SystemView and eagerly signed on the dotted line.
+And all the hardware and systems companies that have made a precarious living gathering up the crumbs under IBM's table.
+Bull
+Amdahl Corp, Fujitsu Ltd and Hitachi Ltd are devastatingly exposed to the new perception that the mainframe is dead meat, and Storage Technology Corp and Memorex Telex NV will have their work cut out getting out from under.
+They saw the boom falling, but still have a long way to go to fill the hole that the decline of the mainframe is about to open up.
+And what a time to have to make the transition.
+As the whole of continental Europe is dragged into recession by Germany, all its biggest computer companies bar ICL Plc are confronting a crisis severely aggravated by the giant shadow cast by the down fallen IBM.
+ICL has to say, if asked, that the way out of their present crisis is to have started 10 years ago — 10 years that by steady attrition rather than any headline-grabbing lay-offs have seen ICL's workforce decline to 26,000 — from 31,000 only four years ago.
+As well as— like Hewlett-Packard Co — embracing open systems wholeheartedly, ICL has been able, like HP, to convince users that its proprietary machines are open systems.
+And, as the European manufacturer operating in the only home market where tenders are genuinely open, ICL has succeeded in making itself truly competitive, so much so that insiders are saying that profits for 1992 will be only slightly below the £62.4m recorded for 1991, making it the only profitable mainframer in Europe.
+Having made its Unix hardware choice early, after the same false starts as everyone else, ICL has a stable and convincing Sparc-based product line, and can look on its rivals' plight with interested detachment.
+The contrast across the channel couldn't be more stark.
+Operating in a bleeding French market, Compagnie des Machines Bull SA has a rapidly vanishing mainframe base, personal computer problems that only seem to have been exacerbated by the acquisition of Zenith Data Systems, which looks like a source of profitless volume, and a Unix strategy that is only just getting off the ground.
+And now comes the Armonk bombshell: it is committed to IBM's RS/6000 and PowerPC at a time when everything that bears the IBM name has overnight become tainted.
+Over in Italy, Ing C Olivetti & Co SpA is less directly affected by the abrupt change in status of all things IBM — it only markets Hitachi's plug-compatible mainframes, but it has so many other problems that that is little compensation.
+Siemens Nixdorf
+It has pinned its future to first the Zilog Inc Z8000, then the Motorola Inc 68000, then the Mips Technologies Inc R-series, before now deciding that Digital Equipment Corp's Alpha RISC is the road to salvation.
+RISC is the right word — DEC may have got everything right first time, but as a third party with a choice, you'd have to be pretty desperate to bet the shop on it.
+But even the problems of these companies seem to pale into insignificance compared with those of Siemens Nixdorf Informationssysteme AG.
+We have been warning ever since the company was formed of the accident at the heart of the company waiting to happen: now IBM's signalling of the death of the mainframe coincides with the German economy heading into the same kind of structural — rather than cyclical — recession that is busy laying waste to IBM itself.
+Siemens has always modelled its mainframe business so closely on that if IBM that it seems inevitable that the growing antipathy towards IBM's mainframes would rub off on Siemens customers even without the prospect of something approaching depression in Germany: the coincidence of the two strongly implies that once the company finally and painfully gets the ravaged Nixdorf side of the house straight, it will have to repeat the process all over again on the Siemens side.
+No wonder no-one at Siemens Nixdorf wants to hazard when the company might return to profit.
+And Cap Gemini Sogeti SA is already suffering from the fact that so much of its own and Hoskyns Group Plc's business is done in the IBM mainframe world.
+Apple
+Back across the Atlantic, can Apple Computer Inc escape the taint that threatens to stain most of IBM's other partners?
+It is a worrying time for the Cupertino company, but it probably can come through more or less unscathed, simply because people buy Apple kit not for the underlying technology but for what's on top of it, so provided a happy marriage can be arranged between the PowerPC hardware and Apple's software, and the thing ends up looking to the user like a Macintosh that is simply faster, more powerful, more easy to use and in all ways better than the 68040-based models, Apple should be able to scrape through — and there is still a Motorola Inc 68060 in the pipeline that Apple can fall back on if everything in the IBM relationship goes awry.
+But as well as all the companies — and there is a host of Cambex Corps and IPL Systems Incs just under the tall poppies of the IBM marketplace, there are thousands and thousands of individuals who must now feel devalued in a deeply demoralising way, people that have made it their life's work to understand everything there is to know and understand about IBM and its mainframe products, who now find that all that hard-won knowledge is a rapidly wasting asset — not just industry commentators and pundits who will soon find that the market can't bear any more ‘Into the Big Blue Yonder: the Decline and Fall of an American Icon’ books, but an unsung army of data processing managers who now feel they are too old to start again and learn something new and fundamentally different virtually from scratch, and will instead sink back into the  anonymity of early retirement.
+We have been known to describe major launches as ‘IBM announcing the end of the world as we know it’: this time, that really is what the company has announced.
+OPUS IN CHAPTER 11, CLAIMS REORGANISATION PLAN IS WORKING
+Opus Systems Inc, Fremont, California, the Sparc clone pioneer that's been struggling to keep its head above water for a long time, filed for Chapter 11 bankruptcy protection earlier this month, claiming it shouldn't need the court's protection after February 11.
+It attributes the speedy exit to having its reorganisation plan in order and the cooperation of its creditors who are apparently agreed on a collections moratorium.
+Opus, now down to 20 employees, is straddled with the liabilities run up during its spoiled foray into Sparc-based workstations.
+Last Autumn it gave up all pretence of continuing on in the business and sold off its Personal Mainframe hardware interests to clone newcomer Digital Systems Research (UX No 407).
+Opus aims to soldier on with its SparcCard add-in business and says it will have the software and follow-on hardware coming out that it promised long ago.
+Digital Systems, a government contractor, has yet to explain how t will succeed where Opus failed.
+INTERGRAPH ENHANCES ITS C400 CLIPPER-BASED LINES
+Intergraph Corp, Huntsville, Alabama has wheeled out new families of its computer-aided design, manufacturing and engineering workstations and servers based on the forgotten RISC, its C400 Clipper.
+The families are the Series 2700, Series 6700 and Series 6800 workstations and servers, and, as reported, they will support Microsoft Corp's Windows NT as well as Unix — presumed to be Unix System V.3.2 — the company has still not made good on its promise to offer OSF/1.
+The Series 6800 is claimed to deliver overall estimated performance of 65.6 SPECfp92, 36.1 SPECint92 and 67.2 SPECmark89, while the Series 2700 and 6700 deliver overall performance of 35.8 SPECfp92, 24.5 SPECint92 and 40.1 SPECmark89.
+The company claims that the new machines at least double graphics performance on Intergraph applications; the Series 2700 and 6700 will be available this quarter and the Series 6800 in the second quarter.
+Prices for fully configured workstations range from $14,900 to more than $50,000.
+Server prices range from $12,500 to $70,000.
+Intergraph also claims that its new 2 Megapixel colour monitor is the first affordable 21″ display, put does not put a price on it.
+The non-interlaced monitor offers 76Hz refresh rate, 0.26-mm dot pitch and antiglare and reflectance and antistatic technology.
+The standard workstation for all series has 32Mb main memory and a 256-colour 19″ or 21″ monitor.
+The Series 2700 has a 426Mb 3.5″ disk, the Series 6700 and 6800 have 1Gb 3.5″ disk in standard configuration.
+IBM UK JOINS PARENT's CHORUS OF WOE: £616m LOSS
+No sooner had IBM Corp announced a grotesque $5,463m net loss for the fourth quarter, which included a first ever operating loss of $45m or eight cents a share, than IBM UK Ltd chipped in with figures that were relatively even worse than those of its parent.
+IBM UK, which does not normally report until a month or more after its parent, presumably thought it would be best to get all the bad news out of the way at the same time.
+It made a pre-tax operating loss of £398m, and restructuring took another £218m for a total pre-tax loss of £616m, up from a loss last time of £124m; turnover fell 6% to £3,751m; domestic sales and exports were each off 6% at £1,606m and £2,145m.
+The company shed almost 1,000 employees during the year, leaving it with 13,934.
+Chairman Sir Tony Cleaver complains that unusually, reductions in product costs were unable to keep pace with price trends in the market.
+Worldwide, only the RS/6000 did more business in the fourth quarter 1992 than 1991.
+IBM says it expects sales and general administrative expenses to decline by about $1,000m this year through its restructuring efforts.
+MICROSOFT SEEKS UNIX MAIL PARTNERS
+Hewlett-Packard Co is amongst Unix vendors Microsoft Corp has approached to help it develop a Unix version of Microsoft Mail: Microsoft expects Mail could be running under Open Look and Motif by year-end, though observers are sceptical given that a promised OS/2 Presentation Manager version has yet to appear.
+SEQUENT NT BOXES BUILT BY TRICORD
+Unix vendor Sequent Computer Systems Inc last week announced details of a new line of symmetric multprocessing systems running Microsoft Corp's Windows NT operating system which will come in at the low-end of its product range.
+The WinServer boxes will ship with up to six 50MHz Intel Corp 80486 parts until 60MHz Pentiums become generally available — volume deliveries of WinServers aren't expected until the fourth quarter.
+As predicted (UX No 418), the machines are to be manufactured by Minneapolis, Minnesota-based Tricord Systems Inc which will offer them as its K2 series, though Sequent has exclusive distribution rights for NT versions of the systems, which will ship with a ‘Sequent skin.’
+Sequent has re-engineered NT's Hardware Abstraction Layer (HAL) specifically for the WinServer, copies of which will only be available from the Beaverton, Oregon-based company.
+Sequent says its multiprocessing implementation of NT will deliver linear performance increases as the CPU count rises.
+In its original form NT could only support up to three processors, Sequent says, and was not a scalable.
+NT now also incorporates parallelism in its communications subsystem thanks to the work Sequent did on adding parallel streams — the ability to have multiple processors running in one stream — to Unix.
+Microsoft decided NT needed the same functionality and implemented Sequent's techniques.
+Sequent is pitching the systems as commodity departmental servers which will come in alongside and below the low-end of its existing Intel-based Unix multiprocessor Symmetrys.
+WinServers are expected to sell for an average of £40,000 to £50,000 in the UK — prices aren't available until the systems are ready to ship — and will be offered with Oracle 7.0, Microsoft SQL Server and other database options.
+Sequent is currently looking for volume outlets for WinServer in the US and Europe.
+Networking
+Sequent believes the long term success of NT hinges on its support for client/server protocols and the ability to bring personal computer users on to the network.
+The problem is that most local area network users have Novell Inc NetWare-based set-ups.
+NT, meanwhile, incorporates interfaces to Microsoft's own LAN Manager (which also embraces AppleTalk).
+Sequent suggests giving away LAN Manager with NT as one option for Microsoft to get to bring personal computer users over to its networking solution and therefore to NT.
+Given its dual-operating system strategy, Sequent is also hoping for increased Unix-to-NT interoperability, but says if the Architecture Neutral Distribution Format technologies now under development come to fruition, then it should be able to produce executable software for Unix and NT.
+Unix
+Around July time Sequent will release, for its Symmetry servers, the version of Unix SVR4 ES/MP that it worked on for Unix System Labs and has been sitting on since completion last March.
+In the intervening months, SL has been adding user-level threads and features of the SVR4.2 Destiny desktop to what will eventually emerge as Unix SVR4.3 or like (UX No 397).
+Sequent says it'll add the user-level threads but won't touch desktop features which require things like VGA monitor drivers.
+Sequent's clustering solution, using the client/server transaction processing software from Oakland, California firm Forte Software Inc (UX No 409), will be available in April.
+IBM FORMS FIREWORKS MULTIMEDIA UNIT
+Meanwhile, IBM has formed Fireworks Partners as a separate unit to foster worldwide development and deployment of advanced multimedia applications and services for the commercial and consumer markets within IBM Personal Systems.
+Fireworks is chartered to co-ordinate varied but related businesses to ensure early marketing of leading-edge multimedia systems; create joint ventures and alliances with other firms; put up initial funding for promising, pioneering multimedia services under development by entrepreneurs outside IBM; and take responsibility for IBM's worldwide multimedia marketing strategy and co-ordinate it across lines of business.
+It includes IBM's multimedia development and marketing organisation in Atlanta, Georgia, and will oversee IBM's Multimedia Publishing Studio and Kiosk Solutions, and will manage IBM's involvement in Kaleida Labs, HomeView Reality Search Services and NBC Desktop News joint ventures.
+It is based in Somers, New York.
+OPEN LETTER TELLS IBM ‘SACK THE MANAGEMENT’
+IBM will be roundly lambasted next month when both Upside, the Silicon Valley insiders' publication, and the prestigious New York Times Magazine print ‘An Open Letter to the IBM Board of Directors’ by two consultants who are also co-authors of the new book Computer Wars: How the West Can Win In a Post-IBM World (UX No 419).
+The letter shrilly screams at IBM to come out of its catatonic  stupor and save itself BEFORE IT'S TOO LATE.
+It blames current top management and the board itself for not understanding how bad the problems are or knowing how to solve them.
+Authors Charles Ferguson and Charles Morris paint a dismal picture of the company's record across-the-board since the 1970s and presage a painful decline leading to a disaster of enormous proportions that will drag down with it IBM stockholders, employees, suppliers, the US computer industry at large and the nation as a whole.
+It ticks off a litany of mistakes from its dependence on mainframes through to the conscious suppression of RISC technology and the grotesque series of blunders by which it handed over control of PCs to Intel and Microsoft.
+The absence of any viable or constructive action by IBM in the face of impending doom leads the authors to conclude that ‘a collapse equivalent to those experienced by Wang, Control Data or Prime is not at all improbable.’
+To avoid such a catastrophe they offer IBM a 12 point set of minimum recommendations, which include replacing the present leadership with ‘technically current’ managers and board members raided from younger companies, be tougher on salaries and golden handshakes, slow investment on traditional systems, give its semiconductor business complete perestroika, stop losing money on PCs or stop making them, and commercialise more of its research.
+Current business and strategy proposals are far too simplistic, say the authors — IBM must cannibalize its products, migrate user to micros and develop new architectures around PowerPC and Intel chip, porting the software systems and applications that are still competitive to new hardware and operating systems.
+Its core software is obsolete; a new development effort is imperative.
+UNIX INTERNATIONAL MEMBERSHIP MULLS USL/NOVELL ACQUISITION
+All the US, European and Japanese companies belonging to Unix International's executive committee, together with UI general and associate member representatives such as Data General, Locus, Unisoft and Informix placed a 90-minute conference call to the top executives of Unix System Laboratories the week before last to discuss the implications of USL's pending acquisition by Novell.
+They wanted assurances that Novell is not about to kidnap Unix.
+They are said to be generally positive to the takeover but still need to achieve certain comfort levels.
+Notably, Novell was not a party to the call.
+However, the companies were reportedly assured that UI's 1993 programme would continue, along with its input on requirements, early access, licensing and conformance and its work in promoting and marketing Unix.
+The companies were ‘clear and strong’ in their insistence on having a vendor-neutral group, according to UI chief Peter Cunningham.
+He was not absolutely definite that this group would have to be UI.
+However, apparently as a result, UI's 1988 charter will be rewritten to recognize the change in USL ownership and Novell will be asked to formally reaffirm the principles and specifics of architecture and vendor neutrality it contains.
+Cunningham said the work would be done as soon as possible and that there would talks with Novell in the next month or two.
+They are looking to get agreement before the acquisition closes, an event expected by the end of the quarter.
+Cunningham said his members are adamant about having input into system software and ensuring that it integrates with other operating environments such as Windows NT, Taligent and OS/2.
+The companies are also concerned that a vendor-neutral entity have ‘ownership of source interface and binary interface specifications,’ he said.
+This will not mean replacing X/Open, and it will mean working more closely with the Open Software Foundation.
+Cunningham claims the critical interest of the industry is now focused on commoditisation and the amortization of investment.
+Unix must be leveraged into a volume player attractive to ISVs and he believes the generic Unix brand UI recently proposed is part of the answer (UX No 415).
+How OSF fits into this picture remains to be seen.
+PROGRESS VERSION 7 ‘INCOMPATIBLE WITH VERSION 6’
+Bedford, Massachusetts-based Progress Software Corp says a development release of its Progress version 7 database and toolset will be out in the third quarter of this year.
+A general release is scheduled for the end of the year on IBM, HP, Sun and Sequent kit.
+ICL plc wants Progress version 7 up on its DRS6000 boxes, but has yet to prove its business case, the company says.
+Version 7, however, is incompatible with the current version 6 release, the firm admits.
+Ab van Marion, director of Progress' European operations, admitted that Progress version 6 users will have to rewrite their applications for version 7.
+Van Marion expects sales of its Unix product line to fall over the next year or so.
+60% of the Progress' revenue is currently derived from Unix sales: he anticipates sales of Progress on proprietary operating systems to increase, and a port to Hewlett Packard Co's proprietary MPE-based 3000 systems is planned for the first quarter of 1994.
+The company also said it will up its 50% stake in Burlington, Massachusetts-based Object Design Inc, depending on the success of the object-oriented products currently under joint development.
+OBJECT GROUP SEEKS CORBA EXTENSIONS
+The Object Management Group is inching its Common Object Request Broker Architecture (CORBA) along with requests for documentation on extensions to CORBA and data on establishing interface definition language (IDL) mapping for C++ in the broker mechanism.
+Extensions to CORBA for which OMG is seeking information include repository application programming interfaces, additional language bindings or object adapters extensions additions to core Object Request Broker functionality in the areas of support for transactions and concurrency generation.
+The goal of standardising on an IDL mapping for C++ is to support interoperability between applications written in different languages but supporting OMG's IDL.
+OMG: +1 508 820 4300.
+SUNSELECT CUTS PC EMULATION PRICES
+SunSelect halved prices on its SunPC emulation software last week and reduced tags on its hardware accelerator kits between 9% and 20%.
+The reductions, it claims, make it the price leader for PC emulation products.
+The Sun planet also unveiled Version 3.1 of SunPC which permits workstation users to access Novell Inc NetWare servers as well as NFS systems.
+SunPC 3.1 includes expanded support for X Window System managers like Motif and supports a simplified licensing mechanism.
+It will be available the end of next month.
+NOW SUN PICKS UP XYLOGICS' ANNEX TERMINAL SERVERS
+Encore Computer Corp must be wondering whether it did the right thing in selling the Annex server product line to Xylogics Inc.
+The Burlington, Massachusetts company already has OEM agreements on the things from ICL Plc, Siemens Nixdorf Informationssysteme AG, NCR Corp, Sequent Computer Systems Inc, Intergraph Corp and Unisys Corp, and now Sun Microsystems Inc has joined the party.
+Its Sun Microsystems Computer Corp unit last week announced the Network Terminal Server, which enables 64 terminals or other serial peripheral devices to to be connected ‘easily and economically’ anywhere on a Unix host-based local area network.
+The Network Terminal Server can be connected to any Sun server, including the new Sparccenter 2000, Sparcserver 10 and Sparcserver 600MP.
+Multiple Network Terminal Servers can be integrated into one network: each has 64 serial ports and one parallel port per unit, and the thing can be managed by SunNet Manager.
+It offers network security through data encryption, audit trails and user password, and TCP/IP support enables simultaneous connection to multiple systems with a variety of network protocols.
+Serial Line Internet Protocol and Compressed SLIP support remote personal computers and X Window System terminals.
+Sun will begin ships next month at $7,000.
+Until a year ago, Xylogics used the National Semiconductor Corp NS32000 microprocessor family in the Annex servers that are the subject of the deal with Sun, but it then switched to the Intel Corp 80376, which is the embedded version of the 80386.
+It says it may switch to a RISC microprocessor in future iterations of what is becoming an extremely popular product on the OEM market.
+USL ‘NOT PLANNING TO ADOPT MACH 3’
+Unix System Labs says Computer Reseller News was ‘looking way beyond its headlights — or ours’ last week when it said USL may adopt all or part of the Open Software Foundation's Mach 3 microkernel.
+Apparently there have been at least  internal discussions of someday perhaps blending parts of the opposing OSF-USL technologies but it is currently ‘not part of any strategy on paper or on any timeline.’
+Reportedly no decision of what direction to take has been made, nor is any apparently pending for an operating system not due until 1994–95.
+…
+BUT SETS BELLS RINGING
+The idea, nevertheless, is an interesting one, given that Novell Inc is believed by some quarters to be determined to end the division of the Unix world into rival camps.
+Such a move could provide the mechanism for Digital Equipment Corp, Hewlett-Packard Co and IBM Corp to extricate themselves from OSF's seemingly doomed operating system effort which they have each supported to the tune of tens of millions of dollars.
+IBM, for example, has already decided to adopt Mach 3 to go under not only AIX Unix, but also under OS/2 with its Workplace Shell, and under the Taligent operating system it is developing with Apple Computer Inc, and demonstrated OS/2, AIX, Windows and MS-DOS applications running on the microkernel at Comdex/Fall.
+A move to the Mach 3 microkernel by USL would mean that UnixWare and the various implementations of Unix System V would run native on the IBM Corp RS/6000 and PowerPC and Digital Equipment Corp's Alpha, on IBM mainframes, and on the machines of all other vendors voting the OSFi ticket.
+OSF added fuel to the fire by advising the US trade weekly that it is ‘very close to Novell’.
+UNISYS ADDS U 6000 SERVERS
+Before its other Pentium-ready systems — see front page — Unisys Corp will this week announce three new additions to its U 6000/35 Unix server line based on Intel's 66MHz 486DX2 chip, expected to enhance the old 33MHz box as a workgroup or departmental LAN server and as a distributed server node in an enterprise-wide OLTP network.
+It says it's got a maximum 43% improvement on multitasking user loads.
+The six-slot boxes are immediately available with 16Mb RAM expandable to 64Mb, a 150Mb quarter-inch cartridge tape drive and 5.25″ drive at $11,700 for the D66 with a 240Mb hard drive, $12,200 for the E66 with 425Mb hard drive and $10,100 for the F66 with disk select option.
+With an optional mass storage subsystem the box can go to 44Gb total storage with a dual SCSI-2 I/O processor.
+U 6000/35 upgrades come this quarter.
+…
+BACK FROM THE DEAD — SEES STRONG GROWTH
+It's not all bad news on the financial pages.
+Unisys Corp reports a strong gain in earnings for the fourth quarter and full year 1993, and says it hopes to see ‘significant earnings growth in 1993’.
+Net income for the year ending December 31 1992 was $361.2 million, compared with a $1.4 billion loss last year.
+Revenue was down slightly from $8.70 billion to $8.57 billion.
+Fourth quarter income was $139.2 million, up from $80.5 million last year.
+The company says that renewed customer and supplier confidence, aggressive asset management, reduction of debt by nearly $800m to $2.5 billion and increased software and services revenues all played a part in the reversal of fortunes.
+Both mainframe lines — the A Series and 2200 Series — saw double digit growth over 1991, while Unix revenues grew at nearly double the  mainframe growth rate.
+New Unix, CTOS and PC hardware is promised this year.
+HP US TRADE-IN PROGRAMME
+Hewlett-Packard Co has swung back on the offensive in the US with a predatory enhanced workstation trade-in programme, which it says accepts the broadest range of workstations, personal computers and X terminals in part exchange for new Precision Architecture RISC workstations and X stations.
+The new TradeUp ‘93 programme will run for the full year and accepts units from Sun Microsystems Inc, Digital Equipment Corp, IBM Corp, Silicon Graphics Inc, Apple Computer Inc and 80386 and 80486-based personal computers for up to 30% off the price of eligible Hewlett-Packard systems.
+It also offers users the option to trade up to HP 700/RX stations or to add X terminals to their networks, and is claimed to be the only industry programme to o so.
+It also applies discounts to the cost of expanded memory, mass-storage devices and layered Hewlett-Packard software.
+It also applies to Hewlett-Packard's own old non-RISC and Apollo systems and does not require that customers trade in a minimum number of systems.
+TEXAS INSTRUMENTS APPROACHES 100,000 MARK FOR SUPERSPARC
+Texas Instruments Inc had produced a  cumulative total of over 70,000 SuperSparc, aka Viking, chips by the end of last year, the company told Unigram.X last week.
+These, it says, were all 36MHz and 40MHz types.
+The three production sites (two in Texas, one in Japan) doing three shifts a day, will pass the 100,000 mark this quarter.
+10,000 or so were 40MHz parts, it swears.
+With increased availability, pricing has dropped to a street price of $999 apiece for the 36MHz and $1,399 apiece for the 40MHz in quantities of 1,000 — quite different from the $1,900 price it gave The Microprocessor Report for the 40MHz back in December (UX No 419).
+TI blames itself for telling the newsletter that that would be the ‘average price for 1993’ because it forgot to factor in the industry practice of constantly repricing in the face of better yields.
+Of course TI is also discounting and will consider purchases of Tsunami and other chips in coming to final prices.
+Lead times are now 14 to 16 weeks, and TI has zero product on the shelf.
+The company claims to be servicing a growing percentage of other customers besides Sun and the companies on the Sparc International executive committee, used for parallelism, high-end superservers and  embedded implementations as well as workstations and servers.
+The ‘real’ Viking, of course, was intended to be a 50MHz part.
+TI says it has switched to a 0.7-micron process from 0.8, and will be analysing product from every angle before it makes any declarations as to what it's really getting.
+It's projecting speeds of 40MHz to 50MHz.
+Samples should be out late this month or early next.
+It suspects that although the Viking isn't the so-called performance leader, the volumes it's producing are higher than at Hewlett Packard.
+Meanwhile, TI produced between 10,000 and 20,000 Tsunamis by the end of the year.
+It expects to double output in Q1.
+INTEL PLANS NEW 80486s, CUTS TAGS
+Intel Corp plans to cut prices on its 80486 microprocessors, unveil 25 new variants of its current flagship, and make capital investments totalling $1,600m this year, up from $1,400m in 1992, company president Andrew Grove told the Wall Street Journal.
+Research and development will absorb another $900m this year, up from $800m.
+Others at the company say that the company has the capacity to make 30m 80486s this year, up from capacity of 15m in 1992.
+Grove also said that Pentium was on schedule to be introduced at the end of March and that it will be ‘aggressively’ priced.
+Grove didn't say anything about Pentium supplies, but last week, a Dean Witter analyst called Intel and got it to admit that customers for the chip will be on severe allocation.
+Intel said it was expecting to deliver Pentiums in the low hundreds of thousands this year, not the million or more anticipated.
+Microsoft Corp says its projected sales of 1m copies of NT the first 12 months of sales are not highly dependent on Pentium.
+HP AND AMD TEAM ON 0.35 MICRON CMOS
+The cost of developing new generations of chip technology are so high that collaboration is increasingly the order of the day, and Advanced Micro Devices Inc and Hewlett-Packard Co have decided to join forces on the development of logic process technology to enable the production of microprocessors with 5m to 10m transistors on a single chip by 1995.
+The two will develop and qualify a general-purpose 0.35-micron CMOS technology by the end of 1994 for volume production the following year, which will involve shrinking the smallest feature sizes on logic chips by more than two times and increase the layers of metal interconnect, increasing the number of transistors that can be integrated on logic devices by a factor of 10 compared with products such as current-generation Am386 devices and Hewlett-Packard's 99MHz Precision Architecture RISC — the Am386 devices are manufactured in 0.8-micron technology.
+Advanced Micro says a number of its personnel will be assigned to work on a full-time basis at Hewlett-Packard's Deer Creek Research and Development Facility in Palo Alto, California over the next two years, although some tasks associated with the project will be handled at Advanced Micro's Submicron Development Centre in Sunnyvale.
+Products will be manufactured at Advanced Micro's previously announced sub-0.5-micron facility which is being built in Austin, Texas.
+NCR LIFEKEEPER FRS OFFERS FAULT RESILIENCE IN MID-RANGE
+NCR Corp has long been interested in offering a high degree of fault-tolerance on its computers, and its final line of mainframes, the 9800s, were claimed to be  fault-tolerant .
+The company has now turned its attention to its mid-range Intel Corp 80486-based multiprocessors with Life Keeper FRS, a set of software, services and tools designed to bring fault resiliency, or ‘near fault-tolerance’ to the line.
+NCR says Life Keeper FRS offers increased availability and provides automatic failure detection and recovery from system, application and even component failures.
+It is pitched at users in the hotel and air reservation business, operators of emergency 911 service, keepers of on-line medical records, and automatic teller machine operators, as well as telecommunications operators and retailers.
+Automatic recovery is accomplished using customer-tailorable standard recovery scripts available for major databases and for major communication interfaces — TCP/IP, Open Systems Interconnection, X25, SNA and Datakit.
+There is no redundancy: all systems in a configuration can be active — linking multiple NCR System 3000s so that one system might run a mission-critical application while a second runs lower-priority tasks.
+NCR's LifeKeeper FRS Clusters, for second half 1993, will introduce the ability to cluster multiple systems, offering a single database and Unix file system image.
+Prices go from $6,000 to $30,000, next quarter.
+AMALGAMATED SOFTWARE DEVELOPING MAINFRAME-LIKE DATABASE FOR UNIX, NT
+Big Bear Lake, California-based Amalgamated Software of North America Inc has announced DataGate, a database management system, for high volume data processing applications, which runs under Unix and Microsoft Corp Windows NT.
+Amalgamated Software claims it is the first product to incorporate more than one method of data processing in a single system.
+It says DataGate will be able to handle the kind of numeric-intensive tasks typically tackled by traditional mainframes, but on a Unix or Windows NT server — maintaining mainframe-like data security and integrity features.
+According to the company, standard relational databases running under Unix can process data only in one way, using Structured Query Language.
+Amalgamated Software's president, Anne Ferguson explains that because relational databases are slow in processing intensive amounts of data, they are best suited for low volume transaction processing and ad hoc queries.
+Using SQL for high volume transactions inflicts unnecessary bottlenecks in the system when high volume transactions need to be processed, the company said.
+The product is claimed to process data in four different ways, by using indexing files; physical files, logical files and SQL.
+A user can choose one or more methods of processing information.
+DataGate conforms to Microsoft's Open Database Connectivity and SQL Access Group specifications, which enables users to communicate with standard relational databases.
+It also links application programs, compilers, system software and file access in one package.
+The company is currently looking for independent software vendors to develop add-on SQL applications, report writers, file editors and software engineering toolkits for DataGate.
+DataGate will initially be available on IBM Corp's RS/6000s and is scheduled for release September — no prices are available.
+LDS HAS NEW PC-TO-UNIX TOOL
+Lenexa, Kansas-based LDS Inc says that almost any personal computer connected via serial hardware can transfer files and other data between any popular Unix-type system using EMPath, its new communications package.
+With a user-defined hot key, EmPath supports switching from MS-DOS to Unix and back from the MS-DOS prompt without exiting applications running under either.
+It also lets MS-DOS users connect with two separate Unix-type operating systems and have both on line simultaneously.
+Up to eight different logical sessions at each of two remote Unix sources can be accessed.
+It enables MS-DOS files to be copied to Unix and vice versa and enables Unix files to be printed by a printer connected to MS-DOS.
+AVIION ECLIPSES MV AT DATA GENERAL
+While Data General Corp made a net loss of $63 million for fiscal 1992, the company maintains that it has been through the worst in its transition from proprietary to open systems, and is now seeing considerable growth in demand for its high-end multiprocessor AViiON servers.
+First quarter results, while down a drastic 80% compared with the same quarter last year, at least showed a profit of $0.8 million, notching up DG's second profitable quarter in a row and making six profitable quarters out of the last eight.
+A further 1,400 jobs were cut last year, bringing the total headcount down to 7,100, down from a peak of 17,700 in 1984.
+A significant milestone has been that product revenues for the AViiON line finally surpassed those of the proprietary Eclipse MV products.
+In 1992, AViiON revenues exceeded $300m, a 43% increase over 1991.
+MV revenues decreased 42%, compared to a 17% decrease between 1990 and 1991.
+It means that — aside from service revenues — DG is now more dependent on open systems than proprietary business.
+In the UK, where DG has just re-vamped its sales channels (see below), AViiONs now outsell Eclipse systems by 5 to 1.
+DG claims significant demand for its top-end 4 and 8-way Motorola 88100 servers, and says it is selling one of its CLARiiON RAID disc storage sub-systems with just about every 8-way machine that goes out the door.
+The company remains tight-lipped about the launch date for its long-awaited 88110 upgrades to the AViiONs, which it apparently has ready to go in the Labs.
+It also has some integration work underway designed to tie-in its servers more closely with workstations from NeXT Computer, following the reseller agreement it announced last year.
+DG UK SIGNS TECHNOLOGY PLC AS DISTRIBUTOR
+Data General Ltd in the UK has signed up ICL-owned distributor Technology plc of Warrington, Cheshire as its first ever UK distributor for the AViiON and CLARiiON product lines.
+IT hopes to persuade its 80 VARs to work through Technology in future, though insists there will be ‘no arm twisting’.
+John Coon, DG's UK marketing manager, says Technology will be better able to cope with support, and also has a large stock of peripherals on hand.
+Although IBM and DEC withdrew their products from Technology following its acquisition by ICL, Coon says that Technology has convinced him that it will not cross sell or give away DG's secrets to its competitors.
+The company has also established a Select Partners programme on the UK for the AViiON range, signing up four specialist resellers, ACT Network Si, BLCMP Library Services Ltd, Trinity Computer Services and Weir Systems.
+Four more will be announced over the next few months.
+Birmingham-based ACT and Computer Profiles Ltd of Coventry will also act as CLARiiON Select partners.
+PRE-SHOW UNIFORUM EXECUTIVE CONFERENCE
+Uniforum has scheduled what it's calling a Uniforum Executive Conference for March 15–16, just prior to the opening of the Uniforum show.
+It calls the new meeting an intense strategy session showcasing real-life business solutions achieved with client-server computing.
+The programme, chaired by Nina Lytton of Open Systems Advisor, will be targeted at chief executive officers, vice presidents, directors of information, senior planners and technology architects as a reality check.
+It will be held at the ANA Hotel in San Francisco across from the Moscone Center.
+Registration is $1,200.
+Concurrently, it's scheduled the Uniforum Technology Managers' Conference at the San Francisco Marriott to explore actionable issues, products, technologies and trends in emerging application development areas in conjunction with Judith Hurwitz of The Hurwitz Group.
+Registration is $800.
+Call +1 708 260–9700
+SHRINK-WRAPPED SELL-OUT?
+UNIX SYSTEM LABS REPLIES
+Letter from USL
+Dear Sir Shame on (You) nigram!
+In your recent coverage of Novell's letter of intent to purchase Unix System Laboratories you've really missed the mark.
+Like so many others in the Unix community I look forward to reading Unigram.X every week.
+But in the Novell/USL transaction there are myriad specific details being worked through in a definitive agreement that would simply be inappropriate to discuss publicly.
+This process will not likely be completed until March.
+At that time there will be a number of things we will disclose to clarify how USL will be structured to assure the continuation of a business model that provides vendor-neutrality and equal access to the Unix Operating System, as well as other technologies.
+Analyst, Harley Hahn, has fabricated some ominous scenarios suggesting the demise of the open systems philosophy and business model that are the cornerstone of the Unix System.
+He said, ‘What's good for NetWare may not be good for Unix…(and) Novell has no compelling reason to keep paying for the fuel that burns in the Unix flame.’
+He quoted me in the same paragraph, but somehow omitted some key words about the commitment of both Novell and USL to preserving the business model by which USL serves its licensees.
+He conjures up visions of conflict of interest saying,’…somewhere down the road the interests of Novell will not coincide with the Unix world at large.
+It is unrealistic to expect Novell to spend money to develop Unix for the good of everybody at the expense of their own company.’
+It appears that Harley has a special mirror enabling him to see clearly into the future.
+He apparently sees Novell as the Grinch who will steal open systems.
+I suggest that the mirror has severe distortions, and perhaps Harley is seeing things grossly out of proportion.
+In a paragraph entitled New Opportunities, Harley warns, ‘The many Unix VAR's and resellers should probably be more concerned with the loss of a stable, independent source for Unix than an imaginary NT monster (and) it would be prudent for those Unix vendors who have not already made the switch to take a strong look at OSF.’
+Again, Harley is so convinced of his predicted outcome that he feels compelled to chase VARs away, as well.
+Fortunately for us all, most VARs are sharp enough to make independent business decisions.
+Those VARs and ISVs I have talked to, view the combination of USL and Novell as a very positive move that allows them to more effectively address the total enterprise.
+If this is true, then their marketplace is about to get a lot bigger.
+Harley would have them jump ship just as it's pulling into the dock.
+And finally, Harley paints USL as a financial troubled operation saying, ‘The financial results for USL seem to indicate that supplying System V to the world is not a good way to make money.
+If so, there is no reason to expect Novell to keep subsidizing Unix out of altruism.’
+The fact is, USL's total revenues for 1992 were about $90m and we even made a bit of a profit.
+Perfect combination
+Hey Harley, we're actually quite proud of what USL has achieved in less than two years as a privately-held company.
+USL has been courted by other attractive suitors, and has been on track to an initial public offering.
+Either alternative would have worked, but we believe that aligning with Novell in the proposed merger is the best way to go.
+It is the perfect combination of complementary technologies, business philosophies, and inherent abilities to meet customer needs.
+You're right Harley, there is nothing altruistic in the motivations of either Novell or USL.
+We have this insatiable drive to be successful in the markets we serve.
+We are convinced that those people you mention who depend on Unix (and NetWare) for their living will find this to be a very satisfying and profitable combination.
+Many of the issues you raise are important, and are being addressed.
+My immediate concern is that the tone of your coverage was very negative, speculative, and highly opinionated.
+If the intent was to provide a lengthy editorial and a persuasive argument for abandoning the Unix System, it was a credible effort.
+If the intent was to present objective journalistic coverage of an important event, with some semblance of balance and perspective, the mark was badly missed.
+While we cannot provide the details you might want at this time, I'd encourage you to give us the benefit of the doubt.
+I predict you'll find that we are not insensitive to the needs of our licensees, or to the culture that made open systems a reality; neither Roel Pieper nor Ray Noorda are Grinches; and the Unix System, as a result of this merger, will be stronger than ever.
+Larry Lytle, Unix System Laboratories, Inc.
+RISC SYSTEM REVENUES UP 45%
+The latest issue of RISC Management says RISC systems revenues rose 45% last year to $17.5b.
+Hewlett-Packard Co's PA-RISC architecture retained its leadership position and $1bn lead over the runner-up, Sun Microsystems Inc's Sparc.
+It was surprised by ps Technologies Inc's showing, considering the collapse of the ACE Initiative and its merge with Silicon Graphics Inc: Mips revenues decisively recaptured third place from IBM's Power architecture.
+The newsletter rates HP the leading Unix vendor last year and expects it to consolidate its position this year with at least the 40% revenue increase it got last year on an 80% increase in shipped units.
+This year HP should benefit from users fleeing IBM.
+It gives IBM little chance of achieving its stated goal of becoming the Unix workstation and server leader by the end of next year.
+4.1 MILLION MERCHANT RISCs SHIPPED
+Meanwhile, shipments of merchant RISC architecture microprocessors reached 4.1m in 1992, up from 1.4m in 1991, according to the newsletter.
+Most were delivered in embedded systems and over half those shipped were Intel Corp i960s, thanks to the Hewlett-Packard Co LaserJet IV printer design win.
+The newsletter predicts shipments of the Mips Technologies Inc RISC will exceed those of Sun Microsystems Inc's Sparc this year.
+Of the 4.1m merchant RISCs shipped last year, 51.1% were i960s, 20.7% AMD 29000s, 7.8% Sparc, 7.1% Mips, 6.8% transputers, 3.4% ARM, 1.7% i860 and 1.5% 88100.
+Cumulative shipments of the various merchant RISCs are as follows:
+DIVISION PUSHES BACK THE FRONTIERS WITH PROVISION 100 VIRTUAL REALITY STATION
+In the UK, Almondsbury, Bristol-based virtual reality system developer Division Ltd has launched the ProVision 100, a virtual reality workstation for computer-aided design, molecular modelling, interior design and entertainment.
+The ProVision 100 runs under Unix System V and is available in stand-alone or multi-user configurations.
+It can be networked with other workstations including Silicon Graphics Inc Irises and IBM Corp RS/6000 via Ethernet and has what Division claims to be the first purpose-built virtual reality software environment, dVS.
+This is a distributed, object-oriented system in which the different elements of the virtual environment are controlled by autonomous parallel servers, each running on a different CPU.
+It also features acoustic technology from Groveland, California-based Crystal River Engineering Inc, involving high performance signal processors that can localise sounds such as ringing telephones and voices at their visual sources — whether these are moving or still.
+This also models sound reflections off or through the other objects in the virtual world.
+Three Intel Corp 80860s, seven Transputers and a 33MHz 80486 CPU provide the core of the workstation which has between eight and 32Mb of memory.
+It has a 200Mb hard disk, optional SCSI, and 1.44Mb floppy drive.
+It is based on an EISA bus with accelerator boards for three-dimensional graphics, three-dimensional audio, collision detection and peripheral processing.
+A headset; video monitor and keyboard for programming; and three-dimensional mouse are also provided.
+Provision 100 is available in Europe through Division, in Japan from Matsushita Electric Industrial Co and in the US from Redwood, California-based Division Inc, at around £50,000.
+Meantime, Division Ltd is busy working on a number of other projects.
+It is collaborating with the TNO Physics & Electronics Laboratory in the Netherlands on assessing virtual reality for aerospace and military simulation, for example.
+MINIGRAMS
+After reading in Unigram last week about its co-marketing deal with Sun Microsystems Inc for Galaxy (UX No 419), Visix Software Inc called us to ask, ‘What deal?’
+We duly went back to Sun, which claims there is to a deal, just like it said, has been for months and that it is moving lots of product.
+When one or the other figures out what's going on will it please let us know?
+Meanwhile, the Reston, Virginia-based Visix, which reckons it missed the contract IBM awarded to Neuron Data Inc last week by a whisker, is thought to be looking at some alternative ways of marketing Galaxy, including using the Internet as a vehicle.
+Visix is currently recruiting for a UK subsidiary it plans to open in the next two months.
+Robert Youngjohn has been appointed to head up IBM UK's AIX business unit, following the departure of Clive Parminter to Oracle UK.
+There is talk that Ziff Davis' PC Magazine will include a review of a Compaq Pentium system on March 1.
+Unigram (UX No 418) got carried away with itself when it identified AGE Logic's new 32-bit X server as being for Windows NT.
+Silly us.
+It's for Windows 3. x and is the first 32-bit X server software for it, generating a 22% to 76% performance increase over the 16-bit XoftWare, says AGE.
+Meanwhile, AGE has signed Tech Data as a nationwide US distributor of all its XoftWare products.
+DB/Expo ‘93, the fifth in a row, is slated for San Francisco's Moscone Center, May 3–7.
+Bill Gates, Philippe Kahn, Steve Jobs, Larry Ellison, Sybase's Bob Epstein and Apple's Morris Taradalsky are all coming to speak.
+In assessing Windows NT, Unisys Corp has decided the heart of its future direction lies with Unix, its choice for creating open systems solutions.
+Nice to hear.
+Despite its pending acquisition and whatever that holds in store, Unix System Labs says its agreement with Novell Inc means keeping its current business plan intact.
+That means getting beta  versions of its anticipated ES/MP software, SVR4.2 ES/MP for lack of a more official designation, out before summer.
+This is the stuff that, if plans hold true, will be the platform for future developments like a microkernel.
+Sun Microsystems Inc's Intercontinental Division has opened an office in Warsaw to provide local sales, service and marketing support directly to its distributors, VARs and customers in Poland and the Baltic states.
+Transarc Corp, Pittsburgh, Pennsylvania, where IBM is a minority investor, has picked up Mary Patterson as its vice president, development.
+She was previously with IBM and before she left launched a new networking consulting business for IBM North America.
+It is thought that Intel Corp will be introduce an initial Pentium chip as the first member of a family of ‘Pentium technologies,’ see front page.
+It'll be followed by a P54, with seven different members, some possibly sampling this side of 1994.
+The family will include a 100MHz P54c Pentium (compact) done in 0.5 micron technology and P54cm (multi-processor) which will feature a new type of vacancy socket to allow for user upgradable drop-in chips.
+Boston's Integrated Computer Solutions Inc will provide SunSoft Open Look Intrinsics Toolkit (OLIT 3.1) for HP 700s and DEC Alpha AXP workstations to simplify porting applications between the different environments.
+HP and DEC boxes will get direct access to libraries of existing Open Look applications running on Sun systems.
+The single-user price is $525.
+Blue watchers are saying that IBM chief John Akers will be out by March or April and that the company in its infinite wisdom will give the job to one of those retired IBMers it just just brought back from the pasture, probably Kaspar Cassoni.
+Looks as if Lotus Development Corp is being shopped around as a merger partner: according to the Wall Street Journal, Borland International Inc's Philippe Kahn discussed a possible merger with Lotus's Jim Manzi last month, although the talks were inconclusive, and elsewhere Manzi was seen to have been in deep discussions over dinner with Sun Microsystems Inc's Scott McNealy; Lotus of course tried and failed to merge with Novell Inc.
+Novell Inc is halving the price of its NetWare/FleX IP product to $1,000 effective February 1: the thing enables Unix users to connect to printers on NetWare networks, and NetWare users to use printers attached to Unix systems, and provides file transfer protocol, and X Window systems console utility.
+It took some time for all the records to be checked, but it's now agreed that IBM Corp's full year net loss for 1992 of $4,965m goes down in history as the largest corporate loss on record, taking the baton from General Motors Corp.
+Ray Noorda, 67, chief executive of Novell Inc, has given an assurance that he will set in train the process of finding a successor to run the company ‘in the next year’.
+Concern is growing that there is no-one in sight to take over Novell should Noorda become incapacitated.
+Amdahl Corp is restructuring its European operations, putting its Huron applications development and delivery system into a separate business unit headquartered in the UK, and restoring the mainframe operations to their pre-1981 borders.
+Ex-presidential candidate Ross Perot told The Wall Street Journal he didn't mean he would take John Akers' job when he told TV host Larry King that ‘If there's something I could do for IBM, well, I owe them that forever.’
+Apparently he was deluged with calls.
+He says he meant the remark only as an expression of affection.
+The Object Management Group is pleased to point out that the Novell Inc buy-in at Hyperdesk Corp will give it its first Common Object Request Broker Architecture (CORBA) -compliant adherent.
+DEC is struggling to come up with a clear, forthright statement on its Unix policy for a worldwide briefing it's planning on holding February 10.
+President Bob Palmer is expected to be among those fielding questions which should get pretty pointed.
+We hear Uniplex is searching for a US president.
+New product components of its next generation office suite — what the company used to call Medley — are expected to be revealed on February 15th.
+The more things change the more they stay the same.
+Pick Systems in its umpteenth resurgence has rehired two of its old lieutenants: Richard Lauer, who's been off for six years at Sequoia Computer Systems Inc, returns as vice president, sales and Tim Holland, credited with many of Pick's technical developments, returns from stints at Sequoia and Concurrent Computer Corp to be senior vice president, technology.
+Both men will attempt to push Pick into the mid-range and large-systems environments.
+God knows they have trouble enough so IBM would appreciate it if we were perfectly clear on a couple of points that came up a fortnight ago (UX No 418).
+Its first DCE-compliant products have been shipping in the US since December 18.
+We were using the UK schedule when we said to expect them by the end of this month.
+Also its Distributed File System is on schedule for June.
+They were afraid you might think from the way we said it that they were behind.
+The famed Cucumber Bookshop in Rockville, Maryland which has hundreds of technical titles in stock has launched an international mail-order company, the only one to specialise in Unix and C including C++ and the object-oriented.
++1 301 881–2722.
+Silicon Graphics Inc's Mips R4400-based server announcement this week will reportedly also include a new high-end Indigo workstation that goes to 100 SPECmarks and a new graphics subsystem that outperforms the current Reality Engine (UX Nos 407, 413).

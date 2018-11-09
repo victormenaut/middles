@@ -1,0 +1,327 @@
+
+
+Fiduciary Duties and Regulatory Rules
+Ros Innes
+Introduction
+Professionals and businesses that stand in fiduciary relationships with their customers have always had to cope with the problems that arise when they owe conflicting duties to different clients, or their own interests conflict with those of a client.
+The likelihood of such conflicts occurring was increased following market developments and reforms in the structure of the financial markets in the 1980s, in particular the abolition of single capacity in the trading of stocks and shares, and the development of financial conglomerates offering a wide range of services.
+The relationship between fiduciary duties and regulatory rules became a matter of concern at the time of the enactment of the Financial Services Act 1986 (FSA).
+Questions arose as to whether the new regulatory system introduced by the Act would permit or require practices inconsistent with common law fiduciary duties, and, to the extent that it did, the impact this would have on fiduciary duties.
+Would the common law duties be preserved with the regulatory rules providing an additional layer of investor protection, or would the new rules modify the existing duties?
+These issues were not addressed in the FSA and are still of concern today.
+To put the matter simply, it is not clear whether a firm that acts in compliance with the rules of its SRO may nonetheless find itself liable for breach of fiduciary obligation.
+Needless to say, this raises problems for firms and their advisers like.
+In April 1990, following initiatives by various interested bodies, the question of the effect of controls imposed by statutory and self-regulatory rules on the fiduciary duties of professionals and businesses subject to public law regulation, was referred to the Law Commission by the Department of Trade and Industry.
+The principal focus of the Commission's enquiry relates to the provision of  financial services.
+A questionnaire designed to elicit information about the extent to which the relationship between the two sets of rules is perceived to give rise to problems in practice was circulated in November 1990, and a Consultation Paper ( "the CP" ) setting out a full analysis of the present legal position, the issues and the options for the future was published in May 1992.
+The Law Commission received a large number of responses to the CP and a report is expected to be issued in spring 1994.
+This chapter does not consider how this problem can best be resolved for the future.
+Instead, it attempts to give a brief resume of the current legal position.
+This will encompass a short overview of fiduciary duties, an examination of the extent to which the problem may be avoided by contractual arrangements designed to modify the duties owed to the customer or structural arrangements designed to prevent breaches of duty from arising, and a consideration of the extent to which public law provides a solution to the problem.
+All these matters are discussed in greater detail in the CP.
+At the outset two points should be made clear.
+The first is that the views expressed here are the author's and not necessarily those of the Law Commission.
+Secondly, the issues discussed arise out of the regulation of the activities of financial conglomerates generally, and should in principle be equally applicable to problems arising from rules that relate specifically to the futures market.
+Overview of fiduciary duties
+Before considering the different techniques for resolving conflicts of interest, it is first necessary to outline when a fiduciary relationship arises and the duties that a fiduciary owes to the beneficiary, for our purposes the customer.
+Broadly speaking, a fiduciary relationship will arise when one person undertakes to act on behalf of or for the benefit of another, often as an intermediary with a discretion or power that affects the interests of the other, and that other is in a position of vulnerability in relation to the fiduciary.
+Vulnerability may arise from dependence upon the fiduciary for information and advice, the existence of a relationship of confidence, or the significance of a particular transaction for the parties.
+The basic fiduciary duties may be summarised as follows:(1) The "no conflict" rule: the fiduciary must not place himself in a position where his own interest conflicts with that of his [customer], the beneficiary;(2) The "no profit" rule: the fiduciary must not profit from his position at the expense of his [customer];(3) The undivided loyalty rule: a fiduciary owes undivided loyalty to his [customer], the beneficiary, and therefore must not place himself in a position where his duty towards one [customer]conflicts with a duty that he owes to another [customer].
+A consequence of this duty is that a fiduciary must make available to a [customer]all the information in his possession which is relevant to the [customer's]affairs;(4) The duty of confidentiality: a fiduciary must use information obtained in confidence from his [customer], the beneficiary, for the benefit of the [customer]and must not use it for his own advantage or for the benefit of any other person.
+However, the scope of a fiduciary's duties in any given circumstances will depend upon the nature of the relationship and what precisely he undertakes to do on behalf of his customer.
+The possibility of conflicts of interest and duty occurring is enhanced by the nature of the organisational structure of the financial services industry, ie the prevalence of conglomerates.
+This is primarily attributable to three factors:(a) the range of products and services provided by firms;(b) the wide composition of firms' customer bases, and (c) the different capacities in which firms conduct business.
+Conflicts of interest are particularly likely to arise in firms that are companies because, even if there is functional segregation within a company with different activities being carried out in different departments between which there are Chinese walls, the knowledge of one part of the company will be attributed to (ie treated in law as known to) all parts.
+Where a firm consists of a group of companies, knowledge possessed by one company within the group will not be attributed to another group company, as it is a clear principle of company law that companies are separate legal entities.
+However, there may be problems within a group where, for example, a director of a subsidiary also sits on the board of the parent company.
+In these circumstances the knowledge of the director will be attributed to the parent company if the director is under an obligation to communicate the information to it.
+Where the director's responsibilities as a member of the parent company's board include oversight of the activities of the subsidiary, it is likely that he would be held to have an obligation to communicate information concerning the subsidiary to the parent.
+It may thus be difficult for a group to organise its affairs so as to avoid the deemed attribution of the  knowledge of a director who straddles two companies, in the above example, to the parent company.
+The nature of the problem can be illustrated by giving a few examples of the types of conflict that may arise in a financial conglomerate.
+The first is that of a broker/dealer purchasing securities for a client from a market-maker within the same firm, thus potentially infringing both the "no profit" and "no conflict" rules.
+Another is that of a broker/dealer department advising customer A to purchase shares in company B when the corporate finance department is acting for B and knows that it is on the verge of insolvency.
+This potentially infringes the "undivided loyalty" rule, even if the information about B was unknown to the individual advising A. If the information was passed on to A the firm would, however, breach its duty of confidentiality to B. A final example is that of a broker/dealer carrying out an agency cross and matching the transactions of two clients.
+This can breach the "undivided loyalty" rule and, if the broker does not disclose the double commission that it receives, the "no profit" rule.
+Before setting out some examples of mismatch between fiduciary duties and regulatory rules, it should be pointed out that there are three different types of conflict or mismatch between regulatory and the common law and equitable rules relating to fiduciaries (hereafter abbreviated to "fiduciary law" ).
+First, there is direct inconsistency in the sense that compliance with one would necessarily constitute breach of the other.
+Second, there are situations in which the regulatory rule sets a less onerous standard than the general law but does not prohibit compliance with the higher standard, raising the question of whether the rule offers a "safe harbour" for those who comply with it.
+Third, there may be rules that do not directly sanction that which might arguably constitute a breach of fiduciary obligation, but which might be thought to assume its legitimacy.
+Section 48(2) (h) of the FSA raises the possibility of a rule creating a direct inconsistency by requiring the withholding of information by one part of a firm's business from another part.
+Rules about the timing and specificity of disclosure of commission and other remuneration, which permit less than full disclosure of the amount or value of the commission or remuneration raise the safe harbour question.
+The rules that assume the legitimacy of the blanket consents used in customer agreements provide an example of the third type of potential mismatch.
+The main areas of conflict between fiduciary duties and regulatory rules concern disclosure of commission and other remuneration, relaxation of the "no profit" rule and Chinese walls.
+This chapter does not consider all these in detail but concentrates on SIB Core Rule 36, which recognises the validity of Chinese walls and attempts to accord protection to a firm which establishes a wall over which information does not pass without the need to obtain the consent of the customer, and SIB Core Rule 18 which permits disclosure of the "basis" only of commission.
+Other examples of rules which may not be congruent with the requirements of fiduciary law are SIB Core Rule 2, which states that where a firm has a material interest it must not knowingly act for the customer unless it takes steps to ensure his "fair treatment" (this may not be sufficient under fiduciary law), and SIB Core Rule 25 which in conjunction with SFA Conduct of Business Rule 5—36(2) permits "front running" .
+Further examples are given in Part V of the CP.
+Can the practitioner avoid the problem? —techniques for resolving conflicts under the general law
+Fiduciaries attempt to resolve conflicts of interest and duty or conflicts between two duties by a variety of self-help methods.
+If these methods work, they may be used to modify fiduciary duties to avoid any conflicts with what is permitted or required by regulatory rules.
+First, there are what may be termed contractual techniques which are arrived at by agreement between the parties.
+These include the development of trade practices which become implied terms of the contract, the use of exclusion clauses purporting to modify or exclude particular duties, and the making of advance disclosure of particular activities which would otherwise amount to breaches of duty.
+There are also "structural" techniques whereby the business of the firm is organised in such a way as to eliminate or minimise conflicts.
+These include policies of enforced separation whereby only activities that do not cause conflicts are carried on within a single entity, declining to act in situations of acute conflict, use of independence policies and Chinese walls.
+These techniques are not necessarily alternatives.
+Indeed, as we shall see, Chinese walls rely for their effectiveness on the extent to which contractual arrangements are effective.
+In this chapter only exclusion clauses, disclosure and consent and Chinese walls are considered in detail.
+Exclusion clauses
+The exclusion clauses which may be incorporated into contracts between firms and their customers may conveniently be divided into  three types, although there is some overlap between them.
+First there are straightforward clauses which purport to exclude or limit liability for breaches of fiduciary duty.
+Second, there are clauses that seek to define the relationship between fiduciary and beneficiary to prevent certain fiduciary duties from arising or modifying the relevant duties.
+This type of clause might state that the firm acts as principal rather than agent, or that no fiduciary duties arise other than those set out in the agreement.
+Finally, there are clauses that seek to make generalised advance disclosures of material interests which the fiduciary might have, or of possible conflicts of interest and duty which might arise during the course of the relationship with the customer.
+To examine the extent to which such clauses are effective to exclude liability for breach of fiduciary duty, it is necessary to consider both restrictions imposed because of the fiduciary nature of the relationship and the common law and statutory restrictions which apply to all exclusion clauses.
+One question to bear in mind is whether it might in certain circumstances be a breach of fiduciary duty to include an exemption clause in a contract with a customer.
+This question only arises where there is a pre-existing fiduciary relationship between the firm and the customer and the customer's informed consent to the inclusion of the clause is not obtained.
+Where the relationship between customer and firm is of a fiduciary nature, this imports a minimum level of duty from which the firm cannot derogate.
+It means that the firm cannot exempt itself from liability for fraud, bad faith, wilful default14 and possibly gross negligence.
+Beyond this it is not clear whether it is subject to any restrictions other than those imposed by statute and common law on exclusion clauses generally.
+Two approaches to clauses which purport to exclude liability for breach of fiduciary duty are discernible.
+The first is what might be termed a "status based" approach whereby the essence of the relationship between the parties would be considered when determining their rights and obligations and any clauses incompatible with their relationship would not be held effective.
+This would be applicable mainly to trustees, agents and advisers.
+One commentator suggests that: "the essence of agency is that one person is entrusted with the power to act for another in that other's interest, a clause enabling him without warning on a particular occasion to act in his own interest, or in the interest of another principal, seems plainly inconsistent with the whole nature of fiduciary responsibility." 
+In the context of stock exchange dealings he suggests that clauses that purport to allow a broker without warning  to act as principal rather than agent, are "quite inconsistent with the role of broker and ineffective except against a principal who has assented to the changed relationship on this particular occasion" .
+Although the authority given for this proposition, Robinson v Mollet, concerned the effect of a trade custom rather than an exclusion clause, it highlighted the unacceptability of changing the substance of a relationship without the fully informed consent of the other party.
+The second approach is more likely to prevail.
+Under this approach, if a relationship is created by trust deed, contract, or other similar instrument and there is no pre-existing fiduciary relationship between the parties, in order to determine whether the relationship is fiduciary and, if so, the scope of the fiduciary's duties, it is necessary to have regard to all the terms of the instrument.
+This would give effect to clauses that seek to define the rights and obligations of the parties, for example, a clause which indicated that no partnership or agency relationship was created, and clear clauses would abrogate the prohibition on, for instance , self-dealing or the necessity to disclose all relevant information to the customer.
+The parties to a consensual relationship would be free to set out the parameters of their respective rights and duties by contract, subject to any statutory provisions to the contrary.
+The first approach has a number of limitations.
+It does not take account of the fact that in the most intense form of fiduciary relationship, that between trustee and beneficiary, it is possible to modify the "no profit" and "no conflict" rules in the trust deed or with the assent of the beneficiaries.
+Nor does it take account of the fact that it can be consistent with the status of agency for an intermediary to be empowered to retain the proceeds of sale above a specified price.
+It is reminiscent of the doctrine of "fundamental breach" , which has been firmly rejected by the House of Lords.
+Finally the determination of the "essence" or "substance" of relationship must depend on its factual context.
+The court will have regard to the general mercantile structure within which a relationship arises, a structure of relationship and expectation built up from accepted custom and methods of dealing.
+If a person is clearly described as a "broker/dealer" in the context of a widespread practice of dual capacity in the market it may be difficult to show that the "substance" of the relationship is that he is an agent.
+The second approach is unlikely to leave the customer with insufficient protection for the following reasons.
+A strict approach will be taken to the construction of exclusion clauses and general clauses  are unlikely to be held to exclude all aspects of fiduciary duty.
+Courts may more readily accept that fiduciary duties have been modified or excluded in the context of a commercial agreement between parties of equal status28 than where the customer is inexperienced.
+In addition, exclusions of particular fiduciary duties are only likely to be held to exclude certain specific elements of the duties and the fiduciary will still be held to owe duties of good faith in respect of any particular transaction.
+For example, the rule which automatically renders transactions carried out by company directors in breach of the prohibition on self-dealing voidable can be modified, but it has been held that the director must still act in the best interests of the company.
+Also, in determining whether or not a relationship is fiduciary the court will have regard to the substance of the transaction and not its form.
+It will look at the entirety of the obligations undertaken by the firm and determine the nature of the relationship from the whole contract construed in the light of its commercial context rather than from a few words in the contract.
+Thus a description of the firm as dealing solely on an "execution only" basis will not be conclusive if the customer is also provided with advisory services.
+To summarise the exposition so far, a fiduciary cannot exclude liability for fraud, deliberate breach of duty and possibly gross negligence.
+Beyond that, it is not clear whether any and, if so, what restrictions operate as a matter of fiduciary law to prevent firms from excluding or modifying their fiduciary duties, particular where no prior fiduciary relationship existed and the contract seeks to define the duties of the parties rather than explicitly exclude liability.
+Once it is determined that a particular exclusion clause is not invalidated under fiduciary law, it is then necessary to consider whether it is affected by the common law and statutory restrictions on exclusion clauses generally.
+Exclusion clauses are strictly construed but the common law rules on construction will not prevent a clearly worded clause from operating.
+However, where a clause is subject to the Unfair Contract Terms Act 1977 (UCTA),(in relation to financial services primarily those in standard form contracts relating to the provision of advice31) it will only be valid if it is reasonable.
+It is likely that the fact that an SIB or SRO rule permits the exclusion of a particular liability will be taken into account in assessing whether an exclusion clause is reasonable, but this would not be determinative of reasonableness.
+Finally, it is important to note that however tight an exclusion clause may be, it will not prevent the introduction of new fiduciary  duties into the relationship between firm and customer as it develops over time.
+For example, where an execution only customer (whose relationship with a broker/dealer was that of principal in respect of decisions as to which securities to purchase and at what price) starts to take and rely on the broker/dealer's advice as to what to buy, a fiduciary element may be introduced into the relationship rendering the clause defining the relationship as that between two principals ineffective.
+Exclusion clauses may not, therefore, always be effective to modify fiduciary duties so as to avoid conflicts between fiduciary duties and duties imposed by regulatory rules.
+Disclosure and consent
+As a general rule, fiduciary duties may be modified or displaced if the customer's informed consent is obtained after making full disclosure of all material facts.
+The extent to which fiduciary duties are modified will depend on what precisely is disclosed and to what the beneficiary has consented.
+The issue of what must be disclosed (and when) in order to obtain a consent which will operate as a defence to an allegation of breach of fiduciary duty, will now be considered.
+The legal theory is set out first.
+Then some examples of how it applies in practice are given.
+An important preliminary point is that the dividing line between an exclusion clause and a disclosure clause may be thin.
+For example, a clause that states that the firm may act as principal or agent may be interpreted as defining the firm's duties, excluding liability for breach of duty in the event that it should act as principal, or disclosing that it sometimes acts as principal.
+The approach that a court adopts to such a clause may be important, as the tests by which the effectiveness of exclusion and disclosure clause are assessed are not the same.
+As stated below, "full" disclosure is usually required, but if UCTA does not apply, an exclusion clause need only be "clear" .
+Even if an exclusion clause is subject to UCTA, it need only be "reasonable" .
+Although the extent of disclosure might be taken into account in assessing reasonableness, it will not be determinative.
+Thus it is possible that a clause that did not make sufficient disclosure to preclude an action for breach of duty on the grounds of informed consent, might provide a defence as an effective exclusion clause.
+Where less than full disclosure suffices, for example, as a matter of custom, a clause that made adequate disclosure might, if subject to UCTA, be rendered ineffective as an unreasonable exclusion clause.
+The requirement of full disclosure of all material facts means that  it is insufficient merely to disclose that the firm has an interest or to put the customer on enquiry.
+It necessitates disclosure of the full nature and extent of the firm's interest.
+Any facts that might affect the customer's decision whether or not to proceed must be disclosed.
+However it is not necessary to disclose a fact which the customer already knows, "or would have known…if he had thought about it" .
+The onus of proving that sufficient disclosure was made rests on the firm and it is not a defence to show that a legal or financial impediment on the part of the customer would have prevented him from proceeding with the relevant transaction, or that disclosure would not have affected the customer's decision whether or not to proceed.
+The disclosure obligation extends to all material information that the firm acquires after the commencement of the relationship with the customer, no matter "how or under what circumstances [it]was gained." 
+It may also comprehend information obtained in a different capacity prior to the commencement of the relationship.
+There is Commonwealth authority that there is no obligation to disclose facts of which the firm is unaware "notwithstanding that prudent enquiry would reveal their existence" provided that the fiduciary has not deliberately refrained from acquiring them.
+However, it is impossible to lay down a precise test against which the adequacy of disclosure may be assessed.
+Much will depend on the particular circumstances.
+For example, where a customer is experienced and familiar with transactions on the relevant market a lower level of disclosure may suffice.
+In contrast, where the firm is acting as an adviser its disclosure obligation will be more onerous.
+There are two exceptions to the rule requiring full disclosure.
+The first is where a broker sells to a customer off its own book.
+In these circumstances it is sufficient for the broker to disclose to the customer that he is acting as principal, provided that he does not charge commission.
+This does not derogate from his duty to act honestly and faithfully towards his customer and the broker must not conceal material facts in order to obtain an advantage for himself.
+The second exception is where an agent receives a commission or discount from a third party and it is the usual practice of the business in which the agent operates for such a commission or discount to be paid.
+The relevant cases have all concerned the payment of commission to an insurance broker by an insurance company.
+Provided that the customer is aware that his agent will be remunerated in this way, does not make further enquiry, and is not misled by the agent as to amount, the agent does not have to disclose the amount of or basis on which the commission is paid.
+Disclosure may be made at any time between the creation of the fiduciary relationship between firm and customer and the act or omission which would otherwise constitute a breach of duty, or after the breach of duty has occurred, for example on a contract note.
+However, where it is made after the breach, the customer is free to refuse to consent.
+Thus, if the firm is to avoid the risk of liability it is essential (in the absence of an effective trade custom validating the relevant practice) to make sufficient disclosure in advance of the breach of duty.
+Even if advance disclosure is made, further disclosure may be necessary at the time of a transaction if an actual conflict arises.
+For example, if a customer agreement discloses that the firm might match the transaction undertaken on behalf of the customer with the transaction undertaken on behalf of another customer, this may only protect the firm in the simple case where no conflict arises between the interests of the two customers.
+In many cases it will be impossible to make sufficient disclosure at the commencement of the relationship as material information which has to be disclosed will not be known and cannot be predicted until a particular conflict arises.
+Additional disclosure would also be necessary if, as explained in relation to exclusion clauses, the relationship between customer and agent evolved over time imparting higher levels of fiduciary duties.
+This means that there is uncertainty as to whether the generalised advance disclosures made in client agreements will, in the absence of subsequent specific disclosure, always guarantee protection against allegations of breach of fiduciary duty.
+In certain circumstances, the customer's consent will never constitute a defence to breach of fiduciary duty.
+This is where, no matter how thorough the disclosure, it is impossible to gain the customer's informed consent.
+The matter in question may be so complex and technical, the conflict so acute, and the customer's understanding and experience so limited, that, however full any disclosure made to him, it is impossible to place him in a position where he has sufficient comprehension of the issues and consequences of consenting to enable him to give binding consent.
+Three examples which illustrate the nature of the problem are considered below.
+Where the firm takes commission on transactions undertaken on behalf of its customer, the requirement of full disclosure means that  the amount of commission and method and timing of payment must be disclosed.
+Disclosure of the "basis" only of commission in accordance with SIB Core Rule 18(2) may not satisfy the fiduciary disclosure requirement.
+Returning to the example given earlier of the broker/dealer department advising customer A to purchase shares in company B when the corporate finance department is advising B and knows that it is on the verge of insolvency, the question arises as to what the firm must divulge to A in order to modify its duty of undivided loyalty to A to the extent necessary to permit it to withhold the information about B.
+Disclosure of commission
+Conflicting duties of confidence and disclosure
+While the firm would not be compelled to disclose or utilise the information about B when advising A, the fact that it owes a duty of confidentiality to B will not necessarily constitute a defence to a breach of its duty of disclosure to A. If the firm is to be fully protected it must obtain A2's consent to its acting in the conflict situation after informing him of its conflicting duties and the fact that it cannot perform its full duties of disclosure.
+For an advance disclosure in a customer agreement to suffice it would probably, particularly in the case of an inexperienced customer, have to explain the circumstances in which the firm might receive and withhold information, for example, because it is behind a Chinese wall, the fact that the information will be price-sensitive and the consequences of non-disclosure for A. It would be difficult to draft a general clause predicting in advance all the possible eventualities, and whatever type of clause is used, further disclosure might be necessary as particular conflicts come to light.
+There is therefore some doubt as to whether broad clauses of the type that state that the firm is not obliged to disclose to the customer or take into account when acting for him any information known to the firm but unknown to the individual acting for the customer would protect the firm against allegations of non-disclosure, particularly in the case of an inexperienced customer.
+The question here is what must a firm disclose to its customers in order to permit its broker/dealer department to sell or buy stock off its own book to or from a "fiduciary customer" (ie a customer to whom  fiduciary duties are owed, eg where a broker acts as agent)?
+As indicated, where no commission is charged and the broker is acting honestly, clear disclosure of the fact that he is acting as principal is sufficient.
+However, in the case of an inexperienced customer it is insufficient merely to state "sold to" instead of "bought for" on the contract note.
+Thus in an ordinary broking transaction disclosure on the contract note in accordance with SFA Table 5—34(2), para 11, will be sufficient (provided that the customer does not object to late disclosure).
+It is not clear whether the courts would take the same attitude in relation to a general disclosure in a discretionary customer agreement of the fact that the firm might sometimes act as principal.
+The relevant cases all concerned disclosure on contract notes, which enables the customer to know, in respect of any particular transaction, in what capacity the firm is acting.
+The same cannot be said of a generalised advance disclosure.
+Unless such disclosure is regarded as defining the respective rights and duties of the parties ab initio61 it is unlikely to be effective as a means of avoiding liability for breach of duty.
+Disclosure of self-dealing
+Finally, it should be noted that disclosure of the fact that the broker is acting as principal may not on its own suffice if there exist any other material matters which could affect the customer's decision whether or not to proceed with the transaction.
+For example, if the broker acquired the stock with a view to selling it on to the customer at a profit, it would have to disclose this fact, the historic price of the stock, the current market price of the stock and the profit on the sale.
+In conclusion, while it is possible to modify or displace the firm's fiduciary duties if the customer's informed consent is obtained, the uncertainty surrounding what must be disclosed to obtain sufficiently informed consent, and the practical problems encountered in making adequate disclosure, for example in predicting in advance all possible conflicts, means that disclosure and consent is not a completely reliable mens of varying fiduciary duties.
+It cannot, therefore, be depended on as an exclusive method for avoiding conflicts between fiduciary law and regulatory rules.
+Chinese walls
+Broadly speaking, Chinese walls are procedures for restricting information flows within a firm to ensure that information that is confidential to one department is not improperly communicated, either deliberately or inadvertently, to any other department within the  firm.
+They usually involve a combination of the following organisational arrangements:(1) The physical separation of the various departments, often extending to matters of detail such as dining arrangements;(2) An educational programme normally recurring to emphasise the importance of not improperly or inadvertently divulging confidential information;(3) Strict and carefully defined procedures for dealing with a situation where it is considered that the wall should be crossed and the maintaining of proper records where this occurs:(4) Monitoring by compliance officers of the effectiveness of the wall, including the monitoring of employee trading; and (5) Disciplinary sanctions where there has been an improper breach of the wall.
+The discussion that follows is restricted to walls that accord with "best practice" .
+Where they conform to any lesser standard they will not provide protection.
+It is also concerned only with the situation where the customer does not give an effective consent to the use of a wall.
+(As discussed above, if consent can be obtained this will modify the duty of undivided loyalty and avoid the problem.)
+The only area in which the courts have examined the use of the Chinese wall in any significant depth concerns the use of walls by firms of solicitors which have found themselves advising a client who has an adversarial relationship with a former client.
+The outcome of these cases is that the Chinese wall has not been seen as providing satisfactory protection for the interests of the former client and, despite the existence of a Chinese wall, the courts have required the law firms not to act on behalf of the new client.
+In the most recent case, the court was concerned not so much with the deliberate communication of confidential information but rather with the danger posed by the "chance remark" or the "inadvertent" risk of leaking the information.
+It concluded that it was to be doubted whether "an impregnable wall can ever be created" except in "very special cases" .
+It may be possible to distinguish the lawyer/client cases from a case which involves the provision of financial services.
+The reasoning in the lawyer/client cases cannot automatically be transferred to the financial services area because of the particular nature of the lawyer/client relationship including the fact that in order to prove a breach of confidence a client might be forced to forfeit the lawyer/client privilege, and that the very restrictive Law Society rules provide for only a very limited role for the Chinese wall where  law firms amalgamate and the clients consent.
+However, the lawyer/client cases do indicate the likely attitude of the courts.
+Thus, while it is clear that Chinese walls are effective for the purposes of regulatory rules, they cannot, as a matter of pure private law, safely be relied upon as affording firms protection against breach of fiduciary duty.
+SIB Core Rule 36 attempts to accord protection to a firm which establishes a Chinese wall over which information does not pass without the need to obtain the consent of the customer, or even to disclose the existence of the wall to the customer.
+It provides that information may be withheld where a firm: "maintains an established arrangement which requires information obtained by the firm in the course of carrying on one part of its business of any kind to be withheld in certain circumstances from persons with whom it deals in the course of carrying on another part of its business of any kind." 
+There is no definition of what constitutes an "established arrangement" but it would appear to involve the type of arrangement outlined above.
+Unless Core Rule 36 modifies the duty of undivided loyalty as a matter of public law, which is considered at page 00 below, a Chinese wall maintained in accordance with it will not prevent a breach of fiduciary duty.
+SIB Core Rule 36(3) provides that for the purposes of the Core Rules a firm is not acting with knowledge if none of the relevant individuals within the firm is acting with knowledge.
+This does not raise any problems of mismatch with fiduciary duties since it is restricted to the operation of the rules themselves and does not affect any common law or equitable duties.
+The difficulties of relying on Chinese walls as a method of resolving conflicts is enhanced by the fact that in certain circumstances walls will be crossed, for example, by an analyst who is required to advise the corporate finance department on a particular transaction and who will then return to his original position.
+It should be noted that even if Core Rule 36 modifies the duty of undivided loyalty as a matte of public law, 65 it will not provide protection where information crosses the wall.66 Further difficulties arise where a manager "overlooks" the wall in the course of discharging his managerial duties.
+In conclusion, as a matter of private law it is not clear to what extent Chinese walls prevent attribution of knowledge and provide protection to a firm against liability to a customer for breach of fiduciary duty.
+They cannot, in the absence of Core Rule 36 being accorded special status as a matter of public law, therefore, be relied upon  as a means of resolving conflicts of interest and duty in order to avoid conflicts between regulatory rules and fiduciary law.
+Does public law provide a solution?
+We have seen that while practitioners in the financial services field can take certain measures towards reducing their exposure to allegations of breach of fiduciary duty and avoiding conflicts between fiduciary law and regulatory law, there is some doubt as to the efficacy of these techniques and uncertainty as to what is required to ensure that they are reliable.
+It is therefore necessary to turn to public law to see whether it provides a solution by enabling the rules of the SIB and SROs to impact on the respective obligations and rights of firms and their customers under fiduciary law.
+It is first necessary to consider whether the SIB and the SROs operate in the public law sphere.
+The SIB clearly does so.
+The combined effect of the FSA and the delegation by the Secretary of State of regulatory power to the SIB has given it extensive executive, enforcement and rulemaking powers.
+Its decisions on authorisation, disqualification, making public statements of misconduct and the exercise of its powers of intervention are subject to appeal to a statutory tribunal, the Financial Services Tribunal.
+The exercise of its enforcement and rulemaking powers is amenable to judicial review.
+The SROs are a integral part of the FSA's scheme of regulation.
+Their power to admit and expel members has the important consequence of granting and revoking authority to carry on investment business.
+The Core Rules and SRO third tier rules operate in an integrated way, for example, by the development of exceptions to the Core Rules in third tier rules.
+It is clear that SROs operate in the public law sphere and the exercise of their powers is also amenable to judicial review.
+The determination of the effect of the rules made by regulatory bodies operating in the public law sphere on common law and equitable rights and duties depends on two factors:(1) whether the regulatory bodies have been given authority to make rules altering private law rights; and (2) if there is such authority, whether they have in fact exercised it when making their rules.
+The first question is whether the FSA expressly or impliedly authorises the modification of the private law rights and duties of  customers and firms regulated by SROs or the SIB.
+There are two reasonably clear examples of express authorisation in FSA, ss 55 and 81.
+Section 55 empowers the making of regulations with respect to customers' money held by authorised firms.
+Subsection 2(f) specifically empowers regulations to be made which authorise the retention by firms "of so much of clients' money as represents interest" .
+The Client Money Regulations, which provide that interest below certain specified amounts is not payable to the customer, thus modify the firm's duty to account to the customer for that interest.
+Similarly, s 81 empowers the SIB to make regulations"as to the…rights and obligations of the participants' in authorised unit trust schemes.
+This seems to authorise modification of firms' common law and equitable fiduciary duties to participants, and regulations have been made which permit self-dealing under certain conditions and the retention of profits and benefits derived from self-dealing.
+Slightly less clear is the effect of FSA, s 48(2) (h), which authorises rules: "enabling or requiring information obtained by an authorised person in the course of carrying on one part of his business to be withheld by him from persons with whom he deals in the course of carrying on another part and for that purpose enabling or requiring persons employed in one part of that business to withhold information from those employed in another part." 
+[emphasis added]By s 48(6) compliance with rules made under this provision is a defence to a criminal charge under s 47 for inducing an investment agreement through misleading statements or deceptive and manipulative practices.
+Although there is no express reference in s 48(2) (h) to the civil rights and obligations of customers, it appears to envisage restrictions on common law and equitable duties of disclosure.
+A firm cannot be "enabled" to withhold information if it is any event free to withhold it.
+Thus it can be argued that s 48(2) (h) authorises rules which vary common law and equitable duties of disclosure.
+On this interpretation SIB Core Rule 36, which was discussed earlier, modifies the attribution of knowledge rule and, where no information passes across a Chinese wall, authorises the withholding of information which is on the other side of the wall.
+However, the position of conduct of business rules made under the general rulemaking power in FSA, s 48 is less clear.
+The power in s 48(1) is expressed in general terms but refers only to rules "regulating the conduct of business" unlike the express reference in s 81 to  the rights and obligations of third parties.
+Section 48(2) supplements the general rulemaking power in s 48(1) by specifically authorising 12 kinds of conduct of business rule.
+Section 48(2) (h) has already been considered.
+Of the other relevant provisions, s 48(2) (g) is the most important in the present context.
+This authorises the making of rules which require"the disclosure of the amount or value, or of arrangements for the payment or provision, of commissions or other inducements in connection with investment business…
+".
+This appears to envisage rules which require the disclosure of only the arrangements for the payment of commission and not of the actual amount.
+SIB Core Rule 18(2) and SFA Rule 5—33(2) permit disclosure of only the basis of commission to a private customer.
+This may not satisfy common law and equitable requirements which, as seen above, may require full disclosure.
+This raises two issues.
+The first is whether s48(2) (g) modifies the common law duties of firms towards private investors.
+It appears that it does.
+The second is what is the position in relation to professional investors of whom there is no mention in the rules?
+In an area not covered by the rules, prima facie the common law remains unchanged.
+However, it seems unlikely that it was intended that less disclosure should be made to private customers than to professionals.
+If, however, SIB Core Rule 18(2) modifies the common law, unless an effective contractual provision or a trade custom authorises less than full disclosure to professional customers, this may be the position.
+The rules appear to assume that a higher level of disclosure should be made to private customers, but unless the common law rules are altered by reference to the entirety of the rules and the assumptions in them rather than to a specific rule, this result may not be achieved.
+Where it is not clear whether a particular rulemaking power authorises the making of rules which modify fiduciary duties, there are four possible outcomes.
+First, a court might hold that there was no authority to make the rule and invalidate it.
+Second, a court might interpret the rule restrictively so that it only permitted the replication of common law rights and duties or only operated in the regulatory sphere.
+Third, a court might give some recognition to the public law nature of regulatory rules by taking account of the rule in ascertaining the precise content of the fiduciary obligation.
+Here the public law validity of the rule would make it a relevant (although not conclusive) factor in the determination of the content of the common law or equitable rule in that particular context.
+Finally, it might conclude that there was authority to modify common law and  equitable rules so that the rule modified the fiduciary duty with which it conflicted.
+The approach taken will depend on the statutory context and the extent of the particular rulemaking power.
+We have seen that recognised SROs are not expressly given rulemaking power by the FSA.
+For this reason, their rules, while instruments of public law and recognised by the FSA, may not be "statutory" rules with statutory force and may thus differ from the SIB's rules.
+In principle, however, the public law nature of the SROs' rules and the fact that they operate in an integrated way with the SIB's rules should mean that a court is able to take the same approach to the interpretation of both the SROs' and the SIB's rules.
+Where statute accords power to public bodies including non-governmental ones such as the SIB, the presumption that statute does not alter the common law applies.
+Where the statute is not clear the court's determination of which of the options set out above applies may well depend on the strength of the presumption.
+This varies according to the context.
+It is strong where personal liberty or property rights are affected, but has been said to be weaker in the case of modern statutes, particularly those establishing a sophisticated regulatory regime, such as the FSA.
+The strength of the presumption that statutes do not alter the common law can be analysed by reference to three models: a "private law" model where the presumption is strongest; a "public law" model where it is weakest; and a "hybrid" model to represent the middle way.
+Under this model the common law and equitable principles apply unless they are necessarily overridden by the statute.
+Thus, there is no authority to make rules modifying fiduciary rights and obligations unless the enabling statute, here the FSA, gives it expressly or by necessary implication.
+If there is no such authority, "to the extent that the rules…are inconsistent with and do not comply with the general law, then they would obviously be improper" .
+The private law model
+On this approach the contrast between FSA, s 55 and 81 on the one hand and s 48 on the other is significant.
+While rules made under the former sections would alter common law rights, the absence of a clear authority in the latter might mean that rules made under it do not.
+Thus, rules restricting disclosure made under s 48(2) (g) and (h) might be said to authorise rules which operate only in a regulatory context.
+In the case of s 48(2) (h) the argument outlined above, that  the use of the word "enabling" impliedly authorises modification of the common law duty of disclosure since a person cannot be enabled to do that which he is free to do, may nevertheless prevail.
+The advantages of the private law model are as follows:(1) It assumes that the rights investors would have had in the absence of statutory intervention should be preserved unless clearly taken away.
+(2) It reflects a view that the statute was giving investors an additional layer of protection.
+Its disadvantages are as follows:(1) If regulatory and common law rules are to operate harmoniously, the former must replicate the latter, or alternatively it posits two independent systems of regulation, one operating in the regulatory context and the other in the ordinary courts.
+This would lead to confusion and complication;(2) It may imperil certain aspects of the regulatory system, for instance by concluding that Chinese walls are ineffective to prevent the attribution of information, or because advance disclosure that would satisfy fiduciary requirements is impossible, a broker/dealer is always liable when buying or selling as principal;(3) It does not appear to give any recognition to the expertise of the bodies to which Parliament has entrusted the regulation of financial services.
+This is primarily concerned with the nature and scope of the statutory scheme rather than with express authority to alter private law rights in the rulemaking power, when determining the scope of a rulemaking power.
+Although it might be Wednesbury unreasonable or incompatible with statutory purposes for a rule to alter common law rights, this should be deduced from the words of the statute itself.
+Invalidity would be the result of non-conformity to statutory purposes and not of non-conformity to the common law.
+The public law model
+The approach of the House of Lords in Swain v The Law Society illustrates how this model might work.
+In that case the exercise of a statutory power to make rules concerning indemnity for losses arising from liability for professional negligence was held to empower the Law Society to take out a master insurance policy and to require solicitors to pay the premiums without having to account for commission  received from the brokers.
+This was because it was acting in a public capacity.
+Lord Diplock said: "What it does in that capacity is governed by public law; and although the legal consequences of doing it may result in creating rights enforceable in private law, those rights are not necessarily the same as those that would flow in private law from doing a similar act otherwise than in the exercise of statutory powers." 
+The scope of the decision in Swain is not entirely clear.
+However, the argument for adopting a similar approach in the case of financial services is based on the complexity and sophistication of the regulatory scheme created by Parliament to achieve the legislative aims of facilitating efficiency, competitiveness, flexibility and above all investor protection.
+The direct and indirect statutory controls over the rules of the SIB and SROs and, in particular, the role of the Secretary of State suggest that it was contemplated that rules which survived their scrutiny would adequately protect investors.
+Investors benefit from active regulation and monitoring of investment business including the exercise of investigative and enforcement powers, giving the benefit of prevention as well as cure.
+Private investors are also given a new statutory action for damages for breaches of regulatory rules.
+The elaboration and detail of the scheme and the variety of techniques available under it to protect investors suggests that it would be wrong to assume that the statute and its rulemaking powers should be interpreted as being in the shadow of the common law.
+On this approach the argument that the rulemaking powers in s 48(2) (g) and (h) empower the modification of fiduciary duties becomes easier.
+The advantage of the public law model is that it facilitates the achievement of the statutory purposes and the development of one clearly understood set of general rules and principles.
+It thus promotes certainty.
+The regulators are not left with a free hand as the rules will still have to satisfy statutory purposes, a central part of which is investor protection.
+If they do not the court may hold a rule invalid.
+Its disadvantages are:(1) The regulators might stop framing their rules in the shadow of and by reference to the principles of fiduciary law.
+Although the regulatory rules are subject to judicial review and the control of the Secretary of State for Trade and Industry and, in the case of SROs, the SIB, this might not be adequate;(2) It may lead to an uneven playing field by virtue of differences in the treatment of different authorised persons.
+For example, there may be an imbalance between private investors and others who do not have the protection of the statutory damages remedy under s 62.
+Although the force of the public law system comes from a comparison of the whole regulatory system and not one isolated aspect of it, this consideration may be important.
+This model, while not recognising the absolute right of regulatory rules to modify common law and equity, gives some recognition to their public law nature by taking into account of them in ascertaining the precise content in a given context of a common law or equitable obligation.
+The process is similar to the implication of terms by custom, whereby a term will be implied where it is notorious, certain, reasonable, and is recognised in the market as creating legal rights.
+However, here it is the public law validity of the rule which means that the court should give effect to it if reasonable.
+This model differs from the public law model because it presupposes separate spheres of operation for regulatory rules and "ordinary" law.
+The hybrid model
+Although a court could simply ignore the regulatory rule, this is unlikely in the case of public law recognition.
+The courts have used regulatory rules in determining whether an obligation under the general law exists or has been broken in a number of ways.
+First, non-compliance with a regulatory rule may assist a court in determining that a state of affairs exists or that conduct falls below a required standard.
+Second, non-compliance with regulatory rules may be a ground upon which the court will refuse to enforce a stipulation of confidence.
+Third, compliance with regulatory rules or the regulator's directions may facilitate a finding that there has not been "unreasonable" or "unfair" conduct.
+These examples are relevant in the present context as the equitable no conflict rule is formulated in terms of a "reasonable man looking at the relevant facts and circumstances of the particular case" thinking that "there was a real sensible possibility of conflict" .
+The effect of this approach would be that, save where the court considered a regulatory rule to be unreasonable, it would take the rule into account in determining the content of a fiduciary obligation.
+The advantage of the hybrid model is that the courts retain some control over the regulatory rules in the sense that they are not bound  to give effect to them rather than the general law if they are considered unreasonable.
+The common law can develop in an evolutionary way in the light of the experience developed in the regulatory system.
+A disadvantage of this model is that a reasonableness test might be thought to entail unacceptable uncertainty.
+However, firms already have to face uncertainty in the context of UCTA and the criteria used to assess whether a duty of care which would give rise to liability in tort is owed.
+In summary, it is reasonably clear that the rulemaking powers in FSA, ss 55 and 81 permit rules to modify fiduciary obligations arising under the general law.
+FSA, s 48(2) (h) probably has the same effect within its limited sphere.
+Thus, where a Chinese wall is maintained and no information passes over it or is actually acquired in some other way, Core Rule 36 should provide protection.
+The position under the other rulemaking powers in s 48 is unclear.
+Where it is not clear whether the FSA authorises the modification of fiduciary duties in relation to a particular rulemaking power, it is difficult to predict what the outcome will be.
+It will depend upon which of the three models outlined above is adopted by the courts in relation to that power.
+Conclusion
+In certain areas there are mismatches between fiduciary duties and what is required or permitted by SIB and SRO rules.
+This means that firms cannot be sure that they will be protected from allegations of breach of fiduciary duty, merely because they comply with the rules of their regulator.
+The problems largely concern disclosure of commission, self-dealing and relaxation of the no profit rule, and the operation of Chinese walls.
+Although firms may use a variety of contractual and structural techniques to try to deal with these problems, the uncertainty surrounding the extent to which it is possible to exclude or modify fiduciary obligations by contract or disclosure and consent, and as to the extent to which the use of Chinese walls provides protection as a matter of private law against allegations of breach of fiduciary duty, means that these techniques cannot be relied upon exclusively.
+Nor is it clear that public law provides a solution except in the limited instances of FSA, ss 55 and 81, although it is likely that s 48(2) (h) permits SIB Core Rule 36 to modify fiduciary duties.
+The overall situation is unsatisfactory and it is impossible to give precise guidance as to how a firm can resolve  mismatches between fiduciary and regulatory law, other than by always complying with the more onerous obligation where the inconsistency between fiduciary and regulatory law is not direct.
+This will not always be practical in a modern financial conglomerate.
+Ultimately, the most a firm can do is, so far as practicable, utilise all the techniques outlined above, and hope that the courts will take a commercial view and hold that a firm which has acted in accordance with best practice is protected from liability.

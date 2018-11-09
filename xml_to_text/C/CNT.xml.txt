@@ -1,0 +1,351 @@
+
+
+BLOCKBUSTER OR NO, AMSTRAD's £300 PEN ORGANISER IS NEAT
+Amstrad Plc launched its £300 Pen Pad yesterday, proving that you don't need a RISC processor to build a pen-based notepad.
+The keyboard-free PDA 600 incorporates character recognition software from Texas Instruments Inc, and system software from the Cheshire-based Eden Group Ltd.
+Amstrad has eschewed the popular PenPoint operating system on the grounds that it is overly complex for the PDA's requirements — which is basically to emulate a paper-based organiser, and that it requires too much processor horse-power.
+Amstrad is using three, unidentified, eight-bit processors in the machine — one is dedicated to the hand-writing recognition, the second to the screen display while third deals with general processing.
+The PDA will be built in Amstrad's factory in China, currently used for satellite receivers.
+The machine is aimed squarely at Filofax's market, is about same size and weighs only 14oz.
+The three AA batteries are said to give 40 hours of continues operation, with a Lithium cell providing back-up when it is turned off.
+It incorporates all the functions normally expected in an electronic organiser, including diary, clock, alarm, notepad and address book.
+The product certainly scores well in the initial ‘small object of desire’ stakes, but its overall success will largely depend on the quality of its handwriting recognition software.
+All data is entered through pen input and there is an initial training period, during which the user writes each letter of the alphabet and the digits on the screen.
+Upper and lower case is handled, although joined-up (cursive) writing is beyond its capabilities.
+Each letter is written in an onscreen box and a fraction of a second later, written the computer types it as the letter it believes it to be.
+Mistakes can be rectified by re-drawing the letter and should the PDA have particular trouble with a letter it can be re-trained with four new samples of the character.
+The user does not have to wait for interpretation, but can write ahead and subsequently correct errors.
+It is necessary to write carefully and  relatively slowly to avoid confusion, although practice could well make perfect.
+An alternative mode of input is provided by the notepad function which accepts free-hand sketches and notes.
+The machine comes with 128Kb usable RAM, enough for around 350 address-book pages or 28 pages of bit-mapped freehand scribble.
+Up to 2Mb of expansion is available through a single type 1 PCMCIA slot which takes standard memory cards and application cards that are promised from the new Amsoft division.
+Using a type one slot means that PCMCIA devices — such as modem cards — cannot be used, instead all communications will take place via an inbuilt RS-232 socket.
+Other nice touches are the ability to switch between English, French, Italian or Spanish prompts, and Amstrad's intention to put the machine's software up under Windows to simplify data transfer between PDA and desktop machine.
+It is intended to be the first in a family of products — Amstrad suggests an A4 colour version for architects, a desktop feature-phone with pen-screen, and in-car version with built in CD that would project the user's position on a map through data collected by global positioning satellite.
+Chairman Alan Sugar denied the PDA contradicted his assertion to shareholders that the company had no forthcoming ‘blockbuster’ products.
+Sugar said that the PDA was certainly not a blockbuster by the standards of the early personal computer market when the company could make a clear £300 on each machine sold: he put the total size of the UK electronic organiser market at around 200,000 units.
+COMPUWARE TO PAY $39m IN SHARES FOR TECHNALYSIS
+Newly floated Compuware Corp, Farmington Hills, Michigan is to take over Technalysis Corp in a share exchange valuing the Minneapolis company at $39.3m.
+Technalysis is a services company developing applications, products and systems on mainframe, mid-range and microcomputers; Compuware wants it to expand its presence in the US mid-west.
+JAPAN COMPUTER HAS COLOUR FLAT PANEL X TERMINAL
+The ‘world's first’ colour flat panel X Window terminal has been launched by Japan Computer Corp from its US base in Fort Lee, New Jersey.
+The RISC-based — R3000 or R3000A presumably, since that is what it has used up to now — XfaceC or XfC, is designed to bring colour graphics capabilities to users that require a compact, high resolution, easily transportable X terminal.
+Japan Computer also claims to have the first large, high resolution LCD based on Thin Film Transistor technology, and says the XfC is the first of a flat-panel family.
+It incorporates all the features of the monochrome flat panel series, plus the RISC engine, X server accelerator, large screen and colour.
+It uses a 25MHz CPU to offer performance of 70,000 Xstones, 256 colours simultaneously on the 13″ screen with resolution of 1,280 by 1,024; options include touch panel and multimedia.
+It measures 11.1″ by 5.4″ and weighs 16 lbs 8 oz.
+It is $10,000 fully configured, now.
+IBM's WATSON LAB HAS FULL VIRTUAL REALITY TOOL KIT
+IBM Corp's Thomas J Watson Lab announced yesterday that it has developed a tool kit for building virtual reality simulation applications for the ‘real worlds’ of science, medicine, education and business.
+IBM said although the VR tool kit is not yet an IBM product, it believes a related type of package could be priced competitively with similar products on the market.
+The modules include VPL DataGlove, Polhemus 3Space and Fastrak trackers, three-dimensional mouse, stereo three-dimensional displays for computer screen and projection or head-mounted displays, speech recognition, sound synthesis and a three-dimensional graphics generator; it runs on Unix workstations.
+NATIVE NETWARE FOR ALPHA
+There is a native version of Novell Inc's NetWare for the Precision Architecture RISC and one on the way for the Sparc; Digital Equipment Corp and Novell yesterday said native NetWare 4 for Alpha was coming.
+ ENLIGHTENED OR LUDDITE?
+EUROPEAN, US PHONE COMPANIES DEBATE COMPETITION
+British Telecommunications Plc wants it now, the Deutsche Bundespost Telekom wants it too, but not yet, and France Telecom wants to think about it a bit more.
+All are agreed, however, that competition in European telecommunications is more or less inevitable, as a debate at last week's Networked Economy Conference in Paris, organised by Communications Week International, demonstrated.
+France, Germany and Italy came out on the sceptical side, with the UK, the Netherlands and North America on the other.
+Although the positions hadn't changed, the exchange was rousing.
+Iain Vallance, chairman of British Telecom, quipped that the attitude of some of Europe's PTTs toward competition is like that of St Augustine toward chastity: ‘O Lord, let me be chaste, but not yet!’
+Vallance took direct aim at the three sceptical competitors.
+‘The argument in Italy that ‘we're not ready for competition’ goes something like ‘since we haven't been able to serve our customers as we should up until now, no one else should be allowed to!’’he said.
+In Germany, the Bundespost Telekom's argument is that it has to complete the reconstruction of eastern Germany's telecommunications infrastructure before it can allow competition, Vallance said.
+Procrastination
+‘But should all of those people who had no part in that decision be made to wait?,’ he added.
+‘France Telecom is the most ready and able to compete of any of the European PTTs, but it is waiting too.’
+He jibed that ‘maybe it is waiting for some cross-shareholding agreements’ with Bundespost Telekom.
+The arguments for procrastination must be taken apart, Vallance said.
+‘The notion that without a monopoly the country will be without universal service, for example, is just not true, if you look at the US, Sweden [and]the UK’ he pointed out.
+It is precisely timing that should be the topic of discussion, said Ben Verwaayen, president of Koninklijke PTT Telecom Nederland NV, which is scheduled for privatisation next year.
+‘The market will be liberalised.
+If we continue debating this among ourselves, the rest of the world, our customers, will get fed up,’ he declared firmly.
+‘But is competition an end in itself?
+Is it the only way telecommunications will develop in Europe?’ asked Marcel Roulet, president of France Telecom.
+‘In an environment as complex as European telecommunications, we must be wary of short cuts’.
+Any change must protect universal service, must ‘treat firmly the non-European aspect of competition’ and must provide a ‘level playing field’.
+La Stet SpA, Italy's state-owned telecommunications holding company, favours liberalisation, but opposes a system in which new telecommunications operators could take over just the most lucrative business, such as national long distance, which subsidises local calls, said Umberto Silvestri, STET's chief executive.
+‘Looking at what happened in the US under the push of liberalisation in the air transport market, you can't necessarily say it was better afterward,’ Silvestri said, carefully avoiding to choose the US telecommunications system as his example.
+Deutsche Bundespost Telekom board member Dieter Gallist took a similar line to both Roulet and Silvestri, but was pessimistic about competition in Germany because of the constitution, which says that the government must own the postal and telecommunications services, and a change in the constitution requires a two thirds majority in both the Bundestag and Bundesrat.
+Along with privatisation, Gallist said ‘the political will to rebalance tariffs exists, but when it comes to specifying the timeframe, we may have more problems.’
+For now, he added, Telekom is ‘very cheap on short distances, but not so very cheap on long distances’.
+Nevertheless, he continued, ‘We can't just say that competition and free market are solutions.
+I agree with Roulet that everyone has to fight for equal conditions, and then we are happy to share.
+We should balance monopoly and free market.
+When I look at my colleagues in the US, I can't say that total competition is total success.’
+Regardless of their positions on competition, everyone acknowledged the need for, and the limitations of, partnerships.
+In response to a question from Communications Week editor Denis Gilhooly about whether Eunetcom, Syncordia and Infonet could be merged in some meaningful way, Roulet said, ‘We set up Eunetcom to compete with Syncordia.’
+Diminished returns
+Vallance said further that ‘the chances that British Telecom would enter into Eunetcom or Infonet are slender’ because of the diminished returns in a joint venture with too many partners.
+And would MCI Communications Corp, AT&T Co or Sprint International Inc be willing to take a minority share in a European consortium in exchange for opening up their US customer base?
+MCI's Roberts said the response would be ‘tied to the number of partners and the exact nature of the reciprocal arrangement.
+We will not give up the US customer base to anyone unless it's done in a partnership.
+We do not look at ourselves in any kind of subservient relationship.’
+Roberts added that neither does MCI intend to take an equity position in a European PTT.
+Paolo Guidi, president of Sprint International, said only that his company makes ‘partnerships with people’, and Randall Tobias, chairman of AT&T International, said, ‘I won't put constraints on what we might do.
+It's AT&T's policy to look for partnerships worldwide.’
+UNIX INTERNATIONAL HELPS DEVELOPERS TO CONVERT BETWEEN UNIX SYSTEM V.4.2 AND SOLARIS…
+Unix International Inc will use UniForum to launch a guide to the implementation differences between Unix System Laboratories Inc's System V.4.2 operating system and Sun Microsystems Inc's Solaris, in an attempt to counter the widely-held perception that the two are incompatible.
+Unix International worked with both Unix Labs and Sun on the guide, along with a third, unidentified company.
+It doesn't rule out the possibility of further guides covering other similar, but not identical, Unix implementations.
+It also promises a detailed study of downsizing, with case studies of Burlington, the Toronto Stock Exchange and Motorola Inc, including the costings.
+And it will introduce a new affiliate membership level to Unix International for value-added resellers and software houses that don't need the detailed specifications that come with Associate membership.
+The price will be well below the current $10,000 fee for associate membership, it promises.
+…
+AND PLANS TO EMBARK ON THREE REFERENCE TECHNOLOGY SEARCHES THIS YEAR
+Having opened up the process of selecting technologies that surround the core System V.4 operating system beyond Unix System Laboratories Inc, Unix International plans to go to the industry at large for three technologies this year, according to president Peter Cunningham.
+The first will be for a standard way to support multimedia applications under Unix.
+The second will aim to cover the implementation of distributed object management, following specs already laid out by the Object Management Group.
+The third area was not revealed, but it is thought to cover a Unix alternative for the Microsoft Corp Object Linking and Embedding and Dynamic Data  Exchange technologies.
+Any company can submit technology, and Unix International members vote to find the winner.
+In order to get its technology accepted, a provider must agree to provide specs, application programming interfaces, test suites and general availability before being accepted.
+HUMMINGBIRD READIES NEW X WINDOW SYSTEM SOFTWARE FOR WINDOWS NT, STRING OF OTHER NEW PRODUCTS
+Canadian X Server software house Hummingbird Communications Ltd of Markham, Ontario, is introducing three new products at UniForum this week, including exceed/NT, its new X-terminal software for Microsoft Corp Windows NT; exceed/Xpress, a suite of products that access X applications over serial lines; and an OSF/Motif toolkit.
+It also has enhancements to exceed/W, its flagship X server software.
+Exceed/NT will enable users concurrently to access X Window clients and applications running under Windows NT.
+It includes two windowing modes, which enable users to execute X clients and local MS-DOS, Windows and NT applications at the same time; X11.5 scalable fonts, font server and XDCMP security.
+It supports Microsoft's TCP/IP Windows Socket Transport programming interface, as well as a window planner and plane mask support.
+The software also includes Hummingbird's XDK developer kit, which enables users to convert applications between personal computer and Unix environments.
+Xlib, Xt intrinsics, Xaw and Xmu libraries are also included.
+Exceed/NT will be out at the end of the month at $600.
+Exceed/Xpress enables remote personal computer communications to X Window applications via modem or by RS232 serial connection.
+It is at $250.
+The OSF/Motif Toolkit will enable users to develop Motif X Window clients on a personal computer rather than a remote host.
+This costs $150.
+Hummingbird also introduces version 3.3 of exceed/W, its personal computer X Server software for Windows.
+Enhancements include Telnet support for VT220, a Microsoft Windows Socket application programming interface and non-X application support using Xstart, which starts up the application on the host system.
+Exceed/W also supports Univel Inc's Unixware.
+No prices were given for exceed/W.
+RETIX OPENMESSAGING ENABLES MAIL SYSTEMS TO TALK TO EACH OTHER Santa Clara, California-based Retix Inc has announced the OpenMessaging Solution, a product family claimed to provide enterprise-wide interoperability between heterogeneous electronic mail systems.
+It is based on its DX Directory Exchange alternative to the CCITT X500 standard.
+The system consists of four components, centred on the company's previously-announced OpenServer 400 family of X400-based messaging servers.
+These connect personal computer local network electronic mail systems with each other, with mainframe and minicomputer-based systems, and with public networks supporting X400.
+These are linked to the first new component of the family, the OpenServer Directory Exchange Server, DXS, which provides a centralised repository of all user addresses on the network, and is responsible for propagating this information to the other electronic mail systems.
+It works with newly-enhanced versions of the company's range of gateways, which convert proprietary electronic mail messages into the X400 format for routing by the OpenServer 400.
+Currently gateways for cc:Mail, Microsoft Mail for personal computer networks and the Macintosh, NetWare MHS, SMTP, WordPerfect Office, and Oracle mail are being offered.
+The enhancements to the gateways include a new Directory Exchange Agent, DXA, which handles directory synchronisation, and an AliasMapper which provides the alias mapping for automatic alias and originator/recipient name generation, based on rules  defined by the systems administrator.
+A related feature, the AliasManager, has also been added, and is claimed to enable easier management of changes to the alias database.
+AutoRegistry
+A Multi-Code Page capability supports international character sets for global electronic mail interoperability.
+Finally, the company has added an AutoRegistry feature providing automatic registration of foreign, incoming and outgoing X400 names into the alias database.
+Prices for the enhanced gateways begin at £1,750, but there is no word yet on upgrade prices for existing users.
+The final component of the system is a new management tool, the OpenServer Remote Manager (list price £2,650), which works in conjunction with an OpenServer Management Agent that is to be added to the OpenServer 400 family: it is initially to be incorporated onto the Unix version (expected at the end of the month), with MS-DOS and OS/2 versions following along during the second quarter of the year.
+FRANCE TELECOM's SPHERIS BRINGS SERVICES TO PERSONAL COMPUTERS; MICROSOFT PACT
+France Telecom and Microsoft Corp yesterday announced an accord that will enable French users of Microsoft Mail to access the operator's X400 network directly.
+The operator also announced Spheris, a new messaging software designed to integrate its existing telecommunications services onto personal computers.
+The agreement establishes that Microsoft will integrate France Telecom's Atlas 400 X400 gateway into its electronic mail software and France Telecom will offer Microsoft Mail on a non-exclusive basis as a private messaging option within its Spheris offering.
+Spheris integrates France Telecom's existing services, including Atlas 400 messaging, Viafax facsimile, Missimix telex and Minicom Minitel viewdata, on a personal computer.
+‘We're departing from the idea that microcomputers will be a fantastic source of telecommunications traffic in the future,’ said Jean-Jacques Damlamian, France Telecom's sales director, citing a study by DG Conseil that shows France's 420,000 networked personal computers already generating $160m per year in revenues for all types of telecommunications traffic.
+‘We are not interested in selling computers, but in interconnecting them ergonomically.’
+Spheris comprises three software components — Spheris User, Spheris Communication and Spheris Federator.
+Spheris User functions on either a local network (Novell NetWare 2.2 and 3.11, LAN Manager 2.0 and 2.1, and IBM PC LAN 1.3) or stand-alone personal computer or workstation.
+Via the appropriate graphical interface (the product provides Windows, OS/2 Presentation Manager, or Macintosh), users can send documents to users that are local, distant or outside the enterprise.
+Spheris User functions with Spheris Communication on stand-alone personal computers and workstations to manage local messaging and access to other sites via the workgroup server.
+The X400-based Spheris Federator, which operates on servers, manages messaging between company sites, offering management tools, company directory, and fax and telex access.
+It runs on Unix systems.
+Spheris users will be able to mix X400 servers and dedicated private messaging servers, such as Microsoft Mail, France Telecom said.
+France Telecom said Spheris will be completed by the end of this year, when it receives its Minitel and Unix workstation functions and integrates the latest specifications, X.400-88 and X.500.
+Transpac
+It will sell Spheris through its Transpac and Telesystemes subsidiaries.
+It hopes to add other gateways to products from other software companies.
+To that end, it confirmed that sales of Lotus Development Corp's Notes software for France's ISDN network users should start this year.
+As established by their pact last autumn, France Telecom and Lotus are developing a native Numeris driver for Notes and three sample Notes-based workgroup applications to facilitate sales.
+The three applications are for report writing, cataloguing and document interchange.
+‘We wanted to have characteristic examples of applications well adapted to the French consumer, which could be sold by Lotus,’ Damlamian said.
+He also recounted development efforts under way with hardware partners, IBM France SA, Apple Computer Inc and Zenith Data Systems, for communications devices that integrate facsimile, answering machine, Minitel and messaging.
+An MS-DOS version should arrive before the summer, he noted, and similar products for Zenith portable personal computers and for Macintoshes should be ready by the end of the year.
+HUTCHISON's TELEPOINT POCKET PHONE SERVICE FAILS TO MEET SUBSCRIBER TARGETS
+With subscriber numbers running at less than half their target, Hutchison Telecommunications UK Ltd's Personal Communications Telepoint pocket phone subsidiary has cut the prices of its GEC Plessey Telecommunications Ltd-made Rabbit CT2 phones, and formed a direct sales force to target small businesses.
+The company said last October that it was expecting 20,000 subscribers by year-end, but at the start of March it had signed just 8,500 to the service.
+According to Neill Macklin, marketing director for Hutchison, there are two reasons for the slow take-up: that the company realised late last year it did not have sufficient geographical coverage to promote the service fully, and because it ‘hadn't predicted the onslaught from the low-cost cellular services [of Cellnet and Vodafone]’.
+Indeed, Macklin reckons that the 11,500 subscribers it is missing have been attracted by Cellnet Mobile Communications Ltd's Lifetime service and the Vodafone Group Plc's Lowcall offering, both of which offer reduced call rates for infrequent users.
+So how does Rabbit plan to attract back these users?
+Initially, according to Macklin, through the new Team Rabbit direct sales force which is intended to push the advantages of CT2 for business users.
+He says that until now the company's marketing drive has ‘not been Telepoint led’, and instead pitched at selling the handsets as ‘a quality cordless phone’.
+But with the new sales force, this is to change.
+However, this comment conflicts with statements made back in September, when the company said it was saddened by users employing the handsets solely as cordless phones and not taking advantage of the Rabbit network.
+The second prong of the attack is reduced rates for the GEC Plessey Rabbit phone, which drops in price to £69 from £127.65, and the Rabbit Recall package (including the park and charge unit), which goes to £100 from £177.
+Similarly, the addition of a base station is now to cost £69 rather than the £85 charged previously.
+The prices for Motorola Inc's handsets and base stations remains unchanged.
+The company also believes that its increasing experience of managing what is claimed to be the largest CT2 network in the world should increase its competitiveness for the future.
+Macklin acknowledges that there has been a learning curve, particularly with regard to the siting of base stations where there has been some duplication of coverage.
+Although this has led to some re-siting of base stations, Macklin says these problems have been resolved.
+RISCs WITH FASTEST CLOCKS SEEN WINNING PERFORMANCE BATTLE OVER THE SUPERSCALARS
+Rounding up the state of play in the RISC market, Digital Equipment Corp's Alpha and the MIPS Technologies Inc's R4000 part are already 64-bit.
+IBM Corp is also making the transition along with Sun Microsystems Inc but its first 64-bit silicon, the 620 PowerPC, is still a year away.
+An essay in the latest issue of the Microprocessor Report makes the point that the designers that are pressing the clock speed argument such as MIPS, Hewlett-Packard Co and DEC are the ones winning the performance race, not those such as Sun, IBM and Motorola Inc that stress instructions per cycle.
+The complexity of the Sun, IBM and Motorola designs can also slow time-to-market: a six-month slip, such as Sun had with the SuperSparc, can make a new CPU suddenly uncompetitive.
+HEWLETT-PACKARD ANNOUNCEMENTS
+Peripherals customers get ingenious off-the-shelf shrink-wrapped HP SupportPack service package
+Hewlett-Packard Co has launched something it calls ‘service-in-a-box’ for its peripherals product customers.
+The HP SupportPack is a three-year support package available through authorised resellers worldwide and designed to keep customers' business operations up and running with assurance of next-day product replacement directly from Hewlett-Packard.
+Physically, it is a shrink-wrapped package about the size of a music CD package that the user buys off the shelf, and it was pioneered here in the UK, in France and Australia before being introduced in the US.
+Inside the package are instructions for one-time product registration, the registration card, and a non-removable label for the product under coverage.
+The new programme includes a limited three-year Express Exchange service agreement covering the LaserJet, DeskJet, ScanJet and facsimile product lines.
+When the thing starts playing up, the customer calls the HP SupportPack phone number listed on the package and if the problem cannot be resolved over the phone, a replacement product is shipped overnight.
+Once the replacement arrives, the customer puts the non-working product into the post-paid replacement box, seals it with the tape provided by Hewlett-Packard and sends it back to the company.
+The service is available within 30 days of the product's purchase date and the three-year support coverage takes effect immediately the SupportPack is bought, running along with and beyond any remaining original product warranty.
+SupportPack prices are based on a percentage of the street price of the product being covered.
+Progress to go up on top of AllBase/SQL database
+Hewlett-Packard Co and Progress Software Corp have signed a joint marketing and development agreement to implement the Progress application development environment to the RISC-based HP 3000 business computers.
+The resulting product will enable HP 3000 users to run Progess-based applications unchanged on top of the AllBase/SQL relational database system, opening up a claimed base of thousands of applications from Progress Software's 2,000-plus Software Partners.
+The environment will enable HP 3000 users to develop and deploy terminal-based or client-server applications across all Hewlett systems from the HP 3000 to the HP-UX-based HP 9000 Unix servers and workstations, and HP Vectra personal computers.
+The HP 3000 offering will be introduced in phases beginning with a client-server version that enables Progress-based clients to access the AllBase/SQL database.
+A later version will enable Progress-based applications to reside on the HP 3000.
+The client-server version is to be available in the second half of 1993; the terminal-based version early 1994.
+The prices will be announced before the first commercial shipment.
+Dump the mainframe!
+Hewlett joins Mead Data Central's Unix party
+Mead Corp's Mead Data Central Inc database operator plans to dump its mainframes — it already has a big bunch of Sun Microsystems Inc workstations, and it has now chosen Hewlett-Packard Co to become a strategic supplier for its next-generation computing.
+Mead says that over the next several years it will move from a mainframe-centric architecture to a more flexible Unix environment, and Hewlett products are being incorporated as components of Mead Data's internally developed Lexis and Nexis legal, business, financial and medical databases.
+Mead Data Central, Miamisburg, Ohio, did $495m in 1992 and employs 4,100 worldwide.
+Posix rules OK!
+HP 3000 picks up Ask Manman/X…
+By all the rules of the market, Hewlett-Packard Co's HP 3000 business computer family should be going the way of the Wang Laboratories Inc VS and the Nixdorf Computer AG 8870, but in defiance of crude market logic, the machine is going from strength to strength, bolstered by the company's relaxed approach to migration to Unix: because HP 3000 users know they can relatively painlessly convert to Unix any time they choose, the majority are happy to stay right where they are, and the company claims that its high-end HP 3000 system business actually grew more than 50% last year, and the much-derided Posix interface is actually enabling it to pick up applications from Unix.
+The company has picked up a string of new applications for the manufacturing, financial and education markets to run under the HP MPE/iX operating system.
+The latest Unix application moved to the HP 3000 is Mountain View, California-based Ask Computer Systems Inc's Manman/X, manufacturing business-management system, which was converted ‘in just four weeks’ using the HP 3000 Posix interface, and will be available on the HP 3000 in the spring.
+It is available now on the HP 9000.
+Manman/X is the Unix version of Ask's business information system that supports all aspects of manufacturing.
+It consists of 27 modules that automate the entire manufacturing process, including planning and costing, engineering control, project control, inventory, shop-floor control, sales management, purchasing, finance, customer service and maintenance.
+It starts at $25,000 for an eight-user system.
+A 128-user system is $250,000 to $300,000.
+…
+PeopleSoft's PeopleSoft Financials…
+PeopleSoft Financials, from diversifying Walnut Creek, California payroll and personnel software specialist PeopleSoft Inc is being integrated with AllBase/SQL for the HP 3000.
+PeopleSoft General Ledger is expected to be available on the HP 3000 in June, at prices from $100,000 to $300,000.
+PeopleSoft Accounts Payable, Accounts Receivable and Asset Management are planned to follow later in the year.
+PeopleSoft HRMS, consisting of Peoplesoft Human Resources, Benefits, Flexible Spending Accounts Administration and Payroll, already supports AllBase/SQL on the HP 3000 and Hewlett-Packard says it uses the product internally.
+River Edge, New Jersey-based Delta Management Systems Inc, which specialises in administrative software for Kindergarten to 12th Grade schools and community colleges, claims that it completed the conversion of its Unix-based Administrative/Student Software to the HP 3000 in eight weeks, using the Posix interface, and availability is expected later this month.
+Delta has an integrated system with capabilities for student administrative functions such as scheduling, grading, attendance and alumni development.
+The financial administrative functions include budgeting, accounts payable, accounts receivable, general ledger, payroll and personnel.
+It costs from $15,000 to $350,000.
+SERVING THE BLUE CHIP NAMES OF THE INDUSTRY SERVES SLIMMED-DOWN TELEMETRIX VERY WELL
+Since Tim Curtis succeeded Roy Cotterel as chief executive of Telemetrix Plc last February, he has ‘cut the whiskers off the company to make three clean and focussed businesses’.
+These have turned in greatly enhanced profits for the year ending December 31.
+In the words of chairman Arthur Walsh, ‘We have tried to present an organisation we can understand, that we couldn't understand before.’
+The workforce has been reduced from 600 to 480 ‘non-GTI people’, but total headcount is approximately 4,500 staff, ‘mainly Chinese’, according to Walsh.
+The three businesses comprise 60.9%-owned San Diego-based subsidiary GTI Corp, which makes magnetic components for the local area network market; UK-based Zetex, a specialist analogue semiconductor manufacturer for the data storage market; and Trend, which has now completely moved out of defence to concentrate on dedicated telecommunications test equipment.
+Group pre-tax profits increased 137% to £9.8m, while turnover was up 17.3% to £98.2m.
+Cash of £1.2m
+But earnings per share almost trebled to 5 pence from 1.7 pence due to a doubling of attributable profit from GTI, and substantially improved results from the other wholly-owned companies.
+Net profits were hit by £900,000 exceptional charges, but also grew 19% to £4.4m.
+While the High Wycombe, Berkshire-based group spent £4.3m in closing loss-making businesses and selling surplus properties, this was partially offset by £3.4m gains following the sale of 329,000 common shares of GTI.
+A further £1.1m from the sale, together with the cash generated from group operations, combined to turn last year's debt of £4.8m into cash of £1.2m this year.
+Because of this greatly improved performance, the board is recommending a 33% increase in dividend to 0.8 pence.
+As mentioned, GTI turned in pre-tax profits up 104% to £8.1m, while sales grew 37% to £60.9m.
+The company now makes up 62% of total group turnover, and has increased net cash balances from £500,000 to £1.6m.
+Major customers include Intel Corp, 3Com Corp, Synoptics Communications Inc and Hewlett-Packard Co.
+Margin on sales improved from 9% in 1991 to 13.4% as a result of increased volume sales of the Valor networking product range.
+Revenues from this were up 77% to £37.2m, while pre-tax profits grew 92% to £7.8.
+Order backlog also increased 56% to £10.6m.
+During the year, GTI added surface mount products for the mobile communications market as well as ISDN devices to its range of offerings, and opened a third manufacturing facility in China.
+A fourth plant will also be set up in the Philippines towards the end of 1993 to focus on surface mount technology.
+ISDN is one area of business that GTI is keen to develop — according to German market researcher MZA, the European market for ISDN telephone lines will grow in value from £200,000 now to £2.5m by the year 2,000.
+Curtis said that growth was more marked in Germany than the UK, with the number of lines having grown to between 60,000 and 70,000 in 1992 from 20,000 in 1991.
+He also reckons there are underlying growth trends in the market for connecting personal computers to networks.
+Figures from market researcher International Data Corp indicate that while 20% of all personal computers were networked in 1991, this will rise to 40% by 1995, so he feels that prospects are good here too.
+Zetex increased its pre-tax profits to £2.1m this time from £1.1m in 1991, while sales were up to £15.9m from £12.1m mainly due to doubled revenues from surface mount products.
+The company now generates 16% of total group turnover, and its biggest customer is Conner Peripherals Inc, although it also develops electronic components for the automotive industry.
+Exports increased to 69% this time from 64% of total sales last, but Curtis said that it didn't benefit much from the movements in exchange rates.
+There was only a 1.8% differential between 1991 and 1992, he added.
+But he does expect the weakness of sterling to have a beneficial effect in the coming year.
+Since moving out of the unprofitable world of defence, Trend has returned to profits of £900,000.
+In the second half of last year, it had made a loss of £1m, and broke even in the first half of 1992.
+It now accounts for 15% of total income, most of which is generated in Germany.
+Curtis said that Germany is currently spending a fortune on developing the telecommunications infrastructure in the east.
+Other major customers include British Telecommunications Plc, Siemens AG and Motorola Inc.
+The remaining 7% of group revenues comes from a couple of subsidiaries in  Zimbabwe , ‘the dowry’ from South African investor, Johannesburg-based Allied Electronics Pty.
+One deals in telecommunications equipment and the other in lighting products.
+According to Curtis, strong action was taken at the group when it was needed, and this has now provided a ‘springboard for growth’.
+Telemetrix's future aims are to grow both organically and by acquisition.
+It has identified markets that it believes will grow at above average rates, such as local area networks, ISDN, and mobile communications, and aims to focus attention on them.
+It is also interested in selective acquisition as a way of moving into new geographical markets or new up-and-coming product areas.
+SHARE & BOND ISSUES
+Martin Marietta Corp's Martin Marietta Technologies Inc has filed a shelf registration with the Securities & Exchange Commission for up to $800m of debt securities, part of a $1,000m offering, of which $200m was previously registered.
+Proceeds will be added to the unit's general funds and will be available for working capital purposes of both firms.
+COMPANY RESULTS
+Compuware Corp saw third quarter net up 87.2% at $11.8m, on turnover up 31.2% at $62.2m; net profit for the nine months stood at $25.7m against losses of $8.7m last time, after $21.1m non-recurring charges last time, on turnover that rose 36.2% to $165.8m.
+Net per share rose 89.5% to $0.36 in the quarter, and amounted to $0.76 in the nine months.
+Volmac Software Groep NV has reported net profit for the year to December 31 down 37.8% at the equivalent of $39.8m after an  extraordinary charge of $13.9m this time and a gain of $4.8m last, on turnover that fell 7.4% at $458.4m.
+Net earnings per share declined 38% to $0.96.
+The comparisons are with 1991 figures that have been restated.
+Conversion at at $0.5357 to the Dutch guilder.
+Telemetrix Plc has turned in net profits for the year to December 31 up 19% at £4.4m, after £940,000 restructuring charges this time and £1.5m last time, on turnover that rose 17.3% to £98.2m.
+At the pre-tax level, profits were up by 137.3% at £9.8m.
+Earnings per share rose 194.1% to 5 pence.
+TELE2 AB BEGINS OPERATIONS IN SWEDEN
+Tele2 AB, the new Stockholm-based telecommunications company 60% owned by Kinnevik AB and 40% by Cable & Wireless Plc, yesterday began operations in Sweden: Tele2 offers its customers domestic and international links, and aims to win a 10% share of the Swedish market, which is at present monopolised by state-owned Televerket, by 1995.
+SONY TAKE NEXT LOGICAL STEP WITH APPLE
+Last year, Sony Corp bought a licence to Apple Computer Inc's AppleTalk network so that Macs could be networked with its News Unix workstations, and it has now taken the logical next step and its computer subsidiary will market Macs for attaching to networks of Sony workstations in Japan, with much of the business to be directed at use within the Sony group companies.
+HUTCHISON WHAMPOA LAY BLAME AT UK SUBSIDIARY
+Hong Kong-based Hutchison Whampoa Ltd blames a 5% fall in profits before charges for closure of some telecommunications operations on losses at the UK telecommunications subsidiary, Reuter reports, but the group will still commit another £200m to the UK unit this year, group chairman Li Ka-Shing said: ‘I'm not happy with the results, but we'll still continue our commitment to the UK operation and pump more money into it,’ he said —‘I'm not sure the worst is over yet in the UK, which ate up all our Hong Kong profits this year;’he said Hutchison will have invested over £500m in the loss-making UK unit, including the £200m that is earmarked for this year, but he refused to say at what point he will say enough is enough —‘It's too early to say; you can never tell when business will pick up.’
+HEWLETT-PACKARD SEES OFF LAWSUIT
+Hewlett-Packard Co has seen off one of those contemptible shareholder class-action lawsuits: it was filed last August and alleged securities laws violations after the company said that it did not expect to meet analysts' fiscal third quarter estimates; the judge dismissed the case after Hewlett persuaded the plaintiffs that they were wasting their time and that of the court.
+COMPANIES QUEUE UP TO ENDORSE IBM-HP-SUN EFFORT
+Companies rushing up to endorse the still nameless IBM Corp-Hewlett-Packard Co-Sun Microsystems Inc common user interface for Unix effort (CI No 2,130) include Software AG, IBM's Personal Software Products division, Computer Associates International Inc, Unisys Corp and Ask Computer Systems Inc; the Object Management Group stood in the wings enthusiastically applauding.
+KNOWLEDGEWARE EXPECTATIONS
+KnowledgeWare Inc, Atlanta warns that it expects to report non-recurring charges of $20m for its fiscal third quarter to March 31 from acquisitions and restructuring and expansion of product lines, and that this will lead to a loss for the quarter and for the year; it also says that lower revenues combined with operating costs associated with the acquisitions are expected to contribute to a third quarter operating loss; it looks for growth in European revenues.
+SAGE FINALLY LAUNCH MAC VERSION OF STERLING +2
+Accounting software house Sage Plc has finally launched the Macintosh version of its mid-range Sterling +2 package software, along with a revamped version of its MainLan peer-to-peer networking system and enhanced version of its Sovereign high end accounting system: the announcements were accompanied by the news that Sage Sterling +2 has now been included in the IT Recommended Product Scheme run by the Institute of Chartered Accountants in England and Wales; the Bookkeeper version of Sterling +2 for the Mac, available now, is £150, the Accountant version is £350; MainLan 4.0 for MS-DOS and for Windows said to be faster and takes up 20% less memory than its predecessor is either £400 for the 16-bit starter kit boards or £200 with 8-bit boards; the ‘super enhanced’ Sovereign 4.7 now has full EuroVAT reporting and improved profit and loss, stock take and help facilities and costs £350 for single users or £600 for multiple users.
+NORTH AMERICAN PC SOFTWARE SLOW-DOWN
+The Software Publishers Association in Washington reckons that North American personal computer application software sales rose 9.6% to $1,710m in the fourth quarter of 1992 and totalled $5,750m for the year, an increase of 14.1%, all of which suggests there's a slow-down.
+VOLMAC SOFTWARE UNABLE TO MAKE 1993 FORECAST
+Commenting on its figures (see page seven), Volmac Software Groep NV, 58%-owned by Cap Gemini Sogeti SA, which reported a 37.8% decline in 1992 net profits, said that in view of uncertain market conditions it could make no forecast for 1993; the net profit was depressed by extraordinary charges from the integration of Volmac and Cap Gemini's Benelux operations; the 7.4% fall in turnover exceeded the 6.1% decline in the number of employees; the results were still better than expected and the shares jumped 19% on the Amsterdam stock exchange.
+NTT LIKELY TO GET SOME OF THE RATE RISES IT SEEKS
+The shares have been soaring on hopes that the rate rises would go through, and Nippon Telegraph & Telephone Corp is likely to get some of the local rate increases it is seeking, Minister of Posts and Telecommunications Junichiro Koizumi told Reuters: the company wants to raise rates across the board, but the hikes are likely to be granted only for pay telephones, not for households or businesses.
+ENDANGERED MAINFRAMES AT MEAD DATA CENTRAL
+Whose are the mainframes at risk in Mead Data Central Inc's phased move to Unix systems (see page five, inside)?
+The giant database operator is extremely unforthcoming, but it's hard to keep these things quiet and our spies tell us that at the last count — which was about a year ago, it was a three-way split between IBM Corp, down to one 3090-300S and one 3090-200, Amdahl Corp with a 5990-1400 and two 5990-1400As, and Hitachi Data Systems Inc with three EX/100s; at the time, there were also 350 of IBM's disgraced RT Unix boxes, and 21 IBM System/88 fault-tolerant machines.
+WESTERN DIGITAL CORP WARNS OF LOW EARNINGS PER SHARE
+Irvine, California-based Western Digital Corp warns that earnings per share for the third quarter to March 27 will be ‘significantly below’ consensus analysts' expectations which have been in a range of $0.20 to $0.26 a share, as a direct result of severe price declines in the 3.5″ hard disk drive business: the company says it does not see a significant decline in unit demand and that demand from its key OEM customers is getting stronger and says it is comfortable with revised analyst estimates, in the $0.05 to $0.10 per share range; ‘To the best of our ability we will not participate’in the price wars, it said.
+IBM EMPLOYEE ARRAIGNED FOR ALLEGEDLY STEALING $49m WORTH OF MAINFRAME MEMORY BOARDS
+A former IBM Corp employee has been arraigned on seven counts of grand larceny for allegedly stealing more than $49m worth of mainframe memory boards from the company — but you're meant to laugh at the $49m figure, because that is the highest price at which they were included in the price list, and very few customers are likely ever to have paid it; the indictment by an Ulster County grand jury charged Carl McDonald, 41, of Poughkeepsie conspired to steal 3,381 mainframe memory boards from IBM's complex in Kingston, and allegedly sold the boards for $7m, a more realistic valuation, to computer firms in Texas, Minnesota, California, Canada and here in the UK; no names.
+ICL TO MARKET LINE PRINTERS FROM OUTPUT TECHNOLOGY
+ICL Plc is to market worldwide the 400 and 600 LPM line printers from Output Technology Corp Europe BV, the Hoofddorp, Netherlands-based subsidiary of Output Technology Corp, under a three year, $7m contract: they will replace ICL's traditional line printers for Unix systems and be targeted at local government and large corporate customers; ICL will directly market the printers under its own LP400 and LP600 label though its resellers will likely handle some sales.
+LOTUS LURE COGNOS PRESIDENT
+Lotus Development Corp has lured Cognos Inc president Jeffrey Papows over to its side to run its Notes Division as vice-president, a newly created post reporting to John Landry and June Rokoff who head the company's development programme; meanwhile Unix veteran Larry Crume, who had been running Lotus's mobile computing interests, has been re-assigned to run the cc:Mail line.
+BOOK SERIES FROM OBJECT MANAGEMENT GROUP AND QED PUBLISHING GROUP
+The Object Management Group and QED Publishing Group are teaming up to publish and distribute books on object technology including stuff like Object Group's scintillating Common Object Request Broker Specification and Architecture: they will also begin a book series with titles on distributed applications, object analysis and design and object technology costs and benefits.
+SOFTWARE TO INCREASE SPARC STORAGE CAPACITY
+Revolution Technologies Inc in Natick, Massachusetts has come up with PowerDrive, software designed to increase the file storage capacity of Sparc boxes transparently: the company says that it compresses files by 50% and it works on text and object files and executables.
+PEOPLESOFT INC REVEAL PEOPLESOFT INTERNATIONAL
+Walnut Creek, California-based personnel and payroll software specialist PeopleSoft Inc has set up PeopleSoft International appointing Richard Hess as managing director, international operations; he was general manager, international at Objectivity Inc, before that chief executive of Oracle East Asia.
+LANOPTICS WINS BRANCHNET CONTRACT
+LanOptics Inc says it has won a three-year, $4.5m contract to provide its BranchNet internetworking hub system to IBM Norway A/S.
+OBJECT MANAGEMENT OFFER OBJECT INTERNATIONAL'S MACROSCOPE
+Caterham, Surrey-based Object Management Ltd is offering Object International Inc's MacroScope application development and integration environment here in the UK.
+TANGRAM PRODUCES SWIF CAD/CAM FOR HP 9000 SERIES
+Tangram CAE Ltd, Coventry, West Midlands has a version of its Swif CAD/CAM software for Hewlett-Packard Co HP 9000 Series 700 stations.
+TSB IRELAND TO UPGRADE TO NATIONAL X.25 NETWORK
+The Trustee Savings Bank Ltd in Ireland is to upgrade its data network to a national X25 network: it has signed a £600,000 contract with Motorola Inc's Codex for a network consisting of 6500 Series packet switches controlled by the 9800 Network Management System.
+PYRAMID TECHNOLOGY PICK HEADS TO MANAGE PARTNERSHIPS
+Pyramid Technology Corp has picked executive vice-president, Ed Scott, and former US sales vice-president, Robert Buhl to team up to develop and manage the company's technology and strategic partnerships with vendors and integrators worldwide: the move is part of the firm's four-month-old Open Data Center strategy; Buhl has been named vice-president, strategic partners, reporting to Scott; Pyramid's chairman, Richard Lussier, will assume management of direct sales organisation and marketing oversight will fall to chief operating officer John Chen; Mitchell Mandich, formerly Tandem Computers Inc's western region sales director, is vice-president for the Americas responsible for sales in the western hemisphere and reporting to Richard Lussier.
+PROACTIVE SOFTWARE ADD VALUE TO CUSTOMER SUPPORT SOFTWARE
+ProActive Software Inc has agreed to link its customer support software with Aspect Telecommunications Inc's CallCenter automatic call distributor via Aspect's Application Bridge, a high-functionality telephone-to-computer system link.
+ACCENT COMPUTERS TO DISTRIBUTE ANDREW NETWORK PRODUCTS
+Burgess Hill, West Sussex-based Accent Computers Ltd has signed to distribute Andrew Corp's Andrew Network Products' range of IBM Corp communications products: the agreement covers 5250 emulation and file transfer products, Token Ring systems, mainframe and mid-range protocol converters and gateway devices.
+DYNATECH EXTENDS LAN DIVISION
+Dynatech Communications Corp, Madison, Wisconsin has extended its recently launched local area networking division into Europe: Dynatech Communications Europe will market a range of hubs, bridges and routers, gateways and network management systems throughout Europe and looks to double its turnover for local net products with the new division.
+WORDPERFECT CORP ACQUIRES WORDPERFECT PUBLISHING
+WordPerfect Corp has acquired neighbouring WordPerfect Publishing Corp, which produces WordPerfect Magazine, WordPerfect for Windows Magazine and WordPerfect Magazine UK: the Utah publishing house also produces newsletters, catalogues, demo disks, seminars and organises direct marketing campaigns which, its new parent considers, makes it an ideal extension to its existing marketing activities; production at Wordperfect Publishing, which has 105 staff, $12m turnover, and an estimated 300,000 readership will not be affected by the acquisition.
+BT SUPPLY NATIONAL POWER WITH VIDEOCONFERENCING EQUIPMENT
+British Telecommunications Plc's Visual & Broadcast Services division is to supply £400,000 worth of desktop videoconferencing equipment to National Power Plc: the VC7000 videoconferencing system is to be used for homeworking links over the ISDN network, and management meetings between London and Swindon.
+PUBLIC OPTICAL COMMUNICATIONS NETWORKS CONSIDERED IN JAPAN
+Japan's Ministry of Posts & Telecommunications is considering constructing optical communications networks as public projects, in recognition that competition has made companies such as Nippon Telegraph & Telephone Corp less willing to invest heavily in construction — NTT and other common carriers would be permitted to operate the networks, which the Ministry hopes would be used for broadcasting too.
+STAR-TEK ANNOUNCE LINKBUILDER TR SERIES
+San Jose-based 3Com Corp's new Star-Tek subsidiary has announced the LinkBuilder TR series, the company's first stackable Token Ring hubs: with a fixed configuration of 16 ports per hub, users can add up to 15 additional expansion units for a maximum configuration of 256 managed user ports; the hubs can be used with unshielded and shielded twisted pair cabling, and support both 4Mbps and 16Mbps Token Ring; the basic model costs £2,250; the LinkBuilder TRi model 1, which includes a basic SNMP agent, is to cost £3,800, and the Model 2 with a complete SNMP RMON agent is £4,500.
+TORONTO COMPANY TO LAUNCH WIRELESS DATA LINK SERVICE
+Rogers Cantel Mobile Communications Inc, Toronto says it will launch a wireless data link service enabling portable computer users with a special modem to send and receive data from airports, taxis, hotels and customers' premises within the Rogers Cantel Mobitex cellular area.
+NORTHERN HEALTH SERVICE TRUST INSTALLS FDDI NETWORK
+The Northern General Hospital National Health Service Trust in Sheffield has become the first hospital in the UK to install a Fibre Distributed Data Interface network: supplied by Cray Communications Ltd, the network is intended to run between eight hospital departments.
+WYSE TO OFFER WINDOWS NT
+In the UK, Wyse Technology Ltd says that it will be offering Microsoft Corp's Windows NT operating system on a three-CPU Series 7000i/NT Intel Corp 80486-based machine, with 420Mb disk, priced at £15,100.
+POWERCORE AND ISOCOR ANNOUNCE JOINT TECHNOLOGY AGREEMENT
+London-based Powercore International Ltd and Paris-based Isocor Corp have announced a joint technology agreement to enable the former's Network Scheduler 3 workgroup product to operate as a native client application over Isocor's suite of X400 messaging systems.
+NOVELL UPGRADES NETWARE LITE
+Novell Inc has upgraded NetWare Lite for MS-DOS and Windows 1.1 by improving Windows support: users can now run NetWare Lite and Windows concurrently, and can manage the network from within Windows, rather than having to exit to MS-DOS for their network management.
+NETWARE USERS ASSOCIATION COMES FROM IBM ‘93 SHOW
+The IBM ‘93 show in Birmingham saw the formation of the NetWare Users Association, an independent user group intended to provide a forum between users and vendors; to be based in Peterborough, the group plans to publish a monthly newsletter, and to hold regular seminars.
+‘NOW WHERE DID I HAVE IT LAST…’
+Has Alan Sugar created a blockbuster product after all?
+At the PDA 600 Pen Pad launch (see front), he responded to journalists' concern that the pen would go missing: ‘We give three away free in the box…after that they are £500 each’.

@@ -1,0 +1,313 @@
+
+
+SUN ‘FORMS FIRST PERSON TO ENTER HANDHELD COMMUNICATOR MARKET’…
+Sun Microsystems Inc is quietly working up its own handheld communicating computer effort aimed at the mass market, according to the New York Times.
+The paper says that Sun has been working on the project for two and a half years under the code-name Green at its SunLabs unit under former Apple Computer Inc executive Wayne Rosing, and is forming a new company, First Person Inc, to exploit it.
+Sun is said to be going into direct competition with Apple Computer Inc spin-out General Magic Inc and has already licensed designs for its nomadic computer to two Japanese companies, and is in talks with French and German consumer electronics companies.
+According to the Times, First Peson is to be headed by Rosing, has about a  dozen employees, and is presently in process of moving into new premises in Palo Alto.
+Rosing told the Times that the new Sun subsidiary is in the ‘advanced development’ stages, and that finished products were more than two years away, although people close to the project reportedly say working models already exist.
+Key Sun employees in the areas of programming and signal processing are said to be moving to the new company, which is claimed to have made breakthroughs in security and ease of use.
+…
+AS INTEL, MICROSOFT HOPE TO LEAD INDUSTRY WITH WINPAD DESIGN
+Meantime Intel Corp and Microsoft Corp plan to release their jointly-developed WinPad package of basic hardware and software for building wireless devices later this year, US PC Week reports.
+WinPad includes a Windows-like operating system scaled down to 1Mb of ROM and a highly integrated two- or three-chip set encompassing the system's essential logic.
+The two are betting that with WinPad, they can exploit their dominant positions in the personal computer market to defeat the majors that have already tipped their hands, including AT&T Co and Apple Computer Inc.
+WinPad is expected to enable system manufacturers to design 1 lb pen-based machines that can span the $400 to $1,500 mobile computing market, with first products expected next year.
+PC Week expects them to have a small colour screen on which users can write commands and messages with a pen.
+Some vendors are expected to build devices that add facsimile and telephone capabilities, while others offer speech processing capability.
+HEWLETT-PACKARD SEEN TAKING 20% OF TALIGENT…
+Hewlett-Packard Co is expected to take a 20% stake in the IBM Corp-Apple Computer Inc Taligent joint venture to seal a deal under which it is working with IBM on a standard for desktop Unix using IBM's Common User Access specification and dubbed COSI, or Common Operating System Interface.
+Other Unix suppliers are said to be treating the IBM-Hewlett-Packard effort very cautiously — some are worried that it may turn out to be a Trojan horse for proprietary technologies.
+The suggestion is that COSI will pick upon the work of Taligent Inc, the object-oriented operating software joint venture.
+However, sources say IBM has been making Taligent's life a misery lately, by insisting that Taligent use its Distributed System Object Model — a general purpose mechanism for communicating between objects based on the OS/2 2.0 Workplace Shell, also up on AIX.
+The technology is regarded as regressive by Taligent staff, and IBM's insistence is said to have convinced several key employees to quit.
+However, as recently as last week, IBM is said to have realised that its shell technology does not comply with the Object Management Group Common Object Request Broker specifications and has been urging Hewlett-Packard to throw its Object Group-compliant Distributed Object Management Facility into the pot.
+This facility is Hewlett-Packard's object technology, which grew out of its joint software development project with Sun Microsystems Inc, and which seems to have gone very cool of late.
+IBM top brass is said to have been meeting with Hewlett-Packard officials at various locations around the US over the last few days to lobby for their support and an announcement may now be imminent.
+…
+AS UNIX VENDORS TEAM ON COMMON DESKTOP FEATURES
+The threatened dominance of the Microsoft Corp Windows interface once NT appears is pushing a lot of big names like IBM Corp, Hewlett-Packard Co, Digital Equipment Corp, Santa Cruz Operation Inc, SunSoft Inc, Novell Inc and Unix System Laboratories Inc toward standardising on some common look-and-feel features for Unix.
+Their joint efforts will be known collectively as CDE, the Common Desktop Environment.
+As reported briefly (CI No 2,115), initial agreement is expected to establish a standard for installing Unix software from within graphical user interfaces.
+The X/Open Co Ltd-compliant specification, known as the Distributed Format for Desktop Architecture, DFDA, and contributed by IXI Ltd, will provide a standard set of techniques for independent software vendors to write to, enabling users to get Unix applications up and running from an install icon within a variety of graphical environments without resort to shell commands.
+With the support of IBM and Hewlett-Packard now apparently secure — despite their other endeavours, see below — an announcement is expected at the UniForum show in a couple of weeks.
+SUNSOFT TO OPEN A SOFTWARE DEVELOPMENT CENTRE IN DUBLIN
+With Digital Equipment Corp closing its proprietary VAX manufacturing plant in Galway, Sun Microsystems Inc's SunSoft unit will today bring a little good news to the Republic of Ireland, when it announces the establishment of a software development centre outside Dublin.
+The centre will look after internationalisation of Sun software for the European market and will be staffed by up to 100 employees over time.
+BULL SEEKS 850 REDUNDANCIES
+Compagnie des Machines Bull SA wants to cut its payroll in France by between 6% and 7% — 800 to 900 people this year, and will offer voluntary redundancy terms to those that agree to depart by June 30.
+BRITISH TELECOM OUTLINES RADICAL PLAN TO OFFER MIX AND MATCH ISDN FOR ALL
+The biggest ever shake-up in British Telecommunications Plc's business, services and relationship with its customers was outlined in a low-key manner by BT staff at the ISDN show in Wembley last week.
+The company's Vision of the Future describes a Britain where everyone — residential and business subscriber alike — is equipped with Integrated Services Digital Network lines.
+These will range seamlessly from a single 64Kbps B channel (no supplementary services) or 1B+D (for those that want them) for residential users, to multiples of the current primary rate 30B+D offering.
+Fractional
+This essential merging of primary rate and basic rate services will be achieved using the ‘fractional Megastream’ technology that the company's Martlesham Laboratory on Martlesham Heath, Suffolk has developed for squeezing multiple ISDN channels over ordinary copper circuits.
+The even more radical bit, though is the uses to which these ISDN lines will be put.
+Anthony Corris, the company's marketing manager in the business communications division, mapped a vision of a British Telecom's operations as they will be ‘recognisable in 10 years time’.
+The company will have unbundled its services to such an extent that it will almost be operating on an ‘everything-on-demand’ basis.
+In practice, this means that users will be able, on a call-by-call basis, to choose their bandwidth, the supplementary services and management requirements they have, and then pick-and-mix from the facilities provided by both British Telecom and third party operators on the network — all through their familiar ISDN interface.
+The ghastly term that BT has stolen from IBM Corp for this is ‘granular’ billing.
+To make the vision a reality requires that BT open up the interfaces between the separate parts of its operation: the different parts of the physical network, its billing, management and services systems.
+Indeed Corris sketches out diagrams that show these subsystems as separate, giving the possibility that third parties will be able to slot their offerings in there somewhere.
+The longing and impatience to be privatised, so as to be able to invest freely to keep up in a rapidly evolving public telecommunications world, is evident in every pronouncement from Deutsche Bundespost Telecom.
+The latest outpouring of new ideas for the shape of its services in the latter part of the decade from its erstwhile state-owned sibling British Telecommunications Plc, described here by Chris Rose, must leave Telekom green with envy.
+British Telecom is now exploiting its freedom as a commercial company to the full, where Telekom has to hand over all its hard-earned profits to prop up a grossly overmanned and inefficient postal and post-bank service.
+At the moment, users perceive the BT operation as a monolithic network and services, but this is set to change under the new vision.
+Indeed the way that things are going can already be seen in the way that the company is letting its largest customers muck about with the internals of its operation with its Concert network management system.
+The importance of ISDN is as the foundation for the entire model; the single, standard interface through which all the rest will be provided: ‘Our model says that this guy needs one interface’, says Corris, then he can decide when making a call that he wants to use certain intelligent aspects of the network, he can say ‘I need another channel…
+I need another two channels’.
+He acknowledges that ‘to make it fly, we have to get the next generation of telephones sorted out’ and says that the European Telecommunications Standards Institution is working on the standard telephonic layouts, displays and icon conventions needed to ensure that users won't be too bewildered by the options offered by their neighbour's phone.
+It is a radical plan which will present significant challenges to BT as a business.
+Corris says that once the ISDN lines are there, the company will be able to use them to nail up permanent and semi-permanent virtual circuits, potential competition for the company's leased line business.
+It is potentially tricky, he agrees, with the possibility that ‘ISDN cannibalises every other business’.
+Millennium
+Nonetheless, he says, it is the way the the world will be forced to go: the European Commission's Open Network Provision directive requires that public telecommunications operators unbundle their charges for individual services.
+Most operators see this as an accounting nicety, but it would seem that BT is taking the directive much further, using it as the basis for building its business strategy for the next millennium.
+British Telecom is also currently running trials to enable users to access its packet-switched Global network services through the ISDN.
+The company has yet to decide whether to offer access via the 64Kbps bearer B-channel or the lower speed 16Kbps packet switched D-channel.
+The company initially looked at the latter approach but the gateway is proving trickier than had been  envisaged .
+It says it still has no plans to offer the D-channel for everyday ISDN use.
+TAIWANESE NATIONAL LABORATORY DESIGNS FOUR-CHIP IMPLEMENTATION OF TEXAS MICROSPARC DESIGN
+The US and Japan pretty much have the microprocessor design business to themselves, but now it looks as if Taiwan's government-backed Computer & Communication Research Laboratories is trying to get in on the act.
+The Lab has a four-chip set design aimed long-term at Texas Instruments Inc's MicroSparc, according to a story in last week's Electronic Engineering Times.
+The trade weekly says that United Microelectronics Corp will produce the first commercial version of the chip set using a 0.6-micron CMOS process and pitching for a 50MHz, 39 MIPS CPU for availability  oapart in the second half of the year.
+It has been designed to execute most single-word instructions in a single clock cycle through a four-stage instruction pipeline.
+The next step will be to wind the clock up to 80MHz, with further integration to follow.
+The Laboratory is catering to demand for local chips from Taiwanese Sparcsystem builders such as Tatung Electronics Co, Datatech Inc, Twinhead Inc, Sampo Inc and Chicony Inc.
+DUTCH PTT WINS THE CONTRACT TO BUILD NEW EUROPEAN NETWORK
+Koninklijke PTT Telecom Nederland NV has been awarded a multi-million dollar contract to provide a multiprotocol network to will be used to connect European academic, industrial and governmental research institutions.
+Funded by the countries of the European Community and the European Free Trade Association, the new network is to be called EuropaNet and replaces IXI, the X25-based backbone network that has served the research community across Europe for the last two years.
+The three-year contract, which includes performance and availability guarantees, follows the completion of a public invitation to tender by Reseaux Associes pour la Recherche Europeene on behalf of the Cosine development project being carried out under the Eureka research programme.
+The network is to be accessible from nodes within all the Cosine member countries, and is to offer a range of access speeds up to 2Mbps.
+Switching technology was provided by RC Electronics, and the network is claimed to support connection with TCP/IP and X25-based networks.
+In an attempt to encourage take-up by national research networks, the Community is making funds available to assist them with their subscriptions.
+It says that two networks are already connected at 2Mbps, and a further four — including three interfacing via TCP/IP — are expected to connect at 2Mbps in the next few months.
+Access is also to be extended to Eastern Europe, using funds from the Community's PHARE programme under a separate contract between the EC and PTT Telecom: Poland, Hungary, Czech and Slovak Republics, Bulgaria and Romania are to be connected into the system.
+Operation of the network is being passed from PTT Telecom to its Unisource Business Networks joint venture, which will run it from its International Network Management Centre in The Hague.
+Indeed, the services are to be integrated into the Unisource Business Networks service portfolio this year, although exactly how and when has yet to be decided.
+THREAT OF MICROSOFT's NT ‘IS NOT ENOUGH FOR UNIX UNITY’
+One of the companies involved in what can only be described as the latest round of unity talks among the warring Unix camps, which appear to be being sponsored by Unix International Inc, says that for all the fear, uncertainty and doubt unleashed by Microsoft Corp with Windows NT, the initiative still lacks the compulsion that galvanised the part of the industry — led by those that saw Unix primarily as a threat — to form the Open Software Foundation five years ago.
+It needs that extra-special final stimulus.
+The anonymous firm says one of the points at issue in the talks is support of Unix System V.4 ES/MP.
+What it believes is needed is leadership from SunSoft Inc throwing its weight behind ES/MP.
+THE OPEN SOFTWARE FOUNDATION OPENS LABORATORY FOR INTEROPERABILITY TESTING OF ITS PRODUCTS…
+Now pursuing a wider marketing brief to replenish its coffers, the Open Software Foundation has opened up laboratories at its Cambridge, Massachusetts-based headquarters to provide an interoperability testing site.
+Initially focused on Distributed Computing Environment interoperability testing — something that is apparently much needed — the Foundation says the Interoperability Lab replicates end-user environments and provides for real-world testing and verification.
+The Lab has 11 machines from six vendors available for use, including HP-UX on Precision Architecture RISC, Digital Equipment Corp OSF/1 on Alpha AXP, Sinix and Unix System V.4 on Siemens Nixdorf Informationssysteme AG iAPX-86 boxes, Solaris and SunOS on Sun Microsystems Inc Sparcsystems, IBM Corp RS/6000s running AIX 3.2 and MIPS Technologies Inc R-Series-based DECstations with OSF/1 plus Transarc Corp transaction processing and Gradient Technologies Inc network licensing software.
+…
+AND APPOINTS NEW TECHNOLOGY CHIEFS IN CASH-CONSTRAINED REORGANISATION OF ITS STRUCTURE
+The Open Software Foundation's recent wrestling with its internal structure, which is said to be occasioned by its continuing financial angst, has resulted in a reorganisation that separates OSF/1, the operating system that was its original raison d'etre, from the other technologies to which it has put its name.
+OSF/1 is now off on its own under vice-president of engineering Roger Gourd who has added the title of vice-president of corporate planning to his chevrons.
+As such, he reports to president David Tory.
+The organisation's other technologies — the Distributed Computing and Management Environments and Motif — are now parts of a unit under a newly created vice-president, interoperability Jeanette Horan who had been director of Motif and OSF/1 engineering.
+Both engineering and marketing functions, the latter known around the non-profit Foundation as business area management, have been brought together under the new structure.
+The Foundation is said to be motivated in setting things up like this to see the technologies can stand on their own.
+The Open Software Foundation Research Company, which does advanced development of things like the microkernel, is apparently left unscathed because it operates on a different funding model.
+The consortium is breaking out education, customer support, computer facilities, corporate communications and sales.
+These functions will support all the others.
+The post of chief operating officer that the Foundation created a few months ago has been abolished.
+The incumbent is now off in hot pursuit of government funding for the much-enlarged interoperability lab.
+CLARIS FORMS A WHOLLY-OWNED SUBSIDIARY TO BUILD ON ITS SUCCESS IN JAPAN
+Apple Computer Inc's Claris Corp software subsidiary in Mountain View, California has established a wholly-owned Japanese subsidiary to assist in expanding its business in Japan.
+Claris Japan Inc, established on February 1, is capitalised at $800,000 and Douglas Boake, managing director of Asia-Pacific operations at Claris, has been named president.
+Claris to date has sold its products solely through System Soft KK, based in Fukuoka, and Claris says that situation will continue; Filemaker and MacWrite are leading products in their fields, both on Mac and under Japanese language Windows.
+The Japanese market for Claris is second only in size to the US.
+Initially, the new subsidiary will act as a listening post on the Japanese market to assist in better fulfilling Japanese market requirements.
+System Soft, which also has exclusive agreement to distribute products from Adobe Systems Inc, Macromind/Paracomp Inc and Symantec Corp, ran into trouble last year at the start of the Japanese economy downturn, reportedly because of the interest burden on borrowings it had made to construct its own building, and in May 1992 another major software distributor, Katena Ltd, came to the rescue and bought a 50% stake.
+HITACHI CLAIMS SMALLEST ELEMENT YET FOR FLASH MEMORY DEVICES
+Flash memory chips, which retain their state when the power is switched off, are forecast to replace disk storage in handheld devices as prices come down to match disk (although the new generations of fast, light, high-capacity and cheap 1.8’ drives keep pushing that date back).
+Serious chipmakers can't afford to be out of the market, and Hitachi Ltd has announced that it has developed a new type of AND gate for Flash memory, which achieves the world's smallest cell surface memory of just 1.28 square microns.
+This opens the way for low-cost and high-performance 64M-bit Flash memory chips based on a 0.4 micron design rule.
+The work was done in Hitachi's Central Laboratory.
+MINISTRY COLLATES TOTAL 1992-93 INVESTMENT IN TELECOMMUNICATIONS
+The Ministry of Posts & Telecommunications has released figures relating to planned investment in equipment by the Japanese telecommunications industry in fiscal 1993, which ends next month (Japan confusingly calls it fiscal 1992).
+Total spending by the entire industry is  estimated at $22,400m, an increase of 6.7% over the 1992 fiscal year.
+Total of revised equipment spending for Type I telecommunications carriers (those companies licensed by the Ministry to operate on designated frequencies, was $20,600m, while Type II carriers, which lease frequencies from the Type I carriers, invested $1,490m, an increase of 14% over 1991.
+Nippon Telegraph & Telephone Corp still out-invests the New Common Carriers by a considerable margin however: $16,480m total investment compared with $3,672m in total by all New Common Carriers.
+COMPAQ's HOPES IN JAPAN ARE RIDING ON AMBITIOUS TRADING HOUSE UCHIDA YOKO
+Uchida Yoko, a trading house that specialises in office equipment, including office computers built by Fujitsu Ltd affiliate PFU Ltd, has launched a new career as a reseller of the new low-priced Compaq Computer Corp personal computers.
+Looking for customers that are ready to buy several thousands of the personal computers at once, Uchida Yoko has already begun lending sample machines to large insurance companies and auto makers.
+In order to dispel the lingering impression that American products are not as reliable as Japanese ones, Uchida Yoko will provide service through an affiliate, Uchida Uesco, and hopes to be selling between several hundred and several thousand machines per month from next month.
+Compaq's success in Japan could be marred only by reports that it cannot produce enough to meet new demand in Japan — a major industrial company has been unable to get the high-end computer-aided design workstation machine it ordered for around three months now, and hears that the plants are focussed on producing low-cost hardware rather than high-performance models.
+At the same time, last week Compaq announced two new families — eight models — in its ProSignia series, aiming for the corporate market, in combination with the low-price models announced last October in Japan.
+Prices have been set at from $5,200.
+The SystemPro series based on the full 80486 has its own Triflex Architecture, comes with fault-tolerance functions and is priced in Japan at from $14,400.
+NEC CLAIMS SMALLEST CELL SIZE ON THE ROAD TO 256M-BIT MEMORY CHIPS
+Working towards the development of 256M-bit dynamic memory chips, NEC Corp scientists have developed what they claim is the world's smallest electronic cell with a surface area of just 0.54 square microns.
+The new technology was made possible by the development of Split-Level Diagonal Bit-line, which allows for the construction of circuitry on a two level bit-line, thus saving space; a new form of trench isolation technology in which a buried oxide in the shape of an inverted triangle allows smooth operation at the 256M-bit level; and a cylindrical capacitor which uses hemispherical grained silicon — HSG-Si.
+To achieve 256M-bit capacities, at minimum 0.25 micron design rules will be required.
+Meantime NEC is increasing its production of the present generation 16M-bit memory chips by more than 500% as of early 1994.
+The company has been making about 300,000 16Ms a month and NEC said that figure will easily climb higher than 2m chips a month with added production from the California factory and a new facility under construction in Japan.
+The company expects to invest $200m in plant and equipment at the new Japanese wafer fab before its opening in early 1994.
+The company is already seeing substantial demand from the workstation industry — RISCs need much more memory to work at full efficiency — and forecasts that demand will soar.
+SUN MICROSOYSTEMS PREPARES TO OPEN IN MOSCOW FOR BUSINESS IN THE COMMONWEALTH OF INDEPENDENT STATES
+Sun Microsystems Inc will shortly open a wholly-owned subsidiary in Moscow, which will serve the Commonwealth of Independent States — the rump of the former Soviet Union, minus the Baltic republics and Georgia, though Georgia will come under Sun's Commonwealth of Independent States Region umbrella.
+Managing director is Robert Hall, currently at Sun's Mountain View headquarters.
+He will head a start-up team of seven staff which is expected to grow to a dozen or more over the next six to nine months.
+Some will move over from existing Sun operations, like Sun UK's Andrew Rattigan, who will focus on business operations, and handle stuff like import licences and relationships with corporate Commonwealth of Independent States partners.
+At least half of Sun CIS Region employees will be drawn from the local computer industry.
+Bob Kloak is to lead a technical support team, staffed with local expertise, while Isaac Oak, a native Russian, will look after major accounts.
+Hall says the operation will promote all of the Sun satellite business products.
+While the price of doing business in Russia is high — the cost of office space in Moscow, for example, is rocketing — Hall reckons Sun kit will cost less in the Commonwealth of Independent States than it does in the rest of Europe, where customers are used to paying a premium for computer products.
+There are some CoCom regulations concerning the export of high technology to the Commonwealth countries which affect Sun, although the majority of its product line, the Sparcstation 2 and below, is more or less de-controlled.
+The export of superscalar technologies, including Sparcstation 10s and SparcCentre 2000 multiprocessors, is still problematic, though not unsurmountable.
+Once installed, Hall intends to kick-start a project that will encourage the development of software in the Commonwealth of Independent States for the general Sun user community.
+Identify niche application areas
+Applications can be given exposure via Sun's CD-ROM-based software catalogue distribution scheme.
+The idea, says Hall, is to identify niche application areas not already being served by Sun software partners and encourage Commonwealth developers to exploit those opportunities.
+For example, at least some of the 50,000-odd Sun users in the telecommunications sector could do with more advanced network management tools, he says, claiming there are already a couple of initiatives under way .
+Local expertise includes financial and networking software.
+The Commonwealth of Independent States unit also hopes to exploit the need for new or additional CAD/CAM systems and software.
+It will work initially from a base of existing systems and CAD/CAM standards established by the former Soviet Union which were exported to the republics and East European satellites.
+As in the West, Sun will also drawn on scientific and technical sales from its exposure in academic institutions — it has a number of existing joint venture projects and agreements with Russian scientific and research centres.
+Hall already claims to have customers downsizing from mainframes to client-server systems based on personal computers and Sparcsystems using SunSelect's PC-NFS mechanism to migrate data.
+He says there is a Sun-based banking network linking St Petersburg, Tumin and Moscow up and running with an electronic fund transfer link to the US, 40 Sparcstations at the Dubna Joint Institute for Research and a dozen running Computervision Corp CAD/CAM software down in Taginrog at an engineering firm whose name in English means Red Boilermaker.
+Sun has some 500 machines installed across the Commonwealth of Independent States — the new operation will start life with 12 distributors and 10 value-added resellers.
+Four Moscow-based distributors include ArguSoft and 4i Datost — the latter also a Computervision reseller with a second outlet in Kiev, Ukraine.
+There are two in St Petersburg, one each in Novosibirsk, Tumin, Minsk and Alma Ata and one under negotiation in Azerbijhan.
+Hall expects 50% of Sun Commonwealth of Independent States business to come from Moscow and its surrounds.
+Cyrillic versions of Western applications available for Sun users include FrameMaker, accounting, CAD/CAM and computer-aided manufacturing and banking packages — there is some locally developed software around too and Sun has got development kits of Cyrillic alphabet system software out now.
+It will show a Cyrillic keyboard at the Moscow ComTech show on April 27.
+Sun Commonwealth of Independent States will be up on SWAN, Sun's internal worldwide network, which now has some 22,000 nodes.
+— William Fellows
+HEWLETT-PACKARD WINS $30m OIL INDUSTRY UNIX CONTRACT
+Hewlett-Packard Co's Russian subsidiary has finalised a $30m contract with the oil enterprise ASUNEFT, Nizniy Vartosk, northern Siberia.
+The company's Moscow office will co-ordinate the supply of a 700-terminal Unix-based system to be used in oil field data acquisition.
+Hewlett-Packard Moscow head of  representation Nick Rossiter says the contract is fully paid for and took 18 months to negotiate.
+Hewlett-Packard's software partners are the Swedish company CMA AB and its Russian partner 2B — both specialise in supplying the oil industry.
+1993 has so far been a good year for Hewlett-Packard Russia.
+It recently sold three Unix-based banking systems to Russian commercial banks: Elbin bank, Mostbank and Vitabank.
+Each system is worth around $500,000.
+The First Bank of Kazakstan has bought the software element only of the same system.
+TELEPORT TP STARTS BUILDING SATELLITE EARTHSTATION
+Teleport TP in Moscow, Russia has started construction of a satellite base station in Moscow.
+The new service will have 1,900 communication lines and will be able to support data transmission speeds up to 64Kbps, which is three times the existing capacity.
+It will be equipped with two 18 metre antennas.
+The $12m contract to deliver the hardware for the centre was signed with AT&T Network Systems International.
+The new centre will start operation next month.
+Teleport TP hopes its communication services will be available at prices 10% to 25% lower than rival communication companies in Moscow.
+Teleport TP was formed in February 1992 as a joint stock company by the Russian-Italian joint venture enterprise Technopark in Moscow, and the Intertelecom company, a state-owned organisation responsible for the operation of international communications in Russia.
+FARMSTEAD TELEPHONE GETS OUTLET FOR USED AT&T KIT
+Farmstead Telephone Group Inc, East Hartford, Connecticut, an authorised distributor and refurbisher of used AT&T Co business telephone equipment and systems, has signed a 10-year exclusive distribution agreement with Moscow-based IMJ Ltd, which will distribute refurbished AT&T products in Russia on behalf of Farmstead.
+IMJ specialises in electronics for the banking sector.
+SHARE & BOND ISSUES
+ALC Communications Corp, Bingham Farms, Michigan filed a shelf registration statement for up to 8m shares, 6.4m in the US, the balance internationally, to raise an indicated $117m for working capital.
+The managing underwriters are PaineWebber Inc and Wheat First Butchers & Singer Capital Markets.
+SuperMac Technology Inc, Sunnyvale, California developing photorealistic colour graphics systems for the publishing and prepress, digital video, and business productivity markets, got its issue of 1m shares away at $16.25 a share and plans to use the $15m or so net proceeds for working capital; Montgomery Securities, PaineWebber Inc, and Volpe, Welty & Co were the lead underwriters to the issue.
+Tecnomatix Technologies Ltd, an affiliate of Oshap Technologies Ltd of Israel is offering 2.8m common shares, 2m of them new, at $12 per share.
+The $22m or so net proceeds will be used by the developer of the RobCAD line of interactive three-dimensional graphics software for the design, simulation and off-line programming of automated manufacturing systems for a range of manufacturing processes to expand marketing and for new product development.
+The lead underwriters are Shearson Lehman Brothers Inc, Hambrecht & Quist Inc and Oppenheimer & Co.
+Compania de Telefonos de Chile SA filed with the US Securities & Exchange Commission for up to $182.6m of convertible subordinated debentures due 2003.
+Net proceeds will be used to finance a portion of its development plan; the offer will be made via Goldman, Sachs & Co and S G Warburg Securities.
+CREDIT RATINGS
+Cray Research Inc has taken a hit from Standard & Poor's Corp, which lowered its subordinated debt rating to triple-B-minus from triple-B and it revised the ratings outlook to stable from negative, affecting about $106m of rated debt.
+The implied senior rating was also downgraded to triple-B from triple-B-plus.
+The ratings agency cited the increased business risk profile of the company, which has reduced profitability.
+It noted that demand has slowed in Cray's niche high-end supercomputer market, and that its low-end market is substantially more competitive and carries lower margins, adding that despite pressure on gross margins, Cray must continue to invest heavily in research and development.
+It expects profitability to remain under pressure, despite recent restructuring actions aimed at achieving $50m in annual cost savings.
+On the positive side, it says that the company's financial condition remains strong, with about $150m of cash and long-term investments at 1992 year end, and $112m of debt, and a debt-to-equity ratio that stands at a conservative 13%.
+Memorex Telex NV has come under the Standard & Poor's Corp microscope and the ratings agency cut its the rating on its Memorex Telex Corp unit's $510m 10% guaranteed senior notes due 1998 to B-minus from single-B with a negative rating outlook.
+The cuts reflects the agency's belief that Memorex's operating performance is weak and its expectation for market conditions to remain difficult in the near term.
+Memorex reported a $120m net loss for the nine months to December and the New York rating agency says that it does not expect the fourth quarter net  outturn to be much better.
+Southwestern Bell Corp, St Louis, got a clean bill of health from Standard & Poor's Corp, which affirmed its Southwestern Bell Telephone Co's A-plus senior unsecured debt and A-1 commercial paper and said the ratings outlook is stable.
+It also assigned an A-plus to the firm's $150m 6.125% notes due 2000, and $200m 7.625 debentures, due 2023.
+COMPANY RESULTS
+Evans & Sutherland Computer Corp has reported fourth quarter net profits up 37.4% at $5.5m, after $326,000 extraordinary credits this time and $393,000 last time, on turnover up 19.8% at $47m; net profit for the year to December 25 was down 29.4% at $7.6m, after $709,000 extraordinary credits this time and $1.3m last time, on turnover up 2.6% to $7.6m.
+Net per share rose 43.5% to $0.66 in the quarter, fell 28.9% to $0.86 in the year.
+General Automation Inc has reported a first quarter net loss of $290,000 down from a loss last time of $594,000, after tax credits of $225,000 this time, $38,000 last, on turnover that rose 0.4% at $11.1m.
+Honeywell Inc saw fourth quarter net profits down 71.7% at $29m, after $7.4m gains from the settlement of litigation, $85.1m restructuring charges, and $3.1m losses from the early payment of debt, on turnover down 0.3% at $1,705.2m; net profit for the year to December 31 fell 25.5% to $246.8m, after $171.4m gains from the settlement of litigation, $8.6m losses from the early payment of debt, and $144.5m charges from the cumulative effect of an accounting change, on sales up 0.5% to $6,222.6m.
+Net earnings per share, adjusted for a two-for-one stock split paid in December 1992, fell 71.2% to $0.21 in the quarter, 24.3% to $1.78 in the year.
+Merisel Inc has reported fourth quarter net profits up 29.6% at $7.5m, on turnover up 46.6% at $684.6m; net profit for the year to December 31 was up 81.6% at $19.7m, on turnover that rose 41.2% to $2,238.7m.
+Net earnings per share rose 8.7% to $0.25 in the quarter, 55.8% to $0.67 in the year.
+PictureTel Corp has reported fourth quarter net profits up 12.7% at $2.6m, after $779,000 tax credits last time, on turnover up 60.1% at $43m; net profit for the year to December 31 was up 79.1% at $10.7m, after $2.3m tax credits this time and $1.9m last time, on turnover that rose by 81.2% to $141.4m.
+Net earnings per share rose 13.3% to $0.17 in the quarter, 55.8% to $0.67 in the year.
+Sungard Data Systems Inc has reported fourth quarter net profits up 17.2% at $7.2m, on turnover up 22.6% at $92.3m; net profit for the year to December 31 was up 20.2% at $25.8m, on turnover that rose 14.5% to $324.6m.
+Net per share rose 15.8% to $0.44 in the quarter, 16.9% to $1.59 in the year.
+Telematics International Inc has reported fourth quarter net profits of $2m, after $314,000 tax credits, against losses of $5.9m last time, after $6m non-recurring charges, on turnover up 5.1% at $18.5m; net profit for the year to December 31 stood at $6.8m, after $1.3m tax credits against losses of $3.8m last time, on turnover up 4.4% to $67.3m.
+Net earnings per share amounted to $0.12 in the quarter, and to $0.40 in the year.
+Zeos International Inc has reported fourth quarter net losses of $7.2m against profits of $3.2m last time, after $1.1m non-recurring charges related to the discontinuation and consolidation of certain operations, on turnover that fell by 33.6% at $46.9m; net losses for the year to December 31 stood at $28.2m against profits of $10.3m last time, on turnover that fell by 10.7% to $206.1m.
+Nokia Oy has reported a net loss for 1992 equivalent to $121.7m, up from a loss last time of $35.5m on turnover that rose 17.5% at $3,060m.
+Figures are converted at $0.1684 to the Finnish markka.
+Telefonica de Espana SA has reported net profit for 1992 down 23.7% at the equivalent of $672.7m on turnover that rose 16.1% at $10,307m; no per share figures.
+Conversion at $0.00846 to the peseta.
+IBM MAY REQUIRE WEALTH OF PROVEN TALENT
+Perot Systems Corp chief Morton Meyerson, one of the candidates for John Akers' job, has been telling IBM Corp's directors what he reckons should be done to rescue the company — and it ain't pretty: according to the Wall Street Journal, he is outlining something very like what we suggested, hiring top people in the appropriate industry segment — Andrew Groves, Michael Dell, Alan Shugart, Scott McNealy, people of that ilk, to run each of the new business units, and if they won't come on board, he says, IBM should sell them  respectively the chip, personal computer, disk drive and workstation lines of business.
+ERICSSON TELEFON TO TAKE ALL OF TELEINDUSTRIA ERICSSON
+L M Ericsson Telefon AB is to buy the remaining 28% equity it does not already own in its Teleindustria Ericsson SA in Mexico but does not say how much it is offering: the shares are held by Mexican and foreign institutional investors, as well as by individual minorities.
+NEC LOSS HEIGHTENED BY CHIP AND COMPUTER SLUMP
+NEC Corp warns that it expects to plunge to a consolidated loss of $364m for the fiscal year to the end of this month, as slumps in the domestic chip and computer markets turn out even worse than feared.
+CANON CUT BUBBLEJET PRICES
+Canon Inc's Canon Computer Services Inc in Costa Mesa, California has cut bubblejet printer prices up to 30%: it will also offer a three-month $50 and user rebate programme for its BJ-200 desktop printer.
+MEDIA VISION INTENTION TO TAKE PELLUCID INC
+Fremont, California-based Media Vision Technology Inc has entered into a non-binding letter of intent to acquire Pellucid Inc, which is committed to bringing high resolution real-time, true colour, two- and three-dimensional graphics and full motion video capabilities to the personal computer market: Media Vision will pay about $15m in shares.
+AST LAUNCH PREMMIA WITH BETTER WINDOWS PERFORMANCE
+AST Research Inc yesterday introduced the Premmia personal computer family, designed with a local-bus video subsystem claimed to yield more than 200% faster performance in Windows environments than its earlier generation Power Premium desktop systems which are cut $100.
+DEC STARTS SHIPPING MT PERSONAL COMPUTERS
+Digital Equipment Corp says it today starts shipping its new MT personal computers, a family of vertically-oriented 80486 machines that occupy one-third the space of conventional desktop systems: prices for the DECpc MT series go from $2,350 to $2,800 and fall in the middle of its line, it said.
+IBM AND MARCAM WRAP UP MAPICS DEAL
+IBM Corp has now wrapped up the deal under which it hands over MAPICS to Marcam Corp in return for 1.615m new shares in its partner.
+BT NORTH AMERICA TO IMPROVE ACCESS TO DATA NETWORK
+British Telecommunications Plc's BT North America says it plans to introduce wire and wireless services by the end of the year that will give its daily users better access to its data network: customers will be able to cut costs of on-line network usage by up to 30% and to access network applications and transfer data up to four times faster via its 14.4Kbs local dial service, which will be available from September, and uniform number access wireless cellular and radio, and its switched digital services.
+UDS MOTOROLA CUT MODEM PRICES
+Motorola Inc's UDS Motorola in Huntsville, Alabama said it cut prices by up to 25% on several V.32 and V.32 bis modems, effective immediately: the list prices of the V.32L, V.3225L, V.3227L and V.3229L CCITT V.32 and V.32 bis compliant modems, have been cut by $200 each.
+NCR TO TO FOCUS ON CUSTOMERS
+NCR Corp has created a Worldwide Industry Marketing Division and new US Group organisational structure to focus on enhancing the company's understanding of its customers and the industries in which it markets.
+CISCO SYSTEMS TO MOVE TO SAN JOSE
+Menlo Park, California-based Cisco Systems Inc won't be for too much longer: it has signed a lease agreement for a 46-acre site in northern San Jose, to which it will eventually move its headquarters.
+KUWAITI CONCERN OVER CELLULAR SCARE
+Some Kuwaitis, nervous about the health scare over cellular phones, have swapped their hand-held sets for car-installed phones, Abdulla al Sabej, managing director of Mobile Telephone Systems Co told Reuter in an interview; 7% of Kuwaitis and 4% of the total population of 1.3m have cellular phones.
+DYNASPEK TO SHIELD CELLULAR USERS
+But people worried about blowing their minds with cellular radiation may not have to worry too much longer — James Plante, head of Dynaspek Inc of Westmont, Illinois says he plans to market a copper alloy shield that fixes to the antenna and protects users from radiation: ‘I conceived this back in 1985, but when all the media hype came out, we decided to go ahead and produce it,’ said Plante of his Cell Shield, a several-inch long semi-circular metal sheet resembling a shoe-horn; it will be $30.
+ATLANTIC RICHFIELD ACCUSED OF MISLEADING SIEMENS
+Did Siemens AG buy a pig in a poke — the German's, ever literal, call it a cat in a sack, which of course is what a pig in a poke usually turns out to be — when it bought Atlantic Richfield Co's Arco Solar Power subsidiary in Camarillo, California for $35.9m in 1990?
+The Mnchener is suing Atlantic Richfield for nearly $150m, alleging that the company knew that the products the unit was developing would never be commercially viable, and according to the Wall Street Journal citing electronic mail messages, one of which says that as it appears the development ‘is a pipe dream, let Siemens have the pipe,’ and another that says ‘We will attempt to finesse past Siemens the fact that we have had a great deal of trouble in successfully transitioning technology from the laboratory to the factory’; Atlantic Richfield denies attempting to mislead Siemens over the unit.
+MICROKERNEL IMPLEMENTATION OF OPENVMS ON HORIZON
+Digital Equipment Corp watcher Terry Shannon hears of a microkernel-based implementation of OpenVMS.
+DISASTER RECOVERY SERVICES REQUIRED AT WORLD TRADE CENTER
+The evil wind that bombed Manhattan's World Trade Center nevertheless blew some good to the disaster recovery specialists: SunGard Data Systems Inc says it has been contacted by four subscriber companies seeking disaster recovery services following the blast — two in Four World Trade Center, one in Two World Trade Center and one in One World Trade Center; and Comdisco Inc said it is providing disaster recovery services to three financial services companies hit by the blast, while IBM Corp's disaster recovery unit said it had been in touch with‘a lot’ of its customers, but that so far none of its customers had had to declare their workplaces to be disaster areas.
+IRISH INVOLVEMENT?
+Given that the world's terrorist organisations routinely assist each other, coupled with the hysterical and disproportionate outburst among the Irish community at the decision of Digital Equipment Corp to end manufacturing in Galway, it would be unwise of the authorities in New York to exclude Irish Republican Army involvement in the terrorist bomb under the World Trade Center.
+IBM's DIGITAL DOMAIN INC TO LOCATE IN L.A.
+IBM Corp's Digital Domain Inc special effects — FX as they are known in the trade — company, which brings the company together with writer, director and producer James Cameron, Academy Award winning character creator Stan Winston and special visual effects studio executive Scott Ross (CI No 2,116) will locate its facilities in the Los Angeles area and plans to combine the latest digital technology with a unique ‘creator interactive’ philosophy, IBM says, offering a full range of special visual effects services for feature films, television, commercials and simulator attractions; high resolution moving images will fundamentally change applications and their development as we know them today, IBM reckons.
+ADAPTEC INTRODUCE SINGLE-CHIP PCMCIA CONTROLLER
+Milpitas, California-based Adaptec Inc has introduced the AIC-71LV80 single-chip controller for PCMCIA disk drives and says it is available in production quantities to drive makers: the low-power controller, for small form-factor disk drive markets, costs less than $20.
+IBM SUPPORTS FIBRE CHANNEL SYSTEMS INITIATIVE
+The Fibre Channel Systems Initiative is the work of the RS/6000 crowd, but IBM Corp's Enterprise Systems business says it supports the initiative as ‘an ideal complement’ to its Escon optical channel.
+BELL ATLANTIC WANTS RESTRICTIONS WAIVED
+Bell Atlantic Corp is asking the US Department of Justice to waive restrictions that prevent it from providing video programming services — it wants to provide the services across the US without regard to local access transport area boundaries of its local territory.
+HARRIS ADDS NEW MEMORY MODULES TO NIGHT HAWK RANGE
+Harris Corp Computer Systems unit in Fort Lauderdale, Florida has added new 32Mb and 64Mb memory modules for its Night Hawk 4800 real-time computers, increasing the maximum capacity to 512Mb from 128Mb.
+OKI ELECTRIC $335m LOSS
+Oki Electric Industry Co Ltd warns that it will likely make an unconsolidated or parent company current loss of $335m for the year to March 31; it had previously seen a loss of $215m and reported an $11m profit last year; it expects a group current loss of $344m for the year.
+FUJITSU WINS FIRST US SUPERCOMPUTER ORDER
+Fujitsu Ltd has won its first supercomputer order in the US since it entered the market under its own name in March last year rather than through Amdahl Corp: it will lease a VPX220 model to the Geco-Prakla Inc oil exploration unit of Schlumberger Ltd, which will use it for seismic mapping of underground oil deposits; the value was not given.
+MICROBILT ACCUSED OF PATENT INFRINGEMENT
+NCR Corp filed a patent infringement lawsuit against Microbilt Corp, a subsidiary of First Financial Management Corp, alleging that Microbilt willfully infringed NCR's patent on a handwriting capture device used at retail checkouts for customer signature verification.
+CABLE & WIRELESS EXPLOITS GLOBAL DATA HIGHWAY
+Cable & Wireless Plc is exploiting its Global Digital Highway with a new Global Managed Data Service to provide data communications service in 15 countries, reaching over 100 cities in North America, Europe and Asia Pacific; another 50 countries around the world will be able to get into the system via the local public data network, the firm said.
+PARTNERS LINE UP TO DEVELOP INTELLIGENT VEHICLE HIGHWAY SYSTEMS
+Wakefield, Massachusetts-based M/A-Com Inc reports that it is a partner in a consortium formed to develop new products for emerging Intelligent Vehicle Highway Systems: partners are IVHS Technologies Inc, Allstate Insurance Co, Eaton Corp and AIL Systems Inc and M/A-Com will be providing microwave and millimeter wave sensor products.
+AMD AND SONY  PARTNERSHIP BEARS FRUIT
+Advanced Micro Devices Inc and its partner Sony Corp has developed a more highly integrated device for use in CT2 cordless telephones: the Sunnyvale, California company says that the Am79C410 controller integrates virtually all the baseband circuitry of a digital cordless telephone on a single chip and that  when combined with a radio frequency front-end, the CT2 PhoX controller offers manufacturers a complete CT2-standard cordless telephone system with minimal engineering effort, and claims that it will enable manufacturers to offer telephones with greater portability, lower power consumption, lower cost and superior sound quality; sample quantities of the new controller are available now; no price given.
+GENSYM COMPLETES G2 CONVERSION
+Cambridge, Massachusetts-based Gensym Corp, real-time expert system specialist, says it has completed conversion of its G2 Real-Time Expert System software for Digital Equipment Corp's 64-bit Alpha AXP: Gensym's G2 and G2 Diagnostic Assistant, Dynamic Scheduling Package, and NeurOn-Line, offer a graphical, object-oriented development and deployment environment for applications that intelligently monitor, diagnose, and control dynamic processes in time-critical environments.
+ROGERS CABLESYSTEMS DEMONSTRATES DIGITAL VIDEO COMPRESSION
+Rogers Communication Inc's Toronto-based Rogers Cablesystems says it has successfully demonstrated Digital Video Compression on its cable system: the technology will give Rogers cable subscribers ‘near video-on-demand’ capability and offers more flexibility, it says.
+PANASONIC COMMUNICATIONS & SYSTEMS CUT NOTEBOOK PRICES
+Matsushita Electric Industrial Co Ltd's Panasonic Communications & Systems Co in Seacaucus, New Jersey cut by between 15% and 40% the prices on its notebook computers: the CF-1000 is reduced to $1,900 from $2,200, the CF-480 was cut to $1,700 from $2,700 and the CF-480C was reduced to $3,500 from $5,000.
+SUSPICIONS RAISED OVER CLINTON's PLANS
+President Clinton's plans to bolster US industry — particularly the high tech sector, begin to look disturbingly corporatist, and the chief executive of the Baby Bells' Bell Communications Research, George Heilmeier, seems to feel the same way: he told Reuter that the government should certainly spur industry to construct a national information highway but it should not build it itself: ‘I don't think the public sector should operate or control networks that are commercial,’ he said, ‘I am not in favour of the government building the national information infrastructure.’
+AT&T AND TRENDER TEAM-UP TO MOVE TRUCKS EFFICIENTLY
+AT&T Co is joining forces with Trender Corp to provide a transaction station for truck stops, to be based on AT&T's Smart Card readers: the idea is to move trucks more efficiently through fuelling islands and minimise errors in charging.
+DEFENSE SOFTWARE & SYSTEMS AND ISRAEL CORP CHOOSE NAME FOR SEMICONDUCTOR VENTURE
+Mahwah, New Jersey-based Israeli company Defense Software & Systems Inc says it agreed with Israel Corp Ltd for a joint venture to be incorporated in the US to hold an 80.1% interest in Tower Semiconductor Ltd, the name chosen for the company being formed to own and operate National Semiconductor Corp's existing facility in Migdal Haemek, Israel, running it as an independent semiconductor business.
+LIFECARD NETWORK TO BE HANDED OVER TO EDS
+Baltimore-based Blue Cross & Blue Shield of Maryland is to turn over operation of its LifeCard electronic claims network to Electronic Data Systems Corp on undisclosed terms: the LifeCard operations, which transmit 5.8m claims annually over its network — 30% of the insurer's total volume — will continue at the Owings Mills, Maryland location and all LifeCard employees will be offered employment by the General Motors Corp subsidiary, which will upgrade the network, expanded it and rename it the Maryland Health Information Network.
+ARTISOFT CHIEF FINANCIAL OFFICER SUBMITS RESIGNATION
+The headhunters have been on the warpath again: Tucson, Arizona-based Artisoft Inc reports that William Baker submitted his resignations as chief financial officer, ‘to pursue other opportunities’.
+TANDY GRID SYSTEMS SIGN UP ACT TO OFFER SUPPORT
+Birmingham-based ACT Group Plc's ACT Computer Support Ltd and Professional Support Centre, an organisation providing personal computer-based software support, have been signed up by personal computer manufacturer Tandy Grid Systems Corp to offer computer support services to its customers: ACT will deal with on-site technical support, consulting, training and additional installations, while Professional will look after a hot-line and the initial diagnostic process.
+TEKTRONIX SIGN FORMER CONNER CHIEF FINANCIAL OFFICER
+Tektronix Inc has tapped Carl Neun, who resigned as chief financial officer of Conner Peripherals Inc, to take the same post at Tektronix.
+BEATTIE LOYALTY IN DOUBT
+You just can't trust these thespians — any residual loyalty vanishes once the last cheque has been banked: according to the Evening Standard, Maureen Lippmann, who played the ‘typical Jewish mother’ Beattie (BT, geddit ?— we didn't at the time, but then we detest brutal acronyms in place of meaningful names) to the mutual benefit of British Telecommunications Plc and her bank balance, when asked to reveal her favourite word, replied, without hesitation, ‘Mercurial’.

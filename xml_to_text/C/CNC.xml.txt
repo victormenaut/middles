@@ -1,0 +1,252 @@
+
+
+SIEMENS NIXDORF SEEKS PARTNER: ICL, HEWLETT IN VAN
+Siemens AG has now acknowledged that it is looking for a strategic partner for its troubled Siemens Nixdorf Informationssysteme AG, which is facing growing woes over the next couple of years now that the German economy is plunging into what threatens to be deep recession.
+The new chief executive of the Munich conglomerate, Heinrich von Pierer, told the Wall Street Journal that he is interested in one or more ‘strategic partners’ for Siemens Nixdorf, saying that what he is looking for is joint development and possibly manufacturing of a broad range of hardware with one or more competitors.
+He says he has already ruled out IBM Corp, and what makes the announcement intriguing is that the number of potential partners is so small.
+Although Siemens is a licensee of the MIS Technologies Inc R-series RISC family, with the right to fabricate it, Siemens Nixdorf has been diminishing its importance in its product line, making major Japanese MIPS licensee NEC Corp, which is increasingly loosely allied with Compagnie des Machines Bull SA, a long shot.
+The remainder of Siemens' Unix product line is iAPX-86-based, as is that of many vendors.
+Digital Equipment Corp is now allied with Ing C Olivetti & Co SpA, and has no historic or technical ties with Siemens.
+Unisys Corp and AT&T Co's NCR Corp are possibilities but look unlikely.
+All of which suggests that the bidding for Siemens Nixdorf's hand looks like a straight fight between ICL Plc with Fujitsu Ltd, and Hewlett-Packard Co.
+Fujitsu and Siemens have been bes' friends for decades, and Fujitsu already supplies Siemens biggest mainframe CPUs OEM, while Siemens markets Fujitsu VP supercomputers in Europe.
+Fujitsu would benefit from having Siemens' muscle behind the Sparc-based product line that ICL and Fujitsu produce, and once ICL floats on the London Stock Exchange, an ICL-Siemens alliance could be presented as a ‘European’ solution.
+Hewlett-Packard Co also has ties with Siemens, which buys Apollo-derived machines OEM, and is very keen to get more adherents for its Precision Architecture RISC.
+It was very disappointed at losing Bull's hand to IBM and the PowerPC RISC.
+Siemens Nixdorf's biggest problem is that it is a combination of a company that was just about to go ex-growth with one that was already failing, so it very much needs any partner to be a firm seen to be strong and a winner: Hewlett-Packard and ICL presently best fit that profile.
+CONNER ADJUSTS TO CHANGING MARKET, WARNS ON PROFITS
+The personal computer storage market is evolving so fast that Conner Peripherals Inc, San Jose is having to adjust to changed circumstances and warns that as a result, first quarter profit will be down on that for the fourth quarter, on higher sales.
+The company has been hit by falling demand for disk drives with capacities of 120Mb or less, with prices eroding and hitting gross margins.
+Conner is responding by ramping up production of its Filepro and Aegean Series of 3.5’ and of new tape drives developed by Archive.
+It will also integrate the operations of Archive faster than planned, completing the effort by within the first half of 1993.
+It will also cut back production some low-margin tape and disk products.
+HANDHELD COMMUNICATORS: EO's BIG EUROPEAN BACKER TO BE OLIVETTI
+Turns out that all the speculation over the identity of the ‘major European company’ to join the list of backers of Eo Inc, the developer of the Eo 440 and 880 personal communicators, next week (CI No 2,116) was wide of the mark, and that the company is Ing C Olivetti & Co SpA.
+Eo builds its communicators around AT&T Co's Hobbit RISC chip, and is also backed by Matsushita Electric Industrial Co and Marubeni Corp as shareholders.
+Olivetti's decision comes despite the fact that it is the controlling shareholder in Acorn Computer Group Plc, originator of the ARM RISC now owned by its Advanced RISC Machines affiliate.
+The ARM RISC is the chip used by Apple Computer Inc in its Newton Personal Digital Assistant.
+SHL SYSTEMHOUSE TO BUY AST TRANS-ACT LTD TO BUILD ITS UK BUSINESS
+Ambitious Toronto-based systems integrator and facilities manager SHL Systemhouse Inc on Friday announced that it had signed a letter of intent to buy City of London-based banking and financial services systems company AST Trans-Act Ltd.
+AST is 75%-owned by Royal Bank of Canada, 25%-owned by its management, and had turnover of some $17.5m last year.
+It operates a data centre that was formerly Royal Bank of Canada's European data centre.
+It employs 130 people and includes Marks & Spencer Plc, AIB Group of Ireland and Diners Club among its customers.
+Systemhouse sees the acquisition, the terms of which have not been disclosed, as the breakthrough in its efforts to build itself a powerful facilities management operation and capability in the UK.
+MICROSOFT LAUNCHES VISUAL C++ WINDOWS DEVELOPMENT SYSTEM
+Microsoft Corp has a new Microsoft Visual C++ development system designed to streamline the development of C++ applications for Windows.
+The standard edition replaces the QuickC* development system for Windows, the professional edition succeeds Microsoft C/C++ version 7.0.
+New elements include Visual WorkBench, and AppWizard, which automates the first steps of using an application framework, which Microsoft says makes it easier to get started developing an application.
+A new AppStudio enables the user interface to be created graphically and ClassWizard connects the user interface elements to C++ code.
+Visual C++ includes vers-ion 2.0 of the Microsoft Foundation Class library of reusable objects.
+Visual C++ uses fourth generation C/C++ compiler technology to achieve the smallest and fastest executable code and includes 80386 code optimisation and Smart Linking to further reduce the size of executables.
+Both are out March 1 at $200 for Standard, $500 for Professional, and there are trade-up terms for people with earlier Microsoft C products.
+Microsoft is developing a version of Visual C++ for Windows NT which is scheduled to ship in the third quarter.
+The company also announced Microsoft Delta, a visual version control system for Windows designed to simplify the process of source code management, enabling teams to work together more efficiently by using a simple visual interface to compare and track progress.
+Scheduled to ship in April it will sell for $500.
+THE UK TURNS OUT TO BE A BRIGHT SPOT IN THE TROUBLED SIEMENS NIXDORF EMPIRE
+Siemens Nixdorf Informationssysteme AG may be suffering heavy losses back home in Germany (CI No 2,050), but business at the UK end is booming and the subsidiary expects to be in profit by the end of this year.
+According to UK managing director Richard Bearpark, the company has spent two years absorbing the costs of merger between the data and communications divisions of Siemens and the computer activities of Nixdorf.
+Although he realises there is still a long way to go, he does believe that the UK's second year results indicate a sustainable turnaround, adding that last year's performance was very close to budget.
+Though some 98 employees were made redundant 15 or 16 months ago, Bearpark  foresees no more in the near future.
+In fact, he claims that as he achieves his aim of doubling turnover, he will actually take on more staff, particularly in services, which is labour-intensive.
+While he could provide no time scale for this, he did say that he expects the business to grow at 20% per annum.
+For the year ending September 30, UK turnover was up 14% to £122m.
+Bearpark stated that the UK is a key market for Siemens Nixdorf, with an estimated value of between £8,000m and £10,000m.
+According to his calculations, therefore, the firm must have a 1.2% market share.
+Losses after interest
+Trading profit was about £110,000, but losses after interest amounted to £2.2m.
+In Bearpark's opinion, it was significant that revenue per employee increased 27% to £117,000 because last year, the focus was on reducing costs to sustain growth.
+This policy of ‘cost optimisation’ will be continued into the current year, he said, and should be helped by the relocation of Siemens Nixdorf's parent company, Siemens AG, into UK headquarters in Bracknell — Siemens' lease on it's former site in Sunbury has now run out.
+In contrast to operations in Germany, where 70% of revenues are now generated from software, services and hardware maintenance, the UK earns between 5% and 8% from selling software products, 40% from hardware, and between 52% and 55% from software services, maintenance and support.
+Bearpark expects the most rapid growth to come from services and systems integration, particularly in the open systems arena.
+He is also keen for the company to become known as a specialist in project management — he is prepared to undertake such work either alone or with third parties.
+And although he is adamant that the hardware business will not be run down, he did say that in future the firm will carefully weigh up whether it is more more cost-effective to manufacture products and components itself or buy them on the open market.
+Siemens Nixdorf already resells top-end Unix boxes from Pyramid Technology Corp, in which it has an 8% stake, and lap-top personal computers from Panasonic Communications & Systems Co.
+The decision to buy in or not is particularly relevant to personal computer sales where margins are tight, but Bearpark reckons that the company can remain competitive because it has huge purchasing power and can buy components at volume discounts — especially in Germany as the Deutsche Mark is very strong at the moment.
+Also, it is able to supply kit within five days in line with current market requirements; it has a UK stockpile of components for repairs and maintenance; its pricing is right, and it is starting to get distribution right.
+To this end, Bearpark is examining the  feasibility of direct sales via retail outlets or catalogues, instead of selling to the end-user as in the past.
+While he is not actively developing a third party dealer network because no-one is making money out of simply shifting boxes any more, he did say that systems integrators or value-added resellers have more appeal as people still want computers.
+They just expect software and networking capabilities added in.
+As for mainframes, the only one Siemens Nixdorf actually has installed in the UK is a 7.000 BS2000 Model H120-R — the Police National Computer.
+But Bearpark is convinced that the mainframe is not dead; in fact, he is sure that he ‘can and will take IBM head on’.
+Roughly translated, this means he is seriously thinking about setting up an IBM mainframe sales team to poach disaffected IBM customers.
+While Siemens Nixdorf still spends a total £600m or 13% of revenues on research and development, and is certainly still investing in mainframes, Bearpark would provide no indication of how much.
+In line with its parent company's strategy, the UK subsidiary has now reorganised into seven business units.
+The aim, according to Bearpark, is to provide a more focussed approach to the areas in which they operate, which should enable a faster time-to-market.
+The units comprise commercial systems; retail; finance; high speed printers; systems and services integration; large business development, and two separate areas of government.
+First, via the commercial systems unit, Siemens Nixdorf provides hardware and services to 600 customers, including general business and niche markets, such as housing, manufacturing, and automotive sectors.
+It has an installed base of 1,100 sites, and customers include Gillette, London Weekend Television and the Family Housing Association.
+The company also has 50 former proprietary 8870 sites, although users now have the option to migrate old Comet applications to Unix machines via the Cross Basic tool.
+Second, Bearpark attests that Siemens Nixdorf is a significant player in the retail market, supplying everything from warehouse to point-of-sale equipment.
+It claims to have 51% of the cash-and-carry market, 47% of the gas and electrical goods market and 18% of the large supermarket sector.
+In fact, Bearpark said all the top retailers in ‘every high street in every town’ use Siemens Nixdorf kit.
+Customers include Tesco, Dixons, and Shell.
+Third, the company supplies hardware, software, automatic teller machines, and services to the financial sector, mainly building  societies , insurance companies, and financial securities firms.
+Customers include Charterhouse, Midland Bank, and the Nationwide Building Society.
+High-speed printer
+Fourth, high speed printers make up 30% of UK revenues.
+Siemens Nixdorf claims that it has 40% of the European market, with an installed base of 500 in the UK.
+Such customers include British Telecommunications Plc, Marks & Spencers Plc and Whitbread Breweries.
+Fifth, the systems and services integration unit covers ten areas: hardware; networking; applications; consultancy and integration; maintenance and support; training; environmental services; business protection services; facilities management, and financing.
+Over 70% of Siemens Nixdorf's staff are involved in these activities, and Bearpark said that it is working ever more closely with other Siemens companies to secure a whole range of contracts.
+Sixth, Bearpark is eager to develop the large accounts division, with the aim of generating sales on the back of business from existing customers.
+Seventh, and most important is central and local government — the single largest single fee-earner for the subsidiary.
+In 1991, it claimed to be the biggest supplier of Unix kit to the government, working either alone or as a member of a consortium.
+It has even dedicated a whole business unit to the Department of Social Security and Employment Services' Single Terminal Access Project, STAP.
+STAP is based on an open systems procurement policy and Siemens Nixdorf has already made £25m from the deal.
+It heads a consortium including ACT Logsys and Coopers & Lybrand Co, and provides open systems expertise, software, communications and support, acting as systems and services integrator.
+The other government unit deals with every other part of the public sector, including defence, with the Department of National Savings, the Royal Air Force and Eastern Electricity among its customers.
+BUSINESSOBJECTS EXPLOITS POWERFUL SET OF OBJECTS TO SIMPLIFY AND SPEED DATABASE ACCESS
+Database access firm BusinessObjects Inc, Menlo Park, California, has established a UK operation in Marlow, Buckinghamshire.
+The company has a software package, BusinessObjects, which enables users to access relational database information without the need to know Structured Query Language, SQL techniques.
+With the system, a customer's technical staff can create a range of objects, which can be deployed separately, or strung together by users, to generate database queries.
+The objects, which are selected by dragging and dropping from a menu, could for example, reference patient name, number and admission date in a hospital  administration system.
+Hidden from the user, the objects generate SQL commands which are fired off to the database.
+The resulting information can be displayed by the user as a mix of reports, graphs and tables.
+Written in C and C++, the software comes with what the firm calls a universal dictionary — a set of object mechanisms which can be tailored to individual requirements — and an inference engine, which generates the SQL statements.
+Dialects of SQL
+The firm claims that three of its objects are as powerful as seven handwritten SQL queries, with 50 objects combining for up to 1m possible queries.
+All processes execute on the local client — not on the central host processor — and version control ensures the dictionary (list of objects) is downloaded only once to each client, on the first time of use.
+Information from existing database software engineering tools the customer may be using can be integrated into the BusinessObject dictionary at the entity level.
+The software recognises various dialects of SQL and is positioned as a data access tool rather than proprietary  language or executive information system, although it combines elements of each.
+Information pulled from the database can be re-directed into other applications and EIS systems, but BusinessObjects does not update the database.
+The software is available for MS-DOS, Windows and Apple Macintosh systems and supports Oracle, Ingres, Sybase, DEC Rdb and IBM DB2.
+Unix, OS/2, OSF/Motif, Informix, Teradata, SQL/DS and SQL/400 support will be added this year.
+The company is talking to Sun about an Open Look port and is currently testing a Windows NT version.
+Specific device drivers are required for each relational database.
+Prices start at £8,320 for an eight-user, one manager system.
+50% of the firm's business is direct, the other half comes from independent software vendors writing database-independent applications using libraries of re-usable BusinessObjects.
+President and founder Bernard Liautaud, and director of UK operations, John Powell, hail from Oracle Corp, and it's therefore not surprising the firm does most of its work at Oracle sites and with Oracle application developers.
+It is currently building a bridge between BusinessObjects and the Oracle CASE dictionary, with others planned.
+The three-year-old outfit started life in Paris, where 23 development staff are based.
+The rest of the 70 employees are located at sales and marketing operations in Menlo Park, Dallas, Chicago and New York with 10 in Marlow, UK.
+The privately-held firm claims turnover rose 250% to $6m in 1992 — £1m in the UK — and expects that figure to double in 1993.
+It will add some 40 additional staff over the period.
+Two rounds of venture capital funding have brought in $3m — investors include France Telecom's venture arm and Atlas Venture, a Dutch concern that helped Sequent Computer Systems Inc into the world.
+A third round of financing isn't planned as Liautaud is looking towards initial public offering in around two years' time.
+BusinessObjects claims 60 UK customers and 400 worldwide with sites employing BusinessObjects on databases storing as much as 12Gb of information.
+Work on new graphics, reporting and integration tools aimed at the  executive information systems market is under way, but the firm is steering clear of application development per se for the time being .
+AT&T LIFTS VEIL A LITTLE ON ITS ASYNCHRONOUS TRANSFER MODE PLANS
+Following the announcement of its pact with StrataCom Inc and Cisco Systems Inc, AT&T Co has come up with sketchy details of the Asynchronous Transfer Mode service it will begin offering early next year.
+Most of the specifics, particularly tariffs, are the subject of talks going on in the company's ATM Customer Advisory Council.
+As reported, the service will be built on a combination of AT&T's new GCNS-2000 backbone switch and Stratacom's BPX.
+Initially, the network will support speeds of up to 45Mbps.
+Jayne Fitzgerald, product line manager for Interspan high speed data services, says that demand is coming as much from commercial as research organisations for the high speed services.
+Nor is the demand limited to esoteric multimedia ‘killer applications’.
+Instead, says Ms Fitzgerald, most interest is coming from users that are already using applications, particularly groupware, at slower speeds, which they now want to accelerate.
+Ms Fitzgerald puts initial demand at perhaps only a dozen companies in the US, but adds that they are leading edge customers which other potential users will be watching carefully.
+Because of the difference between Asynchronous Transfer Mode and other technology introductions, AT&T is placing heavy emphasis on the Customer Advisory Council's role, particularly in working out the best tariffing regime.
+‘One of the things that we have noted with Frame Relay is that many customers  preferred a fixed rate — when you are talking about ATM, I would imagine that some would be interested in flat rate too, but more will be interested in usage based billing’, Ms Fitzgerald notes.
+The company says that it will broaden its collaborative Asynchronous Transfer Mode development effort as its ATM specifications mature, in order to ensure that all equipment supplied by other manufacturers will be compatible.
+OBJECT MANAGEMENT GROUP OBJECT SERVICES REQUEST CLOSES
+Fifteen companies combined last week to make a single joint submission to the Object Management Group in its quest for Object Services, its first such Request For Technology, which closed on Friday with eight submissions representing some 25 companies.
+The 15 companies that banded together include Sun Microsystems Inc, Hewlett-Packard Co, Tivoli Systems Inc, Hyperdesk Corp, Novell Inc, Digital Equipment Corp and all of the object database concerns.
+Many of them were involved in Object Group's original Object Request Broker selection.
+Meanwhile, membership continues to build for the Object Group.
+It is now up to 305 members, the last five coming in the last week alone.
+SHARE & BOND ISSUES
+Bell Atlantic Corp's New Jersey Bell Telephone Co subsidiary has issued $100m of 7.25% debentures due March 1 2023 and callable in 10 years, at $99.596%.
+The bond issue was handled by First Boston Corp.
+California Microwave Inc, Sunnyvale, California is offering 2.2m new shares at $13.25 per share to raise some $26m or so net, to be used to reduce bank debt.
+Bear, Stearns & Co Inc and Oppenheimer & Co Inc were the co-managers for the offering.
+Interactive Network Inc, the Mountain View, California company pioneering interactive television services, has filed with the US Securities & Exchange Commission to offer up to 2.5m new shares and plans to use the net proceeds for sales and marketing, purchase of hardware and for working capital; the underwriters for the issue will be are PaineWebber Inc and Montgomery Securities Inc.
+Nynex Corp's New York Telephone unit issued $200m of 6.5% debentures due March 1 2005 and non-callable for life, at $99.43% via Salomon Brothers Inc.
+Pacific Telesis Group Inc's Pacific Bell unit of issued $325m of noncallable 6.25% notes due March 1 2005, at $97.939% to yield 6.5%.
+The note issue was handled by Lehman Brothers as lead manager.
+Storage Technology Corp, Louisville, Colorado offered 3m shares of convertible exchangeable preferred stock with a liquidation preference of $50 per share to raise a total of $150m.
+The stock will pay an annual cumulative dividend of $3.50 per share and will be convertible at any time at the option of the holder into shares of StorageTek common at 2.128 common shares for each preferred share, a conversion price of $23.50 per share.
+The preferred stock is also exchangeable at the option of the company from March 15 1995, for StorageTek's 7% convertible subordinated debentures due 2008.
+The net proceeds will be used for working capital and capital expenditures associated with the development and introduction of a number of new  products .
+Salomon Brothers Inc was lead manager with Lehman Brothers and Needham & Co as co-managers.
+SEEQ RECEIVE EXTENSION ON BANK CREDIT
+Seeq Technology Inc, Fremont, California has won a six month extension of its $5m bank-credit agreement with Silicon Valley Bank; the agreement expired on February 15 and now matures on September 30.
+On February 24, company borrowings under the credit agreement  totalled $4.3m and the chip designer says that as a result of getting this new credit agreement, restructuring of key equipment leases, and the company's return to profitability in the first fiscal quarter to December 31, it believes substantial progress has been made toward killing doubt about its ability to continue as a going concern.
+CREDIT RATINGS
+Tandy Corp, Forth Worth, Texas, has caused many eyebrows to be raised with its plan to spin off its manufacturing operations to shareholders as a new company, TE Electronics Inc, and the move has not done the parent's credit rating any good either.
+Standard & Poor's Corp says it has cut the rating on Tandy Corp's and Tandy Credit Corp's senior and shelf-registered debt to A-minus from single-A and their commercial paper ratings to A-2 from A-1.
+The agency also cut Tandy Corp's subordinated debt and preferred stock to triple-B-plus from A-minus and Tandy Employee Share Ownership Plan's senior notes to A-minus from single-A, affecting about $1,650m of debt.
+The cuts reflect diminished debt protection measures and increased business risk associated with the planned spin-off, it commented.
+COMPANY RESULTS
+Cherry Corp saw third quarter net up 393.4% at $2.7m, after $670,000 tax credits this time and $388,000 last time, on turnover up 23.2% at $69.2m; net profit for the nine months was up 246.8% at $8.1m, after $2.1m tax credits this time and $795,000 last time, on turnover that rose 17.4% to $200m.
+Net earnings per share rose 391.7% to $0.59 in the quarter, 242.3% to $1.78 in the nine months.
+Computer Data Systems Inc saw second quarter net profits up 100.3% at $1.1m, on sales up 26.3% at $42m; mid-term net rose 70.9% to $2.3m, on turnover up 22.7% at $83.1m.
+Net per share rose 95% to $0.39 in the quarter, 63.3% to $0.80 in the half.
+ECI Telecom Ltd has reported fourth quarter net profits up 28.7% at $10.7m, on turnover up 27.4% at $44m; net profit for the year to December 31 was up 40.6% at $38.6m, on turnover that rose 40.8% to $160.5m.
+Net per share, adjusted for a two-for-one stock split paid in April 1992, rose 21.4% to $0.34 in the quarter, and 30.1% to $1.21 in the year.
+IPL Systems Inc has reported a fourth quarter net loss of $960,000 after a $1m charge for writing off obsolete inventory and to cover staff cuts, against profit last time of $3.1m, on turnover off 18.7% at $11.4m; net profit for the year to December 31 fell 67.4% at $3.0m on sales off 11.4% at $53.6m.
+Net earnings per share fell 68% to $0.66 in the year.OIS Optical Imaging Systems Inc has reported first quarter net losses of $907,294 down from losses of $1.8m last time, on turnover up 79.3% to $1.8m.
+Semiconductor Packaging Inc saw third quarter net profits of $6,065, after $2,213 tax credits, against losses of $38,982 last time, on turnover up 4.5% at $1.8m; net profit for the nine months stood at $72,782, after $24,746 tax credits, against losses of $110,573 last time, on sales down 2.3% to $5.2m.
+Net per share was $0.03 in the nine months.
+Sierra On-line Inc has reported second quarter net losses of $987,000 against profits of $767,000 last time, on turnover down 5.7% at $9.9m; mid-term net losses amounted to $860,000 against profits of $809,000 last time, on turnover up 14.5% at $19.5m.
+Comparisons are made with restated 1991 turnover.
+SoftImage Inc has reported fourth quarter net profits up 143.5% at $811,000, on turnover up 80.5% at $4.9m; net profit for the year to October 31 was up 183.7% at $2.5m, on turnover that rose 114.4% to $14.6m.
+Net earnings per share rose 88.9% to $0.17 in the quarter, and 160.9% to $0.60 in the year.
+Systemix Inc has reported third quarter net profits of $2.2m against losses of $1.8m last time, on turnover that rose 503.8% at $4m; net losses for the nine months stood at $13.7m, after $12.2m non-recurring charges, up from losses of $5.6m last time, on turnover that rose by 157.1% to $4.2m.
+Net earnings per share were $0.22 in the quarter.
+Total System Services Inc has reported fourth quarter net profits up 15.4% at $5.6m, on turnover up 15.1% at $35.3m; net profit for the year to December 31 was up 15.5% at $17.6m, on turnover that rose 15.4% to $129.7m.
+Net per share rose 12.9% to $0.35 in the quarter, 14.6% to $1.10 in the year.
+T/SF Communications Inc has turned in third quarter net profits of $13.9m against losses of $70,000 last time, after $24.4m non-recurring pre-tax gains, on turnover up 11.4% at $26.2m; net losses for the nine months stood at $15m up from losses of $1.4m last time, on turnover that rose 10.5% to $75.6m.
+Net earnings per share amounted to $2.63 in the quarter, and to $2.84 in the nine months.
+IBM JOB CUT ESTIMATES MAY BE ON THE LOW SIDE
+It has not taken IBM Corp long to admit informally that its target of 25,000 job cuts this year is on the low side, and the company now says that it expects at least 6,000 jobs to be cut at its three main operations in the Hudson Valley in upstate New York, where previously it had forecast between 3,000 and 3,500: IBM told Reuters that the job cuts, which will likely include layoffs, will come from the company's mainframe business in Poughkeepsie and Kingston, where at least 2,000 jobs will be cut, up from the company's previous expectations of between 600 to 800, and it also sees bigger staff cuts at the East Fishkill chip facility, which now expects to lose about 4,000 workers, up from about 3,000 — IBM is phasing out semiconductor operations in East Fishkill, moving some of the work to Burlington, Vermont, some to Essonnes, France; advanced semiconductor research and packaging remains in East Fishkill; the company says that despite the increased cuts, it believes that the charges it took in the fourth quarter will still be sufficient.
+RENEWED FINANCIAL CONFIDENCE AT UNISYS
+In a further show of renewed financial strength, Unisys Corp declared a dividend of $1.40625 per share on the company's Series A cumulative preferred stock: the dividend is 150% the stated quarterly dividend of 0.9375 per share and will be applied to reduce the accumulated dividend deficit to $4.22 a share.
+NTT TO SHED 33,000 BY MARCH ‘97
+Nippon Telegraph & Telephone Corp has now confirmed that it hopes to reduce its workforce by 33,000 positions by the end of March 1997.
+DIXONS BUY COMPUTER SUPERSTORES
+Consumer electronics retailer Dixons Group Plc has bought one of the UK computer superstore pioneers, Vision Technology Group Ltd, which operates the PC World chain of superstores, for about £8.5m in cash and loan notes: Vision Tech was incorporated in 1991 to acquire a group of companies engaged in the sale by mail order of personal computers, peripherals, software and accessories to corporate and educational customers and the individual customers; it made £400,000 pre-tax on volume of £49.3m last year from its stores in Croydon, West Thurrock, Brentford and Staples Corner, and it has net assets of £800,000.
+KOKUSAI DENSHIN DENWA ALSO FACE CUTS
+Nippon Telegraph is not the only one faced with the need to cut its workforce: Kokusai Denshin Denwa Co Ltd says it will cut its employee base by 850 to 5,000 by March 1998.
+AMSTRAD SHARES SET TO RISE
+This should shoot the Amstrad Plc shares past the failed buyout offer price of 30 pence a share: on March 18, the company plans to launch ‘the world's first Personal Digital Assistant’ at a ‘mass market price’, suggesting that the gadget will shoot Amstrad to a world lead.
+INTEL CORP SHARE PRICE BECOMES UNWIELDY
+At one time, IBM Corp's shares regularly got so heavy that the company would split them to make them more marketable, a move that usually tends to increase the value of a company in the market: those days are long gone for IBM, and now it's upstarts like Intel Corp that are able to flex their financial muscles: its board has approved a two-for-one split, and shareholders will vote on the proposal on May 5.
+MMT COMPUTING REDUCES TOTAL SYSTEMS STAKE
+MMT Computing Plc reduced its stake in Total Systems Plc to under 3%.
+LONG-DISTANCE CARRIER MERGER ON-GOING
+Jackson, Mississippi-based LDDS Communications Inc, Metromedia Communications Corp and Resurgens Communications Group Inc have now reached the letter of intent stage in their plan to merge with LDDS shareholders retaining about 68.5% of the combined company and John Kluge, chairman of Metromedia, expected to be chairman of the combined company with Bernard Ebbers, LDDS chief executive, taking that post; the combined company will be the fourth largest long-distance carrier in the US, a title that has been held by a whole string of companies over the past few years.
+QUALITY SOFTWARE PRODUCTS UNDERLINE FLOTATION PLANS
+ Usthinks the company doth protest too much: despite the fact that the countdown to its flotation has been under way for some weeks now, and Quality Software Products Plc has finally formally announced that ‘following last week's successful launch of Universal OLAS’ it ‘has decided to begin the process of seeking a listing on the London Stock Exchange,’it still says that ‘no final decision will be taken for some time,’making it sound as if the company is signalling frantically that it would prefer to be acquired if only someone would come forward offering more money than it could raise in a public flotation.
+ERICSSON TELEFON WIN SOUTH CHINA ORDER
+L M Ericsson Telefon AB has won an order from the Guangdong Mobile Communications Corp for a digital Groupe Speciale Mobile system to serve the burgeoning Pearl River Delta region in south China; the value of the order was not given.
+PROBE INTO DEC GALWAY CLOSURE
+The row over Digital Equipment Corp's decision to end manufacturing in Galway and try to find a new tenant to take over the manufacturing plant — which DEC owns, will not die down, and now the European Commission is to investigate Irish allegations that the UK government lured DEC into keeping its Ayr plant open at the expense of Galway: Commerce & Technology Minister Seamus Brennan, in Brussels for a meeting of European Community industry ministers, said Dublin had asked Competition Commissioner Karel van Miert to probe media reports that DEC had been offered inducements to keep the Ayr plant open — but no-one seems to have said just what these alleged inducements are; the UK government on Friday denied the allegations, saying any assistance it might or might not have given would have been fully in accordance with Community rules, and invited Community auditors to ‘come and look at the books any time’.
+NIPPON STEEL REACH  AGREEMENT WITH HITACHI
+Nippon Steel Corp has now reached agreement for Hitachi Ltd to transfer to it the technology to manufacture 4M-bit memory chips: the chips will be made at NMB Semiconductor Ltd, which will become Nippon Steel Semiconductor Corp when the steel company acquires the Minebea Co unit later this month; Hitachi will take some of the parts and sell them under its own name; Nippon Steel says it has already concluded similar agreements with Intel Corp and Sony Corp on production of other types of memory chip.
+SONY CONSIDER WITHDRAWING FROM WORD PROCESSOR MARKET
+The old certainties that ruled computer industry analysis over the past 30 years are tumbling like autumn leaves, and commercial realities are now eating away at the traditional determination of Japanese companies to forget the bottom line and stick with major product sectors for the long term: Sony Corp says it is considering pulling out of Japan's competitive word processor market to save the cost of developing and manufacturing new models, Reuter reports from Tokyo; Sony began making word processors in 1985 and production reached a peak of 10,000 a month; NEC Corp, Toshiba Corp, Fujitsu Ltd and Sharp Corp now dominate the market and Sony currently makes just 500 of the things a month, a drop in the 1992 market  ocean of 2.6m machines.
+VIDEO ELECTRONICS STANDARDS ASSOCIATION FALL OUT WITH DELL
+The Video Electronics Standards Association in San Jose is not too pleased with one of its members, Dell Computer Corp, which has suddenly jumped up to claim that some VL-Bus products to its standard infringe one of Dell's patents: ‘We are both surprised and saddened that one of the companies involved in ratifying the VL-Bus standard would take such an action,’ said Association chairman Scott Vouri; the patent appears to claim rights to a computer system receptive to a board that plugs into both a system input-output bus and a high speed expansion memory bus; Dell has been a member for over a year, having joined the club in February 1992, and voted to approve the standard; the group also says that like all the other members, Dell signed a statement indicating no knowledge of any conflicts with its patents.
+FCC URGES GRAND ALLIANCE
+The US Federal Communications Commission is urging the four rival teams bidding digital systems to set the US high definition television standard to merge their rival systems into a grand alliance: the remaining contenders are AT&T Co with Zenith Electronics Corp, General Electric Co Inc's National Broadcasting Corp unit with Philips Electronics NV, Thomson SA and the David Sarnoff Research Center, and two alternate bids led by General Instrument Corp and the Massachusetts Institute of Technology; if the rival contenders fail to strike an alliance, final testing on the four improved systems will begin in April and conclude in late summer.
+MOTOROLA PERSONAL MESSENGER READY BY END OF YEAR
+Motorola Inc says it expects to have the first version of its hand-held personal communicator on the market by the end of this year: the device, internally code-named the Personal Messenger, will be Motorola's first product from its alliance with General Magic Corp: the hand-held device will initially handle data only, but will be able to transmit and receive messages and electronic mail from all current electronic mail systems; the target price is a hefty $2,000.
+DATA RACE WIN OEM ORDER FROM EO INC
+Meantime San Antonio, Texas-based Data Race Inc has won an OEM contract with Eo Inc to supply Eo internal V.32bis facsimile modem, running at 14,400bps with 9,600bps facsimile send and receive capabilities; it is integrated into Eo 440 and 880 Personal Communicators.
+INTERDIGITAL COMMUNICATIONS READY TO ENFORCE PORTFOLIO OF US PATENTS
+Look out, all those companies that are eagerly playing in the digital cellular telephony market with Time Division Multiple Access technology: the King of Prussia, Pennsylvania-based InterDigital Patents Corp unit of InterDigital Communications Corp says it has engaged the law firm of Dickstein Shapiro & Morin to represent it in connection with possible patent infringement litigation to enforce its portfolio of 32 US patents on the technology.
+FORMATION OF SGML OPEN CONSORTIUM
+Yet another industry consortium has been born in the shape of SGML Open, which brings together electronic distribution, authoring and database software companies to educate the commercial market about the advantages of the language and provide information to help organisations to implement the standard; and to provide a forum where vendors can resolve issues in applying the standard to real-world application by providing guidelines: the announcement of the formal founding, organisational structure and proposed programme will be made at the Seybold Seminars in Boston in April; the backers believe that the language has the potential to do for document-based information what SQL has done for databases.
+IBM PERSONAL SOFTWARE PRODUCTS EMBRACE TOOLS INTERFACE STANDARDS COMMITTEE
+IBM Corp's IBM Personal Software Products division has become a charter member of a new Tools Interface Standards committee, an industry group that aims to define specifications that enable vendors to enhance the interoperability and portability of 32-bit development tools and to improve the economics of developing 32-bit applications; others include Borland International Inc, Intel Corp, Lotus Development Corp, Metaware Inc, Microsoft Corp, Santa Cruz Operation Inc and Watcom Ltd, which will work to define a set of tool interface specifications for 32-bit operating systems and provide an open forum.
+$81m EXPANSION AT NCR COLORADO PLANT
+NCR Corp's Colorado Springs-based NCR Microelectronic Products Division plans an $81m expansion that will more than double production capacity at the Colorado plant.
+BORLAND WILL REPORT FOURTH QUARTER PROFIT
+Borland International Inc president and chief executive Philippe Kahn says the company will report profit for the fourth quarter to March 31, and adds that he is comfortable with analysts' estimates of profits of about $0.10 a share: Borland's target is to be profitable every quarter in the coming fiscal 1994 — Paradox for Windows is ‘doing great’ and is on a winning track and Quattro Pro is now picking up.
+CA-CLIPPER 5.2 NOW AVAILABLE
+Islandia, New York-based Computer Associates International Inc says it is now shipping CA-Clipper 5.2, which it says improves performance, extending its functionality and providing better links to foreign data: it costs $800, and is offered to existing users at $150; users of dBase or compatibles will pay $200.
+UNITEL TO OPEN WINNIPEG TELECOMMUNICATIONS CENTRE
+Toronto-based Unitel Communications Inc is to open a telecommunications centre in Winnipeg, Manitoba, by the end of the year, creating 400 jobs: the telemarketing and customer services centre will join the ones in Kamloops, British Columbia and in Edmundston, New Brunswick.
+FRANCE TELECOM SAFE FROM PRIVATISATION
+The French opposition may be described as right-wing but coporatism runs deep in France, so there's no chance of any new government being so radical as to privatise France Telecom: the state phone company is not on the list of firms that France's centre-right opposition may privatise if, as polls suggest, it wins March's parliamentary elections, former president Valery Giscard d'Estaing said — Giscard, leader of the UDF party, told a news conference that all companies operating in the competitive sector of the economy would be candidates for privatisation, but that France Telecom, and nationalised transport and energy monopolies, would not.
+AMERICAN SUPERCONDUCTOR AND HOECHST SIGN AGREEMENT
+Watertown, Massachusetts-based American Superconductor Corp signed a joint development agreement with Hoechst AG on techniques for making superconducting wires: American Superconductor will get $1.8m from Hoechst over 18 months to speed development and manufacture of high temperature superconductor wires and the German will invest at least another $2m on the programme at its own plants in Frankfurt; the US firm will also contribute $2.5m of assets to the joint venture and will retain all manufacturing and marketing rights in North America and Mexico; in Europe, the two will establish operations for joint manufacture and marketing of wires.
+NOVADYNE COMPUTER SYSTEMS GET BT CONTRACT
+Santa Ana, California-based Novadyne Computer Systems Inc reports a three-year, $55m contract with British Telecommunications Plc's San Jose-based BT North America Inc for maintenance and installation services for the company's value-added data networks: Novadyne — formerly the US end of McDonnell Douglas Information Systems, will provide maintenance and installation services on its North American network and communications equipment, including hundreds of workstations and other computers from Sun Microsystems Inc, Data General Corp and Digital Equipment Corp.
+AUTODESK COMMITTED TO DIVERSIFYING REVENUE STREAM
+Sausalito, California-based Autodesk Inc says it is committed to diversifying its revenue stream, but didn't say what it had in mind.
+IBM CREDIT CORP OFFER FINANCING FOR INTELLIGENT ELECTRONICS PRODUCTS
+IBM Credit Corp, Stamford, Connecticut is to offer financing to remarketers that buy eligible manufacturers' products from Intelligent Electronics Inc — they will get 30 days free finance for their purchases; the new pact extends an earlier one covering only IBM Corp and Lexmark International Inc kit.
+FIRST STAGE COMPLETED OF ELECTRONIC SUPERHIGHWAY
+Woodbury, New York-based Cablevision Systems Corp says it has completed the first stage of its electronic superhighway to homes, businesses and institutions in the New York metropolitan area: the $300m project, scheduled for completion in 1995, involves installation of over 3,000 miles of fibre network.
+PAUL STERN EASES OUT IN FRONT
+Former Northern Telecom Ltd chief and alumnus of Burroughs Corp, Unisys Corp and IBM Corp itself, Paul Stern is now firm favourite in the betting on the next chief executive of IBM after the Wall Street Journal disclosed that there are strong objections to him from some influential IBM executives — if he's got those people against him, he must be the right man for the job.

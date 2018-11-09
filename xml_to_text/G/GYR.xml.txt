@@ -1,0 +1,1519 @@
+
+
+Now let's have a look at some circuit diagrams.
+have a few of those in.
+Erm don't know if you want to look at some on the paper,have a look at some in the paper and see how you do on those.
+Circuit diagrams, erm I'm usually okay with circuit diagrams.
+Right, okay.
+Erm just a bit of quick revision, don't think you need to work out the examples cos you're, you're okay at working them out.
+You've got something like this.
+Erm  you've got a, a battery and you've got say er what?
+Say six ohms on each of these in parallel  and two ohms there and that's say a twelve volt battery erm could you work out the current in that resistor?
+Tell me  how you'd go about it, what sort of thing would you w where would you start?
+They just want to know
+There's the  
+the current in that resistor.
+Er the current in that resistor?
+In this bottom resistor one of the six o in fact tell you what, we'll make it awkward for you.
+Here you are, we'll make erm we'll make that bottom one twelve ohms.  a six ohms, so the three in parallel.
+Right.
+We want to know the current in that.
+Current is resistance is equal to voltage divide by current, so it's Ohm's Law.
+Right.
+So where do you start?
+ 
+Cos that's, that's a typical question that 
+Yeah.
+they give.
+A mixture of series and parallel, which you've done before but you probably need a bit of revision.
+Erm I've gotta work out the current of the twelve volts first.
+Right.
+The current in the, the 
+ 
+first thing is work out the current in the whole circuit.
+How are you going to do that?
+So I have to work out what the entire value of these is.
+The six o the six ohms and the twelve ohms.
+What's the oh formula for parallel resistance?
+What's the formula for series resistance?
+That one's easier, the, you can  
+you add them, together.
+Just add them together.
+So the parallel one is the other one, the awkward one,
+Yeah.
+remember what that is?
+Erm resistance one  plus resistance two divide by is it?
+Erm oh
+You've got three resistors 
+Yeah.
+Divide by resistance .
+No.
+I can't remember.
+Okay, let's have a lo a little look at  
+It's an awkward one I know.
+Right, the series is no problem.
+We want to find, another little circuit here with R one and R two in it.
+Right,voltage there.
+You know that one, total resistance is equal to  both in series.
+Er erm resistance R one plus R two.
+Right, so that one's no problem, R one plus R two.
+This one is a bit more of a problem.
+Just think about two first of all.
+that's R one, this is R two.
+Resistance there is equal to
+Erm
+and you were getting very close to it,
+Yeah.
+with the formula, so think about it for two.
+And just sort of write down a few expression and then think ah  that's not right or yes that's  
+Resistance of one divide by resistance of two, no.
+Just have a, have a scribble and see what it looks like.
+I can't  honestly e erm 
+Oh.
+I, I have the feeling that it helps you to see it written down
+Yeah.
+and for you to then actually have seen it sort of write it down rather than for someone just calling out to you.
+I don't know, do you agree with that?
+Or 
+Yeah.
+not, but it is better that way.
+Okay  look what they say and if they've got a diagram of .
+Erm  five, this one.
+And we definitely don't want that one, do we?
+Volts in atoms.
+So this is the sort of thing we've got.
+Two circuit elements  I think we need the fire on today.
+Oh they're showing how to derive them, which you don't really need.
+just sort of scribble something down, even if you, even if you don't think it's right.
+I, I can't think of it because that
+Erm
+er
+because of w what's .
+What I'm trying to do is trying to get it the way it will be in an exam so, cos in an exam you're 
+Ah.
+going to have to start from somewhere, so 
+Haven't  I honestly can't remember.
+That's as far as I could er 
+Okay, what are the b write down any other things that you can remember about erm I mean turn that over, you can remember Ohm's 
+I can't remember anything.
+Law.
+Yeah, I can remember Ohm's Law.
+Okay write down Ohm's Law, and that's, when you, when you sort of pull things out of your memory it, your memory is usually all in blocks of links  So    
+Oh God.
+Four.
+Right.
+Er
+Think, think about Ohm's Law in terms of what current is, okay now, good.
+Now are you certain about that?
+Yeah.
+Good.
+So you can look at that, not just sort of little symbols er not really meaning much but we're going to look at what happens to the current.
+If you make the voltage higher, it'll keep the resistance the same, what happens to the current?
+Er if you took voltage 
+So so let's say you've got a light bulb.
+No, I just wondered if you make the voltage higher and 
+Yeah.
+the resistance the same the current goes up.
+Current goes up.
+So you, you can sort of think about it.
+Get a, get a twelve volt car bulb and start it up at twelve volts and wind the voltage up.
+You 
+Okay .
+leave it till about sort of thirty odd and pow, the current's going up.
+Okay?
+I if you put, if you make the resistance, keep the voltage the same, you make the resistance higher, what happens to the current?
+Keep increasing the resistance for the same voltage, what happens to the current?
+Er if you keep increasing the resistance of the, what happens to the current?
+Er  say it again, I
+So we've got, let's think, think of a
+Yeah I know I, I just want to say it 
+specific example 
+again, I keep on, as I'm thinking 
+Okay.
+over it again.
+So the voltage isn't changing, you don't 
+You 
+need to worry about that.
+It's a steady pressure trying to push that through, and we increase the resistance, we make more resistance
+Less current.
+So less current,
+ 
+okay?
+So just think of resistance as sort of something that stops the current, and as you increase it the current gets less.
+So those are both the right way, the V is on the top, because that's the more, the bigger V gets, then the bigger the current is going to get.
+The R is on the bottom because the bigger R gets, the smaller.
+Right 
+Mm.
+if you have R ten times what it was in the pres the previous one, you'll now only get a tenth of the current out.
+Yeah.
+Okay.
+Make, make the resistance a hundred times what it was you'd only get a hundredth of the current.
+Make your voltage twice what it was, and keep everything else fixed, you'll get twice the current.
+So that's, that is the way that most people find is easiest to remember Ohm's Law.
+You don't have to remember all of them, cos if you remember one you just need a little bit of maths to work out the others.
+Erm so that's one you can remember on your own, you can work it out, you can write it down.
+What about erm power?
+And erm the, what, how would you work out, think of a practical example, how would you work out the wattage erm  if you know the current?
+Erm the wattage if you know the current.
+So you know  I mean this is, okay, let's say you haven't got a clue, you can't work out what it is so you think oh alright, I'm stuck.
+Well 
+Yeah.
+let's get something practical, fan heater, let's say it's about ten amps.
+It's probably getting on for thirteen.
+Let's say it's about ten amps so which way round would it go?
+Erm we've got I equals V over R, doesn't help there.
+And we've got this one for wattage, what's the wattage?
+Well the wattage of a fan heater is about what?
+Er let's say it's about two point four kilowatts.
+Mm.
+Right.
+Two point four kilowatts.
+That's the wattage and the current,
+Er 
+fan heater, say around ten amps.
+I 
+Yeah.
+mean you, you know these things, you know roughly what the wattage of a
+Yeah.
+fan heater is, you know roughly what current it takes.
+And you know what the voltage is
+Yeah, two forty.
+Two forty.
+So what's the tie up between those?
+Er these are actual values, something you know, so you're not dealing with a, a weird isolated concept.
+Ten times two forty.
+Right, so it looks as if 
+Current times voltage.
+looks as if watts is equal to the voltage times the current, the current times the voltage.
+And it is.
+So that's a way of not relying on remembering, cos you've got so many little squiggles you've got to remember, not just in physics, in chemistry and in everything else.
+If you tried to remember them all as just these equations, you'd be very easily getting confused about which one was which and you'll just get your head cluttered with all sorts of stuff and  so that way something that you know, something you can bring it back to.
+So watts is V I, now this is a common question that you get.
+Erm let's say a hair dryer  is rated at erm er  let's make it a telly.
+T V is rated at  a hundred and twenty watts, right?
+Mm.
+How big a fuse would you put in it?
+Right.
+Okay?
+That, that's how they'd word 
+Yeah.
+the question.
+So how would you go about that?
+How would you think about that?
+Right.
+Watts is equal to voltage times current.
+Right.
+So it's a hundred and twenty I'll write the equation down.
+A hundred and twenty equal to two forty, now  erm
+If you don't know it, current is the one we're trying to find out, you just leave it as I.
+So you've  done is rewritten your equation,
+Yeah.
+filled in the ones you know.
+And the one you don't know is still there.
+So now you've got your equation.
+Yeah.
+That's m almost done the problem.
+All you've got to do now is a little bit of maths to 
+Right.
+Two forty  a hundred and twenty plus V times it by oh  have to divide it by, so it would be er  watts over voltage is er
+You  do it, it doesn't matter which way, whether you do it
+Yeah, yeah 
+that way or not, but 
+it'll make it easier.
+.
+Okay.
+okay?
+So it's a half amp so what sized fu and they would probably give you erm, are you going to use a three amp, a five amp or a fif or a thirteen amp fuse?
+Yeah.
+And once you've worked it out, you can tell.
+Now that one sort of came out quite easily, some of them will come  point eight amps, or two point 
+Yeah.
+four amps or things like that so, but that's, that comes up quite a lot, that sort of thing.
+So you're okay on that you, you've got from thinking oh I'm stuck on the other, I've nowhere to start,
+Yeah.
+y I mean you know quite a lot about electrical things, practically 
+Mm.
+you can, you can do them and you know what fuses to put in, you know what you're doing.
+So use that knowledge and bring it in don't keep it.
+Don't sort 
+Yeah.
+of leave it outside on the exam and think ooh it's squiggles time now, I can't remember which squiggles go on top and which are on the bottom.
+Bring in 
+Mm.
+your outside knowledge, use that and then you're not relying so much on, oh no I've got more and more formulae to learn, more things.
+You can work it out and you know if you get it, even if you're not sure of the original formula, if you get it upside down, you can look at it, this is no good.
+The more I increase the resistance, the more current is getting through, oh it 
+Mm.
+must be the other way round, cos that's not right.
+Okay?
+So going back to the parallel, have you had any thoughts about it?
+Parallel
+Resistance in parallel.
+I honestly can't remember what it was.
+No, okay.
+Okay, okay.
+I can't, I can't 
+forget about that for the mo 
+I did know it.
+You did, cos you were doing 
+Yeah.
+them very nicely.
+Erm what's the sort of real shape, it's not just you it's everyone sort of doing GCSEs at the moment, erm I'm getting this quite a lot.
+They say, oh I did about five examples of this, got them all right, no problems straight, but now I just haven't got a clue, don't know where to 
+Yeah.
+start, what to do or anything so, you need a little bit of practice at doing them for, for revision and then it, it's not nearly as hard as when you first learnt, it pulls it out of your head again and then sort of puts it back in a bit more settled down and easier to retrieve.
+Erm I don't think I have got any written down here for you to have a look so I'll have to write it down for you erm  stuff about Stanley knives.
+er  chemistry, chemistry, chemistry and chemistry.
+One two three four chemistry books there,physics erm let's have a look if Ohm's Law's in, we can find anything about him.
+. No it hasn't got any Ohm's Law, it hasn't got much about electricity in that at all.
+Er have you got any notes on it, don't mean get them now, have you got notes on what you did on resistors in series and in parallel?
+Erm Yeah.
+I probably 
+Okay.
+have somewhere.
+Okay.
+Buried in some  
+Buried, buried.
+in piles of paper.
+Have you got your text books, with you?
+Yeah.
+So you can look it 
+Yeah.
+up.
+Cos I don't, I don't want to do much of, I know you  you want me to show you.
+Yeah.
+But I want to do so much of
+Yeah I, I even remember 
+It, it's very se 
+looking them up and  
+Right.
+them and everything.
+Yeah.
+But I cannot remember.
+I remember the teacher showing me in school, as well, how to do it and I just, I can't remember 
+So 
+how to do it.
+when you find out, you must try and think of some way that y can make you to think of it.
+Have it like this.
+Say you've got erm I mean think of elec electrical wires,like pipes.
+Yeah.
+Okay and if we put  perhaps a water tank here and the water's trying to get out and we've got these two big pipes, go through one big pipe and one little pipe.
+What we're trying to do is ref replace those three 
+ 
+with another pipe.
+Now would it be bigger than.
+let's, let's look at it this way, erm with a small pipe so much water gets out, okay?
+Small pipe is offering a lot of resistance to the water so that's a sort of fairly high resistance.
+A bigger pipe, more water goes through offering less resistance.
+If someone said oh we don't want two pipes it's a bit messy, take them out and replace them by one that had the same resistance, that lets the same amount of water through, what would you replace those by?
+I mean would it be bigger or smaller or what?
+Just sort of talk about that.
+Er 
+It's just water.
+if it was water and you wanted more to flow off?
+You want, want to get the same amount, I mean we've got a certain amount of water coming through that pipe,
+Yeah.
+and a certain amount coming through this pipe.
+Yeah.
+But someone says oh this is a bit messy having these two pipes, couldn't we just have one pipe that did exactly the same job.
+Now would it be a smaller pipe, a bigger pipe or what?
+Bigger, than both of them.
+It would be bigger than both of them.
+So it'd be perhaps a little bit bigger than this big one cos the small one wouldn't make a lot of difference so perhaps it would be that, that big, or something.
+Now a bigger pipe, has that got more resistance or less resistance?
+A bigger pipe has got m more resistance.
+It's, less.
+Less resistance.
+Yeah.
+Yeah.
+So 
+ 
+so if we get two resistors  and we put one there, say that's a hundred ohms.
+Mm.
+Mhm.
+And we put another one here, say fifty ohms.
+Right, this is low this is  this is letting a lot through, this isn't letting so much through.
+If we replace them by, instead of those we're just going to have one resistor.
+What it's going to be like, roughly?
+I mean is it going to be a thousand ohms, two ohms or what?
+Just a guess, not, no calculations, no formula just sort of your common sense, what would you think about that?
+Now a hundred and fifty ohms, okay that's more resistance.
+That's letting less electricity through.
+Think of one at a time.
+Just cover up the hundred ohms, let's take it out of the circuit.
+Right, all the electricity is going through the fifty ohm.
+quite happy with that, running all their motors and stuff.
+And then somebody puts another piece of wire in, I'm not saying how much resistance it is, but somebody puts another piece of wire.
+Are you going to get more current going through or less?
+Mm more current.
+Right.
+You're going to get more, it's just as if we had just the big pipe from the 
+Yeah.
+reservoir, and someone puts a little pipe on as well.
+Okay, you don't get much more but we're going to get more.
+Yeah.
+So you said here to replace the two pipes, the sort of medium pipe and the small pipe you'll have one that's a bit bigger than the big pipe.
+Yeah.
+We're doing the same thing here, we've got a, a low resistance letting a lot of current in, letting a lot of current go through.
+Mhm.
+And then somebody put another one in.
+Okay it's only a small pipe, it's got a high resistance, it doesn't let much through, but it does let some more through.
+Mm.
+So have another guess at what the resistance is going to be.
+Er 
+In terms of sort of like
+er  I haven't  a hundred 
+Right.
+and fifty ohms.
+A hundred and fif 
+Oh!
+Fifty ohms,
+Right.
+Well a hundred and fifty means, a hundred and fifty is high resistance, not 
+Yeah.
+much gets through.
+The problem with this, the, the, the problem where it's hard to see is cos we're dealing with an inverse.
+Yeah.
+As the resistance gets higher and higher the current goes down.
+But what we're doing is as the resistance gets lower we get more current through.
+So with fifty ohms we were getting a cer let's say with fifty ohms we were getting about ten amps going through.
+Mm.
+Right.
+Somebody puts another resistor, another, not a resistor, conductor cos it's going to let some more get through, no matter how much resistance it'll still let some get through.
+Yeah.
+So let's say now, when we put that one on as well we're getting eleven amps through.
+So it was ten amps with just the one, just the fifty ohm and now it, I mean this isn't right but just a, let's say that with both we're going to get about eleven amps.
+We haven't changed the voltage, we've got more current going through.
+So what's happened to the resistance?
+Erm
+Got Ohm's Law, current is equal to voltage over resistance, well we haven't changed voltage, we've kept that fixed.
+Yeah.
+But now we find that we've got more current going through.
+Well we know we've changed the resistance so did we make the resistance more or less?
+We've got more current going through now.
+We made it more.
+Less!
+Okay, it's on the bottom, so if we had ten times, we made it ten times as big then we don't get ten times the current we get one tenth.
+Yeah.
+This is the, the awkward bit, that it's all upside down.
+Yeah.
+It's an inverse relationship.
+So we put another wire on, don't think of it as resistance, think of it as a conductor, it's going to let some more current through.
+We've got so much going through the big wire, put another little wire on as well.
+Some more'll go through that.
+More current going through,changed the voltage, so it must mean the resistance has gone down.
+Resistance has increased, so have another guess, just a guess.
+Don't try and do any sums on it and think ooh I'll  square one and add it on half the other.
+It was, it was  without this hundred on it was fifty ohms.
+Yeah.
+We put an extra one on, what's it going to be now, roughly?
+Just a, you know, just a guess.
+Is it going to be more than a hundred?
+Or what?
+Less.
+I mean it's not going to be a hundred and fifty, because a hundred and fifty is
+It's going to be less than fifty.
+That's it.
+So that's it, that's, that's more or less, that's the end of your analysis now.
+Yeah?
+You've worked out what happens, it's going to be less.
+Whatever the resistance of this comes to it's going to be less than fifty ohms.
+Yeah.
+Okay?
+Erm if it's more, well this is ridiculous because we were getting, that means getting some more current going through there has sort of changed everything else, so it's going to be less than fifty ohms.
+Well then if you weren't sure of your formula, if you tried the formula, who's been doing that?
+Right.
+S 
+Er oh yeah I forgot to ask you.
+Would you like a drink, soft drink?
+I 
+I 
+can't really make coffee because no one else is here and it'll waste a lot of time.
+Right, erm no thanks I'm fine.
+Yeah.
+I had a coffee.
+You have one though if you want.
+No it's okay.
+I had one just before I came out,
+Yeah.
+so I'm alright.
+So we could try different things, there's this one over it comes in somewhere doesn't it?
+Yeah.
+So let's try one over resistance equals one over R one plus one over R two.
+Why does this, do you know what one over resistance is by the way?
+Erm it's one divided by resistance.
+Have you heard of conductance?
+No.
+Well if we were, you, you've got the lawnmower outside, a sort of electric Flymo or something, and you want to get some current out there to it, to run it.
+Erm you don't get a piece of string,
+Yeah.
+what would you get?
+An extension,
+An and copper is a good
+Conductor.
+So you look for a conductor 
+It's a conductor.
+I mean if you were being really dangerous and you wanted to die soon you could just sort of get a piece of bare wire and 
+Mm.
+run it out there and run it off that until it touched something.
+So you're looking for a conductor.
+A conductor is something that electricity goes along and there's a properties of metals called its conductance and it was, it, we might, might be better thinking of, thinking of its, its conductance.
+So if you think of pipe as how much water it can conduct.
+Yeah.
+This one say can conduct two gallons a minute.
+Right?
+And this one can conduct twenty gallons a minute.
+Yeah.
+Right.
+So how much will th if you want to replace them by one pipe how much will this pipe have?
+Twenty two gallons a minute.
+Twenty two gallons a minute.
+This is the pipe's conductance, if you like.
+Mhm.
+So we just add them together.
+Well this is conductance, the inverse, one over resistance is conductance.
+So the conductance of this circuit is equal to the conductance of that bit plus the conductance of that.
+So it's just going to come to one over  fifty plus one over a hundred.
+Okay?
+What does that come to?
+Erm one over fifty plus one over a hundred is er one, two over a hundred and fifty.
+Oh got to find  
+So that's 
+Three over two hundred.
+Three over what?
+One hundred?
+Yeah.
+Yeah.
+Okay?
+So let's think of that as, okay.
+Two over a hundred plus one over a hundred,.
+So the conductance is one over R is equal to that 
+Yeah.
+Right?
+Which comes to, so one over the resistance is that so the resistance is turn it upside down, a hundred over three.
+What does that come to roughly?
+Er three, thirty three?
+Around about thirty three ohms.
+Does that 
+Thirty three and one third.
+Yeah, excellent.
+Point three recurring.
+Thirty three and a third is better actually.
+A nicer way of putting it.
+Thirty three and a third ohms, does that sound about right?
+Yeah that looks about the right sort of thing, cos it was fifty ohms and we've put, I mean it's not that much small you know it's not going to let, it should let about half as much through as that lets through this shouldn't it?
+Yeah.
+So if this was letting, if this was letting ten amps through then this one should let about five amps through.
+Yeah.
+Yeah.
+Does that seem reasonable to you?
+If 
+Yeah.
+fifty ohms lets ten amps go through then a hundred ohms will let half as much, it'll, will let five amps go through.
+So we've got the circuit like that originally, ten amps going through it.
+Put this one on and s oh we get another five amps through there.
+So altogether we'll have fifteen amps and the resistance is now  two thirds of what it was.
+Yeah.
+Two thirds of fifty.
+So we're just adding the conductances again, and if we did it with three of, we had sort of three pipes
+Mhm.
+and say well think of the conductance, don't think of it as resisting and stopping the water, how much can it get along and get through?
+How much can it conduct through?
+Conductance, one over resistance is equal to  R one plus one over R two plus one over R three.
+as many as you like, keep putting lots and lots and lots of extra wires on.
+So  with that
+you should be able to  do that problem yourself.
+Now what I want you to do is not look at that.
+I'll leave it with you but don't look at it.
+Just try and remember what we were doing but the pig about resistance is it's one over and  think ooh we're all into weird fractions and everything seems to work the opposite way round to the way you'd expect it.
+So get out of that, change your model, change your way of looking at it.
+Don't think of it as something resisting electricity, think of it as conducting, helping it along.
+Erm you know a lot about electricity, if I'm going to use this little thin wire.
+Yeah.
+And I'm going to say right, I'm going to run my fan heater off that,
+what would you say?
+You're mental.
+It's not going to conduct enough, you want a better conductor.
+You want a big foot thick copper conductor, that'll get a lot of it through.
+Get something with a good conductance, not something with a high resistance but something with a high conductance.
+So if you use that and just have a look at this problem here.
+Find out what's the current through the twelve ohm resistor, through in fact  through each resistor.
+Mhm.
+Okay?
+Is that all right, it's very scrappy  
+Yeah.
+you can see what we mean there.
+You've got two six ohms, a twelve ohm and a ten ohm, and twelve volts there, so the first thing.
+What's, how, how're you going to go about the problems, sort of talk through the stages.
+Right I'll work out the current I'll work out the resistance
+Right.
+the combined resistance of these and then I will add it to this resistance.
+Okay.
+I'll work out the total current flowing through the whole erm circuit
+then I'll work out the current through in through each of this here.
+Okay.
+And whatever w the current, what the current is when it leaves.
+Right.
+You can work out 
+Er 
+you can work out the current through this one, pretty easily, when you work the 
+Yeah.
+total resistance.
+So that's not going to be much problem.
+Erm work out what the current is when it leaves.
+Mm.
+Well think of this as a sort of water pipe system if you like.
+six ohm pipes.
+And there's a twelve ohm which is a thinner one because it doesn't let as much go through.
+Okay?
+Here's some sort of strange manifold, okay?
+And water comes in there, goes out there and then again  out of the, another  manifold again.
+Yeah.
+And then it goes into another pipe.
+goes into this other resistor here, where it goes  and then it flows round again.
+So what happens to the water that comes in here?
+It gets split up and then goes, most goes 
+Split up three ways.
+that way.
+Right.
+A little goes that way and then a very small amount goes that way.
+Right.
+So a lot of it's going to go through the big pipe and then what happens to it when it's come through the, the, these three pipes?
+It pushes 
+It joins up again.
+And here's the other resistance.
+So you were saying about finding out how much current goes through 
+Er yeah.
+So what, hmm the water comes in here.
+Let's say the water comes in here at sort of ten gallons a minute.
+What rate does it come out of the end here?
+Ten gallons a minute.
+Right.
+Pick any point, there say,or here 
+Mm.
+or there.
+How much water's flowing past in a minute?
+Ten gallons a minute.
+Right.
+When it 
+ 
+splits up and goes its separate ways we're not getting ten gallons a minute through that pipe or through that or 
+Yeah.
+through that but in total we are.
+So it's the same water going all the way round, it's the same current going all the way through here, so if we've got ten gallons a minute of electricity coming in there, say ten amps,
+Yeah.
+yeah?
+It splits up, some of it will go there, there, there, as you say the least of it will go down this high resistance.
+Then it all joins up again and goes back in, goes along here, so everything that goes down there, the ten amps goes through this one again, and back into the battery.
+We'll close this switch cos otherwise it's a very simple answer.
+What's the current in there?
+Non cos the switch is open.
+Does that help you to sort of understand it better?
+Yeah.
+What, what's happening?
+Think of it, this as water analogy.
+It's all flowing round, it all starts off here, it all gets round and gets back again, the battery's like a pump, pumping it all round.
+Resistors are like pipes, if you work with a resistance it's always one over so forget about resistance, deal with conductance.
+I mean you still write one over resistance but don't think of the resistance part of it, think of the new one over as a separate entity.
+This is, this is how big your pipe is.
+Right.
+A big one over R is a big conductance.
+Big pipe big diameter pipe.
+It lets a lot through.
+So I think you can sort that out, pretty easily now.
+a factor tree on the back as well.
+As I say, don't be tempted to have a quick glance at that before you start the problem.
+Try and
+Yeah.
+just leave that unless you are totally stuck, and I don't mean sort of five minutes, have a good sort of maybe ten minutes or say about ten minutes of playing with this.
+Don't just think oh I don't know this, oh I can't do that, I don't know what the formulae are.
+Work out what you do know.
+Like on this one, you didn't know what the resistance was exactly, but you worked it out, well it's going to be less than, your first thought was add it together of course.
+A 
+Yeah.
+hundred and fifty.
+That's because you, you want to, everyone does, you want to think in terms of conductances, so it's hard to get over this problem, so don't get over it.
+Think of conductances, every time you think of conductance just write one over R.  Erm so I think you can do, do it without working  but if you need to it's there, so I'll leave that.
+And I think  you need to do a bit of revision on the firm basic
+Yeah.
+stuff there.
+that stopped?
+You're going very slowly, I'll  these batteries   there's the problem, there's little diagram to sort of think about it in terms of water.
+Mhm.
+And there's, there's the answer, but don't look at that if you can.
+I won't.
+Okay, I mean 
+ 
+it's up to you but 
+Yeah.
+it's, I'm just trying to help 
+It helps  
+I'm not trying to make it hard for you, I'm trying to work out what is useful for you, cos it's no good you just sort of more or less copying it out.
+Energy now.
+Erm power er different types of energy, how many have we got?
+Different types of energy?
+Er  er chemical.
+Okay.
+Erm kinetic energy, potential energy er electrical energy 
+Okay.
+Just finishing off on electrical energy.
+How do you pay for the electrical energy that you use?
+How many kilowatts you've used .
+kilowatts.
+Mm.
+You turn, you turn a three bar electric fire on, say.
+A big fan 
+Mm.
+heater.
+That's a three kilowatt heater erm
+so you've turned your kilow three kilowatt heater on for an hour and I'm gonna charge you,le let's say, thirty pence.
+Okay?
+Mm.
+Charge, you've turned it on for ten hours, how much will I charge you?
+Three pound.
+Yeah, why?
+It's right, why?
+Cos it were using more
+It using it's us 
+ 
+using it at the same rate but it's going for a longer time.
+Yeah.
+So you don't just pay for kilowatts that you use, what do you pay for?
+Erm 
+Erm you know it cos you've just told me the 
+Yeah.
+answer.
+You've just told me exac this is what you did.
+Mm.
+I said three kilowatts.
+Yeah.
+And it's running for ten hours.
+Mhm.
+You multiplied them together.
+Yeah.
+Didn't you?
+Kilowatts
+Per hour.
+times hours, it's not per hour.
+kilowatt hours.
+Kilowatt hours.
+Mm.
+Okay?
+And that's what we pay for and that's, when you want to work out how much a fan heater uses and you know, how long was it on for?
+If you just flick it on and off it's going to use very little.
+Leave it on for a year you'll get a  bill.
+Mm.
+So the energy is kilowatt hours.
+Kilowatts is not energy, it's the rate at which you're using energy, how quickly is this electrical appliance burning up electricity?
+Erm three kilowatt heater it's really sort of running away with electricity.
+Erm a light bulb is not using much electricity in a given time.
+But if you leave a light bulb on for a year, it'll cost you more than leaving the fan heater on for an hour.
+Yeah.
+So it's how quickly is it using electricity and how long did you leave it on for?
+So kilowatts is, is what?
+What, what are, what are kilowatts a measure of?
+Er thousand watts.
+Right a kilowatts is a thousand watts and what is it measuring?
+erm  watts is erm   er
+It's an awkward one,
+Mm.
+And it's one that needs sort of a bit of thinking about, and again tie it back to the everyday things that you know quite a lot about, electrical appliances, things like that.
+It's how much energy it uses, er
+Yeah.
+How much e energy it uses
+Carry on.
+It's which ra how m it's the rate at which it uses
+The rate, that's it.
+voltage.
+The rate at which it uses energy, it's the rate at which it's using the energy.
+So a three kilowatt fire is using it at a terrific rate, it's running away with electricity.
+A er twenty five watt lamp in the fridge is using it at a very low rate, it's hardly using any electricity.
+. So to work out how much energy you're using is, how quickly am I using up energy, well I'm using it at a rate of ten kilowatts.
+Right, so that's a lot of kilowatts is energy per second or energy per hour if you like.
+Kilowatts, watts, energy per hour.
+Watts is actually energy per second but if we think of it in terms of hours cos we've bought by, by, by hours.
+So to find out how much you pay for, how much actual energy has been used up, you think it, again going back to the water, if we have a big tank full of water and we're using it up, this time in terms of power, erm if we have something that's using up water at the rate of say six gallons a minute and someone's going to charge you for your water.
+Well let's say you've got a, a water meter, okay?
+Water meter, have you got a water meter here?
+Don't think so.
+Let's say your wa your water is metered and erm you've got a, a washing machine  using six gallons per minute.
+Right, you've got a garden hose running off your mains as well using, say,twe I don't know how much it uses  twenty gallons a minute, something like that.
+Yeah.
+Right.
+Erm if they're going to charge you for your water by how much you use, they don't just charge you twenty when you've got your hose running.
+They say well how many minutes did you have it running?
+Right, so it's twenty gallons per minute times, let's say you've got it going for ten minutes, ten mins and the per minutes and the minutes cancel out and the answer comes in gallons then.
+Yeah.
+You've used twenty gallons, that's how they find out how much you've used.
+It's very similar    Let's say we've got things called el let's say they're electrons.
+Right?
+I mean they're not but let's say they b big packets of lots of electrons so we're using things at erm let's say watts is equal to so many electrons per second.
+Yeah.
+And erm well let's, let's, let's just say a hundred watts is a hundred electrons per second.
+And you wouldn't get a lot of heating out of a hundred electrons.
+So, and they charge you for how many electrons you use.
+And we've got this hundred watt thing running for twenty seconds, so oh say for oh fifty  be sixty, for a minute, sixty seconds.
+So, how much, how many electrons get through?
+How many are you going to get charged for?
+You're going to get charged for  the amount going through will be a hundred electrons per second times sixty seconds.
+Yeah.
+Seconds cancel out and you're going to get six thousand electrons.
+So six thousand electrons will go through and that's what they'll charge you for.
+Okay?
+Mhm.
+And when they, when they define watts and kilowatts and everything else in terms of energy that you can understand, like erm horsepower.
+Erm have you ever seen a moped with a plate on it?
+Erm ninety, ninety kilowatts.
+Something like that.
+You know cars are rated in horsepower, normally?
+Yeah.
+Yeah.
+They can also be rated in kilowatts and on mopeds cos the regulation allow sort of what mopeds sixteen year olds can ride and I think it's sort of something like seventy kilowatts or ninety kilowatts, it might be ninety.
+They actually give its power in kilowatts, so there's this obvious equivalence between electrical and mechanical energy, so watts is not an amount of electricity it's a rate of using it up, it's a flow rate like gallons per minute.
+Yeah.
+Three kilowatt heater.
+That's three thousand gallons a minute of electricity going through that if you like.
+A hundred watt light bulb has only a hundred gallons a minute going through, okay?
+It's a very 
+Mhm.
+similar thing.
+It's a, it's a flow rate, it's rate of using up electricity, watts.
+So to find out how much you've used, you've got to multiply it by how long you've been using it for.
+And the electricity people charge you for kilowatt hours.
+Kilowatts, rate of using it up, times how many hours you've used it.
+Okay?
+Your hose pipe twenty gallons a minute, well you ran that for ten minutes say, so that was two hundred gallons we're going to charge you for there, and your six gallons a minute appliance here, you ran that for forty minutes, right?
+That's a gallon per minute times forty minutes  then cancel  with gallons so they're going to charge you for two hundred and forty gallons.
+And that's, that's 
+ 
+that's how your electricity was  paying for it.
+It's a, it's an awkward thing to understand this, power and energy, energy is the lumps of the stuff itself.
+The gallons of water, the number of electrons.
+But erm power is the rate at which it's being used up.
+Horsepower is the rate at which energy is being produced or absorbed, usually being produced.
+Kilowatts, the rate at which .
+Erm now, moving on to other energy.
+Physical 
+bit more easy to get to grips with the physical stuff 
+Yeah.
+Erm still got power as a rate of doing work.
+Car engine rated at fifty horsepower
+Yeah.
+or a hundred horsepower.
+How much energy would it use up?
+Well it depends on how long you run it.
+I mean, you can have a an X J six running for ten seconds and it uses hardly any petrol.
+Mm.
+Little mini and run it for a year, run the engine ru non stop for a year and it's going to use quite a few gallons.
+So the horsepower isn't actually telling you how much energy in total but the rate at which it's being used up.
+. Erm now what about kinetic and  all the other different types of energy?
+Er kinetic, potential, chemical 
+How would you convert erm potential energy into kinetic energy?
+In a machine.
+In a machine, potential energy is something  erm potential energy is energy something possesses due to its position.
+Good.
+State.
+That's an excellent definition.
+That's a sort of strict textbook definition, that, that's brilliant.
+Er kinetic energy is the energy something possesses due to it's er movement  
+Okay.
+That's it.
+That's excellent, textbook definition again.
+So potential is when it hasn't done anything yet, it's stored up ready for us to.
+So  so some examples of potential energy.
+Erm say you've got a stone on top a cliff.
+Okay.
+And the  that possesses be potential energy.
+Er  possesses potential energy 
+So anything that can fall down and go faster as it falls.
+Yeah.
+Erm any other form of potential energy?
+N yeah.
+Er if you've str if you've got    trying to think, er   can't think of anything,
+Erm how do you start a car?
+with a car battery.
+Okay.
+So a car battery has stored up energy.
+How'd it, go through the whole process of how, of erm running a car.
+Starting it every morning.
+You get in your car and you start it every morning, you run around and come back, you start it again.
+When you start the engine the battery store you, the battery which stores electrical energy
+Mm.
+by chemical reactions.
+Good.
+Erm when you start it you're closing a switch which star which starts the starter motor turning.
+Right.
+That in turn cranks the engine over and 
+Okay.
+the engine fires and the starter motor then turns off.
+Right.
+Then, because the battery's used up energy the motor of the car turns the alternator
+Right.
+which puts electricity which recharges the battery.
+Right.
+Puts electricity back into it.
+And then when you turn the engine off your battery's full and restored and you got to start it  
+Good.
+etcetera etcetera.
+Now, do you think, not now, but for sort of maybe for next time, or some time very soon, a little diagram, a little sort of flow chart if you like showing where, how the energy is changing from one form into another.
+Sort of where it's coming from, so we've got chemical energy.
+What types of chemical energy have we got in the system you've, you've juts been talking about?
+Erm got chemical energy, electrical energy 
+Okay, what types of chemical energy?
+Oh, the battery.
+So the battery
+And the engine where the 
+Right.
+petrol we're burning.
+And the fuel for the engine.
+That's, now that fuel is producing energy.
+Yeah.
+Does your battery produce energy?
+Erm it stores it, it doesn't produ 
+Good.
+Excellent, it just store any, it stores energy, it doesn't make any itself and that's the point that they want you to make erm normal little throw away batteries that you have in your tape recorder or something, they produce energy,they don't have energy sort of put into them, chemicals and things.
+But they produce energy and then they get clogged up, they sort of get blocked so they can't 
+Mm.
+produce any more, then you throw them away.
+But a car battery it stores up the energy so, okay, that produces energy, the fuel, erm what other types of  energy have we got now?
+Er  potential energy and kinetic energy of the vehicle.
+In the, in the c this car system that 
+Oh.
+you've just been describing.
+Oh, right.
+Erm there's e electrical.
+So electrical, erm what systems have you got there?
+System erm
+What does the  
+there's the alternator.
+So what does the alternator do?
+Er produces electricity.
+Or converts it.
+So it gets, electricity comes out.
+What goes into it?
+Er
+What sort of energy?
+Physical energy.
+What sort of physical energy?
+Er erm the engine turning  
+Right.
+Is it moving?
+Yeah it's, it's circular er oh 
+d you don't have to be that specific, you'd, really you'd want to know is it erm
+It's physical.
+is it fixed, is it sitting there doing nothing or is it moving?
+Cos if it's 
+Moving.
+moving it's kinetic.
+Kinetic.
+Okay.
+So you've got kinetic energy going into the alternator and producing electricity.
+What happens with the starter?
+Er  that uses up ele converts electricity into kinetic energy.
+Electricity coming in,going out, okay.
+So that's a, then you've got the other , you've got the, the .
+What's happening there, you've got, fuel's making the engine go round.
+So using little things like that, so just a little box to show this is the alternator, that's the energy for, this is the battery and this is the fuel.
+Draw a diagram with, it doesn't have to be neat just sort of scrawl all over it and  tat it until you get it to 
+Yeah.
+the way you want it.
+And then you just draw it out again so that someone could look at it and they could see the energy changes in front.
+Yeah.
+Starting up in the morning, the first thing you get in the car, start up, drive around, come back and park it.
+And what's happened to the energy?
+The energy changes?
+Have you lost any energy?
+What happens when you're driving along?
+Erm  what happens when you're driving along?
+Er
+Where does the energy come from?
+The petrol,
+So the big the thing that's providing everything, you take the petrol out, you won't go unless you're at the top of a hill, of course because it can 
+Yeah.
+roll down.
+So this  primary source is your fuel.
+Think about things when you go up and down hill.
+Okay?
+Why, what makes you use more fuel?
+Erm
+If you've got a lot of petrol and you're just like wasting it and you think oh, I'm going to use a lot more fuel in my driving today, what would you do?
+Erm
+Apart from keeping it 
+Yeah.
+Erm  drive up lots of hills and
+Drive up hill,
+Yeah.
+so up a hill all day, you can use a lot more 
+ 
+
+Right.
+Extra resistance.
+Where would your extra resistance come from?
+Okay you could drive with the hand brake on but you don't normally do that.
+Erm
+Where do  
+let pressure out of the tyres.
+Right.
+So there's, there's some resistance from
+Air resistance on the car.
+Right.
+So if you want to really use petrol 
+ 
+you know drive along the motorway 
+Drive a Range Rover.
+and just, yeah.
+Drive a Range Rover at about a hundred and ten along the motorway, you
+Yeah.
+fuel.
+Yeah you can 
+I can see it sometimes.
+see it on that Transit you used to run, as I'm going along I can see it's going down.
+Can't actually see it move but I can see it  if I look  
+If you look at it every ten minutes you notice it's 
+Yeah.
+moved a little.
+Yeah.
+So air resistance is er is the big one.
+Once you get up to speed that's, you're, it's like running through, have you tried running through water?
+Yeah.
+Yeah, it's like that.
+Erm and your tyres, as you said the resistance ro and lots of resistance in all the, the bearings.
+Yeah.
+All the moving parts, I mean your wheel hubs get hot.
+Yeah.
+Erm your brakes every, what, what happens when you brake?
+It's friction, brake pads squeeze the brake disk or 
+Yeah.
+brakes pads push out on the brake drum.
+Mm.
+And what happens to the drum?
+Gets hot.
+Right.
+If you've just come down a hill  with your brakes on,
+Yeah.
+touch those and burn your hand.
+So you got all this energy, this kinetic energy, when you're going downhill.
+Yeah.
+You don't want it  you've got to get rid of it somewhere so you turn it to heat, and there's, every time you , whenever you're braking  you're turning some of your kinetic into heat.
+So there are lots of erm this is something that you know quite a bit about.
+Mhm.
+It's just looking at it in a slightly different way and trying, I've done some things there to show you a, a sort of a system to use, use your own if you like but I want to see what comes in, what goes out, every time energy changes from one form into another form.
+And I mean  think of say rolling back in traffic if you're waiting on a hill.
+If you take your handbrake off and you're not quite ready to move off, what happens?
+Your potential energy starts changing into kinetic and you roll back.
+So as many examples as you can think of, of driving, where energy changes from one sort to another er where your energy is going, what's using it up, where it's coming from.
+Erm 
+Yeah.
+because they do, I mean they're not, they're not going to ask you that as a question.
+could do, I mean if I was setting the exam I probably would,sort of, you know people know roughly about, I mean they're all going to drive cars one car.
+so  I think you could almost enjoy doing a little diagram like that, couldn't you?
+Yeah.
+And you'll keep thinking of extra little bits he ah there's another bit can go in there.
+So your diagram will get very messy, it doesn't have to all fit together, as long as you can get all the main points of what's happening.
+Erm have you heard of a fellow called Newton and his three laws?
+Yeah.
+Are you remembering them?
+No.
+Hmm.
+Erm you know them?
+Yeah.
+You know his laws in parc you know sort of in practice, but we'll, we'll sit here and watch that pen until it suddenly jumps off the table.
+It's not going to.
+It's, it's not going to, it's just, it'll just stay there.
+Why?
+Why does, why is this book just  sitting on the table not going anywhere?
+Er cos that's stopping it.
+Yeah, the table's stopping, yeah.
+It's the normal state of things,just sitting there doing nothing.
+Erm 
+Right.
+that's his first law.
+That if something suddenly, you know   jumps up.
+Yeah.
+Something's done something to it, it didn't just 
+Yeah.
+suddenly decide to jump up.
+If nothi if you, you don't have an external force acting on something it just  to remain stationary or, or carry on in a straight line and fixed speed, if .
+Erm and the second law  you've heard of force equals mass times acceleration?
+Yeah.
+now
+okay,explain it to me in terms of, try and ex say if you were explaining it to someone who sort of wasn't very technical.
+Mm.
+Erm
+Force erm  is equal to mass times  acceleration .
+Erm force is some, is the power at which, with which something possesses so if something, if you drop a pen on hand
+Okay.
+when it hits you what you're feeling is the force of 
+Right.
+the pen falling.
+Right.
+If you drop say that heavy ornament on top.
+Right.
+What hits you is the force of it, moving.
+Right.
+So that's a
+a short sharp force.
+Yeah.
+Right.
+They're quite awkward to deal with.
+Yeah.
+Erm can you think of any steady forces?
+Er say I place it on my hand.
+Right.
+now  here, it's 
+pushing down me.
+pushing down.
+And Newton's third law says, that your hand must be pushing up on it.
+With exact just enough to balance its weight.
+Yeah.
+Cos otherwise it's be going down.
+Yeah.
+Okay, so if you turned your hand over the other way.
+And then lift it up a bit off the table.
+Now if you try not to 
+ 
+hold it quite so mu so much it'll push you down a bit.
+If you're lifting it up too much it goes up.
+Yeah.
+So make it go, you push upwards with a
+Yeah.
+force that's more than its weight.
+To let it come down, you push upwards but not enough force to hold up its weight.
+So it's coming down a bit.
+So his three laws, first one is everything just sits there doing nothing unless there's some good reason, basically.
+Yeah.
+The hard part of that is something going in a straight line, and the same speed has no force, no resultant forces acting on it.
+Erm if you think of something, say a puck on ice.
+Give it a flick it'll go for a long way because there's no, there's very little friction on the ice and erm  the second one is the, the awkward one.
+Force is mass times acceleration.
+The third one is the, this book is pushing down on the table and the table is pushing up on the book.
+And 
+Yeah.
+the action and reaction are equal.
+If the table was, I mean we've got to get the .
+If we get a car engine
+Yeah.
+and put it on the edge of the table, what's going to happen?
+ 
+The table can't push up 
+Yeah.
+with enough force to stop the engine.
+Mm.
+So the engine will just sort of push the table down.
+Erm so the, if you're just sitting there doing nothing, they're balanced.
+And the middle one, force is mass times acceleration  erm I'm going to give this a push, I'll give this pen a push,accelerate.
+Going to give the table a push  that was as hard as I pushed the pen and 
+Mm.
+Well you see  give your chair a push.
+Can you feel that?
+Hardly feel it, that's as much as I would, this is a very low mass, it's quite small.
+You know come and, come and give my Mini a push, okay, come and give my camper a push.
+Mm
+Mm.
+maybe.
+Come and give my bus a push.
+Or, or 
+Get lost  
+my  yeah  or my petrol tanker, full.
+Yeah.
+No,
+No.
+I don't think so.
+Right so, someone on a bike, you've got a mate on a pushbike and you're starting a race and you give him a shove.
+Yeah.
+It really helps, it's, you know, a massive  
+starts him.
+Gets him going.
+But erm somebody in a tank, give us a push.
+ 
+no thanks, it's .
+Because the mass is so high the same force will have very little effect on .
+If the mass is very very low, you get a very light little ping pong ball, give it a flick.
+It'll really go.
+You want to try and flick that,see if I can knock that little, one of those brass pigs, flick it and see if I knock it across the table, I'll take my own finger off, the pig'll hardly move.
+So that's a sort, some understanding of mass times acceleration.
+The force is mass times acceleration.
+Erm can you think of any applications of that?
+Erm mass times acceleration.
+Erm yeah, when er  rather than saying that something is a heavy mass and it move and it's got a good acceleration you can just say it's got good .
+No I can't think of anything.
+Think if you put erm a go-kart engine
+Yeah.
+in a petrol tanker.
+It wouldn't get anywhere.
+Erm it produces a certain amount of, it can produce a maximum of torque, a certain amount of force a go-kart engine.
+It's enough, a light go-kart and a, a person on it 
+Yeah.
+it'll zip about.
+Yeah.
+If you try to make that drag petrol tanker about, if you've got a suitable gearbox
+Yeah,
+So your engine's doing about four thousand revs and it's geared down like mad and your tanker is just creeping so you can hardly see 
+Yeah.
+the w the wheels move, yeah it could, you could move it.
+If it 
+Yeah.
+Take a long time.
+if it didn't lose a, you know,
+Yeah.
+a lot of friction in the gearbox and things like that.
+But you could get that tanker gradually creeping along and moving.
+The same force  when it's applied to  l look at this another way, what's the acceleration?
+Yeah.
+F equals M A. Divide both sides by  M  so the acceleration, this is a bit like our Ohm's Law thing, let's keep the mass the same, we're dealing with say a Mini, we're not going to change that.
+Yeah.
+Erm we give it a bigger force, what happens to the acceleration?
+Erm it goes up.
+Bigger force, bigger acceleration.
+Well that's 
+Yeah.
+good, that ties in with, you know, what we know actually happens in real life.
+Now let's keep the force the same, say we've got a Mini engine providing us, just running it steady at three thousand R P M. Pushing out the same amount of force, keep the force the same, this time we put a smaller mass, we've got a Mini engine and you've put it on your pushbike.
+Yeah.
+Neeow, we'll get a much, what will be the acceleration, will it be bigger or smaller,get more acceleration or less?
+Erm more.
+Yeah.
+So because the mass is smaller we get more acceleration.
+Now if we make the mass bigger, put the same engine in a tanker, acceleration would be very small.
+So it's sometime useful to think of it that way round, Newton's third law, rather than force is mass times acceleration,you're interested in the effect, now what did we get  for this, what sort of acceleration do we get.
+What, we want big acceleration and we put a big force.
+Also if we want big acceleration we use a small mass.
+Yeah.
+Bigger the acceleration that you're  very very light object.
+or something like that.
+Erm Newton's three laws come up erm and particularly that one, you  questions 
+Mm.
+on that.
+Erm so his first one is about equilibrium.
+no resultant force, no net force,all forces balance.
+All forces are balanced.
+Right .
+All forces are balanced and, so no net force.
+You can have forces but they all balance out.
+And it will, either be at rest or  in a straight line.
+And a steady speed.
+That's the bit that people fe find a bit hard to er to accept because in the real world it doesn't actually happen because there's always some other force like air resistance, friction, road resistance from your tyres and, and it grad it always stops eventually.
+But if it's in space, you're in a spaceship and then you throw your pen out through the window.
+airlock 
+Yeah.
+preferably.
+It just keeps going, there's nothing else  
+Yeah.
+It's away from all the other planets and things, it'll just keep moving.
+Er steady speed, straight line.
+And that's, those three laws, that's what the whole of dynamics is built on.
+The whole of the study of sort of moving things and statics, things like ladders leaning up against a wall, it's okay, it's interesting.
+What would happen there?
+Just lean a ladder against a wall and start walking up it.
+Er
+Why doesn why doesn't it slide straight away?
+When you le when you leave the ladder up  wall?
+Because your force isn't worth as much when you're there.
+When you're there it's erm it's liking more like a .
+more like a  .
+What's stopping the bottom of the ladder from .
+Which way is it acting?
+The force is pushing that that way,that way.
+So
+What do you mean by the force?
+The mass
+Okay.
+Right.
+is
+Right.
+So what way is the frictional force acting on the bottom of the ladder?
+It's acting on the floor,
+on the base of the ladder.
+Stopping it getting pushed.
+So which direction 
+That way.
+is it ?
+That way.
+Is it?
+Oh the frictional force, that way.
+Right, yeah, that's very common.
+Yeah.
+Marking the forces on going that way, the easy way to think of it is well what have you got to do to the bottom of the ladder to stop it from, put a piece of rope on here, right?
+Put a piece of rope and, and stand on the end of it and pull.
+And I've got to pull the  of ladder in.
+So there must be a frictional force here, pulling the bottom of the ladder in.
+What's the top of the ladder trying to do?
+It's trying to slide down the wall, so there must be something pulling it up the wall, frictional force  
+Yeah.
+If you put the bottom on wheel, put some wheels on the bottom of the ladder so it couldn't fall because of the bottom, then it would still stay there because on  the floor would be the bit of grip from the top.
+Not nearly 
+Mm.
+as good as the frictional force you get on the bottom.
+But you do get some  from the top.
+And if I take the book away, and so the pen is trying to push the book over.
+Yeah.
+And the book is pushing back and the pen  pushing on each other, so  pushing out that way.
+Yeah.
+And it's, this is what the wall's doing, it's the normal reaction  frictional force, keeping the, holding the ladder up, stopping it from sliding down.
+There's a frictional force  There's a different  reaction.
+A vertical  reaction, and the horizontal .
+Okay?
+These are interesting if you're building bridges, but when it gets really interesting is when things start moving.
+When things start moving,F equals M A crops up all over the place.
+And it's very important  so they always ask questions about it.
+The understanding of it is that .
+Acceleration, increase your force, what happens to acceleration?
+Erm goes up.
+Increase the mass, but keep your force the same, what happens to acceleration?
+Goes down .
+So mass if you like, is a bit like the way resistance was in the electric.
+Yeah?
+Yeah.
+If you increase it erm then it's, it's slowly go bogs everything down if you like increase the resistance, you bog everything down.
+So mass is a sort of a bit like resistance, it's resistance to acceleration.
+Erm this piece of paper hasn't got much ac resistance to acceleration.
+You can accelerate it very easily.
+Er this house has got tremendous resistance to acceleration.
+If I run 
+Mm.
+at it and oh give it a good shove, I'm not  gonna 
+Yeah.
+I mean okay the brick might move a tiny bit.
+Yeah.
+But I'm not going to suddenly send this off into orbit, with a small 
+ 
+force.
+So that's how that works.
+Erm I'm trying to tie things together a bit as you noticed,
+Yeah.
+at the moment so that you can
+Relating 
+you're not feeling that you've got lots of little isolated subjects and lots of little isolated topics and it's all building up and it's all a lot  it is a lot,
+Can I just answer the phone?
+it is a lot, but they're all part of the same thing.
+Yeah.
+So how are you, how are you getting on with your revision?
+Erm to be honest the revision  getting a bit neglected it's, we've done most of our coursework, in most subjects there's coursework which in some subjects which has to be, not, doesn't have to be done before the exam but it's preparation, preparation work for the exams.
+There's art coursework, there's a big economics project,
+Okay.
+there and there's C D T because for 
+ 
+C D T you have to do four sheets which you take into the exam.
+And you use the information off that.
+So
+You will have some projects that can keep but
+Yeah.
+if you do them before the exam the 
+Yeah.
+stuff that you learn for them is even better then the revision 
+Yeah.
+it comes in and it's very, it's very useful.
+Erm
+Or to do the projects you're looking up things.
+Right.
+What projects, have you got any science projects that're not finished?
+No  science  
+They're all, all in.
+The good thing about the science was it was all in school, practical 
+ 
+work.
+Write up.
+Mostly.
+All your experiments are written up and
+Yeah.
+handed in?
+Erm what about your maths, have you got any outstanding projects there?
+No.
+They're all in and done?
+Yeah.
+That's good.
+English as well, it's, really it's just the 
+Oh that's good.
+So you're really
+Yeah, it's
+I mean you've co I mean a long, you know not that long ago, you were sort of tending to put it off a lot.
+Yeah.
+Erm you've got  you've got to 
+It's just the, the economic, art and the C D T which, it's not my fault it's just everybody's in 
+ 
+the same position, it's the, the teachers have tended to say, well you're not ready to do it yet or, we've just got to finish the rest of this book.
+By the time we've finished the book, bang we're on top of the Easter holidays.
+Okay so get, yeah get, get those projects in.
+Erm I would, I think it would be very useful if you could make time in the next day or so, you don't have to spend long on this you know, if you just spent sort of 
+Yeah, it's just looking at it.
+spent half an hour maximum, maybe twenty minutes would be, all it would take you just to do that one problem, while it's reasonably fresh in your mind.
+Then you can forget it and the next time you come to do it, maybe in a month's time or  er you've  I remember now, the water pipes, don't give it resistance, think of conductance, think of one over,think of conductance.
+This pipe conducts so, so many gallons, that so many gallons.
+Conductance one equals conductance plus conductance three plus conductance four mm and so on.
+And then wherever you've got rid of conductance think well they haven't given me that, they've given me resistance, oh I had to write one over resistance  turning it into conductance.
+Erm it's a big course, science, but a lot of it and erm quite a, I mean the chemistry alone or the physics alone 
+Yeah.
+or the, even the
+I think somebody said it's mad the way they try and
+Yeah.
+I think, yeah, it was my dad said, that the way they try to do combined science it's like doing a combined maths and English paper.
+Yeah.
+They're all so different.
+It's 
+Yeah.
+madness.
+It er I don't think a lot of the curriculum at the moment and erm you, you ask most teachers and they just say, grrr, forget that  you know ?
+I think what he should have done 
+ 
+Ooh you've got to take two sciences, you pick which two sciences you're going to take, it'd be easier for the teachers and he would, well to do all three sciences in one exam is
+It's erm, it's a mess really the way
+I mean you might as well be doing art, physics and chemistry, than biology, physics and chemistry.
+Yeah.
+I think it's  
+I mean there is some overlap between biology  
+I mean if anything, the physics should go in with the maths exam, rather than chemistry and biology.
+Big overlap on, especially on stuff like this about the dynamics erm don't forget that sort of first sheet I gave you a long time ago about 
+Yeah.
+Erm so many people throw marks away because they don't put thing down things that are obvious.
+What's, tell me what are the properties of hydrogen?
+Er it's a gas.
+Right,
+Er it's flammable.
+Right.
+Er it's got one, it's
+Right okay, good.
+one 
+One electron.
+Yeah, you're getting now into the deep chemical
+Yeah.
+properties of it.
+Good, excellent that you know them.
+Yeah.
+But
+It's a gas.
+go for the really obvious physical properties first, and if you have a little checklist that you go through, bang bang bang for each one,
+Doesn't smell and you can't 
+ 
+see it.
+Right, right.
+Now the especially if it is colourless or if it hasn't got a smell, you think ooh I'm not putting that down.
+Yeah.
+Right.
+. What's hydrogen?
+It's a gas.
+What colour is it?
+I don't know, I think it's colourless,well no good putting that down.
+If it was yellow with sort of pink spots, that'd be worth putting down.
+Mm.
+So, so many people leave it out.
+And  you know losing marks when you describe properties.
+If you don't know the chemical properties, you  you might think oh I, zinc carbonate, describe zinc carbonate.
+ 
+
+Have a go.
+Oh zinc carbonate.
+It's a powder.
+Right, okay, it's going to be a solid, probably a powder.
+You get erm    doesn't burn.
+Probably doesn't burn.
+Right.
+Erm soluble in water, er
+May or may not be soluble.
+Don't think it would smell.
+Probably does not smell.
+And then you get on to the chemical properties of it.
+What happens with all carbonates?
+What  the property of all carbonates?
+Say I've got some powder there that .
+Look at this, zinc carbonate, or zinc sulphate.
+I'd like you to just do a quick chemical test and let me know if that was a carbonate.
+Erm .
+Oh I can't remember.
+You've got some acid handy, some H C 
+Oh.
+L.
+Oh .
+I can't erm er when you mix it with the acid, er  it produces a water , no that's er hydrogen and oxygen.
+Go, yeah.
+They all produce water and salt.
+And salt.
+A carbonate produces something else as well.
+Erm hydrogen, a gas, er car carbon dioxide.
+Right.
+And  
+And that makes lime water which 
+Right, okay.
+This is where we had some sort of car this is just looking at hardness of water actually, but this is, you've got the C O three
+Yeah.
+in there and that's where we're going to get our C O two from, leaving the O. Who cares what happens to that, you get, you know, a different looking powder left.
+Well we'll get carbon dioxide off,so you might be  iridium carbonate  or ytterbium, we've got a powder which may be ytterbium car carbonate or ytterbium sulphate and you  never heard of this stuff, ah carbonate  carbonate and maybe, maybe ytterbium carbonate doesn't give off carbon dioxide with acid, but there is a very good chance it does cos all the others you've ever heard about do.
+So just go for that I mean you see you're looking for the pattern, you can't know ninety odd elements and what the carbonate of every one does, what the sulphate of every one, what the nitrate of each one, bicarbonate, hydrogen carbonate of each one.
+You can't learn all that lot.
+You just learn general patterns.
+Maybe if there are a few very obvious exceptions, you learns those as well.
+Yeah.
+Erm you know  pi stuff in your head full of more and more facts and more and more equations and more and more you know Hooke's Law and Ohm's Law, Avogadro's  everybody else 
+Every little  
+had a law and a name and a theory.
+Yeah.
+Erm so you just stick them together.
+So that's something that only you can do really, that you, gather up the information, it's like, it's like having all your information in say a room this size.
+And it's chucked in bits of pa on bits, different scraps of paper and it's all on the floor.
+about finished has it?
+Chucked all over the place.
+Right?
+And  want to find something you've got to root through everything else, you've got to move everything else and then when you want to come and find something else, you've moved it.
+Something else, you can't.
+Yeah.
+So you've got a lot of stuff up in your head, you might, oh you've got a terrible r memory, you can't remember anything, think of it, the thing is you can remember phone numbers and people's names, how to get to school,
+Yeah.
+erm people you've met, faces and voices you can recognize.
+stuff up in your head.
+Mm.
+It needs organizing occasionally, maybe in the holiday is a good time to try and do it.
+While you're doing your projects, sort of practise organizing your files for your projects and don't l don't, I think you can spend, you're good at finding excuses for yourself, I do the same thing.
+I'm 
+Mm.
+not, I'm not  now, I've got over it.
+But in a stage of my life I used to do the same thing a lot.
+I'll do my sort of chemistry revision tomorrow,right well I'll sort all this out into these files, I'm going to put all my acids together in that one.
+And by the time you've done that
+Oh well it's too late now, right well 
+Yeah.
+I'll do it tomorrow.
+But at least I got this file sorted out.
+Erm don't get into that.
+ 
+you know  
+I  to that.
+Yeah.
+Well you know the dangers probably better than I do but er you need a, you need a good bit of organization but  much time is getting, getting the .
+So your, your other subjects going okay?
+Economics 
+Yeah.
+and C D T  and 
+I've got 
+your maths is good now isn't it?
+Yeah that's
+So it's just your science that you are thinking ooh and they are a lot of  
+I'm not really worried about it to be honest I'm not worried about any of them, I thought I would actually be erm  I'm actually, we're under a lot of pressure at the moment but I'm not actually, usually when I'm like that it's all gone I tend to say well forget about it and you know run away from it kind of thing,
+Yeah.
+when you're under pressure, but I'm not 
+ 
+I'm just, I'm just doing it in my stride and and taking it 
+ 
+as it, as it comes.
+Good.
+If you've got, you know, if you've got too much pressure 
+Not worrying about it too much because that'll just make it worse.
+It does make it worse and if you've got a lot of things that you're supposed to be doing, you just think well I can't do all of them.
+If I try and do all them.
+Now pick up the important ones, sort out your priorities.
+Erm say if you're looking at erm  say if  and you think well I know pretty much about alternative sources of power, wind and water and all that stuff.
+I don't really need to be  Just so long 
+Yeah.
+as  oh that's good, I feel that they're  now acid and alkalis, seem to be important, I've done I've put a lot of effort into them, maybe just a quick glance at those occasionally to keep up to date.
+Use your, use your time, use your energy,so it's going to get  you know .
+But erm what are, what are you hoping to do after your exams?
+Er  try and relax and wait for them.
+I don't know erm
+Depends on what you get?
+Yeah.
+Erm I've started writing off, we've drafted a letter to write off to different colleges and sort of I'll write off before I do my exams.
+Right.
+Cos the answers, when they come back, are going to be, things like, depends on what you get in your exams and it's very, it's very bad  stage in your life, it's er  going to affect, but I mean the weather's going to get nice, and it you know, it's going to be great.
+Everyone will be tempted to go out.
+If you work now, not you know, not killing yourself but if you can put in a certain amount of work now and go without watching telly, sitting round, listening 
+Mm.
+to music, going out with your mates.
+Erm just to get

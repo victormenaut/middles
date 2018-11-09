@@ -1,0 +1,399 @@
+
+
+OPEN SOFTWARE FOUNDATION PUTS THE BRAKES ON ANDF
+The Open Software Foundation has halted work on its ground-breaking shrink-wrapped software solution, ANDF, the Architecture Neutral Distribution Format, reassigning its engineering resources elsewhere.
+OSF is now believed to be looking for a commercial partner to take over and productise the technology, which is much-needed within the industry.
+The only company to have voiced an interest in ANDF recently, or to have hinted that it was negotiating for it, is Unix System Laboratories (UX No 380).
+USL, reportedly working along similar lines (UX No 383), has declined to comment officially, and asked whether it was developing its own solution or buying the technology in from elsewhere, director of low-end Unix systems, Bill Traber, said ‘I can't answer that.’
+OSF, which admits to ‘close contacts’ with USL, said it would be pleased to see any organisation take an interest in the project.
+Work already done on ANDF has been turned over to the European Commission's Open Microprocessor Initiative — a £40m effort to develop next-generation microprocessor and software technology (UX Nos 381, 315).
+OSF's R&D labs in Grenoble, France, will continue to work on ANDF for OMI, and there are other niche plans in the works, it says.
+Budgetary concerns and the drive for self-sufficiency (UX No 374), are forcing OSF to retract back to a few core technologies like DCE, DME and Motif, and to hold off on any further technology requests.
+It said that it simply couldn't foresee the day when revenues from licensing ANDF, to its principal members for starters, would start to pay for the cost of development.
+‘It wasn't a technical hurdle, it was the marketing dynamics.’
+OSF will go public with its ANDF decision after member and board meetings in Munich this week.
+There, OSF will layout ‘open road’ plans for each of its technologies, thought to include much re-focusing of its efforts.
+Rumours were circulating last week that even OSF/1, its nominal raison d'etre, would be given short shrift in those re-prioritisations.
+Meta Group analyst, Kate Fessenden, claims OSF is looking for a graceful exit and that once OSF/1.1 comes out, and Unix SVR4 applications are able to run on it, it will simply be allowed to wither away.
+Some reports suggest that OSF members are reluctant to fund ANDF any further because it will inevitably dim their distinguishing marks.
+ANDF technology was sourced from the Electronics Division of the UK Defence Research Agency,(UX No 337).
+However, such talk might be so much stuff and nonsense.
+Companies, like people who try to stop the future from happening, generally find themselves run over by it.
+TEXAS VIKING LANDS — HIGHER CLOCK SPEED VERSIONS ARE ABSENT
+Texas Instruments Inc last week rolled-out its long-overdue Viking SuperSparc RISC processor, on which which Sun Microsystems Inc's performance hopes ride.
+However, Viking won't initially appear in the 50MHz, 150 MIPS versions its parents were shooting for.
+Instead, two junior members of what will be a clan of Vikings were announced: a 33MHz, 99 MIPS unit and a 40MHz, 120 MIPS part, both without external cache.
+The higher-end 45MHz, 135 MIPS and 50MHz, 150 MIPS iterations, with external cache, are promised for some time later this year.
+50MHz Vikings, which would give Sun a workstation performance rating in excess of 80 SPECmarks, are reportedly up and running, but are not ready for volume production.
+A dual-chip 75MHz, 450 MIPS version of the Sparc is planned for next year — that should score 240 SPECmarks, the firm claims.
+The current Viking siblings are rated at 40 SPECmarks for the 33MHz processor and 50 SPECmarks for the 40MHz CPU.
+Texas Instruments, Sun's co-developer and fabricator, said that the ‘business decision’ to start ramping-up production of the smaller chips at the expense of fussing over the 50MHz part was made two months ago, because Sun couldn't wait any longer.
+The chips are in production and reports from the field indicate that Sun's next-generation Viking-based boxes are already installed at sites.
+Initial volumes of the processor will go to Sun, with smaller numbers going to unidentified vendors on Sparc International's Executive Committee.
+General availability to the rest of the Sparc-compatible community will follow in the fourth quarter.
+By then, Texas should be capable of producing at least 10,000 a month.
+Chips will sell for under $400 a piece in quantities of 10,000-up, starting in the first quarter of 1993.
+The announcement included one surprise: a brand new multi-processor Xbus, co-designed by Xerox Palo Alto Research Centre.
+It uses high-speed, state-of-the-art packet switching techniques incorporated into the cache controller for symmetrically connecting over 64 Viking CPUs.
+FOUR SUN SUPERSPARC DESKTOPS DUE ON MAY 19TH
+Sun's initial Viking workstations, the first four of which are due on May 19th, won't be called Sparcstation 3s, but will come in various configurations of desktops including both uni- and multi-processors, and come in Sun-tweaked versions around and between the TI 33MHz and 40MHz SuperSparcs.
+Sun has also reportedly changed the form of box design.
+One observer called it a ‘pizza box with a beer belly’, not higher, but sagging at the bottom and hugging the desktop a little closer.
+The boxes will run SunSoft's Solaris 1.0 initially and Solaris 2.0 by the end of June.
+Prices are expected to start between $20-$30,000 depending on the unit.
+The company is expected to tout the chip as providing the industry's best dollar/pound-per-MIPS rather than competing on absolute performance.
+Despite rumours to the contrary, Sun says it will not discontinue Sparcstation 2s, which still represent a nice piece of change.
+250 MIPS, MULTI-PROCESSING, SUPERSCALAR SPARC BOX USING VLIW ‘DUE THIS YEAR,’ SAYS BELL
+Following news that it was working on a 64-bit Sparc RISC version of very long instruction word technology (UX No 381), Bell Atlantic Corp, Philadelphia, Pennsylvania, is now claiming that there will be a multi-processing, superscalar Sparc Unix machine around by the end of the year that will incorporate the VLIW Trace scheduling compilers which originated from now defunct Multiflow Computers Inc.
+Using that technology — which it picked-up from its acquisition of Multiflow's Customer Support Division — Bell says it is collaborating in a joint venture with an unidentified ‘up and coming’ multi-processor specialist which will roll-out a Sparc system of that genre by 1993.
+Bell says that at 250 MIPS, the illusive box will be faster than the old Multiflow systems which it continues to market, though at much reduced prices.
+The 55 MIPS, Trace 14/300 now retails at $55,000, whilst the 215 MIPS Trace 28/300 costs $100,000 — originally a $300,000 system piece of kit.
+The superscalar machine is reportedly in alpha testing at the moment — director of Bell's computer services division, Steve Eskernazi claims that ‘it is going better than expected…we're very confident about its success.’
+Scheduled to ship by year-end, the system will come with a price tag of $300,000-plus, and Eskernazi expects it to take on the the likes of Cray Research Inc and Convex Computer Corp.
+LUCKY GOLDSTAR SUN CLONES HIT UK AND EUROPE THROUGH LOGIX
+The latest addition to the Sun clone market, Logix Technology Ltd based in Newbury, Berkshire, and part of the Lucky Goldstar Group, Seoul, Korea, has begun shipping three RISC-based workstations using Sun's Solaris 1.0 operating system.
+Manufactured by Goldstar in Korea, the workstations use the LSI Logic Corp Sparkit chipset.
+The LWS-25 is a 25Mhz, 15.8 MIPS offering priced at £7,500; the LWS-40, priced at £7,000 and rated at 28.5 MIPS, is for advanced 2D and 3D graphics; and the LWS-40GX, at £10,000, features a GX graphics accelerator.
+The company also hopes to add another low-end workstation in two months and one in the third quarter using the much hyped Viking superscalar chip (UX No 383) from Texas Instruments Inc.
+All will use Sun's Solaris version 2.0 operating system when it becomes available.
+Logix claims that the machines offer full compatibility with Sun's Sparcstation range.
+Already shipping in Korea, the Sun clones could capture up to 10 per cent of the workstation market this year in areas where Sun has yet to cast its shadow, according to Logix managing director John Girdley.
+Unavailable in the US, the workstations are aimed at corporate, financial and engineering customers.
+NCR SIGNS INDEPENDENCE TO DO TOP ENDS FOR SUN, IBM…
+AT&T Co's Tuxedo transaction processing monitor — now with Unix System Laboratories Inc — seems to have lost out to NCR Corp's Top End in the acquisition, and now NCR wants Top End to be more widely used.
+It has signed up Fremont, California Unix transaction processing systems integrator and consultancy Independence Technologies Inc to convert Top End to run on Sun Microsystems Inc Sparcservers, IBM Corp RS/6000s, Hewlett-Packard Co HP 9000s and Pyramid Technology Corp's MIServers, and to distribute the resulting implementations, starting this quarter.
+Top End has open interfaces for transaction processing and commercial processing features such as scalable performance, high availability, data integrity, two-phase commit co-ordination, security, dynamic reconfiguration, administration tools and distributed systems support.
+It is possible, Independence said, that NCR could buy back some of the ports to sell to its own customers.
+Independence reckons to sell several thousand on all the platforms during the year.
+The companies are also working to integrate Top End with Independence Technologies' object-oriented ITRAN TP ToolKit.
+…
+RESTRUCTURES OEM DIVISION
+Meanwhile, NCR has restructured its OEM Marketing & Sales Group to provide a single point of contact and foster strategic partnerships.
+The Group will be trying to peddle NCR's entire general-purpose product line, board and chip components and technology licensing including symmetrical multi-processing, RAID, imaging, networking, mobile computing and object frameworks.
+The company has named Ronald Stanczak, assistant vice president of the Cooperative Marketing Division inside NCR's US Marketing Group to head the new organisation.
+ATRIA TO OFFER ADVANCED CONFIGURATION MANAGEMENT
+Sixteen-month-old Natick, Massachusetts-based start-up, Atria Software Inc, will this week introduce ClearCase, which it is touting as the industry's most advanced software configuration management system for organising pieces of large-scale CASE development projects.
+Atria will also announce OEM pacts with Hewlett-Packard Co and Silicon Graphics Inc, both of whom will sell ClearCase directly.
+Atria has strategic alliances with CASE vendors CenterLine Software and Cadre Technologies.
+The software is said to solve the fundamental problems associated with software development: tracking changes, working in parallel and managing releases.
+Atria considers itself a spin-out by designers of the Apollo Domain Software Environment.
+The software, due in June, will initially come out on Sun Sparcstations, SGI's Iris machines and HP Snakes.
+The company says the software allows independent software vendors to preserve their software investments by giving existing Unix tools and commands transparent access, through the standard Unix file system interface, to any version of any object in the program.
+This capability comes through the use of a virtual file system compatible with NFS.
+SLOWLY, SLOWLY, ICL AIMS TO BECOME A SERVICES COMPANY
+ICL UK Ltd says income from its service businesses topped those of IBM UK Ltd last year, accounting for 32.9%, or £344m of its UK revenues, compared to IBM's £322m — a 18.9% share of its UK business.
+According to 1991 figures from UK market research firm, Input, ICL is now the ninth largest software and services provider in Europe, with sales of £810m, behind IBM's £4,840m business, DEC's £2,180m, Siemens-Nixdorf at £1,810m, Groupe Bull on £980m, Cap Gemini's £970m, Olivetti with £940m, Unisys at £900m and Reuters with £840m.
+Roger Burrell, director of ICL's customer services division says the company is shooting for a top five position in that table by 1997, with a revenue stream of some £2,400m.
+John Bennett, ICL UK's sales and marketing manager, said that of the company's £1,870m revenues for 1991, 35.1% of that total was accounted for by hardware sales, 51% was derived from software and services with 13.4% coming from other technologies such as electronic point-of-sale systems.
+Mainframes still garnered the largest portion — 36.7% — of hardware revenues for the company, which bills itself as the open systems supplier, down from 44.8% last time around.
+Unix systems represented 16.9% of hardware sales, up from 15.3% last year; personal computers accounted for an 18.7% share — up from 11.3% — with other types of kit down 0.9% at 27.7% on 1990.
+The Unix element, worth some £130m, includes a 26% increase in its DRS6000 Sparc system business.
+ICL, now 80% owned by Fujitsu Ltd, says margins on its hardware sales have shrunk as much in the last 18 months as in all the five years preceding, and it aims to drive revenues from its services business even higher as it focuses more on that market, through organic growth, joint ventures, marketing agreements and by acquisition.
+It says it hasn't passed on the cost of those decreasing hardware margins to customers via higher software and services cost, rather it is simply targeting those areas where customers are going to spend more of their money.
+The software component of its business is now worth some £215m in total, split 49%, 36% and 15% between operating systems, information management (including CASE and databases for example) and applications (like OfficePower) respectively.
+Its proprietary VME environment accounted for 80% of operating system sales, 65% of information management revenues and 40% of its application business.
+It's the application side of the equation which the company most wants to grow, as operating systems — VME, Unix and MS-DOS — continue to show a slow decline: they accounted for 51% of software sales in 1990.
+On the personal computer front, ICL says it intends to progress relationships with the world's top 50 PC software suppliers to an extent where it will effectively house a PC software distribution business in its stable, and will be able to offer almost any PC solution to customers.
+ICL, which has already said it will begin to offer its flagship office automation platform, OfficePower, on other vendors' Unix platforms, says a version for Santa Cruz Operation Inc Unix will be announced soon.
+Sun Microsystems Inc and IBM RS/6000 ports will follow this year.
+OfficePower takes central stage in ICL's overall strategy as combined hardware, software and services revenues associated with the environment in all of its guises now amounts to some £1,200m, according to Graham Taylor, ICL UK's software business manager.
+The company claims some 300,000 OfficePower users worldwide, with 10,000 installations at 7,500 sites.
+OKI MICROSYSTEMS i860 WORKSTATION DIVISION BITES THE DUST
+Okidata Microsystems Division, the Japanese giant's fledgling flight into the US workstation business, crashed and burned last week, taking the remnants of the Mass860 consortium — the Intel Corp i860 RISC supporters club — with it.
+The Japanese are being made to suffer what is for them a serious loss of face in having to pull the plug on the fifteen-month-old Massachusetts-based operation set up to build and sell Intel i860 boxes under a five-year commitment to the project.
+Intel itself decommitted from the chip, its own maiden voyage into RISC, several months ago, and will doubtless come in for its share of the blame.
+However, Oki's decision was made to staunch the flow of red ink gushing from the unit, estimated by insiders at around $9m for the year ended last month.
+These losses are relatively minor compared to Oki's overall investment, said to be upwards of $25m.
+Insiders claim the Okidata machine, with its fairly respectable 30 SPECmark rating, was badly mismanaged and misdirected by the division's top echelons.
+President Jim Butterworth's expertise lay outside both Unix and workstations.
+Since unveiling the machine, they said, the division was only able to sell perhaps 40 systems, leaving 800 or 900 units warehoused and unsold in Mount Laurel, New Jersey, and another 200-odd unsold units out with software houses around the country.
+Companies such as Oracle, Frame and Progress have reportedly ported to the box.
+Estimates ranged as high as a couple of hundred units having been sold in Japan.
+However, that figure is a far cry from the 3,000 it had bet on getting rid of in the Orient or the couple of thousand forecast for the states.
+The division's business plan, apparently created early on by consultants, targeted the machine at document imaging, geographic information systems, computer-aided publishing and financial markets.
+None of them were the graphical, scientific and engineering markets beloved amongst Unix workstation vendors, and the Oki machine was perhaps not strong enough on I/O to handle document imaging, for instance.
+Oki intends to leave a transition team in place until October though its function remains unclear.
+The company will apparently continue to support whatever machines remain in the field after that.
+It is offering the division's 70-odd employees six-months severance, provided they sign a statement that they will not sue the company because of verbal commitments made to them.
+Some could be absorbed into other Oki operations such as the research and development-oriented Oki Advanced Products, which contains a dozen ex-Stardent Computer Inc engineers reporting directly to Japan, who could maintain contacts.
+It is believed Oki will lie low for a while then pick another chip and start the process over again.
+Plans are far from fixed, but the replacement could be be Hewlett-Packard Co's PA RISC, since the Japanese firm has already reportedly pledged to buy $80m worth over the next three or four years.
+Oki was the last remaining corporate member of the Mass860 consortium formed to support the chip and garner a software following.
+The last meeting was held on Oki premises a few weeks ago with only a few friends of the family in attendance.
+DESTINY DESKTOP NEARS COMPLETION
+Unix System Laboratories Inc says it is now in the final round of clearing bugs from its Destiny Unix operating system, which will shortly be released to its Univel Inc joint venture with Novell Inc.
+Univel is to shrink-wrap the desktop Unix contender and integrate it with Novell's NetWare networking technology.
+It will be sold through existing USL and Novell distribution channels.
+Sources say UnixWare is a possible name for the productised Destiny (UX No 383), which USL says will be competitively priced with, for example, Santa Cruz Operation Inc's desktop Unix implementation.
+Destiny comes complete with the usual graphical desktop utilities, although its  wastebasket is vogueishly dubbed a ‘re-cycling basket.’
+ICL for one, expects to have Destiny on its systems ‘soon’— see page five.
+IBM SURPRISES ITSELF AT PROGRESS OF POWERPC…
+Work on developing the PowerPC version of IBM Corp's Rios RISC is progressing faster than anyone, including partners in the venture IBM, Apple Computer Inc and Motorola Inc believed possible, and chips should be ready before the end of the year with the possibility of machines being announced very late this year, Electronic News reports.
+The key to completing the design was to add the input-output interface of Motorola's 88110 RISC to the IBM chip, something that turned out to be easier than anticipated.
+IBM is also promising a new release of AIX for later this year that will enable network administrators to update client computers from an RS/6000 server, making PowerPC personal computers running AIX more attractive to large users.
+And the deal between Apple Computer Inc and Echo Logic Inc on the latter's application translation technology should make a raft of Mac applications available for the new machines.
+…
+SOMERSET POWERPC FACILITY INAUGURATED
+IBM, Motorola and Apple last week formally dedicated Somerset, the new facility in Austin, Texas that is to serve as the focal point of their PowerPC design and development efforts.
+The 80,000-square-foot space will house 300 engineers, simultaneously developing the first four PowerPC implementations combining IBM and Motorola technologies and manufacturing techniques.
+IBMer Tom Whiteside, Somerset's co-director said the architectural specifications have been completed, extended to 64-bits, and development started on all four processors.
+The chips are targeted at embedded controls, portable and desktop computers, high-end fault-tolerant machines and supercomputers.
+Groupe Bull will be using the PowerPC in commercial multiprocessors and Thomson-CSF in real-time computers for defence, electronics and aerospace applications.
+DCE ON SVR4: UNIX SYSTEM LABS AND SIEMENS-NIXDORF TIE THE KNOT
+Unix System Laboratories Inc and Siemens-Nixdorf Informationssysteme AG have finally got their deal ironed out under which USL is to offer SNI's version of the Distributed Computing Environment on its Unix SVR4 operating system (UX No 379).
+As it turns out, USL has now negotiated a licence for DCE source code from the Open Software Foundation, DCE's originator.
+USL's DCE for Unix SVR4 will be an extension of Siemens' reference work that the pair will collaborate on to tighten up the integration.
+USL will provide technical support to its customers.
+As suspected, USL's DCE customers will have to get a licence from OSF first, before getting the product from USL.
+Siemens is currently shipping snapshots of its SVR4 reference port of DCE to OSF — the complete toolkit, DCE 1.01 will be delivered in September.
+USL expects to have early access programme developers' kits ready by the end of the year.
+DCE includes component technologies from various OSF members, and is now expected to become the future de facto— if not de jure — standard for creating distributed applications and allowing heterogeneous systems to share those applications transparently across client/server network architectures.
+Available presently only in the very earliest of guises from some OSF member companies, DCE's main competitor is Sun Microsystems Inc's diametrically opposed Open Network Computing environment, which has some two million installations.
+However, Sun has softened its attitude towards DCE of late, and now seems certain to offer the OSF solution itself at some point in the future.
+Although DCE does not provide any fundamentally new functionality — there is no single DCE component that has not already been implemented elsewhere — it integrates a set of highly complex functions in a way that is claimed to make it easy to develop and run distributed applications.
+VIKING TALES
+Maureen O'Gara
+Texas Instruments Inc wants us to know that there's no bad blood between it and Sun Microsystems Inc simply because the Viking SuperSparc is late and underpowered — see front page.
+We are to understand that their relationship is cuddly, and that TI isn't in the Sparc business for the short term.
+It says it'll be doing the ‘next generation’ of single-chip, 64-bit Sparcs and the Version 9 architecture due to be voted on this month by Sparc International (UX No 380).
+Its plans also include the low-end/low-cost Tsunami workstation-on-a-chip due to be productised later this year (UX No 367), see below.
+By the turn of the century, to borrow from DEC's Alpha phrase book, the pair expect a Sparc to have 100m transistors, operating at clock speeds approaching a billion cycles and deliver two billion instructions a second.
+We understand four SuperSparcs can be combined for a peak performance of 600 MIPS, while SuperSparc's superscalar engine executes up to three instructions per clock cycle.
+Unlike most superscalars, the chip can execute two integer instructions in a single clock cycle.
+It is said to have the largest on-chip cache in the industry — two thirds of its 3.1m transistors are dedicated to the cache — and claims to be the first with complete on-chip multi-processing.
+It is also unique in offering two buses: Mbus for plug-compatibility and Xbus for packet switching multi-processing.
+Being a single chip it replaces the 12 VLSI chips used in Sparcstation 2 and the 79 it took to build the original Sun 490s.
+Texas Instruments Inc claims a 33MHz SuperSparc is equal or better than a 50MHz MIPS R4000, and twice the stuff of a 50MHz 80486.
+It also claims to have better integer performance than the mid-range IBM RS/6000 model 540.
+TI has some estimates of the old-style SPECmark ratings that Viking might do: it rates the 40MHz part at 50–60SPECmarks (40–50 SPECint, 50–60 SPECfp); the 45MHz version at 60–70 SPECmarks (50–60 SPECint, 70–80 SPECfp); and the 50MHz at 80 SPECmarks (60 SPECint, 80 SPECfp).
+The dual-chip 75MHz iteration planned for 1993, it says, should offer 240 SPECmarks.
+Of course TI is quick to note that these projections only take into account existing compilers.
+The new compiler under development at SunPro and elsewhere could improve performance 15% to 20%.
+Since it's in a forecasting mood, TI also projects the 50MHz Viking's multi-processor performance at 9,600 MIPS for a 64 CPU system, 4,800 MIPS with 32 processors, 2,400 MIPS with 16 CPUs and 1,200 MIPS with 8 processors.
+However, sceptics were last week arguing that the scalability of Sparc remains unproven, no matter what TI and Sun say.
+As you might expect, Texas Instruments Inc is pressing the high performance per MHz it's reportedly getting from Viking: its SPEC sheets claim the 50MHz cycle time is scalable to 100MHz ‘over time’ and the four-way multi-processing that will supposedly offer a peak of 600 MIPS is scalable to 1200 MIPS again ‘over time’.
+A uni-processor design, with a peak of 150 MIPS is said to be scalable to 300 MIPS ‘over time.’
+A SuperSparc System Design Starter Kit, including advanced system development tools, documentation, E-Mail, technical support and several SuperSparc units will be available to systems houses in the third quarter, for $50,000.
+Michael Slater, editor of The Microprocessor Report, asks us to notice that TI is quoting prices only on the 33MHz Viking and that those are exceedingly cheap.
+That means, he says, that TI realises it's going to have to make ‘lots and lots and lots’ of chips to get a reasonable 50MHz yield.
+The ones that don't measure up will be sold for fodder at 33MHz.
+Slater also says it's the first and only time he's ever seen clock ratings take such baby steps — 33 to 40 to 45 to 50.
+He figures Sun must be very disappointed and frustrated at not having at least the 50s.
+There's probably some name calling going on with TI retorting, ‘well, it is your design’.
+To keep the cost of producing the upcoming low-end/high-volume Sun Tsunami chip down (UX No 367), TI is going to produce it using cost-effective tape automated bond (TAB) packaging.
+Apparently it's been  practising that technique, and had a sample of the little thing with it on its road trip last week.
+TI intends to do the same with the 75MHz dual SuperSparcs next year.
+At the moment, a SuperSparc comes stand-alone or in a system-ready Mbus module consisting of a single Viking on a standard Mbus plug-in board or with a Multi-cache Module Controller and 1Mb of expansion cache memory which can operate in the Xbus mode for large-scale multiprocessing.
+Meanwhile, Cypress Semiconductor Corp chief, TJ Rogers, is feeling a bit cantankerous these days.
+His own superscalar Sparc chip, HyperSparc, due to be announced this week (UX No 383), is still lagging behind Viking.
+So before SuperSparc corrals all the business, he's sending Sun messages in the press that if it doesn't buy HyperSparc — also known as Pinnacle — he's going to turn round and do the Alpha for DEC.
+HEWLETT-PACKARD DEBUTS DME-READY OPEN VIEW NETWORK MANAGER
+Pipping its Open Software Foundation Distributed Management Environment chums to the post last week, Hewlett-Packard has released its latest OpenView release 3.0: its next generation suite of network and management software for local area networks, parts of which are included within the DME spec.
+Adding salt to the wound, HP also announced that it would have OpenView release 3.1 out by the third quarter increasing the pressure on other DME participants to get their stuff out the door.
+OpenView release 3.0 is made up from several components: SNMP, incorporating HP's OpenView Windows  graphical user interface allowing users to customise applications; OpenView Windows application programming interfaces, APIs, picked up by OSF's DME; and a Distributed Management component running an Ingres-based SQL database.
+This provides programmatic access to Simple Network Management Protocol (SNMP) and Common Management over TCP/IP (CMOT) services using Consolidated Management API (CM-API)— selected for both OSF's DME and X/Open's management protocol environments.
+In a related announcement, Groupe Bull SA says it will be taking out a cross-licensing agreement with HP giving Bull access to OpenView components, whilst HP gets Bull's CM-API.
+HP is also rolling-out OpenView Network Node Manager 3.0, incorporating all the features of the SNMP component.
+It monitors local area TCP/IP networks performing fault, configuration and performance management from a single workstation: and it will, says HP, integrate with other third party applications to form a single DME-based network management solution.
+Scheduled to ship the first week of June, OpenView SNMP is priced at $7,000, Distributed Management costs $8,000 and HP's OpenView Network Node Manager costs $15,000.
+DEC USED EQUATOR VLIW TECHNIQUES IN ALPHA DESIGN
+The  resurgence of interest in Multiflow's VLIW — see front page — has also surfaced in DEC's Alpha RISC chip of all places: the VLIW, very long instruction word technology that  orgionated in the work of the now defunct Multiflow Computers Inc (UX No 381), played a cameo role in the design and development of DEC's Alpha RISC chip, according to Seattle, Washington-based Equator Technologies Inc.
+DEC, intrigued by the VLIW technique, and an original licensee of the Multiflow technology, apparently used Equator in the early phases of the Alpha chip design cycle to implement Multiflow's Trace scheduling compilers.
+Not content with having Equator hog the technology that it had dropped, DEC brought the whole VLIW project in-house, picking up two ex-Multiflow engineers on the way, to finish the job.
+However, what the net result of the activity has been is unclear, as DEC says it is now closing down its VLIW-on-Alpha work — having failed to enlighten us as to the reasons why — but, at the instruction level, it is thought that Multiflow's trace compilers were being pressed into service to boost the speed at which the RISC could execute programmes.
+Established in 1990, just two months after Multiflow closed its doors, Equator is headed up by ex-Multiflow vice president John O'Donnell.
+Making its money as a system design consultancy, it's staying clear of the grave Multiflow dug for itself building machines, it says.
+Now president of Equator, O'Donnell argues that ‘Multiflow came out with a product before its time…then, the likelihood of a 64-bit RISC chip was far away, on the horizon, now its changed.’
+Equator is now thought to be working on Intel Corp's i860 RISC processor, retargeting the Trace compilers for that architecture, as well as‘liaising with other major vendors’ who originally signed with Multiflow, such as Hewlett-Packard Co, HAL Computer Systems Inc and Fujitsu Ltd.
+The VLIW stuff aside, Equator's bread and butter comes from designing custom CMOS chips as well as developing proprietary software for analysing superscalar architectures and instruction-level technology.
+ICL HAILS VIKING — NEW SPARC MODELS SET FOR THE THIRD QUARTER, INTEL BOXES DUE IN JULY
+ICL last week announced its support for Texas Instruments Inc's superscalar Viking Sparc — see front page — which will figure in a top-end, multi-processing DRS6000 Model 764.
+‘We have been evaluating SuperSparc capabilities for high-performance commercial application environments, and we are impressed with the results,’ said Andrew Roberts, managing director of ICL's mid-range systems division.
+The company also said the DRS6000 Models 240, 450, 750 and 752 — announced with the 752 back in February (UX No 371)— which use uni- and multi-processor combinations of existing 40MHz Cypress Sparc technology,(dubbed CPU2 architecture) will ship in the third quarter.
+A new version of its Unix SVR4 implementation — DRS/NX — will figure on those.
+Meanwhile, new DRS3000 Intel Corp-based models based upon its ‘Spring Collection’ will ship in July.
+The DRS3000 levels 243CX desktop, 343CXe desktop and 543FX deskside all utilise 33MHz 80486 CPU technology, run a shrink-wrapped Unix SVR4 PC operating system and will feature Unix System Labs' Destiny desktop version of Unix as soon as it appears: ‘within weeks,’ the firm claims.
+Older DRS3000 models will be phased out, it says.
+Also on ICL's hardware agenda this year are smaller and larger four-node SX mainframe models, new DX systems, a re-vamped peripheral range and the first Open VME products — including 7651 Windows, forms, X.400, OSMC and VME-X.
+FEDERAL HEAT OFF OSF
+The Federal Trade Commission has shelved its investigation of the Open Software Foundation for alleged violations of the US anti-trust laws (UX No 317).
+Sources close to the investigation suggest it has been dormant for some months and that it produced no conclusions one way or the other.
+It could be reopened if the current status of things changed.
+The massive $100m federal anti-trust suit that Addamax has lodged against the OSF (UX No 331), is believed to have influenced the FTC's decision to put its own investigation on hold.
+The FTC is also regarded as being reluctant to pursue high-tech companies because by the time it is brought and the issues resolved, the market has moved on.
+DEC TO BUILD GIGA-SWITCH CONTROLLER
+DEC announced plans to build a Giga-switch, a network and cluster interconnect, at DECworld in Boston last week.
+Critical for hooking Alphas and VAXes, DEC said the platform would be protocol-independent, capable of handling everything from multi-vendor PC LANs to multi-vendor mainframes.
+Based on crossbar switch technology, a Giga-switch solution could make over six million dynamic connections a-second with point-to-point connections between systems and switches, enabling multiple FDDI networks to be interconnected.
+The technology has a potential  aggregate throughput of 3.6Gbps.
+It permits resources to be dynamically reconfigured.
+Initial plans include a 22-FDDI port, a DS3 WAN, multi-protocol routing, up to five Giga-switch platforms and SNMP-compliant management software.
+IBM's MICROKERNEL PLANS FOR OS/2 3.0
+IBM Corp has now fallen back on the reliable method of pre-announcement for its OS/2 promotion campaign.
+The release of version 2.0 has only just begun, yet the company is already plugging version 3.0.
+The future-generation operating system, unofficially labelled OS/2 3.0, will be based on a microkernel architecture — though it hasn't been decided which one — will support symmetric multi-processing, and be portable across different hardware systems.
+According to Computerworld, IBM officials have hinted that a version for the RS/6000 workstation is a definite possibility.
+Computerworld interprets IBM's willingness to make public its plans for OS/2 3.0 as the latest advance in the clash with Microsoft Corp: having lost out in the personal computer operating system game, where OS/2 is lagging far behind compared with MS-DOS and Windows, IBM is trying to position the next generation OS/2 competitively against Microsoft's forthcoming NT operating system.
+It will, however, likely be years before we see hide or hair of it — the company's programming centre in Boca Raton, Florida, indicates that version 2.1 will be the next implementation of OS/2, and even that isn't likely to hit the market until at least spring of next year.
+As yet, no definitive decision has been made as to the microkernel that will be used for new versions of OS/2, though developers are known to be working with the Carnegie-Mellon University's Mach 3 microkernel; in addition , there is the possibility that IBM might use the NT kernel —‘we could use the NT microkernel if we wanted to’, it said.
+IBM ‘TO BUY INTO PARALLAN FOR HIGH-END SERVERS’…
+IBM Corp is expected to take a 20% stake in Mountain View, California-based Parallan Computer Inc to cement a deal under which IBM would add Parallan's multi-processor 80486-based servers to its line, Computerwoche reports.
+Parallan, a $10m-a-year, three-year-old private company, will sign a joint development agreement with IBM, paving the way for production of servers that will fit between Parallan's System 290 OS/2 application superservers and the two new high-end IBM PS/2 Model 95s announced last week.
+As part of the proposed deal, IBM is expected to resell System 290s — currently in their second generation, based on the 50MHz version of the Intel Corp chip, up to 128Mb main memory and incorporating a super-secure implementation of RAID 5 disk array technology, starting at $25,000 — while the new line of servers is being put together.
+IBM watchers say the pending agreement signals an intention by IBM to offer with in the next two years an asymmetric parallel processing server designed to run mission-critical applications, including CICS programs.
+IBM, meanwhile, is not giving any word on the deal, but the company told Computerwoche from Armonk that it is ‘talking to Parallan’.
+Parallan marketing director David Fields was equally coy: he told the German weekly that ‘a co-operation with IBM would in every regard be advantageous, since our products are quite compatible with IBM's line’.
+If it goes through, the pact will immediately give IBM a presence in the high-end server market.
+Frank Dzubeck, president of Communications Network Architects Inc in Washington DC, commented to the German newspaper's US sister title, Computerworld, that IBM ‘considers today's multi-processors an interim step, and it doesn't want to [build them]’.
+He suggested that the proposed deal would be a good thing, as it would immediately validate the still ill-defined superserver market.
+Analysts say that OS/2 2.0 is reason enough for IBM to advance into the superserver market.
+…
+WHILST AUSPEX LOOKS TO INTERNATIONAL MARKET AS IBM DEAL PROGRESSES
+Auspex Systems Inc, the Santa Clara, California network server company that struck up a deal with IBM recently (UX No 369), is said to be looking to expand its operations internationally, before going public, possibly by the end of the year.
+Speculation has it that Auspex has its eyes on its current distributor, Thame Microsystems, as the basis of its UK operation, although Thame's owner Memec is still likely to retain a stake.
+Thame — an erstwhile distributor of Motorola Computer Systems boxes, was showing Auspex NetServers at the UK Computer Management Group exhibition in Brighton last week, along with the new Sparc-based Epoch-2 data storage servers from Epoch Systems Inc.
+Auspex recently struck up an OEM deal with IBM, which involves development of a new version of the machine using a Rios chip rather than the current Sparc.
+In the meantime IBM is already said to have sold a number of Sparc-based models, and may have its own version ready by year-end.
+IBM versions use IBM disks rather than the 1.35Gb (and soon 2Gb) HP drives used by Auspex.
+The change of chip is largely a political move, since the CPU is used mostly for housekeeping matters on an Auspex server, the main work is carried out through a series of custom and ASIC chips handling Ethernet, File and Storage processing.
+The key to the performance advantages of an Auspex server over, say, an IBM RS/6000, is that the Auspex machines has no Unix overhead — there is a 55Mb backplane for network traffic alone, unimpeded by instruction or Unix traffic.
+There are currently over 400 systems installed, running up to 200 workstations or 100 X-terminals, and up to 5Gb disk storage.
+Expansion in the number of users and disk storage supported are on there way.
+There are also rumours that DEC has struck up a deal with Auspex, although DEC UK wouldn't comment.
+TATUNG MOVES TO MATCH SUN's PRICE CUTS ON SPARCSTATIONS
+San Jose-based Tatung Science & Technology Inc has been driven by Sun Microsystems Inc into cutting prices on its own Sparc-based workstation line, and as a result, it says it now offers a 40MHz system at $5,990 and a full range of colour systems at less than $5,000.
+The Compstation 40 configurations have been cut by more than 30% so that a diskless system with 40MHz CPU, 15″ colour monitor and 8Mb is $5,990, $6,990 with 270Mb disk and single-slot graphic accelerator card; with 19″ colour monitor, 32Mb, 520Mb disk and the accelerator it is $10,890.
+The entry-level models start at $3,990 with the Mariner 4i, a 25MHz workstation; a diskless Compstation 25 is $4,490 with a 15″ colour monitor and 8Mb.
+OPEN SYSTEMS — FACTS AND FICTION ACCORDING TO THE GARTNER GROUP
+William Fellows
+The Gartner Group's bandwagon came to the UK recently, where it used a conference in London — Open Systems: A Mix of Myth and Reality — for the launch of its latest consultancy package, the Open Systems Service.
+The market research outfit reckons that the four fundamental factors driving the adoption of open systems — functionality, availability, complexity and cost — will only begin to intersect favourably around 1995.
+Why 1995?
+As well as being party to the future plans of its vendor clients — many of whom will be directly responsible for developing technology which will fuel these forces — Gartner has arrived at 1995 by using diffusion theory, which is a way of interpreting something, in this case open systems, by examining the natural movement of its components.
+It's a technique that was first used, according to Steve Wendler, vice president and service director of the open systems programme, in the American mid-West, to explain why farmers adopted new corn seeds, and then applied in other fields of study.
+Even so, Wendler is careful to qualify best estimates, saying ‘open environments will not be possible in the absolute, even by 1996, but solutions will emerge that are increasingly less closed.’
+Initially, any new technology functions rather crudely, Wendler argues, but its usability rises over time as users and vendors gain experience through subsequent versions.
+Similarly, the availability of new technology is limited at first to narrow distribution channels such as direct sales nd systems integrators, typically proportional to the complexity of the stuff.
+The complexity of new technology (for users) is high at first, but again decreases with subsequent releases of the product.
+Similarly initial costs are high as vendors try to recover their non-recurring investments in the technology, but falls as volumes increase and manufacturing is streamlined or competition depresses prices.
+Broadly, Wendler's argument is that these four factors have favourably intersected for a sub-set of technologies — Unix, C and TCP/IP — in large — scientific, engineering, government and education — but niche markets.
+Ripe
+Looking specifically at the mid-range commercial systems marketplace, Wendler believes that by 1995, users are likely to reach a point where the cost of implementing open systems will be less than to carry on as they are.
+The mid-range market is most ripe for open systems, he says, because of the availability of low-cost, high-performance systems that span replicated site configurations linked to departmental server configurations connected to  loosely-coupled multi-processing central processing units.
+At the low-end of this market, for example, no suppliers can any longer offer a proprietary technical workstation, it has to be open systems.
+Wendler has also assessed which application areas, or what Gartner refers to as middleware — everything between the hardware and what the user actually sees — are most appropriate for the near-term deployment of opens systems.
+These include application development environments (though vendor-specific), global networking (OSI, TCP/IP), network and systems management (EMA, OpenView, ONE, DME), integrated office products (AT&T Rhapsody, NCR Cooperation, Applix, Quadratron) and workstation integration (LM/X, PC-NFS).
+Some technologies, Wendler believes, are irrelevant because of their relative immaturity, such as repositories and on-line transaction processing monitors.
+Some have to be dealt with using ad hoc, independent software vendor solutions at present , such as application development environments and distributed databases.
+Gartner has focused on the mid-range — apart from the money it has to spend on consultancy one assumes — because it believes the ‘heritage of open systems has been to solve mid-range problems.’
+Widespread implementation of Unix on the mainframe is still some way off Wendler reckons — Amdahl Corp's UTS excepted — because Unix's input/output performance is still in the realm of kilobytes per second, not megabytes per second.
+Moreover, Unix can only recognise a maximum of 1,024 devices and it doesn't support multiple volume files.
+Unix is also very weak on systems administration when compared to proprietary systems, Wendler says, and when it comes to high-availability, Unix just isn't durable enough.
+‘As open systems  cannot fulfill most of these roles at the moment, many [mid-range]users will see open systems as a niche strategy, until 1995, when the technology will change to such a degree that open systems will be able to meet the needs of the most demanding commercial applications.’
+As is clear to anyone who is involved in the industry, open systems are already having an enormous impact on vendor strategies.
+Wendler says one result will be that ‘software prices will rise astronomically to compensate for declining hardware revenues.’
+Much of what business needs to carry out new information strategies is simply not being provided, he says; ‘most organisations are going through an architectural crisis at the moment due to the absence of strategic planning and management.’
+However, in response to user demands for openness, Wendler argues, vendors will — as we know only too well — increasingly promote everything they can as ‘standard.’
+In that arena, vendors will ‘increasingly obfuscate formal, draft, proposed, consortium, de facto and proprietary standards compliance.’
+In some cases, he says, this approaches Orwellian newspeak, for example IBM's ‘Open Communications Architectures, which effectively withdraw from publication of newer versions of proprietary network-layer protocols that have previously been published.’
+Wendler suggests that users ‘consider formal, draft, consortium and de facto standards as real standards, proposed and proprietary as self-serving vendor hype.’
+Users themselves, however, are not completely blameless when it comes to the slow uptake of open systems, Wendler observes, ‘our clients don't take products seriously until IBM is involved.’
+Client/server future
+Another major player, Microsoft Corp, so far with only a tippy-toe in the open systems waters, needs to control the definition and evolution of computing to maintain its momentum, Wendler says.
+NT he considers a ported proprietary environment, but it will, by dint of its use of OSF's Distributed Computing Environment ‘accelerate the take-up of open systems,’ he believes.
+In Wendler's eyes, DCE will become the de facto standard for client/server computing.
+Sun, he says, ‘sat on its remote procedure call laurels too long and didn't advance its Open Network Computing technology until OSF started talking about DCE.’
+Wendler recognises that object-oriented technology will play a central role in the distributed management systems of the future, though it is too immature to be of any real use at present, he says —‘the class definition stuff that OMG is working on now is much more important than the Object Request Broker.’
+OMG's work so far ‘has been like defining that there have to be lights on the the wing tips of aeroplanes.’
+Wendler concludes ‘there is no such thing as an open system in 1992,’ and that for users, the economic  benefits of going open systems have so far been only ‘anecdotal.’
+Although, he confesses, he cannot provide ‘money saving ideas,’ he firmly believes that as far as mid-range systems go, Unix functionality is now on a par with proprietary systems, reflected in reduced proprietary pricing, and that substitution, rather than wholesale replacement, is the key to open systems.
+He strongly advises users to get involved with their regional open systems organisations and representative industry groups.
+Without question, open systems give users a great deal more leverage when negotiating with their suppliers, as Wendler observes, ‘the keys to a successful migration process are as much political as they are technical.
+We can incrementally manage our way towards open systems component by component,’ is his message to users, ‘but don't do it all at once— and remember it doesn't necessarily mean Unix.’
+Gartner's Open Systems Service costs £10,800 for one year's subscription.
+PEACE IN UNIX WARS WON'T SLOW MICROSOFT's WORLD DOMINATION, SAYS GARTNER
+The Gartner Group's latest thinking on Unix — see above — has Unix System Labs/Unix International and the Open Software Foundation ending ‘the Unix wars by establishing a unified version of Unix and critical middleware, but [they]will be unsuccessful in curtailing Microsoft Corp's domination of the commercial desktop.’
+In this unified Unix environment, Gartner positions a common SVR4-OSF/1 application programming interface, OSF's Distributed Computing Environment, Tivoli Systems Inc's management framework, OSF/Motif and a common desktop manager — watch this space.
+The market research group reckons it won't be until the second half of next year that Unix will achieve the degree of functionality needed to match proprietary systems as viable, enterprise-wide server platform, ESP.
+ESP, in its nomenclature, refers to a mid-range, distributed multi-processing server which can be integrated into, and used in conjunction with, a larger information technology architecture, providing transparent services to any client.
+Sun Microsystems Inc, Gartner believes, has an entrenched  position , focused on providing ‘invented here’ enabling technologies to independent software vendors, rather than on providing comprehensive ESP products to end users.
+However, it trumpets NCR Corp's recent efforts, saying that only it ‘will emerge from the shadow of product delays and corporate reorganisation to offer a suite of ESP products rivalled only by Hewlett-Packard Co in terms of breadth and quality.’
+Pyramid Technology Corp, it forecasts, will move ‘cautiously’ to provide greater ESP support with partners, or where the cost of entrance is low.
+Sequent Computer Systems Inc, meanwhile, will ‘successfully exploit its multi-threaded NetWare implementation to win major new accounts.’
+PERSONAL COMPUTER CAMP ‘TO CHALLENGE WORKSTATION PERFORMANCE’
+It looks as though what Intel Corp refused to do for ACE will be done under other colours after all.
+In last week's episode, we had Intel refusing the repeated pleas of Compaq Computer Corp and other personal computer vendors inside ACE to create a new ARC-like standard for Intel machines complete with an ARC-like Hardware Abstraction Layer (UX No 383).
+Now it appears in a story published in Computer Retail News that that's exactly what's afoot in the personal computer camp — with Intel, Compaq, Microsoft Corp and IBM as players, and a game plan that tries to equal workstation performance with a PC-compatible.
+We know Compaq wrote the specification when it was still a ploy — Systems Network Integration says they even have a prototype up and running — but whether this can ever amount to anything more than a high-end PC depends on sorting out fact from propaganda.
+Intel, after all, is said to have lopped a year off its P5 (80586) design cycle just to compete with RISC chips.
+DEC TO END BUNDLING AGREEMENT WITH INGRES FOR ULTRIX
+Following close on the termination of its Open Desktop agreement with Santa Cruz Operation Inc, Ask Computer Systems Inc's Ingres Products Division faces another divorce: now Digital Equipment Corp is to sever links, ending a three-year bundling of the Ingres relational database management system under Ultrix.
+This confirms previous reports last week strenuously denied by both Digital and Ingres UK management: both parties say ‘negotiations’ on the deal are currently under way at the DECWorld extravaganza in Boston, but don't expect the cards to fall any other way.
+UK COMPANIES AT LOGGERHEADS OVER LOGIX NAME
+Logix ‘92, cast as a spring-time showpiece for Logitek Distribution Ltd's Unix reseller initiative, has turned out to be something of a damp squib for the Slough, Berkshire-based outfit.
+Logix UK Ltd, Redhill, Surrey, the computer division of Korean giant Lucky Goldstar's London-based international operation, is threatening to sue Logitek over the the Logix name — used for the conference event it hosted last week, as well as figuring in its on-going marketing plans for the coming year.
+Logix — the company — was alerted to its doppelganger when a confused customer telephoned, demanding an invitation to its Logix ‘92 event.
+Although Logitek managing director, Ian Johnston, claims Goldstar has yet to register its Logix logo as an official trademark, he took the precaution of explaining to Logix ‘92 attendees that there were no Logix products at the event, and included a footnote to that effect in the accompanying publicity material.
+Logix, however, is not convinced.
+Non-plussed, its director, Brian Jackson, said ‘we have given Logitek a time limit to come to terms with their error.
+If they do not [change the name]we will have to do it for them.’
+Logix and Logitek are trying to settle the squabble out of court.
+ESIX LAUNCHES SYSTEM V.4.0.4 SHRINK-WRAPPED UNIX
+Fremont-based Everex Systems Inc's Santa Ana, California-based Esix Computer Inc does not intend to leave the iAPX-86 Unix market to Santa Cruz Operation Inc, Sun Microsystems Inc's SunSoft and Unix System Laboratories Inc's forthcoming Destiny.
+It says it is now shipping its shrink-wrapped System V Unix Release 4.0.4 operating system, which supports the Intel Corp iBCS II specification, which enables all iBCS II-conforming Santa Cruz Unix 3.2 applications to run.
+The Esix product is claimed to unify all major versions and derivatives of Unix such as System V.3.2, Berkeley Software Distribution 4.2 and 4.3 and Microsoft Corp's Xenix, which was also handed over to Santa Cruz a year or three back.
+Key features of Sun Microsystems Inc's SunOS have also been incorporated into the new release, Esix says, adding that it is also conformant with IEEE P1003.1 Posix.
+BULL PREVIEWS MULTIMEDIA DEVELOPMENT SYSTEM FOR UNIX AHEAD OF AUTUMN LAUNCH
+Sometime this autumn, Groupe Bull SA plans to introduce its promised Hyperpath Unix-based multimedia application development system created under European Community Esprit funding.
+Components include the Hypermedia Toolkit that enables programmers to create and manipulate persistent, distributed Hypermedia objects such as nodes, anchors and links, or to add hypermedia function to other development environments.
+Multitalk is a scripting language that enables authors and end-users to implement simple applications by defining actions to be performed by the active hypermedia objects.
+An M2000 communications protocol is available through the application programming interface, and Hypermedia objects and documents are stored using a simple distributed persistent storage device.
+The Authoring tool is an OSF/Motif application written by the Toolkit, and the MC Editor is a Motif program too.
+Other editors have been extended to handle the M2000 protocol, including GNU Emacs and Raphael/Balzac.
+There are versions of the system for use with Bull's DPX Unix systems, workstations from Sun Microsystems Inc and personal computers running Santa Cruz Operation Inc Unix System V.3.2.
+Bull says that it plans to release a Windows 3.1 version by the end of the year.
+CDC TO ADD ANOTHER RISC
+Control Data Corp is this week tipped to announce its adoption of Hewlett-Packard Co's PA RISC chip, which it will use in systems that'll sit alongside the MIPS Computer Systems Inc RISC boxes it already builds and OEMs.
+Although a closer relationship with the Silicon Graphics Inc/MIPS unit would seem the most plausible direction for CDC, it has shunned this route.
+A story which appeared in last week's Electronics Weekly, saying the company was considering another RISC was placed with that publication, CDC admits, ‘to put the wind up Silicon Graphics and MIPS.’
+Although CDC would not come clean with its actual choice of another RISC, it ruled out Sparc, said DEC's Alpha was just vapourware and admitted it had been positively influenced by HP's technology commitment.
+CDC's decision won't be made public until it wraps up its latest internal re-organisation (UX 381).
+MINIGRAMS
+Sun Microsystems Inc has shunted NCR Corp out of the frame at UK newspaper and magazine wholesaler and high street retailer, John Menzies UK Ltd, Edinburgh: Sun Sparcstations will replace NCR Towers in Menzies' 66 branches across the UK for its wholesale operation.
+Epoch Systems is changing its tack and making the source code for an enhanced version of its network data management software available to OEMs as a software-only product dubbed EpochServ.
+One of its first customers is Storage Tech.
+Adobe Systems is to port its Display Postscript language to Mountain View, California-based Network Computing Devices Inc's MIPS Computer Systems Inc R3000 RISC-based X-terminals: NCD, which will have a hand in the porting, is to license the stuff back early next year when it is complete.
+DEC has come out with two new models in its VXT 2000 line of X-Windows terminals: a new entry-level 15″ mono model integrates all the electronics with the screen at $1,700 but with less space for memory does only 47,000-Xstones, down from 60,000-X — there is also a full-size 17″ colour model at $4,700 in May, both use a VAX CPU.
+Apple Computer Inc says it bought the C2 level security software for its A/UX Unix from SecureWare Inc, Atlanta, Georgia: SecureWare is the approved vendor of security technology for the Open Software Foundation's OSF/1 operating system.
+Visix Software Inc has picked up UniPress Software Inc as a distributor, which will sell Looking Glass Professional as its desktop manager of choice.
+Sequent Computer Systems Inc has privately placed some $20m — £11.3m — worth of convertible debentures to repay bank debt and provide working capital.
+Expanding on the agreement that AT&T's Computer Systems Division forged with Banyan Systems Inc last year, NCR Corp has now sealed a pact with the Westborough, Massachusetts-based company, said to be worth $25m over the next three years: NCR is to market and support Banyan's Unix-based Vines network operating system — in the US and Canada initially, worldwide at a later date — whilst Banyan distributors will be able to sell NCR products.
+UniVerse house, VMark Software Inc has filed to go public with 1.8m shares priced between $10 and $12.
+Intelligent input/output board supplier, Byfleet, Surrey-based Specialix Ltd, says its flagship product, the transputer-based RIO controller, isn't going down the storm that it had hoped it would: even OEM deals with the likes of Groupe Bull SA have not boosted sales, says marketing director, Ian Cummins, ‘RIO is not selling as well as we thought it would…and our estimations on its performance in the market are nine months ahead of what has actually happened’.
+Specialix also admits the move to Unix System Labs' Unix SVR4 hasn't gone smoothly as planned, saying that it unexpectedly had to rewrite several device drivers for OEM versions.
+Computer Associates has put Motif on its CA-20/20 spreadsheet for Unix workstations and PCs under SCO Unix.
+The company says the product has been redesigned from the ground up to exploit the GUI but keep compatibility with existing 20/20 applications.
+Sources are now saying that Pinnacle 1 or HyperSparc, the Cypress/Ross version of a superscalar Sparc, that we pegged last week as debuting a 55MHz will actually be introduced as a 66.7MHz/70 SpecMark chip, which of course is faster than Viking.
+However, we are also reminded that Pinnacle hasn't been taped out yet so it's still only hopes and dreams time over at Cypress.
+Supposedly, it'll be a fourth-quarter deliverable.
+The Instruction Set has paired with the Computer Channel in the US to produce a series of TV programs and videos on open systems topics: Instruction Set already sells some Computer Channel videos, using them to supplement instructor-led curricula.
+Subjects include distributed systems, portability, GUIs, client-server environments, object orientation and networking.
+A new Unix expo is on the drawing board, this one, borrowing from the original Comdex, is aimed at the reseller community: Unix Resellers, organized by Expoconsul International in Princeton, New Jersey, is scheduled for May 4–6 1993 at the Dallas Convention Centre.
+Ask Computer Systems Inc of Mountain View, California, is believed to be about to take a stake in Unix manufacturing software specialist Baan International NV of Ede, Holland.
+Baan declined to comment.
+Motivation is interest in its Triton Management System.
+Unigram.X can be contacted on E-mail at ‘unigram! george@uunet.UU.NET’ and is available as an on-line subscription service.
+Stateside gossip has it that Hitachi Ltd will announce a ‘Unix mainframe’ within the next 30 days: possibilities are either OSF/1 on its existing M-series mainframes, or the first fruits of its efforts with Hewlett-Packard Co's Precision Architecture RISC, which is said to be a RISC-based Unix co-processor for the IBM-compatible mainframes.
+Start-up Carrera Computers Inc out of Laguna Hills, California, has licensed an ARCsystem design, the ARCsystem 100 Manufacturing Kit, from MIPS Computer Systems Inc to make motherboards, expecting to be first out with a RISC-based personal computer board later this year.
+Costa Mesa, California-based FileNet Corp, which up to now has built its Unix-based image processing servers around the Motorola 68000 family, has decided to switch to two models of IBM Corp's RS/6000 for high-end models under an OEM agreement that also covers AIX/6000.
+FileNet also has two new 68040-based models, one out now, the other set for July.
+The RS/6000-based models are to be called the FileNet Series 6000.
+Armchair strategists reckon that if Solaris 2.0-on-Intel and the USL/Univel Destiny don't snare a piece of the Microsoft pie they are surely going to displace SCO.
+It appears Canon increased its position in NeXT slightly with an additional $10m-$20m investment back in December: it now holds 17.9%.
+Jobs' holding is now less than 50%, at 46.1%.
+The User Alliance for Open Systems is set to meet May 11–14 in Dallas at the InfoMart: it is anxious to push its agenda for interoperability, transportable data and applications and an IT environment that supports business objectives.
+Bell Labs plans to spin off a new company, Echo Logic Inc, which will offer binary code conversions enabling Macintosh applications to run natively on IBM's Unix-based AIX, Systems Network and Integration reports.
+The addition of Macintosh applications is also likely to make the IBM's RISC System/6000 a likely upgrade path for Macintosh users looking for more powerful servers than Apple can offer.
+Kaleida, Apple Computers Inc and IBM Corp's joint multimedia venture, is expected to announce the appointment of Nat Goldhaber as CEO this week: Goldhaber, founder of Centram Systems West, will reportedly be joined on the Kaleida board by an array of Apple and IBM executives including David Nagel, senior vice president of Apple's Advanced Technology Group; Robert Carberry, IBM's assistant general manager of personal systems; and two other high-ranking executives from Apple and IBM.
+Kaleida will initially be housed at Apple's headquarters, but there are plans for it to be relocated to Silicon Valley later in the year.
+Sun Microsystems Inc management estimates it is spending 10%-15% of its revenues moving over to Unix SVR4: that must mean, that when the exercise is over, it will be rolling in cash.

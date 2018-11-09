@@ -1,0 +1,481 @@
+
+
+MICROSOFT ‘TO CHALLENGE SUN's WINDOWS-ON-UNIX’
+Sources believe Microsoft Corp may be preparing to take Sun Microsystems Inc to court over WABI, the Windows-on-Solaris software that SunSoft Inc is expected to bundle with x86, the new Solaris-on-Intel operating system.
+It is said the Sun planet SunSelect, the unit that bought WABI when it acquired Norwood, Massachusetts-based Praxsys Technologies Inc, has already received a letter from Microsoft complaining that WABI violates its intellectual property rights.
+Microsoft chairman Bill Gates has already made similar complaints in public to the US press (UX No 427).
+Microsoft wants Sun to pay a licence for WABI, specifically $50 a copy, and has been saying so to Sun since at least December.
+At a meeting in January at Microsoft headquarters in Redmond, Washington with Sun vice presidents Eric Schmidt and Carl Ledbetter, Microsoft executive Paul Maritz told them they face a business decision.
+‘You'll have to compare the cost of staying current with us and defending litigation against the cost of paying us royalties.’
+Maritz also promised to make Windows such a moving target Sun could not keep up.
+WABI is expected to be announced as a product on May 5.
+At the introduction, Unix System Labs will likely be trotted out as a key WABI partner, a direct conduit to Univel Inc, its joint venture with Novell Inc, as well as an implicit conduit to COSE (UX No 428).
+Sun and USL may try flanking manoeuvre
+It is believed Sun and USL, which reportedly realise the potential hiccups with WABI, may try an advanced game of one-upmanship with Microsoft, putting AT&T's patent portfolio containing such things as Backing Store in the balance up against Windows.
+SunSelect has repeatedly maintained that Microsoft doesn't have a legal leg to stand on and that it will not pay the licence.
+It has said WABI was created in a clean room, an argument sources say implies there was a ‘dirty room’ somewhere.
+Sun's other weak point may be the fact that WABI's Praxsys creators come from BIOS house Phoenix Technologies Ltd where they would have had access to MS-DOS.
+At that same January meeting, Maritz tried to sell Sun on the notion of porting Windows NT to its Sparc RISC.
+He told Schmidt and Ledbetter that Sun, ICL Plc and Fujitsu Ltd ought to do it ‘defensively for the insurance.’
+Microsoft wanted between $250,000 and $500,000 for the source code and a royalty of $100 to $200 a copy in royalties, enhancements included.
+Meanwhile, Hunter Systems Inc, Palo Alto, California, a company with technology very similar to WABI, has hit the wall.
+On Monday April 12 its collateral and debts of at least $2.5m will be sold at public auction.
+NEC ENTERS PARALLEL MARKET WITH MIPS RISC BOX
+NEC Corp has entered the parallel processor business with the launch in Japan of the Cenju-3, built from eight to 256 MIPS Technologies Inc VR4400 RISC microprocessors.
+The machine, which comes in seven standard configurations, was originally developed for in-house scientific research.
+The company claims peak performance of 12.8 GFLOPS, and says the machine offers a three-fold price-performance improvement over its flagship SX-3R Series supercomputers.
+The 64-bit VR4400 used is clocked at 75MHz and each node has 1Mb secondary cache and is rated at 50 MFLOPS.
+The machine implements a parallel distributed shared memory architecture and each node is connected to several others via a multi-stage interconnection network.
+It is front-ended by a NEC EWS 4800 R-series RISC workstation running UX/V, the Japanese language version of Unix System V.4.
+The firm has parallelising compilers for Fortran and C. The Cenju-3 is offered at a monthly rental of $11,130 for the eight processor model, $271,360 for top-of-the-line 256-CPU model.
+First ships in Japan are set for late December, with the machine being launched on the international market in June 1994.
+NEC hopes to ship 30 of the things over three years, and research institutes are the target market.
+LEADING COSE ROLE FOR X/OPEN
+COSE's systems management technology will be determined by X/Open's existing systems management workgroup, a committee that will include all the current COSE companies.
+The decision was made last week at a planning process review the COSE people and the Open Software Foundation held April 7 at X/Open offices in Menlo Park, California, one of many meetings that have been taking place lately.
+However, the meeting also established the desktop as COSE's first priority, something that seemed clear at COSE's announcement last month.
+Much of the meeting was apparently given over to the specific role X/Open will play.
+X/Open in turn explained the inner working of its fast track process: a specification that's very clean and well written takes at least six months, changes after review tack on another 10 weeks.
+A normal X/Open process takes 12-18 months.
+Motif is prime for the fast track though it will require minor work integrating it into XPG.
+X/Open will reported to do the XPG integration work on all COSE specifications.
+An X/Open spokesman said COSE now better understands the task, resources and overall timeframe.
+COSE continues to resist any designation as a group or collective appellation as the COSE companies reportedly because it expects to expand.
+More details page five.
+HITACHI MAINFRAME OSF/1 AT LAST— SPARC FRONT END
+Hitachi Data Systems Ltd took its first step into the Unix world last week and launched the OSF/1 operating system for its GX and EX series IBMulators.
+To be an efficient Unix server, the mainframe needs a network co-processor front-end, and despite its agreements with Hewlett-Packard Co on the Precision Architecture RISC, Hitachi has chosen to use a Sun Microsystems Inc Sparc-based machine in this role, fitted with suitable direct channel-attach and Ethernet boards.
+This, when combined with the OSF/1 operating system implementation dubbed HI-OSF/1-M, will be sold as the Osiris Superserver.
+HI-OSF/1-M will run stand-alone, under VM or in a partition alongside MVS on the Hitachi machines.
+The company says that it will not initially be aiming at the unfamiliar Unix community, instead it has set its sights on its existing customers, and IBM mainframe sites, which are increasingly feeling the push towards Unix.
+The company will add Network Data Management Server software in around six months — this will provide network back-up, management and recovery, and will be followed, during the first half of next year, by a database server based on Oracle Corp technology.
+Finally the company is promising transaction processing software at a future, unspecified date.
+The Sparc-based Network Co-Processor costs between $160,000 and $180,000.
+HI-OSF/1-M pricing is based on IBM's licence group methodology and costs between $2,800 and $25,000.
+ICL SETS AN EXAMPLE FOR OTHERS TO FOLLOW IN THE ERA OF OPEN SYSTEMS
+Unlike most of its competitors, ICL Plc has managed to stay in the black for the year ending December 31 despite having experienced a ‘character-forming year for the computer industry worldwide’ and being forced to make major price cuts on its products.
+According to director of finance and business strategy Keith Todd, average margins dropped 6% to 35%, which represents a reduction in gross margins of £109m.
+Although he expects margins to keep on falling during the coming year, he does believe the rate of decline will slow.
+ICL saw pre-tax profits down 38.1% to $38.6m, while turnover increased 32.1% to £2,477.9m.
+These figures include full contributions from Nokia Data and Sorbus as well as £181m from acquisitions made in 1992, such as Technology Plc.
+Operating costs also fell to 23% from 25% of turnover due to‘effective working capital management’, or careful attention to inventory levels and debtor activity.
+Although the company ended the year with net debt of £94m and gearing of 35%, it did generate £240m cash from operations.
+This was used to buy capital equipment, to finance the integration of new acquisitions and to reduce debt levels.
+Chairman and chief executive, Peter Bonfield, expects ICL to stay in the black during the coming year, but concedes that short-term profits may well be hit as the group invests in trying to grow market share, enter new business sectors, and undertake further restructuring to reduce its cost base.
+No profit from mid-range Unix
+For the first time, ICL generated some £1,000m of its revenues in Europe — and more than 50% of its business was done outside the UK — partially as a result of its Nokia Data Systems acquisition.
+Todd said the company is now number one and number two in the Finnish and Scandinavian markets respectively.
+ICL also now generates about half its revenues from higher margin non-hardware sales, and expects this to increase to between 55% and 60% over the next few years.
+While turnover from services increased by 36%, the fastest growing area was managed services, such as facilities management.
+As for open systems, Bonfield claims 85% of all the group's products now come in this category, and the company is now seeking X/Open XPG4 accreditation for its mainframes.
+Bonfield doesn't like the term mainframe any more —‘mainframes are unpopular now’, he said, ‘we call them big servers’ for the open systems market.
+Revenues generated from all Unix sales grew about 28% — the same as last year — and although unit sales of mid-range products increased 76%, the company did not make a profit on mid-range Unix products because of increased R&D spending in that area, Bonfield said.
+SUN OFFERS ONE-STOP SUNSPECTRUM SUPPORT SERVICES FOR HARDWARE, SOFTWARE
+Sun Microsystems Inc has put together a worldwide service and support programme covering hardware, software, network applications and interoperability called SunSpectrum.
+Currently, Sun customers pay service and support charges for each hardware configuration and an additional fee for each peripheral device.
+SunSpectrum will support entire systems, including the monitor, all disk drives, Sbus cards, memory and other related hardware as well as the Solaris operating system and other Sun software.
+It includes licences for on-line and CD-ROM versions of the SunSolve problem and support database.
+The one-stop support shop will offer Platinum, Gold, Silver and Bronze levels of service on a worldwide basis from May 1st.
+Platinum support covers mission critical systems, guarantees 99% server uptime, on-site technical reviews, coaching, training as well as extended traditional support.
+It replace the SunService 2000 scheme introduced last November (UX No 410).
+Gold service will offer personal technical account support, on-site and phone support and extended coverage hours.
+Silver service buys basic on-site and telephone support, whilst the bronze programme includes once a week on-site visits with telephone support for Solaris and other Sun software.
+SUN's NEW TECHNOLOGY BUSINESS WILL OFFER EARLY ACCESS
+Sun Microsystems Inc last week officially launched its Sparc Technology Business (STB) unit to peddle licences to Sun's own silicon and system designs (UX No 429).
+The new profit and loss centre is aimed at driving Sun into areas it hasn't been before like the embedded arena and seeking customers who would create a swot of derivative products.
+The unit, whose vice president of technology sales is Chet Silvestri, a recent emigre from Mips Technologies Inc, is setting up an infrastructure that will eventually be able to offer customers early access to Sun's future microprocessor technology: the specifications, chip development and first tape-outs.
+Immediately, however, early access is not an issue since the only silicon products STB has in its price book are existing products: the MicroSparc chip and something called the Sparc 811, the Sparcstation 2 integer unit.
+If a customer wants to build a Sparc  derivative for internal use, it will cost $1,000,000 up-front and a royalty fee of $5-$10 depending on the application.
+If instead it wants to sell a standard part on the open market, it will be $1.75m up-front plus 10% of the chips' average selling price.
+If, on the other hand, the customer wants rights to both the standard Sun chip and a derivative to sell on the open market, the price tag is $2.5m up-front and 10%.
+For the money, and knowing Sun these list prices will be negotiable, the customer gets the core design database and the key development tools Sun uses internally.
+Leg-up
+Sparc 811 has no customers yet but both Xerox PARC and SMILE, the Sparc Macrocell and Interface Library Elements project inside Europe's Esprit III programme have taken licences to create Tsunami derivatives.
+SMILE intends developing a family of Sparc-based library cells as the basis for a next-generation family of embedded microcontrollers aimed meant to give subscribers such as Philips Semiconductor of Philips Electronics NV and the French firm Matra MHS a leg up.
+STB will also sell Sun system designs hoping to expand indirectly into the portable, X terminal and embedded markets.
+For $375,000 up-front plus a $75 royalty on every system, it will sell the motherboard plans to the Tsunami-based LX and its Classic subset and for $500,000 up-front plus $200 per unit, it will sell the plans to the high-end Viking-based Sparcstation 10.
+Embedded house Force Computers Inc, Campbell, California, which previously worked with the Sparcstation 1 and 2, has signed for the 10.
+Solaris 1.1 and 2.1 will be ported to be embedded architecture along with real-time operating systems.
+Themis Computer Systems Inc, on the other hand, is using the Classic to create the SparcLXE with VMEbus for embedded applications, priced at $4,000 in 100 lot with 8Mb DRAM.
+It runs both Solaris 1.1 and 2.1 and is expected to be the first of a family of products.
+STB is also responsible for operating system-independent platforms so third parties can sell Sun hardware with Novell Inc, real-time or perhaps competing software like Microsoft Corp Windows NT.
+STB anticipates moving both the hardware and software through distributors and master resellers who will integrate them before moving them on to resellers.
+Six-months worth of engineering support (50 hours on the phone) and training is bundled with the products.
+For those requiring more there is an addition a 12-month contract available for $150,000 to silicon customers and $75,000 to systems customers.
+Design services will also be performed on a time and materials basis by STB engineering consultants.
+STB currently houses 30-40 people.
+It should expand to 50-60 by the end of the year.
+Sun and qualified resellers
+IBM SHIPS FIRST PARALLEL SP1
+IBM Corp has shipped its first Rios RISC-based SP1 parallel processor, and the machine has gone to Cornell University, New York State, which has a $12.3m grant from the New York State Urban Development Corp for high-performance computing research.
+Cornell will use part of the funding to buy the $3m 64-processor machine, which is to be expanded to 512 CPUs when that configuration becomes available next year.
+IBM reckons the planned 512-CPU model will do over 100 GFLOPS.
+IBM and Cornell have teamed up to develop scientific and technical applications for the SP1 in fields such as fluid dynamics, plasma physics, ground water and air pollution analysis, drug design, ozone mapping and seismic analysis.
+DATAMAN OFFERS SPARC COMPATIBLE WORKSTATIONS AT HALF SUN LIST PRICE
+Sparc compatible builder, Dataman Computervertriebsges GmbH, Stuttgart, has introduced SuperSparc and microSparc systems, the Solair 10/30 and Solair Classic.
+A clone of Sun Microsystems Inc's Sparcstation 10 model 41 will be released in May.
+The 36MHz Solair 10/30 comes with a 20’ colour monitor, 32Mb RAM, 520Mb disk, floppy drive, four Sbus slots and two Mbus slots.
+It runs SunSoft Inc Solaris 1.1 and Solaris 2.1 will be available from May.
+Priced at £8,700, the company claims it is an incredible half the cost of an equivalent Sun box which retails at £16,300.
+The 50MHz Solair microSparc-based Classic is configured with 16Mb RAM, 520 disk and comes with three Sbus slots.
+It runs both Solaris 1.1 and Solaris 2.1 operating systems and comes with 15’, 17’ or 20’colour monitors.
+The Solair Classic costs £1,800, according to Dataman's Corinna Fechner — again, almost half the price of the Sun Classic, which is £3,650.
+The Solair 10 model 41 will ship in May and is configured as the Sun box, the firm says.
+Clones of Sun's 45MHz models 52 and 54 boxes and 50MHz models 62 and 64 will be introduced as and when Sun ships.
+The systems are assembled by Dataman in Germany.
+The firm says it is able to offer Sun compatible boxes at such low prices  because it buys components as a group and sells through catalogues in Germany, Netherlands, UK, Austria, Switzerland and France.
+In the UK, Dataman claims to have sold 15 Solair 10/30 and Classic boxes and expects to sell 100 by the end of the year — 2,000 across Europe.
+Dataman UK: +44 423 358262.
+Germany +49 711 773131
+ONSITE OFFERS UNIX SVR4.2 IN GERMANY
+Unix software developer Onsite Computer International GmbH, Munich, Germany, has introduced Onsite SVR4.2, an implementation of Unix Systems Laboratories SVR4.2 Destiny desktop operating system for iAPX-86 architectures.
+Onsite enhancements to the desktop operating system include a graphics application set, which incorporates an X-Window application builder; widget libraries; and a windowing korn shell which allows users to develop applications with the look and feel of a Windows-based system.
+Other features include the Moolit toolkit, extensions for the OSF/Motif graphical user interface and an ASCII shell without cryptic editor.
+Onsite will provide localised versions of Onsite SVR4.2 in German, English and French.
+According to the firm, the operating system runs Santa Cruz Operation Inc applications and Oracle and Ingres databases.
+A two-user desktop system is priced at $400 and a multiuser system costs $900.
+Onsite will sell the product through its existing direct and reseller sales channels in Germany, Austria, Switzerland and France.
+The firm claims its sold 390 licences since March and has another 250 in test sites.
+DATAPRO COMPUTERS BUYS ABS, SHORTLANDS FROM TRAFALGAR
+ABS Computers Ltd, formerly the Allied Business Systems small business computer manufacturer, has long looked a vestigial part of the Trafalgar House Plc empire, too small to turn up in the annual report, and giving the impression that top management was unaware of its existence.
+If that was the case, the Hove, Sussex-based company has now come to the boardroom's attention, and it, together with sister software company Shortlands Computing Services Ltd, has been sold to Datapro Computers Ltd of nearby Horsham.
+Datapro, whose name threatens endless confusion with the US market research company of the same name, was very active on the acquisition front three years ago, since when things have been relatively quiet.
+The terms of the deal values the two companies at £5m, and they will operate as subsidiaries from their present locations.
+Datapro specialises in the networked MS-DOS and Macintosh markets, while ABS and Shortlands serve the mid-range Unix market with products such as the  Pharoah asset management system, PCMS patient care management system and Shortlands Financials suite.
+The companies also bring with them maintenance and support billings worth some £3m a year.
+FUTURE OF 88OPEN IN ANY FORM DEPENDS UPON LEVEL OF INTEREST
+Motorola Inc has put its two cents in the unfolding downsizing saga over at 88open (UX No 430).
+According to 88open chairman Chuck Corley, Motorola's man, the consortium's budget is being ‘adjusted’ because the test suites that are its raison d'etre are done and members' have no requirements for more — despite talk of Unix SVR4 ES/MP.
+Corley says a ‘base level of services may continue for a long time’ although 88open's staff has shrunk to four persons, five if you count European director Steve Heath, who is reportedly employed directly by Motorola.
+Corley says the 88open board is now amenable to an 88open spinoff such as president Tom Mace has been contemplating to salvage the consortium's prized testing techniques (UX No 429)— provided 88open's name is not connected with it.
+Should the spinout be attempted (and the new PowerOpen is a likely next customer), some of the 19 people eliminated from 88open could be rehired.
+Corley says the powers that be are assessing the situation to see how many would still be needed.
+Others might continue with 88open itself, their continued employment being dependent on the level of support 88open members will actually continue to need.
+Members have to make that determination themselves based on their strategic planning, an estimate 88open has been hard pressed to get from them even by the beginning of its new fiscal year.
+Certainly however ‘an incremental menu of services’ will be provided to principal members as committed to its the 1994 fiscal funding.
+The organisation's long-term viability, Corley allowed, depends on the continuing level of interest.
+DOWNSIZING ‘IS ACCELERATING,’ SAYS IDC
+Over the next two years, six out of 10 mainframe users in Western Europe will cease to use such machines as their main computing environment.
+And those that do intend to hold onto them will be centred mainly in the traditionally more conservative financial community, and geographically, in Germany.
+According to market researchers International Data Corp, a survey of 500 major corporate users showed that although 39% will continue to use their mainframes in the same way as they always have, a massive 61% want to downsize.
+IDC's definition of downsizing includes those firms either implementing new applications on smaller systems or completely replacing their original mainframes.
+Of those users intending to run new applications on alternative machines, about 26% will implement them on Unix systems, and 16% on proprietary machines.
+This trend will be most  prevalent among larger companies that find downsizing takes a long time due to the complexity of their computing environment.
+Such users will tend to put their mainframes ‘on hold’ rather than totally replace them, preferring to spend cash on smaller systems than increase their mainframe capacity.
+Conversely, some 15% of users intend to completely replace their mainframes with Unix boxes, and 4% with proprietary systems.
+Per Andersen of IDC's European Unix Centre says this trend will shape the industry over the next two years.
+Unix ‘the only real alternative’
+But, he added, he doesn't expect it to happen overnight.
+And he reckons it will be a more common occurrence among medium-sized companies with under 1,000 employees and only one or two main frames than larger organisations, because downsizing is less difficult for them.
+So, IDC's findings indicate that Unix is the most popular alternative to the mainframe, while personal computers linked by local area networks are next in line.
+Andersen reckons this is because companies are using desktop systems more and more.
+As a result, he said, corporate structure is becoming increasingly decentralised, which is forcing people down the downsizing path.
+And, he believes that Unix provides the most powerful alternative to the mainframe — the ‘only real alternative’.
+While he said the AS/400 may well be taken up at existing IBM Corp sites and by medium-sized firms, he feels larger organisations will be less eager in Europe than in the US.
+US companies, he said, generally use the AS/400 as a departmental machine, while in Europe it is more often employed as a central server in medium-sized firms.
+So, all in all, Andersen believes that downsizing is no longer simply a buzz-word, but a concept that users are taking more and more seriously.
+He reckons that ‘the technology of the future will be based on the microprocessors, which started the personal computer revolution.
+More powerful systems will be built as multiprocessing systems, massively parallel systems, and clusters.
+This is a basic change in the principles of how systems are built’.
+Therefore, his ultimate conclusion is: ‘Traditional mainframes are not dead, but they will become a dead end’.
+And what most of the analysis misses is that reports such as this will accelerate the process, persuading those that don't want to downsize that they will soon have little alternative as vendors put mainframe lines onto care and maintenance.
+SAG VERSUS DRDA: THE BATTLE FOR DATABASE INTEROPERABILITY
+by Alison Hawkings
+The rise of complex, enterprise-wide client/server computing strategies has inevitably lead to demands for a single mechanism that will allow users to access information which resides on databases that may be distributed across a range of hardware platforms.
+Two rival mechanisms, IBM Corp's Distributed Relational Architecture and the SQL Access Group's (SAG) SQL specifications, have locked horns in an attempt to resolve the issue and win over the database industry to their respective solutions.
+The problem of accessing information on databases architectures developed and marketed different suppliers — or, more simply, interoperability — has arisen because there is no standard topology upon which databases are built.
+IBM has its own proprietary relational and hierarchical databases.
+Unix vendors like Oracle Corp, Informix Inc, Ingres and Sybase Inc offer more open relational database architectures.
+The ubiquity of Unix means they run on a wide range of platforms, but there is still only a minimal amount of interoperability between them.
+Common
+The most common method of both accessing information in relational databases is SQL (Standard Query Language).
+IBM developed SQL, a non-procedural data definition language, twenty years ago.
+It was adopted by the American National Standards Institute (ANSI) becoming a simple data access method for all databases — a common language which provides users with the ability to interrogate relational databases from a variety of vendors.
+However, the ANSI SQL standard is limited.
+Most vendors adhere to parts of the ANSI standard but their implementations aren't identical.
+Each database developer tailors its own SQL products to increase the functionality it is able to offer, and therefore gain a competitive edge over rival suppliers.
+For example, there are different types of triggers that edit data, perform calculations and enforce security in all databases.
+These semantic differences have established similar, but distinct SQL dialects.
+Gateways
+To try and solve some of these problems, database developers — plus third party independent software vendors — have produced gateway products.
+A gateway acts as an interpreter, translating SQL dialects from one database environment to another.
+These are normally limited to relational databases.
+Some independent software vendors have gone further.
+Metaphor Computer Systems Inc, Red Brick Systems Inc, Information Builders Inc and Seachange Ltd have added relational and non-relational database access to the gateway.
+Information Builders' EDA/SQL product enables both IBM SQL-based databases and IBM hierarchical databases to exchange information.
+These solutions have been successful in providing users with the ability to fire off queries to multiple databases.
+For users, they are still expensive add-on features and come with their own set of integration problems.
+For this reason, the database community is looking for a standard means that'll allow users to access and exchange data across different database schemas.
+The problem is that different vendors are proposing a variety of opposing solutions.
+Contender
+One contender is the SQL Access Group, which was set up by database vendors to standardise on one SQL dialect.
+Members include Sybase, Oracle, Borland International, Cincom Systems Inc and Informix Software.
+SAG bases its dialect on ANSI's RDA (remote data access) specification, which defines the formats and protocols which enable different databases and related tools to interoperate.
+So far, SAG has begun development on definition access control and authentication; networking extensions; code types for SQL data types and definitions for SQL objects, which include things like database schemas and tables.
+One achievement has been the establishment of a Call Level Interface (CLI) mechanism, on which Microsoft Corp and Borland International have based their respective ODBS (Open Database Connectivity) and IDAPI application programming interfaces.
+Although SAG has taken the technical issues of SQL interoperability a stage further, the organisation hasn't had much success in getting the specifications out of the copy book and into vendors' products.
+According to UK database analyst Martin Butler, disagreement amongst SAG members over common development goals and the establishment of labyrinth committee structure has laden the organisation with  bureaucracy .
+He says ‘SAG efforts are frozen, it can't decide which way to go and doesn't look like it'll ever get its act together.’
+Database watchers believe SAG's time is running out and its continued existence depends upon its ability to deliver specifications this summer.
+If, as some database vendors believe, SAG doesn't fulfill its promises then suppliers are likely to turn IBM's alternative DRDA solution.
+IBM introduced DRDA in 1990 to provide data access and information exchange between its own databases including DB/2, OS/2, OS/400, SQL/DS and DB2/6000.
+It says it will extend the mechanism to support other database platforms in future.
+DRDA is based on the DB/2 SQL dialect.
+It supports each database as a client, translating other SQL dialects into DB/2 SQL.
+In effect, DRDA neutralises different SQL dialects and enables each client to access data from other IBM databases.
+DRDA also makes information access, data modification and application development more manageable, the company claims.
+For example, tables located in multiple DB/2 databases on different platforms can be modified through update, delete or insert SQL statements, without issuing multiple requests to each remote system.
+DRDA also supports two-phase commit to ensure data integrity.
+The database where the request originates is responsible for co-ordinating the transaction among its different participants.
+It checks calls and recovers them in case of a failure and passes the information back to the initiating program.
+DRDA also includes Unix support via IBM's recently introduced AIX relational database, DB2/600 (UX No 428), for the RS/6000.
+DB2/6000 is claimed to offer all the functions of an autonomous relational server, supporting AIX, OS/2, MS-DOS and Windows systems as clients, and provides the missing Unix link in the DRDA equation.
+The database can also be integrated with Information Warehouse, the CICS/6000 transaction processing monitor and supports X/Open's XA transaction processing application programming interface.
+DB2/6000 operates as a DRDA client — remote units of work can be issued against any DRDA database which includes similar support.
+DRDA integrates with IBM's connection service, DDCS/6000, software that provides RS/6000 applications with access to enterprise-wide systems.
+Despite its proprietary stigma DRDA is winning acolytes in the Unix database community.
+More than 20 suppliers, including Sybase, Oracle, Informix, Cincom have licenced DRDA.
+Informix is the first with a DRDA product, it introduced Informix-Gateway for DRDA last month (UX No 428).
+The gateway is Unix-based and provides links to IBM databases.
+Oracle will launch a DRDA SQL-to-Oracle SQL dialect converter — SQL/Connect — later this year and Sybase will provide DRDA support via its SQL Server System 10 (UX No 430).
+These suppliers — all SQL Access Group members — say that IBM's point blank refusal to join SAG will ensure DRDA becomes a de facto standard.
+SAG, as yet, has failed to deliver its interoperability solution, whilst IBM promises to support third party databases on non-IBM platforms.
+Which is best?
+According to Butler, SAG specifications are technically much better because SAG's SQL uses a common subset of the language.
+The client controls the translation of the request and can directly query data from the server.
+This cuts down processing and response time of calls.
+However, in a DRDA environment, client requests have to be translated at the server, which increases system overhead and makes database access less flexible.
+DRDA is also slower at processing multiple calls because it uses IBM's own synchronous networking protocol, LU6.2.
+Each call sent out by a client has to wait for a response before another is sent.
+SAG incorporates asynchronous protocols, which enables users to send multiple calls to different databases simultaneously.
+The integration of DRDA into third party products will also be problematic, according to Informix UK market manager, Tony Lacy-Thompson.
+DRDA application programming interfaces are more complex to write to than SAG APIs, he says.
+IBM DB/2 SQL dialects are difficult to link into Unix-based databases and each vendor has to adapt its respective database and gateway products to talk to DB/2 protocols.
+Although SAG gets top marks for technical merit — it is also an independent standards organisation — its doesn't have a complete solution and there is no documentation yet available on what it has put together.
+If DRDA lacks technical finesse, it has fulfilled IBM's own development goals and is already available for third parties to implement.
+Industry watchers say if SAG survives and successfully markets completed specifications by the summer, then the two solutions can co-exist.
+IBM and SAG would likely develop interoperability between their respective mechanisms.
+The more likely scenario is that support for SAG will wane, funding from members will dry up and DRDA will become a de facto standard by default.
+COMMON OPEN SOFTWARE ENVIRONMENT
+NCR Corp is being cautious about giving COSE its endorsement.
+On the surface it has no problem with it — the technologies at issue NCR either has or is moving towards — but it wants more information before it lends any support.
+Everything, it says, is not exactly crystal clear.
+For instance, it would like to know whether an endorsing company has to adopt everything COSE ratifies or whether it can pick and choose.
+It also wants to know what the position of Unix International, which it strongly supports, is going to be.
+Then too it would like COSE to indicate exactly what it would like a company such as NCR to say.
+It'll be a few weeks and several meetings before it has established an official position.
+It has to pick its way through the minefield of NT and Unix and estimate whether COSE is bigger than just the desktop.
+How cosy (or cozy) is COSE?
+Not yet a month old and apparently there is concern in some quarters of the industry that Hewlett-Packard Co and IBM Corp (Sun Microsystems Inc to a lesser extent) may kidnap the promised platform and twist it to their own advantage.
+HP and IBM seem to be taking a vanguard position in this thing and are pretty cosy themselves (UX No 430).
+There are apparently lots of meetings going on, COSE having been divided into technology, product management and business sectors.
+However, there are tales of not everyone knowing what meetings are scheduled or being asked along.
+It could be altogether innocent but suspicions have been raised.
+Companies outside COSE's inner circle also fret about how it's selecting technologies.
+Members of Unix International have approached it about UI trying to get a piece of the COSE requirement process.
+Reportedly it's having informal discussions with the COSE crew.
+If there is a twist to the plot, then it is nowhere more apparent than at the window management level where, it seems, Hewlett-Packard Co is determined to make its Visual User Environment stick.
+We know HP and IBM Corp are working on an early sample version of COSE code, which will include interface widgets, and HP's VUE look and feel dominated the COSE desktop shown at the  original announcement (UX No 428).
+The VUE desktop management system lost out to IXI Ltd ‘s X.desktop manager in the failed ACE initiative and HP is said to be determined not to lose this time around.
+It will be offering a COSE-compliant version of VUE to the other COSE founders.
+Indeed, SunSoft Inc is said to have taken VUE's virtual workspace — though not the icons and bars themselves — and is thought to have hired Motif experts from the Open Software Foundation and elsewhere to help it build a COSE desktop toolkit.
+At least one other COSE firm is worried that with HP having the ear of the larger COSE companies, its technology won't get a look in.
+It believes that unless the final COSE specification is very tight, and goes right down to things like icons and bars, then there is certain to be a wide variety of very different COSE interfaces on the market.
+Trying to stay ahead of the game now that Unix System Labs is soon to have the weight of Novell Inc behind it, Santa Cruz Operation Inc — in conjunction with its IXI Ltd division — says it will begin to offer a fully integrated Common Open Software Environment platform as soon as possible, something it believes few outfits have the resources to do.
+It'll obviously buy-in many ready-made COSE components — including networking and the Open Software Foundation's distributed computing environment mdash; and use the interfaces that'll be made available through the COSE specification.
+As with its intended role in the failed ACE initiative, SCO says it will do all the required integration work to become a one-stop COSE shop.
+Products — announcements are promised over the next few months — will ship direct and to OEM customers.
+SCO doesn't admit to be working on a COSE version of Microsoft Corp's Windows NT (UX No 429), but says it is technically possible to make NT look like a COSE implementation.
+SunSoft Inc currently has three different toolkits for building user interfaces on its list.
+Development of the old News toolkit has been frozen ahead of its metamorphosis into Adobe Systems’ Display PostScript.
+Development of XView, the SunView-to-Open Windows transition toolkit, has been halted, although the firm will continue to bug-fix and support it.
+Likewise, further development of Open Look as it is presently constituted is being discontinued, although there will be a new release in the Autumn incorporating the COSE specifications and X-Windows X11R5.
+DESKTOP NT ‘AT $180’— NEEDS 16Mb, SHIPS NOW PROMISED BY AUGUST
+Although Bill Gates has apparently firmed up prices for Microsoft Corp's Windows NT operating system, they still aren't finalised, according to the company.
+The first ship date has moved off into the future again, and ‘no later than’ August 1 is the new target.
+According to Gates, in comments reported in PC Week, large corporate customers looking to upgrade from Windows 3 to NT will be able to do so for less than $100 per desktop — the upgrade price for Windows users will be $300, which translates to $180 ‘on the street’ and less than ‘$100 per system’after deep volume discounts, Gates told a meeting of the Corporate Association of Microcomputer Professionals in Chicago.
+OS/2 users will be offered ‘extremely low prices.’
+NT's suggested retail price for new — desktop — users will be $500.
+More bad news is that memory requirements are continuing to soar — Gates last week recommended that NT users install 16Mb on their desktop machines, even though the documentation may specify 12Mb — and no more than about 10% of 80486 machines have 16Mb.
+Servers could require more than 16Mb, he added.
+Initial NT buyers will need to have specific applications in mind for it —‘If you don't know why you want NT, you probably don't want NT,’ he said.
+LIBRARIES OR SOURCE FOR WINDOWS ON UNIX
+On the subject of a ‘Windows layer’ for Unix, the Microsoft Corp chairman said that the company is considering either libraries that would enable developers to recompile Windows software, or source-code licences that would allow third parties create and sell run-time versions of Windows for Unix.
+It's concept also used in the tool code-named Wings, formerly Alar, which recompiles Windows applications to run on the Macintosh.
+The strategy is to get developers to write just to the Windows programming interface, even for alternative operating systems, such as Unix and System 7.
+IBM-MOTOROLA MULTICHIP MODULE FOR PARALLEL LYNX
+The Center for High Performance Computing, a research and development entity based at Worcester Polytechnic Institute, has come to the rescue of the Motorola Inc 88000 RISC, commissioning a joint effort with the Military Products Operation, Semiconductor Products Sector of Motorola and the Technology Products division of International Business Machines Corp to create a four-processor multichip module based on Motorola's 88110-88410-62110 chip set and IBM's C-4 manufacturing and multichip module technology for use in its planned new Lynx massively parallel real-time multiprocessor and for future commercial operations.
+The Lynx is being designed to fit on a 6’ by 9’circuit board for embedded and mobile real-time distributed applications, and the Center plans to deliver a small number of the four-processor Lynxes to the Defense Advanced Research Projects Agency in the fourth quarter of 1993 under a US Defense Department development programme.
+IBM will prepare the prototype of the multichip module.
+ALSYS OFFERS ADA FOR SOLARIS
+Alsys Inc, Burlington, Massachusetts, now owned by Thomson-CSF SA, has a series of Ada software development products supporting the Solaris 2X operating environment from SunSoft Inc.
+They include Alsys' AdaWorld for native development on Sparc-based computers and RISCAda line for real-time embedded system development hosted on Sparc-based computers, targeting the Motorola 68000 family.
+Alsys will upgrade its entire line of Sparc-based cross compilers and its 80386 Unix AdaWorld system to run under Solaris 2.
+X later this year.
+AdaWorld for Solaris 2.1 for Sparc is available immediately at $7,500 per user.
+RISCAda/Sparc is available 30 days after receipt of order and is from $6,000 to $11,500, depending on configuration.
+The RISCAda/Sparcx68K development system is from $17,500 to $35,000.
+NEWS ROUNDUP
+People
+After a three month search DEC UK Ltd has appointed Christopher Conway as UK managing director and UK-Ireland territory manager: Conway comes from IBM UK Ltd where he was director of UK banking and financial services — Geoff Shingles, who resigned as managing director at the end of 1992, remains chairman.
+Tektronix Inc has tapped Carl Neun, who resigned as chief financial officer of Conner Peripherals Inc, to take the same post at Tektronix.
+Sybase Inc has picked up Francois Stieger to run its Gain Technology operation in Europe.
+He did wonders for Oracle Corp's revenues when he ran its European arm.
+The Microprocessor Report expects Bob Miller to be replaced at Mips Technologies Inc.
+He apparently retains his seat on Silicon Graphics Inc's board and his post as head of Mips' architecture committee but it seems he's off with a new venture-backed workstation company called NetPower Systems Inc.
+He wouldn't discuss product plans but the newsletter thinks it will market low-cost Mips workstations made by OEM suppliers.
+Ultra Network Technologies Inc's vice president of sales Michael Paul has been named president and chief executive officer of the company following the departure of the incumbent Ray Fortune.
+Paul had previously been vice president, domestic sales at the former Mips Computer Systems Inc.
+Ing C Olivetti & Co SpA has appointed Acorn Computer founder, Dr Andrew Hopper as director of corporate research.
+He will continue to head up Olivetti Research Ltd's UK labs in Cambridge mdash; which he also helped to set up — but will also direct research at the firm's Pozzuoli facility in southern Italy, where he replaces Piercarlo Ravasio.
+He reports to Lucio Pinto, executive vice president, technology strategy and corporate research.
+Sunnyvale, California-based ParcPlace Systems Inc has appointed Richard Dym, formerly general manager of Autodesk's multimedia division, as its vice president, marketing.
+The president of Edison, New Jersey-based Verbex Voice Systems Inc has skedaddled so the board has picked chief operating officer Larry Dooling, former USL chief, to replace him.
+Lisa Drake, a former Sun Microsystems Inc senior product manager responsible for defining the company's 1995 desktop products, has joined Solbourne Computer Inc as director of marketing, reporting to president Carl Herrmann.
+Unix System Labs Europe has appointed Julian Lomberg to the post of business development manager for northern Europe.
+The Santa Cruz Operation has named Michael Skelton vice president, marketing, the Americas and Northeast Asia, a title that includes the US and Canada.
+He was vice president and general manager at TAB Products Inc's Laser-Optic Filing Systems Division.
+Jeffrey Dunn has joined Kubota Pacific Computer Inc as vice president, marketing reporting to chairman and chief executive officer, Ben Wegbreit.
+He has been vice president, sales at Cygnet Systems Inc, the optical jukebox house.
+nCube has named Jerry Sales to the new position of senior vice president, worldwide sales.
+He had been with Gene Amdahl's Andor America Inc.
+After 20 years at Data General Corp, where he was most recently director of Unix Development and acting director of the Database Engineering unit at the company's Research Triangle Park, North Carolina base, John Pilat has jumped ship to become vice-president of Redwood Shores-based Oracle Corp's Hewlett-Packard Products Division.
+Meanwhile, Robert Hughes joins Data General Corp as vice president worldwide sales and service from Bachman Information Systems.
+And Stephen Gardner, formerly president of Bull HN Information Systems' CICS-on-Unix Integris unit, has gone to Data General as vice president, Aviion marketing.
+Legato Systems Inc has promoted co-founder Rusty Sandberg, its manager of Unix product development, to general manager of the Unix Product Group, responsible for developing and marketing company's line of Unix products.
+Events
+A group of software developers are getting together to create a demo CD/ROM of their software for SCO Forum this summer.
+Interested parties should contact George Pajari of Faximum at +1 604 925-3600.
+The Open Software Foundation says vendors have registered 22 platforms for the Distributed Computing Environment Interoperability Festival it is hosting between April 12-30th at its Cambridge, Massachusetts headquarters.
+Vendors which successfully complete DCE validation testing will be  eligible for OSF's Challenge ‘93 event on May 25 and 26 at which all kinds of OSF technology-based solutions will be on show.
+The Comdex people are putting together a show for South America as a joint venture with local operation.
+Comdex/Sucesu is set for the Parque Anhembi and Center Norte in Sao Paulo, Brazil August 23-27 and expects 450 exhibitors and 135,000 attendees.
+The Corum Conference people are running a series of seminars on both the East and West Coasts on how to value, prepare and sell your software company entitled ‘Selling Up, Selling Out.’
+It costs $200 to attend.
+(206) 455-8281
+Dataquest will hold a series of exhibitions in Central and Eastern Europe this June.
+The shows will take place at the Duna InterContinental in Budapest on June 15, the Atrium in Prague on June 18, and at the Marriot in Warsaw on 22 June.
+The third Usenix MACH Symposium will be held at the El Dorado Hotel in Santa Fe, New Mexico April 19-21.
+Object Expo will reprise at the New York Hilton on April 19-23.
+Meanwhile, Object Management Group's next Object World is set for San Francisco on June 14-17 at the Moscone Center.
+The X Business Group is going to throw what it calls the first industry conference for X Windows, GUE and client/server technology June 7-8, just before Xhibition, at the Fairmont Hotel in San Jose, California.
+The Open Software Foundation will be using the Ingres database to demonstrate application portability and interoperability on OSF technologies at its Challenge ‘93 exhibition in Boston, in May.
+The Ingres Windows4GL is now available under SunSoft Inc Solaris 2.1 and the Open Look graphical user interface.
+Europe
+In the face of falling demand for its Intel Corp i860 RISC compilers, The Portland Group, Wilsonville, Oregon, has shut its European office in Reading, Berkshire, which had been run down to two employees.
+Moscow-based Steepler has signed an agreement with Hewlett-Packard Co under which it will handle distribution of HP workstations — the Palo Alto firm's first reseller agreement for products other than its PCs.
+Meanwhile, Elogar, one of the first suppliers of Silicon Graphics Inc workstations to the Russian market, has ceased distribution of Wavefront software.
+Instead it has switched to SoftImage.
+Wavefront will be distributed by Steepler.
+Amdahl Corp, HaL Computer Systems and Encore Computer Corp have each signed for Micro Focus plc's Cobol/2 compiler: the UK, Newbury-based firm has also signed Result Computer Systems, Croatia, to distribute its products to dealers and third parties in the former Yugoslavia and and TeleLogic, Budapest, to peddle its wares in Hungary.
+DEC has returned to the Technology Plc fold by re-appointing the UK, Warrington-based company as a value-added reseller for predominantly desktop and server products.
+DEC withdrew its business, when Technology was acquired by ICL Plc in July 1992.
+Greenbelt, Maryland-based Empress Software Inc has signed Bucharest developer and consultancy Q'Bit, to distribute its products in Romania.
+Unilever, the Anglo-Dutch multinational company, has standardised on Lotus Development Corp's Lotus Notes software as its company-wide form for computer conferencing: Lotus will now have up to 30,000 Unilever Lotus Notes users worldwide.
+PENTIUM — DEFINITELY ‘CISC, NOT RISC’, BUT FASTER THAN IBM, SUN CHIPS ON INTEGERS
+The Microprocessor Report has put together a table of results comparing the performance of Intel Corp's new Pentium CPU against the leading RISC suppliers.
+It concludes that Pentium is not, as Intel would have us believe, a RISC in CISC clothing.
+The fact is that ‘the complexity of the iAPX-86 architecture — the variable length instructions, complex instruction formats, multifunction instructions, and so forth— has a pervasive effect on the chip's design.
+It is accurate to say that the 80486 and Pentium processors use many of the same implementation techniques as RISC processors, but there is nothing in either processor that can be called a ‘RISC integer unit’ without distorting the term beyond any usefulness.’
+Although Pentium has roughly the same performance as Mips Technologies Inc's R4000, a mid-range RISC processor, Pentium ‘is going into production more than a year after the R4000, and it has about 2.5 times as many transistors, even though the caches are the same size.’
+The Report believes Pentium will cost ‘substantially’ more than the R4000.
+On the benchmarks themselves, Pentium outstrips IBM Corp and Sun Microsystems Inc's fastest processors on integer performance, and is closing the gap with the RISC chips on floating point, although all are  still comfortably ahead of the Intel processor with the exception of SuperSparc, which has only a 10% advantage over Pentium.
+Meanwhile, RISC Management newsletter has produced a table which compares the integer performance of various CPUs against the clock speed at which they are driven.
+It notes that if Intel Corp were to figure out how to drive 3.8m transistors really fast, Pentium would look pretty good.
+Frequency adjusted performance 
+ORACLE7 UP ON APPLE A/UX
+Oracle Corp says that its Oracle7 Co-operative Server database is now up on Apple Computer Inc's Workgroup Server 95 running A/UX, Apple's implementation of Unix, adding that the product is the result of over one year of joint development work between Oracle and Apple.
+Several more products are planned to follow over the next 18 months, including software engineering tools.
+The production release of Oracle7 for A/UX is out next month and is from $4,000.
+DOCUMENT COMPANIES GANG-UP
+The consortium du jour is DIM, the Document Image Management Consortium, founded last week at the AIIM show in Chicago.
+Members include Sun, Xerox Imaging Systems, Access Graphics, Excalibur technologies, Frame, Fujitsu Computer Products of America and Laser Magnetic Storage International.
+The idea is to jointly develop a complete DIM solution for converting, storing, retrieving, editing and distributing documents in the Unix environment.
+The DIM system demonstrated run on a Sparc and consists of Xerox's ScanWorX OCR software, Fujitsu's M3096G scanner, Frame's publishing software, Excalibur's document imaging software and Laser Magnetics's optical storage.
+Access Graphics will distribute it.
+USL TAKES BRISTOL XPRINTER FOR SVR4.2
+As suspected (UX No 430), Unix System Labs has licensed Bristol Technology's Xprinter software for SVR4.2.
+Xprinter provides a single Xlib-based X Windows imaging API for software developers so they can add printer support without learning PostScript or PCL commands.
+Software Developers Kits will be licensed as source code or binary through USL, binary through its OEMs and directly as either from Bristol.
+DIT HAS NEW FILE SWAPPING SOFTWARE
+New Mexico-based Digital Instrumentation Technology has announced TransferPro, software that lets users do file operations between workstations, PCs and Macs like copying, moving, deleting, renaming and creating.
+It is a non-network solution and reportedly allows Unix systems to read and write both MS-DOS and Mac data seven times faster than Sun's PC/NFS.
+It can also transfer files to SCSI devices.
+The software is available for Solaris 2.1 and Silicon Graphics/Motif priced at $350 for single users and $850 for a floating licence.
+It will be sold through distributors and retail operations.
+CHANNEL SEMINAR AT RESELLER SHOW
+There's a separate Channel Marketing Seminar attached to the new Unix Reseller Show in Dallas that's set for May 3, the day before the expo kicks off.
+Topics include: ‘Why Unix Vendors Must Court and Support Resellers,’‘Tuning into the Unix Channel,’‘Selling Unix Solutions in the International Marketplace,’‘Closing Open Systems Sales’ and an intensive ‘Trade Show Advantage’workshop.
+Come one, come all.
+One of our editors is speaking.
++1 609 987 9400
+HUNGARY SEEKS SOCIAL SECURITY SYSTEM
+The Hungarian government is inviting tenders for a project to computerise the social security system.
+The project will be funded by the World Bank which is to provide loans totalling $130m over the next four to six years to pay for hardware, software, consultancy and data entry.
+Front runners for this project are thought to be ICL Plc, Data General Corp and Hewlett-Packard Co.
+The Hungarian tax office is also expected to invite bids shortly for the supply of a mainframe-sized central system and 20 large Unix servers destined for regional offices along with related peripherals.
+ACE ADDS T9000 COMPILERS
+Associated Computer Experts BV in Amsterdam has announced the extension of its Expert compiler range to include T9000 compilers for K&R, C, ANSI-C, Fortran-77, Modula-2 and Pascal.
+A suite of general purpose program development tools is also available.
+All Expert compilers share the same intermediate code which is processed by a common global optimiser.
+The compiler has an industry standard COFF T9000 assembler and COFF linkage editor and there is integrated debug support for source level and assembly level debugging.
+WHITE CROSS WILL MOVE TO T9000
+Bracknell, Berkshire-based White Cross Systems Ltd says it plans to develop a new generation of parallel database servers based on the T9000 Transputer for next year.
+The company already uses Inmos Ltd's T425 processors in its 9010 Database Server and reckons that the T9000 will improve performance levels ten-fold.
+WIND RIVER PUTS VXWORKS ON INTEL
+Wind River Systems Inc, Alameda, California, is porting its VxWorks software development environment to Intel Corp's iAPX-86 family.
+It'll allow embedded systems designers to write applications on PCs or under Unix.
+Prices for VxWorks on Intel-based workstations start at $23,500 for a 10-user licence in June, MS-DOS editions are due in September at $13,500.
+MINIGRAMS
+ Hewlett-Packard Co has reduced prices on the six members of its existing HP700/RX X-Windows station series by between $500 an $1,000 and introduced a new 17″ colour 17Cs monitor with 4Mb RAM at $4,700.
+Matsushita Electric Industrial Co and Sybase Inc's Gain Technology have developed an object-oriented application development environment for designing multimedia presentation systems, called Activepage.
+Santa Cruz Operation Inc is to market Israeli firm Magic Software Enterprises Inc's code-free rapid application development environment: Magic has offices in Canada, France, UK and the US — +1 714 250 1718.
+IXI Corp in the US says it gave away some 500 copies of its Motif toolkit for Sun workstations during the recent SunSoft Inc developer's conference.
+The European market for X-Windows-based technologies was worth $281m late year, according to a new report by the X Business Group Inc, Fremont, California.
+Sales of X terminals accounted for $155.2m, or 55% of the total.
+$49.8m (18%) was swallowed up by channel margins, interface development tools accounted for $39.2m (14%), services $21.7m (8%), desktop environments and graphical user interfaces $9.23m (3%) and personal computer X servers $6.8m (2%).
+The report costs $2,000. +1 510 226 1075.
+What with all the forms to fill out and papers to file, it looks like the Novell Inc/Unix System Labs acquisition won't be formally closed until June, two or three months later than they originally figured: they should have the required stockholders meeting scheduled in the next 30 days.
+Star Technologies Inc says the Michelangelo Virus can be transmitted to the Santa Cruz Operation Inc Unix boot sector if an infected MS-DOS disk is booted from the floppy drive: it's got a disinfectant.
++1 714 768–6460
+Ing C Olivetti & Co SpA was showing off a prototype workstation built around the DEC Alpha AXP RISC and running Microsoft Corp Windows NT at the Hannover CeBit show a couple of weeks ago.
+In Europe, the SunSoft Inc Solaris x86 desktop is priced at £600, the workgroup server version is £1,525, whilst the enterprise server starts at £4,600.
+Dansk Data Electronik A/S, Herlev, Denmark, is claiming a world record SPECrate—int92 performance of 8,383 for its eight-way Mips R4000-based Supermax Multiserver system.
+The Microprocessor Report claims Motorola Inc, which just got together with SunSoft Inc to put Solaris on the PowerPC, will likely pursue a Microsoft Corp Windows NT port to attract other customers besides those it's already got.
+Taligent Inc, now a year old, has 260 employees.
+Its charter calls for supporting high-volume desktop hardware platforms, initially Intel Corp iAPX-86 and the PowerPC.
+Version 2.0 of Santa Clara, California-based Mercury Interactive Corp's XRunner software testing system is now available.
+The new release creates tests that automatically adapt to changes in a graphical user interface such as buttons and menus moving or being re-sized.
+Amdahl has laid off another 150 manufacturing employees in Sunnyvale, and word in the Valley is that more may go in May.
+Smallworld Systems Ltd, the Cambridge, UK firm that specialises in geographical information systems, has opened an office in Orlando, Florida.
++1 312 482 9431.
+Why did Hitachi Data Systems Ltd choose the name Osiris for its new mainframe Unix combination (see front page)?
+In the clearest indication possible that it regards the MVS mainframe as doomed, it has produced a colourful flyer that explains that Osiris was an ancient Egyptian king who after painful adventures became a god, and chose to act as an intermediary between the living and the dead, looking after the souls of the departed and giving the living the hope of eternal happiness in the other world; ‘In providing a quality solution which integrates open systems with existing System 370 and 390 environments,’ the company says, ‘HDS provides the best of both worlds’(the living and the dead, that is).
+Reportedly AT&T was anxious to see the back of NCR Corp's ex-CEO Gil Williamson because he just wasn't user-friendly enough, not a motivator.
+On the other hand, the new guy Jerry Stead likes to be called ‘Coach.’
+Looks like there really was a shortfall in  attendance at Uniforum (UX No 429).
+Their list peddlers are hawking the names of 21,000 attendees, the lists with exhibitors excluded.
+A far cry from the 40,000 they were promising.
+SunSoft Inc is moving 30 of its software engineers out of its Massachusetts operation and sending them to Sun's Colorado Springs site where they do R&D, design of high-performance workstations and other special projects.
+The crew is expected to be involved in networking technologies and other system software stuff.
+Menlo Park, California-based Objectivity Inc says its shipped over 50,000 development and runtime licences for Objectivity/DB and says there are 20 Objectivity applications in production.
+Qualix Group Inc, San Mateo, California, has announced KeyIt, a $200 software product that will let Sparc users create  hot-key activated macro commands that correspond to any sequence of keyboard or mouse inputs.
+It is a companion to SayIt which builds  voice-activated macros .
+Seems IBM and Microsoft Inc among others have managed to get themselves knocked off the US Government's GSA list for not providing enough pricing information — everything will have to be bid.
+Intergraph Corp last week told Wall Street to expect first-quarter losses somewhere between $6.5m and $7.5m on revenues of $280m-$285m, below expectations.
+DEC is expecting to have conversations with friends at Hewlett-Packard Co in the next few weeks about its participation in COSE.
+Like NCR, it needs to collect more data on what they're really doing, figure out the structure and find out how COSE would want DEC to participate.
+Also like NCR, if this thing is primarily concerned with the desktop, DEC wouldn't be very interested.
+Digital Equipment Corp will have revamped its proprietary transaction processing monitor, ACMS, for Alpha AXP architecture running OSF/1 by the beginning of next year — support for Alpha OpenVMS, Windows NT and X/Open's XA transaction processing interface will follow.
+Ing C Olivetti & Co SpA was showing off a prototype workstation built around the DEC Alpha AXP RISC and running Microsoft Windows NT at the Hannover CeBit show a couple of weeks ago.
+In Europe, the SunSoft Inc Solaris x86 desktop is priced at £600, the workgroup server version is £1,525, whilst the enterprise server starts at £4,600.
+As expected (UX No 410, 430), Sybase Inc has begun shipping OmniSQL Gateway, its transparent data access software for distributed database environments: it is priced from $2,500 to $102,500.
+More Sybase System 10 announcements follow on April 27.
+A newcomer to the firm's executive team notes that the company has increased staff by 700 since June.
+Revenues are up 65% and profits by 150%.
+Sun Microsystems Inc CEO Scott McNealy declined to comment on rumours IBM is interested in his company ‘no matter how silly or accurate they are.’
+Personally we don't put much stock in them but you never know.
+Sparc International is policing its Sparc trademark privileges: it has sent hierarchical storage start-up Hiarc Inc a cease and desist notice to stop using the name Sparcus on the software that transparently manages Unix files.
+Hiarc has apparently agreed and is arranging a temporary licence until it changes the name, a move Sparc International would probably insist on since Hiarc wants to move the software to non-Sparc platforms.
+Whatever turns you on…
+Microsoft Corp's UK flackery is putting it about that Inside Windows NT by Helen Custer has sold more copies than Madonna's weighty ‘Sex’ tome.

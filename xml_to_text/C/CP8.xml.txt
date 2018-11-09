@@ -1,0 +1,369 @@
+
+
+NEC ENTERS PARALLEL MARKET WITH MIPS RISC BOX…
+NEC Corp has entered the parallel processor business with launch in Japan of the Cenju-3, built from eight to 256 MIPS Technologies Inc VR4400 RISC microprocessors.
+The machine, which comes in seven standard configurations, was  originally developed for in-house scientific research.
+The company claims peak performance of 12.8 GFLOPS, and says the machine offers a three-fold price-performance improvement over its flagship SX-3R Series supercomputers.
+The 64-bit VR4400 used is clocked at 75MHz and each node has 1Mb secondary cache and is rated at 50 MFLOPS.
+The machine implements a parallel distributed shared memory architecture and each node is connected to several others via a multi-stage interconnection network.
+It is front-ended by a NEC EWS 4800 R-series RISC workstation running UX/V, the Japanese language version of Unix System V.4.
+The firm has  parallelising compilers for Fortran and C. The Cenju-3 is offered at a monthly rental of $11,130 for the eight processor model, $271,360 for top-of-the-line 256-CPU model.
+First ships in Japan are set for late December, with the machine being launched on the international market in June 1994.
+NEC hopes to ship 30 of the things over three years, and research institutes are the target market.
+…
+AS IBM SHIPS ITS FIRST 64-CPU SP1 TO CORNELL UNIVERSITY
+IBM Corp has shipped its first Rios RISC-based SP1 parallel processor, and the machine has gone to Cornell University, New York State, which has a $12.3m grant from the New York State Urban Development Corp for high-performance computing research.
+Cornell will use part of the funding to buy the $3m 64-processor machine, which is to be expanded to 512 CPUs when that configuration becomes available next year.
+IBM reckons the planned 512-CPU model will do over 100 GFLOPS.
+IBM and Cornell have teamed up to develop scientific and technical applications for the SP1 in fields such as fluid dynamics, plasma physics, ground water and air pollution analysis, drug design, ozone mapping and seismic analysis.
+TANDON, IN CHAPTER 11, SOURCES HARDWARE FROM GERMAN FIRM
+Moorpark, California-based TSL Holdings Inc, the new name for the holding company for Tandon Corp, is now buying in personal computers.
+It has gone to German manufacturer ASI GmbH, and ASI will now supply products to the Tandon sales and marketing subsidiaries in Europe.
+ASI's managing director, Winfried Hoffman will become president and chief operating officer of TSL Holdings, reporting to Jugi Tandon, chairman and chief executive.
+TSL filed Chapter 11 bankruptcy papers last month (CI No 2,123) with more than $108m in total liabilities reported as of September 1992.
+Trade creditors, including Western Digital Corp, Seagate Technology Inc, Microsoft Corp, IBM Corp, Conner Peripherals Inc and Quantum Corp, have been operating as an unofficial creditors' committee and are expected to become members of the Official Committee.
+TSL Holdings reached pre-negotiated agreement in principle with some of its major creditors to restructure its debt in a deal expected to result in an exchange of existing debt for a combination of new equity and long-term debt, and the agreement was reached in recognition that it would make the Chapter 11 filing; Europe accounts for some 80% of sales.
+JAPAN's COMPUTER FIRMS WANT STATE TO HELP PAY STAFF TO STAY AT HOME
+Times are so hard for the major Japanese computer manufacturers right now that they plan to lobby the government for financial aid to keep their surplus employees on the payroll.
+The Electronic Industry Development Association wants the government to meet some of the cost of retraining and of keeping workers at home, under a Labour Ministry plan set up to help prevent lay-offs.
+To qualify, an industry must in the previous three months have seen both value of production and number of its new employees fall by more than 5% from the previous year.
+With an upper limit of $77.7 a day, a large firm can get half, small and medium-sized firms two-thirds of the cost of paying an employee to stay at home.
+Software and semiconductor capital equipment industries have already invoked the system.
+UNISYS LAUNCHES NEW A-SERIES MAINFRAME MODELS
+Unisys Corp has moved its microprocessor implementation of its basic A-series mainframe architecture up the line and has created new entry-level A Series ‘openFrame’ enterprise servers and added software that increases open communications and client-server computing capabilities for existing and new users across the A Series family.
+The entry-level A7 models, starting at $20,000 and available this month, are compatible with the full A Series openFrame product line which, Unisys claims, reported double digit revenue growth in 1992.
+The A Series provides a 300 times performance growth path from the A7 to the A19 without software modification.
+Two new low-end models of the A11 and 12 new A16 models were also added.
+Unisys also announced Novell Inc's NetWare for A Series and expanded client-server Unisys Co-operative Computing Environment, and enhanced TCP/IP, Open Systems Interconnection, SNA and the BNA Burroughs Network Architecture protocols.
+In the A7, the Single Chip A Series Mainframe Processor is combined with an 80486 companion processor, using the common iAPX-86 architecture dev-eloped by Unisys for its personal computers, Unix and CTOS machines; it is there to support Unix or OS/2 applications in parallel with the proprietary MCP/AS.
+SAMSUNG TAKES 20% A STAKE IN ARRAY MICROSYSTEMS
+Far Eastern companies continue to invest in promising fledgling US companies, and Samsung Electronics Co Ltd has taken a 20% stake in Colorado Springs, Colorado-based Array Microsystems Inc; the value of the investment was not disclosed.
+Samsung and Array — the buyout of Honeywell Inc's Honeywell Signal Processing Technologies, have been working together since January 1991 on a family of video compression chips for the multimedia computing market, on a cost-sharing basis.
+SUNSOFT LAYS DOWN GAUNTLET WITH ITS SOLARIS UNIX FOR INTEL iAPX-86 MACHINES
+SunSoft Inc rolled out its feature-for-feature, bug-for-bug version of Solaris 2.0 for Intel Corp iAPX-86 architectures at its 1,700-strong Software Developers Conference in California last week, pitching it as a system for enterprise-wide client-server computing.
+Deliveries on a CD-ROM won't start for another 60 days.
+The software requires a minimum 33MHz full 80386 machine with an 80387 co-processor, 12Mb RAM — though 16Mb is recommended — and a 200Mb disk, though 300Mb is better.
+It supports the AT, EISA and Micro Channel buses, IDE and SCSI disk controllers and any Adobe Systems Inc PostScript-compatible printer.
+Some 300 native applications are said to be in the process of moving to Solaris x86.
+Reinvented
+Users can also access the 1,800 applications currently converting from Solaris-on-Sparc 1.
+X to 2.
+X by downloading them from a Sparc server to an Intel client.
+Many of the 2,000 Interactive applications will run uner Solaris x86.
+Admitting the channel has to be ‘reinvented,’ SunSoft still intends selling Solaris x86 wholly indirectly.
+Its newly established corporate sales force is intended only to drum up demand among the Fortune 1000.
+Sun Microsystems Computer Corp, the company's hardware arm, will put the operating system in its end-user price book and AST Research Inc, CompuAdd Corp, Dell Computer Corp, Toshiba Corp and Zenith Data Systems Inc, all of them companies committed to Solaris x86 since the middle of last year will take it OEM.
+SunSoft has also lined up several large US distributors namely Ingram Micro Inc, Merisel Inc, Tech Data Corp, Access Graphics Inc and Gates F/A Distribution Inc to peddle it and says it has authorised over 2,000 US resellers to handle the product.
+SunExpress, the company's catalogue operation, will start moving it in July.
+In Australia Solaris x86 will be distributed by Tech Pacific.
+In Europe it will move through Bacher, Bytek GmbH, DSD SA, ComTrad International, Merisel Europe, Scribona Sverige AB, Morse Computers Ltd and Technology Plc.
+ComTrad will also open South America.
+Sun chief executive Scott McNealy indicated aggressive volumes are expected from the software but would not discuss actual numbers.
+SunSoft pooh-poohs any conflict between Sun and the resellers.
+Support will be initially provided by Sun's worldwide support organisation under a non-exclusive arrangement.
+SunSoft expects to authorise other service partners later in the year.
+It stuck to its guns on pricing, listing the client-side Solaris Desktop at $800 in single quantities.
+It reckons its targeted accounts will pay the premium for high-performance software and that the channels need a decent margin.
+The Solaris Workgroup Server for small to mid-range departments is $2,000 in single quantity.
+The Solaris Enterprise Server is $6,000 in single quantity.
+The Software Developer's Kit is $500 and the Solaris Driver Developer's Kit for hardware vendors for building drivers is $200, both quantity one.
+SunSoft claims it is offering better value for money than its nearest competitor Univel Inc which just dropped the price of its UnixWare client to $250 anticipating predatory pricing by Microsoft Corp on Windows NT.
+SunSoft says it would actually cost $843 to get from Univel what the Solaris Desktop offers at $800 since it includes symmetric multi-processing, three-dimensional graphics, ToolTalk and Solaris Live!, new hardware-independent network multimedia facilities.
+Similarly it would cost $1,300 with Santa Cruz Unix, $1,000 with NeXTstep, $1,350 with IBM Corp and $1,200 with Hewlett-Packard Co.
+SunSoft has enhanced Solaris 2.0 to 2.2 (though it's not officially calling it that) boosting symmetric multiprocessing performance by 60% over the previous version as measured on an eight-way system.
+Perhaps most importantly, it will the system Sun uses to add the Motif toolkit, compliments of IXI Ltd.
+It provides a set of user-accessible threads to accelerate input-output and concurrency, particularly for database applications.
+Networking is said to be 10% to 15% better on transferring data and there's on-demand access to CD-ROM and floppy disks as well as remote file systems.
+System administration and the desktop are improved with the latter adding an Image Tool to create, load, view, rotate, zoom and crop images for documents among other enhancements.
+Solaris 2.2 also has XIL, the industry's first bundled imaging and video library, as part of Solaris Live!.
+Sun Microsystem Inc should have the stuff on its entire product line in May.
+Availability is in 60 days — Motif prices are due in 30 days.
+SunSoft has several configurations of Solaris x86 available.
+Solaris Desktop, the $800 client piece, includes SunOS 5, ONC+ networking, multiprocessing, system and network administration, installation, DeskSet and run-time support for OpenWindows, ToolTalk and the XGL graphics toolkit.
+The $2,000 Solaris Workgroup Server gives users access to print service, file service and networking service and multi-user access to applications.
+Solaris Desktop
+It includes all of the Solaris Desktop features and additional technologies such as server networking, naming services and remote administration.
+The $6,000 Solaris Enterprise Server allows for compute-intensive tasks, data transaction processing and high-performance multiprocessing.
+It incorporates all the Solaris Workgroup technologies plus advanced system administration, commercial-grade input-output and enterprise-wide installation.
+SunSoft says Solaris x86 will run on Intel Corp-based Acer, Advanced Logic Research, Grid, Olivetti, Apricot, Compaq Computer Corp, Gateway, IBM, NCR and NEC machines even though it doesn't have OEM deals with these companies.
+Targets for the second half include multiprocessors from the likes of Acer, ALR, AST Research Inc and Compaq.
+It currently supports graphics boards from ATI, Compaq, CompuAdd, Diamond, Genoa, IBM, Orchid, Paradise and STB; SCSI and disk controllers from Adaptec, DPT and IBM; network boards from Standard Microsystems, 3Com and IBM; tape subsystems from Archive, Sun, Tandberg and WangTek; input-output devices from Logitech and Microsoft; and CD-ROMs from LMS, NEC, Sony, Sun, Texel and Toshiba.
+Since this is mass market time and peripheral connections are very important, SunSoft's wish list for the second half is stuffed full.
+HAPPY TO BE PRIVATE, SOFTWARE AG LOOKS TO DOUBLE ITS REVENUE WITH NEW IMPLEMENTATION OF ITS SOFTWARE
+Software AG reckons one of the main reasons why it has achieved year-on-year revenue growth is that, unlike its competitors, its software works equally well across a wide range of environments.
+These comprise IBM Corp and plug-compatible mainframes; small and large Unix boxes; mid-range systems, including the AS/400; and desktop systems, including Apple Computer Inc's Macintosh and Microsoft Corp's Windows.
+But managing director of Software AG in the UK, Jeff Graham, says that at some stage during the coming year, the company will implement its software for ‘a mainframe-type platform’, which, he claims, will lead to a doubling of group revenues.
+By this, he could mean Hewlett-Packard Co's Posix-compliant version of its proprietary MPE operating system, MPE/ix (CI No 1,983), but is more probably referring to the fruits of the group's agreement with Digital Equipment Corp.
+At Cebit, Software AG said it would implement its Adabas database system and Natural applications generator for the VAX and Alpha under the OpenVMS operating system.
+OpenVMS versions will start shipping in July.
+Furthermore, Software AG intends to implement Adabas and Natural for OSF/1 and Microsoft Corp's Windows NT on the Alpha.
+Again, no time-scale was available.
+Another major cause of the Darmstadt, Germany-based company's success, Graham believes, is that it is now privately-owned again — or more precisely, its shares are held in a trust, set up by the founders.
+For a spell, its US subsidiary was publicly traded on NASDAQ, but the company bought the shares back in again.
+The trust consists of about 15 ‘guardians’, made up of management and staff.
+These guardians do not own any equity individually, and so, if they leave the firm for any reason such as retirement, the shares are handed on to someone else to look after.
+There are several advantages to being a private company, Graham reckons.
+More into research and development
+Firstly, Software AG is not obliged to fork out part of its profits to shareholders in dividend payments, and so can pump more into research and development — but then Micro Focus Plc has never paid a dividend.
+In fact, he says the group spends 25% of its revenues on developing both new products and enhancements to old ones.
+The average for the software industry, he says, is between 10% and 12%.
+According to Graham, Software AG divides its expenditure fairly evenly between its three main strands of business: application engineering, which is based on its proprietary Natural generator; data management, which centres around the Adabas database management system; and distributed computing, which is based on its Entire Net-Work communications software.
+As sales and marketing director Mark Wells put it, the company's goal is ‘to deliver enterprise-scale computing in a distributed environment’.
+Second, the firm isn't subject to the whims of the City, and doesn't have to face crises of confidence if it makes a loss during one quarter — it simply doesn't publish its results, and is therefore answerable only to itself.
+Although its figures have yet to be audited, Software AG saw worldwide group turnover rise by 9.6% to approximately £321m.
+No profit figures were available.
+In the UK, revenues grew 27.3% to £16.3m due to a 75% increase in sales of product licences and packages.
+Profits in the UK are also ahead of last year's, Graham says, although again no figures were available.
+Turnover generated from Unix licences, he says, increased fourfold last year, and now makes up 20% of total revenues.
+Some 70% went to new sites, which includes new departments at existing customer sites, and the rest to established customers.
+Software AG began selling Unix software in 1990.
+Sales of mainframe software also increased slightly, he says, because although some clients are downsizing, the majority are freezing the size of their mainframes, and either running applications on Unix boxes or investing their money on mainframe software with more functionality.
+Graham reckons that the UK is one of the group's fastest-growing geographic markets — it currently generates about 5% of total group turnover.
+While worldwide, he anticipates that revenues will increase by between 15% and 20%, he expects this to be more like 27% to 30% in the UK.
+The company's performance in the first quarter of 1993 would certainly back this projection up, he adds, and he is confident that this trend will continue now and in the  foreseeable future.
+The UK's fastest growing vertical markets, he says, are insurance, banking, retail, and government.
+Software AG has 221 customer sites in the UK and approximately 5,200 worldwide.
+— Catherine Everett
+NATSEMI, SIERRA TEAM ON EUROPEAN CORDLESS CHIP SET
+Sierra Semiconductor Corp, San Jose, and National Semiconductor Corp, Santa Clara, have jointly announced a chip set for Digital European Cordless Telecommunications equipment.
+The chip set consists of two chips from Sierra and four from NatSemi.
+The Sierra chips perform the signal and speech processing of the system, handling all the burst mode logic functions specific to the Digital European Cordless standard, along with scrambling, encryption, error correction, G.721 ADPCM transcoding and analogue speech processing.
+The NatSemi chips integrate the Radio Frequency, Intermediate Frequency, synthesiser and baseband functions of a DECT system.
+The companies claim that the chip set reduces the number of RF parts required by more than 200, compared with non-integrated designs.
+It thus improves portability, as well as lengthening operating times.
+The two chip sets interface at the Advanced Radio Interface-1 which defines the signalling protocol between the radio receiver and the digital processing portions of a DECT system.
+The chip set is currently in pre-production; high volume production is due to begin any day now.
+In quantities of 1,000, the chip set will cost $31.75.
+STEPS TO PREVENT INTERNET RUNNING OUT OF ADDRESSES
+Apparently the Internet could run out of available addresses by 1995 and the Internet Engineering Task Force is now looking at ways of overcoming address limitations in the current Internet Protocol version 4 standard.
+Three proposals have been submitted.
+SIP, Simple Internet Protocol, is compatible with different technologies on different computers and is backwards-compatible with existing IP technology.
+PIP, P Internet Protocol, is a new address structure which would supplant the current IP structure.
+And TUBA, TCP and UDP over Big Addresses, is a means to combine TCP/IP and International Standards Organisation standards to accommodate larger Open Systems Interconnection-based addresses that will support both TCP/IP and ISO-based applications.
+IBM SOFTWARE ANNOUNCEMENTS
+MQSeries: form an orderly queue within Advanced Peer-to-Peer Networking
+CICS for OS/2 is not the only ‘middleware’ that IBM was touting at the end of March; the company continued the theme by unveiling the first implementations of its Message Queue Interface, dubbed the MQSeries, and said that it will try to promote them as a cross-system standard.
+Message Queue Interface first came to light in IBM's Network Blueprint announcements last year (CI No 1,901) as one of a clutch of network interfaces supported within its Advanced Peer-to-Peer Networking architecture.
+It defines a way for applications on networked machines to pass information between themselves, and copes with one of the fundamental problems with distributed systems: namely that networks break and machines go down.
+The best way to explain Message Queue Interface is to compare it with a standard remote procedure call, where a client sends a request to another machine and waits for the response.
+With an RPC, if the remote machine is down then the request either has to be repeated or forgotten about, which makes writing predictable or robust applications difficult.
+By contrast, Message Queue Interface works in a time-independent fashion; requests are queued to be sent to the remote machine and if anything goes wrong they are automatically remembered and re-tried without the application having to do any work at all.
+The technique requires queue managers at either end and IBM says that it has these have been written for all of its operating systems, plus Digital Equipment Corp VAX/VMS, Stratus Computer Inc's badged System/88 machines, and Tandem Computers Inc's Guardian operating system.
+MS-DOS and Windows
+Even MS-DOS and Windows applications can use Message Queue Interface, but need a separate queue server running on an OS/2 machine.
+It is a remarkably simple idea, which IBM argues can act as a practical way of connecting existing islands of automation.
+The key point here is that it only attempts to link the islands into a loosely coupled way, and avoids the expensive development work needed to synchronise the two systems together exactly.
+Similarly, Message Queue Interface should improve the efficiency with which loosely coupled systems work: travel agents, for example should be able to request flight information from one system and get straight on filling in other details without having to wait for the remote system to respond.
+In the jargon, it means that applications can be ‘stateless’, that is, is the communication application having to keep track of what it state it was in when the failure  occurred .
+IBM is hoping that the popularity of workflow computing models will drive uptake, but it acknowledges that message queuing is not a new concept; what is new it says, is the attempt to implement it across multiple manufacturer's machines.
+Unfortunately IBM has not submitted it yet to the likes of X/Open Co Ltd, neither has it signed any deals with the likes of DEC to push MQSeries on its own machines: instead the firm is relying on the system's own merits to attract software developers.
+RS/6000s pair off for fault-tolerance with High Availability Cluster
+Clustering RS/6000 machines continues to hover near the top of IBM's agenda — if you can really call two machines a cluster.
+The latest announcement in the field is for High Availability Cluster Multi-processing/6000 version 1.2: software that aims to glue a pair of the machines together in such a way as to combine the benefits of fault-tolerance and symmetric multiprocessing.
+Earlier releases of the software used two relatively simple ways to provide fault tolerance.
+Mode 1 or ‘standby mode’ left one machine idle, waiting for its partner — supporting all the users — to fall over and die, at which point it would cut in.
+Mode 2 ('partitioned workload') was slightly more sophisticated and enabled both processors to support their respective users and applications while providing mutual back-up.
+Now version 1.2 introduces Mode 3 or ‘loosely coupled multiprocessing’ where the two machines support the same users and co-operatively run the same applications.
+On the fault-tolerance front IBM says that Mode 3 substantially cuts the delay between the one machine failing and the other one picking up where it left off; by the company's own estimation the switch can take from anywhere between a long 30 seconds to a horribly long five minutes in modes 1 and 2.
+In mode 3, however any delay to end users should always be less than one minute says IBM; since both processors are already processing the same shared data.
+Using loosely coupled multiprocessing imposes a few limitations, both on programmers and hardware.
+In particular data being  used by the dual processors must be stored on the the processors have to be attached to a IBM 9333 high performance disk system, shared data must be capable of storage on raw disk configurations rather than something like the the AIX Journaled File System and software must be specifically configured to work with the HACMP/6000 Distributed Lock Manager.
+IBM cites Oracle Version 7 Parallel Server as one example of a program that has been suitably tweaked — one copy is needed for each machine.
+For other developers there's an application programming interface that gives access to the lock manager.
+Feel like shouting at your micro?
+Voicetype will make it do something
+Voicetype Control For Windows sounds like it may be a deliberate attempt to make Windows users unpopular with their colleagues — it enables them to replace various keyboard and mouse commands with the spoken word.
+There is no indication of any OS/2 version.
+To run the program, users need a microphone an extra 2Mb of RAM, $130 to buy the software and a separate Sound Blaster audio board.
+The company is claiming voice-independent recognition of 64 commands at a go, and alternative vocabularies can be switched in as required.
+In addition the software can be trained to recognise its new master's voice.
+IBM is usually pretty forthcoming about the markets that it  foresees for its products, but in this case limits itself to saying that it will appeal to professionals who would prefer ‘easy-to-remember voice commands’ to complicated keystrokes or mouse movements.
+It is much too politically correct to say that the one market to which it would be a real boon is the physically handicapped — in many degenerative diseases, the power of speech is one of the last to fade away.
+SUN ANNOUNCEMENTS
+SunSoft accompanies Solaris x86 with Solaris Live! multimedia technologies and tools
+Sun Microsystems Inc's s SunSoft unit has introduced Solaris Live!, a collection of multimedia technologies including productivity tools and application programming interfaces supporting distributed real-time workgroup collaboration, video conferencing, audio and image integration into electronic documents.
+The package includes XIL, XGL, PEX and XLib, audio device-independent interfaces, a message set called Media Exchange and multimedia desktop tools like Multimedia MailTool, AudioTool and ImageTool.
+SunSoft also cut multimedia partnerships with Matsushita Electric Industrial Co, Toshiba Corp and Centigram Corp to create value-added extensions to Solaris Live!.
+Respectively they include device-independent device control protocols to enable heterogeneous video  cassette recorders, laser disks and Compact Disk players to be integrated, a Japanese text-to-speech synthesiser necessary to phone-based data retrieval and TruVoice, a text-to-speech converter and an application programming interface that transforms any text passage into spoken English or Spanish.
+SunSoft promises that Solaris Live! 's future includes integration with phone systems and object-oriented extensions.
+Elements of Solaris Live! were included in prior Solaris releases, but never bundled together.
+SunSoft has completed second milestone in its Project Distributed Objects Everywhere
+SunSoft Inc also says that it has reached the second milestone in its Project DOE Distributed Objects Everywhere programme and completed a distributed object system consisting of the DOMF Distributed Object Management Facility, SunSoft's implementation of the Object Management Group's Common Object Request Broker Architecture specification, and a set of system objects.
+It demonstrated the system running around a network at its Software Developers' Conference.
+It has been turned over to SunSoft's Distributed Object Council, a group of unidentified object developers and major end users who meet frequently with the company to discuss product specifications and plans, for feedback.
+SunSoft is supposed to make the distributed object system available to key software developers and end users in 90 days.
+Alsys puts Ada tools under Solaris 2.
+X for Sparc
+Alsys Inc, Burlington, Massachusetts, now owned by Thomson-CSF SA, stepped up to announce a series of Ada software development products supporting the Solaris 2X operating environment from SunSoft Inc, the first availability of Ada software development tools for Sparc-based systems running Solaris 2.
+X, the company says.
+The tools include Alsys' AdaWorld for native development on Sparc-based computers and RISCAda line for real-time embedded system development hosted on Sparc-based computers, targeting the Motorola 68000 family.
+It is especially important for Ada tools to be available under Solaris 2.
+X, as it is now the default operating environment on all Sun Sparc 10 systems and is the only operating environment available on Sun's Sparcstation LC and LX and SuperSparc multiprocessor systems, the company notes.
+All feature an X Window System-based graphical user interface and include a global optimiser, Ada sensitive editor, library tools, source-level debugger, profiler, bindings to Posix and OSF/Motif, and additional tools and bindings.
+The cross compiler also includes a suite of tools for real-time embedded systems development, including a linker, downloader and receiver and other real-time facilities.
+Alsys will upgrade its entire line of Sparc-based cross compilers and its 80386 Unix AdaWorld system to run under Solaris 2.
+X later this year.
+AdaWorld for Solaris 2.1 for Sparc is available immediately at $7,500 per user.
+RISCAda/Sparc is available 30 days after receipt of order and is from $6,000 to $11,500, depending on configuration.
+The RISCAda/Sparcx68K development system is from $17,500 to $35,000.
+LAID-BACK SUNSOFT
+SunSoft Inc borrowed the laid-back format of the Tonight Show and Johnny Carson — down to the band, the couch and the jokes — to make its announcements at the end of last  month : it would be a shame if those well-crafted anti-Microsoft Corp anti-NT ads they ran as ersatz commercials during the breaks don't get a wider airing, if for nothing more than their amusement value.
+SUNSELECT IN THE DARK
+SunSelect Inc chief Carl Ledbetter says the company doesn't know yet what Windows and MS-DOS applications won't run on WABI, the Windows-on-Unix software it bought when it bought Praxsys Inc: WABI hasn't been turned into a product yet but something's expected shortly and it should be bundled into Solaris this year; meanwhile, Quorum Software Systems Inc will put Equal, its Macintosh application adaptor on Solaris-on-Sparc, and ship it later this quarter, giving Sun access to Mac versions of Word and Excel.
+MORE WEEKEND DEALS
+Near as we can make out, the SunSoft Inc deal with Motorola Inc for Solaris on PowerPC is very fresh: it was likely completed over the weekend of March 27; weekends are getting popular for closing — the Common Operating Software Environment wasn't a deal until the evening of Sunday, March 14.
+NEW SUNSOFT VAR PROGRAMME
+SunSoft Inc announced a value-added reseller programme designed to educate resellers on selling 32-bit computing: it includes training and education, sales and lead generation; marketing and merchandising support; SunSoft claims Solaris-on-Intel is being evaluated by Amoco Inc (10,000 units), AT&T Universal Card, DuPont Pixel Inc (20,000 units), Foxboro Co, Philip Morris, Superior National Insurance and 3M Co.
+SOLARIS DELIVERY TO SURVIVING CHIPS
+Sun Microsystems Inc chief executive Scott McNealy claimed the move would deliver to Solaris the three volume chips likely to survive: PowerPC, Sparc and Intel as SunSoft resources are moved off the new Intel Corp version, he said, they would be dedicated on the PowerPC — McNealy said this would be ready in late 1993 and SunSoft president Ed Zander immediately stepped up to contradict him, saying the date would more likely be early next year; few details were available and it remains to be seen who would use it and how it will be sold.
+SUN DRESS SENSE
+Sun Microsystems Inc chief executive Scott McNealy arrived at the SunSoft Developers' Conference last week all spiffed up in a dinner jacket, wing collar, jeans and sneakers; SunSoft president Ed Zander, a man with a tailor to kill for and the wardrobe to prove it, was quick to notice that McNealy was wearing a shirt with his initials on the cuff for the first time in his life — McNealy shot back that the ‘SM’ stood for ‘Stop Microsoft.’
+SHERWOOD REAPS THE BENEFITS OF TURMOIL IN LLOYD'S MARKET, LIFTS PRE-TAX 22%
+According to Chairman Richard Guy, 1992 has been one of the most difficult years faced by Gloucester-based Sherwood Computer Services Plc.
+It has had to cope with a double whammy of recession coupled with turbuence in the Lloyd's insurance market which accounts for 50% of its business.
+Nonetheless, it has pulled in record pre-tax profits, up 22.8% at £3.0m on turnover off just 2.9% at £21.1m.
+And its balance sheet is looking healthy, with net assets standing at £7.1m.
+It is recommending a final dividend of 5.25 pence.
+The company financed four acquisitions and one joint venture during the year and spent £1.25m on BS5750 certification for its housing management, retailing and government systems.
+The minor drop in sales was accounted for by the Guardian joint disaster recovery venture with ICL (CI No 1,664) but is not considered serious.
+Indeed the business was said to have made ‘the very best of progress’ and its move to open  systems is reckoned to stand it in good stead for the  future .
+The government and housing divisions were said to have yielded the lowest returns and action is promised to boost their performance.
+The clouds looming over the Lloyd's market seem to have been silver-lined, having boosted the demand for Sherwood's systems.
+It reckons to have increased its share to 30%, winning major contracts for its Senator underwriting product from Guardian Royal Exchange, and Folksam and striking deals for its other underwriting system, Sceptre, with Lloyd Roberts & Gilkes and with Lloyd's management agency Sturge Plc.
+The last is particularly important as it should provide good long term revenue prospects.
+It is also aiming for BS5750 creditation on service.
+Acquisitions to continue
+It is also seeking to modify and extend its product range.
+It has new modules for Sceptre and Senator; it is collaborating with another unnamed software house on a broking evaluation product, which is about to be tested.
+Acquisitions have formed an important part of the strategy and will continue to do so.
+In 1992, it took three competitors from the London insurance market under its wing: Cairn Computer Systems with its Ingres-based technology and accompanying client list was bought for £200,000. £800,000 was raised through a share issue for the City division of Weir Systems (CI No 2,076) which also added open systems expertise more long term contracts.
+And THS (Guernsey) Ltd with its specialism in the mainframe market was acquired for £300,000 (CI No 2,114).
+From the financial services market, Sherwood picked off Consort Data Ltd (CI No 2,017), with its personal computer stockbroking systems, for £250,000 — and has already notched up eight sales.
+It also sunk £255,000 into a joint vent-ure, Sherwood International Ltd (CI No 2,114), to buy the rights for the Informix-based life assurance system, Palace, from Beta Computers (Europe) Ltd.
+Sherwood aims to exploit the product's existing UK and overseas customer base and has a further three clients, to be announced soon.
+The company says it has been able to generate high levels of repeat income from long term contracts in the financial services area and is keen to collaborate with other suppliers to expand its service and product range.
+For example, it is currently working with major client Scottish Provident, which accounts for 10% of its turnover, to convert its ICL-based systems to IBM mainframes, with a view to further re-engineering for open systems.
+Sherwood's housing and government divisions generated significant repeat revenues and a number of new sales, but performed below the company's average.
+Local authorities in Norwich and Derby took the Threshold housing management system, Merseyside Improved Housing and Peabody Trust took the Household system for housing associations.
+Work is also under way on a project for the Ministry of Agriculture, Food and Fisheries.
+Sherwood looks for more such business on the back of BS5750 approval, fast becoming an essential requirement for government tenders.
+It sees the outlook as encouraging, thanks to expanding insurance business and repeat business that now makes up 65% of sales.
+GORDON BLUE!
+WALL STREET JOURNAL RAISES AN EYEBROW AT IBM'S ACCOUNTING
+IBM Corp started relaxing its strict accounting practices way back in 1984, just as the company's core mainframe business began to lose its impetus, although no-one realised it at the time.
+This is the conclusion of an in-depth Wall Street Journal investigation which suggests that its moves may have served to bolster its results on a short-term basis and push problems into the future.
+The paper says that former IBM chief outside auditor Donald Chandler of Price Waterhouse & Co wrote in a 1988 memo that IBM was reporting revenues that it might never realise by booking sales when products were shipped — to its own warehouses for onward staging to customers, or to dealers who could return them.
+The report said for over 10 years, IBM has been booking immediately all the revenues from some long-term computer leases, getting a residual value guarantee from Merrill Lynch & Co to bring the total of the lease payments plus the residual value up to the 90% of the sale price that accountants regard as prudent for a sales-type lease.
+From 1984, the company also started extending more of the costs of new factories and other investments into future accounting periods — in the belief that the mainframe business would pick up again and justify the move.
+IBM calls the Chandler memo part of normal give-and-take between a company and an auditor with a flair for peppery language.
+Chandler, who retired last year, said in a statement released by IBM that his work with the company was ‘totally open and frank.’
+Of his specific criticisms, he cautioned, ‘It's absolutely vital that they not be taken out of context’ and that every ‘significant’matter was ‘satisfactorily resolved’and that he consistently blessed IBM with clean audit opinions.
+HUNTING SEEKS £36m IN RIGHTS ISSUE AFTER RESTRUCTURING LIFTS PRE-TAX
+Defence, aviation and oil technology company Hunting Plc, has reaped the benefits of restructuring, and is seeking its reward with a two-for-nine rights issue.
+The money raised will help finance the London company's work on the Phase II management contract for the Atomic Weapons Establishment, and reduce its debt levels — on December 31 1992, the firm's net borrowings were about £102m, while gearing stood at 78% of shareholders funds.
+The deal to manage the Atomic Weapons Establishment was awarded by the Ministry of Defence and will last for seven years.
+Hunting hopes to raise £36.8m net of expenses, by issuing up to 20.5m shares to holders of its ordinary and convertible preference shares, at 185 pence against a price in the market of 238 pence — 228 pence after the announcement.
+The issue is underwritten by J Henry Schroder Wagg & Co Ltd, brokers are de Zoete & Bevan Ltd.
+For the year to December 31, the company saw pre-tax profits rise 89.6% to £29.2m, while turnover rose 8% to £809.8m.
+The board has recommended a final dividend of 6 pence per share, for an unchanged 10 pence total for the year.
+While the defence division saw operating profit fall to £9.3m from £10.5m last time, and suffered from lack of new contracts, Hunting reckons the Atomic Weapons Establishment deal will be a significant contributor over the coming years.
+The aviation business suffered from depressed trading conditions in the industry, although it did win several valuable new contracts.
+As a result, it is now being reorganised.
+Operating profit fell to £10.5m from £11.1m in 1991.
+So, the star of the group was the oil division, which saw operating profit from continuing operations up 40%.
+Although discontinued operations lost £1.1m this year compared with £400,000 last year, Hunting did acquire the business of Interlock Technologies Corp and 80% of Marine Contractor Services Inc for £5.1m.
+Both provide Hunting Oilfield Services with a more complete range of connectors and related services for tubes for off-shore operators.
+ICL SETS THE EXAMPLE THAT IBM, OTHERS HAVE TO FOLLOW IF THEY ARE TO SURVIVE IN THE ERA OF OPEN SYSTEMS
+Unlike most of its competitors, ICL Plc has managed to stay in the black for the year ending December 31 despite having experienced a ‘character-forming year for the computer industry worldwide’ and being forced to make major price cuts on its products.
+According to director of finance and business strategy Keith Todd, average margins dropped 6% to 35%, which represents a reduction in gross margins of £109m.
+Still, although he expects margins to keep on falling during the coming year, he does believe the rate of decline will slow.
+ICL saw pre-tax profits down 38.1% to $38.6m, while turnover increased 32.1% to £2,477.9m.
+These figures include full contributions from Nokia Data and Sorbus as well as £181m from acquisitions made in 1992, such as Technology Plc.
+Operating costs also fell to 23% from 25% of turnover due to‘effective working capital management’, or careful attention to inventory levels and debtor activity.
+Although the company ended the year with net debt of £94m and gearing of 35%, it did generate £240m cash from operations.
+This was used to buy capital equipment, to finance the integration of new acquisitions and to reduce debt levels.
+While chairman and chief executive, Peter Bonfield, said he is still ‘not seeing the wide green shoots’ of recovery, he does expect ICL to stay in the black during the coming year.
+But he did concede that short-term profits may well be hit as the group invests in trying to grow market share, enter new business sectors, and undertake further restructuring to reduce its cost base.
+Nonetheless, Bonfield attributes the relative success of the company to a strategy dating from the mid-1980s — one of expanding into Europe; targeting particular industries, such as retail and finance; growing its services-related business; and ensuring that its products are based on open systems standards.
+The idea behind this strategy was ‘to spread the investment risk’ so the company would not be ‘dependent on one technology, one market’.
+Most research and development
+And of course, it is in these areas that the company targets most of its research and development spend — £242m in 1992, up £20m on 1991.Todd believes such levels of expenditure were  necessary last year ‘to maintain our growth momentum and achieve the successful integration of ICL and Nokia Data product ranges’.
+For the first time, ICL generated some £1,000m of its revenues in Europe, partially as a result of its Nokia Data Systems acquisition.
+Todd said the company is now number one and number two in the Finnish and Scandinavian markets respectively.
+The personal systems business, based in Finland, saw sales increase 34% to £350m, and unlike personal computer vendors elsewhere, even managed to make a profit.
+Germany and France were worth more than £100m between them, while sales to Poland, the Czech and Slovak Republics, and Hungary increased 27%, ‘after sustained investment’.
+The company's main markets in these regions are retail, finance and manufacturing.
+ICL also now generates about half its revenues from higher margin non-hardware sales, and expects this to increase to between 55% and 60% over the next few years.
+While turnover from services increased by 36%, Todd said that the fastest growing area was managed services, such as facilities management.
+As for open systems, Bonfield said that 85% of all the group's products now come under this category.
+With mainframes, for example, ICL has won compliance with X/Open Co Ltd standards, and is currently seeking XPG-4  accreditation .
+But Bonfield doesn't like the term mainframe any more —‘mainframes are unpopular now’, he said, ‘we call them big servers’ for the open systems market.
+And although sales of the machines may be flat, ‘at least we haven't seen a major fall like IBM’.
+Revenues generated from Unix sales, conversely, grew about 28%, although the figure was ‘slightly higher in volume terms’.
+Unit sales of mid-range products also increased 76%, and Todd reckons that ICL is still number one in the UK market for multi-user systems.
+Technology Plc did its bit too, contributing £5.5m to pre-tax profits since its acquisition in July.
+Todd said that the only way ‘to achieve growth and profit from commodity products in changing market conditions’ is to change your distribution approach.
+And this was what the Technology purchase was all about — although margins are low, operating costs make up only 10% of company revenues, so profits can and are made.
+Finally, Bonfield believes ICL's performance this year demonstrates ‘our resilience and our ability to operate in bad markets.
+ICL is a good company’, he added.
+SHARE & BOND ISSUES
+IBM Corp, whose debt has been ballooning alarmingly, has filed a shelf registration with the US Securities & Exchange Commission to issue up to $2,650m in debt securities, preferred and depositary shares which when combined with previously registered debt securities, preferred and depositary shares, will give it up to $3,000m of such securities available for sale whenever it needs the cash.
+No underwriters have been named.
+Dataimage Inc saw fourth quarter net losses of $430,156 up from losses of $34,501 last time, on turnover down 11% at $733,418; net losses for the year to December 31 stood at $1.6m up from losses of $200,714 last time, sales down 29.4% to $2.1m.
+Defense Software & Systems Inc saw net profit for the year to December 31 was up 478% at $4.3m, on turnover up 44.7% to $16m.
+Net earnings per share rose 178.7% to $2.09 in the year.
+The 1992 figures include the results of the National Semiconductor Corp unit from acquisition on November 23 1992.
+Standard Microsystems Inc saw fourth quarter net profits up 63% at $4.7m, on turnover up 19.4% at $69.1m; net profit for the year to February 28 was up 2,561.8% at $15.8m, on turnover that rose 88.7% to $250.5m.
+Net earnings per share rose 48% to $0.37 in the quarter, 2,440% to $1.27 in the year.
+Hunting Plc has turned in net profits for the year to December 31 up 171.7% at £16.3m, after £200,000 exceptional gains this time and £11.4m charges relating to the company's withdrawal from certain activities and related goodwill writedown last time, on turnover that rose 8% to £809.8m.
+At the pre-tax level, profits were up 89.6% at £29.2m.
+Earnings per share rose by 157.4% to 17.5 pence.
+Sherwood Computer Services Plc Plc reported net profits for the year to December 31 up 34.7% at £2.0m, after £1.2m expenses resulting from the company's BS 5750 creditation bid and £0.5m credits resulting from restructuring of the company pension scheme, on turnover that fell 2.9% to £21.1m.
+At the pre-tax level, profits were up 22.8% at £3.0m.
+Earnings per share rose 40.3% to 27.5 pence.
+AMDAHL LAYS OFF FURTHER 150
+Amdahl Corp last week laid off another 150 manufacturing employees in Sunnyvale, and word in the Valley is that more may go in May.
+IBM HAD DETAILED DISCUSSIONS WITH OTHER CANDIDATES
+IBM Corp held detailed salary discussions with two other people, one of them Lawrence Bossidy of AlliedSignal Inc before it hired Louis Gerstner as chairman and chief executive, the Wall Street Journal reckons: it says it couldn't get the name of the other candidate.
+ELEONEX CONTRACTS PC MANUFACTURING
+Elonex Plc is to contract manufacturing of its personal computers to Cordata Ltd, described as a new company and not related to the Cor-data Technologies owned by Daewoo Electronics Co: this Cordata is building a £5.5m contract manufacturing plant in Cumbernauld, Scotland, where it expects to create 175 new jobs and make 100,000 personal computers a year, and Elonex will turn its North London plant over to final assembly and testing.
+DEC QUEST ENDS
+After a three month search DEC UK Ltd has appointed Christopher Conway as UK managing director and UK-Ireland territory manager: Conway comes from IBM UK Ltd where he was director of UK banking and financial services — Geoff Shingles, who resigned as managing director at the end of 1992, remains chairman.
+AEG REPORTS ON LOSSES
+AEG AG says that three quarters of its operating loss of $125m for 1992 came from the microelectronics operations and the rest from its engines sector, and further losses are likely this year — it sees an operating loss this year of at least another $125m; it says that its automation technology unit also made a loss on sales down by 1%.
+EUROTUNNEL SIGN TELECOM AGREEMENTS
+Eurotunnel Plc/SA has signed agreements with British and French telecommunication groups for their use of fibre optic telecommunications links routed through the Anglo-Channel Tunnel scheduled for use in early 1994: the agreements are with British Telecommunications Plc, France Telecom and Cable & Wireless Plc's Mercury Communications Ltd and the cables will provide an alternative to submarine cables currently used for channel traffic.
+NTT INVEST HEAVILY IN FIBRE-OPTICS
+Nippon Telegraph & Telephone Corp now says that it will spend more than $17,200m — that's what it translates to — a year to connect every home and office in Japan to its fibre-optic Integrated Services Digital Network by the year 2015; it started on the network in 1985.
+SUPPLY CONSTRAINTS ON EARLY VALUEPOINT MODELS
+Despite launching those 40 new ValuePoint models, IBM Corp says that it is still supply-constrained on the earlier models of ValuePoint but that supply will be strong for the new models: ‘Demand continues to outstrip supply with the models we currently have on the market,’ said Angelica Horaitis, director of value brands at the IBM Personal Computer Co; she says IBM has learned and is ready with the new ones.
+PRODIGY TO CHANGE PRICING POLICY
+The president of Prodigy Services Co says the viewdata system is considering a move away from its flat-fee monthly pricing and may start charging by usage for some features, including its bulletin boards: according to Communications Daily, Ross Glatzer said the company's management is concerned about ‘rapidly rising telecommunications costs, driven by soaring growth in members’ use of a handful of features that are most expensive for Prodigy to provide — stock quotes and company news, bulletin boards and airline schedules;’Glatzer said details still are being worked out, but ‘it's become clear we must introduce some timed charges for some features in the second half of this year,’adding that the problem is one of trying to use flat-rate pricing for some features for which others charge $6 to $18 an hour.
+QUEEN'S UNIVERSITY INSTALL CRAY
+Cray Research Inc reports that Queen's University of Belfast, Northern Ireland, has installed a Cray Y-MP EL entry level supercomputer system: it is the first Cray Research system anywhere in Ireland; the machine, which lists for between $340,000 and $1.5m, will be used to run simulations in aerodynamics, quantum chemistry combustion  modelling and physics and will also be linked to a more powerful Cray installed near Oxford, England.
+BANCTEC WIN BANK OF ENGLAND ORDER
+Dallas-based BancTec Inc has won a $1.7m order from the Bank of England for a stand-alone check clearing system: the Old Lady will use three BancTec 5500 document transports and the associated peripherals in its London clearing centre.
+CAP GEMINI SOGETI TO OMIT DIVIDEND
+Reporting a loss of $12.8m late yesterday, Cap Gemini Sogeti SA said it was omitting its dividend.
+LAM RESEARCH AND WESTECH SYSTEMS FORGE ON ALONE
+Fremont, California-based Lam Research Corp has failed to reach agreement for acquisition of Westech Systems Inc and the two have agreed to go their separate ways.
+DUN & BRADSTREET ACQUIRES GARTNER INTEREST
+Dun & Bradstreet Corp has acquired a majority interest in Gartner Group Inc for $33m from Information Partners Capital Fund LP, which financed the company's buy-out from Saatchi & Saatchi Plc; Gartner Group was previously controlled by Boston-based Information Partners, a venture capital firm in which Dun & Bradstreet is a limited partner.
+CANADA POST PACT WITH SHL SYSTEMHOUSE
+SHL Systemhouse Inc says it has reached agreement with the state-owned Canada Post Corp to negotiate a 10-year facilities management contract covering all of Canada Post's data processing, telecommunications and system management needs, SHL said in a statement; the value of the pact was not released; it will provide full mainframe services from its data centres in Ottawa and Halifax and help Canada Post to accelerate the change from a mainframe environment to distributed client-server architecture.
+UNIVERSITY SELLS MICROSOFT SHARES
+So the University has carefully weighed all the intractable issues and decided the African National Congress and the communist party are the good guys and the Zulus are the bad guys, huh?
+In an act of knee-jerk political correctness, the University of Washington in Seattle has sold all its Microsoft Corp shares because it is again doing business in South Africa.
+UNISYS TO USE UNIVEL UNIXWARE
+Unisys Corp has signed up to use Univel Inc's UnixWare as the operating system on those iAPX-86-based U 6000 workstations and entry-level servers it's expected to introduce this spring: the agreement is said to mark the start of a close strategic alliance between the pair.
+SCOTT MCNEALY'S OPINION
+Scott McNealy on IBM Corp's new chief executive officer Louis Gerstner: ‘Who cares who's captain after the wings have fallen off.’
+COROLLARY CONVERSION PLANS
+Corollary Inc, Irvine intends converting Solaris x86 to its Extended C-bus and C-bus II multiprocessor architectures by the end of 1993.
+NT MORE POPULAR THAN MADONNA?
+Whatever turns you on…
+Microsoft Corp's UK flackery is putting it about that Inside Windows NT by Helen Custer has sold more copies than Madonna's weighty Sex tome.
+NCR HAS SPOKEN
+‘When I use a word,’ Humpty Dumpty said in a rather scornful tone, ‘it means just what I choose it to mean — neither more nor less’— so what does ATM stand for?
+No, no silly, where have you been the past year — it stopped meaning Automatic (or Automated) Teller Machine ages ago — it now means Asynchronous Transfer Mode; what does DTP stand for?
+Oh really, desktop publishing went out with the Ark — Humpty NCR Dumpty has spoken and DTP now means Distributed Transaction Processing.

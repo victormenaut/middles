@@ -1,0 +1,364 @@
+
+
+MITSUBISHI INDICATES THAT IT WILL BE FIRST SECOND SOURCE FOR DEC's ALPHA RISC
+The first second source to be announced for the Digital Equipment Corp Alpha RISC looks like being a real surprise: Mitsubishi Electric Corp, not noted up to now as a fabricator of microprocessors, is negotiating a tie-up with DEC that could lead to Mitsubishi making and selling the Alpha, Reuter reports from Tokyo.
+According to Mitsubishi, the discussions could also lead to joint microprocessor development, and announcement is expected soon.
+Up to now, Mitsubishi  Electric's only widely-reported involvement in microprocessors has been its tie-up with Fujitsu Ltd and Hitachi Ltd on the G-micro family of chips that are optimised to run Japan's Tron real-time nucleus.
+COMPAREX RESPONDS TO IBM's NEW ES/9000s WITH 99/XXX FAMILY
+Comparex Informationssysteme GmbH yesterday announced Hitachi Ltd's response to IBM Corp's latest ES/9000 mainframes as the 99/XXX family.
+The new line ranges from the 99/711, 721 and 731 with one, two and three processors, available next quarter, through the dyadic and two-plus-one 822 and 832 for the fourth quarter to the 941, with four processors in single image configuration, and the 99/982 doubled-up version of that, plus two-plus-two, three-plus-two, three-plus-three and four-plus-three variants, the 942, 952, 962, 972 and 982, all to ship in the third quarter.
+They support Escon channels including Escon Multiple Image Facility, and Sysplex clustering.
+The company is also promising data compression, Asynchronous Data Mover Facility and logical partitioning extended reconfiguration at an unspecified later date.
+The company also added the mid-range  mid-range 9/810 uniprocessor and 9/822 three-way multiprocessor.
+It gave no prices for the new models.
+The company also announced a new 6825 laser printer that does 60 A4 pages a minute and can print on both sides of the paper.
+It prints at up to 480 by 480 dots per inch and will be shipping in the fourth quarter.
+HEWLETT-PACKARD's NEW 1.3″ KITTYHAWK STORES 42Mb
+Hewlett-Packard Co yesterday added the second generation of its Citizen Watch Co-made 1.3″ hard drive: the Kittyhawk II Personal Storage Module features increased durability and better power management as well as 42.8Mb capacity, twice that of the original.
+It is the same 2″ by 1.44″ by 0.4″ and 1 oz weight of the original but is claimed to offer 50% better shock resistance and to use 25% less power.
+The company says it has worked closely with Microsoft Corp to ensure that the Kittyhawks are compatible with MS-DOS Version 6.0 and its 2:1 data-compression ratio, and sees the drive being used in digital cameras as well as subnotebook computers.
+The capacity was achieved by increasing storage density on the glass platter and adding one thin-film read-write head.
+It spins up in one second; evaluation units now at $500.
+CAP GEMINI BIDS MINIMUM FOR HOSKYNS RUMP
+Cap Gemini Sogeti SA said yesterday that it was making the offer for the remaining 28.8% of London W-based software and computer services company Hoskyns Group Plc as it promised when it bought its majority stake from GEC Siemens Plc.
+The offer is 469 pence per Hoskyns share, the minimum price agreed when CAP Gemini acquired the majority in July 1990 and compares with the 330 pence price Cap Gemini paid for its original stake.
+Hoskyns shares closed at 458 pence on Friday.
+BULL ADDS DPX/20 RIOS UNIX MODELS, CLARIION RAID
+Compagnie des Machines Bull SA has followed IBM Corp in introducing five new DPX/20 servers and an entry-level two-dimensional  colour graphics diskless workstation based on the Power RISC architecture and a RAID technology disk array subsystem — presumably the CLARiiON one it its buying OEM from Data General Corp (CI No 2,110).
+The five new DPX/20 models comprise two high-end desktop models, the 50MHz 460 and the 62MHz 470, a mid-range deskside model 640 and two high-end rack-mounted systems, the models 810 and 840.
+The desktop models, says Bull, provide performance up to twice that of the existing 400 Series entry model and have a quadrupled cache buffer of 32Kb.
+Standard features for the intermediate range Model 640 include 2Gb of fixed disk and CD-ROM storage, an integrated SCSI adaptor, and eight Micro Channel slots.
+The Model 640 has a suggested price of $62,180.
+The rack-mounted models have an expanded 64Kb data cache, a 32Kb instruction cache and, as standard on the Model 840, two 80Mbps per second input-output interfaces.
+They also come equipped with a 1.44Mb floppy, CD-ROM drive, 5Gb 8mm tape drive, four 1Gb SCSI-2 hard files and an SCSI-2 controller.
+The Model 810 is suggested to sell for $122,180.
+The Model 105 two-dimensional graphics workstation, with a suggested price in France of $5,450, is ‘one of the lowest priced in the industry.’
+The new DAS 2000 disk array subsystem stores up to 24Gb in a single subsystem.
+Up to 20 drives, either 500Mb or 1.2Gb SCSI-2 3.5″ drives, can be configured in a cabinet small enough to fit under a desk, Bull said.
+One or two subsystems can be configured on a single SCSI system bus.
+NCR ENHANCES TOP END MONITOR
+NCR Corp yesterday announced enhancements to its Top Eed distributed transaction processing system.
+New features include IBM 3270 Terminal Support, Microsoft Corp Windows Dynamic Link Library support and Enhanced International Language Support.
+The 3270 feature is designed to be used with NCR's new SNA Open/Gateway-SNAgate Communications Processors.
+Dynamic Link Library support is intended to reduce development time for robust client-server applications, enabling users to interface MS-DOS tools with Top End's remote client services, and adds to the support for MS-DOS, Windows and Unix remote clients.
+Kanji and other multi-byte character sets are now supported.
+MOTOROLA BUYS STAKE IN VIRTUS
+Motorola Inc said yesterday that it paid an undisclosed sum for a stake in Cary, North Carolina-based Virtus Corp, a privately-held developer of the Virtus WalkThrough drawing and visualisation package for conceptual design.
+The two will explore areas of mutual interest in interactive three-dimensional software technologies and virtual reality for Mac and Windows desktop boxes.
+LOCUS TO INTRODUCE PC-INTERFACE PLUS
+Locus Computing Corp, Santa Monica will introduce PC-Interface Plus, an updated version of its widely-used PC-Interface product line that enables Unix, MS-DOS and Macintosh users to share files, printers and data across networks: it includes better network printing capabilities, the TinyTerm terminal emulation set and the ability to run multiple, concurrent terminal emulation sessions.
+WIND/U NOW AVAILABLE
+Bristol Technology Inc, Ridgefield, Connecticut, has announced the availability of its Wind/U, a $10,000 program that enables Microsoft Corp Windows applications to run as native OSF/Motif Unix applications: Windows applications converted for Unix will maintain their Windows functionality, including features such as PostScript, combo boxes, multiple document interfaces and dynamic data exchange.
+LOOK OUT FOR UNISYS U6000 AT UNIFORUM
+Look out for the Unisys Corp stand this week, it should be demonstrating the U6000 personal computer, its new Unix desktop system configured for Univel Inc's UnixWare — but only behind the scenes.
+BASIS INC TO DEMO BDxPROGRESSION/4
+Albuquerque, New Mexico-based Basis Inc will demonstrate BDxProgression/4, its revamped third generation application development environment for client-server environments: BDxProgression/4 software enhancements include a new set of data dictionaries, file system extensions and communication links into relational databases such as Oracle, Sybase and Informix; it also provides migration links to the company's proprietary language tool, BDx/4l and supports Santa Cruz Operation Inc Unix and AIX.
+CUMULUS ANNOUNCE WINDOW MANAGER FOR ALPHA TERMINAL
+Cumulus Technology Inc, Palo Alto, California will announce Personal Touch, a full-featured Window manager for the Cumulus Alpha Terminal: it enables users to move, resize or select windows and other on-screen features by point and click or through hot key commands; OSF/Motif or MS-DOS-style windows can be selected at set-up and it provides start-up dialogues, macro dialogues and exit dialogues to open and close applications; open applications can be displayed as full-screen, stacked or tiled windows depending upon user requirement, Cumulus says.
+INFORMATION DIMENSIONS INTRODUCE DOCUMENT MANAGEMENT FOR CLIENT-SERVER ENVIRONMENTS
+Dublin, Ohio-based Information Dimensions Inc will introduce DOCworks, a document management system for client-server environments: it can review and edit images, graphics and spreadsheets, and provides links into relational databases such as Oracle, Informix and Sybase; DOCworks supports Novell Inc NetWare, PC/NFS and Digital Equipment Corp's Pathworks protocols and it will run on Sun Microsystems Inc Sparcstations, Hewlett-Packard Co HP 9000s, Unisys Corp U6000s and IBM Corp's RS/6000s.
+TENON PLAN SYSTEM 7 EMULATION SOFTWARE FOR UNIX
+Macintosh software emulation developer Tenon Intersystems Inc, Santa Barbara, California is planning to introduce the latest version of Mach/ten, its Mach System 7 emulation software for Unix: based on Berkeley BSD 4.3 Unix, Version 2.1 adds virtual memory support, which provides protected model execution for Unix processing, Mac-like dialogue boxes, debugger and new software development tools.
+CLEO WILL DEMO 3270LINKIX SOFTWARE
+Cleo Communications Inc, Ann Arbor, Michigan, will demonstrate its IBM RS/6000-compatible 3270linkix emulation software: the package enables users to operate as IBM 3174 controllers and display terminals in SNA networks and includes IBM 3287 printer emulation.
+The initial release provides up to 254 simultaneous mainframe sessions, file transfer through CICS and CMS and support for IBM's NetView network management system; it also supports Santa Cruz Unix and Interactive Unix and it costs $7,250.
+XRT/3D FOR MOTIF ON SHOW
+Canadian firm KL Group Inc, Ontario will show XRT/3d for Motif, software that gives Motif applications with three-dimensional surface and contour colour widgets: it is available on Sparcsystems, Hewlett-Packard Co HP 9000s and IBM Corp RS/6000s.
+FRAME TECHNOLOGY WILL SHIP FRAMEMAKER AND FRAMEVIEWER 3.1
+Desktop publishing software house Frame Technology Inc, San Jose, California, will begin shipping versions 3.1 of FrameMaker and FrameViewer with native support for Univel Inc's UnixWare this week.
+FOUR SEASONS ADD COBOL FILE STRUCTURE TO SUPERNOVA
+Edison, New Jersey-based Four Seasons Software Inc says it has added Cobol file structure support to the SuperNova proprietary language: the Cobol support will enable users to build SuperNova applications which maintain Cobol files, as well as providing migration paths for Cobol data into relational database management systems; SuperNova is from $1,000 to $100,000 depending upon the system.
+ACUCOBOL TO PREVIEW ACUVIEW 1.1
+San Diego, California-based Acucobol Inc will preview AcuView 1.1, the latest release of its graphics package for Cobol, which enables reports written in Acucobol-85 to be presented as graphs, charts and tables; it provides 124 standard chart designs including bar charts, pie charts, table charts and word charts, and a range of customisation options.
+INTERGRAPH FLAGSHIP UNDER WINDOWS NT
+Intergraph Inc will preview Microstation, its flagship CAD/CAM software, running under Microsoft Corp's Windows NT — and will also show its new plug-in-and-go system, the PC 466, a 66MHz Intel Corp 80486 box, which comes with 32Mb RAM, 426Mb disk, TCP/IP and graphics accelerator; out now, it comes with a 17″ or 19″ colour monitor; Microstation for NT will ship the second half of the year.
+COROLLARY ANNOUNCE SURGE PROTECTION FEATURE
+Corollary Inc will announce the availability of CNS-1600, a built-in surge protection feature on its Connection Station communication servers: CNS-1600 is an Ethernet device, which enables users to hot key between multiple  simultaneous sessions with the same or different host; it provides protection for up to 16 serial lines; out this week.
+AMERICAN DIGITAL DATA ASSOCIATION TO SHOW ADS/3000 DISK ARRAY SUBSYSTEM
+American Digital Data Association Inc, Baldwin Park, California, will show the ADS/3000 Disk Array Subsystem, a host-independent array that supports RAID 0, 3 and 5: it can be connected to any Unix host with SCSI I or II interfaces, comes in a five channel configuration and supports fast and wide SCSI stores up to 5Gb of data; it costs $7,000.
+CONCEPTS DYNAMICS TP PREVIEW LATEST FINANCIAL SOFTWARE
+Schaumburg, Illinois-based Concepts Dynamics Inc will preview the latest release of its CDI financial management software, version 4.2: it contains two modules, the General Ledger and the Job Control system and enhancements to the General Ledger include cost allocation functions, on-screen view and edit of data feeds, accounting organiser, user defined menus, and customised reporting functions for financial statements; the Job Control system includes six levels of project definition such as project tracking, costs and time estimation as well as an enhanced customer billing system and an employee expense system, the company said; no price.
+COMPUSERVE ANNOUNCE WORLD CLASS FOR UNIX
+CompuServe Inc, Tampa, Florida, will introduce Unix versions of its World Class personnel and payroll software for IBM RS/6000s and HP 9000s.
+SYSTEMS STRATEGIES INTRODUCE UNIX TO AS/400 LINK
+New York-based Systems Strategies Inc will introduce Express Peer-to-Peer real-time communications software, for linking Unix systems to IBM AS/400s: Express Peer-to-Peer enables users to perform bi-directional file transfer, execute remote job submissions, print documents on both Unix and AS/400 printers and develop program-to-program applications using IBM's LU6.2 protocol; the software supports TCP/IP and IBM's APPN network and is available at the end of the month, selling for $20,000.
+ANDROMEDA ADD CACHE MEMORY TO SCSI-BASED COMPUTERS
+Canoga Park, California-based Andromeda Systems Inc will demonstrate the SCSI CacheMaster, its software that adds cache memory and RAM to SCSI-based computers: CacheMaster resides between the SCSI host adaptor and the tape and optical devices and comes in 2Mb to 320Mb memory sizes at $250 per Megabyte.
+JUDGE LIFTS RESTRICTIONS ON BERKELEY SOFTWARE DESIGN's UNIX: DISTRIBUTION STARTS THIS WEEK
+Unix System Laboratories Inc has suffered a surprise setback in its suit against Berkeley Software Design Inc for copyright infringement and misappropriation of trade secrets.
+US Federal Judge Dickinson Debevoise earlier this month denied Unix Labs's pre-trial motion for a preliminary injunction halting distribution of any of Berkeley Software's BSD/386 code.
+The decision lifts restrictions that were placed by the court on the tiny company several months ago that forbade it from distributing advance copies of BSD/386 code for beta testing, or production software.
+The company now intends shipping production code for the first time this week, saying it has hundreds of orders.
+Unix Labs made its motion based solely on its copyright claims, anticipating a victory at the upcoming trial and a court-ordered permanent injunction.
+The court denied the motion based on its finding that Unix Labs has no valid copyright on 32V Unix, an early 1978 version of the software from which the University of California at Berkeley's Networking Release 2 code is derived.
+Berkeley Software's BSD/386 in turn derives from Net2 and the court found that Net2 was in fact derived from 32V.
+Unix Labs is appealing the judge's decision, claiming that he is mistaken on a matter of law.
+Although a very early copy of 32V may have carried a copyright notice, it was removed based on the then-prevailing legal opinion that a copyright notice implied general circulation which, if true, would taint 32V's trade secret protection.
+Unix Labs maintains that 32V was a limited publication, further restricted by contractual restraints and subject to limited publication law and therefore did not require a copyright notice.
+The judge however found that it was published, and it is this ruling that Unix Labs is contesting.
+The court was not asked to rule on any of Unix Labs's trade secrets claims, according to the company's chief counsel, Sandy Tannenbaum.
+Whether or not Unix Labs is successful in its appeal, it believes it can still win its case on its other claims of misappropriation, misrepresentation, trade mark infringement and breach of contract.
+DEC TO OPEN UP ITS ACMS TRANSACTION PROCESSING MONITOR
+Digital Equipment Corp is expected to make its move into the open systems transaction processing market this month with OSF/1 and Windows NT versions of its ACMS Application Control and Management System.
+DEC is likely to add an open application programming interface to ACMS, which has previously been available only on VMS-based server systems.
+Both Alpha and iAPX-86 versions of the software are expected.
+In its planned new role as a software and services specialist, DEC is also believed to be considering marketing the software for use on non-DEC hardware.
+IBM-HEWLETT-PACKARD COMMON OPEN SYSTEMS INTERFACE ‘IN THE BALANCE’
+Will they or won't they?
+Hewlett-Packard Co and IBM Corp were still vacillating over whether or not an announcement of the COSI Common Open Systems Interface initiative would be forthcoming on March 17 at UniForum in San Francisco.
+Although it was originally IBM's idea, Hewlett-Packard now appears to be taking the lead — but the inclusion of other companies such as SunSoft Inc and Novell Inc is far from assured.
+The original idea is in danger of becoming diluted, and if everyone's technology and operating systems have to be accommodated, the danger is that — as with the Advanced Computing Environment consortium — the result won't add up to anything at all.
+MERCURY PREVIEWS ONE-2-ONE, ITS UK PERSONAL COMMUNICATIONS NETWORK PLANNED FOR THE SUMMER
+Mercury Communications Ltd, London has released details of its UK Personal Communications Network cellular service, to be launched this summer.
+It will be called One-2-One, the name under which Mercury Personal Communications Ltd will now trade.
+An integral answerphone will be included, as will Smart Card technology to enable users to share a phone by inserting their own cards.
+The company says it is aiming to reach 24% of the UK population by April 1994, but under the terms of Mercury's licence, it must be a nationwide service by the end of the decade.
+Mercury is cagey on pricing, but it says that an agreement with British Telecommunications Plc means that incoming calls will be 50% to 70% cheaper than calls to cellular phones.
+NETWORK GENERAL's SNIFFER GETS EXPERT EXTENSIONS
+Network General Corp, Menlo Park, California has enhanced its Distributed Sniffer System, and added Expert Analysis capabilities as the first phase of the product's development path.
+The new Expert Analysis software, which includes automatic problem identification, is claimed to provide three types of diagnostic information: Symptoms, Diagnoses and Explanations.
+At the lowest level, symptoms to which network managers are alerted include such things as a file re-transmission, while the diagnosis module steps in when a symptom repeats itself frequently and triggers a threshold, or when there is a single instance of a major network problem.
+Explanation screens then suggest possible causes for the identified problems.
+It will be available from April, and the list price will start from around £10,000.
+On a wider level, aims for the Distributed Sniffer over the next year fall into three categories: expanded applications (such as the new Expert Analysis); increased integration with umbrella management systems; and a greater range of price-performance options.
+Three main system enhancements are planned: full support for the RMON Token Ring-monitoring Simple Network Management Protocol Management Information Base in server and stand-alone configurations; an Expert Internetwork Server enabling Distributed Sniffer users to identify problems, understand performance, and pinpoint router-based internetwork traffic costs; and SnifferMaster for Windows, an improved user interface for MS-DOS and Windows Distributed Sniffer users.
+Network General also intends that SnifferMaster for Windows should provide future integration with other Windows-based systems such as the Novell Inc NetWare Management System.
+On the integration side, Network General is working to enable Distributed Sniffer to forward alarming information to IBM Corp's mainframe version of NetView, and also intends to enhance Distributed Sniffer's ability to work with SunNet Manager, for example providing information to SunNet Manager's network map display.
+Finally, the company is to add support for additional protocols such as Vines and AppleTalk.
+AST DESCRIBES THE KEY FEATURES THAT DIFFERENTIATE PREMMIAs FROM THE RABBLE
+AST Research Inc has launched its new Premmia range of high-end personal computers for the corporate market (CI No 2,118), which it claims are better systems than either IBM Corp's or Compaq Computer Corp's.
+The Premmia family is intended to replace the existing Power Premium line, which currently makes up 30% of AST's UK turnover.
+According to corporate sales manager Neville Street, AST has not suffered in any way as a result of the personal computer price war.
+Rather, it has  abenefited from focussing on what it does best, and has learned from past mistakes that it cannot charge a premium on its products —‘if you live by price, you die by price,’ Street believes.
+The secret of AST's success, he claims, is that it designs, engineers and manufactures its own products, and then sells them at a competitive price via resellers, which add software and value-added services.
+It is is definitely not a clonemaker, Street added, and believes in keeping overheads low, employing 4,000 staff worldwide.
+And the proof of the pudding is 40% revenue growth worldwide year-on-year.
+In 1991, turnover rose to $944m from $688m the year before, and forecasts for the 1992 fiscal year to June is for around $1,300m.
+Phenomenal
+In the UK, however, revenues increased by a phenomenal 88% in 1991, following major contracts with Hambros Bank, Glaxo Pharmaceuticals and the Hong Kong & Shangai Bank.
+And Street is sure that the Premmia range can only build on this success.
+In his opinion, it is unique in terms of security and upgradability.
+Firstly, the family can be upgraded from an Intel Corp 80486 processor to the soon-to-be-released Pentium chip, as AST has participated in the Intel OverDrive Ready programme.
+This enables it to build a 238-pin ZIF socket, which will house OverDrive Processor technology, into Premmia machines.
+Second, AST has enhanced the security of its new range by such items as the so-called ‘Walk-n-Lock’, which enables users to pre-set a time-frame after which the machine will automatically shut down.
+A password must then be entered to start the system up again.
+The user can also lock out his floppy disk drive or input-output port, if the computer's log-in count indicates someone has been using it illicitly.
+Finally, a network administrator can identify a particular computer via user-defined asset tags and factory-installed serial numbers stored in read-only memory in the machine's motherboard, so as either to monitor or upgrade the box over a network, using FlashBIOS.
+FlashBIOS enables the image of the new BIOS to be flashed across the network.
+Each machine is subsequently updated when a user logs on.
+Other appealing features, according to Street, include personality modules, which integrate Ethernet on the motherboard, eradicating the need for an EISA slot, optional cache memory modules, and a Local Bus video subsystem.
+The subsystem is claimed to provide a 200% improvement on the graphics speeds of Power Premiums, in a Windows environment.
+The Premmia range comprises three models of 4/33s and 4/33 machines, all coming with 4Mb of RAM.
+There are also three versions of 4/50d and 4/66d boxes, which have 8Mb of RAM.
+Prices range from £1,500 to £3,250, and each machine has an EISA input-output bus and five drive bays.
+In addition, two serial ports, one parallel port, one PS/2-compatible mouse port, keyboard port and IDE drive interface are all integrated onto the motherboard to save on expansion slots.
+All products are available now.
+SUN's SUNSOFT IS NOW EXPECTED TO GET SOLARIS FOR INTEL CHIPS OUT IN MAY
+Our spies think the best guess for general availability of Solaris-on-iAPX-86 is May.
+They say what they're seeing from SunSoft Inc right now is a very commercially packaged product that looks to be pretty much a full-blown release but lacks personal computer compatibility or the ability to run Santa Cruz Operation Inc Unix software because of the extensions.
+It will however run Interactive and 386 System V.3 software.
+It apparently includes compilers, but hardware support is slim and they'd like better graphics.
+Despite rough edges, it seems to have everything in it that Solaris 2.1 has and performs at the Sparcstation 2 level.
+But those that want to sell Solaris-on-Intel are going to have to be reauthorised.
+SunSoft is planning on releasing details of the programme that it's putting together at its developers' conference later this month.
+It will probably be in two levels like SunSoft's Interactive sales strategy.
+To qualify you'll likely have to show experience, solvency and added-value, sign up for training and promise not to disgrace the family.
+WYSE TECHNOLOGY IS READY WITH PENTIUM-READY UNIX, NT MULTIPROCESSORS
+Wyse Technology Inc last week introduced its widely previewed third-generation symmetric multiprocessor system, the Series 7000i Model 760MP.
+The system, initially positioned as a Unix multi-user box and network database server, can support more than 250 active users and starts at $20,000 — £19,500 — for a uniprocessor.
+The system is scalable to five Intel Corp 66MHz 80486DX2 chips and will be field-upgradable to Pentiums once they become available.
+Additional boards list for $7,500.
+The system will also be sold as a Microsoft Corp NT server, starting at £22,000 and going to £34,500.
+It runs an SMP implementation of Unix System V.4 with Wyse-enhanced multithreading to tune performance.
+Optimal performance reportedly tops 200 MIPS.
+Maximum user load is 792 under the AIM III benchmark.
+A new highly integrated board design optimises the burst mode of the EISA bus.
+Data is transferred at 33Mb a second between the 32-bit EISA bus and the 64-bit Wyse Wyde bus, a four times input-output improvement over the previous generation.
+The board also features a controller ASIC that centrally manages system interrupts, improving scalability and overall throughput.
+There is SCSD-2 support for newer peripherals such as CD-ROM.
+It also improves data transfer to 10M-bytes a second, double the previous SCSI-1 drives.
+The system will handle a maximum of 52Gb of SCSI-2 storage via four expansion chassis.
+There are nine 32-bit EISA slots and six 64-bit proprietary Wyde slots.
+A 320Mb/525Mb cartridge tape drive is included.
+The system will boot remotely via an internal modem.
+Firmware upgrades can also be done remotely or with a floppy disk.
+The box ships with 16Mb expandable to 512Mb.
+Microsoft has used the box as a development and test system for multiprocessing NT.
+Development versions are $10,000 to promote NT applications development.
+The 760MP was designed on its big brother the 960MP.
+Word is it took only three days to boot Unix on the prototype.
+ALMOST BEFORE IT's ANNOUNCED IN EUROPE, IBM's THINKPAD 700T IS OBSOLETED BY REFINED 710T IN US
+IBM Europe only began shipping its ThinkPad 700T pen-based portable at the end of February (CI No 2,113), but already the company has announced its successor — the 710T in the US.
+IBM says, rather coyly, that the 710T ‘corrects deficiencies found in the earlier system’, and describes it as lighter, more powerful and more flexible.
+Specifically, about 1 lb has been knocked off the weight of the new model, to make it around 4 lbs, it has a 25MHz IBM 486SLC processor.
+The machine is expected to ship in the US from the middle of the month, with an entry price of $3,000.
+At the same time the company has cut the price of its earlier ThinkPad 300 machines by about $300.
+MICROMUSE OF PUTNEY IS DEVELOPING COMPLEXITY MANAGEMENT SOFTWARE FOR LOOKING AFTER NETWORKED SYSTEMS
+MicroMuse Ltd, the Putney, London-based Sparcsystems builder turned systems integrator, is one of just a couple of UK firms distributing SunConnect's SunNet Manager to other resellers and system integrators.
+MicroMuse is using the software — tools, services and agents for network management — as a backbone to push sales of consultancy, support, training, third party software, Sun Microsystems Inc hardware and its own complexity management systems.
+Managing director Chris Dawes claims that MicroMuse can supply around 70% of the third party software products available on the market that work with SunNet Manager and can integrate all types of kit using its own resources or those of its 15 value-added integrators and six networking partners.
+Dawes believes that getting users' networks up and running properly is one of the biggest  challenges facing the industry.
+In two or three years' time, high-end personal computer-type boxes will look quite alike, he thinks.
+Users will have Unix or similar multi-tasking operating systems, networking and fairly similar graphical front-ends running on powerful CPUs from a variety of vendors that will need integrating.
+Suppliers are currently working furiously to bring all manner of object-oriented and distributed computing software services, mechanisms and applications to market — targeted at these types of systems — which won't work at end user sites unless those users have properly functioning networks of integrated systems on which to run, says Dawes.
+MicroMuse believes that Sun NetManager is the best tool for the job (although an SQL link for the software is currently available only from a third party).
+MicroMuse has written its own asynchronous, event-driven distributed transfer protocol (remote procedure call) for the complexity management software it has nearly completed, which again, is targeted at these environments.
+The 120,000 lines of C code is  currently on beta release and will be launched at the Unix Expo show in New York this September.
+Beyond this, Dawes says that MicroMuse will be writing and selling more of its own applications in future.
+With three years of system building and integration under its belt, the company intends to focus on software distribution and development for the next two or three years.
+Privately-held MicroMuse recorded revenues of £3.2m to September 1992, does 60% of its business on Sun systems, and reports that 40% of its sales are software-related.
+Former Sun UK staffer Andrew Russell is now marketing director at the company, which has 20 employees.
+PENTIUM PERFORMANCE FOR POWERPC
+Based on a paper the PowerPC people delivered at IEEE's CompCon get-together in San Francisco two weeks ago, Electronic Engineering Times is saying the 601 chip sampling now is a lot more powerful than when it was first described.
+IBM Corp is also positioning PowerPC against Intel Corp's Pentium, saying it will offer the same performance at a much lower cost.
+Significantly, the 601 will be usable in symmetric multiprocessing file servers.
+It incorporates new instructions, more pipelining than expected, support for single-precision arithmetic and a new cache structure.
+Meanwhile the high-end 620 chip, for moderately to massively parallel servers, is said to be being set for 64 bits with a special environment mode bit that can switch between 32- and 64-bit operation.
+INGRES TOOLS OPENED UP
+Ask Computer Systems Inc has formed a new software development unit to open up its ManMan/X manufacturing development environment and Ingres database and tool set for use in conjunction with alien systems.
+The unit will provide application programming interfaces to Oracle, Sybase and Informix databases, gateway products, and Ingres/Windows4GL linking to non-Ingres systems.
+The new division joins Ask's existing businesses, Ingres, Ask Computer Systems and Data 3 Systems.
+First products are scheduled for release by year end.
+Ask also set up a new distribution business unit which will integrate its worldwide direct sales operations.
+H TELEWEST TO BE THE FIRST UK CABLE TELEVISION OPERATOR TO INSTALL ITS OWN TELEPHONE EXCHANGES I2128 J02128 E16 Mar 1993 D930316 M9303 Y93 CAGREE T
+TeleWest Communications Group Ltd, the UK joint venture between US West Inc and Tele-Communications Inc, is to install its own telephony switching systems, making it, it says, the first UK cable television franchise holder to do so.
+It is to use the DMS-100 system from Northern Telecom Ltd to provide switching for its telephony customers, and according to TeleWest, the value of the agreement may reach £50m over five years.
+TeleWest operates 16 cable television franchises, and currently has 76,000 residential and business telephony customers.
+Currently interconnection services are provided by Mercury Communications Ltd exclusively, and TeleWest says that Mercury will continue to be the preferred carrier of national and international calls.
+With the first switch due for installation in Birmingham in August, there is to be a subsequent roll out in the other franchise areas in the following months.
+The areas to be covered are the Cable Corp in Windsor and Middlesex, Newcastle, London South, Cable London, Avon, Edinburgh, and the Thames Estuaries.
+In addition, TeleWest says that it is in negotiation with other cable franchise holders on possible interconnection of their networks.
+Among the services that TeleWest is touting as potential offerings is flat-rate billing for calls between its customers, call waiting, third-party conference, call barring, distinctive ringing and call forwarding.
+PEEK's EFFORTS TO BECOME THE TRAFFIC LIGHTER TO THE WORLD START TO PAY OFF
+Multinational traffic and field data systems group Peek Plc, which also owns Husky Computers Ltd, has turned in what chairman Ken Maud describes as a ‘satisfactory performance in a tough economic environment.
+Pre-tax profit rose 17.7% to £7.1m on turnover up 5.6% to £88.8m.
+The Abingdon, Oxfordshire company is pleased with its slow but steady improvement, particularly given the investment made over the year in overseas expansion and new products.
+It continues to place strong emphasis on tight cost controls and has seen net assets rise 14% to £26.9m.
+Net balances now stand at £11.4m. 1992 saw Peek ridding itself of Greenpar Connectors Ltd and its distribution company Dubilier GmbH; of the US utility sales and service business of Husky Computers; and the remaining aerospace division of New York-based Computer Instruments Corp.
+These were counterbalanced by acquisitions of EB Signals A/S's four traffic systems companies in Denmark, Finland, Norway and Sweden — resulting in the formation of Peek Traffic  Scandinavia ; the  Norwegian traffic company Gemo Elektro A/S (CI No 1,998); East German company Unicomp (CI No 1,905); a majority shareholding in Munich-based STM; and the purchase this month of Signal Control and Signal Maintenance: these US acquisitions, Peek reckons, make it one of the world's largest traffic controller suppliers, and also represent a new departure into the service sector.
+Peek Traffic's operating  profit rose 74% to £6.6m in the year on turnover up 56% to £54.1m; Maud attributes some 15% of this increase to organic growth, with acquisitions providing the balance.
+Apart from expanding its Scandinavian operations, the division completed the integration of Ferranti's Traffic activities, moving signal production to Winchester and systems development to Cheadle.
+In the UK, progress was made on a number of transport projects including the Heston and ‘Birmingham Box’ schemes with further contract successes seen for 1993.
+And an investment in Luton-based General Logistics Plc, which is developing the world's first real time driver information system, Trafficmaster.
+Peek Verkehrssysteme
+South East Asian operations were expanded with the creation of Peek Ltd in Hong Kong and acquisition of a 41% shareholding in Sicuan Modern control System Engineering Co Ltd in Chengdu, China.
+This has yielded a further two contracts.
+Peek Traffic Inc in the US has traded well ‘in difficult markets’, its Transyt traffic system having seen ‘improved profitability despite’ reduced government spending there.
+It says business has been healthy in the Netherlands where Peek Traffic BV reportedly had an excellent year and the future for the newly consolidated German operations, Peek Verkehrssysteme GmbH, also looks good, with prospective introduction of motorway guidance and public transport systems in Germany.
+Peek's field data arm saw sales decline to £34.7m and operating profits drop to £2.1m, mainly due to the weak market conditions suffered by Peek Measurement in Europe.
+Improvements are expected in 1993 though and the prospects for US operations Polysonics and Brandt, now managed by the same team as Peek Measurement, are said to be encouraging.
+Husky's combined European and US operations saw increased profits and turnover, in spite of the problems caused by repeatedly delayed orders.
+The relocation of Husky's UK operations to Coventry has paid off, and a large order has already been placed through US distributor Itron Inc, which took the US utility sales and service operations in December (CI No 2,076).
+During 1992, Husky introduced two new handheld computers: the MS-DOS based FS/2 and Hunter 16/80.
+Systems development was concentrated in the newly released Field Base package for service engineer operators.
+Future developments will continue to focus on handheld mobile data communications.
+Peek is fairly confident of its long term prospects reckoning that its rivals have been weakened by recession and that its worldwide markets show  significant growth potential: it will be seeking to consolidate its international position with alliances and joint ventures.
+For the short term it sees patchy signs of improvement and no speedy recovery.
+OLIVETTI PROPOSES BIG FUND-RAISING EXERCISE AFTER $406m LOSS FOR 1992
+Reporting a daunting $406m loss for 1992 (see below), Ing C Olivetti & Co SpA is looking to bolster its balance sheet with a rights issue and bond offer to raise $560m.
+It blames heavy competition and the international economic slowdown for the losses, but says it is confident of surviving the crisis in the computer sector.
+Shareholders will be offered the alternative of buying six new shares for every four held, at a price still to be set, or of taking three shares and three bonds with warrants making them convertible into shares at a later date.
+The capital increase is to help speed the investment programme and to achieve Olivetti's growth targets.
+KODE CREATES KAMTRONICS TO EXPLOIT LEAD IN CIRCUIT BOARDS, EXPANDS IN FAR EAST
+Calne, Wiltshire-based Kode International Plc has created a new company, Kamtronics Ltd, to co-ordinate its expanding high volume printed circuit board manufacturing operations in the Far East (CI No 2,126).
+The new division comprises the existing Printronics Chinese Allied Plant at Taijaing with additional manufacturing facilities in Seoul, Korea; Johar Bahru in Malaysia; and Taiwan.
+It will be responsible for production of single sided, high tech plated-through-hole and multi-layer boards.
+It will complement Kode's UK-based printed circuit board company, Kam Circuits Ltd, which produces prototype and also small to medium high tech plated-through-hole and multilayer boards.
+Like its parent, the new entity will be run from Wiltshire.
+Former Kam Circuits sales director John Calvert is to serve as managing director and Kam Printronics general manager David McActear will be director.
+It is from this operational base that customers' board designs and the necessary tooling will be prepared.
+The specifications will then be transmitted by modem over to the Far East for manufacture, and the final products shipped back, by air, to the UK for testing.
+Turn around time for single-sided boards is around three weeks from sample approval; is five weeks for more complex double-sided polymer silver through hole boards; and four weeks for plated through hole and multilayer boards comprising between four to eight layers.
+The Malaysian plant offers 65,400 square yard per month single-sided board, and 43,600 square yard double sided board capacity.
+The Chinese and Korean facilities jointly offer 21,800 square yard per month double sided capacity.
+A further 10,900 square yard per month high volume multilayer capacity is also available in China.
+Rush orders, can still be dealt with in the UK.
+Calvert reckons Kamtronics' centrally controlled design together with the broad scope of design and manufacturing expertise it offers should prove very attractive to customers.
+Its commitment to standards will also be reflected the various impending ISO 9000 approvals planned for this year — as a multilayer and plated through hole board supplier in May; as a single-sided board supplier in October; and as a services operation, in September.
+The firm, which will do boards for a whole range of products including computers, telecommunications and satellite receiver and industrial control system products is looking for further partnerships in Taiwan, Japan and the US and is three months away from announcing its next deal.
+UNIVEL SLASHES TAGS ON UNIXWARE AND ADDS VALUE
+The Univel Inc joint venture of Novell Inc and soon-to-be-Novell subsidiary Unix System Laboratories Inc yesterday went onto the desktop Unix warpath by cutting prices for the desktop and application server versions of UnixWare, ‘taking away one of the few remaining constraints to the rapid market adoption of Unix system as a client-server system’ for iAPX-86-based computers.
+At the same time, Univel expanded capabilities of the UnixWare Personal Edition to run MS-DOS and Windows applications under Unix.
+The UnixWare Personal Edition for desktop users is cut 50% to $250 and the UnixWare Application Server is cut 48% to $1,300; the software development kit is cut 40% to $600.
+While the previous implementation of UnixWare supported MS-DOS applications, the new one bundles the Windows Merge capabilities to support Windows 3.0 and 3.1 applications under Unix, previously a separately-charged item at $400.
+IBM OEM PACTS FOR 486SLC BOARDS FROM ETEQ, ALARIS
+Under its agreement with IBM Corp, Intel Corp can only sit back and watch while IBM stuffs its versions of the Intel iAPX-86 microprocessor family into boards and sells them on the OEM market, and yesterday, IBM's Electronic Card Assembly & Test Plant in Charlotte, North Carolina announced contracts totalling $344m to manufacture personal computer planar boards for two California firms: Eteq Microsystems Inc in Milpitas and that new company, Alaris Inc, just formed by those Everexes in Fremont (CI No 2,121).
+The boards will use IBM's 486SLC2 microprocessor.
+The contracts — $217m for Eteq and $127m for Alaris — are the largest yet for the IBM Charlotte facility, which began contract manufacturing last August.
+Production and shipment has already begun, and the contracts extend through the first quarter of 1994.
+EUROPE WANTS $15,000m FOR NETWORK FOR BUREAUCRATS
+Blithely oblivious to the fact that France is about the only member country with any money that is not running an enormous budget deficit, the European Commission yesterday outlined a grandiose plan to spend $15,000m on a network to link bureaucracies in the 12 European Community countries to help their authorities to exchange information in areas from social security to natural disasters in the single market.
+COMPANY RESULTS
+Ing C Olivetti & Co SpA has reported a net loss for 1992 equivalent to $406m, up from a loss last time of $287m, on turnover that fell 6.8% at $5,009m.Figures converted at $0.000623 to the Italian lire.
+Peek Plc reported £8.3m net profits for the year to December 31 against £25,438 losses, incurred after 29,431 extraordinary charges, on turnover that rose 5.6% to £88.8m.
+Pre-tax profits rose 17.7% at £7.1m.
+Net per share rose 16.6% to 4.2 pence.
+PERSONAL DIGITAL ASSISTANT LOOKS HOT
+Amstrad Plc's Personal Digital Assistant due for launch on Thursday sounds like a pretty hot property: the Daily Mail has had a sneak preview, and says that it is a £300 device that fits a jacket pocket with a pen-enabled screen on which the user can write notes and draw pictures that can be dumped onto a personal computer —‘looks good, feels good and is very clever’ says the guy that saw it.
+SOME BEWILDERMENT OVER OLIVETTI FUND-RAISING
+Some analysts are puzzled at Ing C Olivetti & Co SpA's planned $500m-plus fund-raising exercise (see page seven), Reuter reports from Milan, because despite all its other problems, the company was thought to have no short-term liquidity problems — net debt is relatively low and the balance sheet is supposed to be healthy.
+ITALIAN DEAL RAISES ALARM
+Another Italian deal sounding alarm bells is one announced over the weekend under which Istituto per la Ricostruzione Industriale SpA, IRI, will lend some 42 pct of Banca Commerciale Italiana SpA to telecommunications holding company STET SpA for three years and STET will pay IRI $212m for the dividend flow from 440m BCI ordinary shares — by juggling the dividend flow, tax credits on the payments and amortisation, analysts reckoned STET stood to gain to the tune of $300m and IRI would in return get a much needed cash injection, but the move is seen as a panic measure by IRI.
+ZENITH CUT NOTEBOOK PRICES
+Compagnie des Machines Bull SA's Buffalo Grove, Illinois-based Zenith Data Systems yesterday cut prices on some of its notebook personal computers by up to 13%: the Z-Note 325Lp Model 85 with a 25MHz 80386SL microprocessor, 9.5″ passive-matrix colour display and 85Mb hard drive is $2,500, off 7%.
+ZEOS ADDS FOUR LOW-COST PCs
+Zeos International Ltd added a line of four low-cost personal computers based on Intel Corp's 80486SX at from $1,400 for a complete 486SX-25 system and $1,500 for a 486SX-33: called LiteLines, they are targeted at network and home office users and have room for future installation of CD-ROM or tape back-up unit.
+DELL LAUNCH DIMENSION COLOUR NOTEBOOK
+Dell Computer Corp launched a colour notebook computer at $2,000: the Dimension NL25C has a 25MHz 80386 microprocessor, 9″ screen, weighs 6.6 lbs and has a rechargeable NiCad battery that is claimed to run five hours between charges.
+TELEKOM INVEST $15m IN UKRANIAN TELECOMMUNICATIONS
+The Deutsche Bundespost Telekom has nodded through the taking of a 19.5% stake in Ukranian Telecommunications: other shareholders in the group include AT&T Co with 19.5% and Koninklijke PTT Telecom Nederland NV with 10%; 51% is held by a Ukranian consortium; Telekom will invest $15m in the venture.
+XEROX TO RESELL CHIPCOM ONLINE SYSTEM CONCENTRATOR
+Xerox Corp's Network and Professional Services organisation has followed IBM Corp down the well-beaten path to Chipcom Corp's Southborough, Massachusetts headquarters and done a deal with the firm under which it will resell Chipcom's ONline System Concentrator intelligent switching hub line in the US.
+FRAME TECHNOLOGY WARNS OF REVENUE SHORTFALL
+Frame Technology Corp, San Jose warns that it will likely report a first quarter loss on revenues 15% to 20% below analysts' expectations of $20.5m; it did $770,000 net or $0.07 per share on $13.3m a year ago and says the shortfall is from the Frame North America distribution organisation ‘which has experienced lower than expected sell-through;’ business projections are on target for Europe and OEM units but it is restructuring the North American sales organisation, establishing a separate sales division to focus on direct corporate sales.
+SYNOPTICS CUTS LATTISNET PRICES
+Santa Clara, California-based SynOptics Communications Inc has cut prices on its LattisNet family of Fibre Distributed Data Interface intelligent hubs, saying the cuts were made possible by lower component costs and better manufacturing  efficiencies — the 2000 FDDI Workgroup Hubs were reduced immediately, with the 2912A with 12 shielded twisted pair master ports and two fibre optic A/B ports reduced by 36 to $10,000, or $714 per port; the Model 3904 FDDI Fiber Optic Host Module was cut 27% to $5,500 and the 3910S-04 FDDI Network Management Module was cut 33% to $10,000.
+CONTINUUM AND PAXUS HOLD ACQUISITION DISCUSSIONS
+Austin, Texas-based software developer Continuum Co Inc has entered into discussions with Paxus Corp Ltd, a consulting and computer services firm based in Sydney, Australia, about a possible acquisition of all of Paxus's equity in exchange for shares of Continuum.
+MOTOROLA 88110 RISC IN PRODUCTION BUT OFF TARGET
+The Motorola Inc 88110 RISC has gone into production but it isn't reaching its original 50MHz target, according to Microprocessor Report.
+HALCYON SHIP REMOTELY POSSIBLE/DIAL
+West Byfleet-based Halcyon Direct Ltd is shipping Remotely Possible/Dial from Avalan Technology Inc the product is designed to enable users control remote Windows machines over a modem link and the company says that it overcomes speed restrictions that some similar products run up against when communicating in a graphic intensive environment; it costs £145.
+INTEGRIX INTRODUCE NEW KEYBOARD
+Sun Microsystems Inc worshipper Integrix Inc, based somewhere in darkest California, has come up with a new keyboard called the S5+ that incorporates the functionality of Sun's new Type 5 but can also be used with all Suns, Sun-compatibles and personal computers: it is targeted at mixed computer environments and X terminals and it requires no special device drivers.
+PENRIL DATACOMM LAUNCH WANSERVER FAMILY
+Basingstoke-based Penril Datacomm Networks Ltd has launched its new WANserver family, a modular chassis that can take a variety of local network, wide area network and asynchronous devices such as terminals or printers; each chassis can support up to 34 wide area links, 272 async users or 1,200 Ethernet local network sessions Penril said.
+CYLINK LAUNCH DATA ENCRYPTER FOR SECURE DIAL-UP LINKS
+Also in Basingstoke, Cylink Ltd has launched the LS-20 Low Speed Data Encryptor for people that want to secure their dial-up links: the company also announced a rack-mounted system that can take up to 12 encryption boards — they use either DES or the company's proprietary encryption algorithm and come with V.24, V.28 and RS-232 interfaces; the stand-alone encryptor costs £1,250, the hub system £2,800 plus £900 for each board.
+EMERALD SYSTEM RELEASE XPRESS LIBRARIAN VERSION 2.0
+Emerald Systems Inc of San Diego has released version 2.0 of its Xpress Librarian network back-up system: the new release includes support for Windows for Workgroups.
+ITU HOLD FIRST WORLD TELECOMMUNICATIONS STANDARDISATION CONFERENCE IN HELSINKI
+The International Telecommunication Union is holding its first World Telecommunications Standardisation Conference in Helsinki March 1 to 12: the conference succeeds what was formerly called the CCITT Plenary Assembly, and follows the ITU's restructuring announced last year.
+ALL CONTRIBUTORS ACKNOWLEDGED
+AT&T Co and Unix System Laboratories Inc want to be sure that no one that contributed significantly to the advance of Unix these past 24 years is overlooked at the big bash they're throwing at UniForum; all obscure names gratefully received.
+SUNSOFT DIRECTOR LEAVES
+SunSoft Inc's director of Intel Corp iAPX-86 product marketing, Allan Snell, has left the company to go and live in the house he's been building in Boulder, Colorado.
+ISLAND GRAPHICS CEASES TO SELL DIRECTLY TO RESELLERS
+San Rafael, California-based Island Graphics Inc will no longer sell directly to resellers: this week, as a transition, it will set in train a reseller programme called Palm Partner to offer distributor-level resources, lead passing, technical support and discounts to US and Canadian resellers who buy its software through its actual distributors Access Graphics Inc, Ingram Micro Inc and Merisel Inc.
+XINJIANG UYGER REGION SPENDS $26m ON TELECOMMS LAST YEAR
+The Xinjiang Uygur Autonomous Region of the People's Republic of China spent around $26m on telecommunications last year: 10 major projects were completed in 1992, including a 125 mile fibre optic trunk, new lines, pager facilities and satellite earth stations.
+PROCESS SOFTWARE ANNOUNCES NFS CLIENT FOR UCX
+Framingham, Massachusetts-based Process Software Corp has announced NFS Client for UCX, a TCP/IP networking program bringing Network File System client capabilities to DEC's TCP/IP Services for Open VMS: prices range from $390 for workstation class systems to $8,470 for mainframe systems; available now.
+ISDN SERVICE BETWEEN JAPAN AND SINGAPORE UNDER WAY International Telecom Japan Ltd reports that it has started its ISDN service between Japan and Singapore, in co-operation with Singapore Telecom: it is in negotiation with other carriers and says it intends to extend its coverage to France and the Netherlands.
+NEW PARTNER IN MALAYSIAN VENTURE
+Mobile Telecommunications Technology Corp says Telekom Malaysia Bhd will become a partner in its Malaysian joint venture to build a nationwide wireless messaging system.
+AYALA CORP SIGN AGREEMENT WITH SINGAPORE TELECOM
+Ayala Corp, the Philippines biggest conglomerate says it has signed a generalised telecommunications co-operation agreement with the state owned Singapore Telecom Ltd.
+SWEDEN SUFFERS MOBILE CHARGE FIDDLING
+Sweden is the latest country to suffer from criminals fiddling with mobile phones to re-direct bills — thousands of phones were stolen, altered and sold back to the market as ‘no charge phones’: 10 people have been arrested so far for the crime, which came to light when some subscribers reported bills of $70,000 more than they were expecting; police said that some of the men arrested were associated with the the Swedish state phone company Televerket and L M Ericsson Telefon AB, Reuter reports from Stockholm.
+SWISS FACE-UP TO PAGING COMPETITION
+The Swiss Post and Telecommunications authority is going to face competition in paging services: the Federal Communications Office has said that two rival paging networks will be set up — the PTT will get one licence, the other will be put out to tender; licence applications must be in by the end of April.
+SYNOPTICS RECEIVE UNIPART ORDER FOR INTELLIGENT HUBS
+SynOptics Communications Inc has announced an order from the Unipart Group of Companies for its System 3000 intelligent hubs, which will be used to spearhead the latter's migration from IBM Corp mainframe systems to personal computer local networks: the order comes via network integrator Harris Adacom, and comprises seven System 3000 hubs which will be used to run Token Ring and Ethernet; the total contract is worth £250,000, and SynOptics says it won the order ahead of competition from Cabletron and IBM.
+NCC ANNOUNCES NEW EDI TRAINING COURSES
+The UK National Computing Centre, based in Manchester, has announced three new training courses covering different aspects of Electronic Data Interchange: originally developed by PFA Ltd and the Simpler Trade Procedures Board, the courses are designed to overcome the lack of awareness of the benefits of the technology; the three courses are called EDI: A Management Overview, EDI Implementation Workshop, and Implementing EDI Standards.
+NEXOR APPOINTS LONDON RESELLER
+NeXor Ltd, formerly X-Tel Services, has appointed London-based Business Systems Group Ltd as its first value-added reseller: among the products that the company will now be selling are the XT-Quipu X.500 Directory application, and the XT-PP X.400 message transfer agent.
+NETWORK GENERAL OFFER FURTHER SYSTEM FOR SNIFFER
+Menlo Park California-based Network General Corp is offering another system for its Sniffer Network Analyser: a new version will run on the Toshiba Corp T6400/DX2 colour portable running at 50MHz; currently the new implementation supports only Ethernet, but Token Ring support is promised for the second quarter; the move looks as if it has been caused by the chronic shortage of the Compaq Computer Corp machines that form the basis for the existing Sniffer systems.
+TIS LTD LAUNCH GENESIS MX CALL LOGGING SYSTEM
+Slough, Berkshire-based TIS Ltd has launched a telephone call logging system aimed specifically at UK local authorities: dubbed Genesis MX, the system is claimed to produce cost centre recharge reports and time-to-answer reports in line with Citizen's Charter recommendations; personal computer-based, the product is also claimed to provide flexible recharge reports (allowing for cross-billing of departments) which can be linked to micro and mainframe systems for automatic accounting; no word yet on list price, but TIS is also introducing a rental scheme for the system.
+VERIFONE ANNOUNCE NEW APPOINTMENT
+Uxbridge, Middlesex-based VeriFone (UK) Ltd has announced the appointment of John Hinds as vice-president and general manager of the International Division of its parent company VeriFone Inc; Hinds joins the company from AT&T Co where he was a senior vice-president and had been president of the AT&T International arm since 1987.
+ORACLE CARRY ON REGARDLESS
+Takes more than a little snow (like four feet of it in the suburbs) to slow down the charging bull of Oracle Corp, and the company yesterday said that ‘Through Rain, Sleet or the Coldest Arctic Snow in Century, the show will go on for Oracle's Product Announcement of Cooperative Development Environment in New York City today!’ adding that ‘If you are stuck on the sunny west coast attending UniForum, please join us for the delayed CDE announcement and demonstration.’

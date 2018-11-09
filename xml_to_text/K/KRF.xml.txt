@@ -1,0 +1,1052 @@
+
+
+Hello.
+Computers are used in all walks of life, although so far in our series of programmes we've largely been looking at scientific applications.
+Today, however, we're going to examine quite a different area — how computers can help librarians to make better use of their stock.
+Peter Stone is a librarian at the university.
+Peter, how useful have you found the computer in our library?
+Well first of all I suppose one should say that we don't just use one computer, we, like lots of other libraries, have got access to a large number of computers, and indeed you'll find these computers being used elsewhere for the same sort of way.
+Probably most people have seen displays of Prestel, even in television rental shops, which is a system running through the Post Office network accessing large amounts of mainly factual information — things like telephone directories, like timetables, like oh a lot of business information.
+That's very effective if you're dealing with factual information which is changing fairly rapidly, and I think we'll see quite a growth of that in the next few years, but libraries aren't just stores of factual information; they store a large number of books and articles and they need access to that too, and probably the most typical external use of a computer in libraries and in a university library, academic library, these days is to access the huge stores of information on scientific publishing.
+There's one gigantic computer in California, which has got access to a hundred databases there called the stores of information, compiled mainly by the publishers of journals.
+It's got thirty million articles in it, when you can find information, pull out articles relevant to your needs, by looking for authors, looking for words in the text and you can look at the summary of the article very quickly.
+In both Prestel and those sorts of things as you use the system you pay, and you pay for the telecommunications costs, you pay for the computer costs, and you pay for the information that you receive.
+And that sort of worldwide sharing of information, I am sure, is going to grow.
+However, my own interest, perhaps, is more in what a library, a typical library not just a university library, can do with its own computer, and most of our  most of our readers, most of the people who use libraries expect to find books in those libraries and expect to find them when they want them, and our interests have been angled very much towards improving that sort of service.
+So there's a sense in which you use a computer for all sorts of different purposes.
+You use the computer when books are issued, for example?
+Yes, I'm sure most people by now are quite familiar with the use of computers in this way.
+In fact, in about 1971 there was a sudden spate of development in this area, and both the University Library and what was then Brighton Public Library and West Sussex all  were innovators in those days, using computer-based lending systems, which used little cards with lots of little holes in them and — I am sure they are familiar to lots of people — in the last few years you'll have seen those holes replaced by sort of zebra stripes erm what are called bar codes in the trade, and those bar codes you'll also see on your groceries all over the place.
+That's an interesting problem, the way we communicate erm a computer is not the way we necessarily think of it.
+You can only distinguish your library card from that of a book by the difference in the thickness of one line.
+It's just a thick line for humans and a thin line for books, possibly, but it works and we haven't had any problems.
+So when you actually are checking out a book, the librarian runs a little light pen, is it, over the code, so that it 
+That's it.
+Well, there again, there's a compromise.
+We all know how to use pens — we were taught how to use a pen in primary school — but the computer can't read our writing yet, so we use something which looks like a pen, but it's reading something which doesn't look like letter of the alphabet and words, but which it can understand and understand very quickly and very accurately indeed.
+And presumably the advantage of using a computer for that is much greater than the mere saving of time in a library and taking out a card and putting it in a wallet or erm a card folder or something like that, because you can retain in your computer a lot of information about what books are in the library and what books are out with lenders and so on.
+Right.
+That information is only part of the very large store of information that we need to retain in our own local computer, which contains records about erm it's about a hundred and fifty thousand of our four hundred and fifty thousand different books at this moment.
+Going back on what I said earlier on, East Sussex County Library, for example, keep their records of books, their catalogue, on a system which is run from the British Library and the Polytechnic draws that sort of information from a co-operative, which was originally based in Birmingham.
+We've chosen to go it alone, but the net result is the same, that the computer store of information includes information on the authors and the titles of the books and, of course, now includes information on the books that are being borrowed, who's got them, when they're coming back, how many other copies we've got, whether we've got copies on order and all of that, all in one central store of information, a central store which can be shared by everyone using the library.
+mhm And I suppose in the old days if you actually wanted to know which books were popular and which books were not used at all, you had to  a library and to painstakingly look through the shelves, perhaps, and look at the date stamps or something like that, whereas now presumably it's just a question of pressing a few buttons and the information comes.
+Well, right.
+In the old days we simply couldn't afford to do that.
+We're not dealing with a thousand items, we're dealing with four hundred and fifty thousand items, and for anyone to go and collect that information on a larger scale, even sampling it would have been almost unthinkable.
+Now the computer can collect this sort of information as people borrow the books, as a sort of by-product, if you like.
+The book is lent, it needs to be know when it's gone out, when it's due back, but the computer clock up one — that bit of information adds to other bits of information, all within the central store.
+We know what the price of the book was.
+We had to pay for it, so we had to send off a bill and therefore it knows what the price is.
+We have to put a shelf mark on the books so that we can shelve the book, but that tells us quite a lot about the subject, and if you start putting those three things together the librarian, as manager of his library, can start to put all this information together — in fact, the computer digests it for him — to give him an overview of how effective his operation is, when he should be buying extra copies, when perhaps he should be thinking of not buying quite so much, or being a little more selective.
+But the reader gains as well, because he sees it from a different angle.
+Most of our users come into the library looking for a very specific book.
+About eighty per cent of the users are students and they've normally been told to read this, or read that, or read the other, and if they now use one of our computer terminals, which has got a little video screen on the top and a little keyboard, they can look up the books, they can look them up by title, by the title of the book as well as by the traditional author approach, and when they've found it the computer tells them how many copies are in the library, or whether they're all on loan.
+It's all drawing information from this same central store of information erm it's a way of sharing information amongst a lot of different people for a lot of different reasons, information which previously would have been separated and almost impossible to put together without a great deal of effort.
+Let's harp back to what you were saying earlier about information storage on a very large scale.
+You mentioned the explosion of information, particularly in the science area where there are thousands, literally thousands, of publications and scientists producing more information, more data, every day and pumping into these things.
+
+
+Do you think it's going to ultimately change the whole notion of publishing.
+Do you think that perhaps in due course publishing will move into an area in which you wouldn't actually ever print anything, you would actually put it into a machine?
+Well, yes, it's very interesting, but I'm not sure it's working in the same direction as almost implied by your question of implying that there was almost too much.
+One of the more fascinating changes has been the introduction of word processing equipment, whereby someone who types his article can just send off something like a floppy disk to his publisher, and without much intervention it appears as the printed article.
+The publisher, traditionally, needs to sell at least a thousand copies of that to be worth even advertising it, but this means that you can print an extra copy whenever you want and this then implies perhaps and even larger and larger growth and more and more specialised information, which only computers can manage, and one hesitates to work out where the end of all this is.
+The human race is producing so much information — it isn't factual information, we're not just looking at price movements of stocks and shares, but in the scientific community it's very much to do with ideas and how that person can get across his ideas, his concepts to people to half a world away.
+That's a very complicated question.
+And you mentioned, then, how a floppy disk — that's a sort of disk storage device — can be used to get a book printed, is this being used at all in practice, or is it just a daydream?
+Oh, yes, indeed, a close friend of mine has been working on the history of a very large British company and he's just seen the proofs produced from the printers from the typescript which was typed in his own office, and apart from the fact that their computers can change the typefaces and improve the whole thing, the work has not had to be re-keyboarded, as they would say, re-typed in at all.
+It does save things very considerably.
+It's part of the this way in which the computer can turn information over and over again for a different need.
+I saw in publishing a very nice example of that, not the word processing, but at John Wylies, who are a very big scientific publishers in Chichester, where they had a computer system which the editors — he's the person who deals with the author, puts the book together — set about ordering the book; the orders and that information went into the computer, when the thing was printed it went into the warehouse and the computer then organised the storage of all of these things in the warehouse.
+Orders came in, and that helped the warehouse people unpack the boxes and despatch them; the information got fed back to the editor to tell him what the sales were, and it was a continuous process and all of the people tended to see the computer as working very much for them, rather than for the other department next door.
+And presumably if you wanted to revise a book at all, and you had the book on your floppy disk or in your computer in some for, you could again use your word processor to bring it up to date in a revised version.
+Well that's  that is  I think everyone who's ever worked on computers, editing or word processors, has been very fascinated by the change of attitude that they've had, that somehow it isn't finished.
+It's never finished.
+Previously you could ask someone to type up first draft, second draft, maybe a third draft, but how far can you drive your secretary, and now they can be wholly in charge of this — they can change the layout of it as much as the words within it; they can ask colleagues to come in and comment and even add a little bit.
+Could you revised paragraph ten, Fred?
+That sort of thing goes on continuously.
+The thing is moulded under your eyes.
+And a recent book which has been very popular in the university, Goedel Esher Bach, which is on some of the aspects of artificial intelligence and ideas, has in its preface got a  quite a long article on how the author actually organized all of the processes, right through to the final printing of that book, and indeed even wrote the programs for formatting the text, and it had obviously been very stimulating for him.
+He could organize the final output of everything that he had thought, right from the beginning through to end.
+Well, thank you very much, Peter, that's most interesting.
+That's all that we have time for today.
+Next week I shall be talking to Delia Venables.
+Hello.
+This is another programme in our series from the university, in which we share with you news and views concerning activities that are going on here.
+During the coming weeks, as I told you in our last programme, we are going to talk with people from outside the university who have contacts with us.
+I recently spoke to Chris Cooper, who's director of the South East Arts Association.
+I asked him when he first became aware of the university.
+Well I became aware of the University of Sussex when the Gardener Centre first opened I think, because at that time I was working at the Arts Council of Great Britain and it was erm an innovative scheme which attracted a great deal of national interest, and we were naturally invited down to have a look at it, both the design and the programme that was being planned for the opening season at that time.
+I therefore became very clearly aware of the potential that the university held for the whole of the East Sussex area.
+The Gardener Centre was in fact the first Arts Centre associated with the university?
+Well I'm not sure that it was exactly the first, but it was one of the early ones, that's true.
+And you're now Director of South East Arts, having left the Arts Council.
+How long have you been the new director?
+I've been down here six months now.
+What area does the region actually cover?
+We cover the whole of Kent, the whole of East Sussex, and the whole of Surrey.
+And so what happens to the other part of Sussex, does that belong to a different region?
+West Sussex belongs to Southern Arts Association, who operate erm to the west of us, right the way through to Dorset.
+How about Brighton?
+Is that a hot area so far as the arts are concerned?
+Yes, very hot.
+I mean it's an enormous resource in terms of talented people, facilities, interesting ideas that we use as a bank to fuel other parts of the region which are less active.
+There's far more interesting activity taking place in Brighton than there is in any other single borough area of the whole of the South East region, and that's reflected in the amount of money which we give to activities in the Brighton area.
+You, of course, have your headquarters in Tunbridge Wells, isn't that rather a long way to have much contact with Brighton?
+It's equidistant between the excitements of Brighton and the challenges of Gillingham, Chatham and the Medway towns, so strategically it's well suited to us.
+You say that Brighton could in fact contribute to the other parts of the region.
+In what way could this be possible?
+Well it's certainly clear that some of the companies, for instance Cliffhanger, which have grown in Brighton and developed Brighton as a base, are not just immensely popular within Brighton, but also very popular when we take them out on tour, or when they offer their services to other venues in other parts of East Sussex or Kent, and this is equally true of some of the community orientated groups, some of the musicians and artists who live and work primarily in Brighton erm their talent is readily appreciable throughout the region and therefore it's part of our tactics to talk to artists who are operating in the Brighton area and see whether they're willing or interested in taking some of their work out to other parts of the region.
+You say you have contact with many of the people in the region, do you have any contact with Radio Brighton just out of interest?
+Yes, yes.
+I think the association had in the early a very close working relationship with Radio Brighton and we certainly keep contact with Radio Medway, Radio Brighton and all the other television and radio companies which are active within the region.
+I don't think our contact is halfway strong enough, but the proposal to handle that is something that we we're working on a the moment.
+Bob Gunnell, of course, is an was and has been for some time a very supportive member of South East Arts and active in many of its committees.
+Yes, he's always jumping on me to tell me to do more for local radio and get South East Arts and South East Arts clients more regularly in contact with local radio, and I must admit on the latter case I do think that many of our clients do spend a great deal of time and erm want to be active with local radio.
+In fact, at the Gardener Centre a few months after I took after we did a workshop which Radio Brighton took part in and came up and gave a class in terms of how to make the most out of your local radio station, and that kind of thing we really need to develop even further.
+How do you see the Gardener Centre fitting into the South East Arts region?
+What can it offer the region?
+Well it's a very important resource.
+It's very difficult, and I think that people involved in the Gardener Centre have, ever since its inception, found it quite difficult to work how quite how it fits into the overall Brighton scene, and I find it fascinating to look at the nature of facilities which exist in central Brighton and try and work out in one's own mind how best he facility of the Gardener fits in with that.
+It's complicated by its geographical positioning.
+There may, indeed, be positive aspects to the slight detachment of the Gardener Centre from the central hubbub, which we've yet to work out how fully to utilize.
+I know that the Arts Centre, which I was very much involved with in erm Berkshire in Southfield Park, it, too, was situated slightly out of the centre of the town, with large ground area around it and it was a problem trying to work out how to capitalize on that considerable asset.
+It turned out to be erm used more fully as a family centre, where families would come and spend half a day, than it did the casual pop-in arts centre, which the old arts laboratories or the more conventional arts centre perhaps were directed towards.
+And it may be that the Gardener Centre has a broader community function than previously realized, in that it might be a marvellous place for families and kids and mums and dads, as they did on the recent Gardener Open Day, to come up and spend some time in casual appreciation of the arts instead of what, traditionally, a university campus is supposed to do, which is a serious and intensive look at experimental and avant garde work.
+The siting of the Gardener may not be appropriate to that.
+We made a very definite decision some years ago to make the Gardener Centre look towards the community as a whole, rather than just make it a university toy, or part of the formal academic programme.
+I think it's worked on the whole, although sometimes we have reservations.
+Certainly, it's the strongest point of contact between town and gown.
+That becomes very clear in any survey we've ever done.
+mhm
+I'm interested about your comments erm that it could be used to do more in terms of families.
+Do you have any further thoughts on that?
+Well, we've talked ourselves about the consequences about  of that role on the catering operation which is available.
+The families we  who've used our arts centres in other parts of the country have been influenced erm not just by the quality of art work on display, but also by the fact they can get decent beer and erm good, cheap food erm and the children and the other parts of the family have got plenty of other activities to to to take an interest in and I think it would need the university to think seriously about developing the social side of the Gardener Centre in those terms, and that's why it was deeply disappointing to find the university pulling back on their subsidy for the Gardener Centre as that really can't help anybody find the most appropriate role for the building.
+It's marvellous that the Brighton Corporation came in, but nevertheless the building to perform a function which is going to be useful for the community as a whole has got to be properly funded.
+I think many of us would sympathise with that view.
+erm I would have to say in the university's defence, as you would imagine I would say 
+Yes, I can see the Vice Chancellor banging on the wall as I speak.
+.
+But there you are.
+that it comes in the context of massive university cuts, but I don't think it's worth pursuing that very much further.
+No, but the point is that to  in all our cases to provide a community resource which is going to be of genuine use to artists and the general public, erm one has to take care that the standards of work and the standards of community facilities are as high as they possibly can be if you want to attract maximum usage, and what we will be trying to do in circumstances like this encourage as many people to come up to the Gardener at weekends during the summer and have as enjoyable a time as possible.
+I take your point.
+Do you think there are other ways in which perhaps the Gardener Centre could fit more into the Brighton community?
+No, I think probably over the years every avenue, other than perhaps this one, has been exploited to the full.
+I mean in the periods that I've been coming down and coming over, and it's been a fairly regular basis, I should imagine every manager and director or university employee has put forward every conceivable way in which that particular building could be used.
+I would have thought that most things have been tried by now and I would not imagine that there are many other avenues to be followed.
+The fact is that the building, whilst it claims to be flexible, is fairly inflexible.
+I think I've sat is those auditorium seats in the same format for quite a few years now.
+They haven't been moved for quite a long time, and it's funny how buildings which claim to have extraordinary flexibility sometimes turn out to be really quite rigid.
+And the fact is that with the money available erm the Gardener Centre I should think  it's not possible to use it in the kind of flexible way in which it was planned in the first years.
+We've talked a lot about the Gardener Centre, but of course the university is a much bigger place than just the Gardener Centre.
+What sort of contact do you have with other members of the university or other departments in the university?
+Well as an association, we naturally get ourselves involved with many other aspects of the university activities in that erm both the students are applicants of ours and come and talk to us about projects which they may like to see emerge, and other departments of the university, the music department etc., sometimes find that our knowledge of the area, or certain aspects of some of the schemes that we're operating, coincide with what they're trying to do and it turns out to be that campuses like this are often useful places for residencies and artists will come and take up residency in a university for a period of time, and that's often been exploited by the Association.
+And of course I suppose there are many members of the university who serve on your panels and committees and activities?
+Yes, there's always been a genuine interest in the Arts Association as a point where the university, those people involved in the university, can hear about what's taking place in the arts and also participate in some aspects of the advisory panels.
+That's always been very useful to us.
+There are, of course, other universities in the region.
+There's the University of Kent and the University of Surrey.
+Do you have similar contacts with them?
+Yes, each of them is well represented in terms of erm members of the University showing an interest in the arts work in their area, and several of them have members erm who serve on our advisory panel, as indeed Sussex does.
+They don't all have the same erm facilities as Sussex, nor indeed the same tradition of town and gown relationships, but nevertheless within the university there are several groups of people wanting to develop ideas of literature festivals or performance arts events, which we try and encourage because erm we have very little money within the Arts Association and have to maximise whatever facilities and people that we can lay our hands on.
+My last question is more of a personal one.
+How are you enjoying being director of this Association?
+Well I'm enjoying it myself very much indeed.
+I like the region a great deal and erm am enjoying the stimulating atmosphere which I've come into.
+I'm very well aware that the director before me built a very stable platform on which we can operate, and that we're lucky to have a region that's so rich in talent, erm in artistic talent, and in enthusiasm.
+erm I'm very much aware that the challenges are ahead of us, both in terms of erm dealing with a difficult financial situation, which has been the pattern now for three or four years, but also in entering certain fields and approaches to arts activity that perhaps require more of the central staff than previously.
+If we're going to go in and make a positive impact in certain parts of the region, erm then both my staff and myself and our colleagues who are working in the arts in the region have got to pull even harder together to make sure that we can make the partnership between us bureaucrats and the artist really be as effective as possible for the broadest range of the community.
+Well, thank you very much, Chris.
+Next week we shall be talking to another member of the outside community about their view of the university and 
+Hello.
+Continuing our series on computing, this week we move from the more technical aspects of their working to consider ways in which they affect our routine and everyday lives.
+A couple of years ago I had a fascinating conversation with Professor Max Clues on just this subject.
+Max was Professor of Artificial Intelligence in the university, but sadly, since the recording was made, has died.
+However, what he had to say is still thoroughly relevant today.
+When I was talking to him I asked him what changes he saw taking place in the computing world.
+Well, I think we all know the answer to that — it's called micros — chips with everything.
+And we're seeing a situation in which computers are now moving out of the sort of Delphic Oracle there where they were behind glass doors and you could go and look at them and there were huge whirring wheels and whatnot.
+They are moving out onto people's desks and almost into Woolworths.
+I think Currys are now into the micro marketing game and that, I think, says a lot about availability.
+What that means is that there's a whole new way of thinking about what sorts of tasks can people actually use computers to do so the offices of the future may well have no typewriters, but just micro computers tied into an information system, and that presents, I think, great problems for people.
+Yes, I think people think of computers as being devices that calculate things essentially.
+You're saying that this is not necessarily the case.
+Certainly not, and I think that that's one of the things that causes people to be  to switch off when you mention computers and think ‘oh, I can't understand that’ because their experience at school perhaps was that they couldn't understand mathematics anyway.
+The important thing to recognize, really, is that anyone can program a computer, and I do mean program it.
+erm we have developed over in the university, in the arts area especially, for arts undergraduates who don't have mathematical or scientific training, ways of giving them erm training in computer programming, and they come out really both full of fun about it and with a lot more confidence than they could possibly have imagined they would have when they began.
+So you don't need a degree in mathematics to run a computer?
+No, I think it's well known, actually, amongst the computing fraternity, that the best programmers are actually housewives, because basically it's a question of housekeeping.
+Well that's very impressive and encouraging obviously to any housewives who may be listening.
+
+
+But it seems to me this is an absolute revolution.
+I mean you're talking about having computers in the offices and perhaps in the home, now this must have great impact on the future education needs of people who are going to use these devices, surely?
+Yes, that's quite right.
+erm I saw in the newspaper, as I am sure you probably did, last week that the government has just devoted, I think, nine million pounds over the next few years to develop curricula and methods of training teachers in schools, and I think it's tremendously important that that doesn't become merely a bit more science of one form or another.
+One of the things that we need to be clear about is that erm computers are not unlike us.
+In many ways they have processes that are like us.
+For example, the basic idea, one might say, is that computers follow procedures.
+Now in an office, or in doing some work in a school, you follow a procedure.
+The teacher tells you what to do, or the manager tells you what he wants done, and it's logical and it involves manipulating information, bringing files together, bringing tax together, working it all out, and it's not calculation _ you're manipulating information.
+Now, if you can be reasonably precise, erm careful, about what the procedure to be followed is, you've just written a program.
+Now in fact what that means for me is that actually we're all programmers — we always have been — but we haven't been used to explaining it in quite the way that computers need us to explain it, and of course that goes back to this question of understanding English that we were talking about last time.
+So it's really a question of improving English as a language, rather than mathematics or algebra.
+Yes, I think that the crucial thing that's emerging, especially from the area of artificial intelligence, is that we're beginning to understand that what the name of the game is getting people to express their intentions, and for a long time we've been, as it were, stuck in languages that don't really help you to do that and we're really beginning to understand now that erm what people are doing when they program indeed, I mean as it were the ace programmers, are expressing their intention for whatever's to be done in the task the computer's to perform clearly.
+And we all know people who are actually very good at telling you how to do something.
+They are just very good at communicating their intentions.
+And if we look at it from that standpoint I think we can begin to see, perhaps, that actually we're all programmers, some of us less clear about it than others.
+One of the exciting things about the erm introduction of this into schools is that we might actually begin to get, from a very early age, erm children clear about that the need to communicate their intentions, and that that's what  actually that's what mathematics and similar formal systems has always been about.
+Even  I mean the  the English teacher will know that, that what he's trying to do is to get a student to write his intentions clearly, to make his points clearly, to have a goal in writing his essay, what is it he's trying to say.
+All those things are absolutely clear to us.
+We haven't, I think, hitherto seen that they're really a part of programming.
+I see.
+Do you think that there will be a great development in perhaps new subjects in schools?
+I know that they do have computer science courses at both O level and A level, do you think these will be the basis of the future courses, or are we looking for an entirely new development, something quite new and quite different, that stands as a subject in his own right?
+I think so.
+I remember a colleague of mine, who actually wasn't erm terribly enamoured of computers, who had a book called ‘Thinking Goes to School’ I think.
+Now in his case he was erm thinking mostly of toys and puzzles and problems to be done in the classroom.
+I think that the computer presents exactly that challenge and amongst the sorts of things I'm thinking of is that erm it's one thing to play with a computer toy, a game of some sort — we've all seen them in the bar and elsewhere — it's another thing entirely to devise your own game, to program your own rules in and then to bring your friend along and have them challenge it.
+Now in order to do that, you've really got to understand what a game is erm how you organise, for example, looking at the board, if it is a board game; how you're going to represent that in a program.
+Now these are very challenging ideas.
+They are not actually all that difficult, as we've been finding in the teaching that we've been doing where indeed we have students who take a ten week course, sort of once a week, and by about week six they're already beginning to do that, they're beginning to work out their own problems erm puzzles and games and little language understanding programs and that's commonplace, actually.
+That was done as long ago as ten years ago in America.
+Twelve year olds were doing that kind of task on a computer.
+What's happened is, of course, that as the costs have fallen and the micros have come in through the door so they're very much smaller, erm it all becomes possible for the whole of society and not for a tiny elite.
+I think that the use of the word ‘language’ can be a little bit confusing to some people that have never actually done any computing.
+erm perhaps you could expand on this a little bit.
+We think of the spoken language, the written language, what in practice do you mean by ‘language’, is it an instruction you type on a keyboard, or what in terms of a computer?
+Well at the moment that's true.
+At the moment erm the way that we use computers is, of course, to use a keyboard, but I was talking to some people today who've now developed and you can buy it, erm a system on which you can write on what you want to say, so that as long as you print fairly clearly you don't have to learn any new typing skills.
+The question that's behind that, however, of course, is what is the language itself, what are the words; are they English words, or are they some other kind of words?
+Well increasingly, of course, they are English words and that's because, increasingly, we are getting closer and closer to erm expressing intention, and the thing about language, you see, is that it was designed by nature to be a vehicle for intention, and that's what we all secretly know, but in fact we've never been helped to think about it.
+One of the things I again would like to see in schools is that sort of approach, which brings out what language is really about, and I think that that's an exciting and possibly quite unexpected outcome of bringing computers into schools, but it will require that we don't simply think of it as being ‘oh, let's have a micro in the science lab’; it is going to be as the government seems to recognise, a step involving curriculum design, involving helping teachers _ really, really helping them in a strongly supportive way — to do something which is, I would say, revolutionary.
+So, if it is a revolution, and I have no doubt it is, how do we stand in this country compared with the United States, Europe, Japan, perhaps Russia.
+Are we  do we stand any chance of being in the forefront of this revolution?
+Oh, that's a difficult one to answer, isn't it? erm I think that we're unique in this country, possibly, especially Sussex and one or two other places, in having erm a mixture of artificial intelligence, psychology, erm microelectronics.
+I'm thinking actually of here in the university itself, we've got three different groups in those areas that are now collaborating, and I think we've got a good chance of _ especially in the area of schools curricula — but also in the area, I think, of helping business people, and I'm thinking now of senior management, who might be your and my age, Brian, for whom computers didn't exist when we went through university or college, erm who've probably more or less given up any hope of understanding it and understanding the computer boffins who have taken over — almost taken over the company at times, one suspects.
+What I'd like to do is to help them to see that they don't need to give up on the computer, that they can actually be the master of it, although of course I don't  I'm not suggesting that they become programmers — that would be to abdicate their function in another way — but certainly they can understand it, and I think of course it keeps coming back to this issue over and over again, an issue about education.
+What we've got is a tremendous gap in what people need to know in society, in all areas of society, to handle this computer revolution.
+So a big issue about whether  how well we're placed with regard to America and Japan and so on is how well placed are we to bring about this educational step, and I think we're probably about as well placed as anybody else, certainly we haven't made some of the mistakes that other people have made, we haven't had a very big investment in what's often called computer assisted instruction, which I think is rather limited.
+I think it's much more important that we instruct the computer and not have the computer instruct us.
+If we can learn to be programmers _ indeed we already are — but if we can learn to instruct the computer, then we'll retain our dignity and our responsibility in matters rather than really abdicating it in ways that I don't myself favour.
+So what you're really saying is that the computers of the kind you're describing are for the ordinary person.
+They're for the child in school; they're for the housewife; they're for the businessman of the future, and an ordinary competent businessman has the capability and the possibility of actually learning how these devices work and using them, rather than just leaving it to the boffin, the scientist, the computer expert.
+That's right, and until he does that, until he does, as it were, grasp the mettle and begin to express his purposes, his procedures, directly to the computer, he will always be at the risk that what gets expressed is not what he quite wanted, just a little bit different, he and he alone, is the person who knows what the company purposes are.
+I mean otherwise he shouldn't be the Managing Director, he shouldn't be the Chairman of the Board.
+So it gets back to a question of confidence again?
+That's right, and I think that erm, yes, there's a notion that I find useful in talking to students that we all have a comfort zone, there are all things that we know about, that we know how to do and if anything comes up — I mean in business it might be accountancy, we don't all know how to handle figures, and so that's an area that we've hived off in that area and we all know that when we do that we are, as it were, giving up a bit; we're saying ‘well, I can't manage  I just don't have  I can't do that, it's not for me’.
+Now confidence is, I think the key to success.
+Everyone knows that, it goes back a long way.
+erm what we don't know, perhaps, is how to create confidence is what is obviously a technological revolution, an expanding area, something entirely new.
+At the university here we have got two or three groups in which we do know how to do that and especially the work that I'm associated with, again the arts undergraduates, we have developed over a period now of something like six years, ways of giving them confidence, and it's amazing to see what happens.
+When you give them confidence they suddenly take off.
+I mean I am constantly being confronted with students who do things that I don't actually understand, and they're my own students, and actually that's quite nice, I like that.
+And this confidence is available for everyone and hopefully will be in the future — the housewife, the businessman and so forth?
+Yes, and we at the university are, I think, really  I say ‘I think’, my own purpose here at the university is to export what we've got as quickly as we can to the local community, and indeed nationally too.
+Thank you very much, Max.
+That's all that we have time for today.
+Next week I shall be talking with Peter Stone about how computers are
+Hello.
+Do you have young children?
+I was recently talking to the mother of a four year old boy about his progress at learning his letters, when I realized just how responsible and vulnerable she felt about his lack of progress, and that started me thinking about the educational process and the pressures that we put on ourselves and our children to succeed.
+Should children be encouraged to learn before they go to school?
+What role can parents play once their children are in class?
+And do we take ourselves and our responsibilities so seriously that our worries are transmitted to our offspring?
+I recently put some of these questions to Joanna Turner, who's a psychologist who's special interest is the development of young children.
+I started by asking her what stage she thought formal education should commence.
+As you know, at the moment it starts at five, but perhaps, ideally, it could start younger, but obviously there are financial considerations as well.
+Perhaps development of nursery education on a much greater scale, bigger scale than has hitherto been the case 
+Well, be careful what you're committing me to saying.
+I mean you asked me about formal education, and immediately we're talking about nursery education.
+Now I don't want, necessarily, to equate the two of them.
+I do think some formal education could start sooner, but I wouldn't want you or the listeners to think that nursery education and formal education are one and the same.
+What is the difference, basically?
+Well I think one of the advantages of a nursery schooling is certainly a considerable amount of social interaction for the children, which very often they won't be obtaining, either if they're living in high rise flats, or at the other end of the social spectrum if they're parents are living in large houses with large gardens and no other children within the vicinity.
+So I think it has a social function, as well as a formal educational function.
+Do you think that the social function comes before the formal function, or do you think they both go together?
+I think it would depend on the child.
+For some children they are more socially deprived, and yet they may be getting considerable ‘education’ in inverted commas within their home environment.
+For other children they probably are getting enough social interaction, there may be plenty of children around, but educationally, in terms of the sort of basics for education they may be extremely deprived.
+I think there are many functions that it serves.
+Do children develop at roughly the same rate?
+Can you say that all three year olds are roughly the same?
+You can say that three year olds are more like other three year olds than, say, thirty year olds would be like other thirty year olds, and the younger the child the more true that is, so that would be much more true at age a year, assuming that there aren't any physical defects or mental defects, than say at three.
+So by three, yes, there is some variation, but they are certainly  there is less variation than you would get at the end of the secondary school or university.
+And are there quite specific stages that one can recognise perhaps as a developmental psychologist which take place at roughly particular times in a child's development?
+Very broadly.
+Could you give me some idea of what these might be in the very early years perhaps?
+Perhaps I could, but whether I should is a different point.
+I feel that once parents begin to become too aware of norms, they worry, and therefore unless a child is grossly out of sync, if you like, with their peers, I wouldn't say it would matter, but yes, one would expect a three year old to be talking at one extreme.
+If there is no speech by three, indeed if there is no speech earlier than that, it might be very important to check that the child is not deaf.
+I think also you would expect children who are really quite young, well before the first year, to be showing social interest in other adults around, and if they're not it might be worth checking that there isn't some problem with the child.
+But generally speaking I'm not very happy about norms.
+Oh well we won't press you on that  particular point then.
+There's been a lot of publicity recently about parents teaching their own children, rather formal things.
+There have been one or two stories about youngsters who've become  reached a very high level in mathematics, for example.
+Are you in favour of parents teaching their own children?
+Well can I come to that in a minute, because you said something I'd like to pick up.
+You said the child may not be developing in the way the parent expects the child to develop, and I think that it's very important for parents to check out their expectations.
+If they are expecting something that they haven't got, it may well be that their expectation is wrong.
+What is important is the child that they have in front of them, and to learn to understand that child.
+It's not it's brother or sister, or their brother or sister, it is unique, and it's pattern of development, although of course it will be broadly similar to other children, exactly like no other child, and in a sense I would feel that the parental job is to judge very carefully the needs and the developmental cycle of their own child, and then stimulate to the extent that that child needs.
+Now having said that, of course, I've almost answered the other question, that I just do not believe there are any rules.
+I mean maybe you're thinking of the sort of publicized cases of a nine year old, I believe it was, who's got A levels in mathematics.
+I would not want to say that I could criticise that parent, because I don't know the background of it.
+I would very much hope that other parents would not feel that they ought to be doing to the same thing, unless their circumstances were very similar.
+If you have a child who appears to show a talent at one thing, then of course it's natural to let the child do what it enjoys doing, but that might be the very moment for saying well what is this child not talented at and ensuring that this child gets some experience of the kind of world that it not part of its own talents, so I would feel, from my own point of view and as a psychologist, that if you have a child who is very talented in mathematics, then fine, it's going to be quite good at mathematics one would assume, now's the time to say well is it as equally talented in music?
+Are there other things that could develop?
+Has it got erm a wide social relationship with other children?
+So that at the end of the day one has a much more rounded individual with of course specific talents.
+I'm not for holding back children.
+I think parental anxieties are something with which one must have great sympathy because very often the anxiety is not so much an anxiety about the child, it's an anxiety about the parent.
+If they have had difficulty in school they will worry that their child is having difficulty in school.
+Now of course it may be that the child has caught a worry about schooling from the parent, but I think that's the first thing to sort out — is this really a problem in the child, or is it a problem in the parent's mind?
+And secondly, I mean obviously parents are more worried if they feel that their child is not doing as well as somebody else's child, and we're back to this question of expectation again — where did they get the expectation that this other child is, as it were, some sort of norm that they ought to be living up to , and parents should talk to teachers and to other people who know their child and have got experience of their child as against other children to find out really whether their worries are truly grounded, or whether they are just groundless.
+I think to come back to an earlier question of what should you teach them, and what is normal, is that ideally a child wants to grow up in an environment where his or her parents enjoy here, where the relationship is enjoyable on both sides and not shot through with anxiety about how well this child is developing, providing the development is within the normal range.
+If the child has a special skill or the parent has a special interest and they enjoy together exchanging this skill or interest, like teaching a child to swim very young, teaching it to play or listen to music, or play very simple rhythmic sounds, then as long as it is done within a relationship that is, above all, a loving relationship, great.
+But if it's done as a way of accelerating the child's development, in order, as it were, to give it the edge over its peers, that doesn't seem to me to suggest a relationship in which parent and child are enjoying each other ; it is much more a relationship in which the child is being prepared for competition with its peers and this, I feel, probably is going to turn out badly, because almost inevitably the child will not reach the levels that the parent has build up in fantasy in its own mind.
+How do you feel about parents teaching children how to read?
+I think it comes to the same thing.
+If the parent feels they know a system that they have heard or read is successful, and if they try it out on the child and the child obviously enjoys it, if it becomes part of a game, then I can't see any harm in it, but I think the parent has to be scrupulously honest as to whether the child is enjoying it.
+If there's any hint that the child isn't enjoying it then I don't think it should happen.
+If parents really want to help their children, with reading specifically, I feel that Margaret Donaldson, who is and educational psychologist in Edinburgh, is correct when she points out that one of the greatest difficulties children have when they go to school is that many of them don't understand what kind of activity reading is.
+For instance, they don't understand, as she quotes in her book, what somebody is doing when they're reading a newspaper, or what it means when the postman looks at a envelope.
+Now if parents, through playing games with their children that are based on words, could alert the child to the fact that print is a convention and that we can translate print into reality, obviously not as abstract as that, but just get the child used to knowing what print is, knowing what reading is, so that perhaps when they go to school they may well know this is a skill that they don't have, like they don't know, perhaps, how to ride a bike, they may not know how to swim, they certainly don't know how to drive a car, but they do know what sort of a thing driving a car is.
+In that way, I think they'd be much more prepared for learning the skill than if they go completely unprepared and see children looking at books and saying things and it makes no sense to them.
+My last question is  is really again about making children do things, as opposed to encouraging or helping them to do things.
+You say that so far as you're concerned, it's all right for children to learn if in fact they're enjoying it and if in fact they want to and they're not being coerced.
+Surely that makes the transition between home and school a rather traumatic one?
+Having worked and been around the Brighton first schools for many years, I would very much hope that the transition is not traumatic.
+Certainly, the  most of the infant teachers I know take great pains to make sure that it is not traumatic and that the move from home to school is as easy as possible.
+Now having said that, often the trauma, which goes back to my original remark, is the sheer number of children, the sort of social impact that a reception class can have.
+Now if a parent can have introduced the child via nursery school to that amount of other children, then I think there should be very little trauma, but that isn't to say that as the child gets older they don't have to do things.
+But if a child has to do something because they can understand the end a which they're aiming, in the way that a footballer has to train, or a boxer has to train, then it becomes easier to do the equivalent of training.
+One of the difficulties is that the end state is so far removed from the average child that it is very difficult for them to see why they have to learn to read, but if they can realize that if they learn to read in those houses where they have it they'll be able to read the Radio Times and know what the television programmes are, that at least is motivating.
+I mean reading as to be put in a context and a context that is, in fact, enjoyable to the child, not something that just happens at school that they have to do, hence one they go to school the value of parents hearing the children read, because then the parent is also involved and one doesn't get this split between home and school.
+Well thank you very much, Jo.
+Next week we're going to look at another facet of education — should girls be treated in school any differently from boys?
+Dorothy Jerome and Carol Dyhouse will be providing some of the answers.
+Hello.
+This is the second programme in a short series in which we're taking a look at trends in science and engineering, particularly in the way that subjects are taught and opportunities for subsequent employment.
+Today it's the turn of chemistry, and I have with me Ken Sedden, who's a lecturer in chemistry at the university.
+Ken, the chemistry I did at school was full of test tubes and horrid smells, has it changed very much?
+Not in the slightest.
+The song may have changed, but the smell remains the same .
+And do children really do the same chemistry that I did twenty years ago?
+No, I think we understand the subject a little better now and therefore the theory has changed, but some of the practical remains very similar.
+The way we interpret it changes with time.
+It always used to be the case that one never did chemistry until the secondary school level.
+Has it gone further back into the primary schools?
+Not that I know of.
+Chemistry is very much an advanced subject.
+You need to have certain groundings in physics before you can even begin to appreciate chemistry.
+Now I'm interested in you saying that chemistry is really physics.
+Is that really the case?
+Now, I didn't say that at all.
+That's sounds like a physicist's interpretation of what a chemist is saying .
+Physics, on the contrary, depends very much on chemistry, as chemistry depends on physics.
+As you well know, there are certain basic rules which govern both subjects.
+To understand chemistry at all you've got to have some idea of optics, for example, because you're actually looking at the reactions happening and you've got to appreciate what you see.
+In the chemistry I did you seem to me to be terribly empirical, you had an inorganic substance and you had to learn absolute by heart what it did if you put it in water and you heated it and you did this that and the other.
+Is that the same, or is there more in underlying, understanding and theory this time.
+There is underlying, understanding and theory to this, but of course if you want to read French literature, you've got to learn the vocabulary; if you want to do chemistry you've got to know the elements and what order they come in, and there's always a certain amount of learning with any subject.
+If you do physics I'm sure you've got to learn the laws of Newton.
+And are there any more elements that have been discovered, for example?
+There are some being found, but not stable ones erm we know all the elements which are going to be stable on the planet earth as we know it.
+The ones that are being found are the very, very heavy ones which have very short lifetimes?
+Extremely short.
+I mean so short that it would be difficult to conceive of.
+We're not used to thinking in those terms.
+Now you, I understand, are an inorganic chemist.
+That's right.
+Now what can possibly be new in inorganic chemistry?
+.
+I mean surely that is a subject that's been around for a hundred years?
+It has certainly been around for a hundred years, and it is probably the most vital of aspect of life as we know it today.
+Almost anything that is going to be done in the future concerned with energy storage, energy conversion erm any new technology, is based on inorganic chemistry.
+The whole of the microchip industry for making computers is based on the chemistry of silicon.
+It's difficult to imagine a more modern  field of endeavour than the microtechnology involved with microcomputers, yet that is based upon inorganic chemistry.
+Now you mentioned the importance of inorganic chemistry in energy conversion.
+Could you give me an example of that?
+Yes, well the whole of the nuclear power industry, for example, is based on uranium, plutonium.
+Inorganic chemistry, as you know, is a study of the chemistry of all the elements except carbon.
+The whole of our modern energy industry is based, therefore, round inorganic chemistry, and there's a lot of new inorganic chemistry to be discovered.
+There's another example, I believe, and that is that there are schemes whereby water can be split up into its components, hydrogen and oxygen, and hydrogen actually used as a fuel in various ways.
+Absolutely.
+Of course this is something for the future, the whole concept of hydrogen economy is well developed.
+When the economics become right, when the petrol dries up, then the possibly of moving over from a gas based, petrol based, economy to hydrogen economy is a very real one, and of course again this is an exciting branch of inorganic chemistry which many people are looking at.
+Where would you get the energy to actually split the water into hydrogen and oxygen?
+From the sunlight, and that's where the inorganic chemistry comes in.
+Inorganic compounds are used to absorb the sunlight and then pass it on to water.
+They act as a sort of relay system.
+What a sort of catalyst?
+Exactly, exactly.
+What would you do with the hydrogen when you've got it?
+Hydrogen you can think of very much as a fuel in the manner of north sea gas and it's got a high calorific value, it burns well and, despite rumours, it's actually a very safe fuel as well.
+And could you use hydrogen to run cars, for example?
+Absolutely.
+There are prototype cars running off hydrogen, as well prototype aeroplanes.
+And would, in fact, hydrogen have any advantages over conventional hydrocarbons as a fuel?
+The advantage of changing to hydrogen would be an economic advantage.
+Once you've got a system based on a particular form of fuel, such as petrol or gas, there has to be strong incentive to change it if it works well.
+The incentive would be purely economic.
+Once the change has been made, then many advantages, of course, would be found for hydrogen economy.
+And how far are we off such a possibility?
+With the price of oil falling, then probably a long way.
+As soon as the price of oil starts to go up again, then I'm sure that it would be looked at in a far more serious manner.
+Well, perhaps so much for inorganic chemistry erm there's a whole subject of organic chemistry.
+Absolutely.
+Now, what's happening in organic chemistry at the moment?
+Well, you're sitting looking very smart here in a suit, which I suspect is made out of organic fibres and the tie, which I suspect is made out or artificial organic fibres, and the shirt looks remarkably artificial too.
+In other words, most people are now walking around wearing organic chemicals.
+A lot of the food they eat isn't natural food, but in fact is synthetic organic food.
+The whole medical profession is based on drugs, and the drugs are all made artificially.
+All this is organic chemistry again.
+So, again, organic chemistry is a booming industry, of which many, many people are being employed.
+And have there been any specific breakthroughs in organic chemistry you can put your fingers on in recent years?
+There are no outstanding flashes in organic chemistry, things move step by step, and the way they've moved over the past thirty or forty years is quite apparent if anybody looks round their home.
+The number of  pollums , plastics, medicines,has just been quite fantastic, but not the sudden flash of light, but the slow progress of a lot of people working together.
+You mentioned just now about artificial foods, if I can put it that way.
+Right.
+There's a lot of people who are very concerned about this.
+They're part of a back-to-nature campaign, and I suppose nature is equally  organic in a way 
+Absolutely.
+except it's as you find it, rather than being produced artificially.
+Right.
+Do you have any thoughts as to whether it's a good or a bad thing that food is produced artificially, as it were?
+If we look to the future, then it's going to be absolutely essential that food be produced artificially, because the planet isn't going to be able to support the population which it's going to have on it.
+There are good points and bad points about artificial food production, but then there's good points and bad points about natural food production too.
+Used sensibly and carefully then I'm all in favour of artificial food production.
+And are you in favour of, for example , using artificial fertilizers on  to grow crops?
+Absolutely.
+I mean there's no question that that is the best way to do it.
+Do you think there is not a danger in going too far too fast in developing these chemical compounds?
+People are often worried about spraying crops, for example.
+And quite rightly so too, but remember there's a natural compound that's simply been synthesised in nature.
+All we would like to do in the lab is make that same compound in a different way, and many of the compounds which are used are the same as those found in nature, the only difference is they've been prepared in a test tube instead of being prepared in a plant.
+But isn't nature a very delicate balance between various forces and various processes, and by people, not like yourself, but perhaps more industrially based people producing vast quantities of a given compound and spreading it almost indiscriminately, couldn't that erm seriously upset the balance of nature in a particular resource?
+Absolutely, and that's whey we've got international agencies looking at exactly these things.
+But how do you actually know, without a great deal of investigation and a great deal of control?
+Aren't there enormous commercial pressures to use these compounds?
+There will be, certainly, and it's necessary that there be pressures to keep things under control.
+But a great deal of research and money needs to be invested when a new product and a completely new chemical comes on the market, and there's been many examples in the past of things being released.
+I mean the famous case of the Thalidomide erm is obviously in everybody's mind.
+Yes, of course, that's a very startling example of a drug which wasn't properly checked through before it was used on a mass basis.
+Do you see any future in more careful controls on drugs, particularly drugs used to cure human ailments?
+There has to always be a control and that control will necessarily involve experiments on animals and the animal pressure groups are doing more harm than they can ever conceivably imagine by trying to control experiments on animals, because if they don't experiment on animals a human somewhere is going to die.
+What about experiments on humans?
+Do you think these are allowable, as it were, from a moral point of view?
+There always, with a new product, has to be the first experiment on a human, otherwise a new drug wouldn't come on the market.
+If people are made aware of the risks and volunteer, then that's seems to be their own free choice, and if that is what they wish to do, then that it seen to be a perfectly fair about going  of course it would be completely immoral to test a drug on somebody who wasn't aware of what was going on.
+mhm
+Where do you see the frontiers of chemistry at the moment?
+What's happening?
+The frontiers of chemistry lie in many directions erm the frontiers of chemistry, of course, meet the frontiers of physics and the frontiers of biology.
+The energy crisis which we're in at the moment, and which will, although it's temporarily abating if we judge the prices on the oil market, will not go away, is one of the most important areas in which chemistry can contribute.
+At the moment our whole economy is based on natural found hydrocarbons — oil, petrol — as these begin to run out, then we've got to find a way of making these or substitutes for them, and this is what chemistry is all about, making new compounds or making old compounds in new ways.
+So the whole of the planet's energy existence depends upon research chemistry.
+There are advances, as we've already talked about, in the microelectronics industry, because as computers become smaller and smaller, then they approach molecular dimensions and gain the realm of molecular reactions is the realm of chemistry, so physics and chemistry there intertwine absolutely inescapably.
+In bio-chemistry drug design, using enzymes to produce, for example, methanol or efanol — huge advances again going on here.
+But chemistry, remember, is the science of everything around you and you can't stop, therefore, advances in that field.
+It's so fundamentally important.
+Do you see chemistry as being almost the centre of science?
+Well I, naturally, being a chemist , would say it's the centre of science, but quite seriously it is an extremely important area.
+Chemistry and physics together are an unbeatable combination.
+As a chemist, is there anything that you would really like to know, something you'd really like to discover, something that if you knew you could feel you could do a whole lot more chemistry?
+There's no end to the number of things which any chemist would like to know.
+I think from my own personal preference I would very much like to have an understanding of what happens at the interface between solids and liquids, because this affects so many different branches of chemistry and physics _ the understanding of what happens at interfaces will govern the understanding of what makes things stick together, what makes catalysis occur, the nature of rocks even.
+It all boils down to interfaces, and I think that it is one of the more difficult areas of chemistry to work in and there's a lot of room for advancement there.
+Lastly, is chemistry a good subject for a school child to think of going into?
+It, in the nineteen eighties and nineteen nineties, must be one of the best subjects they could ever conceive of going into because the whole of the future of modern civilization depends on chemistry.
+So you think there'll actually be jobs for chemists in the future.
+Absolutely.
+No question.
+And what's the best training for a chemist?
+The best training for a chemist is at school to take maths, physics and chemistry.
+If his leaning is towards the physical side, or his leaning towards to biological side, to take chemistry, biology and physics, to take those subjects in the sixth form at A level, and then come straight to university and develop his inclinations in the way that he is here to do.
+Well thank you very much, Ken.
+That's all that we have time for today.
+Next week I shall be talking about physics, and I shall be asking similar questions to Professor Ken Smith.
+Until next week then.
+Hello.
+A few years ago Flanders and Swan wrote a patriotic song for this country.
+It went ‘the English, the English, the English are best, I don't give you tuppence for all of the rest’.
+In a few short verses not only did that celebrated pair dispose of our continental neighbours, but they also made it clear that the Irish, the Scots and the Welsh were suspect too.
+That, of course, is not playing the game.
+In fact it's quite positively going too far.
+I have with me Professor Geoffrey Best, who I hope will help me do the decent thing by our partners.
+Geoffrey, discussions about the Common Market, for example, tend to be carried out using rational arguments based on economics and legal principles, but don't you think that at the deepest level international relations depend on national characteristics?
+Of course they do, and no treaty between two countries, or between one country and a group of others can hold together, unless in those countries there's a general disposition to maintain the treaty and play fair by it.
+Take us and Europe now, isn't it odd that, after two world wars, in which our men who died, our nations sacrificed themselves in fighting what was thought to be the great German danger, we now find ourselves at least as much hostile to our allies in both of those wars — the French — as we do to the Germans, and if one could measure this sort of thing it might well be that in the British public at large you would find more sympathy towards the Germans than the French.
+Now I offer that as a little illustration of the difficulties of saying that there are deep national dispositions between one nation and another, which exist inside in some sort of permanent, rock-like way.
+And presumably the reasons for these suspicions and degrees of mistrust lie in history?
+I mean, for example, the French, my impression is that we actually offended De Gaulle quite considerably during the war in terms of his pride as a Frenchman 
+Oh yes.
+and in a sense he remembered this post-war and, being very instrumental in post-war political affairs, erm regarded the English with some degree of suspicion.
+Is that right?
+Certainly, but then De Gaulle was only the most recent of a line of French national leaders, going back at least as far as Joan of Arc, who have seen in the English, through most of the centuries, their main enemy, whereas of course we didn't come across Germany internationally at all until within the last ninety years.
+I believe that they certainly exist because history has given to each contemporary people a cast of mind, a set of habits and attitudes in their conduct of their own affairs, in the state of their minds, in their attitudes towards others, which make them individual and peculiar.
+I think history has done this, and by history I mean everything which has worked through history to produce that result — geography, climate, agriculture, economics.
+I bundle all that together under history.
+When national characteristics were talked about a hundred years ago, in the great days of Darwinism and eugenics and so on, it was a pseudo-scientific talk erm implying that there was some blood or racial characteristics which marked one people off from another, and this lay at the bottom of all that talk about Anglo-Saxon racial superiority, which erm led plenty of people in this country to suppose that erm the white peoples of Northern Europe and North America had some characteristics which made them superior to coloured people, and all kind of bogus scientific arguments followed from that.
+Well by now it's perfectly clear that the suggestion that these characteristics rest in the blood and in race is wrong, but there remains this enormous field of characteristic garnered from a long historical process.
+The British have been alone on their island for over a thousand years, without successful invasion.
+That fact, and the fact of being in the island, separated from the land wars which every other country in Europe has had to cope with, have produced in the British by now a different state of mind about politics, about the state, about the military, and about foreigners.
+In what way to they differ?
+Well, if you're a Frenchman or a German, a Swede, an Italian, anyone in the Balkans, your culture has been created over centuries of invasions or struggles to resist invasion, it's as simple as that.
+World War two was only a recent example of what had been an historical constant.
+Every other nation on the continent got overrun by the  axis powers in World War two, as nations had been overrun, or partly overrun, in wars for centuries past.
+Once again, the British were not.
+In Britain the defence of the country has been left for centuries to a Navy which did its work out of sight.
+The most that the British knew about armies was that intermittently over four or five centuries they got together in a sort of militia or Home Guard in case the enemy arrived, and the necessity of a state to run the affairs of the country for the country's salvation, was never so present to the British mind as it always has been to the minds of most continental people.
+So that's the difference perhaps at the political and miliary level, what are the differences perhaps at a more social level?
+Ah well, when one thinks one sees these differences, and I believe that they are real.
+Let's take Germany for a start.
+After World War two, a lot of people hoped that the we'll call them the less agreeable characteristics of the German mind, would be changed by the traumatic experiences of the second total defeat in twenty years, physical destruction, national humiliation, embarrassment at having been made the collaborators of nazism and so on.
+If anything should have shaken up a national psyche for the Germans it was World War two and what it did to them.
+Have those things changed?
+I used to think they had done.
+When I heard reports of the changing physical shape of German women, that they were becoming a different breed of women we'd been told from the old, rather heavy, erm motherly plain sort of woman who characterised Germany womanhood before the Second World War, well now we read that their shape and their weight and so on corresponds much more to French or British and American norms.
+German young people recently have shown a more revolutionary and radical sort of behaviour than one would have dreamt possible in the old Germany, but in this morning's paper I read of the results of erm a public opinion poll recently conducted by the German government about neo-nazism in Germany, showing what seems to be a rather alarming quantity of surviving interest in sympathy for old nazism.
+I often hear from friends in the military business, because that's near my own sort of work, that the German part of NATO is the only really big and solid part of NATO, as if that military tradition has revived, found itself again.
+I cannot venture to say whether the shake-up which we thought World War two might have given to Germany has done it.
+The Continental idea of the Briton, which had a lot of truth in it, was that he was a phlegmatic, rather unemotional, certainly undemonstrative erm creature of a northern climate.
+The French elaborated a lot of wonderful nonsense in the nineteenth century about the climate  pauses of the British character, they said that because we all lived in the fog we were incapable of clear and distinct ideas, a sort of bogus science that you as a scientist would see through more quickly than people like me.
+Well, Britain is the country which ought to have had the proletarian revolution before any other.
+Marx thought it ought to.
+I mean it was the firs industrial country.
+It never had it.
+There is something in the British political culture, and I call this a national characteristic once it gets deep into a culture, which has made British politics consistently less violent than others.
+It's not because there isn't class war in Britain, there's obviously a very great deal of class war, but it's a kind of cold class war which doesn't erupt into the violences which have characterised French, Italian, Russian, Balkan, Spanish politics.
+That links to a question I'd very much like to put to you, Geoffrey, and that is the British concept of doing the decent thing — I have the impression that that is almost the uniquely British concept.
+If you meet people from other countries, they understand what you mean if you say to do the legal thing, or the just thing, or the right thing, in certain ways, but it seems to me to be a slightly soggy, but nevertheless very important, British concept of doing the decent thing, which may be just, may be legal, may not be either of those two, but the British man has a very clear sense of what it entails.
+That's very important and very true.
+It's directly connected with the speculations I was just making about possible changes in the British character .
+I very much hope I'm wrong.
+Orwell, you remember, that great Englishman who knew so much about our national character and wrote about it, some of his best essays characterised decency as a British peculiarity.
+It's a rather vague term, as you say.
+It meant something like to do with fair play and here one sees the sport fixation of the British, perhaps, mixed up in its roots.
+It's something to do with gentlemanliness and the idea of the English gentleman, which has become a very influential one, not just in Britain, but it's been admired and copied in many other countries and this is an historical product.
+It's something to do with an extraordinary oddity in British history, compared to world history generally.
+Our production of an incorrupt public service.
+There are few indications that that marvellous high level of incorruptibility has been cracking a little bit, aren't there?
+But still I have no doubt at all it remains erm at the top of the international league and is much admired elsewhere.
+Only in a few countries in Northern Europe, ours among them, is an incorrupt public service normal.
+Are the British as bad and the French as good at sex as they claim to be?
+.
+I don't know.
+Now you're getting into national characteristics of a most particular and private kind.
+Certainly, the British attitude towards sex has excited a great deal of continental mirth for a long time, especially Latin mirth, I think.
+Think of all those comedies which run for years in London with titles like ‘No Sex Please, We're British’ and all that.
+There is some difference here.
+Is it not a British peculiarity, this combination of public prudery with extreme puriance, extreme interest in sex and  devious at that, and which fills the newspapers whenever public events give them an opportunity.
+If we get into sexual behaviour, you'll have to ask Kinsey and his followers, not G.
+Best.
+And lastly, Geoffrey, is it fair to lump the English, the Scots, the Irish and the Welsh together in one compartment and call them British?
+I remember that song that you mentioned  that you quoted at the beginning of the programme ‘Look into the Irish, the Welsh and the Scot, you'll find he's a stinker as likely as not’ is how it went on .
+It has been legitimate.
+The British Empire and Commonwealth — it meant British, because it was run jointly by people from each of those countries, and they all got something out of it.
+The Scots, in particular, got a hell of a lot out the Empire, proportionately the Scots had many more positions of influence and profit in the Empire than we did, and I think Scottish nationalism had it's economic roots in the last twenty/thirty years from a realization that the Empire's over, and that great outlet for Scottish energy, education and ambition was closed, therefore the Scots are shut up in the island as they used not to be.
+I was in Scotland for twelve years and was once congratulating myself and my friends a the University of Edinburgh on being, as I thought, so cosmopolitan.
+Here we were, Englishmen in Edinburgh, marvellous.
+People from all over the world in this great eighteenth century city, very cosmopolitan.
+‘No it's not’, said a Scots Nationalist friend one day — very rude to me —‘it's not cosmopolitan, it's colonial’, and he had been looking at me and thinking ‘here's one of those damned Englishmen sponging on the Scots, making a good thing out of them’.
+The Scots and the Welsh and the Irish have clearly retained very strong national cultural characteristics, which have made it necessary for the student who wants to make accurate distinctions to say ‘British does mean something, and it's something to do with the Briton overseas’.
+In proportion as we have lost that overseas extension of our power, I think the national differences within the British Isles are bound to show more, because they've lost the great common ground of shared activity they used to have.
+Thank you very much, Geoffrey.
+Next week I shall be talking with Tony Nuttall about Shakespeare and the reasons why he's still regarded by many people as the greatest playwright of all time.
+Until next week, then, goodbye.
+Hello.
+In just under a month's time, Saturday June the fourteenth to be precise, the university will be holding its Silver Jubilee Open Day.
+On that occasion we hope that as many people as possible will take the opportunity to visit us.
+One of the features of that day will be a series of mini- lecturers on just about every conceivable subject, and during the next few Ideas In Action programmes I shall be talking to some of the lecturers about their topics, hopefully whetting your appetites sufficiently to want to join us on that day to hear more.
+John Hag is a lecturer in mathematics and a statistician.
+On the lighter side of his subject, he's made a study of gambling habits from a statistical view point, and during the Open Day he'll be giving a lecture entitled ‘Horse and Football Pools — Why you should Expect to Lose’.
+John, it sounds like a mugs' game to me.
+Why should people gamble if they're bound to lose?
+Well people are not bound to lose, because some people do finish up ahead, but most people should expect to lose for the simple reason that bookies have got to make a living somehow, and therefore the odds that they offer to entice people to go in are such as to expect the bookie to make a profit, but that doesn't mean to say that I am against the idea of people going in for gambling.
+I know that a very large number of people get a great deal of pleasure and fun out of gambling.
+Some people make a living out of it — I don't — and I've absolutely nothing against that.
+Let's have a look at the statistics of the matter.
+Maybe football pools would be a good starter here.
+Well football pools are a splendid started because recently somebody has won just over nine hundred thousand pounds, and it's interesting to note that he did this without exercising too much skill, as I'm sure he'd be the first to admit, because he enters the same numbers every week.
+I heard him talking on the radio, in which he said he'd tried several methods of winning on the football pools and in the end decided that the easiest thing to do was to put in the same numbers each week and so he was not exercising any skill in deciding whether one pair of teams were likely to enter into a score draw than another pair, but he just trusted that, say, number thirty seven would turn up as a score draw this week.
+mhm Does it make any sense to put in the same numbers _ does it add to the attraction from a statistical point of view, the likelihood to win?
+That's a very interesting questions, very difficult to answer shortly.
+Let me say why.
+There are fifty five different numbers at the moment on the football pools, and if people made an investigation of the frequency with which certain matches were selected, then they'd find that certain numbers were selected far more frequently and others selected far less frequently than other numbers.
+Now if you knew which numbers were selected less frequently than others, and you kept that information to yourself and you bet on those numbers that were selected less frequently, then unless there's any special reason why those numbers should produce fewer score draws than other numbers, you're giving yourself an advantage because on the weeks in which those numbers produce score draws there are fewer people who'll have them down as their numbers, and so there's more money around for those few people who have them down, including you, and so if you win, then you'd expect to win more money.
+So you are essentially assuming that there's no skill in football pools, that it's essentially a random process and sometimes some teams win and sometimes they don't, but there's no overall skill in it.
+It's a question of just choosing and what you are saying is that you can increase you payback, if I could put it that way, by choosing numbers which are for whatever reason less popular with some people, simply because the payback is larger on those days.
+Broadly that.
+I wouldn't go so far as to say there's no skill, because if you do have skill in identifying draws, then you'll increase your chances of winning by using your skill in identifying those draws, but how much you win depends very heavily on how many draws there are and how many other people choose those same draws.
+So if there's one draw, for example, or one match which looks as though it stands out as an absolutely surefire score draw, and everybody puts it down, and it comes up as a score draw, then nobody gains anything.
+You'd gain if you avoided putting that down as a score draw, especially of course if it didn't turn out to be a score draw.
+Is there any point in paying out a lot of money each week.
+I mean do you do better if you put in on a large stake as opposed to a small stake?
+The more money you invest, the greater your chances of wining, but when you enter football pools you should be quite aware that the total amount of stake money that's returned to you in prizes is rather small.
+Of every hundred pounds that's invested, round about forty pounds goes straight to the government in betting duty, round about thirty pounds goes to the football pools in expenses, commissions and profits, leaving round about thirty pounds to be returned in prizes, and so you can see that your rate of return on football pools is extremely small, but on the other hand a very large number of people do enter the football pools, and when they win they can win considerable sums of money and it can make absolute rational economic sense to go in for football pools because you are giving yourself a chance, no matter how small, of winning a sum of money that you wouldn't expect to come across in any other way of your life.
+And the sort of payback, as it were, if you are lucky, is rather larger than the payback, say, in horse racing?
+Ah, well.
+I mean given that you've got a, oh I don't know, a pound you're going to spend a week in gambling entertainment, if I could put it that way, you'd do better to go in for the pools, because if you did have a win you might have a big one, than to put it on a horse — am I right?
+Well, for a pound you have a much better chance of a big win on the football pools than on horses, but that's purely because of the odds offered.
+As I have said, if you invest a pound, then on sheer rational expectations you should expect on average to get back thirty pence.
+If you invested a pound on a horse, then the amount of money you'd expect to get back would depend on the odds that that horse was offered at, but if you confined yourself to horses that had a reasonable chance of winning, say, the sort of horses that tend to be offered at odds of, say, six or seven to one or better, then your average rate of return might be nearer ninety per cent than thirty per cent, so putting it one way betting a pound a week on the horses is a slower way of losing your money than betting a pound a week on football pools, but football pools gives you a much greater chance of winning an absolutely astonishing sum of money.
+Let's talk about horse racing, but before we do so, one last question about football pools and that is that some people have systems — they come up with a whole range of numbers and combinations of things — does that make any sense at all?
+It makes sense in what I said earlier about if you can identify numbers that are very seldom chosen, because when those numbers do come up then you're one of a small minority of winners and therefore your stake is larger.
+The system ought to be to attempt to guess, or find out by other means, the numbers that other people are less likely to put down.
+But of course this is self-defeating.
+If a large number of people start doing this and start second  at each other, you don't know what land your in.
+Indeed .
+Right, horse racing.
+Now the rather depressing side of football pools as you only get twenty eight pounds in the hundred pounds back in an overall figure.
+Is that similarly true for horse racing, or does more money come back to the punter?
+It depends on your tactics in horse racing.
+If you decided that you're really only interested in long priced horses because you wanted win a large sum of money, so you only started looking at horses that were offered at fifty to one or longer odds than that, then if you look at the statistics then you'll find that the rate of return on such bets is even lower than the rate of return that we've quoted on football pools, but on the other hand if you look at horses which are offered, say, at odds-on or at very low odds, evens, two to one and things like that, then the rate of return is pretty close to a hundred per cent of your money.
+You're never going to get extremely rich by betting on horses at very low odds, unless you bet very large stakes, but on the other hand if you do bet frequently at horses that are two to one or two to one on, or something like that, then the statistics demonstrate that you can, over a season, just about break even, or you tend to just about break even.
+That's very interesting.
+What you're saying, essentially, is that if you just automatically put a bet on every outsider with long odds, say twenty to one or something, through an entire season, you're going to end up by losing money overall.
+You'll perhaps only  say if you put out a thousand pounds, you'll possibly get what three hundred pounds back or something like that?
+Well, I don't have up-to-date figures because I haven't had the time to compile them, but I do know — I know it's twelve years ago, but — in nineteen seventy three if you look at horses that were offered at precisely fifty to one, then you'd find that there were five hundred and thirty horses offered at those odds during the whole of that season.
+Four of them won.
+Now you can work out for yourselves that if you'd been betting a pound on each of those horses you'd have finished up substantially down.
+On the other hand, if you went to the other end of the scale and in that same season you looked at all horses that were offered at precisely two to one on, then you'll find that there were twenty two horses which were offered at those odds and fifteen of them won.
+Now twenty two is not a large number, certainly not large enough for any statistical reliability to be placed on the result, but the fact remains that if you had bet on every single horse in that season at two to one on, and had bet the same amount, then you'd have finished ahead.
+So, your advice for the gambler that actually wants to make money  is to go for horses which have very low odds against them?
+I wouldn't care to offer advice to gamblers, because I'm sure that people who bet on horses do things other than purely look at the odds the horse if offered at.
+What people are doing when they're gambling on horses is placing their assessment of the horse's chance of winning against the odds offered by the bookie.
+If the bookie appears to be offering unfavourable odds, then a gambler will tend not to bet, whereas if the bookie appears to have made a mistake by offering, say, odds of five to one on a horse that you think is a sure thing, then you'll place your money there.
+So you will exercise some skill.
+I'm taking here about pure, blind betting of someone who is not attempting to exercise any skill but is just looking at the odds offered by the bookies, and pointing out — and I'll have a table to demonstrate this in the talk I give at the Open Day — the way in which the rate of return on bets made in this way decreases steadily the longer the odds are offered.
+If horses are offered at very short odds, odds-on, then the statistics demonstrate that overall you could do quite well by betting on them.
+If they're offered at very long odds, the statistics demonstrate even more clearly although the odds are long they're not long enough to make the be fair.
+I mean those horses offered at fifty to one could have been offered at a hundred to one and still the bookies would have finished up ahead, but of course those people  those few people who'd at fifty to one would have one twice as much.
+Finally, John, does it make a difference how popular a horse race is and how many horses there are in a race as to the odds against winning or the odds in favour of winning?
+Yes it does.
+Horses on which large sums of money are bet, such as the Grand National or the Derby, they are horses that the bookies pay a great deal of attention to and the overround that they calculate — they offer odds in such a way that you can't, by judiciously placing your bets, guarantee to win, and the overround is erm a thing that you can calculate which expresses, if you like, the average percentage in favour of the bookie on that race.
+Now this overround tends to be larger in fields with a large number of runners, and also tends to be larger in these popular races, so that at times when there's lots of money around the bookies, of course, and we expect them to do this, are very careful to make sure that the odds are well in their favour, because on these races where there's lots of money staked their risk is higher.
+John, I look forward to learning more about where to place my small bets on June the fourteenth.
+Thank you very much.
+Thank you.
+Next week we shall be taking a look at quite a different subject.
+Margaret Ducar will be talking about sexism in language and we'll be talking about how words used to refer to women and men reflect the inner quality between them, and also how the use of language by men and women in their everyday lives is related to the power differences between them.
+Join us next Sunday.
+Until then, goodbye.
+Hello.
+Continuing our serious on disasters, today we're going to talk about immunology — one of the ways in which the body defends itself against disease.
+I recently spoke to Professor John Newsome-Davis about this complex but interesting subject.
+I started by asking him ‘What is immunology?’?
+The body has a defence system that protects it against outside invaders.
+When a bacteria or a virus gets into us we have blood cells that attack the foreigner.
+These blood cells can release antibodies, which are specific for the target, home onto it like a guided missile, and kill it.
+And the immune system normally functions to protect us in this way, and is regulated in such a manner that it does not attack bits of oneself, but only legitimate foreign targets, and thereby is our ally.
+And what goes wrong?
+Well, perhaps all body systems occasionally go wrong, and this is true also of the immune system.
+There seems to be in some patients a failure of recognition of self, and as a consequence the immune system turns inwards and begins to attack selected targets within the body, and when this happens disease may arise.
+You gave examples in your talk about something called miocenia gravis, or M G as you call it.
+What is this?
+Miocenia gravis is a disease that has interested doctors, and laymen for that matter, for a very long time.
+It's a disease that's characterised by fatiguable muscle weakness.
+At the beginning of exercise strength is often good, and then it steadily declines with increasing effort and, in severe cases, patients are weak all the time; they can't see properly; they see double; their eyelids droop; they can't hold their heads up; they can't chew; they can't swallow; their arms and legs are weak; they can't peg out the clothes on the washing line; they can't walk upstairs, and in really severe cases they can't even breathe — unless they're supported on life support machines they would die.
+So at its worst it is a seriously and life-threatening paralysing disease, but in its minor forms not really a great deal of trouble, although upsetting enough for the patients who have it.
+Is this a new disease, something we've discovered recently, or has it been around for a long time?
+It's, I am sure, been around for a very long time.
+Indeed, there's an excellent description in the seventeenth century by the physician Thomas Willis of an honest and prudent woman, as he describes her, who erm, after much hasty speaking will become mute as a fish, and one might even fancifully look further back and wonder whether this fatiguable weakness wasn't something that erm that the Old Testament character, Samson, had.
+You may remember that Samson was a man of enormous strength and then, following a liaison with Delila and her cutting off his hair, he was reported to have become as weak as a child — and yet there was an occasion, which led to his death, when he brought the whole temple down by pulling the pillars against which he was propped.
+Now that kind of burst of strength would just be feasible for a miocenic.
+You might then wonder what the cutting of the hair had to do with it — well, one of the features of auto-immune diseases is that they cluster within individuals and sometimes within an individual's family, and the reasons for that are that the immune responses that we have we inherit with our genes.
+Now one of the auto-immune diseases that has been recognised is erm unusual baldness — it's called alopecia.
+It isn't the ordinary baldness that we're all familiar with and see around us, but this is a different kind.
+It may affect very young people and they may lose all their hair, and I have at least two patients with miocencia who are bald in this way, and this type of baldness is believed to be auto-immune, so I think that one could, perhaps, jokingly suggest that Samson may also have had alopecia and it wasn't Delila who cut off his hair, but his auto-antibodies that destroyed the hair making process, and all that makes poor Delila something of a victim of history and perhaps we should be springing to her defence.
+It's something that goes wrong at the nerve muscle junctions?
+In miocenia gravis that's true.
+The problem is at the junction between nerve and muscle.
+When we want to make a muscle contract the brain sends a nerve impulse through the spinal chord, into the peripheral nerves and out along those nerves to the muscle and each individual muscle fibre has a single junction, a nerve muscle junction, where the nerve makes contact with the muscle, and that is the site at which the stimulus leads to muscle contraction.
+The process of transmitting the signal from the nerve to the muscle can be described quite simply.
+There is, in fact, a narrow separation between the two and the way in which that separating bridge, if you like, is crossed is that the nerve terminal secrets a chemical.
+When a nerve impulse gets there this chemical is released by the nerve terminal, crosses the narrow cleft and reacts with special receptors on the muscle side of the junction, which, when they're stimulated by this chemical, lead to muscle contraction.
+Is the paralysis the same sort of paralysis you might get if you were bitten by a snake, for example?
+Well that's an interesting erm parallel really.
+There is, indeed, a snake — the  Formosan banded krait — that gives you a type of instant miocencia, and the discovery that the venom of this animal contains a toxin that can do this has, indirectly, led to the elucidation of the mechanism behind miocenia gravis.
+It turns out that the component in the venom of this snake that has such an effect binds to the muscle receptor on human muscle and other animals' muscles, and it binds there much more tightly than the natural chemical transmitter, which is called  estialcodine , thereby preventing the transmission of the nerve impulse to the muscle and gives the victim instant miocenia and presumably a nice meal for the snake in due time.
+Now the important thing about the toxin is not so much that it can paralyse its victim, but that biologists can use it, and they can use it because it's possible to label the toxin radioactively and then employ this to look at the distribution of receptors in patients with miocenia and characterise the receptors in other ways.
+So do you actually allow snakes to bite human beings to 
+No, I'm glad to say that we don't do that.
+What erm happens is that we obtain the toxin from erm from the  from a serpentarium.
+The people who care for these snakes are very clever at milking them and getting the venom from the animal safely, and this is then purified biochemically and erm sent to us as a dried product in a stoppered bottle and the snakes are a thousand miles away, I'm glad to say.
+Oh that  that doesn't make it quite so exciting.
+Miocenia gravis, presumably, is not a very common disease in its own right — is it linked to other more common diseases, cancer, anything like that?
+Miocenia gravis is not so very common.
+The incidence is probably around six per hundred thousand in the population and erm that would mean that there are several thousand cases in the United Kingdom at any one time.
+It does, interestingly, erm, as I think I mentioned earlier, it does associate with other auto-immune diseases and thus one can have somebody with miocenia gravis who may themselves have over active thyroid, which is an auto-immune disease, or may have other members of the family with the same disorder.
+So, they can  miocenia gravis can association erm with other diseases, but as far as cancer is concerned it doesn't in the ordinary sense associate with cancer.
+It's erm true that a gland in the chest, called the thymus glad, that we know is very important controlling immune development in young people, is abnormal in miocenia.
+In young miocenics the glad may be very over active when it should have become atrophied, and in some patients, not very many, there may be a benign tumour of the gland and erm but we don't think that that tumour does itself provoke the immune response, but there is a distant and rare cousin of miocenia gravis, the  lampodetonmiocenic syndrome, where cancer does play a bigger part.
+How about multiple sclerosis?
+One of the reasons for studying miocenia gravis, where the disease processes are beginning to be understood more clearly, is the hope that this might elucidate diseases that are presently more obscure, like multiple sclerosis.
+Yet the advances in multiple sclerosis in the last few years have been very encouraging.
+It's now become clear that immunological factors are certainly involved.
+We know that the immune system in that disease produces immunoglobulins (which are antibodies, in the spinal fluid, which is the fluid surrounding the brain and spinal chord)product antibodies there in the way that normal people do not, and there's evidence too that around the areas of damaged insulation in the central nervous system, which is the characteristic abnormality or lesion in this condition, there are cells that are known to be committed to making antibody, or to aiding the production of antibody.
+So there is evidence that the immune system is caught up in the pathological process, but whether it's truly an auto-immune disease is not so clear.
+There is quite good evidence that some external agent, possibly a virus, but that's certainly not proven, but some external factor is important in precipitating the disease.
+And maybe the external factor interacts with the immune system and the immune system acting, over zealously as it were, not only responds to the invader, but leads to a bystander damage of the nervous system in the process.
+It's possible that the increased understanding that we now have of miocenia gravis will help us to understand more about diseases such as multiple sclerosis which are, unhappily, much more common than miocenia gravis.
+You've been kind enough to answer my rather specific questions.
+I wonder if I could just take a step back in conclusion and ask you a couple of rather broader questions, more general questions.
+The first is immunology — how has it really changed in the last, perhaps, decade or so?
+Has it changed radically as a subject and as an activity?
+I think the change in immunology and the advances in the last decade have been truly remarkable.
+I think science has always been characterised by periods when particular subjects have had an enormous outburst of activity, and we're seeing that with erm immunology at the present time.
+It's led to our understanding a number of diseases about which we were quite unclear in the past.
+I've talked about miocenia gravis; there is it's rarer cousin, the  syndrome, which sometimes associates with carcinoma of the lung, and we have shown that this too is an auto-immune disease in which the lung cancer seems to precipitate the immune system into making an antibody against it, the tumour, and the because the tumour has on its surface the same thing as the nerve terminal, the antibody also binds to the nerve terminal and causes trouble there.
+It's beginning to help us to understand multiple sclerosis, and there are a number of hormonal or endocrine diseases, such as thyrotoxicosis, underactive thyroid disease, juvenile onset diabetes, rheumatoid arthritis, which are all immunological disorders and erm in which the advances of immunology have contributed to understanding.
+Because the treatments are so specific does that mean to say the possibility of side effects are smaller.
+One of the concerns that people have these days is the side effects of treatments — you cure the particular disease, but you create other problems which then go on and on.
+Yes.
+That  that  that is a just criticism and it has been made of immunological treatment.
+I think that perhaps  perhaps it's not all together just.
+It's certainly true that the methods of treatment that we use in miocenia gravis at the moment are not specific.
+In other words, although they suppress the aberrant antibody, they suppress other antibody production too and also the production of blood cells, yet they seem to have a greater effect on the abnormal antibody than they do on normal ones and in quite large numbers of patients that have been treated in this way the side effects are really relatively slight.
+But occasional misfortunes do occur and that's unavoidable, although one must keep in mind that patients with severe forms of this disease who are untreated used to died, now they do not.
+The treatment that we have available controls the illness and that means that the outlook in miocenia gravis and similar disorders is very much better than it used to be.
+But, yes, we should be looking ahead.
+We should be looking at ways of being more selective about treatment, and I think one of the reasons for wishing to study miocenia gravis in such detail is to be able to get so inside the mechanism of production of the disease that we can in fact simply turn off the miocenia disease process and leave the rest of the immune system just as it was.
+Thank you very much, John.
+That's all that we have time for today.
+Because of the Sussex Charity Auction Appeal, there will not be a 
+Hello.
+This programme is all about poetry.
+Professor Laurence Learner is an English scholar at the university, but he's also well known for his verse, and it's about his verse I want to talk to him today.
+Larry, how long have you been writing poetry?
+Well I suppose more or less all my life.
+I think if you asked that question to any poet he'd probably give that answer.
+It so happens that I can remember the firsts serious poem that I wrote and published, which was actually when I was in my mid-twenties.
+That still makes a good thirty years.
+How do you decide about a subject.
+Does it just come over you — I must write a poem about this?
+Well that is the traditional idea of inspiration, isn't it?
+In fact, no, I don't think that is so.
+I think it's almost like asking somebody the question how do you decide what you're interested in, or how do you decide what's worrying you or upsetting you, or pleasing you.
+I mean these things are niggling and if you write poems you would write a poem about it.
+But in fact I do have very mechanical ways.
+I mean I do happen to belong to a group of poets and we set one another subjects regularly.
+We don't always write on them; sometimes you find that if somebody tells you to write a poem about windows you end up writing a poem about aeroplanes or whatever, and I actually like being told to do something from the outside because you'll discover almost immediately whether that's really something you want to write about or not.
+The other possible way of answering your question is to think in terms of having a large project in which you would write a whole series of poems that would add up into a book, which as it happens I have just done, since I have just published a book of poems which are all retellings of bible stories, and there the subjects quite clearly came from the outside, though I mean unless they latch onto something inside you they won't make poems.
+How do you set about it?
+Do you sit down with a blank sheet of paper and think ‘I'm going to write a poem on the subject of windows, or bible stories’?
+There is of course a famous poem by  Mallarme on exactly that subject about how awful this white, virgin sheet of paper is.
+I don't think I really know the answer to that question.
+Although I would have kept all the notes and drafts and I could, therefore, reconstruct how a poem is written, it's my experience that once it's been written it's very hard for me to imagine back to the time when it wasn't written.
+I spend a lot of time gloomily thinking I couldn't possibly write about that, and then eventually I do it.
+Do you go through many different versions?
+Less than I used to.
+I used to fill pages and pages to produce a very short poem.
+I think I now know sooner if it's not going to be any good, you know.
+I'm speaking personally; every other person would answer differently.
+It is necessary to have a lot of different stages, so that you're coming to it fresh each time, and I used to find when I was younger that that would mean putting it aside for several days.
+Now I find if you put it aside for an hour or two and do something else you can already come to it fresh.
+But you can actually sit down and write several poems to order?
+Well, it depends what you mean to order.
+I mean I could sit down and write a piece of doggerel about what we're doing now that rhymed and was comic and so on.
+I could do that to order; that wouldn't be something I would dream of publishing.
+It would be highly unlikely that it would turn out to be very interesting.
+I mean when I wrote this book of bible poems in fact it took me a very long time and I started all sorts of subjects which I didn't finish, so, no, you have to be obedient to whether the poem intends to get written or not.
+Are there any rules for writing poetry in the sense that does it have to rhyme, does it have to have a rhythm, does it have to have a particular for to be recognised and accepted as a piece of poetry as opposed, perhaps, to a piece of prose?
+Well I mean you can't have rules without a police force, can you, and since there's no poets' union from which you could be expelled, clearly whether there are any rules depends entirely on the poets themselves and their readers, and everybody knows that until about the end of the nineteenth century almost all poetry was written in regular metre and regular patterns and, except for blank verse, in regular rhyme, and that this is no longer so and now you would either be deliberately old fashioned or you would have some special purpose, I think, if you wrote your poems in traditional rhyming schemes.
+You could almost say there's a kind of rule that says you ought to write in fairly free verse nowadays and that you're making a kind of statement if you don't.
+I mean in fact I write in reasonably free verse, but there are all sorts of purposes, especially satiric purposes, for which rhyme is still very important.
+Am I right in supposing that one essential quality of poetry is that it is meant to be read aloud?
+Well, yes, I believe that.
+I mean there are a lot of people who will say that no longer applies to modern poetry because it is so complex and difficult and needs brooding on very carefully.
+It is actually my experience that even the most difficult and complex modern poem, especially if you have read it beforehand, comes to life quite magically when it's read alone.
+Larry, that is a cue, perhaps, for you to read us one of your poems.
+Yes, right oh.
+I'll start by reading a very simple poem, which is called ‘To Sarah Burge’.
+Sarah Burge was a Barnardo child, who was photographed in eighteen eighty three — in fact we've just passed the centenary, I realize, of this occasion — at eight years old, and I've seen the photograph and it was, of course, used for fund raising purposes, but I wrote a poem to this obviously long dead girl.
+‘You are wondering why the man has disappeared under a black hood.
+What will he do to my face you're asking?
+Will he tear out my eyes; will he lock up my lips; will he tangle my hair; what will he squirt at me; why was I chosen?
+You were asking it then, you look out at us asking it now.
+Well, I will tell you.
+When you're lips tighten with growing he will plump them out; when you're eyes go hard and adult he will keep them dewy; when you're hair turns grey he will paint it black; he will wipe off rouge and years; push your teeth back in; erase your wrinkles.
+Sixty years from now you will bless him.
+He dead, and you dying, he gave you the kiss of life.’
+Thank you very much.
+Can you remember how you chose that subject?
+Oh well that's easy, because I saw the photograph.
+You saw the photograph?
+I saw it  I actually saw it at an exhibition of Victorian photographs 
+Yes.
+and I was very moved by the photograph and I ended up writing a poem to this little girl, and indeed one thing I can say, perhaps with some pride, is that Doctor Barnardos know about this poem, and somehow who was writing a history Barnardo children actually asked to use it in her book.
+It's absolutely delightful.
+So it's re-inserted itself into the real world, you could say.
+That's very satisfying.
+Have you got another one you can read to us?
+Well I thought I might accompany it with another equally short poem, which is also about a child.
+The difference being that this time the child is inside and not outside, and the poet is remembering his own childhood.
+The poem is called ‘Implications’.
+‘The implications of sunlight are everywhere.
+Scarlet petals; the brushed grey of the rocks; all those greens, quietly rioting.
+The hot streets where a child walks and I follow, forty years behind.
+He notices nothing.
+Turns past the familiar names.
+The mountain, the sea in its lap, the sun on the stark rock, hibiscus, poinsettia, tear fibres that ache with disuse.
+I long for his unwashed eyes.
+I look up.
+The same air, the same scarlet announcements, the huge sea flecked with sunlight, the same insistent mountain, the same child climbing slowly, the years like rocks above him in the ubiquitous sun.’
+Perhaps I should have said at the beginning, although I hope it's obvious, that the speaker of this poem is, of course, coming back to the town where he was born.
+Can you remember the circumstances under which you wrote this poem?
+Well that's another easy one — in fact, though, this wasn't in my mind.
+We picked two poems on which it's very easy for me to answer that kind of question because of course I did go back to the town where I was born , and erm wrote actually quite a lot of poems — well a lot, a lot for me would be four or five in that situation — of which this is probably the most successful and this one I've put in a book.
+Is there a therapeutic element about your poetry?
+You mean therapeutic for me or for the reader?
+No, for you.
+Well that would imply that I was in a pretty bad way  and normally wouldn't do 
+No, I don't think so, not necessarily, not in the more general sense of the word therapeutic.
+Well.
+I just wondered whether it was important for you to get it out; apart from any artistic creation, it did something important for yourself?
+That's actually very difficult.
+I mean I don't write for therapeutic purposes in the sense that you might imagine, you know, someone in a mental hospital would paint or do pottery or conceivably write in order to relieve the inner tensions.
+I mean I guess I've got as many inner tensions as most of us, but I don't think of it in that way.
+I mean I've been doing it for such a long time now it's important to me to go on doing it, but then that might be rather like it's important for you to go on doing physics, isn't it?
+That you would feel that something had gone wrong if you were no longer able to do any physics.
+But whether it's therapeutic for the reader is not for me to say.
+I would hope, obviously, that I wrote poems that could sometimes speak to the reader's condition, and it would be too grandiose to say helped him to sort out his own feelings, but at least helped him to get a feeling of recognition and, if the poem is successful, you know, some kind of satisfaction that the feeling has been turned into that permanent form.
+I suppose there's a sense in which poetry can only be shared with other people if there is some common experience, maybe at a deeper level some collective unconscious, otherwise I wouldn't be able to respond to your poetry?
+Well you don't necessarily have to bring the collective unconscious, do you?
+I mean most people's poems are on widespread human experiences.
+We've all — take these two poems, we've all been children; most people have been in love; we're all  we all think about our death; we all think about our parents; we all like stories and we all like stories that seem, you know, to deal with some primal central human experience, so I don't think you have to say anything more than what we all know already, that we all have a great deal in common with one another.
+Do you have a feeling that poetry is taken more seriously these days than it was, perhaps, erm twenty or thirty years ago?
+Are the great members of the public more likely to respond to poetry and recognise it as a serious endeavour?
+I mean there are so many ways to take you question, isn't it — one way is to simply look at the sales of poetry books; well I have no idea, but my guess is that those perhaps haven't changed very much.
+Well what, of course, has happened in the last generation or two is the growth of poetry readings.
+That is to say there's hardly a well known poet in England now who doesn't go round reading his work on various public occasions.
+The only ones who don't are those who don't want to like Philip Larkin, and there is a sense in which poems have — probably since I started writing — have been lifted off the page much more in the absolutely literal sense, that people are used to hearing them and can read them afterwards.
+Larry, thank you very much indeed.
+I would love to talk to you over a much longer period, but I'm afraid that's all that we have time for today.
+Next week is the last programme in our current series and Peter Townsend will be talking about thermo-luminescence, which is a new technique in physics for dating pottery.
+Until next Sunday, then, goodbye.
+Hello.
+A couple of months ago, an economist, Professor Ken Balding of the University of Colorado, gave a talk at the university on the subject ‘How do things go from bad to better?’
+It seemed to me that this would be an interesting and upbeat note on which to finish our current serious on the theme of disasters, so I asked him what he meant by human betterment.
+What do we mean by things getting better rather than worse?
+Then, if we ever find out what we mean by it, how do we do it?
+That's  a hundred year project.
+And what we mean by it is a little vague, but that's really important.
+That's is the erm  the real world often is very vague, and it's a great mistake to be clear about it, but on the other hand it means something.
+All human beings make evaluations all the time.
+It occupies a good deal of our conversation, you know, ‘How are you?’,
+‘What did you think of the play last night?’,
+‘Are you having a good meeting?’, you know, and then of course all decisions involve human evaluations because a decision is a choice among alternative images of the future really and we evaluate these and pick out what we think is the best, obviously.
+What economists call the theory of maximising behaviour, which is just flossy way of saying it.
+We are making these evaluations all the time about ourselves, our own health, our economic status and of our families, our community, our county and the world as a whole — we make evaluations about this — and these aren't all the same, of course.
+One of the problems is that erm different human beings make different evaluations.
+The man who's just won an election usually thinks things have gone from  to better and the man who's lost it thinks they have gone from bad to worse.
+On the other hand, though, we do in society have erm all sorts of erm apparatuses and institutions, not necessarily for reconciling different evaluations, but for co-ordinating them I would say.
+And then the other thing is I sometimes call preachments, such as the moral order essentially.
+There's every erm  every one of us lives in culture or sub-culture which criticises our own evaluations and, as I said, if you belong to a motor cycle gang and you don't like motor cycles you won't last very long .
+Either you get out or you'd be pushed out.
+And if you're a professor, well you have to like studying and you have to like reading and you have to like teaching and all these other things.
+If you don't, you'll soon be out on your ear, so that they are all subjects of these persuasions, these moral persuasions, and then the overall society tends to criticize the values of the different sub-cultures within it, you see, and the Russians are rather nasty to the Baptists and we're rather nasty to the Communists.
+And then these overall evaluations change too, so you have a long evolutionary process here, you see, the working out of human evaluations, and while you won't get  you won't get total agreement that the  you will erm some sort of co-ordination and the  particularly I argue that while there's an area sort of in the middle, as it were, where you can get away with all sorts of things, you see, there are cliffs .
+You will find some sort of agreement that erm well  a nuclear war  will take us very much to the worse, there's no question about it — war nearly always does.
+And that erm a depression, the great depression was really  everybody would agree it was a movement from bad to worse.
+What you say is very plausible, but how do you actually decide that one state of the system is better than another state?
+Well 
+I mean what is your criterion?
+We are doing this all the time.
+Yes.
+And if somebody says ‘Well, are you feeling better today than you did yesterday?’ you'll give them some sort of answer.
+If you're ill and somebody says are you getting better, you say ‘Well, no, I feel worse today’.
+Supposing — let me stop you here — supposing you have a hundred people 
+Yes sir.
+and you want to say now are they in a better state today than they were yesterday.
+That's right.
+How do you actually decide that in some reasonable way?
+Do you say ‘Hands up all those that feel that they are better today than they were yesterday, or do you apply some perhaps more objective criteria of describing that?
+Well, you see what you're talking about is subjective reality.
+This is a very large part of it.
+If you have a hundred people, as you say, well you can do all sorts of things; you can take a vote, or you can argue it out,until you come to some kind of consensus.
+I spent some time in Japan.
+I've always been fascinated   working in Japan, because you don't take any parts, that erm  they would just argue it out until somebody says well this is what we should do and everyone says ‘Yes, that's right, that's what we should do’ you see, so that erm there are all sorts of ways of doing this.
+That's to solve a problem.
+How do you actually decide whether a state of a system, or a group of people is better than one stage than another.
+I mean do you sort of maximise the good of all, or do you use a criterion of everyone thinking that they themselves are happy, or is it some other means?
+Well, there is a kind of waiting process here, that is in political life particularly, some people are more important than others  in their political views and opinions and certainly depending on the nature of the society.
+You may have erm an absolute dictatorship, in which the values of the dictator are that and nobody asks anybody else anything about it.
+He or she just makes the evaluations and makes the decisions and that's that.
+This is rather unstable, and it usually comes to an end in a funeral.
+Funerals are very valuable politically, and then you usually get a kind of a shake down, you get some kind of group — in the Communist countries it's the  polit bureau .
+They make the basic decisions.
+On the other hand, you can have something like the gang of four in China that creates such tensions and anxieties in the society and so many people get to feel that things have gone from bad to worse, that you get a shake up and change in the regime.
+It's hard for any government to persist unless there are considerable numbers of people who regard it as legitimate, but legitimacy changes also, and if you make erm drastic mistakes you won't be re-elected like President Hoover .
+So you're saying essentially that the only ultimate way of deciding that state a.
+is better than state b.
+is the people themselves vote that this is the has in some appropriate way, or not the case.
+Or persuade or influence, or as I say even vote with their pocket books.
+Ford Motor Company produced an  Edsul years ago, and nobody liked it and so nobody bought it and so it soon went out of production.
+You haven't got to think of this in terms of finding the answer for all time, because the answer changes all the time, but what you have is a continued process of approximate answers, but it isn't chaos.
+It's meaningful and you may not, as I say, come out with any single and simple answer, in fact my own view really is that there's large area over which it doesn't matter very much.
+One of the things I'm arguing really is what you might call the ultimate goodness, you see the thing  goodness I just define as what goes up when you decide things are getting better and what goes down when things are getting worse .
+This is related to all sorts of secondary goods, what I call the virtues and vices really.
+Things like, well, riches and justice and freedom and large things like peace and large things like that you see, or just erm personal characteristics and subordinate good is something which when it goes up things get better  and bad or an evil or a vice is something when it goes up things get worse.
+You certainly all agree if there's an increase in crime, or cheating, or violence in the society, that these things are bad and as these things increase things change for the worse.
+Another very important principle also is that these erm  the relationship between the ultimate good — G I call it — and these subordinate ones is non-linear as a mathematician would say, that is that nearly every virtue becomes a vice if you have too much of it, you see.
+One you can be thrifty, which is certainly a virtue, but to be a skinflint is a vice  and this is true even of riches, even of economic development.
+You can get too rich and beyond rich, you know, you're worse off getting richer.
+Most people thinks that's a very long way off, but in the case of something like health then erm we certainly agree health is good for a very long way.
+mhm
+On the other hand we got into a discussion yesterday as to whether the medical profession isn't devoting too much of its energy just to keeping people alive who really ought to be dead.
+So I mean  perhaps they'd be better off dead, just keeping them alive in a state of sickness or in coma or something of this sort — there was a great discussion about this and that erm you see not even life is the ultimate good in a sense, you see, at some point death is better.
+Death is a very good idea, otherwise you wouldn't have any babies.
+I mean death is the price we pay for life, and at some point or other it's very desirable to depart from this world certainly.
+What you're really saying is that a society which is perhaps stable, certainly better, is one in which there's a fair degree of moderation and a fair degree of evenness in terms of 
+Well 
+spread of erm assets and 
+Well it depends a little on  it depends a little on the level, particularly with the impact of erm science on production in society, you see.
+We've also been able to have a great deal more equality.
+The level of equality in society is very closely related to it's level of productivity.
+I was in China a few years ago and was fascinated to discover there was one bicycle for every thirty Chinese, and you see they're not going to be distributed very equally are they?
+You can't have a thirtieth of a bicycle .
+You might be able to have half a bicycle if you share it with somebody else, but there is not way of having a thirtieth of a bicycles.
+So that bicycles in China are distributed very unequally.
+I mean the people in the city  the people in Peking have them, and the people out in the country don't.
+Even more striking with automobiles — there was, I don't know, just a few thousand automobiles in China, and only the very very rich, who are the bureaucrats and the  you see have them.
+They drive around with chauffeurs erm most people from Peking drive bicycles and most people in the country walk.
+So, on the whole, although you're not a physicist, clearly by your remarks you think that technology and progress in that sense is a good thing, rather than a bad thing.
+Yes.
+More bicycles for more people.
+Up to a point you see.
+Well when I come back to England today, as I do nearly every summer, it seems a fantastically rich and happier country than the one I grew up in.
+I grew up in Liverpool, you see, back in the twenties, and the filth and the smoke and the poverty, I mean the grinding poverty, especially among the Irish in Liverpool, you don't see that today.
+I mean the health of the country is enormously improved; the health of children is enormously improved.
+I do think it is scandalous thing neglecting your educational system and you're going to pay for this for a hundred years, because riches just come by learning, that's all.
+That's all it comes by is human learning, and you're neglecting that, you say, that is you aren't developing a learning society and you're going to pay for this and pay for this and pay for this, you see, and your children will pay for it, your grandchildren will pay for it, you see, just what you're doing to the educational system, what you're doing to the universities and you're so far behind from what erm most other modern countries are.
+I mean it is  you're even below Turkey, you know.
+Below Turkey ?
+Yes, and a proportion of people don't have education.
+Yet learning is the only way that things get better.
+This is my view, you see.
+It is that you have to learn how to get rich and how to get peaceful and how to be, you know, how to have a good life 
+How to be happy?
+How to be happy — you have to learn how to do it.
+And, lastly, how do things go from bad to better?
+Well, really by human learning.
+Yes.
+And by learning of erm mature values.
+Learning how to love — you see a lot of it depends on benevolence, as I say, there's caring for other people, you see, developing a sense of community, you see, it is avoiding the sort of things we get into in Northern Ireland, erm Cyprus, Lebanon, where you get these absolutely nightmarish cultures of violence that just go on generation after generation and are utterly useless.
+I mean they don't  they just make everybody worse off.
+How do you develop what we call positive sum games, in theory, things which make everybody better off.
+I remember the corcus race in Alice in Wonderland, where Alice says everybody is one so everybody must have prizes.
+That's what you look for, you see, you look for corcus races really and while conflict is perfectly real, and no question of that, but it tremendously easily becomes pathological and gets out of hand and a good deal of social organization consists really and how do you erm  in a sense how do you keep people and societies from falling over these cliffs?
+Partly is the developing realistic images of the future, a realistic image of the world and erm cultivating the right quantities of the right virtues.
+That's about what it is.
+Life is a corcus race, with prizes for all.
+That's right.
+Thank you very much, Professor Balding .
+That's all that we have time for today.
+The next programme will be on Sunday afternoon 
+Hello.
+Continuing our short series on what is happening in education, today we're going to take a look at the impact microcomputers are making on the classroom.
+Dudley Ward is a mathematician at the university, and someone who is particularly interested in the teaching of maths at school level.
+Dudley, tell us about the revolution in school teaching caused by microcomputers.
+Well I think the revolution is still coming.
+I think teachers are naturally suspicious of new ideas, and rightly so.
+They've seen lots of fashions come and go, so they're suspicious of microcomputers in many ways and the changes are happening so fast, I think many are sort of waiting to see what's going to happen before they commit themselves.
+Talking about it as a revolution in the wider world, and how it impacts on classrooms, there has, of course, been a tremendously increased interest in using micros in schools in the last three years.
+In East Sussex two or three years ago there was probably only one or two primary schools, say, with a microcomputer, and most secondary schools probably had one Commodore Pet computer.
+Now I would be surprised if there were more than one or two primary schools which haven't got a microcomputer and of the secondary schools they've probably got seven or eight of varying sorts.
+I can understand using microcomputers in secondary schools, that makes a certain amount of sense, but is there any sense in using computers in primary schools?
+I think there's a lot of sense.
+Firstly, when one thinks about using computers in schools, one tends to think of technology, and you think of people with white coats and dials and sort of science and technology and so forth, whereas I think in schools the big interest is in using a microcomputer as a teaching aid and as a support to other services and other ways of doing things, so it is just as relevant in a primary school as a secondary school.
+Also, primary schools are more adaptable erm they haven't got the constraints; they haven't got the syllabuses to get through; they haven't got exams at the end of the year; they haven't got to the sort of subject departmentalization that you get in a secondary school.
+So that if you say to a primary teacher ‘Here's a new toy, here's a new idea, why not try it?’ then they've got the opportunity to do so without sort of dramatically changing things.
+You put a microcomputer into a primary classroom and it seems to fit.
+The normal activity you'll find in a primary classroom is groups of children all doing different things scattered round the room.
+There'll be a group making pots out of clay or out of plasticine; there'll be a group doing sums; there'll be a group working with the microcomputer, and that can be incorporated in to the group work pattern, and it can also be incorporated into the sort of topic and project work that a primary school does.
+They're not quite so committed to doing maths in the morning and English in the afternoon, whereas in a secondary school it is quite difficult to bring in something as  that's going to have such a dramatic effect as a micro without sort of the ripples actually perturbing things to a destructive degree.
+Can I just say from a practical point of view, primary classes are fairly static sort of places, you've got the teacher in the class all day, and if they say well let's have a micro in our classroom today that can be done, whereas a secondary teacher tends to wander round the school with a load of books under one arm and a bag of equipment under the other arm, and they've also got to carry a micro round or move a micro from one classroom to another — it's physically difficult, so in practice the primary teachers seem to find it easier to fit in with micros.
+But do you find that children really understand what they're doing at all in any sensible way?
+Well they understand what they're doing in the same way as they understand what they're doing when they're watching a video.
+They're using a machine to do something.
+When they switch the television on they don't understand what's happening, and the same is true with a micro.
+You see I think there's a confusion between teaching computer science and computer studies and learning about computers and using micros in education.
+Teaching about computers is important, both technically and from the role they're going to have in the children's lives, but as I have said before the main interest, from an educational point of view, is using it as one would use a video tape or an overhead projector or a blackboard and a piece of chalk.
+So it's not so much a device to study in its own right, it's a teaching aid in other words, a classroom aid.
+Yes, that's right, and I think the software, that is the programs and material that's being produced to use with these machines, are becoming more sophisticated from the point of view of being made and more technically satisfactory, and therefore they're simpler to use.
+So all the technical stuff's going on inside the machine, and the user is spared the problems of knowing how to work it.
+Perhaps only three or four keys on the typewriter keyboard that the computer will have need to be pressed at all, and if a child presses the wrong one it doesn't all stop and funny, you know, impersonal messages come up on the screen saying he's done something wrong, it just ignores them and waits for one of the correct responses.
+One of the difficulties, it seems to me, that exists in schools today is that the teacher has to cope with a fairly large class, and one possible advantage of having a fair number of microcomputers 
+mhm 
+available is that kids would be able to progress and their own level and independent of each other, and take the pressure of the teacher slightly.
+Is that right?
+Yes.
+I think it can work that way, but I think many of us have a horror of a future picture of thirty kids sitting at thirty terminals, you know, pressing keys without any personal interaction with the teacher or with each other.
+So, providing you say yes there will be occasions when the machine can take over some sort of part of the teacher's role, then fair enough, yes, but I think one of the interesting ways in which computers are used at the present time, particularly again in the primary school, is as orchestrators of group work.
+You have three or four children sitting round the computer discussing, arguing, planning, working with the machine, and the machine is, as I say, co-ordinating their activities.
+Maybe recording what they're doing, leading them, and the teacher can come in at appropriate moments to help it along.
+So, yes, it can help the teacher, like a potter's wheel can help the teacher, or like a blackboard and a piece of chalk can help the teacher.
+And certainly at the level of or two machines per school we're not quite in the league of having each child it it's own cell yet.
+No, no, thank God.
+I don't think it'll come.
+What I would like to see, perhaps, is for every department in a secondary school to have a machine — every class, of course, to have a machine — and that's happening.
+Your history department or geography department may say well if we had a micro we'd be able to do such and such and they'll think about that in competition with other needs — textbooks or whatever _ so you'll see departments using them, as I say, in the same way that we'd use other sophisticated aids.
+One criticism that was levelled at calculators when they were widely available was that kids would start using them and really wouldn't understand basic arithmetic.
+Could one make a similar accusation of microcomputers?
+Well you could certainly say they could use them without understanding electronics, but that's probably a good thing.
+I think a lot of people are put off computing by the thought that it's very technical and very difficult to get into, and I think in some ways it still is and there's a sort of group of experts who rather jealously guard their knowledge, so in that sense, yes, they could short cut and remove skills that perhaps people should have.
+My son, who's in his teens, can't do long division, simply because he wasn't paying attention, presumably, at school, and he's always used a calculator since.
+Yes.
+Well I  I think that's fair enough.
+I don't expect he could use a slide rule either, and you and I might think that using a slide rule would be one of the marks of an educated man, but I think things move on.
+Long division's pretty boring; I think what I would like every child to know is the fact that long division is just repeated subtraction and all the methods long division do is to formalize that repeated subtracted.
+Well they know that, and if there's a machine that'll do the job, and if, when they've pressed the right buttons they can look at the answer and say ‘Yes, three point four's about right’ and so on, then that's good enough for me.
+I mean can you solve square roots by hand?
+Not without my  acabus — does he mean abacus 
+Yes, well you see I remember learning how to solve square roots by the long division method, and I don't know whether there was a method for cube roots, but I suspect there was, but I never got on to that.
+I suspect the teachers are not quite so enthusiastic some of them.
+That's right, and they resist the revolution, as it were, and I think rightly so.
+They've seen teaching machines come and go.
+They've seen language labs, which are great, more or less mould away for lack of resources to keep them in working order, and they see micros coming in at a time when everything else is being cut.
+They want new apparatus for their labs; they want new textbooks and new books in the library, and they find they're having to compete with bits for microcomputers and they say well what about a good book, isn't that better?
+So I think they're right to be suspicious, and it's right for those people who feel they have a role it's up to them to make it appear interesting and to show them the relevance.
+It's not the answer to all education's problems, of course.
+But there's a sense in which the teachers themselves are going to have to learn new skills, both in terms of the sheer mechanics of handling these devices, but also in sort of learning how to use them best in their actual teaching.
+Yes, and I think that second bit is the important part.
+Honestly, I don't think it matters knowing how to program, or knowing how to make the machines actually work.
+I think some teachers will do that for interest's sake, and good because probably teachers are probably the best people to design the software and the programs that the machines use.
+No, it's knowing how to get the most out of it, the sort of simulation programs, the programs which lead children to think and to plan and to use these well is another skill.
+But teachers are very enthusiastic.
+They flock along to in-service courses.
+They give up their weekends and their evenings and so on.
+This university, for example, runs courses for teachers to learn how to handle the micro?
+Indeed, we've been running courses for several years now, both for primary and secondary level, to help those teachers who are particularly enthusiastic, and also to form a sort of resource for them.
+One of the things we've been doing this year is to actually have a club once a week, a sort of club night, when teachers can come it — this is particularly primary teachers — and use our machinery, look at our programs, go through our library and meet each other, so that the people who have got some expertise can then go back to the school and sort of spread their information and their enthusiasm in their schools.
+That's the sort of role that we are trying to perform.
+And that club could be joined by any teacher?
+This year we've restricted it to primary, partly because we felt that's where the enthusiasm was, and partly, if people won't mind me saying so, to keep out the computer science specialists — we felt that, you know, we didn't want a club for boffins or for the experts, we wanted a club  and we felt that if we started at the primary end, where there wasn't a lot of expertise, we would probably be of more use.
+We're thinking of extending it next year to cover secondary.
+Many schools in East and West Sussex belong and erm we get a regular attendance each Monday night.
+So if there's any teacher who's listening to this programme who would like details of it, by writing in to you, Dudley Ward, at the university?
+Oh yes, we'd send them an application form and tell them what we do.
+Well I'm sure there'll be one or two respondents to that.
+Lastly, Dudley, what's going to be the future?
+More microcomputers, more use of them?
+Can you see the future at all?
+No, I mean  two years ago I think we would have made wrong predictions about what's happening now.
+I could make a few inspired guesses that the machinery will get, not so much cheaper, although it is getting a bit cheaper, but you'll get more for the same money — rather like calculators _ they haven't actually got very much cheaper in the last two or three years, but you get more for your fiver.
+More memory.
+More memory and more functions and more ability to store more information and so on, yes.
+So I see that.
+I see bigger screens.
+It's quite a problem in a classroom — to have even a twenty six inch colour screen is not good enough.
+Big, flat, colour screens, that would be nice.
+Easy connections between machinery, so that you can just plug into a socket.
+So there's going to be a shift towards easier to handle equipment, more friendly to the user.
+That sounds a good point at which to finish.
+User friendliness.
+Thank you very much, Dudley.
+That's all that we have time for today.
+Next week

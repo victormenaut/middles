@@ -1,0 +1,267 @@
+
+
+Is this on yet?
+Yeah.
+Oh.
+ 
+
+Okay well, good morning.
+Erm  I have a  er an important administrative message which came from the Biology Department office, before we begin.
+Erm  concerns the following.
+David , David  and James  would you erm please report to the Head of Department's office straight away following this lecture.
+.
+ 
+
+Okay well erm I hope that you'll remember from last week er what we er our discussion centred around the general way in which carriers and channels worked.
+And I'd like to extend that discussion this week concerning channels to look at the biological properties of channels, that is viewing th their activities in a physio in a physiological role.
+And what I hope that I can do before the end of the lecture is convince you that channels pay play an important role, not just in conventional excitable tissues such as nerve and muscle,but also in a wide variety of cells and membranes.
+For those of you who erm  get a little er flustered at the at electrophysiological concepts, let me just erm begin the lecture by erm reminding you that when we talk about the current through a channel, all we're talking about is a flux.
+That is we can express the flux simply by dividing by the Faraday constant.
+That's all the current is, and the reason that we talk in terms of currents is because those are the because the major methods that are used to analyze channel activity are electrophysiological ones.
+But in principle, there's no reason why we cannot discuss the  flux through a channel, that is its activity, in terms of moles per second.
+And we saw that in the calculation that I gave you at the end of last week's lecture.
+So  let me begin this discussion then of of channels by er pointing out the methods that have been used for studying channels, and for some of you who've done the er neurophysiology course this will er be revision but nevertheless it will be pertinent to today's discussion.
+Okay so let's look at the methods for studying channels.
+Until around nineteen eighty  the methods generally involved impalement of cells with glass micro electrodes.
+So  er a a micro electrode was er fabricated and then put inside a cell and connected up with an amplifier.
+And then the measurement of currents, electrical currents flowing across the membrane, could be analyzed using voltage clamp techniques.
+This is known, for reasons that I'll point out in a second, as a macroscopic technique,and the currents were usually identified through replacement of ions selectively,and of course this can generally be done only in the external medium, because you don't have control over the internal medium.
+Secondly by the response of the reversal potential of th of the current to a change in ion concentration.
+The reversal potential of that current should shift as the ion concentration shifts, if the current is carrying is being carried by tha by that ion.
+So that simply that statement simply comes from the Nernst equation.
+And in conjunction with that, generally it's conventional to er s selectively apply antagonists to block the currents not being studied.
+That is if you know one particular current is antagonized by a particular toxin for example, and you're not interested in that current, then you block it.
+Okay, what are the disadvantages of this technique?
+Well first of all, as I've just mentioned, you can't control the internal medium, unless you're dealing with er some very special er large types of cells, and therefore you can't address all the interesting questions which er concern intracellular regulation of channel currents.
+Secondly, it's obviously impossible to look at endomembrane channels using this technique.
+You're you you're restricted to looking at plasma membrane channels and their properties.
+And thirdly, if you find that a current for a particular ion is stimulated, it's becomes difficult to describe what's happening at the level of transport, at the level of channel activity.
+And let me show you what I mean by that.
+If we're measuring the  m membrane current, which here I've called a macroscopic current because we're we're integrating over a whole area of membrane,this, with respect with any given channel will comprise can be expressed in terms of the number of channels which are present, the probability that each one of those channels is open, the open state probability, and in terms of the unitary current  of each channel, that is the single channel current.
+Thanks.
+Okay so this macroscopic current can be expressed in terms of the simply in terms of these three parameters which relate to the single channel properties.
+It therefore becomes imperative that if we see an activation of the macroscopic current, that we are able to express that activation in terms of a change in one or the other of those  so-called microscopic parameters.
+And it therefore becomes important to study the properties of single channels.
+And  Meas in other words measure the currents through, and study their open state probabilities.
+There are two important microscopic techniqu techniques which enable such studies to be undertaken.
+And the first one I referred to fleetingly er last week,and it's known as patch clamp, which most of you have come across before.
+And let me just remind you of the principles of this technique.
+The idea here is that you take a rather blunt er fire-polished glass pipette, and press it against a membrane.
+These these black blobs are supposed to be proteins and and I've tried to er illustrate the orientation of the protein by showing these er these supposedly er glyco er substi substituents on the outside of the cell.
+The carbohydrate constituents of the protein.
+Okay so th here's the pipette pressed against a cell, a high resistance seal is formed, electrically very resistant, between the membrane and the glass pipette, and you can then, if you're lucky, if you've got a s a single channel molecule under that er bit of pipette, record the currents flowing through that single protein molecule.
+The technique is very versatile because you can er then er go further and if you pull the pipette away from the from the cell  you can,if y again if you're lucky, be left with the membrane  the patch of membrane firmly sealed to the glass pipette, and you can now record in so-called inside-out mode, in which the a er physiological inside of the membrane is exposed to the bathing medium, the the the in which the pipette is bathed.
+Alternatively you can  record in so-called wholesale mode, that is by either sucking away this patch of membrane or by applying a whole er a large voltage pulse which essentially fries it,so it burns it away, and you then gain electrical access to the interior of the cell.
+And having done that, you can then pull the pipette away, as shown here, and you're left with a bleb of membrane in which you're now recording in the so-called outside-out mode, which is the exact converse of the inside-out mode.
+Okay.
+So this then, all o a th these techniques when applied erm er  er as an ensemble then all allow you to look at the single channel currents, the currents flowing through any given channel, and as well as the effects of external and internal regulators.
+However of course it's not readily applicable to most endomembranes, because most endomembranes are er not large enough most endomembrane compartments are lo not large enough to facilitate the application of this pipette.
+Now in fact, before patch clamp came along in in a in around nineteen eighty there were there was another technique which was available for looking at single channel currents.
+It wasn't er very widely used, but it nevertheless er had some important applications, and this concer this technique is known as the planarlipid bilayer technique.
+And the idea of this technique is you take er a erm a chamber which is split into two compartments by a teflon partition,shown here, you fill the two compartments with an aqueous solution,okay , and you can then paint across a small hole in this Teflon partition a solution of phospholipids in a solvent, for example  endecaine and when these phospholipids are painted across the er solv the er the small hole in the Teflon partition the solvent collects, here I've magnified it, collects around er the the edges of the hole, and leaves you with a what turns out to be a simple  bilayer, a phospholipid bilayer.
+So the membrane thins down, the solvent collects rounds the around the outside and er you're left with a pure bilayer of phospholipid.
+You can then take vesicles which you would have prepared erm biochemically, either through first purifying your protein or, more crudely, a er a s a partially purified membrane fraction, and fuse those with the artificial bilayer.
+And vesicles will fuse under the influence of an osmotic gradient.
+So you apply an osmo you in introduce the vesicles into into one chamber, apply an osmotic gradient, and those vesicles then fuse with the artificial bilayer, and again if you're lucky you see a single channel erm appear in the bilayer and you can then stop the fusion process to stop more er channels appearing.
+Okay.
+And once you've got er the channel in there, you can then record its activity simply by putting micro electrodes into these two er compartments A and B here.
+So then this technique enables you to look at single channel currents, and moreover, if you've got a partially er purified preparation of endomembranes it enable to to look at channels in endomembranes too.
+However a disadvantage of this technique in comparison with patch clamp is that you can't always guarantee the orientation of your channels, so that if you see some kind of rectifying characteristic in the bilayer er you have no way a prior of knowing whether that rectifying er characteristic is associated with an influx or an afflux from the cytoplasm.
+So that's a a partial er disadvantage that you can't establish the orientation.
+But it nevertheless enables you to look at er potentially at single channel currents from endomembranes.
+Okay so having established then that you can look at the er er you can look at single channel currents,let's look at what those erm er  currents can tell us.
+Erm on the overhead before last I I gave you a little equation which demonstrated the importance of measuring single channel currents and it ga and it had implicit in it an open state probability which reflects gating.
+So let's just look at gating for a second.
+And you'll remember that that the definition of gating is simply that channels switch between open and closed states, they gate open or closed.
+Okay.
+What the results from these single channel techniques demonstrate, that is the patch clamp or the bilayer techniques, what these results demonstrate is that the factors enhancing macroscopic channel currents invariably act at the level of gating.
+That is either voltage or ligands, in the cases respectively of voltage activated channels or ligand activated channels,both of those factors will act at the level of gating.
+In other words they increase the open state probability, they don't increase the number of channels, or very very rarely do they increase the number of channels, or the unitary current through each channel once it is open.
+They don't increase the single channel current once it's open.
+And just to remind you the open the open state probability can be defined as the time that the channel spends in its in the open state divided by the total time of the recording.
+So for example, here's a case of a calcium-activated potassium channel from a cultured rat muscle cell.
+And it's a patch clamp recording which has been done in an inside-out patch, that is with the physiological inside of the membrane facing the bathing medium, so we have experimental control over what the er physiological inside of the membrane is seeing here.
+And here is a recording then of the channel activity in the presence of ten to the minus eight molar calcium, that is ten nanomolar calcium.
+And you'll see er for this er little section of recording the channel opens very infrequently, in fact it only opens once, to a level of three picoamps.
+When the calcium is raised to five times ten to the minus seven molar, fifty nanomolar,then what we see here Sorry, five hundred nanomolar.
+What we see here then is that the channel is markedly stimulated to open, its open state probability increases, but once it is open, the level the current level which it passes, the amount of the number ions flowing through per unit time, is not significantly different from that er case in which the calcium was lower.
+So that demonstrates, that's an example then, demonstrating the effect of an activator on a on the open state probability rather than on the single channel current.
+Yeah?
+.
+Where what's the same as the other one?
+.
+Okay, the single channel current is the same in both cases.
+Right, it's three picoamps in each case.
+So you've activated the channel but you've activated it by increasing the frequency with which it resides in its open state, compared a to its closed state.
+Okay before we go on then and look at the roles of channels in biology, let's look at how channels are classified briefly.
+They're normally char er classified according to their gating properties rather th initially, rather than according to their ionic specificity.
+And this general approach has been supported by recent sequencing studies, so the the channels have been er the C D N A for the channels has been sequenced, and that indicates that the evolutionary relationships between channels have been based er have arisen er pri primarily on the basis of their gating properties rather than on the basis of their ionic selectivity.
+Within any major class characterized on the basis of its gating properties subclasses can be defined according to their ionic selectivity, but also according to their er pharmacological properties, and especially as we'll see in a second, according to their single channel conductance.
+And again just before we start this overview, let's just remind you what the single channel conductance of a channel is.
+Let's take this example which I showed you up here of the calcium-activated potassium channel.
+We can plot the current flowing through the channel, which is here shown on the ordinate, as a function of the holding voltage, which is shown on the abscissa here,and when we do that we get a so-called current voltage relationship.
+We've got current on this axis, voltage on this axis, we've got equal in this case equal potassium on each side of the membrane, so the reversal potential, here shown as the zero current intercept, that is the point at which the channel's not passing any current, is zero millivolts, because we've got equal potassium on each side, and we can simply draw a line through those data points.
+Okay so we measure ei th the single channel current, up here it was er three picoamps, at a holding potential I guess of around plus twenty millivolts, we measure the slope of that line, and the slope of that line is the current divided by the voltage, and from Ohm's Law that's equal to conductance.
+And it's commonly written as gamma.
+So in this particular example we've got a single channel conductance of six picoamps, six times ten to the minus twelve amps, divided by forty millivolts, four times ten to the minus three volts, and just dividing one by the other we get a value of a hundred and fifty times ten to the minus twelve siemens which is the us unit of er conductance, note it has an I in it.
+In other words a hundred and fifty picosiemens.
+So that's what the single cha channel conductance is, and that's how it's measured.
+It's simply the slope of the er of the current voltage relationship.
+Okay so for the rest of the lecture let's take a look at er what channels do.
+And let's begin our discussion with a consideration of voltage gated channels,and start with a well known example, that of sodium channels within this class.
+Sodium channels are uniquely found in animal cells, they're not present in plants or fungi or bacteria, and they're found on the plasma membrane, and their role is to carry out the depolarizing phase of an action potential.
+They can be specifically blocked by several toxins, for example tetrodotoxin, commonly written T T X, which comes from a Japanese Puffer Fish.
+It's actually a er erm Japanese delicacy.
+You have to make sure you've removed the er tetrodotoxin gland before you start eating, and in fact each year there are deaths in Japan from er inexpert preparation of the Puffer Fish.
+Another one is er saxitoxin, commonly written S T X. And both of these compou =pounds act from the outside to block sodium channels.
+Nu a number of other well known toxins, strychnine and er local anaesthetics which you encounter when you go to your dentists, procaine and lidocaine, both of those block sodium channels, so they inhibit the action potentials coming from sodium channels.
+Calcium channels by contrast with er sodium channels are very widespread in animal and plant cell membranes.
+Their role is invariably calcium uptake into the cell, that is the prevail when they open they will admit calcium into the cytosol, and this plays a crucial role during signal transduction processes, where elevation of cytosolic free calcium mediates in stimulus response coupling.
+I'll sa I'll have a bit more to say about stimulus response coupling in a second.
+But for the moment let's just make the point that there are at least three classes of calcium channel, and they can coexist in the same membranes,and can be distinguished by several different criteria, and this is an example of how you can use the criteria that I've discussed er previously er to to characterize different classes of channel.
+They can be dis distinguished on the basis of their single channel conductance with respect to barium, which they pass barium a al as well as they pass calcium.
+So in pi in terms of the number of picosiemens er single channel conductance for each of these channels, er each has a distinct single channel conductance of eight, twenty-five and fifteen picosiemens respectively.
+They can be distinguished in terms of their the voltage at which they exhibit peak activation of their inward current.
+Remember we're dealing with voltage activated channels here.
+So respectively here we have values of minus twenty, plus ten and plus twenty.
+They can be distinguished on the basis of their sensitivity to catecholamines, like adrenaline.
+So er one of the channel types is activated here, the other one is inhibited by catecholamine.
+They can be distinguished by their inhibitor sensitivity, specific er inhibitor dihydropyradines.
+Er only one of the channel classes is inhibited.
+And they can also be distinguished on the basis of their sensitivity to another toxin, known as omega  conortoxin,er which more or less specifically inhibits just one class of channel.
+They've been given er labels of T L and N where the T  er colloquially stands for tiny, L stands for large in terms of the single channel condu respective single channel conductances and er I'm not sure what the origin of N is.
+In the middle somewhere.
+Okay so those three discrete ch calcium channels can coexist within a single membrane.
+At present their s their precise physiological roles, precisely why a single membrane needs three different classes of calcium channel, hasn't been erm def defined, but at least it serves to show you that er that a wide variety of channel types can er can exist.
+Let's finish this discussion then of voltage gated channels by looking at potassium channels.
+Er these are found in the plasma membranes again of animal and plant cells and their role, and we'll er see a lot more of this next week when we try and integrate er this discussion into into into er the er principles by which epithelium work, their role is principally in the stabilization of membrane potential.
+And it's involved in the stabilization of membrane potential at relatively negative levels,and the reason that this works is because the internal potassium concentration is invariably held higher than the external potassium concentration.
+So that if the potassium channels open and therefore dominate the membrane conductance, the membrane potential will approach the equilibrium potential for potassium, that is with all the pota with a lot of potassium channels open.
+And we can s see this typically in animal cells, the internal potassium is of the order of a hundred and fifty millimolar, the external potassium in plasma is of the order of five millimolar.
+So if we calculate the Nernst potential for potassium, the equilibrium potential for potassium in other words, simply by applying the Nernst equation,fifty- nine times the log of the external over the internal potassium concentration, we can calculate a value there of minus eighty-seven millivolts.
+So the equilibrium potential then in a typ for potassium in a typical animal cell is of the order of minus eighty-seven millivolts, which when the potassium channels are open serves to keep the membrane in a relatively hyperpolarized state.
+The voltage gated potassium channels form a diverse class, as with the er voltage gated calcium channels.
+Er one  potassium channel which is commonly worked on is known as the delayed rectifier.
+And the reason for the importance of this ch ch channel is that it opens when axons depolarize.
+So when th axons depolarize, under the influence of the opening of sodium channels, the opening of the deray delayed rectifier then leads to a repolarizing phase which occurs precisely because the equilibrium potential for potassium is held relatively negative.
+So that's just summarized on this diagram here, which is shown er for a squid axon, and I've plotted here the equilibrium potential for sodium, which is relatively positive, here at mi at plus fifty millivolts, and the equilibrium potential for potassium which is held relatively negative.
+And at this point the axon is stimulated, a depolarization occurs which is associated with the opening of sodium channels, which then close.
+And the repolarization is associated here with the opening of potassium channels.
+So we can express then the overall form of the action potential in terms of the differential activity, first of sodium channels and then of potassium ac channels.
+And of course the the rationale for its label of delayed rectifier is now apparent, it shows some delay before it's open before it opens.
+As indeed it has to if the action potential is to occur.
+An example of a potassium channel inhibitor is tetraethylammonium.
+There are no very highly specific organic inhibitors for potassium channels.
+Evolution seems to have er devised a large number of specific inhibitors for sodium channels but not for potassium channels.
+Now if you look at that er figure you'll see that er the sodium channels during the action potential of course are closing, and that's allowing er partially allowing the repolarizing phase to occur.
+And that phenomenon, is known as inactivation, and it's a property shown by most by the vast majority of voltage gated channels.
+What inactivation is, is it means in the presence of a continuing depolarizing stimulus, the channels will close, they switch off.
+So here's an example.
+The depolarizing stimulus is given here, moving the membrane potential from minus seventy-five to minus fifteen millivolts, so there's the there's the command pulse.
+And we're now measuring the sodium current flowing through the membrane, here given in terms of nanoamps.
+And it's an inward current so by convention it's shown as as downward and negative.
+So in the presence of a sustained stimulus, here, which is lasting around two milliseconds, the channels are switching off with a time constant of what around half a millisecond.
+Furthermore, if you give a second pulse, a short period after the first pulse, you fail to elicit a large sodium current.
+So the second pulse then, is mu it evokes a much weaker current than the first pulse did.
+And that's also because the channels have inactivated.
+Now both of these responses  distinguish inactivation from gating.
+We're not simply talking about opening and closing in response to a stimulus then, this first stimulus has left the channels in a state in which they're relatively unable to gate open.
+So we have two phenomena here, one of which is gating, the opening and closing in a simple on a simple er in simple response to a stimulus, but also we have a phenomenon of inactivation, in which the channel is left in a state where it's unable to respond.
+And of course the function of inactivation is to allow the membrane potential to recover after the channel's open.
+You can't allow membranes to exist permanently in a depolarized state.
+We've got it's in other words it's a sort of negative feedback.
+So to summarize that in terms of a of of a kinetic diagram, we can basically write that channels exist in closed and open states.
+Typically the closed state can comprises c com more than one type of closed state can be kinetically distinguished but let's not worry about that right now.
+Er we can we've at least distinguished that channels can exist between closed and open states, and the transition between the closed and open states is known as gating.
+But in addition once they're open they can also inactivate to the extent that they're no longer respon responsive to the stimulus that opens them, to the voltage stimulus which opens them.
+So we can distinguish then a third state in w which we can call an inactivated state and which will leave the channel closed, but also unable to respond as it would be able to do if it resided in a simple closed in a simple closed state which were responsive to gating.
+So this summarizes then the two processes of gating, here, and inactivation, here.
+As I alluded to earlier on, voltage gated channels have been cloned and sequenced and they show first of all homology between all three classes, sodium, er calcium and potassium.
+And you can also determine from the sequence that the common evolutionary origin er was er centred around potassium channels.
+Potassium channels formed the probably formed the evolutionary prototypes for all of the for the calcium and sodium channels which came later on.
+Okay that's all I wanted to say about voltage gated channels then, let's erm turn our attention to so-called ligand gated channels which form rather a discrete class.
+Ligand gated channels are erm specific to er excitable tissues, their found in synapses, neuromuscular junctions, and of they're involved in intercellular communication with the communication being achieved by neurotransmitters.
+So the neurotransmitters then bind to receptors which are which are the same as the channels, the channel is both the receptor, the ligan binder, and er and an ion channel, and it's located at the postsynaptic membrane or at the surface of the muss muscle fibre if we're dealing with a neuromuscular junction.
+So it's on the on the down side of the of the s of the signal.
+In general, this is a general point, the ionic selectivity of such channels is much less than for voltage gated channels.
+It's they show a rather a broad specificity and can generally are generally rather non-selective either for cations or for anions.
+So we can't we don't usually talk about ligand gated channels being sodium channels, they'll normally pass more than one type of cation fairly non-selectively, they don't really mind.
+Let's just consider a few important examples, probably the most famous of which is the acetylcholine receptor.
+Known as the also known as the nicotinic acetylcholine receptor er cos it will respond to nicotine.
+It's found at the junction between motor neurones and skeletal muscle.
+It is gated open when it binds to molecules of acetylcholine, and in accord with what I've just said about its selectivity, it's a non-selective cation channel.
+Its function its physiological function is simply to depolarize the membrane when it binds acetylcholine.
+So physiologically what happens is that the principal flux through the channel is that of sodium, and that's simply, although although the er channel is non-selective it's simply because the sodium is at high activity outside, low activity inside and potassium is reasonably close to equilibrium.
+This then, this depolarization then allows the opening of voltage gated calcium channels, the calcium inside rises and contraction occurs.
+Muscle contraction.
+So the aim when th when the acetylcholine binds is to depolarize the membrane facili which facilitates the rise in internal calcium and that leads to muscle contraction.
+The channel itself is a complicated one, it comprises five subunits, in the stoichiometry alpha two, beta, gamma, and delta.
+They've all been sequenced.
+They are all homologous and membrane spanning.
+So you need these these five different subunits to er to form the acetylcholine receptor and channel.
+The channels are antagonized by a compound known as  alphabungarotoxin which is obtained from sna snake velom, venom.
+Two er other channels that I'd like to consider which have rather different functions are both er chloride channels.
+One is known as the G A B A, A receptor, where G A B A is standing for gamma amino butyric acid, this is the G A B A receptor.
+It's found in brain and the equilibrium potential for chloride is around minus ninety milliVolts, that is more negative than the normal membrane potential which is which would be of the order of minus sixty minus seventy.
+So when this channel opens then, the membrane potential will tend to move towards the equilibrium potential for chloride, in other words the membrane will tend to hyperpolarize, when these channels are open.
+So opening of these channels will hyperpolarize the membrane, and as a result of that opening what we see is an inhibition of action potentials.
+The membrane's maintained in a in a hyperpolarized state and that inhibits action potentials, and that enables coordination of pathways which either fire or don't fire in response to a depolarizing stimulus.
+So these channels sh show significant although not er sig al although not extensive sequence homology with the nicotinic acetylcholine receptor which enables you to place them in the same class of being er a ligand er binding channel.
+Had similar evolutionary origins.
+It binds barbiturates.
+Similarly the glycine receptor is also an inhibitory chloride channel, also found in brain and closely related to the G A B A, A receptor.
+So both G A B A and glycine are er physiological neurotransmitters er and it has a s the glycine receptor have a has a similar function of hyperpolarizing the membrane when open, inhibits action potential.
+It's er like sodium channels, inhibited by strychnine.
+Okay finally, a third m major er class of ion channel i which has been extensively worked on over the last few years, since the advent of patch clamping er has been second messenger gated channels, so-called second messenger gated channels.
+Let's just remind you what second messengers are, because they ply play a vital role in cellular homeostasis.
+They are second messengers are intracellular compounds, for example cyclic A M P, or ions, for example calcium, and what they do is they couple stimuli to responses, they couple a specific stimulus, each one a specific stimulus to a specific cellular response.
+So in other words we can write the general scheme, a stimulus leads to an increase in the se level of the second messenger, and that increase in the level of the second messenger leads to a response.
+Second messenger gated channels are very widely distributed, they're certainly not limited to excitable tissues.
+One very extensive class is er is a calcium activated potassium channel, where calcium's now activating from the inside as we've already seen in that example I showed you early on.
+Commonly written as a k brackets C A channel.
+They are found at the plasma membrane, they have a for a for a channels, a very large single channel conductance of the order of fifty to two hundred picosiemens.
+They are generally inhibited by a compound known as  apiamin which is the main ingredient in bee venom.
+And they have rather distinct roles depending on where they're found.
+One role is as a link between internal calcium intracellular calcium and the membrane potential.
+And one very well worked on example here concerns that of er pancreatic beta cells which secrete insulin in response to glucose.
+These are the er these are the cells which will raise the insulin in your blood in response to elevated blood glucose.
+And the way in which er these calcium activated K channels pla play a role in this response is that when these beta cells see glucose, they depolarize, and this depolarization leads to the opening of voltage dependent voltage gated calcium channels.
+The opening of those channels leads to an elevation of intracellular free calcium and that elevation of intracellular free calcium is required it's the signal the stimulus for insulin secretion.
+So the elevation of calcium will secrete insulin.
+Now if the stimulus is not sustained, if the if the glucose stimulus is not sustained, the calcium load can be cleared, the elevated free calcium inside the cell can be cleared for example by a calcium A T P ase, since the calcium channels were shut.
+Okay so if the stimulus isn't there the membrane doesn't depolarize any more, the calcium channels shut and the calcium load gets cleared from the cytosol by a calcium A T P ase.
+However if the glucose is maintained high, in other words if the stimulus is sustained, what we see is a succession of depolarizing spikes, and the reason we see it is because this elevation of free calcium, not only leads to a insulin secretion, it also leads to the opening of calcium activated K channels which tend to hyperpolarize the membrane.
+Okay the so as I said earlier opening K channels will hyperpolarize the membrane.
+So the membrane then hyperpolarizes, but the stimulus is still present, and that's tending to lead to a depolarization, so we get then this circle of membrane depolarization followed by hyperpolarization, but it's the calcium activated K channels which are tending to restore the membrane potential to negative values.
+A second function which I don't want to dwell on now because I'm gonna deal with it in a lot more detail next week, is o o this is a second function of calcium activated K channels, is to release potassium from epith epithelial cells during fluid and electrolyte secretion.
+Er for example  secretagolgs such as acetylcholin acetylcholine lead to an elevation of intracellular calcium as we've just seen, and that can then lead to K release potassium release through calcium activated K channels.
+But we'll deal with that phenomenon in a lot more detail next week in the context of epithelial cells.
+And finally just before we leave second messenger gated channels, I'd like to consider two more which have been worked on er extensively and one of which we'll er deal with er next week.
+The one we'll deal with next week is the case of cyclic A M P activated chloride channels, these are found in secretory epithelia.
+Betaadrenergic agonists elevate the er stimulate chloride secretion into the lumen, and the way they do this is they raise cyclic A M P levels obviously and activate the chloride channels.
+And we'll see how the chlor the opening of chloride channels leads to secretion, next week.
+Importantly the chloride channels are not directly activated by the elevation of cyclic A M P, what they are activated by a is by a protein kinase A meded phos mediated phosphorylation.
+So it's the cyclic A M P then which activates the protein kinase A and that  phosphorylates the channel to activate it.
+The last class of erm second messenger activated channels that I'd like to deal with is are those calcium channels which are found in the in endomembranes, especially in the endoplasmic reticulum which are gated open by a compound known as inositol one four five trisphosphate.
+Some agonists, for example acetylcholine, in pancreatic islets activate a specific phospholipase in the plasma membrane.
+This is a phospholipase C and what the phospholipase C does, when it's activated by the agonist, is it splits a membrane phospholipid phosphotadylinositol four five bisphosphate into two components, a water soluble component inositol and a lipidic component the lipidic residue diacylglycerol.
+The water soluble component, the I P three, the product of this, diffuses to the endoplasmic reticulum where it gates open a calcium channel.
+So having diffused to the endoplasmic reticulum it can gate open the calcium channel, and this leads to an elevation of internal calcium, not from the external medium now, but from internal stores.
+The channel is specifically inhibited by heparin albeit not physiologically, heparin's not a physiological ihibit inhibitor of this channel, it's not found inside cells, but it can be ex experimentally potently inhibited by heparin.
+Curiously the channel when it's cloned and sequenced, exhibits around fifty percent homology with a calcium channel which is found not in the endoplasmic reticulum but in the sarcoplasmic reticulum of muscle cells.
+And it's this sarcoplasmic calcium sarcoplasmic reticulum calcium channel which mediates calcium release for muscle contraction.
+Physiologically this channel though, rather than being activated by inositol one four five trisphosphate this channel is probably primarily activated by voltage by in other words by membrane depolarization.
+And one can show that it has a discrete inhibitor specificity compared with the inositol trisphosphate gated calcium channel in that this one is specifically inhibited by a plant alkaloid known as  rhinadin.
+Okay let me just summarize what we've erm covered today then.
+We began by considering that channels can be studied by conventional or macroscopic techniques, or alternatively by so-called microscopic methods, which enable us to look at single channel currents.
+And the two microscopic methods that we discussed were patch clamp and planarlipid bilayers.
+We decided that the the otential the action potential of course are on Editor A look at control, we can look at single channel currents.
+We looked at channel activation, either by voltage or by ligands, and decided that activation is almost invariably achieved by effects on the gating mechanism.
+Rather than on the single channel current or the number of channels.
+So that lead to an increase in the open state probability.
+We then went on to look at several classes of er ion channels, voltage gated channels which form a superfamily of sodium and calcium and potassium channels.
+And those voltage gated channels predominate predominate in excitable tissues.
+We decided that most voltage gated channels exhibit a phenomenon known as inactivation.
+That is they switch off spontaneously even in the presence of the stimulus.
+We went on to look at ligand gated channels, and in particular three different classes, acetylcholine gated, glycine gated, G A B A gated.
+And decided that these channels occur predominantly at post-synaptic or on the muscle surface.

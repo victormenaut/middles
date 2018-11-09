@@ -1,0 +1,514 @@
+
+
+AMDAHL, ICL, FUJITSU POOL SPARC UNIX RESOURCES…
+By next week, Fujitsu Ltd and its ICL Plc and Amdahl Corp affiliates should have announced details of a strategic technology alliance, first fruits of which will be the creation of yet another common Unix application environment, to be supported across their respective (yet-to-be-announced in Amdahl's case) Sparc RISC-based systems.
+The plan is to combine elements of their current Unix offerings — ICL's DRS/NX Server, Fujitsu's UPX implementations and Amdahl's UTS mainframe Unix — and cross-license key value-added products, in a bid to win customers for a new breed of mid-range and high-end Sparc servers aimed at scientific and commercial Unix customers.
+Binary Unix compatibility across their respective systems — plus support for all SparcWare applications — will, the three say, offer independent software vendors a rich target environment.
+Amdahl hopes its part of the exercise will do for the top-end of the Unix market what Novell Inc and Unix System Laboratories Inc are doing for low-end and desktop Unix.
+The chief executives of the three firms have been discussing the plan for five months and have now handed over the task of implementing the grand design to their operating systems managers.
+The plan should at once cut costs and overlapping and research and development efforts, but ICL (80% owned by Fujitsu) and Amdahl (in which Fujitsu has a 42% stake) stress that the impetus is ‘not Fujitsu banging heads together.’
+Other cross-licensing and manufacturing deals are expected to emerge from the new-found synergy in all product areas, the three have hinted — see below.
+Fujitsu's other Sparc system-building concern, the non-computer computer company, HaL Computer Systems Inc, was involved in the discussions but will play no part in the initial effort as it focused exclusively on 64-bit Sparc development.
+Under this latest Unix axis, Amdahl will offer Unix System V.4.1 ES/MP, XPG4 and Sparc Compliance  definition 2.1 compatibility, Sun Microsystems Inc's Open Network Computing system, Open Software Foundation Distributed Computing Environment, Unix Labs's Tuxedo transaction processing monitor, TCP/IP, SNA support, a new measurement package for getting system information into system management environments, a graphical performance monitor, support for various graphical user interfaces and Storage Technology Corp tape silos, UniTree file manager and Network System Corp's Network Access system — much already featured in its UTS Unix.
+ICL and Fujitsu will create their own variants, adding lower-end features such as local area networking.
+No time-scales for introduction are set, but Amdahl does not plan an integrated application environment until its two lines of long-awaited Sparc machines are out — they're now set for year-end and early next year respectively, see below.
+The environment won't be offered on Amdahl's IBM Corp 3090-compatible 5995M mainframes, although applications will be portable via UTS, which runs in a partition, and its Huron application development environment, which it supports across all its systems.
+UTS 4.1 is due next month, UTS 4.2 will coincide with release of Amdahl's Sparc systems — the common Unix application environment will roll into UTS releases thereafter.
+…
+PLAN COMMON PERIPHERAL STRATEGY…
+With both Fujitsu and Amdahl losing money, the pressure is on to reduce their cost bases.
+The new agreement increases the likelihood of the cross licensing of hardware products, which may see ICL selling Amdahl hardware and Sparc systems being traded between the companies, something ICL and Fujitsu already do.
+Furthermore, peripherals used by each are likely to be drawn together into a single, compatible product line and Fujitsu is expected to take over more responsibility for the development of ICL and Amdahl's mainframe CPU architectures.
+‘In some areas we have complimentary products and some overlap,’ explained Amdahl chief executive officer Joe Zemke.
+He expects the effort to eliminate duplicated research and development efforts and allow resources to be transferred to the development of middleware technologies.
+For its part, ICL hopes the initiative will speed up the delivery of system management tools and other components for mission critical Unix applications.
+ICL's current DRS/NX version 7 is ICL's multiprocessing implementation of USL's uniprocessor Unix SVR4.2.
+When USL delivers SVR4.2 MP, that'll become DRS/NX 8 or 9.
+…
+AS AMDAHL READIES TWO SPARC SERVER LINES
+Amdahl is now expected to deliver two lines of multiprocessing Sparc systems which it will announce later this year.
+The company isn't waiting for the 64-bit Sparc parts it originally intended to use but, like its ICL cousin, is expected to use existing superscalar Sparc CPUs from Texas Instruments Inc and the Ross Technology Inc unit that Fujitsu is acquiring from Cypress Semiconductor Corp (UX No 436).
+This year will see the launch of a Workgroup Server, described by the company as a platform for distributed computing with (in Amdahl's terms) mid-range performance.
+The high-end Enterprise Server will be pitched as a large mission critical system with mainframe performance — 200 mainframe MIPS — and fault-tolerant characteristics or RAS — recovery, availability and service — in the IBMspeak Amdahl uses.
+It will support IBM 3090 peripherals, including disks and tape drives, plus SCSI and FDDI.
+The Sparc machines are expected to use up to 20 CPUs each and will start life as $150,000 to $200,000 boxes.
+They will run UTS Unix for Sparc, binary compatible, Amdahl says, with its 5995M mainframe series Unix.
+The 5995 systems will never use Sparc, the firm says.
+Amdahl claims 60 existing customers of UTS on 5995s, and says it hasn't lost a single customer to downsizing — strange given that it is talking up its Sparc systems as rightsizing tools.
+Amdahl's RISC project date back to 1990 when it inherited technology from the failed Key Computer Laboratories Inc (UX No 309).
+QUESTION MARK OVER UI's FUTURE AFTER NEW LAYOFFS
+In the last two months, Unix International has quietly suffered two bouts of layoffs and fortuitous unreplaced departures that have decimated its staff and effectively shut down much of its offshore operation.
+UI describes it as ‘downsizing in the face of recession.’
+UI reportedly told staff laid off in the last two weeks that it was short of funds, attributing the situation to an accounting error.
+Sources close to the events say UI's days are numbered.
+The job it was created to do — establish Unix SVR4 — was completed and done successfully some time ago.
+UI admits its lost the industry initiative it once appeared to have once it went beyond Unix kernel issues.
+It says, for instance, that it ‘should have done what COSE did a long time ago.’
+In any case, many members have their own plans for areas beyond the kernel which do not fit in with what UI wants to do.
+People say it should now fold its tents and steal away.
+Support among its members is reportedly waning except perhaps for die-hards such as NCR Corp, Fujitsu Ltd and ICL Plc.
+But even Fujitsu is said to be more interested in Microsoft Corp's Windows NT and the new Unix axis it is forging with its affiliates — see opposite.
+ICL too, is keen to see a shift of emphasis away from SVR4 to Unix in general.
+Moreover, Unix System Labs and Novell Inc are believed to be antagonistic and resentful of UI if for no other reason than it stands between them and their OEM customers.
+In the last few weeks UI has lost Yumio Imamura, general manager of Asia Pacific in Tokyo, Roger Fraumann, director of Australia/New Zealand in Sydney, Lane Weggeland, vice president of business operations, Tony D'Annunzio, vice president of technology, Jack Bissel, technical projects manager, Steve Payne, director of communications, Dave Whitson, marketing manager, Andy Freeman, recruiting, Rhoda Ames, executive assistant and Diane Varga, product sales.
+Payne, Whitson and Varga are believed to have been responsible for much of the consortium's recent sales of its catalogue and anti-NT white paper, a source of revenue.
+The departures, which UI has attempted to minimise and ascribe to a collection of reasons, leave in place president Peter Cunningham, vice president of marketing David Sandel, director of marketing Barbara Walker, director of desktop marketing Jesse Bornfreund, Colin Fulton, now running both the Pacific Basin and Asia Pacific geographies out of Singapore, newcomer Wilson Haddock, reportedly responsible for a downsizing study, a new accountant and some support staff.
+The latest cuts were reportedly made without  severance or accrued vacation.
+Scott Hansen continues at UI Europe, his team now trimmed to six.
+DEC DISTRIBUTES JSB's MULTIVIEW MASCOT
+Digital Equipment Corp is now distributing JSB Computer Systems Ltd's MultiView Mascot with its DECadvantage application environment.
+This will enable users to run multiple applications simultaneously, switch rapidly between applications, and copy and paste information from one application to another without needing to adapt them.
+Macclesfield, Cheshire-based JSB's MultiView Mascot provides windowing capabilities on character and AlphaWindow terminals, connected to Unix systems.
+It also offers terminal emulation.
+DECadvantage is an integrated application environment, which runs under Santa Cruz Operation Inc's version of Unix.
+It supports multi-user terminals as well as personal computer client and Unix server configurations.
+Product manager for DECadvantage Hans de Jong says ‘We are delighted with the initial interest in this package.
+With MultiView Mascot, we are able to offer our customers using terminal-based configurations, a powerful multi-windowing capability with a modern look and feel, but without their needing to adapt their existing applications.’
+The system is available now to DEC customers and value-added resellers.
+MultiView Mascot costs £2,000 for a 16-user licence.
+…
+AS CHAMELEON IS GIVEN THE JSB TREATMENT
+Maidenhead, Berkshire-based, Tetra Ltd says Chameleon 2000, its Unix-based financial and accounting software, now supports JSB Computer Systems Ltd's Multiview Mascot windowing interface.
+According to Tetra, Chameleon users will now be able to view multiple Windows and Unix applications and perform several different tasks simultaneously on Unix based character terminals.
+It also enables Chameleon 2000's six accounting modules to interoperate with a range of Windows applications including spreadsheets, word processing and graphics.
+To do this, Mascot uses Dynamic Data Exchange links, which extracts data directly from the accounting system and transfers it a spreadsheet, such as Microsoft Corp's Excel.
+Cut and paste options for text and graphics are also available for both platforms.
+In the meantime, Tetra has announced two joint UK marketing agreements with Sequent Computer Systems Ltd and Motorola Computer Group Ltd to put Chameleon 2000 on Sequent's Symmetry 2000 and Motorola's 8000 machines.
++44 628 770939.
+ICL TAKES HIGHLAND's FLEXLM
+ICL plc, in a move to revamp its Unix software licencing programme, has gone to Palo Alto, California-based Highland Software Inc for its software licence manager, Flexlm.
+According to Highland, Flexlm is designed to make software licencing more flexible for the user and easier for the licenser to administrate.
+For both parties it monitors the number of users logged into software, how often its used and reports back licence infringements.
+To licence software customers will be issued a set of right-to-use electronic keys which unlock the operating system for a specified number of users, ICL says.
+One key can be authorised for up to 250 users.
+The new flexible licencing programme will also — for the first time — allow users to take a product licence for a given number of users on a local area network, irrespective of hardware platform or number of systems.
+Each LAN has to have its own licence and cannot be bridged over wide area network connections.
+ICL will start distributing trial packages bundled with DRS/NX V7 in June — with full implementations embedded with DRS/NX V8 due for release in the first quarter next year.
+ Hewlett-Packard Co, Software AG, and Sun Microsystems Inc have also licenced Highland's software.
+FUJITSU MAKES BIG LOSS AS TOSHIBA AND HITACHI PROFITS PLUMMET
+The numbers from Fujitsu Ltd, Hitachi Ltd and Toshiba Corp, all of which announced last week, were every bit as bad as expected, with Fujitsu plunging to a consolidated net loss of $295m and the other two more comfortably diversified companies reporting sharp profit declines of 39.4% at $699.4m and 48% at $186m respectively.
+Fujitsu attributed its loss to the sluggish global economy, but the company has no hit products in the computer market now that mainframes have gone ex-growth, it is only embarking on building a mid-range Unix business in Japan, in part with machines made by its ICL Plc affiliate and by Sun Microsystems Inc, and its personal computer business labours in the shadow of that of NEC Corp.
+Indeed the one true bright spot in the Fujitsu firmament is ICL now that Amdahl Corp labours under the same woes as its 42% shareholder.
+Fujitsu says it expects to break even in 1993–94, with zero net profit.
+Toshiba and Hitachi have the cushion of their heavy electrical divisions to fall back on — indeed Hitachi was largely dragged down by its mainframe business and it must be wondering how much longer that game will be worth the candle.
+MILLER RESURRECTS ACE VISION WITH NEW NT-ON-Mips COMPANY
+One-time architect of the ACE Initiative Bob Miller, erstwhile chief of Mips Computer Systems Inc and its successor Mips Technologies Inc, is bent on hammering out his initial vision.
+In February, he started NeTpower Inc a brand new hardware maker dedicated to building Windows NT boxes based on the Mips R4x00 RISCs, our sister publication ClieNT Server NEWS reports.
+If NT hits, the Sunnyvale, California company believes it will be doing a few hundred million dollars worth of business in three to five years.
+NeTpower expects to deliver its first three unnamed turnkey machines in volume this fall: a sub-$5,000 entry-level R4000 desktop, a sub-$10,000 high-end R4400 desktop and a low-end sub-$10,000 R4400 deskside server.
+The entrants presuppose a networked client/server architecture.
+Next year, in what will be co-founder Ed Frank's third implementation of a commercial symmetric multiprocessor, it anticipates breaking into SMP.
+The boxes are currently in external alpha sites where the company hopes to validate some of the assumptions still swirling around NT and the Mips architecture such as whether a Mips NT machine can hack it in the Intel environment as a price/performance player.
+NeTpower machines are meant to look, feel and smell like a PC.
+They fit in a baby AT form factor and incorporate ISA expansion slots.
+The company has turned its nose up at EISA as unnecessary and used its own high-speed local bus.
+There are built-in SCSI and networking resources.
+Its beta experience this summer will help NeTpower sort out exactly how the machines should be configured.
+Stuff like the monitor, standard RAM size (probably at least 16MB), and whether to make CDs optional versus price.
+The NT market being akin to a continent in formation, such seemingly obvious requirements are not at all that obvious, making NeTpower a valuable case study.
+The entry client machine will probably use a 50MHz R4000 Mips chip and deliver around 60 Specmarks performance; the server will probably use a 75MHz R4400 and deliver around 90 SpecMarks.
+Chip frequency and size of secondary cache on the box in between are currently undecided.
+NeTpower has decided to use Acer's new PICA R4000/4400 six-chip chipset for its initial machines.
+PYRAMID's ORACLE-BASED CLUSTERING SYSTEM
+Mountain View, California-based, Pyramid Technology Corp has introduced Valence Cluster, the first fruits of its co-development with Oracle Corp (UX No 423), to provide clustering capabilities for its MIServer and ES range of servers supporting the Oracle 7 Parallel Server option database.
+Pyramid says up to four machines each with 24 processors can be configured to dynamically share the Oracle database, which increases transaction throughput to the database threefold and significantly improves data availability to users.
+Valence also embraces redundancy technology which protects users from single points of failure, irrespective of hardware, software or network failure.
+Support for other parallel database developers including Informix Software Inc and Sybase Inc will be added in the future.
+Pyramid OEMs including Ing  Olivetti & Co SpA, Siemens Nixdorf Informationssyteme AG and ICL Plc all have rights to rebadge the technology but have yet to go public, firm says.
+Valence Cluster is out from $200,000 up.
+NEW OBJECT TOOLSET FROM CADRE
+Providence, Rhode Island-based Cadre Technologies Inc has introduced ObjectTeam, a suite of object-oriented development tools based on the Rumbaugh et al Object Modelling Techniques (OMT) and Shlaer-Mellor Object-Oriented Design Language Environment (OODLE) methodologies.
+The OMT tool supports object, dynamic and functional models including; automatic database definitions for ANSI SQL, Orcale7, Versant, ObjectStore, Objectivity and Ontos; and re-engineering and reuse of C and C++ designs.
+The OODLE software supports a variety of design and analysis functions including automatic work generation, intelligent navigation, report and documentation generation, on-linehelp, and C++ and Ada code generation.
+ObjectTeam products are available for Sun, HP, Silicon Graphics and IBM platforms from June.
+Prices start at $4,000.
+FULCRUM HAS SQL TOOLS FOR TEXT RETRIEVAL
+Fulcrum Technologies Inc, Ottawa, Canada has introduced SearchTools, a suite of SQL-based query tools that allow corporate developers, working in client/server environments, to access text retrieval applications via SQL.
+The core component of SearchTools is an application programming interface based SQL Access Group's Call Level Interface specification, which enables users working in Microsoft Corp's Visual Basic, Windows or C to  interrogate Sybase, Informix and Oracle databases and other third party 4GLs for document intensive data.
+SearchTools works on a variety of operating systems including OS/2, AIX, HP-UX and Solaris 2.1.
+Support for Microsoft Corp's Windows NT and ODBC specification will be added later this year.
+Future product enhancements will include support for the Standard General Markup Language (SGML), ISO's SQL3 specifications and the Object Management Group's Object Request Broker, the company says.
+SearchTools 1.0 is available now and is priced at $11,250 — £7,260 per copy.
++1 613 238 1761.
+DEC DULY LAUNCHES ITS ALPHA PC…
+Digital Equipment Corp last week unveiled its much-previewed 150MHz Alpha personal computer, the DECpc AXP/150, plus two ‘Pentium ready’ Intel Corp 80486-based machines, models DECpc DT and DECpc MTE, all three designed to run Microsoft Corp Windows NT.
+In an attempt to streamline its personal computer range, DEC plans to market the new Alpha system in parallel with an as-yet unannounced Pentium-only system called DECpc 560 ST that'll debut at a similar price point and configuration as the Alpha machine.
+The DECpc AXP/150 is a minitower machine that comes with from 16Mb to 128Mb RAM, 245Mb disk, 512Kb cache, six EISA slots and 14″ colour SuperVGA monitor.
+Other features include two serial ports, Ethernet adapter, five drive bays and a SCSI controller.
+It costs £5,350.
+DEC says 250 developer systems are with independent software vendors — 1,000 should be in the field by June 30.
+It expects 300 Alpha applications to be available by September.
+The DECpc AXP/150 and DECpc 560 ST will support Intel Corp's Pentium Peripheral Connect Interface bus specification, which should allow NT applications running on either platform to interoperate.
+The ‘Pentium-ready’ DECpc DT and DECpc MTE are priced at £1,400 and £2,100 respectively.
+…
+NOT A HOT BOX FOR WINDOWS APPS…
+The DECpc AXP 150 is not the machine for people that want to run shrink-wrapped Windows applications quickly.
+Although the Insignia Solutions Ltd-sourced MS-DOS and Windows emulation enables users to run existing iAPX-86-based applications without modification, they run on the £5,350 Alpha RISC based machine at Intel 80386 or 80486 speeds.
+It is not intended as a mass-market machine, says Dennis Saloky, DEC's marketing programmes manager for NT.
+Instead he positions it as a developers box and claims that demand is strong.
+It is these developers, of course that DEC will depend on to produce the the Alpha-compiled NT applications that will deliver the high performance promised by the processor.
+For the mass-market boxes, wait until the autumn, says Saloky, when the company is likely to launch lower priced Alpha PCs with comparable or perhaps higher performance.
+The cheaper RISC-based machines are likely to impinge directly on the territory occupied by the company's newly announced Pentium machines.
+In fact, assuming that Pentium pricing stays constant, the new machines will offer comparable pricing and higher performance, says Saloky.
+The sub-$5,000 Alphas will be joined by 200MHz and maybe 300MHz Alphas.
+…
+AS IT SHOWS INTEL-TO-ALPHA DIRECT BINARY CODE TRANSLATOR
+DEC is contemplating producing a translator that will take the binary code from shrink-wrapped Windows applications and spit out Alpha code.
+The result is faster than the standard SoftPC-based Windows and MS-DOS emulation, but slower than code specifically compiled for the RISC chip.
+The company launched a direct VAX-to-Alpha binary translator last November and has been shipping an R-series-to-Alpha translator for the last three months.
+Nonetheless it still has qualms about the Intel Corp equivalent according to Richard Sites, the Alpha CPU architect who demonstrated the technology at Comdex.
+He is trying to gauge the interest from developers, and also which set of Windows application programming interfaces it makes most sense for the translator to support: the old Win16 standard, or the intermediate Win32s version.
+Sites' demonstration takes a simple piece of  Mandelbrot-plotting code written for the Intel machine and runs it in a variety of ways on the Alpha machine.
+The times to complete give a rough guide as to what users can expect from heavy computation work:
+66MHz 80486: 40 seconds
+60MHz Pentium: 26 seconds
+Source code recompiled for an Alpha AXP 150: 14 seconds
+Intel code running in the standard Windows emulation on an AXP 150 (Sites' best guess — no benchtest run): 80 seconds
+Intel binary code translated to run AXP 150: 24 seconds
+JAPAN BACKS UK FIRM TAO's COMPACT PARALLEL OBJECT OPERATING SYSTEM
+An object-oriented parallel operating system that is completely portable between all widely used processors, so much so that applications do not even need to be recompiled is the creation of a British company — Tao Systems Ltd of Belsize Park, London NW — which has substantial financial backing from Japan.
+Taos relies on a Virtual Processor — a 32-bit machine with 16 registers and support for standard data types and addressing modes, for which all applications are written.
+The run-time code is loaded onto a real processor and translated on the fly into the chip's native instruction set.
+It is currently up on the Transputer and the 80386, with 68000 family, ARM RISC and MIPS R3000 processors a few months away.
+The most significant feature of Taos is that the kernel takes up just 13Kb of memory — and is blindingly fast on complex applications such as graphics ray tracing.
+Details of the operating system below.
+IBM, HARRIS TEAM ON SVR4.2 MP FOR RS/6000
+Despite its sponsor membership of the Open Software Foundation, IBM Corp is to put Unix System Labs' Unix SVR4.2 MP up on the RS/6000.
+The move comes as part of IBM's evolving relationship with the Computer Systems Division of Harris Corp.
+The new operating system is planned for spring 1994, and is being developed by Harris for both the RS/6000 and its own Night Hawk machines.
+IBM has been driven into the SVR4 camp by customer demands in the US federal government and the telecommunications industry, and the IBM Federal Systems Co is helping Harris out with the work.
+It will provide security and real-time features required by government intelligence and defence agencies, Department of Defense contractors and others.
+It is based on SVR4.2 MP and will offer B2-level security capabilities as defined by the US National Computer Security Center.
+Harris will develop the new operating system to be compatible with the PowerOpen Association's application binary interface which will provide access to applications being developed under PowerOpen standards.
+MOSES OUTLINES OPEN SYSTEMS COMMANDMENTS
+A handful of large open systems users that banded together last year to form MOSES — Massive Open Systems Environment Standards — have published a set of preferred open systems specifications for massively parallel hardware and software vendors.
+Group members include British Telecom International, Burlington Coat Factory, Millipore Corp, US West NewVector, Oracle Corp and Sequent Computer Systems Corp.
+The first four specifications concentrate on event monitoring; backup and recovery, which includes increased backup parallelisation and improved archiving capabilities for databases of 20Gb plus; task management and change management.
+The first of many specifications, the group plans to roll-out more than 30 specifications over the next two years covering areas such as massively parallel databases, systems evaluation, security, disaster recovery, report viewing and data sharing and delivery.
+In anticipation of Moses' demands, some vendors including Computer Associates and systems management start-up OpenVision Technologies Inc (UX No 434), have already begun talking to Moses about product compliance.
+Oracle and Sequent (also Moses members) have already endorsed the group's specifications and will make current and future products Moses-compliant.
+Copies of the specifications can be obtained over the net: tudor! udcsig-request@sun.com.
+HP TO PUT NEXTSTEP UP ON PA RISC
+Following the decision to licence Steve Job's NextStep 486 object oriented operating system on its line of Intel Corp 80486 systems, Hewlett-Packard Co last week bit the bullet and said NextStep version 3.2 will be available on its Precision Architecture RISC-based HP Apollo 9000 series 700 of Unix workstations from the middle of next year.
+Talks between Job's Next Computer Inc and HP date back to the beginning of the year (UX No 416), and the two are now teaming to offer a bundled range of Next software on HP systems, targeted at the financial services industry, under the name Object Enterprise.
+In addition, Next's Portable Distributed Objects system for distributing applications across a network will allow NextStep objects to be deployed on HP-UX servers from the end of the year; the company's NetInfo network management software will be integrated with HP's OpenView system management tools and will also be available on HP-UX servers from the fourth quarter of this year.
+A set of application binary interfaces are currently being developed by NeXT to provide application interoperability between Intel Corp and PA-RISC platforms.
+The two say Open Software Foundation Distributed Computing and Distributed Management Environments and the Object Management Group's Common Object Request Broker Architecture will also feature in Object Enterprise.
+Meanwhile, NeXT also announced the general availability of NeXTStep 3.1 and claims orders for more than 40,000 copies of the software.
+NeXT has signed up Xedoc Software Development Pty Ltd, Melbourne, Australia to market and support its Netinfo network administration tools on HP PA-RISC and DEC Alpha AXP workstations.
+NeXT says DEC, Compaq Computer Corp and NCR Corp are also to offer NeXTstep for Intel processors on some of their 80486-based personal computers, pre-installed or bundled by reseller organisations.
+SUN TEAMS WITH FUJITSU ON MICROSPARC II
+Sun Microsystems Computer Corp and Fujitsu Microelectronics Inc have teamed to design the next-generation highly-integrated, cheap Sparc for low-cost desktop and server, portable and high-end embedded markets.
+The first microSparc II is a three-level metal design in 0.5 micron CMOS due to sample late 1993 (UX No 427).
+MicroSparc II has a new floating point unit, enhanced integer unit and larger cache.
+It uses 3.3V and includes on-chip power management.
+MICROSOFT PREDICTS 1m SALES OF WINDOWS NT IN YEAR ONE
+By William Fellows
+Microsoft Corp formally launched its widely-previewed Windows NT operating system at Windows World in Atlanta, Georgia, last week.
+Windows NT is the Redmond, Washington company's first 32-bit offering — and the first to offer support for multiple processors — and will be available in configurations for client and server systems.
+Client versions of Windows NT are expected to be generally available by June 30, although Microsoft chairman Bill Gates tendered a conservative 60 day timescale for introduction at the launch.
+He described Windows NT as representing ‘nothing less than a fundamental change in the way all companies can address their business requirements.
+Using Windows NT, he said, ‘companies can downsize critical applications, provide high performance personal computing, integrate their exiting desktop  business applications and pull together data from all over the organisation.’
+Windows NT is designed for use on Intel Corp 80386, 80486 and Pentium-based systems, and is also being supported on the Digital Equipment Corp Alpha AXP Silicon Graphics Inc Mips R4000 RISCs — both 64-bit architectures.
+Microsoft claims Windows NT is certified to run on more than 1,000 hardware platforms, including 25 symmetric multiprocessors, supports 650 printers, 50 SCSI peripheral devices, 25 network adapters and 12  different types of display adapters for VGA, SuperVGA and XGA video modes.
+It says 75 application development toolkits are available for Windows NT now — with 175 more expected by year-end — 50 applications already shipping — with 450 more (32-bit packages) due by the end of the year — with 1,500 more under development.
+Microsoft says more than 25% of these are being ported from Unix, VMS, AS/400 and other high-end systems.
+Described as a superset of Windows 3.1 for Workgroups, Windows NT comes with the has Windows interface, Object Linking and Embedding, Dynamic Data Exchange, offers multithreading, security, object management and support for the Win32 application programming interface.
+The Advanced Server version of the operating system additionally includes centralised management and security, remote access services, and network support for Apple Macs.
+Microsoft boasts it could take ‘as little as a year for Windows NT to surpass other established high-end systems as the platform of choice for corporate networking and high-end business applications.’
+However, analysts observe that Microsoft's goal of delivering a million copies in the first year is trifling compared to the 25 million copies of Windows it has shipped since May 1990.
+Nevertheless, they say, Windows NT will be fundamental in Microsoft's strategy to move it business from desktop personal computers — MS-DOS already runs on about 90% of the 140 million PC machines worldwide — to mid-range and high-end systems.
+Microsoft's 24 OEM hardware suppliers have been told to expect client and server Windows NT products from June 15th, though other insiders say the server software may not be around until later in July.
+The products will be available from all usual retail outfits, but Microsoft is separating supply from service.
+Support will be available from leading vendors backed by a contractual support service from Microsoft.
+Microsoft channel partners will supply other services to resellers and support will also be available from Microsoft Connect.
+The desktop, or client, versions of Windows NT will be priced at £400 — $500 — on a per-unit basis, or £250 as an upgrade from Windows 3.1 or OS/2.
+Multiple licence packs start at £340 and go to £28,900 for 100 users.
+Academic rates go from £169.
+Windows NT Advanced Server, which operates a desktop network, will be £1,130 — $1,500 — until the end of the year — £2,300 — $3,000 thereafter.
+The upgrade price from LAN Manager or OS/2 is £470.
+Multiple licence packs start at £960 and go to £18,060 for 20 users.
+The SQL Server for Windows NT, co-developed with Sybase Inc, goes from £800 for a single-user licence to £12,000 for 1,000 users.
+SNA Server for Windows NT for 20 users starts at £p2,000 and rises to £4,800 for 250 users.
+OEMs are expected to get the software at up to 80% off list price, depending on volume.
+Windows NT is not only a challenge to OS/2 — which Microsoft originally developed jointly with IBM Corp but has since abandoned — the but also Unix, which is now installed on some 24 million workstations.
+Indeed Microsoft is pricing Windows NT competitively with the recent desktop Unix entries such as SunSoft Inc's Solaris x86 for Intel which is £600 — $800 — Santa Cruz Operation Inc's Open Desktop 3.0 Lite which retails at £500 — $700 — and Univel Inc's UnixWare, the cheapest Unix on the block at £170 — $250 — for the Personal Edition and £870 — $1,300 — for servers.
+Windows isn't the only trademark Microsoft is having trouble in getting.
+NT is also a no-go.
+Northern Telecom — itself a large Microsoft user — says it has a prior claim to the initials and has told Microsoft it cant use the moniker.
+‘Windows NT is our trademark and product name.
+Please do not abbreviate it to NT,’ the company pleads in its literature.
+IBM WORKPLACE OS KERNEL FROM TALIGENT IS THE KEY TO THE COMPANY's FUTURE PLANS
+By Chris Rose
+The eyes of the world may have been on Microsoft Corp Windows NT, but over at the IBM booth they were pulling out all the stops to show that OS/2 is far from dead.
+Conscious of NT's symmetric multiprocessing abilities, IBM was previewing a beta symmetric multiprocessing version of OS/2  version 2.1 running on a four-way AST Research Inc box.
+But it is clear that the future lies with a microkernel, which IBM dubs the Workplace OS and will be using to host future versions of OS/2, AIX and MS-DOS with Windows.
+If this microkernel sounds familiar, it should — Workplace OS is none other than the extended and neatened Mach-based microkernel that the Taligent Apple-IBM joint venture is using to host its eponymous object-oriented operating system.
+But while Taligent is promising action in 1995, IBM will begin shipping beta microkernels to hardware vendors and people that build ‘personality neutral services’; which means those capabilities common to all operating systems.
+Then in the third quarter the company will ship a beta AIX personality to sit on top of Workplace OS, with an OS/2 Personality following in the last quarter.
+This is not just technological tinkering, according to Lois Dimpfel, PS Director with the Personal Systems Programming Centre at Boca Raton.
+She envisages perhaps two or three beta versions, and then after that we will see a new OS/2 running as a personality on top of Workplace OS.
+At the same time both the old and new versions of OS/2 will get a top-dressing of Taligent technology later this year, in the form of a new object-oriented user interface and programming interface — which sounds rather like Microsoft's Cairo plan.
+The idea is that OS/2 developers who write to the Tali-OS/2 combination will be able to convert them with the minimum of fuss.
+But wait a moment, aren't the people at Taligent talking about OS/2 and AIX personalities (that they call ‘adaptors’) to sit on Taligent?— on the one hand there is a microkernel with Taligent on top and an OS/2 adaptor.
+On the other hand there is the same microkernel, with OS/2 on top running a skinny Taligent layer.
+Yes, that is exactly what is happening.
+IBM senior vice-president and general manager of its personal systems division James Cannavino is totally wrapped up with object technology and believes that it is likely to sweep everything before it.
+It the meantime, getting OS/2 on top of the Workplace OS microkernel should make it processor-independent.
+Ms Dimpfel says almost all the major hardware manufacturers are getting copies of the beta Workplace OS and that IBM is garnering a lot of interest from those that have built their businesses on proprietary, vertical-market operating systems and are interested in putting them up as personalities on a microkernel — such as Workplace OS — that could gain wide industry support.
+ACE LIVES, SORT OF, AS NEC ANNOUNCES CHIP SET FOR ADVANCED RISC MACHINES
+The Advanced Computing Environment lives on, sort of, or if it is dead, NEC Electronics Inc has not heard about it and the Japanese company's contribution to the festivities at Comdex/Spring in Atlanta is the launch of a new reduced instruction set computing chip set, the MCT-DP/MCT-ADR designed to facilitate development of high-performance systems based on the R-series architecture.
+The company also announced the ARC100 and ARC150 manufacturing kits that include the Advanced RISC Computing chip set as well as all of the hardware and software necessary to develop systems to run Microsoft Corp's Windows NT.
+The highly integrated three-chip set acts as an interface to NEC's highest performance microprocessors, the Vr4000 and Vr4400.
+The set consists of two types of devices, the MCT-DP data path controller and the MCT-ADR address path controller, each running at speeds up to 50MHz.
+Two MCT-DP chips are implemented to provide the system's data path for input-output and memory.
+One MCT-ADR chip is required for the address path and system control logic.
+The ADR chip also includes the memory (DRAM) controller, slave mode Vr4000/Vr4400 bus inter face, input-output device control logic, video interface controller, interval counter and direct-memory access controller.
+The ACR chip set features a 64-bit path for graphics and a 128-bit path for main memory.
+Average power dissipation for the MCT-DP is less than 1.2W and for the MCT-ADR less than 1.5W.
+The ARC100 manufacturing kit features all of the necessary hardware and software for a system based on the Vr4000PC or Vr4400PC primary cache CPUs.
+The ARC150 manufacturing kit uses the Vr4000SC or Vr4400SC secondary cache CPUs.
+The kits include an ARC chip set, Vr-Series microprocessor, paper schematics of the system and associated documentation, read-only memory and hardware abstraction language binaries.
+Gerber tapes for the mother and daughter boards are also included.
+The three-chip set is out now at about $100 in quantities of 10,000.
+Both the ARC100 and ARC150 manufacturing kits are planned for July at $5,000 each.
+NEC also expects to provide manufacturing support for the Acer Inc PICA chip set, another Windows NT system design for manufacturers of low-cost machines.
+NEC plans to sample the Vr4200, first member of its low-power line formerly called VrX, by the end of 1993.
+COMDEX AND WINDOWS WORLD NEWS
+By Chris Rose
+Delivering the keynote address at the Windows World annex to Comdex last week, Bill Gates announced that NT source code will be given to some US research institutions, including the Massachusetts Institute of Technology, the University of Washington, Stanford University, Browns University and Xerox Palo Alto Research Center and they will be free to make their own enhancements to the Microsoft Corp operating system.
+Unix System Laboratories Inc has been less encouraging of the university fraternity in recent years, and the move is intended to unsettle the Unix community.
+Gates also claimed NT's Posix interface made it as easy ‘to move applications here as to any of the versions of Unix out there.’
+Among the queue of nervous users invited onto the stage to be interviewed by an avuncular Bill Gates was one from National Westminster Bank Plc, which is developing a document management and workflow system based on 40 multiprocessor Sequent Computer Systems Inc servers and 150 Windows for Workgroups clients.
+Lee Reiswig, head of IBM Personal Software Products says IBM can get NT applications running under OS/2 by implementing a ‘thin layer’ of code — but will do it only when there are sufficient applications.
+Insignia Solutions Ltd, High Wycombe, Buckinghamshire, is reminding the world that in the early days of Microsoft Corp's Windows NT, all anyone will be able to use in it is Insignia's SoftPC — integrated within NT to provide the MS-DOS and 16-bit Windows emulation environment that must suffice for almost all users until 32-bit applications come along — in the version of NT that supports the R-series and Alpha chips, Insignia emulates the iAPX-86 CPU and other hardware including graphics boards, disk controllers and floppy disk drives.
+James Cannavino, IBM Corp senior vice-president and Personal Systems supremo says the company is getting 6,000 to 7,000 calls a day on its OS/2 number requesting details of OS/2 2.1, which is due to ship on June 14: he claims that current sales of OS/2 are running at around 200,000 copies a month.
+He also indicated that IBM would be implementing COSE specifications upon OS/2.
+Cannavino took some time out to explain exactly what Louis Gerstner is doing with regard to the company's restructuring — Gerstner, he says, ‘has stopped any organisation in IBM that was creating a subsidiary just for accounting reasons’— instead, he decided it was better to change the accounting practices —‘which is great’ declares Cannavino, ‘because it means that the accountants are staying up as late as we do now’.
+The multiprocessing version of IBM Corp's OS/2 demonstrated at Comdex will be going into beta test sites this summer: theoretically it is capable of supporting up to 16 processors, but the company humms and hahs about how many are practicable; the  kernel itself is locked so that it runs on a single processor, but this will change in the forthcoming versions using Workplace OS, says IBM's Ms Dimfel.
+Poet Software Corp, Santa Clara, says it has the first object-oriented database system running under Microsoft Corp's NT in the shape of Version 2.0 of the company's Poet object database.
+Poet reckons it has the first object database for NT, but Objectivity Inc is stomping at its heels with the Objectivity/DB Starter Kit for Windows NT, also claiming it to ‘the first object-oriented database management system for Microsoft Corp's Windows NT operating system’.
+It claims that the kit will enable companies to develop distributed, high-performance object-oriented applications that harness the full potential of the 32-bit Windows NT environment — and do it cost-effectively — and it can also be used to develop and deploy object-oriented applications under Windows 3.1.
+The starter kit will be followed by full communications to provide transparent access, storing and sharing of objects distributed in multiple databases and mixed networks of Unix, VMS and Windows NT that use the Network File System protocol.
+It will be available in August at $3,000.
+Banyan Systems Inc says Microsoft Corp's Windows NT has been integrated into its Vines enterprise networks.
+Banyan's Windows NT client support will offer users complete integration into the Vines network with access to Banyan's enterprise network services, all linked together with the StreetTalk III global directory service, enabling NT to be implemented as a Vines client or application server within the Banyan Vines enterprise.
+VMark Software Inc, Framingham, Massachusetts, has wasted no time in getting its Pick-derived uniVerse ‘postrelational database management system’ up under Microsoft Corp's Windows NT and has been demonstrating it in Atlanta.
+UniVerse software provides Windows NT users with immediate access to more than 1,000 proven applications that serve a broad spectrum of individual markets and enables NT users to develop new ones easily, the company claims.
+It offers Structured Query Language and transaction management capabilities with multi-valued fields, variable length records and dynamic re-structuring.
+The product is available now and is $435 per user for licences of four to 63 users and $365 per user for licences of 64 or more users.
+Robert Palmer's chief executive perspectives speech at Windows World was liberally sprinkled with demonstrations of just what you can do with the aid of fast processors like Alpha.
+Most impressive was a demonstration of real-time speech to text, where Digital Equipment Corp's chief tempted fate by getting the machine to translate a few words.
+Not only did the computer get them right but Palmer didn't slow his delivery at all, and the printed word appeared a fraction of a second later.
+The demonstration came courtesy of a piece of software called Sphinx II from the Carnegie Mellon University.
+Sphinx II uses hidden Markov modelling to achieve its results; a set of algorithms developed in the mid to late 1980s.
+What is new, according to DEC consultant engineer Lawrence Stewart, is that hardware now has the horse-power to drive them in real time.
+The version that Palmer played with has a vocabulary of 2,500 words, very small by human standards, though enough for application-specific work such as booking airline tickets, or controlling computer front ends.
+Larger versions are already in the works though — Lawrence says that the company already has a system with a vocabulary of 20,000 words that will happily cope with most stories read out of the Wall Street Journal.
+But the real significance of the demonstration is that for the first time high-powered personal computers are capable of keeping up with normal speech without…the…speaker…doing…this.
+The delay that appeared in the demo, he says, is constant, irrespective of the length of sentence that is being interpreted.
+From here on in, says Lawrence, increased performance and memory will simply lead to larger vocabularies.
+The next real challenges lie in natural language processing — enabling the machine understand exactly what is meant by the rambling, illogical verbalisations in which humans tend to indulge.
+Meanwhile, IBM is particularly proud of its own advanced speech recognition personal computing system, which it was showing off at Comdex.
+The system can be totally operated by spoken commands, eliminating the need for mucking about with rodents or using the keyboard.
+The company says its researchers took six months to extend the concept from a client-server system — as shown at the last Comdex event — to a personal computer.
+The system has a 20,000-word vocabulary and can take dictation at 70 words per minute with 97% accuracy, once it has been trained to a user's pronunciation.
+It is hard to find much at Comdex and the companion Windows World show that is not NT-related this year, and Tivoli Systems Inc winged in from Austin, Texas to announce that, as expected (UX No 434), it will develop a version of its product for NT, and brought along enough gear to demonstrate the Tivoli Management Environment for Windows NT in an early form.
+It says the product will make it easy for systems administrators to manage, configure, change, monitor, and enforce security of NT systems across large networks, and enable systems managers to manage Windows NT and Unix systems, as well as Windows and MS-DOS client machines, from a single, integrated systems-manager's desktop.
+It will start trickling out at the end of the year with a developer's toolkit, and management applications will follow in early 1994.
+Frame Technology Inc, San Jose, is right in there with FrameMaker 3.0 for Windows NT, needless to say claiming it to be the industry's first document publishing application for Windows NT: it will be available customers within 30 days of the first customer ship of Windows NT at $800.
+And Informix Software Inc is also determined not to be left behind should any  rush to NT develop — it says it will first make available Informix-SE, its mid-range relational database management system, under the Windows NT Advanced Server operating environment — just as soon as Microsoft ships.
+The jury will remain out for a year or two yet on whether the operating system can see off the threat from Microsoft Corp and its Windows NT, but Unix is definitely not winning big in the public relations stakes: the Wall Street Journal dismisses Unix as ‘a catch-all term for many operating systems that share some features and a common parentage’.
+TAOS: THE PARALLEL OBJECT-ORIENTED OPERATING SYSTEM THE WORLD IS WAITING FOR?
+By Chris Rose
+Imagine an operating system that is suitable for everything from photo copiers to games consoles to video-graphics work to transaction processing.
+It is completely parallel and can intelligently farm bits of itself and applications across multiple processors, or alternatively sit on just one.
+Now imagine that it is processor-independent and is already running on 80386 and 80486, and Transputers, with the 68000 family, ARM RISC and MIPS R3000 processors a few months away.
+Now say that the applications are completely processor-independent too — that you don't even have to re-compile them to move them from one machine type to another, and indeed bits of them may even wander from processor type to processor type in the course of execution.
+Why not add network support so that if you plug an extra personal computer into the local network, everyone's applications will automatically run a bit faster (and they already run very quickly indeed)?
+Finally, for good measure, let's say that the operating system kernel takes up just 13Kb of RAM and the entire executive and developers code will fit onto a single 720Kb floppy when compressed.
+This is not fantasy, this is a real-life operating called Taos from Tao Systems Ltd, a small company based in North London.
+Moreover Tao claims to have found substantial funding and board-level interest from some of the biggest Japanese computer and electronics companies, the identities of which will be announced this summer.
+Chris Hinsley, Tao Systems chief executive and the operating system's architect claims without a blush that the Japanese computer industry will completely steam-roll the US and Europeans, and that Taos will be the fuel.
+Funding is being provided by a separate marketing company, TK Suppliers, based in Tokyo.
+This has paid for the first phase of development and is entirely owned by a group of Japanese businesspeople plus Francis Charig, formerly head of trading systems business at the London Stock Exchange, who acts as managing director and the link between TK and Tao Systems.
+In this way Tao gets money, but also retains its independence: Charig says that Tao Systems has turned down a number of buy-out bids from the US in the last few months.
+The European Commission didn't prove that helpful either: Hinsley makes no secret of his frustration with the Esprit parallel processing projects, which he sees as obsessed with making Unix parallel — a quest that he sees as fundamentally misguided and doomed to failure in the long term.
+In the end, too, it was the Japanese that turned out to be most amenable to the idea of throwing away and starting from scratch; which is what Taos does.
+Heritage
+Chris Hinsley started off as a successful commercial author of arcade games for home computers, and many of Taos's concepts spring from his original need to produce code that would transfer easily between a plethora of machines.
+The approach he took was to develop a Virtual Processor — a 32-bit machine with 16 registers and support for standard data types and addressing modes, which didn't actually exist.
+All applications, and the bulk of Taos itself is written in Virtual Processor code, so that at run-time the code is loaded onto a real processor and translated on the fly into the chip's native instruction set.
+The practical upshot is that, as long as you have the right translator, the Virtual Processor code will run without modification on any chip.
+The 80386–80486 translator is the latest to be finished after the original Transputer implementations and Hinsley says that now they have first couple under their belts, it will only take a month or two to write each additional processor implementation.
+Moreover you can have heterogeneous networks of different processors all running co-operatively.
+Taos' games-based heritage brings other benefits too.
+Games tend to be inherently object-oriented, says Hinsley (all those sprites moving about and interacting) and games authors often have to cram a lot into a tiny amount of memory while stretching hardware to its limits.
+As a result Taos is object-oriented at a very fine level and it takes the idea of dynamic linking to its logical conclusion.
+This means that instead of being a monolithic operating system running monolithic applications, the program just calls in bits of code as they are needed from libraries of routines — rather the same way that ICL Plc's VME mainframe operating system works.
+Load-balancing
+This accounts for the small size of the Taos microkernel, which provides memory and process management, load balancing and precious little else.
+Even the Virtual Processor translator is retrieved only when needed, and it is Hinsley's boast that no piece of code is ever loaded onto the processor that isn't about to be run.
+As a result, load-balancing also becomes virtually trivial, he says.
+Each processor on the network runs its own copy of the 13Kb microkernel and when a new thread is started, the kernel on that chip compares its loading with its immediate neighbours.
+The calculation takes account of processing power and the speed of communication links, and then the request to start the thread is handed on to the processor with the least to do.
+This processor carries out exactly the same load balancing process until the thread finds a home, is translated by the chip's translator and begins to run.
+Fancy graphics
+All this talk of bits of code being pulled out of disk and cache, being translated on the fly and wandering around networks sounds horrendously slow, but appears in practice to be blindingly fast.
+A personal computer with a single 66MHz 80486 will render a broadcast quality, full screen, complex piece of ray-tracing in less than a minute.
+That is with no fancy graphics chips and using a standard VESA video adapter board.
+The 80486 translator floating point code is still being optimised and in a couple of weeks Charig says that time will be cut to between 20 and 30 seconds.
+This summer the company will have a board, costing around £1,500 containing four MIPS R3050 RISC processors.
+This will slot into a personal computer and enable the 80486 and the MIPS processors run code cooperatively, bringing our same ray trace example down to less than 10 seconds.
+Exactly where all this speed comes from is difficult to pin down; obviously Virtual Processor code is pretty low level stuff and assembler code tends to run quickly by its very nature, however Hinsley is optimistic that the kind of performance seen today will be preserved even when applications are written using the C++ and Parallel Basic compilers that are currently nearing completion — compilers that produce Virtual Processor code, of course.
+Programmers do not need to worry about the fact that their applications may be running in parallel, Hinsley says, they merely need to think about the appropriate size of object and Taos will do the rest.
+Four markets
+A product's quality or degree of innovation is never a guarantee of success and a lot will depend on just how hefty these forthcoming Japanese backers turn out to be.
+So will Taos succeed?
+There are four markets in which its designers say it will do equally well: graphics, we have already outlined; then there are games consoles — Taos' original home territory; and embedded applications: it may sound odd to have Taos running in a photocopier or a drinks machine, but the tiny kernel makes it ideal, says Hinsley.
+It may also seem improbable that the world's transaction processing systems will suddenly switch to Taos, but on the other hand the company is already hard at work building SQL interface objects and others that will confer Posix compliance, it has even chatted to a bank about payroll applications.
+Its acceptance will be helped by the pragmatic approach that Tao Systems is taking in integrating its baby with existing systems.
+So, for example with the 80386 and 80486 implementations, the company has decided to stick with the MS-DOS file system.
+Installing Taos then, is as simple as copying the files to your hard disk, typing TAOS and you're in.
+Similarly, there will be a variant of the 68000 family translator tweaked to make use of the Macintosh file system.
+The trouble is that both the product and the claims made for it are so unusual that it is impossible to predict whether it will disappear, never to be seen again, or become the biggest thing since MS-DOS.
+Towards the end of the demonstration, Hinsley leant back and said ‘of course there's no reason why the fridge shouldn't be doing a bit of your mandelbrot.’
+And he wasn't really joking…
+OSF FIRMS SHOW OFF DCE SPURS
+IBM Corp, Hewlett-Packard Co and DEC got together at the Open Software Foundation's Challenge'93 shindig in Boston last week to demonstrate their implementations of the Distributed Computing Environment.
+IBM showed its offering running on an Enterprise System 9000MVS/ESA mainframe connected to a series of RS/6000 workstations and servers.
+IBM says it will release a a DCE developers kit for VM/ESA next quarter.
+HP had DCE running across both its HP-UX and MPE-based PA-RISC workstations and severs.
+DEC ran its DCE implementation on Alpha AXP OpenVMS and OSF/1 workstations.
+Other DCE-compliant technologies shown at the exhibition included: Transarc Corp's Encina  transaction processing monitor; Atrium Technologies Inc's Dazel distributed-information-delivery system and Sybase Inc's DCE-compliant System 10 prototype.
+OBJECTS: NOVELL SO SERIOUS ABOUT SERIUS IT BUYS IT
+We have been forecasting for some time that the future of applications development would become the linking of objects, and that the keys to the kingdom would be held by the companies that sold the best objects, and Novell Inc seems to think so too.
+It is getting really serious about Serius Corp, the Salt Lake City, Utah start-up where it put up venture capital for an 11% stake early last year.
+It has reached definitive agreement to acquire the company outright, paying $17.25m for the other 89%.
+Serius has developed a library of objects designed to enable non-programmers to create custom applications by simply linking objects on a point-and-click basis.
+In addition to simplifying custom application programming Serius technology simplifies the linking of applications to various network services, be they directories, security or communications.
+And applications built with Serius technology are portable between Apple Computer Inc Macintosh and Microsoft Corp Windows environments.
+The line includes two application builders, Serius Workshop and Serius Developer Pro.
+Libraries of objects, used inside the builders include Serius Database, SQL, Multimedia, Communications and InterApp.
+HP TO BUY METRIX
+Hewlett-Packard Co has definitive agreement to acquire Metrix Systems Inc, Nashua, New Hampshire developer of network management applications, on undisclosed terms.
+The combination will enable Hewlett-Packard to offer a combined combined portfolio consisting of distributed hardware probes and software agents, Embedded Advance Sampling Environment technology products and management applications supported on the most widely-used network management frameworks with HP OpenView, SunNet Manager and NetView 6000.
+NUTCRACKER TO SIMPLIFY UNIX-TO-NT PORTS
+DataFocus thinks it has cracked the code on moving Unix applications to Windows NT.
+The company, a wholly-owned $3 million Virginia subsidiary of publicly held Convergent Solutions Inc, describes its NuTcracker technology as the opposite of Wind/U, the Bristol Technology Windows-on-Unix scheme that may feature in Microsoft's moves to counter WABI.
+(WABI is the just announced SunSelect product for running Windows applications on Unix that is expected to receive widespread industry support as a cudgel against Microsoft's perceived monopolistic ambitions.)
+NuTcracker will reportedly allow Unix source code to run on NT's Win32 APIs.
+DataFocus believes the technology may be of interest to COSE, the anti-NT industry coalition kicked off in March by Sun Microsystems, IBM, HP, the Santa Cruz Operation and Unix System Labs.
+It is reportedly scheduled to meet soon with two unidentified COSE companies.
+DataFocus was the first company ever to move the Posix interface to a non-Unix operating system, in this case Unisys' CTOS.
+It has been working on NuTcracker since the beginning of the year.
+Although the product is still under development, DataFocus has apparently had some good results with a number of unidentified packages.
+An alpha version of NuTcracker is scheduled to make it to the outside world by the end of June followed by a beta by the end of July.
+NuTcracker could be shipping by October targeted at software developers and MIS departments.
+NuTcracker is supposedly unbiased toward any particular brand of Unix although the second version of NuTcracker, scheduled for some unspecified time in the future, should add Sun's Solaris 1.0 calls.
+DataFocus estimates NuTcracker currently handles 80% of all Unix system APIs.
+The rest have to be port by hand, a job that means rewriting about 1% of the code it says.
+Despite that inconvenience, the potential savings offering by NuTcracker, should it prove viable, is not insignificant.
+DataFocus estimates the cost of porting a Unix program to Win32 at anywhere between $250,000 and $1 million.
+The cost of a development site license to NuTcracker with unlimited run-time versions for one application is $50,000.
+The results are a native port to Win32 without changing the code.
+Porting time is halved.
+Testing of course cannot be avoided.
+It's estimated to be 30% of the job.
+NuTcracker provides a set of libraries that links Unix code compiled on NT to the Win32 subsystem.
+The portability is provided by NT and the code is recompiled for each NT environment.
+NuTcracker makes no use of Posix, even the slight Posix.1 component provided in NT.
+NT cannot handle X Windows applications.
+To port X apps over DataFocus must call upon the X portability solutions provided by Hummingbird and DEC otherwise the programs will not adopted a Windows look and feel.
+DataFocus says the look-and-feel technology just isn't there yet and is looking for partners to help master the problem.
+Though it needs Unix software to scale the enterprise, Microsoft is not necessarily partial to a solution such as NuTcracker.
+It would rather the ports be done from scratch to make developers more beholden to Microsoft APIs.
+SPIN-OFF CLAIMS TO MAKE NT & UNIX SOURCE-COMPATIBLE
+University of Utah spin-out Hippo Software Inc in Salt Lake City says it has a $240 package that runs on Windows NT-based PCs that allows developers to write programs that are source code-compatible with both NT and Unix, reports our sister publication ClieNT Server NEWS.
+The package, called Hippix and developed at the university's Center for Software Science, includes Unix commands and libraries that Hippo maintains will let Unix users cost-effectively integrate PCs into their Unix networks by giving them identical tools for both platforms.
+Hippix also runs on OS/2 platforms and Hippo reportedly has an installed base of OS/2 customers.
+The Hippix command set includes a hundred utilities implementing most of the IEEE Posix 1003.2 and 1003.2a draft standards like the general utilities awk, the pattern-directed scanning and processing language, grep, the pattern file searcher, sh, the interactive scripting language, and vi, the text editor.
+It also provides programming utilities such as lex, yacc and rcs which simplify software development.
+Hippo says support for these commands on PCs increases the ease of multi-platform integration and systems admin.
+The Hippix programming library supports 90% of the functions of the Posix 1003.1 System API.
+All Hippix utilities are implemented using functions in the programming library.
+Developers can use 150 functions to implement non-graphical sections of their applications and what results is reportedly source-compatible with Posix-compliant Unix systems.
+The company intends making a beta version of the NT software available next month.
+The commands can be purchased separately for $180.
+Hippix is Hippo's first product and it is currently trying to figure out its target market.
+UNGERMANN-BASS PUTS ITS NETWORK MANAGEMENT SYSTEM UP ON UNIX
+Tandem Computers Inc's networking equipment company Ungermann-Bass Inc has launched a version of its NetDirector network management system for Unix.
+NetDirector for Unix supports Asynchronous Transfer Mode and is based on Hewlett-Packard Co's OpenView.
+The two companies have also announced an agreement to co-operate on local network management technologies.
+NetDirector for Unix consists of Hewlett's OpenView and Network Node Manager application, and Ungermann applications and future third party applications.
+It is an extension of the company's OS/2 network management products.
+It can share information with NetDirector for OS/2, including support for client-server, full implementation of an SQL database and various network management applications.
+First applications supported by NetDirector for Unix will be Ungermann's FocusView network management products for its Access/One Enterprise Hub: Access/One Focus/View, which provides hub management, Ethernet FocusView and Token Ring FocusView.
+The company plans a second release of NetDirector for Unix later this year to include more management applications, improved integration with NetDirector for OS/2 and management of Ungermann-Bass's Virtual Network Architecture.
+PARSYTEC's PARALLEL DESKTOP SYSTEM
+Aachen-based Parsytec GmbH has what it claims to be the world's first high performance parallel desktop system, the Xplorer, based on the Inmos T9000.
+It comprises between eight to 16 Transputers, with a between 8Mb and 32Mb memory on each node.
+Extra input-output interfaces, mass storage subsystems and image processing modules can be added to boost performance, with users offered the choice of Inmos's High Performance Transputer Modules or Parsytec's own Transputer Image Processing modules.
+Up to four Xplorer systems, totalling 64 processors, also can be connected.
+Xplorer supports both the Inmos software tool set and Parsytec's Parix system.
+An eight-processor version will cost around £17,000 and a 16-processor machine £27,000.
+Pre-final spec T9000-based versions will ship in June or July followed by final spec versions in the fourth quarter.
+According to Parsytec, the Xplorer offers users a migration path to its GigaCube massively parallel supercomputers which are also to use T9000s.
+Availability will be as for the Xplorer, with prices starting at £34,000 for an eight-node machine and ranging up to £4m for a 1,000-processor model.
+Meantime, to help users assess the T9000, Parsytec is offering interested parties the chance to bench-test applications using a special evaluation kit.
+This includes a module with T9000, 8Mb memory and T805 processor connected to a Sparc workstation.
+The T9000 memory is laid out as a dual ported memory and is therefore accessible for measurements by the T805.
+Special software running on the workstation parallelises C programs using Parix, ACE compilers and the Inmos C Toolset compiler.
+MINIGRAMS
+IBM UK Ltd expects to have shed a further 2,000 jobs by July after accelerating its cost-cutting programme: it had planned to shed 1,200 this year, but to avoid further ‘bit by bit’ cutbacks the company decided to bring forward further redundancy programmes and two weeks ago, 1,400 staff left on a single day and the company will be down to 12,000 by mid-year.
+Chief executive Nick Temple said ‘We are now at staff levels we want for 1994 and 1995.’
+Colorado Springs-based Cray Computer Corp finally shipped its first Cray-3 supercomputer.
+The Customer for the four-processor 128M-word machine, which has a  2.08ns — 480MHz — clock, ‘fastest in the industry’— is the National Center for Atmospheric Research, which will not pay anything during a six-month trial.
+Edinburgh, Scotland-based 3L Ltd intends to convert its parallel C compiler technology for Digital Equipment Corp's Alpha AXP processor architecture.
+Parallel C/AXP will enable developers to create parallel processing software for board and system level Alpha hardware from both DEC and OEM manufacturers.
+It will be targeted both at systems integrators building top-end embedded systems, and the personal supercomputer market.
+Existing 3L parallel C users will also be able to migrate to Alpha systems by simply recompiling applications.
+One development that did not have too much to do with Windows NT last week was the coming together of Hewlett-Packard Co, IBM Corp, Microsoft Corp and Novell Inc to announce that they will work together to establish, support and implement open standards for network printing management.
+The four agreed to support Simple Network Management Protocol as a standard for managing peripherals on a local area network.
+The IBM Corp board found itself paying out rather more for the services of its new chairman and chief executive: it had to guarantee Louis Gerstner the value of stock and options he holds in RJR Nabisco Holdings Corp.
+Gerstner is still an RJR Nabisco director and is not under any deadline to exercise his options, which run another 11 years.
+The guarantee covers 300,000 shares of RJR stock and options for an additional 3.2m shares, with a guaranteed price of $8.125 a share.
+NT desperately needs its own series of native benchmarks.
+Vendors are  jury-rigging tests, leaning heavily on the old SpecMarks of the Unix workstation crowd though they're not even ported to NT.
+Unfortunately the stuff just doesn't apply.
+Neither does Mips, Dhrystones, PC benchmarks, TP or scientific calculations.
+NeTpower says it will talk to fellow vendors about a testing scheme.
+Silicon Graphics says it's working on a proprietary set of benchmarks that it'll share with others in the fall.
+Intergraph Corp has wielded the axe half a dozen times since last August: 100 employees were laid off a couple of weeks ago — the company reported a $12.5m first quarter loss on revenues of $282m and has 7,000 staff worldwide.
+Taking a page out of Microsoft Corp's book, Intel Corp has a bunch of ‘undocumented’ features in Pentium that it's collected in a thing called ‘Appendix H,’reports our sister publication ClieNT Server NEWS.
+Developers can only get a peek if they sign a non-disclosure agreement.
+People who want to use Pentium or write garden-variety software for it reportedly don't need it.
+But ‘Appendix H’ would be mighty helpful to anyone wanting to reverse engineer the chip as well as those who want to do sophisticated software debugging or develop testing.
+The only part of the OSF's Distributed Computing Environment (DCE) NT is picking up is the Remote Procedure Call (RPC).
+Microsoft isn't using either the OSF API or code but it's own DCE-interoperable RPC.
+The API isn't full enough for DEC's tastes so it's working with Microsoft to expand it.
+David Flack, the esteemed editor of McGraw-Hill's UnixWorld magazine, has hung the tag ‘threatware’ on NT.
+Insiders say engineers at HaL Computer Systems Inc — yet to show a product in the two or more years since its launch — are now working under extreme pressure to make sure they get stuff out of the door on schedule — the situation is described as ‘very tense.’
+DEC is moving back into South Africa with a wholly-owned subsidiary, Digital Sales and Services South Africa (Pty) Ltd, which begins operation on July 1.
+It is also associating with two local companies, Bhekisizwe Computer Systems Pty Ltd and Olivetti Information Technology Pty Ltd.
+Bheki is a new South African firm set up to operate as an authorised value-added reseller of DEC products and systems, and is backed by majority black organisations.
+Tandem Computer Inc has opened a new subsidiary in Budapest, increasing the company's presence in Central and Eastern Europe.
+It has installed a NonStop CLX system for the Hungarian Savings & Commercial Bank, running Base24 software from Tandem's Applied Communications Inc subsidiary.
+On June 15th — the day after its acquisition of Unix System Labs is complete — Novell Inc will announce a new partnership with Oracle Corp on new products and strategies for enterprise network computing, which probably  includes the Oracle database going up on NetWare 4.0.
+Tivoli Systems Inc founder Robert Fabbio's Atrium Technologies, Boston, Massachusetts, will ship Distributed Common System Services, a set of DCE-based services for generic notification, distributed access control and SQL functions in the third quarter: prices go from $5,100 for a 20 node kit to $160,000 for a site licence.
++1 512 328 6977
+It seems we can expect yet-another Intel-based desktop operating system to make an appearance this summer.
+A little company in Golden, Colorado has been working on its own version of Unix for the last year and half, this one called Usix.
+The firm, System 6, apparently got a lot of the work done by an engineering contingent fresh out of the Russian Academy of Science.
+Someone claiming to be in the know told us the other day that the reason DEC president Robert Palmer never showed up at that mammoth Unix strategy briefing session the company put the press and analyst corp through back in February was that he saw the rehearsals and didn't want to be associated with it.
+The executive responsible for it was reportedly banished to Siberia the next day, explaining why John O'Keefe is now in charge of Unix marketing.
+Texas Instruments Inc says it has started production of Sun Microsystems Inc SuperSparc+ RISC and expects to deliver several hundred thousand per quarter.
+Wyse Technology Inc has added a range of entry-level 80486-based Decision 486se Tower systems to its family of Intel Corp iAPX-86 lines.
+The 15 EISA bus machines go from a £1,740 33MHz 80486DX offering to a £5,335 system using a 66MHz 80486DX2 and run SCO Unix, UnixWare, NetWare, Vines, MS-DOS or Windows NT.
+Wyse is looking for value added resellers in the UK.
+Next step for Oracle Corp founder Larry Ellison is to join the board of NeXT Computer Inc, alongside Daniel Case III, president and co-chief executive of Hambrecht & Quist Group Inc; they join Steve Jobs and Keiichi Uno of Canon Inc.
+Santa Cruz Operation Inc, Santa Cruz home of desktop and low-end Unix, got its initial public offering of 6m shares, 3.6m of them new, away at $12.50 a share, to raise about $41.1m net, for which the company did not give plans.
+The managing underwriters for the offer were Goldman, Sachs & Co and Donaldson, Lufkin & Jenrette Securities Corp.
+IBM Corp is expected to launch a full RAID 5 disk array for the RS/6000 using its new 2Gb 3.5″ drives — maybe as soon as Tuesday.
+The tale goes that a little while back, IBM Corp was using street names, reportedly from the Palo Alto town map, as its product code names — Sierra, Summit perhaps — and had been carefully working up the map, so that all you had to do to put a top IBMer into a real flap was to pick a name from the map a couple of streets up from the most recent one you'd heard of and ask how that product was coming along.
+Justifying IBM Corp's move into systems integration and facilities management, Jim Cannavino says that IBM has unrivalled experience of making quite incompatible systems work together —‘mostly our own…‘
