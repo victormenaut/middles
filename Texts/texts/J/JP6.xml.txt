@@ -1,0 +1,324 @@
+
+
+So now we're being recorded.
+All very exciting I hope they can hear us.
+So if we can have some good examples of the English language please.
+
+
+Okay.
+Up to now we've been covering one part of the neural networks.
+Erm in fact we only cov covered one part of one network in fact.
+Er that a form of continuous network er because it has continuous weights.
+Vari lot of variations in different sorts of neural networks.
+We've had different sorts of weights difference sorts of inputs and learning rules as you'll see.
+What I want to cover now is a type of network that we study a lot in the computer architecture group and I've been working with for years and years and years erm called the N tuple network.
+N tuple method.
+It in neural network terms is a binary weighted.
+It means that the weights are typically binary in the network.
+So you can also use lots of different learning rules compar compared to the er networks you see.
+Quite different.
+However even though it is a neural network however, erm you can see it is a pack recognition technique and in fact it was first developed in nineteen fifty nine as the N tuple method er by some chap  Browning erm I think   cos I've never heard of Browning since that paper.
+So what I want to do is to introduce the basic idea of what the learning  does and how the network sort of works underne underneath it.
+And then show how you represent it as a neural network and the various flavours of it.
+Straight off why it's more important or why it's important to tell you about it is because it's a very fast network.
+All the other networks we see, I think the networks we've seen not many of them are slow in learning.
+And they're slow in learning because they optimize er using this learning rule.
+Exactly where the surface has to be.
+The N tuple method takes a totally different approach as you will see.
+So how's it work?
+Well it's extremely simple and if you're any good at digital electronics it should be an absolute doddle for you.
+Cos in fact it's erm can be seen er as creating functions in digital circuits.
+In very simple terms.
+One of the reasons for its speed comes from that.
+So we've got some examples here of some patterns that we want to learn using the N tuple method and tuple and tuple.
+Erm example there of T. You'll recognize the T. Now the first thing I should remind you is of course that to recognize anything we must have something to compare it against.
+Okay to say how similar it is to one thing to another.
+I've talked to you about that before.
+But anyway we're just picking one particular example here and we've got a T. And it's a very small er example of a pattern.
+It's got three bytery pixels and the first thing you notice is the pixels are binary.
+They're not continuous.
+And in the N tuple method as it's first defined the er pixels were only binary.
+It's called the N tuple method is because the first thing we do is to take that image and break it up into a set of tuples each of N in size.
+Okay?
+And what we've got N here we've selected as three and so we've broken it up into three tuples because another rule in the method even though it can be broken is that each pixel can only go into one tuple.
+So we've got the first one here F one second one here F two and the third one F three.
+Okay.
+Once you've done that what we actually do is to look for for sub-patterns in those tuples.
+Of course we've got the training and testing the same as in normal networks.
+The training is of recording which sub-patterns occur or which patterns occur within the tuple.
+Testing consists of identifying which of the known ones which of the known er sub-patterns er occur in my new input.
+Let's just see an example of that.
+F one here is this sub-pattern here for this training example.
+We've got not X one not X two not X three and I think on your examples you've actually got them labelled.
+Erm which means that each one of those is off.
+The logical er function there determinately simple.
+F two the second tuple X four is on X five is off X six is on and the same sort of thing for F three there.
+So what we've done is we've applied a simple learning rule which just says remember the sub-patterns.
+Terribly trivial.
+And you wonder how it would ever be any good at anything.
+So that's what I hope to show you.
+Once you've trained it like that to test it on this pattern all you do is take the pack into the system and see whether you can  
+ 
+these tuples again.
+So here we'd actually have a match of all three saying that we've recognized it to a level three.
+Okay erm on that particular pattern.
+Now as it stands that's all it knows.
+And if if this was covered up here I E this this black dot was say made white let's say, we'd only have two matching and if that was made white we'd have one and then if we changed at all that top row we'd have zero matching.
+So what we can what it effectively does is count sort of sub-patterns within the whole pattern and how well we're recognizing those.
+It's rather like what we talked about right at the beginning we talked about picking out features from our image such as the the width the height er the grey area or whatever of the image.
+Now in that case we had to select those measures er by knowledge of the problem.
+A tuple is a very similar sort of thing.
+It it's a it's a measurement area here for example, but all it does is record the binary pattern er under that area.
+We've actually taken three measurement areas.
+One here one in the middle one at the bottom.
+The important thing is that they're very arbitrary.
+You you don't have to know anything about the problem to specify them.
+Where we're taking measures from the image er such as height width etcetera we'd have to know a lot about the image to take those measures.
+The important thing about the N tuple method is that you don't make any assumptions about the image apart from it's just a set of binary digits.
+Okay.
+Which is one of the the strengths of course for that sort of thing.
+So what we're doing effectively is seeing how many features we recognize in our in our er example image.
+Generalization which we'll come to a lot later as well in a lot more depth er is very important in these  systems.
+I may want to recognize this pattern as well as that pattern.
+But I may want to recognize that just as well as that.
+I E at the moment this pattern fed into these functions here gives us three matching functions.
+If we add an extra term to the bottom of here representing this extra changed pattern okay? this pattern will match just as well as that er our functions.
+I E this one gives us a a value of three.
+So really that's it as far as the N tuple method is.
+You're just measuring sub sub-patterns of the image counting how many of those match in training in testing and that count is a measure of similarity.
+You can think about it and it's very useful to think about it as a as a distance measure in a sense.
+It's a very complex distance measure compared to the ones we've looked at.
+But it is a distance measure.
+Cos this whole function plus the summation of of how many terms match is a measure of how similar our unknown pattern is er to all our known ones that we've trained the system on.
+But it's rather strange and er certainly not  distance measure but it is a it is a measure.
+And of course the whole thing is very easy to compute.
+Really after the N tuple method was defined in nineteen fifty nine erm the next person who came along that did anything with it was Igor Alexander  supervisor that's why I work on this area.
+Got a lot to blame to blame for I must admit.
+What he did he saw he saw the method and saw well this is quite neat.
+We can actually implement it very efficiently in hardware.
+We can made a very fast recognition system out of it.
+What we've got here is a very conventional piece of logic that implements what I've talked about.
+We've got two tuples so I've given the example again we've got two tuples of two  two one here and one here.
+We'd have other ones as well but just to show this particular example just to keep it small I'll make it small.
+We then have binary decoders.
+And as you know binary decoders list all the possible states of the input erm conditions.
+So here we've got binary inputs to there must be two to the two outputs I E four possible combinations.
+And here's the truth table for this particular decoder.
+Okay?
+And these you should remember are basically the terms I gave on the previous page.
+Same as these terms here except.
+So the decoders are actually listing all the possible terms of the inputs.
+The memory cells here of course recalled whether that term occurred during training.
+So I present this pattern I push it through the decoders and I see that that line's maybe is active so I put a one in there to record the fact that that logic term er occurred.
+And similarly for this er decoder down here this section down here.
+So training is very easy to implement like that with a few memory cells and a binary decoder.
+Recall is similarly very simple you present the input pattern pushing through the decoders and instead of reading from these memory locations, sorry  writing  from these memory locations, you read from them okay.
+So in this case you get  this R would  be activated and we access this location here which would be summed into summation to give us our response of well two maybe in this particular case.
+And if it actually recognized it.
+Okay so we can implement it like that in hardware but the major benefit and this was done sort of like sixties sort of sixty nine seventy was to realize that you could put it into a little package like that which of course is a random access memory.
+The tuple lines are the address inputs into your random access memory.
+The memory is just the memory the data input stores the one for the address location and the data output stores the output.
+And you've gotta rewrite signal to tell you whether it's gotta learn or to recognize the image.
+Now here's an interesting story about this er.
+Igor Alexander who who as I say recognizes started to build these these little cells these things before random access memories came along.
+He called them erm, what were they  something it was.
+Something strange like that.
+But the point was that random access memories never existed when he first did this.
+And he went to Plessey and asked Plessey if he could implement these little functions on micro circuits.
+I E sort of er the L S I type circuits.
+And he got some packages made but unfortunately he didn't patent the idea  because what he actually was made what he actually made was random access memories.
+Erm and had he had he patented it or I don't know about exactly the timing, he might have made himself an absolute fortune.
+Not that he was interested particularly but er it's an interesting story.
+Erm he did that when he was at erm er now where was it Kent, University of Kent.
+Just the strange things that again you know it's it's having an idea and recognizing it that it would be useful.
+It's something that er not always happens like in the back propagation learning  and people who invented it didn't realize it was that that important and didn't advertise it.
+He invented the random access memory but er didn't tell anybody about it.
+Never mind.
+Okay so we can implement this sort of thing in er using random access memories.
+And as such of course in run load you can make this thing go in the order of tens of nanoseconds probably less to recognize an image.
+But as I say every year er if I ever find an application where you need this sort of speed I'd like to hear about it.
+Erm there's very few applications that need to recognize anything in that amount of time.
+The only small idea that I have and I don't think it's particularly practical is for a sort of oscilloscope triggering mechanism often, which is in fact one you get in logic analysers anyway.
+But er often you might want to trigger off a particular pattern coming on the trace.
+And you might have to you have to do that in in the order of nanoseconds.
+But of course something like this would do that but you have to allow for the jitter as well and this sort of algorithm might might be the way to do it.
+I think there are a few others but not many.
+So if you implement it totally in parallel you can go very fast.
+Typically we don't we implement it in software and even in software it's very quick because computers are ideally set up to implement these sort of systems.
+So it's great.
+It's the right sort of technology.
+We've got the right sort of computer technology to implement these erm we can move out from there into the neural network world.
+And of course it's very hard to see this as a neural network.
+So we could ask ourselves, well very nice but where does neural networks fit in.
+Fact recognition method it's a piece of hardware and one of the things that's clear actually is that er the Alexander worlds and all sorts of other people that were working on this don't look at them in this way and they look at these as I say ram blocks.
+Erm as a result they call them weightless networks which we actually hate because they're not weightless.
+If you actually represent them like I've just shown you.
+You can change the diagram very slightly and they look just like the normal neural network.
+In fact it's very much like the higher order networks that I talked about in the last lecture er I think it was the last lecture but one, and the networks which pre-process the data before they're presented to the network by some higher  function.
+What you have here is basically a single neuron with a of weights, the weights on the circles here are the binary elements in the random access memory.
+The weight you know the storage locations.
+The decoders here are just non-linear functions, they're just binary non-linear functions they happen to be but they're non-linear.
+Now if we recognize it as that we immediately see that the method is, well why the method works in neural network terms.
+If you remember a single  network is a linear classifier and can't solve non-linearly sol soluble problems.
+To get round that one of the approaches that I talked about was to pre-process the data.
+I E or formalize it in some way.
+Force it through some some functions.
+So that's what these decoders do.
+Er such that it is hopefully linearly separable.
+Now one of the problems over all that is to say, well is it?
+How can can it always solve the problem?
+Well it can't it doesn't always solve the problem.
+In fact recognition you don't have to guarantee that you will solve the problem.
+Because even though this is a this is a linear network it can be effectively seen as a network effectively with a unit here and a unit here and maybe one weight.
+If it was seen like that you can't actually solve a erm a linear problem which occurs between these two sets of units.
+You will see that in a second but there are limitations with it.
+Erm which are okay for fact recognition but not so good for more sorts of analysis problems.
+But we'll see that in a second.
+Okay so you can view it as a as a single neuron with some er decoders .
+The other important thing is that the learning rule is not a graded descent learning rule or a searching lear learning rule as we've seen before.
+Remember what we do with the network normally is to present an input get an output see if it's correct.
+If it is correct we don't do anything and if it isn't correct we use that error to adjust the weights.
+Now here we've got binary weights.
+So it's either setting or not setting the weights and in the N tuple rule all we do is in fact set the weights.
+So we present the pattern.
+We could test it to see if we get an output, we don't but we could do, there's no need because all we have to do in effect is just set the weights of the decoders that are actually coming out.
+But the decoders that are the decoder lines that are active.
+
+
+Sometimes that learning method is called the  Hebean learning rule erm because it's the sort of thing you find in animals erm Donald  a famous what was he a famous neurophysiologist.
+He came up with this how neurons actually did learn.
+By the way neuron I haven't said that but the the  learning rule is n is not biologically plausible.
+And a lot of learning rules aren't biologically plausible.
+Erm this happens to be as well.
+as an aside.
+For a multi class problem where you've got more than one neuron more than one class you might display the system like this.
+It's a slightly different way of looking at neuron networks than perhaps we've seen before.
+Because we have this matrix here.
+But what we've effectively got is a neuron here a neuron here and a neuron here and we've got our three classes.
+And we pre-process the data as I say commonly for all the neurons before we present it to our three neurons.
+Testing for these sort of systems erm we had to decide which of these responses is best.
+Well as you see we can count the number of terms that actually match from our training sets.
+So this example here we might find that that matches that matches we get a response of two from here and we get a response less than the response from here and the same response from this.
+We have to make a decision on those responses just like in a normal network.
+Now we could just take the pattern of responses out of there as being some  classes.
+You can do what you like really.
+Erm but the easiest one is obviously to take the maximum responding output from here as er an indication of which class is belongs to.
+Okay so that's er a very straightforward sort of thing.
+The other thing you should remember is that there are all sorts of confidences that you can apply to these sort of things.
+That if we had a response here of two one zeros I've scored at the bottom of that, we've actually got two of the logic terms matching from this particular class.
+One of the logic terms matching from this particular class and none for this particular class.
+How well how how sure are we of this result here.
+Well we're too sure aren't we.
+We're saying that we've got two of our our particular sub-patterns matching.
+Cos we've got a response of two.
+Here we've got one.
+So we might say, Well our overall confidence is two but our relative confidence which is saying how different it is from everything else is only one.
+And you actually do get two types of of of threshold erm confidence in these sort of systems.
+There's this absolute confidence which is the absolute output of maximum responding neuron.
+Then there's the relative confidence which is to say how much stronger is that particular output compared to any others.
+And both of those factors can be important in judging how the system's doing.
+Okay that basic architecture is if you want the vanilla sort of architecture for the  entrical stuff.
+Erm there are a lot of variations upon it which er make it interesting and we'll see later also how the thing actually does work and all its properties.
+The variations to the system come in a number of forms.
+First of all that the input can be grey scale of course instead of binary.
+So how does the system cope with that.
+Well we've only got binary decoders here so we have to cope we have to change something.
+maybe we change the decoders maybe we change the inputs.
+There's a whole section of how we do that.
+These this array of weights is binary.
+Well we could have continuous weights in that particular array possibly.
+What what benefit would that do for us.
+Of course it it screws up the implementation er if you want to implement in hardware and these aren't binary weights it starts to make the the circuitry a bit more complicated.
+The third thing is in this summation function, why do we use a summation function.
+I mean in the neural network terms we just use a summation function.
+But we should ask ourselves why are we using that and what's the effect of using other functions in there such as maybe an and or an or where we or the responses out of here or we an them.
+Because now we've got a binary network we can do different things.
+It's the equivalent to in a neural network saying instead of saying the weights times the inputs all summed, we'll take each weight times its input and multiply it with each weight times its input so we do the product of all the inputs times the weights.
+Erm what effect would that have.
+And that's interesting to see in pattern recognition terms.
+Really that brings out one of the benefits of of using this sort of network because you can analyse it.
+You can look right into it and you can actually find out the behaviour of it fully.
+You can see how well it generalizes you can see how well you can implement it.
+Which is nice.
+Okay I think you've got a corrected slide here.
+Erm this is my attempt at a formal definition of the network.
+Erm it helps you if you want to work out exactly how it works and work through it.
+This is not the corrected version you've got the corrected version.
+Erm and through this we can see where the different variations come in the system and introduce one or two other ones.
+What we've got also is indicated a bit of how we might process it if we implement this sort of thing.
+The sort of implementations we've got.
+We've got an input pattern.
+Okay we've got er example P, er sorry class example P plus R. We've got a T vector which is basically after you've taken the input pattern just after you've tupled it.
+So we take our input pattern and we produce a vector here called T which we then present to this lot here.
+We've got a weight array which is the normal sort of thing we'd have.
+Training is a simple p simple algorithm this is how you would actually implement it properly.
+I mean it introduces a an interesting thing.
+What we'd effectively do which  code, what effectively do of course is we we trundle down here checking to see if any of these are set to one and if they are set to one we set a weight in memory.
+Now if you're gonna be writing in software you don't actually look at it like that maybe and it is also a useful way to generalize these decoders.
+What these decoders actually do is take the input and assign one of four particular states.
+Where a state is whatever the particular sub-pattern is on here.
+Now if you view the output of these as a state number you can generalize the the behaviour of these decoders and you can generalize them to anything you want.
+It could be an X square function that produces a number which indicates which line you should activate.
+That's really how this is written down here.
+You go through all the example patterns.
+For each the example pattern you compute er this input tuple vector.
+So we take our example we put it through these decoders.
+Before we do this we have to apply a mapping function M. The mapping function is important because as I say these wires are connected to these pixels here.
+I must know exactly how those are connected in which order.
+But as we'll see later the different sort of connections that you have er affect the behaviour of it.
+Er if you get the connections wrong er sometimes it won't recognize it.
+So this mapping function is quite crucial in in the operation.
+So you map it onto the tuple array and then all the tuples so you take each tuple in in order.
+You set the weight one sorry the weight, it's probably it's it's hard to explain it like that, but you apply the decoder function F here F bracket to the particular tuple and you get a state J. So you set the weight for that particular state.
+W R I J, there's a J there there's a J there okay.
+So effectively we take our input pattern we take our tuple we force is through our function here we get our value out sum value of of the tuple and that's J and that indicates within the weight array that we're looking at which weight we actually set.
+Funny way of looking at it I know but it's sort of to give you an idea of how how the different ways you can actually do this this mechanism and brings out the er variations.
+Lots of ways of writing it.
+Testing is the same sort of thing but this brings out the different functions that I talked about either summations or or products.
+Do the same sort of thing you need a response array first for the result.
+In this case we've got an unknown pattern.
+We do exactly the same mapping our input pattern onto our tuples.
+We then apply our tupling function F to get J and then we sum for all tuples over all states the weights times the inputs.
+A very strange way of writing it again but basically it comes down to the following.
+As I say we take our tuple push it through our decoder and get our state here J that's the easy bit.
+But why write it like this.
+Cos what we're doing is going for each N tuple we go through each set of states here.
+Mathematically it's very difficult to do this.
+You could use a chronic  adulter to actually write it a bit easier but er I didn't know about that when I wrote these slides many many years ago and it's carried on since.
+Er we write it like this.
+Erm so you actually scan down here and where you, which is abetting the state act from here, is one you set the weight in the memory.
+A horrible way of explaining it but er it's some attempt at some some preciseness.
+Okay.
+As I say the variations on the system are alteration of this summation in here to a product or .
+And having that mathematical description allows us to change that from summing all the N tuple to doing a product of all N tuple.
+What that basically means again is that for this particular blank here that we're look at okay, the state value U might be one the weight might be one okay and we get that out of that cos we're just going through all these here and seeing which one's going to be one.
+We then instead of adding those particular outputs we don't we we sum them.
+Don't forget that each of these decoders only produces one ac active output line okay.
+So in this case this one might be active corresponding to that weight there that that makes that whole ban bank set to one.
+This bank might be set to one as well or zero and then you sum those together which is that summation there, or you can do a product there's a product there.
+Basically a product is equivalent to an and.
+A product is a continuous form of an and.
+We'll see what what the benefit of of that is in generalizationship in a second.
+What I've put down here is the way you alter that simple description to give you a continuous weight rather than a binary weight.
+During training what we do in the training algorithm is is of course set a a link here or a weight here to one if the output of my decoder is set to one.
+Okay that's easy.
+In a continuous form instead of just setting a binary link here we actually count the number of times this particular line is set to one.
+Basically what we're doing is to count during training how often a sub-pattern a tuple has a particular state has a particular pattern.
+And that's very useful in sort of more statistical type problems er as we'll see later.
+So basically what that's done is introduce the variations of the letters.
+I'm gonna go through each one of those sort of variations in a bit more depth er later on.
+But er I hope to give you an idea for that.
+So let's have a look at it and see how it works.
+I mean the basic mechanism is very simple as I say.
+First thing we want to have a look at is how it generalizes.
+As I say the method has got to recognize things it hasn't seen before.
+Like with all neural networks.
+Now normal neural networks perform generalizations by, okay having some space yep? having our examples here and our examples here and maybe setting a line in between that.
+Such that any new example one down here can be seen as being belonging to that set okay?
+Now thinking about what we've just seen how does that relate to that.
+Very difficult.
+We've got our single layer network as we know so we take all our inputs we push them through the decoders and we've got our single layer after that.
+But there is a straight line in there somewhere.
+But we do this pre-processing.
+Now the pre-processing makes the patterns makes the thing linearly soluble.
+So if we add an example using the N tuple technique of the exclusive or problem for example er like that we want to see how the network would solve that okay in terms of a single layer network.
